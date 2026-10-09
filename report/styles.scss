@@ -1,0 +1,97 @@
+/*-- scss:defaults --*/
+$primary: #2a78d6;
+$body-color: #1f2933;
+$headings-color: #14213d;
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+$link-color: #1f5fae;
+$code-color: #8a3b12;
+$border-radius: 8px;
+
+/*-- scss:rules --*/
+// Title banner
+.quarto-title-banner {
+  background: linear-gradient(135deg, #14213d 0%, #1f4f8a 100%);
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  .quarto-title .title { font-weight: 700; letter-spacing: -0.01em; line-height: 1.2; }
+  .subtitle { opacity: 0.85; font-weight: 400; }
+}
+.quarto-title-meta-heading { letter-spacing: 0.06em; font-size: 0.72rem; opacity: 0.8; }
+
+// Section headings
+h2 {
+  font-weight: 700;
+  margin-top: 2.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid #e4e9f0;
+}
+
+// Key-number tiles
+.stat-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.75rem;
+  margin: 0.5rem 0 1.75rem;
+}
+.stat {
+  background: #f4f7fb;
+  border: 1px solid #e1e8f0;
+  border-left: 4px solid $primary;
+  border-radius: $border-radius;
+  padding: 0.8rem 1rem;
+  .num { font-size: 1.65rem; font-weight: 700; color: #14213d; line-height: 1.15; }
+  .lbl { font-size: 0.84rem; color: #52606d; margin-top: 0.2rem; line-height: 1.35; }
+  &.warn { border-left-color: #eb6834; }
+}
+
+// Tables
+.table {
+  font-size: 0.92rem;
+  margin-bottom: 0.5rem;
+  thead th { background: #f4f7fb; border-bottom: 2px solid #c9d4e2 !important; }
+  tbody tr:nth-child(even) { background: #fafbfd; }
+  td, th { padding: 0.55rem 0.7rem; }
+}
+
+// Figures and captions
+.quarto-figure img {
+  border: 1px solid #e4e9f0;
+  border-radius: $border-radius;
+  padding: 0.5rem;
+  background: #fff;
+}
+figcaption, .figure-caption, caption {
+  font-size: 0.86rem;
+  color: #52606d;
+}
+
+// Inline code (file and package names)
+p code, li code {
+  background: #f6f1ec;
+  padding: 0.05em 0.35em;
+  border-radius: 4px;
+  font-size: 0.86em;
+}
+
+// Margin citations
+.margin-aside, .column-margin, .footnote-back { font-size: 0.8rem; line-height: 1.45; color: #52606d; }
+
+// Table of contents
+#TOC .nav-link.active, #quarto-margin-sidebar .nav-link.active { font-weight: 600; }
+
+// Long URLs in citations wrap instead of overflowing
+.footnotes, .margin-aside, .column-margin, #quarto-margin-sidebar, .footnote { overflow-wrap: anywhere; word-break: break-word; }
+main a { overflow-wrap: anywhere; }
+
+// Wide tables scroll inside their box on small screens
+@media (max-width: 767.98px) {
+  .cell-output-display, .table-responsive, main table { display: block; overflow-x: auto; }
+  .quarto-title-banner .quarto-title .title { font-size: 1.6rem; }
+}
+
+// PDF download link under the key numbers
+.pdf-link { margin: -0.75rem 0 1.5rem; font-size: 0.9rem; }
+.pdf-link a { text-decoration: none; font-weight: 600; }
+.pdf-link a::before { content: "\2193\00a0"; }

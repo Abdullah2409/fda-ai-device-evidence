@@ -7,8 +7,16 @@ subtitle: "90-819 Python Programming II · Final Project"
 format:
   html:
     embed-resources: true
+    theme: [cosmo, styles.scss]
+    title-block-banner: true
     toc: true
+    toc-location: left
+    toc-title: "Contents"
+    toc-depth: 2
+    reference-location: margin
+    smooth-scroll: true
     fig-width: 7
+    format-links: false
   typst:
     toc: false
     fig-width: 6.5
@@ -57,6 +65,23 @@ n_recalled, n_ae = int(model["recalled"].sum()), int(model["any_ae"].sum())
 or_val = logit.loc["Clinically validated", "odds_ratio"]
 pulled = manifest.loc[manifest["file"] == "data/raw/api/recalls.json", "pulled_utc"].iloc[0][:10]
 ```
+
+::: {.content-visible when-format="html"}
+```{python}
+#| label: stat-tiles
+from IPython.display import HTML
+tiles = [
+    (f"{n_model:,}", "AI devices analyzed", ""),
+    (f"{n_recalled}", f"recalled after clearance ({base_rate:.1%})", ""),
+    (f"{1 / or_val:.1f}×", "odds of recall without reported clinical validation", "warn"),
+    (f"{perf[(LOGIT, 'AUC (ROC)')]:.2f}", "AUC of the recall model", ""),
+]
+HTML('<div class="stat-row">' + "".join(
+    f'<div class="stat {c}"><div class="num">{n}</div><div class="lbl">{l}</div></div>' for n, l, c in tiles
+) + "</div>"
+     '<p class="pdf-link"><a href="report.pdf">Download the PDF version</a></p>')
+```
+:::
 
 ## 1. Question
 

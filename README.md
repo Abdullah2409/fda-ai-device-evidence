@@ -4,7 +4,8 @@
 more often, or generate more adverse event reports, than devices backed by clinical testing?**
 
 Final project for CMU 90-819 Python Programming II (Fall 2026), Abdullah Arshad.
-The report is [`report/report.pdf`](report/report.pdf) (also [`report/report.html`](report/report.html)).
+**Read the report online: <https://fda-ai-device-evidence-report.vercel.app>** (also as
+[`report/report.pdf`](report/report.pdf) and [`report/report.html`](report/report.html)).
 The analysis follows the submitted [analysis plan](docs/Analysis_Plan_Abdullah_Arshad.pdf).
 
 ## Findings
