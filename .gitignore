@@ -1,0 +1,20 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+
+# large or regenerable data (re-create with src/01_download.py and src/04_scrape_summaries.py)
+data/interim/pdfs/
+data/interim/*.sqlite
+
+# quarto output
+report/*_files/
+report/.quarto/
+
+# local working notes (not part of the submission)
+CLAUDE.md
+plan.md
+final_project_summary.md
