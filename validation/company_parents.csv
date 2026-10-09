@@ -1,0 +1,40 @@
+pattern,parent,public,listing,confidence,note
+^siemens (medical|healthcare|healthineers|shenzhen),Siemens Healthineers AG,1,XETRA:SHL,high,Siemens Healthineers subsidiaries; not SEC-registered
+^varian medical,Siemens Healthineers AG,1,XETRA:SHL,high,Varian acquired by Siemens Healthineers 2021
+^canon (medical|inc),Canon Inc.,1,SEC:CAJPY,high,Canon Medical Systems is a Canon Inc. subsidiary
+^olea medical,Canon Inc.,1,SEC:CAJPY,check,Olea Medical is part of the Canon group
+^shanghai united imaging healthcare,Shanghai United Imaging Healthcare,1,SSE:688271,high,Listed on Shanghai STAR market
+^(shanghai )?united imaging intelligence,United Imaging Intelligence,0,,check,Sister company of United Imaging Healthcare; treated as private
+^ge (medical|healthcare|hualun|precision),GE HealthCare Technologies Inc.,1,SEC:GEHC,high,GE HealthCare subsidiaries
+^caption health,GE HealthCare Technologies Inc.,1,SEC:GEHC,high,Acquired by GE HealthCare 2023
+^mim software,GE HealthCare Technologies Inc.,1,SEC:GEHC,high,Acquired by GE HealthCare 2024
+^philips,Koninklijke Philips N.V.,1,SEC:PHG,high,Philips subsidiaries
+^dia imaging analysis,Koninklijke Philips N.V.,1,SEC:PHG,high,Acquired by Philips 2022
+^samsung,Samsung Electronics Co. Ltd.,1,KRX:005930,high,Samsung Medison is a Samsung Electronics subsidiary
+^sonio,Samsung Electronics Co. Ltd.,1,KRX:005930,check,Acquired by Samsung Medison 2024
+^fujifilm,Fujifilm Holdings Corp.,1,TSE:4901,high,Listed in Tokyo
+^hologic,Hologic Inc.,0,,check,Taken private by Blackstone/TPG (2025); absent from SEC tickers file
+^zebra medical vision,Nano-X Imaging Ltd.,1,SEC:NNOX,high,Acquired by Nanox 2021
+^(deephealth|quantib|aidence),RadNet Inc.,1,SEC:RDNT,high,RadNet AI subsidiaries
+^icad,RadNet Inc.,1,SEC:RDNT,check,iCAD was itself listed (ICAD) before RadNet acquisition (2025)
+^arterys,Tempus AI Inc.,1,SEC:TEM,high,Acquired by Tempus 2023
+^(medicrea|medtronic),Medtronic plc,1,SEC:MDT,high,Medtronic subsidiaries
+^abbott,Abbott Laboratories,1,SEC:ABT,high,Abbott subsidiaries
+^verily,Alphabet Inc.,1,SEC:GOOGL,high,Verily is an Alphabet subsidiary
+^irhythm,iRhythm Holdings Inc.,1,SEC:IRTC,high,Name differs from SEC entity
+^exini,Lantheus Holdings Inc.,1,SEC:LNTH,check,EXINI acquired via Progenics (Lantheus 2020)
+^eos imaging,Alphatec Holdings Inc.,1,SEC:ATEC,check,Acquired by Alphatec 2021
+^disior,Zimmer Biomet Holdings Inc.,1,SEC:ZBH,check,Disior acquired by Paragon 28 (2022); Paragon 28 acquired by Zimmer Biomet (2025)
+^renalytix,Renalytix plc,1,SEC:RNLXY,high,US subsidiary of Renalytix plc
+^raysearch,RaySearch Laboratories AB,1,STO:RAY-B,high,Nasdaq Stockholm
+^elekta,Elekta AB,1,STO:EKTA-B,high,Nasdaq Stockholm
+^cellavision,CellaVision AB,1,STO:CEVI,high,Nasdaq Stockholm
+^lunit,Lunit Inc.,1,KOSDAQ:328130,high,Korea
+^(vuno|jlk|coreline soft|deepnoid),Listed Korean AI company,1,KOSDAQ,check,KOSDAQ-listed Korean medical AI firms
+^impedimed,ImpediMed Ltd.,1,ASX:IPD,high,Australia
+^resonance health,Resonance Health Ltd.,1,ASX:RHT,high,Australia
+^medicalgorithmics,Medicalgorithmics S.A.,1,WSE:MDG,high,Warsaw
+^cosmo artificial intelligence,Cosmo Pharmaceuticals N.V.,1,SIX:COPN,check,Subsidiary of Cosmo Pharmaceuticals
+^ventripoint,Ventripoint Diagnostics Ltd.,1,TSXV:VPT,check,TSX Venture
+^esaote,Esaote S.p.A.,0,,high,Delisted 2017; private
+^brainlab,Brainlab AG,0,,high,Private (2025 IPO withdrawn)
