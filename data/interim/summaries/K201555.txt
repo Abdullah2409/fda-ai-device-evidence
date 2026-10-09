@@ -1,0 +1,239 @@
+December 18, 2020
+Ultromics Ltd.
+℅ Mr. Neela Hassanali
+Head of Regulatory
+4630 Kingsgate, Cascade Way, Oxford Business Park South
+Oxford, Oxfordshire OX4 2SU
+UNITED KINGDOM
+Re: K201555
+Trade/Device Name: EchoGo Pro
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological computer-assisted diagnostic software for lesions
+suspicious of cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: November 8, 2020
+Received: November 10, 2020
+Dear Mr. Hassanali:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.21
+Silver Spring, MD 20993
+www.fda.govK201555 - Mr. Neela Hassanali Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(K) SUMMARY
+The Company’s 510(k) Summary is provided on the following pages.
+6-1510(k) SUMMARY K201555
+1. Submitter
+Company & Address: Ultromics Ltd
+4630 Kingsgate
+Cascade Way
+Oxford Business Park South
+Oxford, OX4 2SU
+203-906-4644
+Contact Person: Neelam Hassanali
+Contact Email: neelam.hasssanali@ultromics.com
+Date Prepared: June 8, 2020
+Date Updated: December 16, 2020
+2. Device
+Name of Device: EchoGo Pro
+Common or Usual Name: Computer-Assisted Diagnostic Software (CADx)
+Classification Name: Computer-Assisted Diagnostic Software (CADx) for lesions
+suspicious for cancer
+Regulation: 21 CFR §892.2060
+Regulatory Class: II
+Product Code: POK
+3. Predicate Device
+Koios Medical, Inc. Koios DS For Breast device (K190442)
+The predicate device has not been subject to a design-related recall.
+4. Device Description
+EchoGo Pro v1.0.2 is a standalone software application that utilizes anonymized DICOM 3.0
+compliant stress echo (SE) datasets to provide a categorical assessment as to whether the data are
+suggestive of a higher or lower possibility of significant CAD. The software automatically
+registers images, and segments and analyses selected regions of interest (ROI). EchoGo Pro v1.0.2
+utilizes standard clinical SE protocols that provide apical 2 chamber, 4 chamber and parasternal
+short axis (SAX) views.
+Ultrasound images are acquired from a third-party acquisition device. The incoming DICOM study
+is checked for consistency and completeness, i.e. whether all required views labels are present in
+6-2the DICOM metadata. Once the technical QC has been performed on the DICOM datasets, the
+algorithm for automated contour detection of the endocardium of the LV is applied and presented
+for review and approval by trained Operators. An auto-contouring algorithm places a trace around
+the LV that sufficiently captures the LV shape. Outlining is detected for all frames in between and
+including end-systole (ES) and end-diastole (ED) for AP2, AP4, and mid-ventricular short axis
+(SAX) views of the LV at both rest and peak stress. Trained operators review and approve of the
+contour traces. The approved contour traces are used in calculations for geometric parameters.
+Geometric parameters are calculated from the approved contours and are fed into a fixed
+classification model that has been previously trained on datasets with known outcomes. The output
+of the pre-trained model generates a report which contains a categorical assessment as to whether
+the data are consistent with significant CAD or not. Significant CAD as determined by EchoGo
+Pro, based on LV segmentation (ROI) analysis, and was defined as ≥70% stenosis in the proximal
+to mid LAD, proximal left circumflex or proximal to mid RCA as measured by invasive
+angiography performed within 6 months of stress echocardiogram.
+5. Indications for Use
+EchoGo Pro v1.0.2 is a machine learning-based decision support system, indicated as an adjunct
+to diagnostic stress echocardiography for patients undergoing assessment for coronary artery
+disease (CAD). When utilized by an interpreting physician, this device provides information that
+may be useful in rendering an accurate diagnosis. Patient management decisions should not be
+made solely on the results of the EchoGo Pro v1.0.2 analysis. EchoGo Pro v1.0.2 is to be used
+with stress echo exam protocols that contain A2C, A4C and mid-ventricular short-axis views at
+rest and at peak stress. EchoGo Pro vl.0.2 is not intended for the assessment of mild or moderate
+myocardial ischemia, or localization of coronary artery disease, or for the assessment of
+myocardial perfusion, myocardial viability or valve disease.
+Limitations: EchoGo Pro v1.0.2 has not been validated on patients who underwent previous coronary
+artery bypass graft (CABG) surgery.”
+6. Comparison of Intended Use
+The intended use of the EchoGo Pro and the predicate, Koios DS For Breast device (K190442), is
+to act as a diagnostic aid using machine learning to assist trained interpreting physicians in
+analyzing ultrasound images and characterize ultrasound image features for given regions of
+interest (ROIs) to generate a categorical output. Both devices:
+ are used as an aid to diagnosis (not for primary diagnosis).
+ are intended for patients being referred for further diagnostic ultrasound examination.
+6-3 requires a user to select multiple ROIs, from multiple orthogonal views, that represent a
+single anatomical feature to be processed.
+ are intended to help trained interpreting physicians improve their overall accuracy as well
+as reduce inter-operator variability.
+ intended use population includes patients presenting with disease through any form of
+imaging or physical examination resulting in a referral for diagnostic ultrasound - thus
+covering diagnostic imaging workup or the evaluation of known disease.
+The indications for use for the EchoGo Pro and Koios DS for Breast differ in that the EchoGo Pro
+is indicated for patients undergoing assessment for coronary artery disease, whereas the Koios DS
+for Breast is indicated for patients with soft tissue breast lesions examination. As such, the subject
+device provides a categorical output related to coronary artery disease whereas the predicate device
+provides a categorical output that aligns to BI-RADS and auto-classified shape and orientation.
+The difference in Indications for Use statement does not affect the safety and effectiveness of the
+device when used as labeled. Both the subject and predicate devices have the same intended use
+for characterizing image features for given ROIs to generate categorical output that is used as an
+aid to diagnosis.
+7. Comparison of Technological Characteristics with the Predicate Device
+The technical principle of both the EchoGo Pro and the predicate is characterization of ultrasound
+image features with ROIs to generate a categorical output. The results of the output are used as an
+aid to diagnosis. Both devices provide computer analytics based on morphological and
+enhancement characteristics that the predicate device refers to as imaging features that are then
+synthesized by an artificial intelligence (machine learning) algorithm into a categorical output. At
+a high level, the subject and predicate devices are based on the following same technological
+elements:
+ Generation of a categorical output that analyzes imaging features relative to a dataset of
+known ground truth
+ Software as a medical device (SaMD)
+ Use of artificial intelligence / Machine Learning-Based Algorithm
+ Characterization of image features with ROIs to generate categorical output
+ Ultrasound modality for analysis
+ Input is images provided in a DICOM format
+ Images can be viewed
+ Selection of multiple views for processing
+6-4 Allow for ROIs to be selected in multiple views for the assessment of one anatomical
+feature
+ Assess views that are orthogonal
+ Operates on a Windows platform
+ Operates on off the shelf hardware
+ Output is a report which is returned to the physician for review
+ Output of the system is to be used as a diagnostic aid
+The following technological differences exist between the subject and predicate devices:
+ ROI are selected automatically by the subject device and by the user in the predicate device.
+ The output of the subject pre-trained model gives a categorical assessment as to whether
+the data are suggestive of a higher or lower possibility of significant coronary artery disease
+or not, whereas the predicate device uses a pre-trained model to provide an indication of
+the probability as to whether the data are indicative of cancer or not.
+ While both devices generate a categorical output that analyzes imaging features relative to
+a dataset of known ground truth, the predicate device generates a four-level and the subject
+device generates a two-level output. The predicate device provides four categorical
+outputs: Benign, Probably Benign, Suspicious, Probably Malignant vs. two for the subject
+device: Stress Echocardiogram ROIs are suggestive of a higher possibility of significant
+CAD, Stress Echocardiogram ROIs are suggestive of a lower possibility of significant
+CAD. The predicate device also provides output related to shape, orientation, and
+confidence level. The subject device does not provide this information on the report;
+however, the user can see shape and orientation of the image while using the device.
+8. Performance Data
+Software Verification and Validation Testing
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this device
+is considered as a “moderate” level of concern, since a failure or latent design flaw could indirectly
+result in minor injury to the patient or operator through incorrect or delayed information or through
+the action of a care provider.
+Performance / Clinical Testing
+6-5The objective of performance testing was to assess the clinical indication and substantial
+equivalence of EchoGo Pro by demonstrating:
+ The difference between the diagnostic performance of readers when interpreting ultrasound
+studies with and without the assistance of EchoGo Pro v1.0.2 is equivalent or better than
+that of the predicate device.
+ The difference between inter-operator agreement when interpreting ultrasound studies with
+and without the assistance of EchoGo Pro v1.0.2. is equivalent or better than that of the
+predicate device.
+Per the primary endpoint of the study, ROC curves were generated and analyzed. All AUROC
+curves were computed via the trapezoidal approximation. Based on the standard error
+measurements, the error was propagated to estimate the mean performance interface and 95%
+confidence interval. This was found to be 0.054 (95%CI 0.032, 0.077) at p = 0.02, satisfying the
+acceptance criteria for the primary endpoint. The increase in reader performance with EchoGo Pro
+v1.0.2 exceeded the mean reader improvement in the AUROC reported for Koios DS in K190442,
+which was 0.034. The system achieved a native system performance of 0.927 AUROC, with
+specificity of 0.927 (95% CI 0.878, 0.976) and a sensitivity of 0.844 (95% CI 0.739, 0.950), greater
+than the native system performance reported for the predicate device (K190442) of 0.882.
+To characterize the effect of the EchoGo Pro v1.0.2 (USE + EGP) system on inter-clinician
+variability, the Kendall Tau-B correlation coefficient was computed in a pairwise manner for all
+readers. The metric was > 0 for all reader pairs. The standard error for USE + EGP and USE Alone
+was computed to assess if the shifts in the metric were significant. The average Kendall Tau-B of
+USE Alone was 0.58 (0.48, 0.69) and the average Kendall Tau-B of USE + EGP was 0.82 (0.72,
+0.93) with 95% CI demonstrating a significant increase in the metric (p<0.001). The increase in
+reader agreement with EchoGo Pro v1.0.2 exceeded the mean Kendall Tau-B improvement
+reported for Koios DS in K190442, which was 0.1393.
+Based on the substantial equivalence evaluation, which is derived from the nonclinical and clinical
+tests demonstrate that the device is as safe, as effective, and performs as well as or better than the
+legally marketed device predicate, we have determined that the EchoGo Pro is substantially
+equivalent to the predicate device.
+9. Conclusions
+EchoGo Pro is as safe and effective as the Koios DS For Breast device. EchoGo Pro has the same
+intended uses and similar technological characteristics and principles of operation as its predicate
+device. The minor differences in indications do not alter the intended use of the device and do not
+affect its safety and effectiveness when used as labeled. In addition, the minor technological
+differences between the EchoGo Pro and its predicate devices raise no new issues of safety or
+effectiveness. Performance data, including software verification and validation and performance
+6-6testing demonstrate that the EchoGo Pro is as safe and effective as the Koios DS For Breast device,
+and therefore substantially equivalent.
+6-7

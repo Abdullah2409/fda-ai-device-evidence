@@ -1,0 +1,406 @@
+See-Mode Technologies Pte. Ltd. September 16, 2020
+℅ Mr. Alan Donald
+President
+Matrix Medical Consulting, Inc.
+8880 Rio San Diego Drive, Suite 800
+SAN DIEGO CA 92108
+Re: K201369
+Trade/Device Name: AVA (Augmented Vascular Analysis)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: August 17, 2020
+Received: August 19, 2020
+Dear Mr. Donald:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or post-marketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-K201369 – Mr. Alan Donald Page 2
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK201369
+TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+SECTION 5 510(k) Summary
+This "510(k) Summary" was prepared per section 807.92(c).
+ADMINISTRATIVE INFORMATION
+Date of Preparation: September 14, 2020
+​
+Prepared by: Sadaf Monajemi, PhD. Cofounder and Director
+Manufacturer: See-Mode Technologies Pte. Ltd.
+32 Carpenter Street #03-01
+Singapore 059911
+SINGAPORE
+Email: sadaf@see-mode.com
+​
+Tel: +61 415 952 782
+www.see-mode.com
+Official Contact: Dr. Sadaf Monajemi, PhD, Cofounder and Director
+See-Mode Technologies
+32 Carpenter Street #03-01
+Singapore 059911
+SINGAPORE
+Email: sadaf@see-mode.com
+www.see-mode.com
+DEVICE NAME AND CLASSIFICATION
+Trade/Proprietary Name: AVA (Augmented Vascular Analysis)
+​
+Common Name: Picture archiving and communications system
+​
+Regulation Number: 21 CFR 892.2050
+​
+Regulation Name: Picture archiving and communications system
+​
+Classification Name: System, Image Processing, Radiological
+​
+Review Panel: Radiology
+​
+Regulatory Class: Class II
+​
+Product Code: LLZ
+​
+INTENDED USE
+Analysis and reporting of vascular ultrasound images.
+Page 1TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+INDICATIONS FOR USE
+See-Mode AVA (Augmented Vascular Analysis) is a stand-alone, image processing software
+for analysis, measurement, and reporting of DICOM-compliant vascular ultrasound images
+obtained from carotid and lower limb arteries. The analysis includes segmentation of
+vessels walls and measurement of the intima-media thickness (IMT) of the carotid artery in
+B-Mode images, finding velocities in Doppler images, and reading annotations on the
+images. The software generates a vascular ultrasound report based on the image analysis
+results to be reviewed and approved by a qualified clinician after performing quality
+control. The client software is designed to run on a standard desktop or laptop computer.
+See-Mode AVA is intended to be used by trained medical professionals, including but not
+limited to physicians and medical technicians. The software is not intended to be used as an
+independent source of medical advice, or to determine or recommend a course of action or
+treatment for patients.
+DEVICE DESCRIPTION
+See-Mode AVA (Augmented Vascular Analysis) is a standalone software for analysis and
+reporting of vascular ultrasound images. There is no dedicated medical equipment
+required for operation of this software except for an ultrasound machine that is the source
+of image acquisition. The software runs on a standard off-the-shelf computer and is
+accessible within a web browser.
+See-Mode AVA takes as input DICOM-compliant vascular ultrasound images. The software
+uses proprietary algorithms for image analysis, including segmentation of vessel walls and
+measurement of the intima-media thickness (IMT) of the carotid artery in B-Mode images
+and finding peak systolic and end diastolic velocities (PSV and EDV) from Doppler images.
+The software generates a vascular ultrasound report based on the image analysis results to
+be reviewed and approved by a qualified clinician after performing quality control. Any
+information within this report must be fully reviewed and approved by a qualified clinician
+before the vascular ultrasound report is finalized.
+See-Mode AVA is not intended to be used as an independent source of analysis and
+reporting vascular ultrasound images. Any information provided by the software has to be
+reviewed by a qualified clinician (including sonographers, radiologists, neurologists, and
+cardiologists) and can be modified to correct any possible mistakes. The software provides
+multiple methods for performing quality control and modification of image analysis results.
+When the vascular ultrasound report is finalized by a qualified clinician, See-Mode AVA
+exports the report. This report can be used adjunctly with other medical data by a
+physician to help in the assessment of the cardiovascular health of the patient.
+Page 2TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+SUBSTANTIAL EQUIVALENCE
+1. Predicate Device
+Manufacturer: AtheroPoint LLC
+​
+Trade Name: AtheroEdge
+​
+510(k) Identifier: K122022
+​
+Regulation Number: 21 CFR 892.2050
+​
+Regulation Name: Picture archiving and communications system
+​
+Classification Name: System, Image Processing, Radiological
+​
+Review Panel: Radiology
+​
+Regulatory Class: Class II
+​
+Product Code: LLZ
+​
+Date Cleared: September 26, 2012
+​
+2. Tabular Comparison of Features and Specifications of the AVA Device and
+Predicate Device
+Subject Device Predicate Device Notes
+Manufacturer See-Mode Technologies Pte. Ltd. Atheropoint LLC
+See-Mode AVA (Augmented Vascular
+Product name AtheroEdge
+Analysis)
+510(k) number Via this submission K122022
+Class II - 90 LLZ
+Classification Class II - 90 LLZ 892.2050/LLZ Same
+892.2050/LLZ
+Same
+Analysis and reporting of vascular Analysis and reporting of
+Intended Use
+ultrasound images vascular ultrasound images
+See-Mode AVA (Augmented Vascular The AtheroEdgeTM
+Nearly the
+Analysis) is a stand-alone, image software is a
+same. See
+Indications for Use processing software for analysis, Windows-based application
+​ discussion
+measurement, and reporting of program used on a personal
+below.
+DICOM-compliant vascular ultrasound computer for an automatic
+images obtained from carotid and lower measurement of the
+Page 3TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+limb arteries. The analysis includes Intima-Media Thickness
+segmentation of vessels walls and (IMT) of the carotid artery
+measurement of the intima-media from images obtained from
+thickness (IMT) of the carotid artery in ultrasound systems.
+B-Mode images, finding velocities in
+Doppler images, and reading annotations
+on the images. The software generates a
+vascular ultrasound report based on the
+image analysis results to be reviewed and
+approved by a qualified clinician after
+performing quality control. The client
+software is designed to run on a standard
+desktop or laptop computer.
+See-Mode AVA is intended to be used by
+trained medical professionals, including
+but not limited to physicians and medical
+technicians. The software is not intended
+to be used as an independent source of
+medical advice, or to determine or
+recommend a course of action or
+treatment for patients.
+Image Source Ultrasound images Ultrasound images Same
+Rx only? Yes Yes Same
+Nearly the
+The software runs on a standard Stand-alone application
+same. See
+Operating “off-the-shelf” computer and can be program for use on a
+discussion
+Platform accessed within the software client web personal computer with
+below.
+browser. Microsoft Windows.
+DICOM, JPEG and Windows
+Image Format DICOM Same
+BMP
+Image storage and
+Yes Yes Same
+report generation
+Automatic
+Same
+distance
+measurement of
+Yes Yes
+the Intima- Media
+thickness of
+carotid artery
+Page 4TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+Image
+JPEG Loss-less JPEG Loss-less Same
+Compression
+As the device is prescription
+As the device is prescription only, the Same
+only, the target population of
+target population of the device is anyone
+the device is anyone in the
+Target Population in the general population that receives
+general population that
+the relevant carotid or lower limb artery
+receives the relevant carotid
+ultrasound scan
+ultrasound scan
+3. Discussion of Similarities and Differences and Explanation of Differences
+Similarities:
+Both devices have the same intended use and are indicated for the same use --
+providing a software based user’s interface to view, process, and analyze carotid
+ultrasound images. Both devices use algorithms to segment and measure intima
+media thickness, and can store the results and generate reports.
+The predicate device was cleared based on non-clinical supportive information,
+clinical images and data. Comparative non-clinical test results demonstrate that
+See-Mode AVA performs at least equivalently to the predicate device. Acceptance
+criteria and verification and validation data demonstrate that the device performs
+per its specifications and indications for use.
+The comparison of technological characteristics, non-clinical performance data,
+clinical images, and software validation data demonstrate that See-Mode AVA is as
+safe, and effective when compared to the predicate device that is currently
+marketed for the same intended use and indications for use.
+Differences:
+1. Image processing algorithm:
+The predicate device was designed using technology that was available a few years
+ago, [i.e., software programming using traditional image processing algorithms
+Page 5TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+(such as edge tracking and gradient based algorithms)]. See references cited below
+for the predicate device1, 2.
+​ ​ ​
+​
+With the advancements in the field of artificial intelligence and machine learning,
+See-Mode AVA incorporates a logical update to use artificial intelligence for image
+analysis. Machine learning and artificial intelligence (AI) have been proven as an
+efficient and accurate method for analyzing medical images and is used among a
+wide range of legally marketed medical devices. See-Mode AVA benefits from the
+established machine learning methods to analyze ultrasound images and represents
+an improved technology that provides a clinically meaningful advantage over the
+legally marketed predicate device. See-Mode has conducted an Analytical Study to
+substantiate this claim (see Performance Data below).
+2. Operating platform:
+The predicate device is designed to be installed on a personal computer with
+Microsoft Windows.
+See-Mode AVA benefits from the advancements of cloud computing and is a
+software program running on a cloud platform and can be accessed using multiple
+platforms, including Windows.
+Although the Predicate device slightly differs from the Subject device with regards
+to the operating platform, there are several examples of FDA cleared medical
+devices that use cloud platforms for medical image analysis (examples: Aidoc
+Briefcase Software - 510(k) Number K180647, CardioLogs ECG Analysis Platform -
+510(k) Number K170568, Arterys Cardio DL - 510(k) Number K163253). Based on
+this, and in combination with identification of hazards and appropriate risk controls
+related to this difference, we conclude that this difference in technology platform
+has no adverse impact on the safety or efficacy of the Subject device. Additionally,
+the fact that all users are utilizing the same (e.g., latest version) of the AVA software
+is considered to be an improvement to both safety and efficacy when compared to
+the predicate device.
+3. Analyzing lower limb ultrasound images:
+1 "Completely Automated Multiresolution Edge Snapper—A New ...."
+https://ieeexplore.ieee.org/iel5/83/6151934/06026248.pdf.
+​
+2 "Automated high-performance cIMT measurement techniques using ...."
+https://www.ncbi.nlm.nih.gov/pubmed/22255864.
+​
+Page 6TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+See-Mode AVA can be used for analysis and reporting of lower limb ultrasound
+scans. Using the text recognition and the signal processing algorithm, the software
+can read doppler velocities and annotations from the images, detect the waveform
+type, populate them in the report and generate qualitative drawings of the stenosis
+in lower limb arteries based on doppler velocity ratios.
+PERFORMANCE DATA
+Safety and performance of the subject device has been evaluated, verified and validated
+according to the software specifications and applicable performance standards. See-Mode
+Technologies has performed software verification and validation testing for the subject
+device according to the FDA’s guidance document “Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices”, as well as “IEC 62304:2006/AC:
+2015 - Medical Device Software - Software Lifecycle Processes”.
+The performance of the device has been evaluated on a retrospective dataset from multiple
+centers. A summary of the performance data is provided below:
+● Performance of the segmentation of B-mode carotid ultrasound images and
+measurement of intima-media thickness (IMT): The performance of the neural
+network was evaluated on a retrospective dataset of 205 longitudinal B-mode
+carotid images that were obtained using commercially available ultrasound systems
+using commercial linear transducers (including a 12-3 MHz linear transducer, and a
+12-5 MHz linear transducer). The performance of the subject device was compared
+against 2 expert readers’ measurements and the reported performance of the
+predicate device. It was observed that the results of the algorithm is strongly
+correlated with experts’ annotations with IMT correlation coefficient of 0.89 with
+the average of two experts, while the IMT correlation coefficient between the two
+experts was 0.86. It was also observed that the results of the subject device
+outperforms the reported results of the predicate device with reported correlation
+coefficient of 0.6.
+● Performance of the text recognition algorithm for reading annotations from
+the images: The performance of the text recognition algorithm was evaluated on a
+​
+retrospective vascular ultrasound dataset. The performance was measured
+separately for reading different types of annotations (such as reading the vessel
+names or doppler velocities) with different number of test images varying from 783
+to 1432 images. The text recognition algorithm had a high accuracy in reading
+different types of annotation varying from 92% to 96%.
+● Performance of the signal processing algorithm for analysing doppler
+Page 7TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+waveforms: The performance of the signal processing algorithm for reading peak
+​
+systolic velocity (PSV) and end diastolic velocity (EDV) was evaluated against the
+annotations (i.e. PSV and EDV values) on the images annotated by clinicians at the
+time of image acquisition. The comparison was done on a dataset of 1117 images
+where each image contains one EDV and one PSV value annotated on the image.
+Correlation coefficient and Bland-Altman plots were used to evaluate the
+performance of the signal processing algorithm. Correlation coefficient of 0.98 and
+0.97 was obtained for reading PSV and EDV respectively.
+● Performance of the waveform type classifier on lower limb doppler images:
+​
+The performance of the doppler waveform type classifier (monophasic, biphasic, or
+triphasic) on lower limb images was evaluated on a collection of 150 images that
+represents the breadth of the use cases observed in the clinical field for classifying
+the waveform type in lower limb arteries. The performance was evaluated against
+the annotations (i.e. waveform type) by expert readers. It was observed that the
+algorithm was in strong agreement with the expert annotations with a 93% overall
+accuracy in detecting the waveform type.
+Based on the performance data as well as the Verification and Validation Results,
+See-Mode Technologies believes that the subject device is substantially equivalent to the
+predicate and outperforms regarding the segmentation of B-mode carotid ultrasound
+images and measurement of intima-media thickness (IMT).
+See-mode’s risk analysis for AVA was completed, with the hazard risk analysis submitted as
+part of this application. All the risks identified with the subject device are acceptable and
+have been reduced as far as possible, in accordance with ISO 14971:2007 Medical devices -
+Application of risk management to medical devices.
+The proposed medical device is considered as a Moderate Level of Concern following FDA
+Guidance document “Guidance for the Content of Premarket Submissions for Software
+Contained in Medical Devices” and the required software documentation per FDA’s
+guidance have been provided as part of the submission.
+Conclusions
+In terms of user safety, similar devices have been utilized for many years with an excellent
+record of safety. The software technologies are the same as those in the predicate device
+and other legally marketed devices, and they are used for similar applications in similar
+manners. There are no new additional safety concerns raised by these technologies.
+Page 8TRADITIONAL 510K
+AVA (Augmented Vascular Analysis)
+Performance of the segmentation of B-mode carotid ultrasound images and measurement
+of intima-media thickness (IMT) outperformed the predicate device. The text recognition
+algorithm for reading annotations of images, the signal processing algorithm for analysing
+doppler waveforms and the waveform type classifier on lower limb doppler images were
+all strongly correlated with the expert readers’ annotations.. The high degree of reliability
+in performance showcases the safety and efficacy of See-Mode’s AVA. Furthermore, risks
+identified during the risk management process have been mitigated as far as possible and
+all residuals risks have been deemed acceptable.
+The predicate device was cleared based on non-clinical supportive information. Similar
+non-clinical and the analytical study highlighted, shows that AVA’s acceptance criteria are
+adequate for the intended use of the device. The comparison of technological
+characteristics, indications for use, non-clinical performance data, software verification and
+validation, and risk analysis demonstrates that the subject device is safe and effective and
+is substantially equivalent to the predicate device that has the same intended use.
+Page 9

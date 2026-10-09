@@ -1,0 +1,50 @@
+Downloading 1614 summaries with 4 workers
+  100/1614 (12s)
+  200/1614 (22s)
+  300/1614 (38s)
+  400/1614 (48s)
+  500/1614 (58s)
+  600/1614 (68s)
+  700/1614 (79s)
+  800/1614 (89s)
+  900/1614 (103s)
+  1000/1614 (112s)
+  1100/1614 (122s)
+  1200/1614 (131s)
+  1300/1614 (142s)
+  1400/1614 (151s)
+  1500/1614 (159s)
+  1600/1614 (173s)
+  1614/1614 (174s)
+status
+direct     1605
+cached        5
+missing       4
+
+Extracting text from 1610 PDFs
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+MediaBox missing from /Page (and not inherited), defaulting to US Letter
+MediaBox missing from /Page (and not inherited), defaulting to US Letter
+/Users/abdullaharshad/CMU Courses/Python-2/fda-ai-device-evidence/src/04_scrape_summaries.py:176: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  print("scanned (needs OCR):", int(log["scanned"].fillna(False).astype(bool).sum()))
+
+wrote /Users/abdullaharshad/CMU Courses/Python-2/fda-ai-device-evidence/data/interim/scrape_log.csv
+by pathway (found / total):
+pathway
+510(k)     1551 / 1553
+De Novo        38 / 40
+PMA            16 / 21
+scanned (needs OCR): 8
+extract errors: 1

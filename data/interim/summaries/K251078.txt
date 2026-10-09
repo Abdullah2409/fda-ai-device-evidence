@@ -1,0 +1,481 @@
+November 14, 2025
+EOS imaging
+℅ Mathilde Masurel
+Design Quality and Regulatory Affairs Specialist
+32 rue blanche
+PARIS, 75009
+FRANCE
+Re: K251078
+Trade/Device Name: AutoDensity
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: April 8, 2025
+Received: October 14, 2025
+Dear Mathilde Masurel:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.08.02
+Silver Spring, MD 20993
+www.fda.govK251078 - Mathilde Masurel Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K251078 - Mathilde Masurel Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lu Jiang
+Lu Jiang, Ph.D.
+Assistant Director
+Diagnostic X-Ray Systems Team
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K251078
+Device Name
+AutoDensity
+Indications for Use (Describe)
+AutoDensity is a post-processing software intended to estimate spine Bone Mineral Density (BMD) from EOSedge dual
+energy images for orthopedic pre-surgical assessment applications. It is an opportunistic tool that enables immediate
+assessment of bone density from EOSedge images acquired for other purposes.
+AutoDensity is not intended to replace DXA screening. Suspected low BMD should be confirmed by a DXA exam.
+Clinical judgment and experience are required to properly use the software.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFTraditional 510(k) Premarket Notification
+AutoDensity
+510(k) Summary
+K251078
+Page 1 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+This 510(k) summary of safety and effectiveness is being submitted in accordance with the
+requirements of 21 CFR 807.92.
+1 SUBMITTER
+EOS imaging
+32 rue Blanche
+Paris, France 75009
+Phone: +33 1 55 25 60 60
+Fax: +33 1 55 25 60 61
+Contact Person: Mathilde MASUREL
+Design Quality and Regulatory Affairs Specialist
+EOS imaging
+Contact Phone: +33 1 55 25 60 60
+Date Summary Prepared: November 10, 2025
+2 DEVICE
+Trade Name: AutoDensity
+Common or Usual Name: Medical Image processing software for Bone Mineral
+Density evaluation
+Classification Name: Medical Image Management and Processing System
+(21 C.F.R. § 892.2050)
+Regulatory Class: Class II
+Product Code: QIH
+3 LEGALLY MARKETED PREDICATE DEVICE
+510(k) Product Name Clearance Date
+K251747 VEA Align August 2025
+4 REFERENCE DEVICE
+510(k) Product Name Clearance Date
+K072847 APEX Software for QDR X-Ray Bone Densitometers December 2007
+5 DEVICE DESCRIPTION
+Based on EOSedge™ system’s images acquired with the dual energy protocols cleared in
+K233920, AutoDensity software provides an estimate of the Bone Mineral Density (BMD) for L1-
+L4 in EOSedge AP radiographs of the spine. These values are used to aid in BMD estimation in
+orthopedic surgical planning workflows to help inform patient assessment and surgical decisions.
+AutoDensity is opportunistic in nature and provides BMD information with equivalent radiation
+Page 2 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+dose compared to the EOSedge images concurrently acquired and used for general radiographic
+exams. AutoDensity is not intended to replace DXA screening.
+6 INDICATIONS FOR USE
+AutoDensity is a post-processing software intended to estimate spine Bone Mineral Density
+(BMD) from EOSedge dual energy images for orthopedic pre-surgical assessment applications.
+It is an opportunistic tool that enables immediate assessment of bone density from EOSedge
+images acquired for other purposes.
+AutoDensity is not intended to replace DXA screening. Suspected low BMD should be confirmed
+by a DXA exam.
+Clinical judgment and experience are required to properly use the software.
+7 TECHNOLOGICAL COMPARISON TO PREDICATE
+The subject device was compared to its predicate device and reference device in intended use,
+indications for use, design, function and technology and it was demonstrated that it is substantially
+equivalent. Any technological differences within this 510(k), between the subject device and the
+predicate or reference device, do not impact substantial equivalence, or safety and effectiveness.
+Page 3 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+Specification Predicate Reference Device Subject Device
+Manufacturer EOS imaging Hologic EOS imaging
+Substantial Equivalence
+APEX Software for QDR X- Discussion
+System VEA Align (K251747) Ray Bone Densitometers AutoDensity
+(K072847)
+Product Code QIH KGI QIH Yes, same as predicate
+Device Classification II II II Yes, same as predicate
+Device Classification Medical Image Management and Medical Image Management and
+Bone Densitometer Yes, same as predicate
+Name Processing System Processing System
+Regulation Number §892.2050 §892.1170 §892.2050 Yes, same as predicate
+This cloud-based software is The APEX for QDR X-Ray Bone AutoDensity is a post-processing Yes, the subject device intended
+intended for orthopedic Densitometers is indicated for software intended to estimate use/indications for use are
+applications in both pediatric and the estimation of bone mineral spine Bone Mineral Density substantially equivalent to the
+adult populations. density (BMD), comparison of (BMD) from EOSedge dual predicate device as both devices
+measured variables obtained energy images for orthopedic intended/indicated to provide clinical
+2D X-ray images acquired in
+from a given QDR scan to a pre-surgical assessment parameters from X-ray images
+EOS imaging’s imaging systems
+database of reference values, applications. It is an acquired by EOS imaging system
+is the foundation and resource to
+the estimation of fracture risk, opportunistic tool that enables (EOSedge) for orthopedic pre-
+display the interactive landmarks
+vertebral deformity assessment, immediate assessment of bone surgical assessment applications
+overlayed on the frontal and
+body composition analysis, and density from EOSedge images (alignment parameters for the
+lateral images.
+discrimination of bone from acquired for other purposes. predicate and BMD for the subject
+These landmarks are available prosthetics using the Hologic device).
+AutoDensity is not intended to
+Intended use / for users to assess patient- QDR® X-Ray Bone
+replace DXA screening.
+Indications specific global alignment. Densitometers.
+Suspected low BMD should be
+For additional assessment, IVA scans are intended for the confirmed by a DXA exam.
+alignment parameters compared visualization or quantitative
+Clinical judgment and experience
+to published normative values assessment of vertebral body
+are required to properly use the
+may be available. deformities. IVA also allows the
+software.
+visualization of abdominal aortic
+This product serves as a tool to calcifications and, if present,
+aid in the analysis of spinal clinical correlation may be
+deformities and degenerative advised since abdominal aortic
+diseases, and lower limb calcification may be associated
+alignment disorders and with cardiovascular disease.
+deformities through precise angle
+and length measurements. It is
+Page 4 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+Specification Predicate Reference Device Subject Device
+Manufacturer EOS imaging Hologic EOS imaging
+Substantial Equivalence
+APEX Software for QDR X- Discussion
+System VEA Align (K251747) Ray Bone Densitometers AutoDensity
+(K072847)
+suitable for use with adult and
+pediatric patients aged 7 years
+and older.
+Clinical judgment and experience
+are required to properly use the
+software
+Contraindications VEA Align is contraindicated for Pregnancy and the use of AutoDensity is contraindicated Yes, the updated contraindications
+cases with vertebrae with severe contrast agents within the past 7 for cases with supernumerary/ do not change the Intended Use.
+congenital deformities (e.g., days are contraindicated. missing vertebrae. Both devices treat the same patient
+hemivertebrae, spina bifida, etc.). population and compute clinical
+parameters from X-ray images
+acquired by EOSedge system for
+orthopedic applications.
+While contraindications are
+different, this is not critical to the
+proposed device's functionality.
+Technical AutoDensity software runs in a APEX software runs on QDR X- AutoDensity software runs in a Yes, same as the predicate.
+Characteristics cloud-environment. Ray Bone Densitometers. cloud-environment.
+VEA Align generates spine The Hologic APEX software AutoDensity generates bone Yes, the subject device is
+landmarks from 2D X-ray images generates a range of reports and mineral density information substantially equivalent to the
+acquired with EOSedge system, images utilizing the DXA data utilizing the dual-energy images predicate device as they both used
+used to compute alignment acquired with the Hologic QDR acquired with the EOSedge EOSedge images to compute
+clinical parameters. systems. It can display the DXA system. It computes bone clinical parameters.
+measurements along with a mineral density measurements The subject device is also
+representative color image from "aluminum" and "PMMA" equivalent to the reference device
+mapping of bone and soft tissue. images: as they both enable bone mineral
+• Aluminum image is assessments to be identified from
+bone-equivalent and tissues-
+bone-equivalent
+equivalent images.
+density,
+Page 5 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+Specification Predicate Reference Device Subject Device
+Manufacturer EOS imaging Hologic EOS imaging
+Substantial Equivalence
+APEX Software for QDR X- Discussion
+System VEA Align (K251747) Ray Bone Densitometers AutoDensity
+(K072847)
+• PMMA image is soft
+tissue-equivalent
+density.
+The software allows: The software allows: The software allows: Yes, the subject device is
+Assessment of patient spinal • Assessment of bone Assessment of bone density with substantially equivalent to the
+global alignment. density with lumbar lumbar spine. reference device as they both
+assess bone mineral density of
+spine, double hip and
+lumbar spine.
+wrist examinations.
+• Diagnosis of vertebral
+fractures using low-
+dose spinal imaging.
+• Instant quantification of
+bone quality of a lumbar
+spine examination.
+Other functionalities are available
+on the system that are not
+described in this comparison
+table.
+Principles of VEA Align workflow is divided APEX software workflow is AutoDensity workflow is divided Yes, same
+Operation into the following steps: divided into the following main into the following main steps:
+• Data Acquisition steps: • Data Ingestion,
+• Data Computation • Data Acquisition, • Data Computation,
+• Report Generation • Data Computation, • Report Generation.
+• Report Generation.
+Device Input X-ray images from EOS and Dual-energy X-ray images Dual-energy X-ray images from Yes, the subject device is
+EOSedge systems EOSedge systems substantially equivalent to the
+predicate device as they both uses
+EOSedge images as input.
+Device Output VEA Align processes data and APEX software processes data AutoDensity processes data and Yes, the subject device is
+generates: and generates: generates: substantially equivalent to the
+predicate device as they both
+Page 6 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+Specification Predicate Reference Device Subject Device
+Manufacturer EOS imaging Hologic EOS imaging
+Substantial Equivalence
+APEX Software for QDR X- Discussion
+System VEA Align (K251747) Ray Bone Densitometers AutoDensity
+(K072847)
+• Preview of the spine • Previews with vertebrae • Previews with vertebrae generate clinical parameters and
+used to compute used for BMD used for BMD preview of the images used to
+landmarks and clinical compute them.
+computation, computation,
+parameters The subject device is also
+• BMD measurement. • BMD measurements.
+• Alignment clinical equivalent to the reference device
+parameters as they both process data and
+generate previews and BMD
+measurements.
+Regions of Interest VEA Align computes landmarks Region of interest detection is Region of interest detection is Yes, the subject device is
+detection associated with vertebral centers done for at least the following done for the following anatomical substantially equivalent to the
+and endplates needed to anatomical body part: body part: reference device as they both
+calculate coronal and sagittal • Spine (lumbar • Spine (lumbar perform region of interest detection
+clinical parameters. vertebrae): vertebrae) on similar anatomical body parts.
+o Frontal: L1, L2, o Frontal: L1, L2,
+L3 and L4 L3 and L4.
+Provides Bone N/A Bone Mineral Density values are Bone Mineral Density values are Yes, the subject device is
+Mineral Density computed for at least the computed for the following substantially equivalent to the
+Value following anatomical body part: anatomical body part: reference device in that Bone
+• Spine (lumbar • Spine (lumbar Mineral Density values are also
+vertebrae): vertebrae): computed using L1 to L4.
+o Frontal: L1, L2, o Frontal: L1, L2,
+L3, L4 and L3, L4 and
+total BMD total BMD
+Information Provided Patient information Patient information Patient information Yes, same
+in the Report Examination information Examination information Examination information
+Landmark detection ROI detection ROI detection
+Alignment clinical parameters Bone Mineral Density Values Bone Mineral Density Values
+Page 7 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+8 PERFORMANCE DATA
+Non-clinical and clinical performance testing has been completed on the subject AutoDensity
+device to demonstrate substantial equivalence to the predicate device and reference device. The
+safety and effectiveness of AutoDensity's BMD output have not been established for the pediatric
+population.
+The following V&V testing was performed on the subject device:
+A. Verification activities covering the following
+• Design input review
+• Unit testing
+• Software integration
+• System integration
+B. Region of Interest (ROI) Performance Evaluation
+To assess the standalone performance of the AI algorithm of AutoDensity, the test was
+performed with:
+• A dedicated test data set containing different data from the training data set.
+Specifically, the test data set is not a sampling of the training data set, has never
+been used for the algorithm training or for tunning the algorithm and leakage
+between training and test data sets did not occur.
+• A ground truth established for all cases following a 3 truther majority voting
+principle with input from a senior US board certified expert radiologist (gold
+standard).
+• A global acceptance criterion to assess the performance of the AI algorithm
+predictions regarding the ground truth.
+• Subgroup analyses to assess bias and generalizability.
+Training data information
+The AI algorithm was trained using 4,679 3D reconstructions and 9,358 corresponding
+EOS (K152788) or EOSedge (K233920) biplanar 2D X-ray images was selected to only
+keep relevant images with the fields of view of interest, at a variety of sites from 2007-
+2024. This population characteristics cover the intended use population.
+Testing data information
+The testing data set consisted of 129 patients and the demographic characteristics cover
+the intended use population. All cases were obtained from EOSedge systems (K233920)
+using low dose, single energy acquisition protocols.
+Subgroup definition (generalizability)
+Subgroup testing was performed to demonstrate generalizability of the algorithm:
+Page 8 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+Type Subgroup Category
+Demographics* Age Pediatric
+Adult
+Sex Male
+Female
+Image Acquisition* Field of View Full Spine
+Full Body
+Data Collection Site Country US
+OUS
+Disease Conditions Degenerative – Spine Normal-Mild
+Moderate
+Severe
+Lumbar Morphometry Vertebral Sagittal Angle for Low
+(Levels evaluated L1, L2, L3 and L4 each, and Medium
+separately; maximum maximum
+High
+angle compared to
+Vertebral Axial Rotation Low
+view-plane)
+(VAR) for L1, L2, L3 and L4 Medium
+each, and maximum
+High
+Ground truthing method:
+Ground truth ROIs and level identification were established by two trained technologists
+under the supervision of a senior US board-certified radiologist. The radiologist reviewed
+the results, selected the more accurate set, and made any necessary adjustments,
+ensuring that the final ground truth reflected a majority vote with expert adjudication as the
+gold standard.
+Testing method
+Testing of the AutoDensity algorithm was performed against the ground truth to evaluate:
+• Vertebral Level Identification, assessed based on the % of vertebral levels
+correctly identified compared to ground truth
+• Spine ROI Accuracy, assessed by Dice Coefficient overlap between algorithm
+predicted ROIs and radiologist ground truth
+Testing was performed with images acquired from single energy acquisitions. A bridging
+study using 30 cases from dual energy acquisitions demonstrated equivalent performance
+of the ROI algorithm and justified utilization of single energy acquisition images for this
+purpose.
+Acceptance Criteria
+The acceptance criteria are used to characterize the performance of the AI algorithm
+feature. As such, the following acceptance criteria were defined:
+• Vertebral Level Identification Accuracy
+Percent of levels correctly identified ≥ 90%
+o
+Page 9 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+• Spine ROI Accuracy:
+Lower boundary of 95% CI of mean Dice Coefficient ≥ 0.80
+o
+Testing summary
+Testing confirms that the AutoDensity ROI detection algorithm meets performance
+thresholds. The high accuracy in both vertebral level identification and ROI detection
+combined with strong subgroup performance, supports its clinical utility and
+generalizability for the AutoDensity intended use population.
+C. Bench performance testing
+Precision and agreement of BMD measurements in phantoms, compared to the reference
+device.
+• BMD precision was assessed by measuring three phantoms ten times without
+repositioning. Results met the acceptance criterion (CV% < 1.5%), indicating
+equivalent precision performance to the same phantoms scanned with the
+reference device.
+• BMD agreement was assessed by measuring one phantom analyzed with
+AutoDensity and the reference device. Bland-Altman analysis showed a maximum
+BMD difference of 0.057 g/cm2 for the high BMD phantom vertebra, and a
+difference of less than 0.018 g.cm2 for the vertebrae within a clinically relevant
+range of BMD for the specified orthopedic planning workflow for pre-surgical
+patient evaluation of suspected low BMD.
+D. Clinical performance testing
+Clinical studies were performed to demonstrate the performance of AutoDensity with
+respect to:
+• Precision of AutoDensity BMD measurements in 30 human subjects undergoing
+repeated measurements with repositioning. AutoDensity precision CV% was
+2.23% [95% CI: 1.78%, 2.98%] with the patient in a weight-bearing standing
+position, in contrast to modalities where the patient is lying supine and stabilized
+with positioning aids which yields higher precision for DXA densitometers. Despite
+the difference in mode of operation, AutoDensity precision performance is within
+the range of acceptable clinical limits for the specified pre-surgical orthopedic
+patient assessment.
+• Bland-Altman agreement between AutoDensity and the reference device BMD
+measurements in a clinical population of 253 subjects representative of the
+intended use population, including 65% US subjects and 35% French subjects;
+68% were female; the proportion of subjects aged below 50 years was 62% and
+above 50 was 38%; 56% of subjects had BMI below 25, 34% between 25-30 and
+10% between 30-35. Bland-Altman bias was 0.045 g/cm2 and limits of agreement
+(LoA) were [-0.088 g/cm2, 0.178 g/cm2]. Bland-Altman bias and LoA for
+AutoDensity compared to the reference device were equivalent to published Bland-
+Page 10 of 11Traditional 510(k) Premarket Notification
+AutoDensity
+Altman agreement between other commercial bone densitometers in similar
+clinical study populations.
+The results demonstrate that the subject AutoDensity device is substantially equivalent to the
+predicate and reference device for nonclinical and clinical testing.
+9 CONCLUSION
+Based on the information provided in this 510(k) submission, it was determined that the subject
+device, AutoDensity, is substantially equivalent to the legally marketed predicate device and
+reference device with regards to indications for use, intended use, design, technology, and
+performance.
+Page 11 of 11

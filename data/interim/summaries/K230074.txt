@@ -1,0 +1,328 @@
+iSchemaView Inc.
+James Rosa
+SVP Regulatory and Quality
+1120 Washington Ave., Ste 200 July 27, 2023
+GOLDEN, COLORADO 80401
+Re: K230074
+Trade/Device Name: Rapid Aneurysm Triage and Notification
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological Computer Aided Triage And Notification Software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: July 10, 2023
+Received: July 11, 2023
+Dear James Rosa:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK230074 - James Rosa Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb,
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices and
+Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureiSchemaView - Traditional 510(k) Rapid Aneurysm Triage and Notification
+K230074 510(k) Summary
+K230074 510(k) Summary
+iSchemaView, Inc.’s Rapid Aneurysm Triage and Notification
+This document contains the 510(k) summary for the iSchemaView Rapid Aneurysm Triage and
+Notification Device (ANRTN). The content of this summary is based on the requirements of 21
+CFR Section 807.92(c).
+Applicant Name and Address:
+Name: iSchemaView, Inc.
+Address: 1120 Washington St., Suite 200
+Golden, CO 80401
+Official Contact: Jim Rosa
+Phone: (303) 704-3374
+Email: rosa@ischemaview.com
+Summary Preparation Date: July 25, 2023
+Device Name and Classification:
+Trade Name: Rapid Aneurysm Triage and Notification
+Classification Radiological computer aided triage and
+Name: notification software
+Classification: II
+Product Code: QFM
+Regulation No: 21 C.F.R. §892.2080
+Classification Radiology Devices
+Panel:
+Predicate Devices:
+The iSchemaView Rapid ANRTN device is claimed to be substantially equivalent to the
+following legally marketed predicate devices:
+Viz.AI’s Aneurysm Software (K213319)
+Device Description:
+Rapid ANRTN software device is a radiological computer-assisted image processing software
+device. The Rapid ANRTN device is a CTA processing module which operates within the integrated
+Rapid Platform to determine the suspicion of head saccular aneurysm(s). The ANRTN software
+analyzes input CTA images that are provided in DICOM format and provides notification of
+suspected saccular aneurysm(s) and a non-diagnostic, compressed image for preview. Rapid
+ANRTN is an AI/ML image processing module which integrates within the Rapid Platform.
+Indications for Use:
+Rapid Aneurysm Triage and Notification (ANRTN) is a radiological computer-assisted
+triage and notification software device for analysis of CT images of the head. The device is
+Page 1 of 7iSchemaView - Traditional 510(k) Rapid Aneurysm Triage and Notification
+K230074 510(k) Summary
+intended to assist hospital networks and trained radiologists in workflow triage by flagging
+and prioritizing studies with suspected saccular aneurysms during routine patient care.
+Rapid ANRTN uses an artificial intelligence algorithm to analyze images and highlight
+studies with suspected saccular aneurysms in a standalone application for study list
+prioritization or triage in parallel to ongoing standard of care. The device generates
+compressed preview images that are meant for informational purposes only and not intended
+for diagnostic use. The device does not alter the original medical image and is not intended
+to be used as a diagnostic device.
+Analyzed images are available for review through the PACS, email and mobile application.
+When viewed the images are for informational purposes only and not for diagnostic use. The
+results of Rapid ANRTN, in conjunction with other clinical information and professional
+judgment, are to be used to assist with triage/prioritization of saccular aneurysm cases.
+Radiologists who read the original medical images are responsible for the diagnostic
+decision. Rapid ANRTN is limited to analysis of imaging data and should not be used in-
+lieu of full patient evaluation or relied upon to make or confirm diagnosis.
+Rapid ANRT is limited to detecting saccular aneurysms at least 4mm in diameter in adults.
+Inclusion Criteria:
+The module shall detect unruptured saccular brain aneurysms greater than or equal to 4 mm in
+size within the following anatomical region:
+• Internal Carotid Artery (ICA): ophthalmic segment to ICA terminus
+• Middle Cerebral Artery (MCA): M1 segment through M1/M2 bifurcation
+• Anterior Cerebral Artery (ACA): A1 and A2 segments
+• Anterior Communicating Artery (ACOM)
+• Posterior Communicating Artery (PCOM)
+• Posterior Cerebral Artery (PCA): P1 segment
+• Vertebral Artery (VA): intracranial portion of the VA through the vertebrobasilar (VB)
+junction
+• Basilar Artery (BA)
+Contraindications/Exclusions/Cautions:
+• The module shall process only CTA datasets with a patient position of ‘headfirst supine’.
+• The module shall process only a series within CTA datasets comprised only of axial slices.
+• The module shall process only CTA datasets with Z FOV (cranio-caudal transverse anatomical
+coverage) greater than or equal to 90 mm
+• The module shall process only CTA datasets with in-plane pixel spacing (X & Y resolution): 0.2
+– 1.0 mm
+• The module shall process only CTA datasets with in-plane X FOV: 160-400mm.
+• The module shall process only CTA datasets with in-plane Y FOV: 160-400 mm
+• The module shall process only CTA datasets with Z slice spacing of 0.2 – 1.25 mm
+• The module shall process only CTA datasets with data acquired at x-ray tube voltage 80kVp-
+140kVp, as reported in the input data DICOM header
+• The module shall process only CTA datasets consisting of input slices of continuous order
+without gaps.
+• The module shall process only CTA datasets where the images belong to a single series (i.e.,
+identical SeriesInstanceUID DICOM tag value for all images).
+Page 2 of 7iSchemaView - Traditional 510(k) Rapid Aneurysm Triage and Notification
+K230074 510(k) Summary
+• The module shall not process CTA datasets where the DICOM tags “ImagePositionPatient”
+(IPP), “ImageOrientationPatient” (IOP), or “PixelSpacing” are missing
+• The module shall only process a single series per study, being the largest available that passes the
+above requirements.
+• The module shall accept input files within a parent folder named by a unique identifier for the
+case.
+• The module shall accept axial-oblique CTA datasets with an oblique plane of ≤ 35 degrees.
+• Cases with significant motion and/or imaging artifacts.
+Technological Characteristics and Substantial Equivalence:
+Rapid ANRTN does not raise new questions of safety or effectiveness compared to the
+previously cleared Viz.AI ANX Software (K213319). There are minor differences in
+technical characteristics with the predicate device; however, with the minor changes the
+clinical use for Rapid ANRTN device is the same with no additional risks. Thus, the Rapid
+ANRTN device is substantially equivalent.
+The following table summarizes and compares data on the Viz.AI ANX Software
+(K213319) to the Rapid ANRTN device that is the subject of this Traditional 510(k)
+submission.
+Parameter Rapid ANRTN (Subject Device) Viz Aneurysm (Predicate Device)
+Product Code QFM QFM
+Regulation 21 CFR §892.2080 21 CFR §892.2080
+Intended Use/ Rapid Aneurysm Triage and Viz ANEURYSM (Viz ANX)
+Indications for Notification (ANRTN) is a is a radiological computer-
+Use radiological computer-assisted assisted triage and notification
+triage and notification software software device for analysis of
+device for analysis of CT images CT images of the head. The
+of the head. The device is device is intended to assist
+intended to assist hospital hospital networks and trained
+networks and trained radiologists radiologists in workflow triage
+in workflow triage by flagging and by flagging and prioritizing
+prioritizing studies with suspected studies with suspected
+saccular aneurysms during routine aneurysms during routine
+patient care. patient care.
+Rapid ANRTN uses an artificial Viz ANEURYSM uses an
+intelligence algorithm to analyze artificial intelligence algorithm
+images and highlight studies with to analyze images and highlight
+suspected saccular aneurysms in a studies with suspected
+standalone application for study aneurysms in a standalone
+list prioritization or triage in application for study list
+parallel to ongoing standard of prioritization or triage in
+care. The device generates parallel to ongoing standard of
+compressed preview images that care. The device generates
+are meant for informational compressed preview images
+purposes only and not intended for that are meant for informational
+Page 3 of 7iSchemaView - Traditional 510(k) Rapid Aneurysm Triage and Notification
+K230074 510(k) Summary
+Parameter Rapid ANRTN (Subject Device) Viz Aneurysm (Predicate Device)
+diagnostic use. The device does purposes only and not intended
+not alter the original medical for diagnostic use. The device
+image and is not intended to be does not alter the original
+used as a diagnostic device. medical image and is not
+Analyzed images are available for intended to be used as a
+review through the PACS, email diagnostic device. Analyzed
+and mobile application. When images are available for review
+viewed the images are for through the standalone
+informational purposes only and application. When viewed
+not for diagnostic use. The results through the standalone
+of Rapid ANRTN, in conjunction application the images are for
+with other clinical information and informational purposes only
+professional judgment, are to be and not for diagnostic use. The
+used to assist with results of Viz ANEURYSM, in
+triage/prioritization of saccular conjunction with other clinical
+aneurysm cases. Radiologists who information and professional
+read the original medical images judgment, are to be used to
+are responsible for the diagnostic assist with triage/prioritization
+decision. Rapid ANRT is limited of medical images.
+to analysis of imaging data and Radiologists who read the
+should not be used in-lieu of full original medical images are
+patient evaluation or relied upon to responsible for the diagnostic
+make or confirm diagnosis. decision. Viz ANEURYSM is
+limited to analysis of imaging
+Rapid ANRT is limited to data and should not be used in-
+detecting saccular aneurysms at lieu of full patient evaluation or
+least 4mm in diameter in adults. relied upon to make or confirm
+diagnosis.
+<inclusions and limitations
+provided above> Viz ANEURYSM is limited to
+detecting aneurysms at least
+4mm in diameter.
+Anatomical
+Head Head
+Region
+Independent
+Yes Yes
+Standard of Care
+Notification/ Yes Yes
+Prioritization
+Identify patients Yes Yes
+with pre-specified
+clinical condition
+Clinical Condition Aneurysm Aneurysm
+Intended User Radiologist Radiologist
+Page 4 of 7iSchemaView - Traditional 510(k) Rapid Aneurysm Triage and Notification
+K230074 510(k) Summary
+Parameter Rapid ANRTN (Subject Device) Viz Aneurysm (Predicate Device)
+DICOM Yes Yes
+Imaging Modality CTA CTA
+Alteration of Image No No
+Preview Images Non-diagnostic Non-diagnostic
+AI/ML Module Development:
+Algorithm development was performed using 698 (633training, 65 validation) CTA cases
+from multiple sites. Cases selected covered a wide range of suspected saccular aneurysms.
+Cases were obtained from Siemens, GE, Toshiba, and Philips scanners.
+Clinical Characteristics:
+The primary users of Rapid ANRTN software are medical professionals including
+radiologists, neuroradiologists, emergency physicians, neurologists, neurosurgeons, etc.,
+who may review CTA scans of the head for indication of aneurysm.
+Performance Standards:
+Rapid ANRTN has been developed in conformance with the following standards, as
+applicable:
+EN ISO 14971:2019 (R2021) Application of Risk Management to Medical Devices
+IEC 62304:2006 (R2015) Medical device software – Software lifecycle processes
+IEC 62366:2015 (R2020) Application of Usability Engineering to Medical Devices
+NEMA PS 3.1 - 3.20 Digital Imaging and Communications in Medicine (DICOM)
+Performance Data:
+Rapid ANRTN complies with DICOM (Digital Imaging and Communications in Medicine) -
+Developed by the American College of Radiology and the National Electrical Manufacturers
+Association. NEMA PS 3.1 - 3.20.
+iSchemaView conducted extensive performance validation testing and software verification and
+validation testing of the Rapid ANRTN device. Final device validation included standalone
+performance validation. This performance validation testing demonstrated the Rapid ANRTN
+device provides accurate representation of key processing parameters under a range of clinically
+relevant perturbations associated with the intended use of the software. Software performance,
+validation and verification testing demonstrated that the Rapid ANRTN device met all design
+requirements and specifications. Final performance validation included 266 (151 pos, 115 neg)
+CTA cases with ground truth established by 3 experts. The primary endpoint passed with
+AUC ≥ 0.95 for high performance per the QFM product code definition. Additionally,
+Sensitivity (0.933) and Specificity(0.868) supported the finding. Age range evaluated was
+21-99 with mean 64. Sub-segmented performance by scanners have different performance
+levels which are affected by sample sizes as seen in the confidence interval spread.
+Page 5 of 7iSchemaView - Traditional 510(k) Rapid Aneurysm Triage and Notification
+K230074 510(k) Summary
+The following performance is seen across the indicated sub analysis:
+Manufacturer Measure N Estimate Lower 95% CI Upper 95% CI
+GE Sensitivity 37 0.973 0.862 0.995
+Specificity 32 0.875 0.719 0.950
+PHILIPS Sensitivity 19 0.842 0.624 0.945
+Specificity 21 0.857 0.654 0.950
+SIEMENS Sensitivity 36 0.889 0.747 0.956
+Specificity 33 0.818 0.656 0.914
+TOSHIBA Sensitivity 42 0.976 0.877 0.996
+Specificity 28 0.929 0.774 0.980
+Gender Measure N Estimate Lower 95% CI Upper 95% CI
+Female Sensitivity 96 0.958 0.898 0.984
+Specificity 53 0.868 0.752 0.935
+Male Sensitivity 36 0.861 0.713 0.939
+Specificity 51 0.902 0.790 0.957
+ANR Size Measure N Estimate Lower 95% CI Upper 95% CI
+[4, 5) Sensitivity 41 0.927 0.806 0.975
+[5, 7) Sensitivity 54 0.944 0.849 0.981
+[7, 10) Sensitivity 28 0.893 0.728 0.963
+[10, 25) Sensitivity 11 1.000 0.741 1.000
+ANR Location Measure N Estimate Lower 95% CI Upper 95% CI
+ACA Sensitivity 8 1.000 0.676 1.000
+ACOM Sensitivity 29 0.931 0.780 0.981
+Basilar/PCA Sensitivity 18 0.944 0.742 0.990
+ICA Sensitivity 40 0.900 0.769 0.960
+MCA Sensitivity 33 0.939 0.804 0.983
+VA/PICA Sensitivity 6 1.000 0.610 1.000
+Page 6 of 7iSchemaView - Traditional 510(k) Rapid Aneurysm Triage and Notification
+K230074 510(k) Summary
+Prescriptive Statement:
+Caution: Federal law restricts this device to sale by or on the order of a physician.
+Safety & Effectiveness:
+Rapid ANRTN has been designed, verified and validated in compliance with 21 CFR, Part
+820.30 requirements. The device has been designed to meet the requirements associated with
+EN ISO 14971:2019 (risk management). The Rapid ANRTN performance has been validated
+with case data.
+Rapid ANRTN has been developed using the cybersecurity framework defined within the FDA
+Draft Guidance: Cybersecurity in Medical Devices: Quality System Considerations and Content
+of Premarket Submissions
+Conclusion:
+In conclusion, the iSchemaView Rapid ANRTN software device is substantially equivalent in
+intended use, technological characteristics, safety and performance characteristics to the legally
+marketed predicate device, Viz.AI ANX Software (K213319).
+Page 7 of 7

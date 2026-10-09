@@ -1,0 +1,219 @@
+Screenpoint Medical B.V. December 10, 2019
+℅ Umar Waqas, Ph.D.
+Regulatory Officer
+Mercator II, 7th floor, Toernooiveld 300
+6525 EC Nijmegen, Gelderland
+THE NETHERLANDS
+Re: K192287
+Trade/Device Name: TransparaTM
+Regulation Number: 21 CFR 892.2090
+Regulation Name: Radiological computer assisted detection and diagnosis software
+Regulatory Class: Class II
+Product Code: QDQ
+Dated: October 30, 2019
+Received: November 1, 2019
+Dear Dr. Waqas:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.11
+Silver Spring, MD 20993
+www.fda.govK192287 - Umar Waqas, Ph.D. Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure‐510(k) Summary Transpara™
+K192287
+This 510(k) summary of safety and effectiveness information is prepared in accordance
+with the requirements of 21 CFR § 807.92.
+1. Submitter
+Manufacturer:
+ScreenPoint Medical B.V.
+Mercator II, 7th floor
+Toernooiveld 300
+6525 EC Nijmegen
+Netherlands
+www.screenpoint-medical.com
+Contact person:
+Umar Waqas
+Office: +31 24 3030045 | +31 24 2020020
+Mobile: +31 6 44077104
+Mercator II, 7th floor, Toernooiveld 300, 6525 EC Nijmegen, Netherlands
+Date:
+December 10, 2019
+TransparaTM 510(k) Submission2. Device
+Device trade name Transpara™
+Device Radiological Computer Assisted Detection and
+Diagnosis Software
+Classification regulation 21 CFR 892.2090
+Panel Radiology
+Device class II
+Product code QDQ
+Submission type Traditional 510(k)
+3. Legally marketed predicate device
+Device trade name Transpara™ 1.3.0 (K181704)
+Legal Manufacturer ScreenPoint Medical B.V.
+Device Radiological Computer Assisted Detection and
+Diagnosis Software
+Classification regulation 21 CFR 892.2090
+Panel Radiology
+Device class II
+Product code QDQ
+4. Device description
+Transpara™ is a software-only device for aiding radiologists with the detection and
+diagnosis of breast cancer in mammograms. The product consists of a processing server
+and an optional viewer. The software applies algorithms for recognition of suspicious
+calcifications and soft tissue lesions, which are trained with large databases of biopsy
+proven examples of breast cancer, benign lesions and normal tissue. Processing results
+of Transpara™ can be transmitted to external destinations, such as medical imaging
+workstations or archives, using the DICOM mammography CAD SR protocol. This allows
+PACS workstations to implement the interface of Transpara™ in mammography reading
+applications.
+TransparaTM 510(k) SubmissionTranspara™ automatically processes mammograms and the output of the device can be
+used by radiologists concurrently with the reading of mammograms. The user interface of
+Transpara™ has different functions:
+a) Activation of computer aided detection (CAD) marks to highlight locations where
+the device detected suspicious calcifications or soft tissue lesions. Only the most
+suspicious soft tissue lesions are marked to achieve a very low false positive rate.
+b) Regions can be queried using a pointer for interactive decision support. When the
+location of the queried region corresponds with a finding of Transpara™ a
+suspiciousness level of the region computed by the algorithms in the device is
+displayed. When Transpara™ has identified a corresponding region in another
+view of the same breast this corresponding region is also displayed to minimize
+interactions required from the user.
+c) Display of the exam based Transpara™ Score which categorizes exams on a scale
+of 1-10 with increasing likelihood of cancer.
+Transpara™ is configured as a DICOM node in a network and receives its input images
+from another DICOM node, such as a mammography device or a PACS archive. The
+image analysis unit includes machine learning components trained to detect calcifications
+and soft tissue lesions and a component to pre-process images in such a way that images
+from different vendors can be processed by the same algorithms.
+5. Indications for use
+Transpara™ is a software medical device for use in a healthcare facility or hospital with
+the following indications for use:
+The ScreenPoint TransparaTM system is intended for use as a concurrent reading
+aid for physicians interpreting screening mammograms from compatible FFDM
+systems, to identify regions suspicious for breast cancer and assess their likelihood
+of malignancy. Output of the device includes marks placed on suspicious soft tissue
+lesions and suspicious calcifications; region‐based scores, displayed upon the
+physician’s query, indicating the likelihood that cancer is present in specific regions;
+and an overall score indicating the likelihood that cancer is present on the
+mammogram. Patient management decisions should not be made solely on the
+basis of analysis by Transpara™.
+Intended user population
+Intended users of Transpara™ are physicians qualified to read screening mammograms.
+TransparaTM 510(k) SubmissionIntended patient population
+The device is intended to be used in the population of women undergoing screening
+mammography.
+Warnings and precautions
+Transpara™ is an adjunct tool and not intended to replace a physicians’ own review of a
+mammogram. Decisions should not be made solely based on analysis by Transpara™.
+6. Predicate device comparison
+The indication for use of Transpara™1.5.0 is the same as that of the predicate device.
+Both devices are intended to be used by clinicians interpreting mammograms, to help
+them with localizing and characterizing abnormalities. The devices are both intended to
+be used concurrently with the reading of images and are not intended as a replacement
+for the review of a clinician or their clinical judgement.
+The overall design of Transpara™1.5.0 is similar to that of the predicate device. The main
+differences in technological characteristics of Transpara™ 1.5.0 and the predicate device
+are algorithmic improvements leading to better detection performance. Additionally, the
+1.5.0 version now supports Fujifilm modalities. These changes do not raise different
+questions of safety and effectiveness.
+7. Summary of non-clinical performance data
+In the design and development of Transpara™, ScreenPoint applied the following
+voluntary FDA recognized standards and guidelines:
+Standard ID Standard Title FDA Recognition #
+ISO 14971:2007 Medical Devices - Application Of Risk 5-40
+Management To Medical Devices
+IEC 62304:2015 Medical Device Software - Software Life 13-79
+Cycle Processes
+DEN180005 Decision summary with special controls
+for class II radiology device
+The following guidance documents were used to support this submission:
+TransparaTM 510(k) Submission• Guidance for Industry and FDA Staff - Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices (Issued on May 11, 2005)
+• Computer-Assisted Detection Devices Applied to Radiology Images and
+Radiology Device Data – Premarket Notification [510(k)] Submissions (Issued on
+July 3, 2012)
+• Guidance for Industry and FDA Staff - Clinical Performance Assessment:
+Considerations for Computer-Assisted Detection Devices Applied to Radiology
+Images and Radiology Device Data - Premarket Approval (PMA) and Premarket
+Notification [510(k)] Submissions (Issued on July 3, 2012)
+Software performance testing
+Transpara™1.5.0 is a software-only device. The level of concern for the device is
+determined as Moderate Level of Concern.
+Verification testing consisted of software unit testing, software integration testing and
+software system testing. The verification test showed that the software application
+satisfied the software requirements.
+Validation testing consisted of determining stand-alone performance of the algorithms in
+Transpara™ using a multi-vendor test-set of mammograms acquired from multiple
+centers. This test dataset was not used for training of Transpara™ algorithms and
+included mammograms of asymptomatic women acquired with devices from five
+manufacturers: Hologic, GE, Philips, Siemens, and Fujifilm. Validation testing confirmed
+that algorithm performance has improved in comparison to Transpara 1.3.0 for the four
+manufacturers for which the device was already cleared and that for Fujifilm a similar
+performance is achieved.
+Based on results of verification and validation tests it is concluded that Transpara™ is
+effective in the detection of soft lesions and calcifications at an appropriate safety level in
+mammograms acquired with mammography devices for which the software has been
+validated.
+8. Summary of clinical tests
+A pivotal reader study was conducted with the predicate device Transpara 1.3.0. This
+study provided evidence for safety and effectiveness of Transpara™.
+9. Conclusions
+The data presented in this 510(k) includes all required information to support the review
+by FDA. Standalone performance tests demonstrate that Transpara™ 1.5.0 achieves
+better detection performance compared to the predicate device.
+TransparaTM 510(k) SubmissionScreenPoint has applied a risk management process in accordance with FDA recognized
+standards to identify, evaluate, and mitigate all known hazards related to Transpara™.
+These hazards may occur when accuracy of diagnosis is potentially affected, causing
+either false-positives or false-negatives. All identified risks are effectively mitigated and it
+can be concluded that the residual risk is outweighed by the benefits.
+Considering all data in this submission, the data provided in this 510(k) supports the safe
+and effective use of Transpara™ for its indications for use and substantial equivalence to
+the predicate device.
+TransparaTM 510(k) Submission

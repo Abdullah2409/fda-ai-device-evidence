@@ -1,0 +1,270 @@
+Shanghai United Imaging Healthcare Co., Ltd. August 4, 2020
+℅ Shumei Wang
+QM & RA VP
+No. 2258 Chengbei Road, Jiading Industrial District
+Shanghai, Shanghai 201807
+CHINA
+Re: K193210
+Trade/Device Name: HYPER DLR
+Regulation Number: 21 CFR 892.1200
+Regulation Name: Emission computed tomography system
+Regulatory Class: Class II
+Product Code: KPS
+Dated: June 24, 2020
+Received: June 29, 2020
+Dear Shumei Wang:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.17
+Silver Spring, MD 20993
+www.fda.govK193210 - Shumei Wang Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureShanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+510 (k) SUMMARY
+K193210
+1. Date of Preparation
+June 24, 2020
+2. Sponsor Identification
+Shanghai United Imaging Healthcare Co.,Ltd.
+No.2258 Chengbei Rd. Jiading District, 201807, Shanghai, China
+Contact Person: Shumei Wang
+Position: QM&RA VP
+Tel: +86-021-67076888-6776
+Fax: +86-021-67076889
+Email: shumei.wang@united-imaging.com
+3. Identification of Proposed Device
+Trade Name: HYPER DLR
+Common Name: Emission Computed Tomography System
+Model(s): HYPER DLR
+Regulatory Information
+Regulation Number: 21 CFR 892.1200
+Regulation Name: Emission Computed Tomography System
+Regulatory Class: II
+Product Code: KPS
+Review Panel: Radiology
+4. Identification of Predicate Device(s)
+Predicate Device 1:
+510(k) Number: K172143
+Device Name: Emission Computed Tomography System
+Model(s): uMI 780
+Regulatory Information
+Regulation Number: 21 CFR 892.1200
+Regulation Name: Emission Computed Tomography System
+Regulatory Class: II
+Product Code: KPS, JAK
+Review Panel: Radiology
+Predicate Device 2:
+510(k) Number: K182237
+Device Name: Emission Computed Tomography System
+Model(s): uMI 550
+Page 1 of 5Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Regulatory Information
+Regulation Number: 21 CFR 892.1200
+Regulation Name: Emission Computed Tomography System
+Regulatory Class: II
+Product Code: KPS, JAK
+Review Panel: Radiology
+5. Device Description:
+HYPER DLR is a software-only device. HYPER DLR is intended to be implemented
+on previously cleared PET/CT devices uMI 550 (K182237) and uMI 780 (K172143).
+HYPER DLR serves as an alternative to the existing image smoothing options that
+are available on the predicate devices. HYPER DLR is an image post-processing
+technique which uses a pre-trained neural network to predict low noise PET image
+from high noise PET image. After training, the network could extract the noise
+component from the image, thus reducing the image noise.
+6. Indications for Use
+HYPER DLR is an image processing function intended to be used by radiologists
+and nuclear medicine physicians to reduce noise of the fluorodeoxyglucose (FDG)
+PET images.
+7. Comparison of Technological Characteristics with the Predicate Devices
+A comparison between the technological characteristics of proposed and predicate
+devices is provided as below.
+ITEM Predicate Device 1 Predicate Device 2 Proposed Device NOTE
+uMI 780 (K172143) uMI 550 (K182237) HYPER DLR
+including a post- including a post-
+smoothing function smoothing function
+for PET image for PET image
+reconstruction reconstruction
+Onsite on the facility Onsite on the facility Onsite on the Same
+Image
+PET/CT PET/CT facility PET/CT
+Processing
+reconstruction reconstruction reconstruction
+Location
+computer. computer. computer.
+Operating Windows Windows Windows Same
+system
+Support online & Support online & Support online & Same
+Workflow
+offline offline offline
+Standard scanner Standard scanner Standard scanner Same
+Protocols
+protocols protocols protocols
+The post-smoothing The post-smoothing The software Gaussian
+Algorithm function uses function uses employs a filtering
+description Gaussian filtering to Gaussian filtering to convolutional suppresses the
+reduce the noise in reduce the noise in neural network high frequency
+Page 2 of 5Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+the PET images. The the PET images. The based method to component of
+Gaussian filtering Gaussian filtering re-generate the the image,
+works by using the works by using the value for each which includes
+3D Gaussian 3D Gaussian pixel. The noise and image
+distribution as a distribution as a network extracts details. On the
+point-spread point-spread the noise contrary,
+function. And the function. And the component from convolutional
+filtering process is filtering process is the image, while neural network
+achieved by achieved by retains the other is able to
+convolving the convolving the useful distinguish the
+Gaussian filter with Gaussian filter with components such noise
+the reconstructed the reconstructed as image details. component and
+PET image. PET image. the image
+details, and only
+removes the
+noise
+component from
+the image.
+HYPER DLR utilizes the same hardware with the predicate devices and does not
+introduce any new restrictions on use. The differences do not affect the safety and
+the effectiveness.
+8. Performance Data
+Non-Clinical Testing
+Non-clinical testing including image performance tests and clinical image
+evaluation were conducted for the HYPER DLR during the product development.
+UNITED IMAGING HEALTHCARE claims conformance to the following
+standards and guidance:
+Software
+ NEMA PS 3.1-3.20(2011): Digital Imaging and Communications in Medicine
+(DICOM)
+ IEC 62304: Medical Device Software - software life cycle process
+ Guidance for the Content of Premarket Submissions for Software Contained
+in Medical Devices
+ Content of Premarket Submissions for Management of Cybersecurity in
+Medical Devices
+Other Standards and Guidance
+ ISO 14971: Medical Devices – Application of risk management to
+medical devices
+ Code of Federal Regulations, Title 21, Part 820 - Quality System
+Regulation
+ Code of Federal Regulations, Title 21, Subchapter J - Radiological
+Health
+Software Verification and Validation
+Software documentation for a Moderate Level of Concern software per FDA’
+Page 3 of 5Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Guidance Document “Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices” is included as a part of this submission.
+The risk analysis was completed and risk control was implemented to mitigate
+identified hazards. The testing results show that all the software specifications have
+met the acceptance criteria. Verification and validation testing of the proposed
+device was found acceptable to support the claim of substantial equivalence.
+UNITED IMAGING HEALTHCARE conforms to the Cybersecurity requirements
+by implementing a process of preventing unauthorized access, modification, misuse
+or denial of use, or unauthorized use of information that is stored, accessed, or
+transferred from a medical device to an external recipient. Cybersecurity
+information in accordance with guidance document “Content of Premarket
+Submissions for Management of Cybersecurity in Medical Devices” is included in
+this submission.
+Performance Verification
+Engineering bench testing was performed to support substantial equivalence and
+the product performance claims. The evaluation and analysis used the identical raw
+datasets obtained on UIH’s uMI 780 and uMI 550, and then applies both HYPER
+DLR and Gaussian filtering to do image de-noising. The resultant images were then
+compared for:
+ Peak signal to noise ratio
+ Structural similarity index
+ Pearson correlation coefficient
+ Signal to noise ratio (SNR)
+ Contrast to noise ratio (CNR)
+ Normalized root mean square error
+ Bland-Altman plot of body & brain VOI SUVmean values
+Bench test showed overall image quality improvement based on the commonly used
+quantitative metrics. HYPER DLR can significantly improve SNR and CNR while
+preserving image consistency.
+Clinical Image Evaluation
+The clinical image evaluation was performed by comparing HYPER DLR with
+Gaussian filtering. Each image was read by board-certified nuclear medicine
+physicians who provided an assessment of both image noise and overall image
+quality. The results of the evaluation indicated that HYPER DLR performed lower
+image noise than Gaussian filtering while the image quality was sufficient for
+clinical diagnosis.
+Additional clinical image evaluation were performed for typical clinical scan times
+of uMI 550 and uMI 780 systems. Under all the evaluated scan time, clinical
+evaluation shows that the HYPER DLR produces lower or equivalent image noise
+and better or equivalent image quality compared with Gaussian filtering. And all
+the HYPER DLR images are of diagnostic quality.
+Clinical Testing
+No Clinical Study is included in this submission.
+9. Conclusions
+Page 4 of 5Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+The changes associated with HYPER DLR do not change the indications for use
+from the predicate devices, and represent equivalent technological characteristic,
+with no impact on control mechanism, operating principle, and energy type.
+HYPER DLR is substantially equivalent as safety as the legally marketed predicate
+devices.
+HYPER DLR was developed under UIH’s quality management system. Design
+verification, along with bench testing and the clinical image evaluation demonstrate
+that HYPER DLR is substantially equivalent as effective as the legally marketed
+predicate devices.
+Based on the comparison and analysis above, the proposed device has similar
+performance, equivalent safety and effectiveness as the predicate devices. The
+differences above between the proposed device and predicate devices do not affect
+the intended use, safety and effectiveness. And no issues are raised regarding to
+safety and effectiveness. The proposed device is determined to be Substantially
+Equivalent (SE) to the predicate devices.
+Page 5 of 5

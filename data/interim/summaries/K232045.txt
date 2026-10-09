@@ -1,0 +1,769 @@
+October 27, 2023
+MeVis Medical Solutions AG
+Rolf Rzodeczko
+Manager Regulatory Affairs
+Caroline-Herschel-Strasse 1
+BREMEN, BREMEN 28359
+GERMANY
+Re: K232045
+Trade/Device Name: MeVis Liver Suite
+Regulation Number: 21 CFR 892.1750
+Regulation Name: Computed Tomography X-Ray System
+Regulatory Class: Class II
+Product Code: JAK
+Dated: September 27, 2023
+Received: September 27, 2023
+Dear Rolf Rzodeczko:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.05
+Silver Spring, MD 20993
+www.fda.govK232045 - Rolf Rzodeczko Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A)for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Digitally signed by
+for
+Gabriela M. Rodal -S
+Lu Jiang, Ph.D.
+Assistant Director
+DHT8B: Division of Imaging Devices and Electronic
+Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K232045
+Device Name
+MeVis Liver Suite
+Indications for Use (Describe)
+MeVis Liver Suite is an image analysis software and intended to be used for visualization of hepatic imaging studies
+derived from CT and MR scanning devices (image source: single- and multiframe DICOM).
+MeVis Liver Suite supports physicians in their workflow for evaluating the liver, related vascular anatomy, and the
+volume of liver and liver vascular territories for treatment planning, preoperative evaluation of surgery strategies, and
+post-procedure or therapy follow-up assessment of the hepatic system and related vascular structures.
+MeVis Liver Suite supports image analysis for multiphase contrast enhanced CT, dynamic contrast enhanced MRI, and
+MRCP. MeVis Liver Suite only allows import of homogenous image series (i.e., image and pixel size must be constant
+within each series) and with orthogonal image matrix (without a gantry tilt). Images with a resolution of > 5mm slice
+spacing are not suitable for image analysis with MeVis Liver Suite.
+MeVis Liver Suite can be used for manual segmentation, user-defined manual labeling, and 3D visualization of:
+- abdominal organs (i.e., liver, stomach, duodenum, spleen, kidney, gallbladder, and pancreas)
+- liver related vascular structures (i.e., bile ducts, hepatic artery, hepatic vein, portal vein, and inferior vena cava)
+- lesions inside and adjacent to the liver
+The tools for manual segmentation and 3D visualization are applicable for CT and MR imaging studies.
+In addition to the manual segmentation tools, MeVis Liver Suite provides AI based semi-automatic pre-segmentation
+tools for liver, hepatic artery, hepatic vein, and portal vein restricted to CT scans of potential living liver donors with
+healthy livers and intended for:
+- Liver: contrast enhanced late-venous and venous phase
+- Hepatic vein: contrast enhanced late-venous and venous phase
+- Portal vein: contrast enhanced late-venous and venous phase
+- Hepatic artery: contrast enhanced arterial phase
+Using MeVis Liver Suite, users can evaluate the segmented objects by exploring, calculating, and manually correcting:
+- the volume of the segmented abdominal organs (see above)
+- the volume of the segmented lesions inside and adjacent to the liver
+- the volume of the manually defined parts of the liver
+- by defining separation planes (“separation proposals”)
+- from vascular territories that are derived from the user-defined labeling of the liver related vascular structures
+- 3D visualizations of user-defined (vascular) tumor margins (coloring of area - based on user-defined margin sizes/
+distances - between the edges of user-defined lesions in relation to the edges of user-defined vascular structures of the
+liver)
+- based on user provided values, calculation of liver volume to body weight ratios (i.e., estimated weight for remnant or
+graft, body surface area, graft to recipient body weight ratio, graft to SLV ratio, remnant to body weight ratio).
+Using a manual spatial registration of the images, the segmented objects (created on different CT phases and MRI
+sequences) can be visualized together.
+FORM FDA 3881 (6/20) Page 1 of 2 PSC Publishing Services (301) 443-6740 EFThe information created with MeVis Liver Suite is intended to be used only in addition to the original images, clinical
+data, and the real anatomical and clinical situation. Physicians make all final patient management, assessment, and
+treatment decisions.
+MeVis Liver Suite is not intended for the anatomical systems integumentary, skeletal, muscular, lymphatic, respiratory,
+nervous, reproductive, and cardiovascular (excluding hepatic).
+MeVis Liver Suite does not support the following application areas: real time viewing, diagnostic review, image
+manipulation, optimization, virtual colonoscopy, and automatic lesion detection.
+MeVis Liver Suite does not utilize high-resolution displays or display drivers and should not be used as a replacement for
+a PACS workstation.
+Intended Patient Population:
+The intended patients for MeVis Liver Suite are oncologic patients or hepatic donor/transplant patients. CT or MR
+imaging with contrast agents need to be possible for analysis of vascular structures inside the liver. The age group for the
+intended patient population is 18 or older.
+In addition, the semi-automatic pre-segmentation tools are restricted to CT scans of potential living liver donors with
+healthy livers.
+Intended Part of the Body:
+Images supported for the intended medical indication include the abdominal body part with the liver and related vascular
+structures (bile ducts, hepatic artery, hepatic vein, portal vein, inferior vena cava).
+Intended User Profile:
+The intended users are radiologists and surgeons.
+Intended Use Environment:
+The use environment is expected to be in an office environment under typical office conditions in hospitals or medical
+practices.
+Operation Principle:
+The software acts as modality for display of CT or MR imaging data, and for visualization of the image analysis results on
+a computer system. MeVis Liver Suite does not come into direct contact or indirect contact with patients or other medical
+devices.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 2 of 2K232045 510(k) Summary
+1 Submitter
+Submitted Name: MeVis Medical Solutions AG
+Caroline-Herschel-Straße 1
+28359 Bremen
+Germany
+Establishment Name: MeVis Medical Solutions AG
+Establishment
+Registration Number: 3010601176
+Date Prepared: 07/10/2023
+Contact Person: Rolf Rzodeczko
+Manager Regulatory Affairs
+Telephone: +49 (0)421 22495-120
+Fax: +49 (0)421 22495-999
+2 Device
+Device Trade Name: MeVis Liver Suite
+Device Common Name: MeVis Liver Suite
+Regulation: 21 CFR 892.1750
+Classification Name: Computed tomography x-ray system
+Product Code: JAK
+Class: Class II
+Panel: Radiology
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 13 Primary Predicate Device
+510(k) Number Primary Predicate Device Product Code
+K133643 syngo.CT Liver Analysis JAK
+4 Secondary Predicate Device(s)
+510(k) Number Secondary Predicate Device Product Code
+K173420 Radiomics App v1.0 LLZ
+5 Reference Device1
+510(k) Number Reference Device Product Code
+K193562 AI-Rad Companion Organs RT QKB
+6 Device Description
+MeVis Liver Suite is an image analysis software and intended to be used for visualization of
+hepatic imaging studies derived from CT and MR scanning devices (image source: single- and
+multiframe DICOM).
+MeVis Liver Suite supports physicians in their workflow for evaluating the liver, related vascular
+anatomy, and the volume of liver and liver vascular territories for treatment planning, preoperative
+evaluation of surgery strategies, and post-procedure or therapy follow-up assessment of the
+hepatic system and related vascular structures.
+The information created with MeVis Liver Suite is intended to be used only in addition to the
+original images, clinical data, and the real anatomical and clinical situation. Physicians make all
+final patient management, assessment, and treatment decisions.
+Software and Operating System
+MeVis Liver Suite is a standalone software application that can be installed on any PC that runs
+on Windows 10 which meet the hardware requirements.
+Supported Modalities
+DICOM compatible CT and MR image data with or without contrast.
+The tools for manual segmentation and 3D visualization (see below) are applicable for CT and
+MR image data with the exception of the AI based semi-automatic pre-segmentation tools. The
+1 Reference device for liver AI pre-segmentation performance acceptance criteria
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 2semi-automatic pre-segmentation tools are restricted to CT scans of potential living liver donors
+with healthy livers.
+Image import and selection
+MeVis Liver Suite supports image analysis for multiphase contrast enhanced CT, dynamic contrast
+enhanced MRI, and MRCP. MeVis Liver Suite only allows import of homogenous image series
+(i.e., image and pixel size must be constant within each series) and with orthogonal image matrix
+(without a gantry tilt). Images with a resolution of > 5mm slice spacing are not suitable for image
+analysis with MeVis Liver Suite.
+MeVis Liver Suite can be used to manually select DICOM images (CT and MR) for import.
+The user can visually inspect the images, if the anatomical structures are visible and if the image
+resolution and image quality is acceptable for the manual segmentation and the user’s needs.
+Segmentation and 3D visualization
+MeVis Liver Suite provides multiple contouring tools for manual segmentation.
+The user has full control over the workflow and decides which structures to segment. 3D
+visualizations are created on demand. The following segmentation workflows are available:
+• Abdominal organs
+MeVis Liver Suite is intended to be used to manually segment and visualize liver, stomach,
+duodenum, spleen, kidney, gallbladder, or pancreas using contouring tools. Users can
+inspect and manually correct, add, and delete their segmentation until they are satisfied
+with the result. The following tools are available:
+Freehand contouring
+o
+Region Growing
+o
+• Liver related vascular structures
+MeVis Liver Suite is intended to be used to manually segment and visualize bile ducts,
+hepatic artery, hepatic vein, portal vein, and inferior vena cava, including the option to
+manually classify different vessels of the vascular branches by assigning them user-
+defined labels. Users can inspect and manually correct, add, and delete their segmentation
+until they are satisfied with the result. The following tools are available:
+Freehand drawing and freehand contouring
+o
+Region Growing
+o
+Edit and label 3D tree
+o
+• Lesions inside and adjacent to the liver
+MeVis Liver Suite is intended to be used to manually segment, visualize, and label user
+identified lesions inside and adjacent to the liver using:
+Freehand contouring
+o
+MeVis Liver Suite does not identify or highlight lesions or other abnormalities.
+Additionally, the user can use AI based semi-automatic pre-segmentation of liver and liver
+related vascular structures to create a segmentation proposal. The semi-automatic pre-
+segmentation uses locked/non adaptive AI networks.
+• Semi-automatic pre-segmentation of the liver
+Supported modalities
+o
+ CT, contrast enhanced late-venous and venous phase
+Limitations
+o
+ Only intended for living donor liver transplantation cases (healthy livers)
+• Semi-automatic pre-segmentation for liver related vascular structures
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 3Supported modalities
+o
+ Hepatic vein: CT, contrast enhanced late-venous and venous phase
+ Portal vein: CT, contrast enhanced late-venous and venous phase
+ Hepatic artery: CT, contrast enhanced arterial phase
+Limitations
+o
+ Only intended for living donor liver transplantation cases (healthy livers)
+Evaluation of segmented objects
+Users can evaluate the segmented objects by exploring, calculating, and manually correcting:
+• Volume
+MeVis Liver Suite calculates the volume (via voxel-counting of segmentation mask) and
+displays the volume information to the user for the following manually segmented objects:
+Abdominal organs (i.e., liver, stomach, duodenum, spleen, kidney, gallbladder,
+o
+pancreas)
+Lesions inside and adjacent to the liver
+o
+Manually defined parts of the liver
+o
+ “Separation proposals”
+The user can manually define separation planes that part the liver into
+virtual parts. The user manually labels the parts as either “resection”/”graft”
+(for coloring the 3D visualization of the user-defined part with a red color),
+or “remnant” (green color)
+ “Vascular territories”
+Using the user-defined labeling (name and color) of vessel subtrees, the
+software calculates segmentation masks for the corresponding vascular
+territories within the liver
+• 3D visualizations of user-defined (vascular) tumor margins (coloring of area - based
+on user-defined margin sizes/distances - between the edges of user-defined lesions in
+relation to the edges of user-defined vascular structures of the liver)
+The distance of vascular structures to user selected lesions can be visualized with
+o
+colored 3D visualizations:
+ with color coded vascular structures (“vascular tumor margins”)
+ with color coded voxels around a lesion inside the liver (“tumor margins”)
+• Based on user provided values, calculation of liver volume to body weight ratios
+MeVis Liver Suite provides the following calculations:
+Estimated Weight for Remnant and Graft
+o
+Body Surface Area
+o
+Graft to Recipient Body Weight Ratio
+o
+Graft to Standard Liver Volume (SLV) Ratio
+o
+Remnant Volume to Body Weight Ratio
+o
+Manual spatial registration
+MeVis Liver Suite supports performing a manual spatial registration of the images from different
+modalities and studies (CT and MR). The user can manually align the imported images visually in
+pairs on top of each other using manual rigid registration.
+Reporting
+Using MeVis Liver Suite, the user can report results of the image analysis in different formats
+(DICOM for archiving, with DICOM definitions for 2D segmentation and 3D volumes; HTML
+report).
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 47 Indications for Use
+MeVis Liver Suite is an image analysis software and intended to be used for visualization of
+hepatic imaging studies derived from CT and MR scanning devices (image source: single- and
+multiframe DICOM).
+MeVis Liver Suite supports physicians in their workflow for evaluating the liver, related vascular
+anatomy, and the volume of liver and liver vascular territories for treatment planning, preoperative
+evaluation of surgery strategies, and post-procedure or therapy follow-up assessment of the
+hepatic system and related vascular structures.
+MeVis Liver Suite supports image analysis for multiphase contrast enhanced CT, dynamic contrast
+enhanced MRI, and MRCP. MeVis Liver Suite only allows import of homogenous image series
+(i.e., image and pixel size must be constant within each series) and with orthogonal image matrix
+(without a gantry tilt). Images with a resolution of > 5mm slice spacing are not suitable for image
+analysis with MeVis Liver Suite.
+MeVis Liver Suite can be used for manual segmentation, user-defined manual labeling, and 3D
+visualization of:
+• abdominal organs (i.e., liver, stomach, duodenum, spleen, kidney, gallbladder, and
+pancreas).
+• liver related vascular structures (i.e., bile ducts, hepatic artery, hepatic vein, portal vein,
+and inferior vena cava)
+• lesions inside and adjacent to the liver
+The tools for manual segmentation and 3D visualization are applicable for CT and MR imaging
+studies.
+In addition to the manual segmentation tools, MeVis Liver Suite provides AI based semi-automatic
+pre-segmentation tools for liver, hepatic artery, hepatic vein, and portal vein restricted to CT scans
+of potential living liver donors with healthy livers and intended for:
+• Liver: contrast enhanced late-venous and venous phase
+• Hepatic vein: contrast enhanced late-venous and venous phase
+• Portal vein: contrast enhanced late-venous and venous phase
+• Hepatic artery: contrast enhanced arterial phase
+Using MeVis Liver Suite, users can evaluate the segmented objects by exploring, calculating, and
+manually correcting:
+• the volume of the segmented abdominal organs (see above)
+• the volume of the segmented lesions inside and adjacent to the liver
+• the volume of the manually defined parts of the liver
+by defining separation planes (“separation proposals”)
+o
+from vascular territories that are derived from the user-defined labeling of the liver
+o
+related vascular structures
+• 3D visualizations of user-defined (vascular) tumor margins (coloring of area - based on
+user-defined margin sizes/distances - between the edges of user-defined lesions in relation
+to the edges of user-defined vascular structures of the liver)
+• based on user provided values, calculation of liver volume to body weight ratios (i.e.,
+estimated weight for remnant or graft, body surface area, graft to recipient body weight
+ratio, graft to SLV ratio, remnant to body weight ratio).
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 5Using a manual spatial registration of the images, the segmented objects (created on different CT
+phases and MRI sequences) can be visualized together.
+The information created with MeVis Liver Suite is intended to be used only in addition to the
+original images, clinical data, and the real anatomical and clinical situation. Physicians make all
+final patient management, assessment, and treatment decisions.
+MeVis Liver Suite is not intended for the anatomical systems integumentary, skeletal, muscular,
+lymphatic, respiratory, nervous, reproductive, and cardiovascular (excluding hepatic).
+MeVis Liver Suite does not support the following application areas: real time viewing, diagnostic
+review, image manipulation, optimization, virtual colonoscopy, and automatic lesion detection.
+MeVis Liver Suite does not utilize high-resolution displays or display drivers and should not be
+used as a replacement for a PACS workstation.
+Intended Patient Population:
+The intended patients for MeVis Liver Suite are oncologic patients or hepatic donor/transplant
+patients. CT or MR imaging with contrast agents need to be possible for analysis of vascular
+structures inside the liver. The age group for the intended patient population is 18 or older.
+In addition, the semi-automatic pre-segmentation tools are restricted to CT scans of potential living
+liver donors with healthy livers.
+Intended Part of the Body:
+Images supported for the intended medical indication include the abdominal body part with the
+liver and related vascular structures (bile ducts, hepatic artery, hepatic vein, portal vein, inferior
+vena cava).
+Intended User Profile:
+The intended users are radiologists and surgeons.
+Intended Use Environment:
+The use environment is expected to be in an office environment under typical office conditions in
+hospitals or medical practices.
+Operation Principle:
+The software acts as modality for display of CT or MR imaging data, and for visualization of the
+image analysis results on a computer system. MeVis Liver Suite does not come into direct contact
+or indirect contact with patients or other medical devices.
+8 Technological Characteristics Comparison
+The design, function, and specifications of MeVis Liver Suite are similar to the identified legally
+marketed primary predicate and secondary predicate device. The MeVis Liver Suite software
+combines functionalities of the predicate devices. MeVis Liver Suite allows the medical
+professionals to display DICOM CT and MR images, and to do a segmentation of internal
+structures of interest as organs, lesions, vascular structures, including functionality of automatic
+pre-segmentation that supports the clinicians for contouring.
+From a functionality point of view, MeVis Liver Suite and the combination of the predicate devices
+are substantially equivalent and they cover the same (combined) intended use.
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 6Key differences in design and performance between MeVis Liver suite and the predicate devices
+are solely on a technical level.
+Table 1 Comparison table for indications for use.
+Device Indications for Use
+Subject Device MeVis Liver Suite is an image analysis software and intended to be used for visualization of
+MeVis Liver Suite hepatic imaging studies derived from CT and MR scanning devices (image source: single- and
+multiframe DICOM).
+MeVis Liver Suite supports physicians in their workflow for evaluating the liver, related vascular
+anatomy, and the volume of liver and liver vascular territories for treatment planning,
+preoperative evaluation of surgery strategies, and post-procedure or therapy follow-up
+assessment of the hepatic system and related vascular structures.
+MeVis Liver Suite supports image analysis for multiphase contrast enhanced CT, dynamic
+contrast enhanced MRI, and MRCP. MeVis Liver Suite only allows import of homogenous
+image series (i.e., image and pixel size must be constant within each series) and with
+orthogonal image matrix (without a gantry tilt). Images with a resolution of > 5mm slice spacing
+are not suitable for image analysis with MeVis Liver Suite.
+MeVis Liver Suite can be used for manual segmentation, user-defined manual labeling, and 3D
+visualization of:
+• abdominal organs (i.e., liver, stomach, duodenum, spleen, kidney, gallbladder, and
+pancreas).
+• liver related vascular structures (i.e., bile ducts, hepatic artery, hepatic vein, portal
+vein, and inferior vena cava)
+• lesions inside and adjacent to the liver
+The tools for manual segmentation and 3D visualization are applicable for CT and MR imaging
+studies.
+In addition to the manual segmentation tools, MeVis Liver Suite provides AI based semi-
+automatic pre-segmentation tools for liver, hepatic artery, hepatic vein, and portal vein
+restricted to CT scans of potential living liver donors with healthy livers and intended for:
+• Liver: contrast enhanced late-venous and venous phase
+• Hepatic vein: contrast enhanced late-venous and venous phase
+• Portal vein: contrast enhanced late-venous and venous phase
+• Hepatic artery: contrast enhanced arterial phase
+Using MeVis Liver Suite, users can evaluate the segmented objects by exploring, calculating,
+and manually correcting:
+• the volume of the segmented abdominal organs (see above)
+• the volume of the segmented lesions inside and adjacent to the liver
+• the volume of the manually defined parts of the liver
+by defining separation planes (“separation proposals”)
+o
+from vascular territories that are derived from the user-defined labeling of the
+o
+liver related vascular structures
+• 3D visualizations of user-defined (vascular) tumor margins (coloring of area - based
+on user-defined margin sizes/distances - between the edges of user-defined lesions in
+relation to the edges of user-defined vascular structures of the liver)
+• based on user provided values, calculation of liver volume to body weight ratios (i.e.,
+estimated weight for remnant or graft, body surface area, graft to recipient body
+weight ratio, graft to SLV ratio, remnant to body weight ratio).
+Using a manual spatial registration of the images, the segmented objects (created on different
+CT phases and MRI sequences) can be visualized together.
+The information created with MeVis Liver Suite is intended to be used only in addition to the
+original images, clinical data, and the real anatomical and clinical situation. Physicians make all
+final patient management, assessment, and treatment decisions.
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 7MeVis Liver Suite is not intended for the anatomical systems integumentary, skeletal,
+muscular, lymphatic, respiratory, nervous, reproductive, and cardiovascular (excluding
+hepatic).
+MeVis Liver Suite does not support the following application areas: real time viewing,
+diagnostic review, image manipulation, optimization, virtual colonoscopy, and automatic lesion
+detection.
+MeVis Liver Suite does not utilize high-resolution displays or display drivers and should not be
+used as a replacement for a PACS workstation.
+Intended Patient Population:
+The intended patients for MeVis Liver Suite are oncologic patients or hepatic donor/transplant
+patients. CT or MR imaging with contrast agents need to be possible for analysis of vascular
+structures inside the liver. The age group for the intended patient population is 18 or older.
+In addition, the semi-automatic pre-segmentation tools are restricted to CT scans of potential
+living liver donors with healthy livers.
+Intended Part of the Body:
+Images supported for the intended medical indication include the abdominal body part with the
+liver and related vascular structures (bile ducts, hepatic artery, hepatic vein, portal vein, inferior
+vena cava).
+Intended User Profile:
+The intended users are radiologists and surgeons.
+Intended Use Environment:
+The use environment is expected to be in an office environment under typical office conditions
+in hospitals or medical practices.
+Operation Principle:
+The software acts as modality for display of CT or MR imaging data, and for visualization of the
+image analysis results on a computer system. MeVis Liver Suite does not come into direct
+contact or indirect contact with patients or other medical devices.
+Primary Predicate syngo.CT Liver Analysis is an image analysis software for CT volume data sets. It analyses the
+device: liver and its intrahepatic vessel structures to identify the vascular territories of sub-vessel
+Siemens syngo. systems in the liver. These regions can be evaluated by exploring the volume of the liver and
+CT Liver Analysis its vascular territories.
+(K133643)
+Using syngo.CT Liver Analysis, you can evaluate the liver volume and examine the vessels of
+the liver. The following evaluation tools are provided:
+• Computation and manual correction of liver volumes
+• Computation and manual correction of tumor volumes and extent
+• Computation and manual correction of liver vessel tree structure
+• Computation of territories based on vessel branches
+• Tumor position in relation to vessels (i.e. 3D visualization of liver, tumor and vessels)
+• Manual definition of separation plane proposals
+• Computation of volume of liver parts
+• Combination of information from different CT and MR phase volumes
+syngo.CT Liver Analysis facilitates reporting by using of appropriate reporting tools, for
+example, volume statistics and key image creation. You can use syngo.CT Liver Analysis to
+create a DICOM Structured Report.
+Secondary Microsoft Radiomics Advanced Image Contouring v1.0 (Radiomics App) is a software-only
+Predicate device: medical device intended for use by trained radiation oncologists, dosimetrists and physicists to
+Radiomics App derive optimal organ and tumor contours for input to radiation treatment planning. Supported
+v1.0 (K173420) image modalities are Computed Tomography and Magnetic Resonance. Radiomics App
+assists in the following scenarios:
+Load, save and display of medical images and contours for treatment evaluation and treatment
+planning.
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 8Creation, transformation, and modification of contours for applications including, but not limited
+to: transferring contours to radiotherapy treatment planning systems, aiding adaptive therapy,
+and archiving contours for patient followup.
+Localization and definition of both solid tumors and healthy anatomical structures.
+Fusion display of compatible images for treatment planning.
+Three-dimensional rendering of medical images and the segmented contours.
+Images reviewed using the Radiomics App software should not be used for primary image
+interpretations.
+Radiomics App is not for use with digital mammography.
+Table 2 Comparison table for Substantial Equivalence Discussion
+Feature/ MeVis Liver Suite (subject Primary Predicate device Secondary Predicate device
+Item device)
+Device Name MeVis Liver Suite Siemens syngo. CT Liver Radiomics App v1.0
+Analysis
+510(k) Number K232045 K133643 K173420
+Indications for See above See above See above
+Use
+Intended Users The intended users are intended for use by physicians intended for use by trained
+radiologists and surgeons. radiation oncologists,
+dosimetrists and physicists to
+derive optimal organ and
+tumor contours for input to
+radiation treatment planning.
+Patient The intended patients for Patients requiring analysis of Oncologic patients
+population MeVis Liver Suite are liver and its intrahepatic vessel
+oncologic patients or hepatic structures. Designed to contour/delineate
+donor/transplant patients. (No restrictions regarding both healthy anatomical
+healthy liver donors, oncologic structures as well as lesions
+CT or MR imaging with patients, …) such as solid tumors.
+contrast agents need to be
+possible for analysis of
+vascular structures inside the
+liver.
+The age group for the intended
+patient population is 18 or
+older.
+In addition, the semi-automatic
+pre-segmentation tools are
+restricted to CT scans of
+potential living liver donors
+with healthy livers.
+Intended Part Images supported for the liver and its intrahepatic vessel No restrictions.
+of the Body intended medical indication structures
+include the abdominal body
+part with the liver and related
+vascular structures (bile ducts,
+hepatic artery, hepatic vein,
+portal vein, inferior vena cava).
+Product Code JAK JAK LLZ
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 9Software Standalone software Image analysis software for Software only medical device
+syngo.via
+OS Windows 10 (64-bit) syngo.via platform Microsoft Windows
+Supported DICOM CT and MR CT and MR CT and MR
+Modalities
+Image import DICOM images are manually The user has to decide which The user manually loads
+and selection selected and imported into anatomical structures need to images into the software.
+MeVis Liver Suite. be evaluated and on which CT
+series the necessary
+structures have to be
+segmented.
+Segmentation • Liver, • Liver • No restrictions
+of abdominal • Stomach,
+organs
+• Duodenum,
+• Spleen,
+• Kidney,
+• Gallbladder, and
+• Pancreas
+Manual segmentation, user- Automatic segmentation of Assisted and automatic
+defined manual labelling, and liver, interactive manual contouring modes. Creation,
+3D visualization. correction of the resulting transformation, and
+For segmenting the liver, the contour. modification of contours.
+user can trigger a semi-
+automatic pre-segmentation
+that creates contours of the
+liver. The created contours
+can be manually corrected with
+interactive contouring tools.
+Segmentation Manual segmentation, user- Segmentation of tubular n/a
+of liver related defined manual labelling, and structures using a semi-
+vascular 3D visualization of liver related automated segmentation of
+structures vascular structures (bile ducts, arterial, portal venous and
+hepatic artery, hepatic vein, venous vascular bile ducts
+portal vein, inferior vena cava). tree.
+Semi-automatic pre- The segmentation is
+segmentation for liver performed by setting seed
+related vascular structures is point into vessels entering the
+available: the user can click in liver and the system
+a user-identified vessel and automatically starts to
+the software detects the segment the whole
+connected vessels. The user intrahepatic vascular object.
+can manually correct, add, or The user can manually add or
+delete detected vessels delete vessels.
+interactively
+Segmentation Lesions inside and adjacent to Semi-automated segmentation Tumors
+of lesions the liver of liver lesions.
+Manual segmentation, user- The user triggers automatic Creation, transformation, and
+defined manual labelling, and segmentation by drawing a modification of contours.
+3D visualization of lesions stroke across a lesion at its Localization and definition of
+inside and adjacent to the liver. largest extent. The user can solid tumors.
+correct the given contour of a
+lesion.
+Users can Abdominal organs (i.e., liver, Computation and manual Segmentation volume
+evaluate the stomach, duodenum, spleen, correction of liver volumes.
+segmented kidney, gallbladder, pancreas)
+objects by
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 10exploring, Lesions inside and adjacent to Computation and manual
+calculating, the liver (according to their correction of tumor volumes
+and manually user defined label) and extent.
+correcting the
+volume of Manually defined parts of the Manual definition of separation
+manually liver “Separation Proposals”:” plane proposals and
+segmented The user can manually define computation of volume of liver
+objects of separation planes that part the parts.
+interest liver into virtual parts. The user
+manually labels the parts as
+either “resection”/”graft”.
+Manually defined parts of the Computation of territories
+liver “Vascular territories”: based on vessel branches by
+Using the user-defined semi-automated 3D mapping
+labelling of vessel branches of vascular territories onto liver
+the software can approximate tissue and computation of
+3D visualizations of vascular volume of liver parts.
+territories within the liver and
+calculate the appropriate
+volumes of the different parts
+3D The user can manually enter Tumor position in relation to 2d distance measurement
+visualizations different margin values, which vessels (i.e. 3D visualization of
+of user-defined are used to create color-coded liver, tumor and vessels). The
+(vascular) 3D visualizations around user margin size can be chosen
+tumor margins defined lesions. interactively for calculating
+(coloring of safety margin around given
+area - based on tumors.
+user-defined
+margin
+sizes/distances
+- between the
+edges of user-
+defined lesions
+in relation to
+the edges of
+user-defined
+vascular
+structures of
+the liver)
+Based on user The user can enter the weight n/a n/a
+provided and height of a patient. Using
+values, the user-defined manually
+calculation of created segmentations, MeVis
+liver volume to Liver Suite can calculate liver
+body weight volume to body weight ratios
+ratios (i.e., estimated weight for
+remnant or graft, body surface
+area, graft to recipient body
+weight ratio, graft to SLV ratio,
+remnant to body weight ratio).
+Spatial Using a manual spatial Manual rigid registration of CT Manual rigid registration.
+Registration registration of the images, the phase volumes -
+segmentations created on In case more than one CT (or
+different images (i.e. different MR) series has been selected,
+CT phases and MRI the series have to be manually
+sequences) can be visualized aligned to each other to match
+together. The user can up the liver anatomy, using the
+manually align the images in manual alignment tool.
+pairs on top of each other
+using manual rigid registration
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 11Reporting Reporting the results of image Reporting - All findings n/a
+analysis. generated by the user as well
+as calculated volumes and 3D
+images of the structures are
+summarized in one report.
+9 Performance Data
+Non-clinical Tests Discussion:
+MeVis Liver Suite is the result of combining functionalities of the predicate devices into a single
+new device. The validation and verification covered successful testing of the performance and
+functionality of the subject device with respect to conformance to specifications. For validation,
+human factors and usability engineering has been applied during development, which included a
+formative evaluation as well as a summative evaluation with the intended user group. In addition,
+user acceptance tests were conducted in order to get clinical feedback and to demonstrate that
+MeVis Liver Suite supports clinical workflows.
+The performance of the AI pre-segmentation for the liver and liver related vasculature has been
+validated in a retrospective multi-center performance study:
+Liver: For semi-automatic AI pre-segmentation of the liver, MeVis Liver Suite achieved a
+mean and median DICE score > 85% with a median 95% Hausdorff (HD) value of <2.0
+mm. Subgroup analysis indicates that the AI algorithm generalize well across all
+subgroups. Compared to the reference device AI-Rad Companion Organs RT (K193562),
+both the DICE score and the HD value were similar in nature and achieved appropriate
+quality. As it can be seen in Table 3, the achieved performance of the MeVis Liver Suite
+liver AI pre-segmentation algorithm and reference device are comparable in DICE and
+Hausdorff Distance.
+Table 3 Performance comparison of liver AI pre-segmentation between MeVis
+Liver Suite and reference device.
+95% Hausdorff
+DICE
+Distance (HD)
+AI-Rad Companion Organs RT (K193562) Median: 0.85 Median: 2.0 mm
+Median: 0.98
+MeVis Liver Suite Median: 1.5 mm
+Mean: 0.98
+Liver related vasculature: For the semi-automatic AI pre-segmentation of vascular
+structures HV, PV and HA, bench tests that compare the output of the AI pre-segmentation
+algorithms with ground truth annotated by qualified experts show that the algorithms
+performed as expected.
+For a representative clinical multi-center dataset, the AI pre-segmentation results were
+assessed by 3 board certified surgeons/radiologists using a 5-point Likert scale. The
+qualitative scoring demonstrates that >80% of all expert scores rated the algorithm results
+as sufficiently accurate in the context of the clinical use.
+Volume calculation of segmentations by MeVis Liver Suite are successfully verified and validated
+via simulated phantom and clinical test data:
+• The accuracy of volume is validated by comparing the measured volume of lesions in
+digital simulated phantom data with a reference value. The pass criteria for accuracy of
+volume calculation is fulfilled.
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 12• Clinical test data was used to validate the precision of volume calculation in terms of
+repeatability. The pass criteria for precision of volume calculation based on a
+representative test data set is fulfilled
+The results of performance, functional, and validation testing demonstrate that the subject device
+MeVis Liver Suite meets the specification and intended use, and is substantially equivalent to
+those of the listed predicate devices.
+Clinical Tests Discussion:
+N/A - No clinical testing has been conducted to demonstrate substantial equivalence.
+10 Conclusion
+MeVis Medical Solutions has determined that its device, MeVis Liver Suite, is substantially
+equivalent to the identified predicate devices listed above. A comparison with the legally marketed
+predicate devices indicates that it is substantially equivalent to these devices, and that it does not
+raise any new safety or efficacy concerns. Non-clinical tests demonstrate that the device is
+substantially equivalent to the predicate devices.
+MeVis Liver Suite 510(k) – K232045
+001-005, Rev 1 – 09/27/2023
+Page 13

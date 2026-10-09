@@ -1,0 +1,863 @@
+August 3, 2020
+Eyenuk, Inc
+Kaushal Solanki, Ph.D.,
+Chief Executive Officer
+5850 Canoga Ave. Suite 250
+Los Angeles, California 91367
+Re: K200667
+Trade/Device Name: EyeArt
+Regulation Number: 21 CFR 886.1100
+Regulation Name: Retinal diagnostic software device
+Regulatory Class: Class II
+Product Code: PIB
+Dated: June 30, 2020
+Received: June 30, 2020
+Dear Dr. Solanki:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.17
+Silver Spring, MD 20993
+www.fda.govK200667 - Kaushal Solanki, Ph.D. Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Elvin Ng
+Assistant Director
+DHT1A: Division of Ophthalmic Devices
+OHT1: Office of Ophthalmic, Anesthesia,
+Respiratory, ENT and Dental Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureEyeArt 510(k) Summary (K200667)
+510(k) SUMMARY
+Eyenuk’s EyeArt
+Submitter
+Eyenuk, Inc.
+5850 Canoga Ave., Suite 250
+Los Angeles, CA, 91367
+Phone: +1 (818) 835-3585
+Contact Person: Kaushal Solanki
+Date Prepared: August 3, 2020
+Name of Device: EyeArt
+Classification Name: Retinal diagnostic software device
+Regulatory Class: Class II
+Regulation: 21 CFR 886.1100
+Product Code: PIB
+Legally Marketed Predicate Device
+Trade name of the device: IDx-DR
+Manufacturer’s Name: IDx LLC
+De Novo Number: DEN180001
+A. Intended Use / Indications for Use
+EyeArt is indicated for use by healthcare providers to automatically detect more than
+mild diabetic retinopathy and vision-threatening diabetic retinopathy (severe non-
+proliferative diabetic retinopathy or proliferative diabetic retinopathy and/or diabetic
+macular edema) in eyes of adults diagnosed with diabetes who have not been previously
+diagnosed with more than mild diabetic retinopathy. EyeArt is indicated for use with
+Canon CR-2 AF and Canon CR-2 Plus AF cameras in both primary care and eye care
+settings.
+Page 1 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+B. Device Description
+EyeArt is a software as a medical device that consists of several components – Client, Server,
+and Analysis Computation Engine – as presented in Figure 1 below.
+Figure 1: EyeArt components: Client, Server, and Analysis Compute Engine.
+A retinal fundus camera, used to capture retinal fundus images of the patient, is connected to a
+computer where the EyeArt Client software is installed. The EyeArt Client software provides a
+graphical user interface (GUI) that allows the EyeArt operator to transfer the appropriate fundus
+images to and receive results from the remote EyeArt Analysis Computation Engine through the
+EyeArt Server. The EyeArt Analysis Computation Engine is installed on remote computer(s) in a
+secure data center and uses artificial intelligence algorithms to analyze the fundus images and
+return results. EyeArt is intended to be used with color fundus images of resolution 1.69
+megapixels or higher captured using one of the indicated color fundus cameras (Canon CR-2 AF
+and Canon CR-2 Plus AF) with 45 degrees field of view. EyeArt is specified for use with two
+color fundus images per eye: optic nerve head (ONH) centered and macula centered.
+For each patient eye, the EyeArt results separately indicate whether more than mild diabetic
+retinopathy (mtmDR) and vision-threatening diabetic retinopathy (vtDR) are detected. More
+than mild diabetic retinopathy is defined as the presence of moderate non-proliferative diabetic
+retinopathy or worse on the International Clinical Diabetic Retinopathy (ICDR) severity scale
+and/or the presence of diabetic macular edema. Vision-threatening diabetic retinopathy is defined
+as the presence of severe non-proliferative diabetic retinopathy or proliferative diabetic
+retinopathy on the ICDR severity scale and/or the presence of diabetic macular edema.
+Description of EyeArt components is provided below.
+• EyeArt Client: This component is installed on the computer used by the EyeArt operator
+(working under supervision of a healthcare provider). It allows the operator to transfer
+images to the EyeArt Analysis Computation Engine and receive results. Its functioning
+requires an internet connection. If images from a patient encounter cannot be analyzed,
+Page 2 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+due to poor image quality or due to lack of all required image fields, feedback is provided
+to the operator to help successfully obtain results upon resubmission.
+• EyeArt Server: This component provides an interface that securely handles incoming
+requests and securely stores user information including images and results. It enables the
+EyeArt Client to use the EyeArt Analysis Computation Engine through an application
+programming interface (API).
+• EyeArt Analysis Computation Engine: This component analyzes the images to determine
+exam quality and detect mtmDR and vtDR. It consists of an ensemble of clinically
+aligned machine learning (deep learning) algorithms.
+C. Non-clinical Testing
+EyeArt (software version v2.1.0) was identified as having a major level of concern as defined in
+the FDA guidance document “Guidance for the Content of Premarket Submissions for Software
+Contained in Medical Devices.”
+Verification and validation activities at unit, integration, and system level were performed. In all
+instances, EyeArt functioned as intended and results observed were as expected (i.e. all
+specifications were met).
+Comprehensive risk analysis has been conducted for EyeArt with identification and detailed
+characterization of the hazards including their causes and severity. Adequate risk control
+measures have been designed and implemented to mitigate all identified hazards to acceptable
+levels.
+EyeArt also implements comprehensive cybersecurity measures for data confidentiality, data
+integrity, and data and service availability. Designed to meet industry standard cybersecurity best
+practices, EyeArt ensures that data remains secure (with encryption during transit and at rest) and
+private (with authentication and authorization protocols enabling access).
+EyeArt has been designed to provide results that are aligned with the clinical practice
+recommendations for the ophthalmic care of patients with diabetes and has been developed in a
+clinically aligned framework.
+A change protocol was also submitted, to allow for updates and improvements to EyeArt while
+ensuring that the changes do not introduce risks that adversely affect the safety and effectiveness
+of the device for its intended use.
+D. Clinical Testing
+1. Overview
+EyeArt was validated in a prospective, multi-center pivotal clinical trial (ClinicalTrials.gov ID
+NCT03112005). A total of 942 subjects were consented of which 915 subjects met study
+Page 3 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+eligibility criteria. The study was designed to support a De Novo submission since a predicate
+device did not exist when the EyeArt clinical trial was launched. To better align the analysis
+population with the proposed intended use population, analyses were presented on 655
+participants after excluding subjects who did not meet certain additional prespecified criteria
+(e.g., subjects 21 years old or younger). The 655 participants were enrolled in the study at 11 US
+study sites that included primary care centers and general ophthalmology centers. The
+participants were further divided into two cohorts: one for subjects enrolled during a period of
+sequential enrollment only (235 subjects, with 45 enrolled at primary care sites and 190 enrolled
+at ophthalmology sites) and the second enrolled during a period when procedures allowed
+sequential as well as enriched enrollment (420 subjects, with 335 enrolled at primary care sites
+and 85 enrolled at ophthalmology sites). The performance of EyeArt was evaluated against a
+reference standard determined by experienced and certified graders at the Fundus Photography
+Reading Center (FPRC) per the Early Treatment for Diabetic Retinopathy Study severity
+(ETDRS) scale on dilated 4-wide field stereo fundus imaging by FPRC certified photographers.
+The subject disposition is shown in Figure 2 below.
+Figure 2: Subject disposition and cohorts used for analyses to support substantial equivalence.
+2. Study Design and Methods
+The target population of the EyeArt pivotal clinical trial analysis was asymptomatic persons aged
+22 years and older who were diagnosed with diabetes and not diagnosed with more than mild
+diabetic retinopathy. The enrollment was conducted sequentially for the first several months of
+the study (“sequential enrollment” period). In order to increase the likelihood of enrolling
+patients with more severe levels of diabetic retinopathy (DR), for a portion of the study, sites
+were permitted to preferentially enroll subjects who met specific eligibility criteria based on
+Page 4 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+duration of diabetes, insulin dependence (for subjects with type-2 diabetes), or hemoglobin A1C
+(HbA1c) levels. During this period (“enrichment-permitted” period), sites could also enroll
+scheduled subjects sequentially. In other words, during this period, enrichment was permitted but
+not required.
+During the study visit, subjects underwent 2-field retinal photography by a trained operator for
+processing by EyeArt. Subjects then underwent dilated 4-wide field stereo retinal photography
+by an FPRC certified operator for the clinical reference standard. The dilated four wide-field
+stereo-image sets were independently reviewed and graded by certified graders at FPRC, to
+determine the severity of diabetic retinopathy (DR) and diabetic macular edema (DME)
+according to the ETDRS severity scale. Each subject’s images were graded independently by 2
+experienced and certified graders and in case of significant differences (determined using pre-
+specified significance levels) in the 2 independent gradings, a more experienced adjudication
+grader graded the same images. Throughout the study, the graders and study staff at the FPRC
+were masked to the patient history and EyeArt results. The FPRC grading was used to determine
+the clinical reference standard for subject eyes as follows for the analyses:
+• Clinical reference standard for more than mild DR (mtmDR)
+o positive if ETDRS level was 35 or greater (but not equal to 90) or clinically
+significant macular edema [CSME] grade was CSME present
+o negative if ETDRS levels were 10-20 and CSME grade was CSME absent
+o ungradable if ETDRS level was 90, or CSME grade was cannot grade or
+questionable with ETDRS level 10-20
+• Clinical reference standard for vision-threatening DR (vtDR)
+o positive if ETDRS level was 53 or greater (but not equal to 90) or CSME grade
+was CSME present
+o negative if ETDRS levels were 10-47 and CSME grade was CSME absent
+o ungradable if ETDRS level was 90, or CSME grade was cannot grade or
+questionable with ETDRS level 10-47
+EyeArt results for each eye included detection results for more than mild DR (mtmDR) and
+vision-threatening DR (vtDR) and each of the mtmDR and vtDR results were negative or
+positive, or when sufficient-quality images were not present, ungradable. The EyeArt mtmDR
+and vtDR results for each eye were compared to the mtmDR and vtDR clinical reference
+standard based on the FPRC grading.
+3. Study Population and Demographics
+In Table 1, demographic and diabetes characteristics of the analysis population are presented
+stratified by the 4 subgroups defined in Figure 2.
+Page 5 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 1: Demographic and diabetes characteristics of the study population.
+Sequential enrollment cohort Enrichment permitted cohort
+Characteristics Primary care Ophthalmology Primary care Ophthalmology
+N=45 subjects N=190 subjects N=335 subjects N=85 subjects
+Age in mean (Std. Dev) 51.9 (10.0) 60.5 (11.0) 51.5 (16.1) 60.0 (10.3)
+years
+median 52 61.5 54 60
+range 27.0 - 75.0 27.0 - 88.0 22.0 - 86.0 33.0 - 83.0
+HbA1c mean (Std. Dev) 9.2 (2.2) 7.0 (1.5) 7.8 (1.7) 7.5 (1.6)
+median 9.1 6.8 7.5 7.2
+range 6.1 - 13.1 5.0 - 14.0 5.1 - 15.3 5.7 - 13.0
+Diabetes mean (Std. Dev) 7.9 (7.6) 11.3 (10.4) 14.4 (10.9) 15.7 (8.9)
+duration
+median 5 8 13 13
+in years
+range 0.0 - 34.0 0.0 - 50.0 0.0 - 51.0 0.0 - 48.0
+Female % (count) 44.4% (20) 61.6% (117) 44.5% (149) 70.6% (60)
+Race % American Indian
+0.0% (0) 0.0% (0) 0.3% (1) 2.4% (2)
+(count) or Alaska Native
+Asian 8.9% (4) 2.6% (5) 1.2% (4) 0.0% (0)
+Black or African-
+4.4% (2) 20.0% (38) 14.9% (50) 14.1% (12)
+American
+Native Hawaiian
+0.0% (0) 0.5% (1) 0.0% (0) 0.0% (0)
+or Pacific Islander
+Other 0.0% (0) 6.3% (12) 1.5% (5) 8.2% (7)
+White 86.7% (39) 70.5% (134) 82.1% (275) 75.3% (64)
+Ethnicity Non-
+17.8% (8) 80.0% (152) 86.6% (290) 78.8% (67)
+% Hispanic/Latino
+(count)
+Hispanic/Latino 82.2% (37) 20.0% (38) 13.4% (45) 21.2% (18)
+Diabetes Type 1 13.3% (6) 3.7% (7) 36.7% (123) 3.5% (3)
+type %
+(count) Type 2 86.7% (39) 96.3% (183) 63.3% (212) 96.5% (82)
+4. Summary of Clinical Study Results
+The primary outcomes were the sensitivity and specificity of EyeArt for detecting mtmDR and
+vtDR in subject eyes. The performance measures are separately reported for each cohort.
+a) EyeArt performance for detecting more than mild DR (mtmDR) and vision-
+threatening DR (vtDR) in the sequentially enrolled cohort
+In Table 2, the key performance measures are summarized for the sequentially enrolled cohorts
+at primary care and ophthalmology sites. Contingency tables and additional performance
+measures for sequential enrollment cohorts at primary care sites and ophthalmology sites are
+Page 6 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+presented in the Appendix in Table 6 and Table 7 for EyeArt mtmDR and vtDR outputs
+respectively.
+Table 2: Summary of EyeArt performance for sequentially enrolled cohorts at primary care and
+ophthalmology sites.
+Sequentially enrolled cohort
+EyeArt mtmDR output EyeArt vtDR output
+Primary care Ophthalmology Primary care Ophthalmology
+(N=90 eyes) (N=380 eyes) (N=90 eyes) (N=380 eyes)
+100.0% 94.9% 100.0% 88.9%
+Sensitivity [74.1% - 100%]† [86.4% - 100.0%] [51.0% - 100%]† NA
+(11/11) (37/39) (4/4) (8/9)
+92.0% 86.7% 97.5% 93.8%
+Specificity [85.1% - 97.5%] [82.1% - 90.7%] [93.4% - 100.0%] [90.4% - 96.6%]
+(69/75) (281/324) (77/79) (331/353)
+96.6% 98.6% 96.5% 98.6%
+Imageability [90.9% - 100.0%] [97.0% - 99.7%] [90.6% - 100.0%] [97.0% - 99.7%]
+(86/89) (363/368) (83/86) (362/367)
+Positive 64.7% 46.2% 66.7% 26.7%
+predictive value [40.0% - 85.7%] [32.2% - 59.0%] NA [11.1% - 44.4%]
+(PPV) (11/17) (37/80) (4/6) (8/30)
+Negative 100.0% 99.3% 100.0% 99.7%
+predictive value [94.7% - 100%]† [98.2% - 100.0%] [95.2% - 100%]† [99.1% - 100.0%]
+(NPV) (69/69) (281/283) (77/77) (331/332)
+12.2% 10.5% 4.4% 2.4%
+Disease
+[4.4% - 20.0%] [6.6% - 15.0%] [0.0% - 11.1%] [1.0% - 4.2%]
+prevalence
+(11/90) (40/380) (4/90) (9/380)
+All the 95% confidence intervals (CIs) are computed using the clustered bootstrap method that takes into consideration the
+correlation between eyes of the same subject. “NA” indicates instances when this CI method fails due to small sample sizes.
+†For cases with proportion of 100%, the 95% confidence intervals using clustered bootstrap are [100% - 100%], hence the
+Wilson method is used, which however is not designed to consider eye correlation.
+b) EyeArt performance for detecting more than mild DR (mtmDR) and vision-
+threatening DR (vtDR) in the enrichment-permitted cohort
+InTable , the key performance measures are summarized for the enrichment-permitted cohorts at
+primary care and ophthalmology sites. Contingency tables and additional performance measures
+for enrichment-permitted cohorts at primary care sites and ophthalmology sites are presented in
+the Appendix in Table 8 and Table 9 respectively.
+Page 7 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 3: Summary of EyeArt performance at primary care and ophthalmology cohorts when
+enrichment was permitted.
+Enrichment-permitted cohort
+EyeArt mtmDR output EyeArt vtDR output
+Primary care Ophthalmology Primary care Ophthalmology
+(N=670 eyes) (N=170 eyes) (N=670 eyes) (N=170 eyes)
+92.9% 96.6% 91.7% 100.0%
+Sensitivity [87.1% - 97.5%] [87.5% - 100.0%] [80.0% - 100.0%] [51.0% - 100%]†
+(92/99) (28/29) (22/24) (4/4)
+85.6% 85.2% 92.2% 89.8%
+Specificity [82.2% - 89.1%] [78.1% - 91.5%] [89.6% - 94.6%] [83.9% - 95.4%]
+(457/534) (115/135) (553/600) (141/157)
+96.8% 96.5% 96.7% 97.0%
+Imageability [94.8% - 98.5%] [91.8% - 100.0%] [94.8% - 98.5%] [92.9% - 100.0%]
+(633/654) (164/170) (624/645) (161/166)
+Positive 54.4% 58.3% 31.9% 20.0%
+predictive value [45.3% - 63.6%] [40.3% - 74.5%] [19.7% - 44.4%] [0.0% - 42.1%]
+(PPV) (92/169) (28/48) (22/69) (4/20)
+Negative 98.5% 99.1% 99.6% 100.0%
+predictive value [97.3% - 99.5%] [97.2% - 100.0%] [99.1% - 100.0%] [97.3% - 100%]†
+(NPV) (457/464) (115/116) (553/555) (141/141)
+15.5% 19.4% 4.2% 2.4%
+Disease
+[12.1% - 19.3%] [11.8% - 27.6%] [2.4% - 6.3%] [0.0% - 5.9%]
+prevalence
+(104/670) (33/170) (28/670) (4/170)
+All the 95% confidence intervals (CIs) are computed using the clustered bootstrap method that takes into consideration the
+correlation between eyes of the same subject. “NA” indicates instances when this CI method fails due to small sample sizes.
+†For cases with proportion of 100%, the 95% confidence intervals using clustered bootstrap are [100% - 100%], hence the
+Wilson method is used, which however is not designed to consider eye correlation.
+c) Imageability
+EyeArt disease results (positive or negative) were obtained for a vast majority of eyes
+(imageability of 96.5% or greater) that received a completed FPRC grading.
+• Sequential enrollment cohort at primary care sites had an imageability of 96.5% or greater,
+where gradable results were obtained in the first attempt without dilation in (81/86) 94.2%
+eyes.
+• Sequential enrollment cohort at ophthalmology sites had an imageability of 98.6%, where
+gradable results were obtained in the first attempt without dilation in (300/367) 81.7% eyes.
+• Enrichment-permitted cohort at primary care sites had an imageability of 96.7% or greater,
+where gradable results were obtained in the first attempt without dilation in (582/654) 89.0%
+eyes.
+Page 8 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+• Enrichment-permitted cohort at ophthalmology sites had an imageability of 96.5% or greater,
+where gradable results were obtained in the first attempt without dilation in (142/170) 83.5%
+eyes.
+5. Precision Study
+Eyenuk conducted a separate precision (repeatability and reproducibility) study on 62 subjects at
+2 US primary care sites (31 subjects each) that evaluated the EyeArt results when retinal
+photography was repeated using the Canon CR-2 AF camera with different operator-camera
+pairs. Repeatability (intra-operator variability) and reproducibility (inter-operator variability)
+were specifically analyzed using data from Cohorts P1 and P2 from the study as described in the
+following sections. All the 95% CIs reported here are computed using the clustered bootstrap
+method taking into consideration the correlation between eyes.
+a) Repeatability (Intra-operator variability) analysis
+For subjects at the first site, Cohort P1, there were 3 operator-camera pairings consisting of 3
+different operators using 2 different camera units of the same model (each operator operated a
+given camera unit). Each eye of each subject was to undergo imaging by each operator-camera
+pair twice for a total of 186 pairs of images (where one “image” = a disc-centered image and a
+macula-centered image for one eye). The order of camera and operator pairings was randomized.
+Data for 6 eyes of 3 subjects were missing, because the first images of each eye were not
+obtained according to the protocol (dilate and repeat imaging, if the initial result was
+ungradable). For subjects at the second site, Cohort P2, each eye of each subject was to undergo
+imaging 3 times by a single operator using a single camera.
+The observed intra-operator overall agreement (OA) for Cohort P1 was 93.9% [95% CI: 89.7% -
+97.7%] for the EyeArt mtmDR output and 98.9% [95% CI: 96.5% - 100.0%] for the EyeArt
+vtDR output. The observed intra-operator OA for Cohort P2 was 93.5% [95% CI: 87.1% -
+98.4%] for the EyeArt mtmDR output and 96.8% [95% CI: 91.9% - 100.0%] for the EyeArt
+vtDR output. Contingency tables and additional performance measures are reported in Table 10 -
+Table 12 in the Appendix.
+b) Reproducibility (Inter-operator variability) analysis
+The reproducibility was measured in Cohort P1 by analyzing the agreement among the EyeArt
+results for each eye from the first of two Canon CR-2 AF images obtained by each of the 3
+operators. Because the first images of 6 eyes of 3 subjects were missing due to protocol
+deviations, these were replaced with the second image in each case. For the EyeArt mtmDR
+output, an inter-operator OA of 90.3% [95% CI: 82.3% - 96.8%] was achieved and for the
+EyeArt vtDR output, an inter-operator OA of 96.8% [95% CI: 90.3% - 100.0%] was achieved.
+Contingency tables and additional performance measures are reported in the Appendix in Table
+13 for the mtmDR output and in Table 14 for the vtDR output.
+Page 9 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+6. Human Factors Validation Testing
+The human factors data support the safety and effectiveness of the camera operation and use of
+the EyeArt Client user interface. The human factors report contained information from a
+formative study and a validation study using EyeArt v2.1.0 rev005. A review of detailed human
+factors engineering processes, including use-related risk impact assessment of the device
+modification referred to as EyeArt v2.1.0 rev006, indicated that no new critical tasks were
+introduced or existing critical tasks in v2.1.0 rev005 were impacted by the device modification.
+The formative study was conducted to confirm the data in the task analysis and risk assessment
+and to uncover any additional potential use errors. The critical task for using EyeArt is the ability
+to capture four images of sufficient quality to produce EyeArt gradable results. The results of
+the simulated-use human factors validation study for using EyeArt with the Canon CR-2 AF
+camera indicate that camera operators with no prior retinal photography experience can be
+trained to capture four medical-grade retinal images from a vast majority of subjects.
+E. Substantial Equivalence
+EyeArt has the same intended use and similar indications for use (IFU) as the predicate IDx-DR
+device. Table 4 provides a comparison between the IFU of EyeArt and that of the predicate
+device. The differences in the IFU do not alter the intended use.
+Table 4: Comparison of indications for use of the EyeArt device and the predicate device
+EyeArt (subject device, K200667) Predicate Device (IDx-DR Discussion
+DEN180001)
+EyeArt is indicated for use by healthcare providers to IDx-DR is intended for use by Substantially
+automatically detect more than mild diabetic health care providers to equivalent
+retinopathy and vision-threatening diabetic automatically detect more than
+retinopathy (severe non-proliferative diabetic mild diabetic retinopathy (mtmDR)
+retinopathy or proliferative diabetic retinopathy
+and/or diabetic macular edema)
+in eyes of adults diagnosed with diabetes who have in adults diagnosed with diabetes
+not been previously diagnosed with more than mild who have not been previously
+diabetic retinopathy. diagnosed with diabetic
+retinopathy.
+EyeArt is indicated for use with Canon CR-2 AF and IDx-DR is indicated for use with
+Canon CR-2 Plus AF cameras in both primary care the Topcon NW400.
+and eye care settings.
+As summarized in Table 5, the subject and predicate devices have similar technological
+characteristics. Although the specific algorithms differ, these differences do not raise new issues
+of safety and effectiveness as compared to the predicate and are supported by the clinical
+performance data.
+Page 10 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 5: Comparison of the technological elements of the EyeArt device and the predicate device.
+EyeArt Predicate device Discussion
+(subject device, (IDx-DR,
+K200667) DEN180001)
+Technological Artificial Intelligence Artificial Intelligence Equivalent
+principle software as a medical software as a medical
+device device
+Inputs Macula and disc Macula and disc Equivalent
+centered color centered color
+fundus images with fundus images with
+45○ field of view, 2 45○ field of view, 2
+per eye per eye
+Outputs For each eye: For the patient: Equivalent mtmDR outputs, since this
+refers to the International Clinical
+Diabetic Retinopathy (ICDR) and
+More than mild More than mild
+Diabetic Macular Edema Disease
+diabetic retinopathy diabetic retinopathy
+Severity Scales’ definitions of
+(mtmDR): one of (mtmDR): one of
+moderate non-proliferative diabetic
+negative for mtmDR, mtmDR not detected,
+retinopathy or worst and/or the
+mtmDR detected, or mtmDR detected, or
+presence of diabetic macular edema
+ungradable. insufficient quality
+(DME).
+EyeArt eye-level output (rather than
+Vision-threatening
+patient-level output by the predicate)
+diabetic retinopathy
+does not alter intended use and is
+(vtDR): one of
+supported by clinical performance
+negative for vtDR,
+data.
+vtDR detected, or
+ungradable. Additional vision-threatening DR
+detection does not alter intended use
+and is supported by clinical
+performance data.
+Architecture Client software (user Client software (user Equivalent
+facing) transfers facing) transfers
+images to and images to and
+receives results from receives results from
+Analysis Analysis through
+Computation Engine Web Server.
+through Server.
+Indicated Canon CR-2 AF and Topcon NW400 The legally marketed cameras
+Cameras Canon CR-2 Plus AF camera specified for use are being used to
+capture macula and disc centered
+retinal images with 45○ field of view
+(2 per eye) for both EyeArt and
+predicate device. The clinical
+performance data support the use of
+EyeArt with the indicated cameras.
+Page 11 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+F. Conclusions
+EyeArt is substantially equivalent to the predicate device, IDx-DR. EyeArt has the same
+intended use and equivalent indications for use. The technological characteristics are similar. The
+technological differences between EyeArt and its predicate device raise no new issues of safety
+or effectiveness. Performance data support the substantial equivalence of EyeArt to the predicate
+device.
+Page 12 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+G. Appendix
+1. Detailed results from the EyeArt pivotal study
+In this section we present detailed results from the pivotal study. We present contingency tables
+along with other quantities for the following cohorts: (1) sequentially enrolled cohort at primary
+care sites (mtmDR - Table 6; vtDR - Table 7), (2) sequentially enrolled cohort at ophthalmology
+sites (mtmDR - Table 6; vtDR - Table 7), (3) enrichment-permitted cohort at primary care sites
+(mtmDR - Table 8; vtDR - Table 9), and (4) enrichment-permitted cohort at ophthalmology
+sites (mtmDR - Table 8; vtDR - Table 9). The parameters that are presented in Table 6 to Table
+9 are defined below:
+Reading center reference standard
+Positive Negative Ungradable Total
+EyeArt Positive PP PN PU DP=PP+PN+PU
+EyeArt Negative NP NN NU DN=NP+NN+NU
+EyeArt Ungradable UP UN UU DU=UP+UN+UU
+Total TP = PP+NP+UP TN = PN+NN+UN TU=PU+NU+UN N=TP+TN+TU
+Sensitivity: PP/(PP+NP)
+Specificity: NN/(NN+PN)
+Imageability: (PP+NN+PN+NP)/(TP+TN)
+Positive predictive value (PPV): PP/(PP+PN)
+Negative predictive value (NPV): NN/(NN+NP)
+Positive likelihood ratio: (PP/TP)/(PN/TN)
+Negative likelihood ratio: (NP/TP)/(NN/TN)
+Sensitivity considering ungradables: PP/(PP+NP+UP)
+Specificity considering ungradables: NN/(PN+NN+UN)
+PPV considering ungradables: PP/(PP+PN+PU)
+NPV considering ungradables: NN/(NN+NP+NU)
+Disease prevalence: TP/N, Percentage of eyes identified as positive per reference standard.
+Page 13 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 6: EyeArt eye-level mtmDR analysis for subjects enrolled during sequential enrollment.
+Primary care Ophthalmology
+(45 subjects, 90 eyes) (190 subjects, 380 eyes)
+Sequential enrollment cohort
+mtmDR Reading center mtmDR Reading center
+mtmDR reference standard reference standard
+Pos Neg Ung Tot Pos Neg Ung Tot
+EyeArt Positive 11 6 0 17 37 43 1 81
+EyeArt Negative 0 69 0 69 2 281 8 291
+EyeArt Ungradable 0 3 1 4 1 4 3 8
+Total 11 78 1 90 40 328 12 380
+100.0% [74.1% - 100%]† 94.9% [86.4% - 100.0%]
+Sensitivity
+(11/11) (37/39)
+92.0% [85.1% - 97.5%] 86.7% [82.1% - 90.7%]
+Specificity
+(69/75) (281/324)
+96.6% [90.9% - 100.0%] 98.6% [97.0% - 99.7%]
+Imageability
+(86/89) (363/368)
+64.7% [40.0% - 85.7%] 46.2% [32.2% - 59.0%]
+Positive Predictive Value (PPV)
+(11/17) (37/80)
+100.0% [94.7% - 100%]† 99.3% [98.2% - 100.0%]
+Negative Predictive Value (NPV)
+(69/69) (281/283)
+Positive Likelihood Ratio 13 [7.000 - 41.012] 7.056 [5.118 - 10.184]
+Negative Likelihood Ratio 0 [0.0 – 0.0] 0.058 [0.000 - 0.155]
+Sensitivity considering 100% [74.1% - 100%]† 92.5% [82.6% - 100.0%]
+ungradables (11/11) (37/40)
+Specificity considering 88.5% [80.0% - 95.8%] 85.7% [80.9% - 89.7%]
+ungradables (69/78) (281/328)
+64.7% [40.0% - 85.7%] 45.7% [31.8% - 58.3%]
+PPV considering ungradables
+(11/17) (37/81)
+100.0% [94.7% - 100.0%]† 96.6% [94.1% - 98.6%]
+NPV considering ungradables
+(69/69) (281/291)
+Disease (mtmDR) prevalence 12.2% [4.4% - 20.0%] 10.5% [6.6% - 15.0%]
+in this population (11/90) (40/380)
+All the 95% confidence intervals (CIs) are computed using the clustered bootstrap method that takes into consideration the
+correlation between eyes of the same subject. “NA” indicates instances when this CI method fails due to small sample sizes.
+†For cases with proportion of 100%, the 95% confidence intervals using clustered bootstrap are [100% - 100%], hence the
+Wilson method is used, which however is not designed to consider eye correlation.
+Page 14 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 7: EyeArt eye-level vtDR analysis for subjects enrolled during sequential enrollment.
+Primary care Ophthalmology
+(45 subjects, 90 eyes) (190 subjects, 380 eyes)
+Sequential enrollment cohort
+vtDR Reading center vtDR Reading center
+vtDR reference standard reference standard
+Pos Neg Ung Tot Pos Neg Ung Tot
+EyeArt Positive 4 2 3 9 8 22 1 31
+EyeArt Negative 0 77 0 77 1 331 9 341
+EyeArt Ungradable 0 3 1 4 0 5 3 8
+Total 4 82 4 90 9 358 13 380
+Sensitivity
+100.0% [51.0% - 100%]† 88.9% NA
+(4/4) (8/9)
+97.5% [93.4% - 100.0%] 93.8% [90.4% - 96.6%]
+Specificity
+(77/79) (331/353)
+96.5% [90.6% - 100.0%] 98.6% [97.0% - 99.7%]
+Imageability
+(83/86) (362/367)
+66.7% NA 26.7% [11.1% - 44.4%]
+Positive Predictive Value (PPV)
+(4/6) (8/30)
+Negative Predictive Value (NPV)
+100.0% [95.2% - 100%]† 99.7% [99.1% - 100.0%]
+(77/77) (331/332)
+Positive Likelihood Ratio 41.0 NA 14.465 [8.595 - 27.426]
+Negative Likelihood Ratio 0.0 [0.000 - 0.000] 0.12 [0.000 - 0.426]
+Sensitivity considering 100.0% [51.0% - 100%]† 88.9% [60.0% - 100.0%]
+ungradables (4/4) (8/9)
+Specificity considering 93.9% [86.5% - 98.8%] 92.5% [88.7% - 95.6%]
+ungradables (77/82) (331/358)
+44.4% NA 25.8% [10.8% - 42.3%]
+PPV considering ungradables
+(4/9) (8/31)
+NPV considering ungradables
+100.0% [95.2% - 100.0%]† 97.1% [95.0% - 98.8%]
+(77/77) (331/341)
+Disease (vtDR) prevalence 4.4% [0.0% - 11.1%] 2.4% [1.0% - 4.2%]
+in this population (4/90) (9/380)
+All the 95% confidence intervals (CIs) are computed using the clustered bootstrap method that takes into consideration the
+correlation between eyes of the same subject. “NA” indicates instances when this CI method fails due to small sample sizes.
+†For cases with proportion of 100%, the 95% confidence intervals using clustered bootstrap are [100% - 100%], hence the
+Wilson method is used, which however is not designed to consider eye correlation.
+Page 15 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 8: EyeArt eye-level mtmDR analysis for subjects enrolled when enrichment was permitted.
+Primary care Ophthalmology
+(335 subjects, 670 eyes) (85 subjects, 170 eyes)
+Enrichment-permitted cohort
+mtmDR Reading center mtmDR Reading center
+mtmDR reference standard reference standard
+Pos Neg Ung Tot Pos Neg Ung Tot
+EyeArt Positive 92 77 2 171 28 20 0 48
+EyeArt Negative 7 457 9 473 1 115 0 116
+EyeArt Ungradable 5 16 5 26 4 2 0 6
+Total 104 550 16 670 33 137 0 170
+92.9% [87.1% - 97.5%] 96.6% [87.5% - 100.0%]
+Sensitivity
+(92/99) (28/29)
+85.6% [82.2% - 89.1%] 85.2% [78.1% - 91.5%]
+Specificity
+(457/534) (115/135)
+96.8% [94.8% - 98.5%] 96.5% [91.8% - 100.0%]
+Imageability
+(633/654) (164/170)
+54.4% [45.3% - 63.6%] 58.3% [40.3% - 74.5%]
+Positive Predictive Value (PPV)
+(92/169) (28/48)
+98.5% [97.3% - 99.5%] 99.1% [97.2% - 100.0%]
+Negative Predictive Value (NPV)
+(457/464) (115/116)
+Positive Likelihood Ratio 6.319 [4.988 - 8.473] 5.812 [3.736 - 10.182]
+Negative Likelihood Ratio 0.081 [0.029 - 0.145] 0.036 [0.000 - 0.131]
+Sensitivity considering 88.5% [80.5% - 94.9%] 84.9% [65.5% - 100.0%]
+ungradables (92/104) (28/33)
+Specificity considering 83.1% [79.4% - 86.8%] 83.9% [76.6% - 90.6%]
+ungradables (457/550) (115/137)
+53.8% [44.6% - 63.1%] 58.3% [40.3% - 74.5%]
+PPV considering ungradables
+(92/171) (28/48)
+96.6% [94.5% - 98.4%] 99.1% [97.2% - 100.0%]
+NPV considering ungradables
+(457/473) (115/116)
+Disease (mtmDR) prevalence 15.5% [12.1% - 19.3%] 19.4% [11.8% - 27.6%]
+in this population (104/670) (33/170)
+All the 95% confidence intervals (CIs) are computed using the clustered bootstrap method that takes into consideration the
+correlation between eyes of the same subject. “NA” indicates instances when this CI method fails due to small sample sizes.
+Page 16 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 9: EyeArt eye-level vtDR analysis for subjects enrolled when enrichment was allowed.
+Primary care Ophthalmology
+(335 subjects, 670 eyes) (85 subjects, 170 eyes)
+Enrichment permitted cohort
+vtDR Reading center vtDR Reading center
+vtDR reference standard reference standard
+Pos Neg Ung Tot Pos Neg Ung Tot
+EyeArt Positive 22 47 9 78 4 16 1 21
+EyeArt Negative 2 553 11 566 0 141 2 143
+EyeArt Ungradable 4 17 5 26 0 5 1 6
+Total 28 617 25 670 4 162 4 170
+91.7% [80.0% - 100.0%] 100.0% [51.0% - 100%]†
+Sensitivity
+(22/24) (4/4)
+92.2% [89.6% - 94.6%] 89.8% [83.9% - 95.4%]
+Specificity
+(553/600) (141/157)
+96.7% [94.8% - 98.5%] 97.0% [92.9% - 100.0%]
+Imageability
+(624/645) (161/166)
+31.9% [19.7% - 44.4%] 20.0% [0.0% - 42.1%]
+Positive Predictive Value (PPV)
+(22/69) (4/20)
+99.6% [99.1% - 100.0%] 100.0% [97.3% - 100%]†
+Negative Predictive Value (NPV)
+(553/555) (141/141)
+Positive Likelihood Ratio 10.315 [6.965 - 15.704] 10.125 [6.403 - 22.571]
+Negative Likelihood Ratio 0.08 [0.000 - 0.195] 0 [0.0 - 0.0]
+Sensitivity considering 78.6% [58.8% - 95.8%] 100.0% [51.0% - 100%]†
+ungradables (22/28) (4/4)
+Specificity considering 89.6% [86.6% - 92.4%] 87.0% [80.1% - 93.1%]
+ungradables (553/617) (141/162)
+28.2% [17.4% - 38.9%] 19.0% [0.0% - 38.5%]
+PPV considering ungradables
+(22/78) (4/21)
+97.7% [96.0% - 99.1%] 98.6% [95.7% - 100.0%]
+NPV considering ungradables
+(553/566) (141/143)
+Disease (vtDR) prevalence 4.2% [2.4% - 6.3%] 2.4% [0.0% - 5.9%]
+in this population (28/670) (4/170)
+All the 95% confidence intervals (CIs) are computed using the clustered bootstrap method that takes into consideration the
+correlation between eyes of the same subject. “NA” indicates instances when this CI method fails due to small sample sizes.
+†For cases with proportion of 100%, the 95% confidence intervals using clustered bootstrap are [100% - 100%], hence the
+Wilson method is used, which however is not designed to consider eye correlation.
+Page 17 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+2. Detailed results from the EyeArt precision study
+In this section, we present detailed results of the EyeArt precision study including contingency
+tables and the following parameters, defined below.
+For 3x3 contingency tables, the definitions are as follows:
+EyeArt result 2
+EyeArt
+EyeArt Negative EyeArt Positive Total
+Ungradable
+EyeArt result 1
+EyeArt Negative NN NP NU NT=NN+NP+NU
+EyeArt Positive PN PP PU PT=PN+PP+PU
+EyeArt Ungradable UN UP UU UT=UN+UP+UU
+Total TN = NN+PN+UN TP = NP+PP+UP TU=NU+PU+UN N=TN+TP+TU
+Overall agreement (OA): (PP+NN+UU) / N
+Average Positive Agreement (APA): (2*PP) / (TP + PT)
+Average Negative Agreement (ANA): (2*NN) / (TN + NT)
+Average Ungradable Agreement (AUA): (2*UU) / (TU + UT)
+For 3-dimensional (3x3x3) contingency tables, the definitions are as follows:
+Overall agreement (OA) for the 3x3x3 contingency tables is computed as follows, where 𝑥 is
+𝑖𝑗
+the count of triplets of operations with outcomes (𝑖,𝑗,𝑘) where each outcome is one of 𝑛
+(negative), 𝑝 (positive), and 𝑢 (ungradable):
+𝑂𝐴=(𝑥 +𝑥 + 𝑥 )/( ∑ 𝑥 )
+𝑛𝑛𝑛 𝑝𝑝𝑝 𝑢𝑢𝑢 𝑖𝑗𝑘
+𝑖,𝑗,𝑘=𝑛,𝑝,𝑢
+The percent agreements for the 3x3x3 contingency tables are evaluated as follows, where 𝑅 , 𝑅 ,
+1 2
+and 𝑅 stand for EyeArt output for the three operations 1, 2, and 3 respectively that are used to
+3
+build the 3x3x3 contingency table:
+Average positive agreement (APA) is computed as:
+∑ 2𝑃(𝑅 =1 ∩ 𝑅 =1)
+𝐴𝑃𝐴=
+1≤𝑖<𝑗≤3 𝑖 𝑗
+2 ∑ 𝑃(𝑅 =1)
+1≤𝑖≤3 𝑖
+Average negative agreement (ANA) is computed as:
+∑ 2𝑃(𝑅 =0 ∩ 𝑅 =0)
+𝐴𝑁𝐴=
+1≤𝑖<𝑗≤3 𝑖 𝑗
+2 ∑ 𝑃(𝑅 =0)
+1≤𝑖≤3 𝑖
+Average ungradable agreement (AUA) is computed as:
+∑ 2𝑃(𝑅 = 𝑈𝑛𝑔𝑟𝑎𝑑𝑎𝑏𝑙𝑒 ∩ 𝑅 =𝑈𝑛𝑔𝑟𝑎𝑑𝑎𝑏𝑙𝑒)
+1≤𝑖<𝑗≤3 𝑖 𝑗
+𝐴𝑈𝐴=
+2 ∑ 𝑃(𝑅 =𝑈𝑛𝑔𝑟𝑎𝑑𝑎𝑏𝑙𝑒)
+1≤𝑖≤3 𝑖
+Page 18 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+a. Intra-operator repeatability
+Table 10 presents the intra-operator repeatability for the EyeArt mtmDR and vtDR outputs,
+combined across all three operator-camera pairings from Cohort P1, and the 3x3 contingency
+tables. For this Cohort P1, 3 operators were to each provide one intra-operator pair per eye for a
+total of 186 eye pairs (3 intra-operator pairs x 31 subjects x 2 eyes/subject). There were 6
+missing pairs due to protocol deviations, leaving 180 pairs that were performed per protocol.
+Table 10: EyeArt mtmDR and vtDR repeatability (intra-operator) with Canon CR-2 AF across all
+3 operator-camera pairings for Cohort P1.
+Cohort P1 repeatability mtmDR vtDR
+Repeat 2
+Repeat 1 Negative Positive Ungradable Negative Positive Ungradable
+Negative 109 6 0 151 0 0
+Positive 3 56 0 0 23 0
+Ungradable 1 1 4 2 0 4
+93.9% [89.7% - 97.7%] 98.9% [96.5% - 100.0%]
+OA
+(169/180) (178/180)
+APA 91.8% [86.1% - 97.0%] 100.0% [92.3% - 100.0%]
+ANA 95.6% [92.5% - 98.3%] 99.3% [97.9% - 100.0%]
+AUA 80.0% [49.0% - 94.3%] 80.0% [49.0% - 94.3%]
+OA* (protocol deviations 90.9% [84.7% - 95.7%] 95.7% [91.4% - 98.9%]
+considered ungradable) (169/186) (178/186)
+For Cohort P2, the intra-operator repeatability for the EyeArt mtmDR and vtDR outputs is
+presented in Table 11 and Table 12 respectively, and the 3-dimensional (3x3x3) contingency
+tables corresponding to the 3 repeats (operations) per subject eye for the 31 subjects in this
+cohort.
+Page 19 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 11: EyeArt mtmDR repeatability with Canon CR-2 AF camera for Cohort P2. For this
+cohort, each subject underwent 3 EyeArt operations with the same operator-camera pairing.
+Cohort P2 repeatability (mtmDR)
+Repeat 3 result = Negative Repeat 3 result = Positive Repeat 3 result = Ungradable
+Repeat 2
+Neg. Pos. Ung. Neg. Pos. Ung. Neg. Pos. Ung.
+Repeat 1
+Negative 36 2 0 0 0 0 0 0 0
+Positive 0 1 0 1 22 0 0 0 0
+Ungradable 0 0 0 0 0 0 0 0 0
+93.5% [87.1% - 98.4%]
+OA
+(58/62)
+APA 94.4% [88.9% - 98.6%]
+ANA 96.5% [92.0% - 99.2%]
+AUA Cannot be calculated since no eyes with ungradable EyeArt results
+Table 12: EyeArt vtDR repeatability with Canon CR-2 AF camera for Cohort P2. For this cohort,
+each subject underwent 3 EyeArt operations with the same operator-camera pairing.
+Cohort P2 repeatability (vtDR)
+Repeat 3 result = Negative Repeat 3 result = Positive Repeat 3 result = Ungradable
+Repeat 2
+Repeat 1
+Neg. Pos. Ung. Neg. Pos. Ung. Neg. Pos. Ung.
+Negative 50 1 0 0 1 0 0 0 0
+Positive 0 0 0 0 10 0 0 0 0
+Ungradable 0 0 0 0 0 0 0 0 0
+96.8% [91.9% - 100.0%]
+OA
+(60/62)
+APA 93.9% [78.0% - 100.0%]
+ANA 98.7% [96.5% - 100.0%]
+AUA Cannot be calculated since no eyes with ungradable EyeArt results
+b. Between-operator reproducibility
+Table 13 and Table 14 present the between-operator (inter-operator) reproducibility results for
+the EyeArt mtmDR and vtDR outputs respectively. These results are from Cohort P1, where 3
+operators each conducted two operations for each subject. We use the first operation by each
+operator to construct and report a 3-dimensional contingency matrix (3x3x3). The three missing
+operations for a given subject were replaced with the next equivalent operation by the same
+operator-camera pairing.
+Page 20 of 21
+Eyenuk, Inc.EyeArt 510(k) Summary (K200667)
+Table 13: EyeArt reproducibility for mtmDR results with Canon CR-2 AF camera.
+Cohort P1 reproducibility (mtmDR)
+Operator C3 result = Operator C3 result = Operator C3 result =
+Negative Positive Ungradable
+Op C2
+Op C1 Neg. Pos. Ung. Neg. Pos. Ung. Neg. Pos. Ung.
+Negative 37 1 0 1 0 0 0 0 0
+Positive 0 1 0 1 19 0 0 0 0
+Ungradable 0 0 0 0 0 0 1 1 0
+90.3% [82.3% - 96.8%]
+OA
+(56/62)
+APA 92.2% [81.4% - 98.3%]
+ANA 95.8% [91.9% - 99.1%]
+AUA 50.0% [21.5% - 78.5%]
+Table 14: EyeArt reproducibility for vtDR results with Canon CR-2 AF camera.
+Cohort P1 reproducibility (vtDR)
+Operator C3 result = Operator C3 result = Operator C3 result =
+Negative Positive Ungradable
+Op C2
+Op C1 Neg. Pos. Ung. Neg. Pos. Ung. Neg. Pos. Ung.
+51 0 0 0 0 0 0 0 0
+Negative
+0 0 0 0 9 0 0 0 0
+Positive
+0 0 0 0 0 0 2 0 0
+Ungradable
+96.8% [90.3% - 100.0%]
+OA
+(60/62)
+APA 100.0% [93.4% - 100.0%]†
+98.7% [95.3% - 100.0%]
+ANA
+AUA 50.0% [21.5% - 78.5%]
+†For cases with proportion of 100%, the 95% confidence intervals using clustered bootstrap are [100% - 100%], hence the
+Wilson method is used, which however is not designed to consider eye correlation.
+Page 21 of 21
+Eyenuk, Inc.

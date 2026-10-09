@@ -1,0 +1,179 @@
+Vysioneer Inc.
+℅ Vicki Lin
+Regulatory Specialist
+33 Rogers. St., # 308
+Cambridge, MA 02142
+Re: K213628
+Trade/Device Name: VBrain
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QKB
+Dated: November 12, 2021
+Received: November 17, 2021
+Dear Vicki Lin:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK213628 - Vicki Lin Page 2
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureVysioneer Inc.
+33 Rogers St. #308, Cambridge, MA 02142
+www.vysioneer.com/
+510(k) Summary
+This 510(k) Summary is submitted in accordance with 21 CFR 807.92
+Submitter
+Vysioneer Inc.
+33 Rogers St. #308, Cambridge, MA 02142
+Contact Person: Vicki Lin
+Phone: 609-865-8659
+Email: vicki.lin@vysioneer.com
+Date Summary Prepared: November 1(cid:21), 2021
+Device Name
+Trade Name: VBrain
+Common Name: Radiological Image Processing Software for
+Radiation Therapy
+Classification Name: Medical image management and processing
+system(21 CFR 892.2050)
+Regulatory Class: II
+Product Code: QKB
+Predicate Devices
+PredicateDevice: VBrain
+510(k) Holder/Submitter: Vysioneer Inc.
+510(k) Number: K203235 (Cleared on 03/19/2021)
+PredicateDevice: VBrain-OAR
+510(k) Holder/Submitter: Vysioneer Inc.
+510(k) Number: K212116 (Cleared on 10/12/2021)
+510(k) Summary Page 1of 4Vysioneer Inc.
+33 Rogers St. #308, Cambridge, MA 02142
+www.vysioneer.com/
+Intended Use / Indications for Use
+VBrain is a software device intended to assist trained medical professionals, during their clinical
+workflows of radiation therapy treatment planning, by providing initial object contours of known
+(diagnosed) brain tumors and organs at risk in the brain (i.e., the region of interest, ROI) on axial
+T1 contrast-enhanced brain MRI images. VBrain is intended to be used on adult patients only.
+VBrain uses an artificial intelligence algorithm (i.e., deep learning neural networks) to contour
+(segment) brain tumor and organs at risk (brain stem, eyes, optic nerves, optic chiasm) in the brain
+on MRI images for trained medical professionals’ attention, which is meant for informational
+purposes only and not intended for replacing their current standard practice of manual contouring
+process. VBrain does not alter the original MRI image, nor does it intend to be used to detect
+tumors for diagnosis. VBrain is intended only for generating Gross Tumor Volume (GTV)
+contours of brain metastases, meningiomas, and acoustic neuromas, and contours of organs at risk
+in the brain; it is not intended to be used with images of other brain tumors or other body parts.
+The user must know the tumor type when they use VBrain.
+VBrain also contains the automatic image registration feature to register volumetric medical image
+data. (e.g., MR, CT). It allows rigid image registration to adjust the spatial position and orientation
+of two images.
+Medical professionals must finalize (confirm or modify) the contours generated by VBrain, as
+necessary, using an external platform available at the facility that supports DICOM-RT
+viewing/editing functions, such as image visualization software and treatment planning system.
+Device Description
+VBrain is a software application system intended for use in the contouring (segmentation) of brain
+MRI images and in the registration of multi-modality images. The device consists of a workflow
+management module and 3 algorithm modules, which are the tumor contouring algorithm module,
+OAR contouring algorithm module, and registration algorithm module. The modules can work
+independently, and yet can be integrated with each other.
+The tumor contouring (segmentation) algorithm module consists of image preprocessing, deep
+learning neural networks, and postprocessing components, and is intended to contour brain tumor
+on the axial T1 contrast-enhanced MR images. It utilizes deep learning neural networks to generate
+contours for the detected/diagnosed brain tumors and export the results as DICOM-RT objects
+(using the RT Structure Set ROI Contour attribute, RTSTRUCT).
+The OAR contouring (segmentation) algorithm module consists of image preprocessing, deep
+learning neural networks, and postprocessing components, and is intended to contour organs at
+risk in the brain on the axial T1 contrast-enhanced MR images. It utilizes deep learning neural
+networks to generate contours for the organs at risk in the brain and export the results as DICOM-
+RT objects (using the RT Structure Set ROI Contour attribute, RTSTRUCT).
+510(k) Summary Page 2 of 4Vysioneer Inc.
+33 Rogers St. #308, Cambridge, MA 02142
+www.vysioneer.com/
+The registration algorithm module registers volumetric medical image data (e.g., MR, CT). It
+allows rigid image registration to adjust the spatial position and orientation of two images.
+The workflow management module is configured to work on a PACS network. Upon user’s request,
+it will pull patient scans from a PACS, and it will trigger a predefined workflow, in which different
+algorithm modules are executed to generate the DICOM output. The DICOM output of a workflow
+can be sent back to the PACS.
+Comparison of Technological Characteristics with the
+Predicate Devices
+The intended use and features of the modified device VBrain are a combination of those of the two
+predicate devices. The modified device uses VBrain’s (K203235) tumor contouring algorithm,
+VBrain-OAR’s (K212116) organs at risk contouring algorithm, registration algorithm and
+application. Each algorithm works independently and does not interfere with the others, yet they
+could be integrated in a predefined pipeline to work consecutively.
+Same as the predicate devices, the modified device, VBrain is an AI-based (deep learning) software
+devices intended to be used in the workflow of radiation therapy treatment planning by providing
+tools to automatically segment/contour tumors and organs at risk on images as well as perform
+image registration (image fusion). VBrain uses the identical Deep Neural Networks and
+registration method as the predicates.
+Minor modifications are made to increase convenience of use and improve functionality. Risk
+analysis and V&V testing were performed, and the results confirm that the modifications do not
+change the device’s safety and effectiveness.
+The modified device is substantially equivalent to the predicate devices because it has identical
+intended use, technological characteristics, and principles of operation as the predicates.
+Performance Data
+Regression testing was performed to verify and validate the changes of VBrain in accordance with
+FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices” for software devices identified as
+Major Level of Concern related to radiation therapy treatment planning.
+The protocol, methods and acceptance criteria of software verification and validation testing used
+to evaluate the changes were not modified from those used in the predicate submission. The
+acceptance criteria and a summary of the results were provided for each test. VBrain passed all
+V&V testing, performance requirements and specifications are met.
+510(k) Summary Page 3 of 4Vysioneer Inc.
+33 Rogers St. #308, Cambridge, MA 02142
+www.vysioneer.com/
+Substantially Equivalent (SE) Conclusion
+VBrain is considered substantially equivalent to the predicate devices.
+Verification and validation testing and hazard analysis demonstrate that VBrain performs within
+its design specifications and is as safe and effective as the predicate. The minor modifications of
+the device do not introduce any new potential risks. Based on the information presented in these
+510(k) premarket notifications, it could be concluded that the subject device VBrain is as safe and
+effective as the predicate devices, with the same intended use, technological characteristics, and
+principles of operation.
+510(k) Summary Page 4 of 4

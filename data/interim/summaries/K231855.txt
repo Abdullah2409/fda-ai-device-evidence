@@ -1,0 +1,491 @@
+Quanta Computer Inc. February 13, 2024
+℅ Joe Wang, Research Specialist
+No. 188, Wenhua 2nd Rd
+Guishan Dist.
+Taoyuan City, 33383
+TAIWAN
+Re: K231855
+Trade/Device Name: QOCA® image Smart RT Contouring System
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QKB
+Dated: January 8, 2024
+Received: January 8, 2024
+Dear Joe Wang:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, NonconformingK231855 - Joe Wang Page 2
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K231855
+Device Name
+QOCA® image Smart RT Contouring System
+Indications for Use (Describe)
+QOCA® image Smart RT Contouring System is a post-processing software intended to automatically contour DICOM
+CT imaging data using deep-learning-based algorithms.
+Contours that are generated by QOCA® image Smart RT Contouring System may be used as input for clinical
+workflows including external beam radiation therapy treatment planning. QOCA® image Smart RT Contouring System
+must be used in conjunction with appropriate software such as Treatment Planning Systems and Interactive Contouring
+applications, to review, edit, and accept contours generated by QOCA® image Smart RT Contouring System.
+The output of QOCA® image Smart RT Contouring System in the format of RTSTRUCT objects are intended to be used
+by radiation oncology department.
+QOCA® image Smart RT Contouring System does not provide a user interface for data visualization. System settings,
+user settings, progress status, and other functionalities are managed via a web-based interface.
+The software is not intended to automatically detect or contour lesions. Only DICOM images of adult patients are
+considered to be valid input.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK231855
+Quanta Computer Inc.
+QOCA® image Smart RT Contouring System
+510(k) Summary
+5.1. Type of Submission: Traditional
+5.2. Date of Summary: 01/08/2024
+5.3. Submitter: Quanta Computer Inc.
+Address: No. 188, Wenhua 2nd Rd., Guishan Dist. Taoyuan
+City 33383, Taiwan (R.O.C)
+Phone: +886-3-327-2345
+Contact: Joe Wang
+joe_wang@quantatw.com
+5.4. Identification of the Device:
+Proprietary/Trade Name: QOCA® image Smart RT Contouring System
+Model Number: ZSWR901
+Review Panel: Radiology
+Regulation Name: Medical Image Management and Processing System
+Regulation Number: 21 CFR 892.2050
+Product Code: QKB
+Device Class: II
+5.5. Identification of the Predicate Device:
+Predicate Device Name: AccuContour™
+Model Number: --
+510(k) Number: K191928
+Manufacturer: Xiamen Manteia Technology LTD.
+Regulation Number: 21 CFR 892.2050
+Product Code: QKB
+Device Class: II
+1Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+5.6. Intended Use/Indications for Use of the Device
+QOCA® image Smart RT Contouring System is a post-processing software intended to
+automatically contour DICOM CT imaging data using deep-learning-based algorithms.
+Contours that are generated by QOCA® image Smart RT Contouring System may be used
+as input for clinical workflows including external beam radiation therapy treatment
+planning. QOCA® image Smart RT Contouring System must be used in conjunction with
+appropriate software such as Treatment Planning Systems and Interactive Contouring
+applications, to review, edit, and accept contours generated by QOCA® image Smart RT
+Contouring System.
+The output of QOCA® image Smart RT Contouring System in the format of RTSTRUCT
+objects are intended to be used by radiation oncology department.
+QOCA® image Smart RT Contouring System does not provide a user interface for data
+visualization. System settings, user settings, progress status, and other functionalities are
+managed via a web-based interface.
+The software is not intended to automatically detect or contour lesions. Only DICOM
+images of adult patients are considered to be valid input.
+5.7. Device Description
+QOCA® image Smart RT Contouring System is a post-processing software used to
+automatically contour DICOM CT imaging data using deep-learning-based algorithms.
+QOCA® image Smart RT Contouring System contouring workflow supports CT input data
+and produces RTSTRUCT outputs. Contours that are generated by QOCA® image Smart
+RT Contouring System may be used as input for clinical workflows including external
+beam radiation therapy treatment planning.
+The output of QOCA® image Smart RT Contouring System, in the form of RTSTRUCT
+objects, are intended to be used by radiation oncology department. The output of QOCA®
+image Smart RT Contouring System must be used in conjunction with appropriate software
+such as Treatment Planning Systems and Interactive Contouring applications, to review,
+edit, and accept contours generated by QOCA® image Smart RT Contouring System.
+QOCA® image Smart RT Contouring System includes the following functionality:
+⚫ Automated contouring of organs at risk (OAR) workflow
+◼ Input - DICOM CT
+◼ Output - DICOM CT (Original), DICOM RTSTRUCT
+2Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+⚫ Web-based interface of system settings, user settings, and checking progress status
+QOCA® image Smart RT Contouring System is intended to be used on adults undergoing
+treatment that requires the identification of anatomical structures in the body considered to
+be OAR. QOCA® image Smart RT Contouring System is intended to be used in the head,
+neck, and pelvis regions.
+5.8. Comparison of Technological Characteristics with the Predicate Device
+QOCA® image Smart RT Contouring System submitted in this 510(k) file is substantially
+equivalent in intended use, safety and performance to the cleared AccuContour™
+(K191928). Differences between the devices cited in this section do not raise any new issue
+of substantial equivalence.
+Substantial
+Item Subject Device Predicate Device Equivalence
+Determination
+510(k) Number K231855 K191928 --
+Proprietary QOCA® image Smart AccuContour™ --
+Name RT Contouring
+System
+Manufacturer Quanta Computer Inc. Xiamen Manteia --
+Technology LTD.
+Regulation 21 CFR 892.2050 21 CFR 892.2050 Same
+Number
+Product Code QKB QKB Same
+Classification Class II Class II Same
+Intended QOCA® image Smart It is used by Similar
+Use/Indication RT Contouring radiation oncology Both devices utilize
+for Use System is a post- department to artificial
+processing software register intelligence
+intended to multimodality algorithms to
+automatically contour images and automatically
+DICOM CT imaging segment (non- contour organs at
+data using deep- contrast) CT risk, including the
+learning-based images, to generate head and neck, as
+algorithms. needed information well as the pelvis,
+3Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+Contours that are for treatment for radiation
+generated by QOCA® planning, treatment treatment planning.
+image Smart RT evaluation and
+Contouring System treatment
+may be used as input adaptation.
+for clinical workflows
+including external
+beam radiation
+therapy treatment
+planning. QOCA®
+image Smart RT
+Contouring System
+must be used in
+conjunction with
+appropriate software
+such as Treatment
+Planning Systems and
+Interactive Contouring
+applications, to
+review, edit, and
+accept contours
+generated by QOCA®
+image Smart RT
+Contouring System.
+The output of QOCA®
+image Smart RT
+Contouring System in
+the format of
+RTSTRUCT objects
+are intended to be
+used by radiation
+oncology department.
+QOCA® image Smart
+RT Contouring
+System does not
+4Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+provide a user
+interface for data
+visualization. System
+settings, user settings,
+progress status, and
+other functionalities
+are managed via a
+web-based interface.
+The software is not
+intended to
+automatically detect or
+contour lesions. Only
+DICOM images of
+adult patients are
+considered to be valid
+input.
+Operating System Windows Windows Same
+Algorithm Deep Learning Deep Learning Same
+Segmentation of Brain stem, Head and Neck, Similar
+Organ at Risk in Esophagus, Mandible, Thorax, Abdomen, The subject device
+the Anatomic Pharyngeal, and Pelvis contains head and
+Regions Constrictor Muscle neck, and pelvis.
+(PCM), Spinal cord,
+Thyroid, Right eye,
+Light eye, Right lens,
+Left lens, Right optic
+nerve, Left optic
+nerve, Right parotid,
+Left parotid,
+Anorectum, Bladder,
+Bowel bag, Lumbar
+spine L5, Bilateral
+seminal vesicles,
+Right iliac, Left iliac,
+Right proximal femur,
+5Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+Left proximal femur
+Compatible CT Images Non-Contrast CT Similar
+Modality Images The subject device
+and the predicate
+device are both
+compatible only
+with CT images for
+the segmentation
+feature. The
+predicate device
+claims to handle
+only non-contrast
+CT images, while
+the subject device
+can be used with
+both contrast and
+non-contrast CT
+images.
+Compatible No specific No Limitation on Similar
+Scanner Models requirement for the scanner model, The Subject Device
+scanner model, it is DICOM 3.0 and Predicate
+recommended to use compliance Device are
+multi-detector CT required. substantially
+(MDCT) equipment equivalent in their
+with more than 16 requirements for
+slices for Radiation DICOM
+Therapy Simulation compliance,
+CT, and DICOM ensuring
+compliance required. interoperability and
+standardization in
+medical imaging
+data. The Subject
+Device
+recommends a
+multi-detector CT
+6Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+scanner with more
+than 16 slices
+specifically for
+Radiation Therapy
+Simulation CT to
+provide detailed
+imaging necessary
+for accurate therapy
+planning.
+Compatible No Limitation on TPS No Limitation on Same
+Treatment model, DICOM TPS model,
+Planning System compliance required. DICOM
+3.0compliance
+required.
+Contraindications Adult use only. There are no Similar
+known specific The subject device
+situations that is designed for
+contraindicate the adult use, and there
+use of this device. are no known
+specific situations
+that contraindicate
+its usage.
+Segmentation The segmentation The segmentation Same
+Performance performance was performance was
+validated using private validated using
+datasets from Taiwan datasets from
+and public datasets China and the USA
+was collected from using three major
+various sources, vendors (GE,
+including the USA. Siemens and
+The datasets were Philips). The
+obtained from major segmentation
+vendors such as GE, accuracy is
+Siemens, Philips, and evaluated using
+TOSHIBA. The DICE similarity
+7Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+accuracy of the coefficient (DSC).
+segmentation was
+evaluated using the
+DICE similarity
+coefficient (DSC).
+Similarity and Difference
+The subject device has the similar intended use and features to the predicate device. Both
+devices are intended to aid user to contour the organ-at-risk (OAR) by artificial intelligence
+algorithm. And they are not intended to be used on a stand-alone basis for clinical decision-
+making or clinical diagnosis.
+The primary difference between the subject and predicate devices lies in their
+“Compatibility with Scanner Models” and “Imaging Modalities”. However, the subject
+device's approach to presenting results aligns with that of the predicate device. Furthermore,
+both devices meet the requirements for DICOM compliance, ensuring interoperability and
+standardization in medical imaging data. Notably, the subject device recommends the use
+of a multi-detector CT scanner with more than 16 slices for radiation therapy simulation
+CT, enabling detailed imaging essential for precise therapy planning. Both devices
+exclusively support CT images for the segmentation feature. While the predicate device is
+limited to non-contrast CT images, the subject device can handle both contrast and non-
+contrast CT images. Therefore, it will not affect the substantial equivalence.
+5.9. Performance Data
+The subject device, QOCA® image Smart RT Contouring System has been evaluated and
+verified in accordance with software specifications and applicable performance standards
+to ensure performance.
+The subject device has undergone software validation activities in accordance with IEC
+62304: 2006/A1:2016 - Medical device software - Software life cycle processes, Guidance
+for the Content of Premarket Submissions for Software Contained in Medical Devices,
+Content of Premarket submissions for Devices Software Functions and Content of
+Premarket Submission for Management of Cybersecurity in Medical Devices.
+The performance of the subject device has been evaluated and verified in accordance with
+software specifications and applicable performance standards through software verification
+8Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+and validation testing.
+Nonclinical Tests
+During the development of the model, CT images had retrospectively collected from 2000
+to 2021 from two hospitals in Taiwan, comprising a total of 317 cases of head and neck
+images and 351 cases of pelvic images. These images were distributed in an 8:1:1 ratio into
+Training datasets, Validation datasets, and Test datasets.
+In the Test datasets, an additional 38 cases from United States public datasets (The Cancer
+Imaging Archive (TCIA), and Gold Atlas - Male Pelvis (GA)) were included to ensure that
+the intended patient population in the United States could achieve the expected purpose.
+The CT images come from the following equipment:
+⚫ GE Discovery CT590 RT
+⚫ GE Discovery STE
+⚫ GE Discovery ST
+⚫ SIEMENS SOMATOM PLUS 4
+⚫ SIEMENS Sensation 64
+⚫ PHILIPS Brilliance Big Bore
+⚫ TOSHIBA Aquilion ONE
+⚫ TOSHIBA Aquilion/LB
+Segmentation Performance Test
+The standalone performance of the subject device has been validated in a retrospective
+performance study on CT data previously acquired for RT treatment planning.
+Data collection included 110 head and neck CT images and 110 pelvis CT images, with
+each anatomical site contributing 50 cases from Taiwan and 60 cases from the United States
+public dataset, TCIA. These 220 cases are independent of the data used in nonclinical tests
+and have not been reused. The demographic distribution of this data is as follows:
+⚫ Gender: 97 Female (55 Head and Neck; 42 Pelvis), 123 Male (55 Head and Neck; 68
+Pelvis).
+⚫ Age: Adult (above 22 years old).
+⚫ Ethnicity: Data collected from the United States and Taiwan.
+⚫ Equipment:
+◼ GE Discovery ST
+9Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+◼ GE MEDICAL SYSTEMS LightSpeed Plus
+◼ SIEMENS Sensation Open
+◼ PHILIPS Brilliance Big Bore
+◼ PHILIPS GEMINI TF Big Bore
+◼ TOSHIBA Aquilion ONE
+Ground truth annotations were established following CT-based delineation of organs at
+risk in the head and neck region: DAHANCA, EORTC, GORTEC, HKNPCSG, NCIC CTG,
+NCRI, NRG Oncology and TROG consensus guidelines and Pelvic Normal Tissue
+Contouring Guidelines for Radiation Therapy: A Radiation Therapy Oncology Group
+Consensus Panel Atlas.
+The results for standalone performance testing are as follows:
+Acceptance Criteria Model Performance
+Body Part OARs
+(DSC) DSC HD95
+Head and Brain stem 0.87 0.942 4.173
+Neck (±0.0215) (±20.9737)
+Esophagus 0.76 0.875 4.694
+(±0.0859) (±5.5237)
+Mandible 0.93 0.956 1.413
+(±0.0167) (±0.9036)
+Pharyngeal 0.70 0.820 2.232
+constrictor muscle (±0.0692) (±1.3013)
+Spinal cord 0.87 0.931 2.330
+(±0.0282) (±3.3562)
+Thyroid 0.83 0.873 3.249
+(±0.1756) (±5.7852)
+Right eye 0.91 0.956 2.038
+(±0.0149) (±0.9599)
+Left lens 0.80 0.876 1.526
+(±0.1150) (±1.0436)
+Left optic nerve 0.66 0.805 3.548
+(±0.0849) (±3.0927)
+Right parotid 0.86 0.924 3.825
+(±0.0303) (±2.7730)
+10Quanta Computer Inc.
+QOCA® image Smart RT Contouring System K231855
+Acceptance Criteria Model Performance
+Body Part OARs
+(DSC) DSC HD95
+Pelvis Anorectum 0.70 0.929 7.929
+(±0.0755) (±14.2608)
+Bladder 0.82 0.959 4.402
+(±0.0912) (±9.7696)
+Bowel bag 0.70 0.944 11.237
+(±0.0338) (±8.5063)
+Lumbar spine L5 0.90 0.960 5.985
+(±0.0648) (±31.2018)
+Bilateral seminal 0.64 0.818 3.638
+vesicles (±0.3178) (±6.6927)
+Right iliac 0.90 0.985 10.108
+(±0.0111) (±51.8553)
+Right proximal 0.90 0.980 13.193
+femur (±0.0195) (±68.4094)
+The subject device achieved a median DSC > 0.80. Furthermore, organs not meeting
+predefined acceptance criteria were excluded from the product's intended use to ensure
+reliability and accuracy. In the performance results, it was found that regardless of whether
+contrast was injected or not, the system achieved the expected performance outcomes.
+5.10.Clinical Tests
+No clinical test was conducted as part of submission to prove substantial equivalence.
+5.11.Conclusion
+The subject device has a similar intended use to the predicate device, and the slight
+difference does not affect the substantial equivalence. In addition, there are no differences
+in technological characteristics that affect the safety and effectiveness of the subject device
+relative to the predicate. Moreover, the performance testing results are similar to the
+predicate device. Therefore, the subject device, QOCA® image Smart RT Contouring
+System, is substantially equivalent to the predicate device.
+11

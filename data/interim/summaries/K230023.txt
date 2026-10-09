@@ -1,0 +1,1179 @@
+Therapanacea SAS April 19, 2023
+℅ Catherine Martineau-Huynh
+COO
+7 bis boulevard Bourdon
+Paris, 75004
+FRANCE
+Re: K230023/S001
+Trade/Device Name: ART-Plan
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QKB, MUJ, LLZ
+Dated: December 28, 2022
+Received: January 4, 2023
+Dear Catherine Martineau-Huynh:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (seeK230023 - Catherine Martineau-Huynh Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lora D. Digitally signed by
+Lora D. Weidner -S
+Weidner -S Date: 2023.04.19
+18:00:58 -04'00'
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K230023
+Device Name
+ART-Plan
+Indications for Use (Describe)
+ART-Plan is indicated for cancer patients for whom radiation treatment has been planned. It is intended to be used by
+trained medical professionals including, but not limited to, radiologists, radiation oncologists, dosimetrists, and medical
+physicists.
+ART-Plan is a software application intended to display and visualize 3D multi-modal medical image data. The user may
+mport, define, display, transform and store DICOM3.0 compliant datasets (including regions of interest structures). These
+images, contours and objects can subsequently be exported/distributed within the system, across computer networks
+and/or to radiation treatment planning systems. Supported modalities include CT, PET-CT, CBCT, 4D-CT and MR
+images.
+ART-Plan supports AI-based contouring on CT and MR images and offers semi-automatic and manual tools for
+segmentation.
+To help the user assess changes in image data and to obtain combined multi-modal image information, ART-Plan allows
+the registration of anatomical and functional images and display of fused and non-fused images to facilitate the
+comparison of patient image data by the user.
+With ART-Plan, users are also able to generate, visualize, evaluate and modify pseudo-CT from MRI images.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFTheraPanacea SAS
+K230023
+Special 510(k)
+For ART-Plan v1.10.1
+510(k)Summary
+This510(k)Summaryissubmittedinaccordancewith21CFRPart807,Section807.92.
+This summary of 510(k) safetyandeffectivenessinformationisbeingsubmittedinaccordance
+withtherequirementof21CFR807.92
+SubmitterInformation:
+Name: TheraPanacea SAS
+Address: 7bisboulevardBourdon75004Paris
+EstablishmentRegistrationNumber: 3019834893
+Owner/OperatorNumber: 10082087
+Phone: +33962527819
+Contact: CatherineMartineau-Huynh
+E-mail: c.huynh@therapanacea.eu
+DateofSummary: 28thofDecember2022
+DeviceInformation:
+BelowsummarisestheDeviceClassificationinformationregardingtheART-Planv1.10.1.
+DeviceProprietaryName NA
+CommonName: ART-Plan
+TradeName: ART-Plan
+ProductCode(s): NA
+PrimaryProductCode
+Regulation Product Classification
+Device DeviceClass
+Number Code Panel
+Medicalimage
+892.2050 managementand ClassII QKB Radiology
+processingsystem
+SecondaryProductCodes
+Regulation Product Classification
+Device DeviceClass
+Number Code Panel
+Medicalimage
+892.2050 managementand ClassII LLZ Radiology
+processingsystem
+Medical
+charged-particle
+892.5050 ClassII MUJ Radiology
+radiationtherapy
+system
+Page1of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+SubstantialEquivalence
+Product
+Manufacturer TradeName Regulation 510(k)Number
+Code
+TheraPanacea ART-Plan QKB 892.2050 K220813
+SAS
+SubmissionDescription
+ThisSpecial510(k)coversamodificationtoadd48newstructurestoexistinglocalizationsand
+8bugfixestoART-Planv1.10.0,asclearedin510(k)(K220813).
+Therearenosignificantchangespresentedtotheothersoftwarecomponentspreviously
+clearedinK220813i.e.,nochangetotheothermodulessuchasSmartfuse,Home,
+AdministrationandtotheotherfeaturessuchasgenerationofsyntheticCTfromMR.
+Well-establishedmethodsdescribedinthepreviously510(k)-clearedART–Planv1.10.0,have
+beenusedtoevaluatethechangeisprovidedinasummaryinthissubmission.
+This Special 510(k) presents the addition of 48 new structures to existing localizations
+(Annotate module). This modification extends the use of Annotate to other radiotherapy
+protocols,suchastheSBRTforlung. Italsoincludes8bugfixes.
+DeviceDescription
+● GeneralDescription
+The ART-Plan application consists oftwokeymodules:SmartFuseandAnnotate,allowingthe
+user to display and visualize 3D multi-modal medical image data. The user may process,
+render, review, store, display and distribute DICOM 3.0 compliant datasets within the system
+and/or across computer networks. Supported modalities cover static and gated CT
+(computerized tomography including CBCT and 4D-CT), PET(positronemissiontomography)
+andMR(magneticresonance).
+TheART-PlantechnicalfunctionalitiesclaimedbyTheraPanaceaarethefollowing:
+• Proposing automatic solutions to the user, such as an automatic delineation, automatic
+multimodal image fusion, etc. towards improving standardization of processes/
+performance/reducingusertedious/timeconsuminginvolvement.
+• Offering to the user a set of tools to assist semi-automatic delineation, semi-automatic
+registration towards modifying/editing manually automatically generated structures and
+adding/removing new/undesired structures or imposing user-provided correspondences
+constraintsonthefusionofmultimodalimages.
+• Presenting to the user a set of visualization methods of the delineated structures, and
+registrationfusionmaps.
+• Savingthedelineatedstructures/fusionresultsforuseinthedosimetryprocess.
+• Enabling rigid and deformable registration of patients images sets tocombineinformation
+containedindifferentorsamemodalities.
+• Allowing the users to generate, visualize, evaluate and modify pseudo-CT from MRI
+images.
+ART-Planoffersdeep-learningbasedautomaticsegmentationforthefollowinglocalizations:
+Page2of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+● headandneck(onCTimages)
+● thorax/breast(formale/femaleandonCTimages)
+● abdomen(onCTimagesandMRimages)
+● pelvismale(onCTimagesandMRimages)
+● pelvisfemale(onCTimages)
+● brain(onCTimagesandMRimages)
+ART-Plan offers deep-learning based synthetic CT-generation from MR images for the
+followinglocalizations:
+● pelvismale
+● brain
+Intended/IndicationsforUse
+Intendeduse:
+ART-Plan is a software for multi-modal visualization, contouring and processingof3Dimages
+ofcancerpatientsforwhomradiotherapytreatmenthasbeenprescribed.
+It allows the user to view, create and modify contours for theregionsofinterest.Italsoallows
+to generate automatically, and based on medical practices, the contours fortheorgansatrisk
+and healthy lymph nodes and to register combinations of anatomical and functional images.
+Contours and images require verifications, potential modifications, and subsequently the
+validation of a trained userwithprofessionalqualificationsinanatomyandradiotherapybefore
+theirexporttoaTreatmentPlanningSystem.
+ART-Plan offers the following visualization, contouring and manipulation tools to aid in the
+preparationofradiotherapytreatment:
+● Multi-modal visualization and rigid- and deformable registration of anatomical and
+functionalimagessuchasCT,MR,PET-CT,4D-CTandCBCT
+● Display of fused and non-fused images to facilitate the comparisonanddelineationof
+imagedatabytheuser
+● Manual modification and semi-automatic generation of contours for the regions of
+interest
+● Automatic generation of contours for organs at risk and healthy lymph nodes, based
+onmedicalpractices,onmedicalimagessuchasCTandMRimages.
+● Generationofpseudo-CTforsupportedanatomies
+The device is intended to be used in a radiation therapy clinical setting, by trained
+professionalsonly.
+Indicationsforuse:
+ART-Plan is indicated for cancer patients for whomradiationtreatmenthasbeenplanned.Itis
+intended to be used by trained medical professionalsincluding,butnotlimitedto,radiologists,
+radiationoncologists,dosimetrists,andmedicalphysicists.
+ART-Plan is a software application intended to display and visualize 3D multi-modal medical
+image data. The user may import, define, display, transform and store DICOM3.0 compliant
+datasets (including regions of interest structures). These images, contours and objects can
+subsequently be exported/distributed within the system, across computer networks and/or to
+radiationtreatmentplanningsystems.SupportedmodalitiesincludeCT,PET-CT,CBCT,4D-CT
+andMRimages.
+Page3of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+ART-Plan supports AI-based contouring onCTandMRimagesandofferssemi-automaticand
+manualtoolsforsegmentation.
+To help the user assess changes in image data and to obtain combined multi-modal image
+information, ART-Plan allows the registration of anatomical and functionalimagesanddisplay
+offusedandnon-fusedimagestofacilitatethecomparisonofpatientimagedatabytheuser.
+With ART-Plan, users are also able to generate, visualize, evaluate and modify pseudo-CT
+fromMRIimages.
+ComparisonwiththePredicateandPreviouslyClearedDevice
+The candidate device TheraPanacea SAS ART-Plan 1.10.1 is substantially equivalent to the
+predicate, K220813, the TheraPanacea SAS ART-Plan 1.10.0 and a comparison of the key
+characteristicsissummarisedinTable1.
+Characteristic ART-Planv1.10.1withModification ART-Planv1.10.0K220813
+Equivalence
+(Predicate)
+DeviceName ART-Planv1.10.1 ART-Planv1.10.0 Equivalent
+Manufacturer TheraPanaceaSAS TheraPanaceaSAS Equivalent
+DeviceClassification II II Equivalent
+PrimaryProductCode QKB QKB Equivalent
+SecondaryProduct LLZ,MUJ LLZ,MUJ Equivalent
+Code
+IndicationsforUse ART-Plan is indicated for cancer ART-Plan is indicated for cancer Equivalent
+patients for whom radiation treatment patients for whom radiation treatment
+has been planned. It is intended to be has been planned. It is intended to be
+used by trained medical professionals used by trained medical professionals
+including, butnotlimitedto,radiologists, including, butnotlimitedto,radiologists,
+radiation oncologists, dosimetrists, and radiation oncologists, dosimetrists, and
+medicalphysicists. medicalphysicists.
+ART-Plan is a software application ART-Plan is a software application
+intended to display and visualize 3D intended to display and visualize 3D
+multi-modal medical image data. The multi-modal medical image data. The
+user may import, define, display, user may import, define, display,
+transform and store DICOM 3.0 transform and store DICOM 3.0
+compliant datasets (including regionsof compliant datasets (including regionsof
+interest structures). These images, interest structures). These images,
+contours and objects can subsequently contours and objects can subsequently
+be exported/distributed within the be exported/distributed within the
+system, across computer networks system, across computer networks
+and/or to radiation treatment planning and/or to radiation treatment planning
+systems. Supported modalities include systems. Supported modalities include
+CT, PET-CT, CBCT, 4D-CT and MR CT, PET-CT, CBCT, 4D-CT and MR
+images. images.
+ART-Plan supports AI-basedcontouring ART-Plan supports AI-basedcontouring
+on CT and MR images and offers on CT and MR images and offers
+semi-automatic and manual tools for semi-automatic and manual tools for
+segmentation. segmentation.
+To help the user assess changes in To help the user assess changes in
+image data and to obtain combined image data and to obtain combined
+multi-modal image information, multi-modal image information,
+ART-Plan allows the registration of ART-Plan allows the registration of
+Page4of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+Characteristic ART-Planv1.10.1withModification ART-Planv1.10.0K220813
+Equivalence
+(Predicate)
+anatomical and functional images and anatomical and functional images and
+display of fused and non-fused images display of fused and non-fused images
+to facilitate the comparison of patient to facilitate the comparison of patient
+imagedatabytheuser. imagedatabytheuser.
+With ART-Plan, users are also able to With ART-Plan, users are also able to
+generate, visualize, evaluate and generate, visualize, evaluate and
+modifypseudo-CTfromMRIimages modifypseudo-CTfromMRIimages
+Intended It is intended to be used by trained It is intended to be used by trained Equivalent
+user/Location medical professionals including, but not medical professionals including, but not
+limited to, radiologists, radiation limited to, radiologists, radiation
+oncologists, dosimetrists, and medical oncologists, dosimetrists, and medical
+physicists/Hospitals physicists/Hospitals
+Segmentationfeatures AutomaticallydelineatesOARsand AutomaticallydelineatesOARsand Equivalent-
+(Annotatemodule) healthylymphnodes healthylymphnodes Thecandidate
+deviceand
+Deeplearningalgorithm. Deeplearningalgorithm. predicateare
+capableof
+Automaticsegmentationincludesthe Automaticsegmentationincludesthe automatically
+followinglocalizations: followinglocalizations: contouringthe
+*headandneck(onCTimages) *headandneck(onCTimages) organ-at-risk
+*thorax/breast(formale/femaleandon *thorax/breast(formale/femaleandon (OAR)and
+CTimages) CTimages) healthylymph
+*abdomen(onCTimagesandMR *abdomen(onCTimagesandMR nodesusing
+images) images) AI(deep
+*pelvismale(onCTimagesandMR *pelvismale(onCTimagesandMR learning)
+images) images) algorithm.
+*pelvisfemale(onCTimages) *pelvisfemale(onCTimages)
+*brain(onCTimagesandMRimages) *brain(onCTimagesandMRimages) Thecandidate
+device
+includes48
+additional
+structures to
+thealready
+existing
+localizations
+Bugs NA Equivalent
+Thebugfixes
+introducedin
+thecandidate
+devicedonot
+Correctionof8bugs
+affectthe
+safetyor
+performance
+ofthe
+predicate
+device
+Table1:ComparisonofcharacteristicsbetweentheModifiedSystemandthePredicateSystem.
+Page5of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+InTable2,structuresincludedinART-Planv1.10.1arepresented.
+Head&Neck(CT)-47structures
+Brainstem Cerebellum Chiasma Encephalon Esophagus Hypophyse Larynx
+Leftcervical Leftcervical Leftcervical
+LeftBrachial Leftcervicallymph Leftcervical Leftcervical
+lymphnode lymphnode lymphnode
+plexus nodeIB lymphnodeIII lymphnodeV
+II IVA IVB
+Leftcervicallymph Leftcervicallymph Leftoptical
+Leftcochlea Lefteye Lefteyelens Leftparotid
+nodeVIIA nodeVIIB nerve
+Left
+Medullar Rightbrachial
+Leftsubmandible temporomandibula Lips Mandible Mouth
+canal plexus
+rjoints
+Right
+Rightcervical Rightcervical Rightcervical
+Rightcervical Rightcervical cervical Rightcervical
+lymphnode lymphnode lymphnode
+lymphnodeIB lymphnodeII lymphnode lymphnodeV
+IVA IVB VIIA
+III
+Rightcervical Rightoptical Right
+Rightcochlea Righteye Righteyelens Rightparotid
+lymphnodeVIIB nerve submandible
+Right
+External
+temporomandibula SpinalCord Thyroid Trachea
+contour
+rjoints
+Thorax/Breast(CT)-30structures
+LeftIMC
+(internal
+Leftbrachial Lefthumeral
+Esophagus Heart Larynx Leftbreast mammary
+plexus head
+chain)lymph
+node
+Left
+Leftinterpectoral Leftlymph Leftlymph Leftlymph
+Leftlung supraclavicula Liver
+lymphnode nodeL1 nodeL2 nodeL3
+rlymphnodes
+RightIMC
+(internal Right
+Rightbrachial Righthumeral
+Medullarcanal Rightbreast mammary interpectoral Rightlung
+plexus head
+chain)lymph lymphnode
+node
+Right
+Rightlymphnode Rightlymphnode Rightlymph
+supraclavicula Spinalcord Thoracicaorta Thyroid
+L1 L2 nodeL3
+rlymphnodes
+Trachea ExternalContour
+PelvisMale(CT)-19structures
+CTVn Leftfemoral
+Analcanal Bladder Bowelbag Leftiliac Leftkidney
+prostate head
+Right
+Liver Medullarcanal Penilebulb Prostate Rectum Rightiliac
+femoralhead
+External
+Rightkidney Seminalvesicle Sigmoid Spinalcord
+contour
+PelvisFemale(CT)-25structures
+Common
+CTVt Leftfemoral
+Analcanal Bladder Bowelbag iliacgyneco Leftiliac
+gyneco head
+lymphnode
+Leftinguinal Lomboaorti
+Leftiliacgyneco Medullar
+gynecolymph Leftkidney Liver clymph Parametrium
+lymphnode canal
+node node
+Page6of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+Right
+Presacral Right Rightiliac
+inguinal
+gynecolymph Rectum femoral Rightiliac gyneco Rightkidney
+gyneco
+node head lymphnode
+lymphnode
+External
+Sigmoid Spinalcord Vagina
+contour
+Heartsubstructures(partofthorax/breast)(CT)- 13structures
+Leftmain
+Left Leftventricle Leftventricle
+Ascendingaorta Coronarysinus Leftatrium coronary
+ventricle anterior apical
+artery
+Left
+Leftventricle Leftventricle Right Venacava
+ventricle Rightatrium
+inferior lateral ventricle superior
+septal
+SBRTlung(partofthorax/breast)(CT)- 14structures
+Left
+anterior Left Leftchest
+Bronchialtree Carina Leftbronchia Pericardium
+descending bronchus wall
+aorta
+Pulmonary Right Rightchest Venacava
+Rightbronchia Spleen Stomach
+arteries bronchus wall inferior
+BrainT1(MR)-28structures
+Anterior Encephalo
+Chiasma Hypophyse Leftcochlea Leftcornea Lefteyelens
+cerebellum n
+Left
+Left vestibular
+Left Left Leftoptical Medulla
+lacrimal Leftretina semicircular
+hippocampus hypothalamus nerve oblongata
+gland canals
+(VSCC)
+Right
+Posterior Right Right Righteye
+Midbrain Pons hippocampu
+cerebellum cochlea cornea lens
+s
+Right
+Right versibular
+Right Rightlacrimal External
+optical Rightretina semicircular Spinalcord
+hypothalamus gland contour
+nerve canals
+(VSCC)
+PelvisT2(male)(MR)-12structures
+Left
+Analcanal Bladder femoral Leftpelvis Penilebulb Prostate Rectum
+head
+Rightfemoral Seminal External
+Rightpelvis Sacrum
+head vesicle contour
+PelvisTF(male)(MR)-19structures
+Inferior Leftfemoral
+Analcanal Aorta Bladder Duodenum Largebowel
+venacava head
+Right
+Leftkidney Liver Pancreas Penilebulb Prostate Rectum
+femoralhead
+External
+Rightkidney Seminalvesicle Sigmoid Stomach
+contour
+Table2:StructuresincludedinART-Planv1.10.1
+Page7of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+TechnologicalCharacteristics
+The proposed modification to the Annotate module on the TheraPanacea ART-Plan v1.10.1
+has identical indications for use, operatingprinciples,performance,andtechnicalspecification
+asthepredicatedevice,theTheraPanaceaSASART-Plan1.10.0.
+The proposed modificationoftheadditionof48newstructurestotheexistinglocalizationsand
+the introduction of 8 bug fixes enables further help in the management of radiotherapy
+planning. Equivalence between both systems has been shown through the thorough
+performancetestingperformed.
+SummaryofNon-ClinicalTests(Performancedata)
+The TheraPanacea ART-Plan V1.10.1 was tested to ensure performance of the system, to
+verify and validate the product design and to characterise the performance and safety of
+TheraPanacea’sART-Planv1.10.1.
+The performance of the Annotate module modification is identical to the predicate previously
+cleared device in terms of technical specification and safety. The primary difference between
+the predicate and the candidate devices is the addition of 48 new structures to existing
+localizations (Annotate module). This modification extends the use of Annotate to other
+radiotherapyprotocols,suchastheSBRTforlung,
+All changes were verified and validated according to TheraPanacea SAS internal design
+controlprocessandinaccordancewithspecialcontrolsforsoftwaresystems.
+This is demonstrated through the extensive testing carried out on the system with the
+modification, which passes all performance and verificationteststhatfollowthesameprotocol
+and acceptance criteriaastheonessubmittedtotheFDAundertheclearanceofthepredicate
+device (K220813). It alsodemonstratedthattheproposedmodificationperformedaccordingto
+its specification and has met the technological and performance criteria which have not
+changedfromthepredicatedevice.
+Informationaboutourtrainingdataset:
+A method generalizeswelliftheobservedperformanceontrainingandvalidationsetsremains
+stable. In the case of strong presence of expert’s annotation variability(thatisnotnecessarily
+becauseoferroneousannotationsbutbecauseimagequality/organvisibilitycanbeinterpreted
+differently among experts),amethodthatcandemonstratesimilarperformancewithrespectto
+agivenmetricontraining,validationandlaterontestingisconsideredtogeneralizewell.
+In that process, both the loss function being optimized by the optimization procedure
+(stochastic gradient descent) and the dice metric which is the main proxy of segmentation
+quality, are monitored over the train and validation sets. If the loss is non-increasing on the
+validation set and if the dice metrics follow similar in value trends in both the validation and
+training sets, it is considered that the model being trained does not overfit, and henceshould
+generalizewell,atleastoninputdomainssimilartoonesinthosesets.
+Page8of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+On the contrary, overfittingcanbedetectedwheneverthetraininglosskeepsdecreasingwhile
+the validation loss after a while increases. This means that the model is focusing onfeatures
+that are specific tothetrainingdataandnotpresentinthevalidationdata.Thisimpliesthatthe
+capacity of the model to generalize is poor. In that respect, the independence of the
+train/validation/testsetsisfundamental.
+We consider that amodelisagoodcandidateforproductionwhenthefollowingconditionsare
+met: 1) the loss and dices have reached a plateau on the validation set, 2) there is no
+overfitting, i.e. training and validation curves are similar and 3)thelevelofperformanceofthe
+dice for the different organs are as good or above the clinical expectations according to well
+definedperformancecriteria.
+The learning curves of organs may be different depending on the sizes and shapes
+(difficulties) ofstructures(organs).Thus,therangeoftestingscores,DiceSimilarityCoefficient
+(DSC), may vary. It isimportanttorememberthatsmallerorgansmighthavesmallerDSCand
+yet be still clinically relevant and acceptable, as the DSC is a relative metric that is heavily
+dependent on the volume of the organ. This is due to the fact that the DSC scores are
+normalized from the union of organ volume between the two sets (ground truth, automatic
+annotations) and therefore lower DSC could correspond to clinically acceptable values for
+small organs, since the proposed contours mighttakejustafeweditionstomakethemusable
+for planning, whilst still saving time from the users, i.e. that these contours would be judged
+“clinicallyacceptableafterminorcorrections”inaqualitativeevaluation.
+Learning curves can have an average DSC and loss function for each epoch (which is an
+iteration of training where thewholetrainingdatasethasbeenpassedtothenetwork)overthe
+training set and over the validation set. Our curves show that validation and training dataare
+very close to each other, reaching convergence after some epochs (depending on the
+structure),demonstratingnooverfittingofthetrainingdata.Onceconvergenceisachieved,the
+model is considered ready to be tested and clinically validated on a different, yet
+representative data set, as described in the process that has already been submitted to and
+clearedbytheFDA.
+Some limitations have been identified that correspond either to the sexortheageofpatients.
+For instance, for the auto-segmentationmodelfollowinglimitationsaredisclosedtotheuserin
+theInstructionForUse(UserManual)basedonthesexofthepatient:
+- The Truefisp Pelvis MRI and T2 Elekta Pelvis MRI auto-contouring models only work
+onmaleanatomy.
+- The patient sex of the patient (dicom tag (0010, 0040)) is taken into account for the
+auto-segmentation:
+- if the tag is "F" or "M", the sex specific organs (prostate, breast, etc.) are
+contouredaccording
+tothetag
+- ifthetagisemptyor"O":
+- ifbatch:nocontourisdelineatedexceptexternalcontour
+- if auto segmentation on Annotate: only common contours to the 2
+sexesaredelineated
+- ifthetagisincorrect,thegeneratedcontoursmaybeinappropriate
+Theautomaticcontouring(includingexternalcontour)functionmaygenerateinappropriate
+Page9of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+contoursinthefollowingcases:
+- Whenthevolumeusedisanimagetakenofachild
+- Whenthepatienthasaparticularanatomy.
+- When the considered volume is thatofapatientnotpositionedonhisbackatthetime
+ofacquisition.
+- WhenthevalueenteredinthePatientPositiontag(0018,5100)iserroneous.
+- WhentheDICOM-CTcontainsanunusuallyhighnumberofslices.
+- When the qualityoftheimagesusedasinputisnotsatisfyingenoughortheresolution
+islowsuchasCBCT.Therefore,thecontoursproducedmayhavealowquality.
+- When the primary volume is an MRI whose acquisition sequence is not compatible
+withtheselectedauto-contouringmodel.
+- When the patient is unusually positioned on the image (image not centered on the
+patient,headrotatedontheside...)
+Onlysomeanatomiesarecoveredbytheautomaticcontouring:
+- Automatic contouringonCTimagescoversallanatomies(head,Head&Neck,thorax,
+breast,abdominalregionandpelvis(M/F)
+- Automatic contouring on MR images covers some sequences and anatomies: Brain
+T1,AbdoTF(TrueFisp),PelvisT2,PelvisTF.
+- In order tosuggestthemostrelevantstructurestotheuser,aCTthatdoesnotinclude
+a chiasma but does include a liver, is not considered as Head andNeckcase.Inthat
+case,noHeadandNeckstructureswillbeautomaticallysegmented.
+All the above information on the limitations of some models is included in the Instruction For
+Use(UserManual)whichismadeavailabletoallusersofthesoftware.
+● Summary test statistics or other test results including acceptance criteria or
+other information supporting the appropriateness of the characterized
+performance:
+AcceptancecriteriaforperformanceofART-Planmoduleswereestablishedusingperformance
+ranges extracted from benchmarkdevicesandalternativetechnologiesintheliterature.Foran
+auto segmentation model to be judged acceptable, every organ included in the model must
+pass at least one acceptance criterion with success across the different testings it has been
+submittedto.Thesecriteriaareasfollows:
+a) TheDiceSimilarityCoefficient(DSC)isequaltoorsuperiortotheacceptancecriteriasetby
+theAAPM:DSC(mean)≥0.8.
+Or
+b) The Dice Similarity Coefficient (DSC) is equal to or superior to inter-expertvariability:DSC
+(mean)≥0.54orDSC(mean)≥mean(DSCinter-expert)+5%.
+Or
+c)Theclinicians’squalitativeevaluationoftheauto-segmentationisconsideredacceptablefor
+clinical use withoutmodifications(A)orwithminormodifications/corrections(B)withaA+B%
+aboveorequalto85%consideringthefollowingscale:
+A:thecontourisacceptableforaclinicalusewithoutanymodification
+B:thecontourwouldbeacceptableforclinicaluseafterminormodifications/corrections
+C: the contour requires major modifications (e.g. it would be faster for the expert to manually
+delineatethestructure)”
+Forthesynthetic-CTgenerationtool,theacceptancecriteriaareasfollows:
+Page10of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+a.Amedian2%/2mmgammapassingcriteriaof≥95%
+b.Amedian3%/3mmgammapassingcriteriaof≥99.0%
+c.Ameandosedeviation(pseudo-CTcomparedtostandardCT)of≤2%in≥88%ofpatients
+● Total number of individual patients images in the reported auto segmentation
+toolsandindependenceoftestdataandtrainingdata
+Our training, validation andtestcohortsarebuiltfromreal-worldretrospectivedatawhichwere
+initially used for treatmentofcancerpatients.Forthestructuresofagivenanatomyforagiven
+modality (MR or CT),twonon-overlappingdatasetswereseparated:thetestpatients(number
+selected based on thorough literature review and statistical power) and the train data. We
+make sure that those sets are non-overlapping and further split the train cases into train and
+validation sets and ensure enough train cases for the machine learning models to converge
+andachievegoodperformancesofthevalidationset.
+Samplesize %
+Training 299142 0.8
+Validation 75018 0.2
+Total 274160 1
+Table3:Distributionofsamplesbetweentrainingandvalidationdatasets
+● Total number of cases and samples images in the reported auto segmentation
+results
+The total number of patients used for training (8736) is lower than the number of samples
+(374160). This is linked to the fact that one patient can be associated withmoreimages(e.g.
+CT, MR) and that each image (anatomy) has the delineation of several structures(OARsand
+lymphnodes)whichincreasesthenumberofsamplesusedfortrainingandvalidation.
+● Demographicdistributionincludinggender,ageandethnicity
+All data used for training of the models have been pseudo-anonymised by the centers
+providing data before transfer.Around80%ofthedatausedfortrainingcontaininformationon
+gender and age of the patients. In terms of gender, around 44% and 56% of our data (that
+contains this information) are from female and male patients, respectively. In comparison, in
+2020 according to the Global Cancer Observatory, 48% and 52% of the cancerpatientswere
+femaleandmale,respectively.
+Intermsofage,ourdatafollowsthesametrendobservedandreportedintheUS(SEERNIH),
+UK (Cancer Research UK) and worldwide (Global Cancer Observatory) for cancer incidence
+according to age, with more than 95% of the data coming from patients between 20 and 85
+years old. Our data has a slight overrepresentation (8% points) for the ages between 54 and
+60 years old, at the cost of a slight underrepresentation of patients in the agerangebetween
+Page11of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+20-34 (1.5% points) and above 85 (6.5% points) years old. In addition, following the general
+global (incl US) trend, our data also depicts a steep rise in the incidence rate fromintheage
+group of 55-64 years old, with a median age of 63 years old (as compared to 66 yearsoldin
+theUS).
+Although this information is not exhaustive, this analysis shows that the demographic
+distribution in terms of age and gender of the data used for training and validation of the
+models are well aligned with the incidence cancer statistics found for instance in US,UKand
+globally. This comes from the fact that real clinical data provided by medical facilities without
+any selection criteria (i.e. no discrimination or selection has been applied to the cases
+retrieved), leading to the demographicdistributionincludinggenderandageacrossthedatais
+representative of the distribution in the clinic and thus of the cancer patient population in
+general.
+Anexceptionisnotedforfollowingmodelsthataregender-dependent:
+-100%ofpelvisimagesformalepelvismodelforautomaticannotationaremalepatients
+-100%ofpelvisimagesforfemalepelvismodelforautomaticannotationarefemalepatients
+-100%ofbreastimagesforthebreastautomaticannotationarefemalepatients
+-100%ofpelvisimagesforautomaticsynthetic-CTgenerationaremalepatients
+Thepseudo-anonymizeddatadidnotincludeanyinformationontheethnicity.
+In addition, automatic delineation of the device demonstrated equivalent performances
+betweennon-USandUSpopulation.
+● Onthe“truthing”anddatacollectionprocess
+The contouring guidelines followed to produce the contours were confirmed with the centers
+which provided the data. Our truthing process includes a mix of data created by different
+delineators (clinical experts) and assessmentofintervariability,groundtruthcontoursprovided
+by the centers and validated by a second expert of the center, and qualitative evaluationand
+validation of the contours. This processensuresthatthedatausedfortrainingandtestingcan
+be considered representative of the delineation practice across centers and is following
+internationalguidelines.
+● Onclinicalsubgroups,confoundersandequipmentdetails
+In general, confounding factors affecting health status present in the dataset could berelated
+to patient clinical variables such as age, gender, ethnicity, economicalandeducationallevels.
+As shown in “Demographic distribution including gender, age and ethnicity”, our data is
+representative of the demographic cancer distribution in terms ofgenderandage.Inaddition,
+our models when appropriate (i.e. for gender independent anatomies) are shared across
+genderremovinganyfurtherbiasandaugmentingsubstantiallytrainingcohorts.
+Variables like ethnicity, economical and educational status that could be associated with
+obesity are further confounding factors that could impact global patient's anatomy and
+introduce bias in the performance of the obtained solution. To address this aspect, we have
+adopted a strategy that projects a patient's specific anatomy to common, multiple, differentin
+size, full-body female and male patient templates, allowing a direct harmonization of data
+resulting in potential removal of bias of anatomical diversity across ethnic, economical and
+educational groups. Please note that this information (ethnic group, educational/economical
+level, etc.) is often not available in the pseudo-anonymised data and therefore performing
+Page12of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+statistical tests and increasing thenumberofoperationsallowingtoseparatecorrelationsfrom
+causalityisoftenunattainable.
+Regarding variables associated with treatment therapeutic and treatment implementation
+strategies;wecanimagineimagingdevicesandtreatmentdevicesbeingpotentialconfounding
+factors as differences exist among CT and MR scanners manufacturers that could potentially
+introduce bias. We have addressed this concern through a statistical analysis of the different
+imaging vendors in EU & USA towards the creation of a data training, validation and testing
+cohort that globally appropriately representsthemarketshareofthedifferentvendorsallowing
+generalization and removing hardware specific bias. In terms of treatment implementation, it
+should be noted that differentguidelinesexistanddependingonthetreatmentdevicedifferent
+therapeutic constraints and guidelines are applied. This is reflected in our database since
+different strategies and constraints are used depending on the choice of treatment (e.g
+external radiotherapy vs stereotactic treatment). Our solution, due to its concept of removing
+bias through projection to patient template anatomies as well asduetothecomponent-based
+approach that is abletoaggregatetrainingdataacrossimagingandtreatmentvendors,isable
+to address the maximum set of constraints. Therefore, we do not introduce any bias on the
+type oftreatmentthatwillbedelivered(supportinganytypeofclinicallyconventionallyadopted
+treatment from manufactures such as Varian, Elekta, Accuray, GE, Siemens, ViewRay),
+providing direct means forcustomizationoftheconstraintstobemetattheclinicalexpertlevel
+andofferingarepresentativecoverageofallvendorsinradiationoncologyworld-wide.
+Anexceptionisnotedforfollowingmodelsthatarevendor-,machine-orsequence-dependent:
+- MR annotation tool for pelvis and abdominal regions weretrainedondatafroma0.35TMR
+machineprovidedbyViewRay
+- synthetic-CT generation tool for pelvis was trained on data from a 0.35T MR machine
+providedbyViewRay
+- synthetic-CTgenerationtoolandannotationtoolforMRpelviswastrainedondatafrom1.5T
+Philips(Elekta)forT2sequences,andmightnotworkonT1-weightedimages
+● Ongeneralizabilityofthemodels:
+A method generalizes well also if the observed performance on training and validation sets
+remains stable. In the case of strong presence of expert’s annotation variability (that is not
+necessarily because of erroneous annotations but because image quality/organ visibility can
+be interpreted differently among experts), a methodthatcandemonstratesimilarperformance
+with respect to a given metric on training, validation and later on testing is considered to
+generalizewell.
+We consider that amodelisagoodcandidateforproductionwhenthefollowingconditionsare
+met: 1) the loss and dices have reached a plateau on the validation set, 2) there is no
+overfitting, i.e. training and validation curves are similar and 3)thelevelofperformanceofthe
+diceforthedifferentorgansareasgoodorabovetheclinicalexpectations.
+Once convergence is achieved, the model is tested and clinically validated on a different, yet
+representative data set, following a well-established process of validation that has already
+beensubmittedtoandclearedbytheFDA.
+Page13of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+SummaryofVerificationandValidationActivities
+Organ Performancetest Summaryofresults Anydifferencesto
+method/Acceptancecriterion protocol?
+1. Carina Intervariabilitycomparisonto DICEdiff Samplesize:33
+experts inter-expert=6.58%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+2. Lad Intervariabilitycomparisonto DICEdiff Samplesize:33
+coronary experts inter-expert=15.56%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+3. Left Intervariabilitycomparisonto DICEdiff Samplesize:33
+bronchia experts inter-expert=14.75%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+4. Left Intervariabilitycomparisonto DICEdiff Samplesize:33
+bronchus experts inter-expert=6.17%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+5. Leftchest Intervariabilitycomparisonto DICEdiff Samplesize:33
+wall experts inter-expert=0%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+6. Pericardium Intervariabilitycomparisonto DICEdiff Samplesize:33
+experts inter-expert=1.06%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+7. pulmonary Intervariabilitycomparisonto DICEdiff Samplesize:33
+Page14of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+arteries experts inter-expert=3.61%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+8. Right Intervariabilitycomparisonto DICEdiff Samplesize:33
+bronchia experts inter-expert=22.64%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+9. Right Intervariabilitycomparisonto DICEdiff Samplesize:33
+bronchus experts inter-expert=7.41%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+10. Right Intervariabilitycomparisonto DICEdiff Samplesize:33
+chestwall experts inter-expert=-1.10%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+11. Spleen Intervariabilitycomparisonto DICEdiff Samplesize:33
+experts inter-expert=1.08%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+12. stomach Intervariabilitycomparisonto DICEdiff Samplesize:33
+experts inter-expert=2.27%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+13. Venacava Intervariabilitycomparisonto DICEdiff Samplesize:33
+inf experts inter-expert=9.59%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+Page15of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+14. Bronchial Thisstructurecorrespondstoa
+tree booleanofotherstructures:carina
++leftbronchus+rightbronchus+
+leftbronchia+rightbronchiawhich
+whichhaveallpassedthe
+performancetests
+15. Ascending Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+aorta
+CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+16. coronary Intervariabilitycomparisonto diffinter-expert=3.59% Samplesize:20
+sinus experts
+(CriterionCofperformance Passed whichistheminimum
+criteria) datasamplesize
+Minsamplesizeforevaluation
+method:20
+17. Leftatrium Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+18. Leftmain Qualitativeevaluationbyexperts A+B=93% Samplesize:20
+coronary
+artery CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+19. Left Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+ventricle
+CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+20. Left Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+ventricle
+anterior CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+21. Left Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+ventricle
+apical CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+Page16of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+22. Left Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+ventricle
+inferior CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+23. Left Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+ventricle
+lateral CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+24. Left Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+ventricle
+septal CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+25. Rightatrium Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+CriterionD passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+26. Right Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+ventricle
+CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+27. Venacava Qualitativeevaluationbyexperts A+B=100% Samplesize:20
+sup
+CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+28. Leftcervical Qualitativeevaluationbyexperts A+B=96.67% Samplesize:15
+lymphnode
+IVB CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+29. Right Qualitativeevaluationbyexperts A+B=96.67% Samplesize:15
+cervical
+lymphnode CriterionD Passed whichisabovethe
+IVB minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+Page17of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+30. Anterior Intervariabilitycomparisonto DICEdiff Samplesize:30
+cerebellum experts inter-expert=6.47%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+31. Leftcochlea Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=19.96%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+32. Leftcornea Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=7.93%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+33. Left Intervariabilitycomparisonto DICEdiff Samplesize:30
+hypothalam experts inter-expert=4.19%
+us (CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+34. Leftlacrimal Intervariabilitycomparisonto DICEdiff Samplesize:30
+gland experts inter-expert=4.76%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+35. Leftretina Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=12.26%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+36. Leftvscc Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=-1.20%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+Page18of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+37. Medulla Intervariabilitycomparisonto DICEdiff Samplesize:30
+oblangata experts inter-expert=3.25%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+38. Midbrain Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=5.78
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+39. Pons Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=3.39%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+40. Posterior Intervariabilitycomparisonto DICEdiff Samplesize:30
+cerebellum experts inter-expert=2.07%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+41. Right Intervariabilitycomparisonto DICEdiff Samplesize:30
+cochlea experts inter-expert=29.22%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+42. Right Intervariabilitycomparisonto DICEdiff Samplesize:30
+cornea experts inter-expert=4.66%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+43. Right Intervariabilitycomparisonto DICEdiff Samplesize:30
+hypothalam experts inter-expert=3.32%
+us (CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+Page19of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+44. Right Intervariabilitycomparisonto DICEdiff Samplesize:30
+lacrimal experts inter-expert=4.23%
+gland (CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+45. Rightretina Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=10.03%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+46. Rightvscc Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=3.08%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+47. SpinalCord Intervariabilitycomparisonto DICEdiff Samplesize:30
+experts inter-expert=13.01%
+(CriterionCofperformance whichisabovethe
+criteria) Passed minimumdatasample
+size
+Minsamplesizeforevaluation
+method:20
+48. Sigmoid Qualitativeevaluationbyexperts A+B=100% Samplesize:30
+CriterionD Passed whichisabovethe
+minimumdatasample
+Minsamplesizeforevaluation size
+method:15
+Table4:SummaryofPerformanceTestResultsfortheAnnotateModuleofART-Plan
+Page20of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+SummaryofNon-ClinicalTests(Performancedata)
+The TheraPanacea ART-Plan V1.10.1 was tested to ensure performance of the system, to
+verify and validate the product design and to characterise the performance and safety of the
+TheraPanaceaART-Planv1.10.1.
+The performance of the Annotate module modification is identical to the predicate previously
+cleared device in terms of technical specification and safety. The primary difference between
+the predicate and the candidate devices is the addition of 48 new structures to existing
+localizations (Annotate module). This modification extends the use of Annotate to other
+radiotherapyprotocols,suchastheSBRTforlung.
+All changes were verified and validated according to TheraPanacea SAS internal design
+controlprocessandinaccordancewithspecialcontrolsforsoftwaresystems.
+This is demonstrated through the extensive testing carried out on the system with the
+modification, which passes all performance and verificationteststhatfollowthesameprotocol
+and acceptance criteriaastheonessubmittedtotheFDAundertheclearanceofthepredicate
+device (K220813). It alsodemonstratedthattheproposedmodificationperformedaccordingto
+its specification and has met the technological and performance criteria which has not
+changedfromthepredicatedevice.
+As part of a “standard” lifecycle of a software, bugs were fixed (8 bug fixes). System
+verification and validation testing were performed to verify the software of the TheraPanacea
+ART-Plan v1.10.1 after the bug fixes using the same verification testsandacceptancecriteria
+as the ones submitted to the FDA under the clearance of the predicate device (K220813).
+Relateddocumentsareavailableonrequest.
+Table 5 summarises the non-clinical tests (performance tests)completedbyTheraPanaceato
+validatetheorgansaddedinv1.10.1.
+TestName TestDescription Results
+Study Protocol and The purpose of this document is to describe the testing Passed
+Report Annotate protocols and testing results for validating the performance of
+Performances the Annotate module. TheperformancestudyoftheART-Plan
+Summary(v1.10.1) module, Annotate, evaluates the precision of the contours
+done by the software either i) againsttheonedonebyhuman
+experts through a direct comparison or ii) by a qualitative
+validationdonebyhumanexperts.
+The objective of the tests is to demonstrate that the
+auto-segmentation algorithms (CT and MR) of the module
+Annotate pass at least one acceptance criterion. This
+document includes test procedures, documentation,
+references, specifications, and acceptance criteria. This
+document is updated to take into account modificationsmade
+in ART-Plan v1.10.1 with the addition of heart substructures
+andSBRTintheCTautomaticsegmentation.
+Study Protocol and This test demonstrates that the Annotate provides clinically Passed
+Report quantitative acceptable (compared to inter-expert variability) for SBRT
+validation of Annotate structures. All organs that have passed the acceptance
+Page21of22TheraPanacea SAS
+Special 510(k)
+For ART-Plan v1.10.1
+TestName TestDescription Results
+in ART-Plan v1.10.1 criterion of reaching a percentage of a DSC(mean)≥ 0.8 or
+forSBRTCT. DSC(mean)≥0.54) or DSC(mean)≥mean(DSC
+inter-expert)+5% relative error (quantitative evaluation) have
+beenreleasedinv.1.10.1.
+Study Protocol and This test demonstrates that the module Annotate provides Passed
+Report Qualitative acceptablecontoursfortheorgansevaluatedonCTimagesof
+Validation of Annotate patients. All organs that have passedtheacceptancecriterion
+in ART-Plan V1.10.1 of reaching a percentage of atleast85%ofAorB(qualitative
+for Heart evaluation)havebeenreleasedinv.1.10.1.
+substructuresCT
+Table5:Summaryofnon-clinicalperformancetestsperformedforART-Planv1.10.1
+SummaryofAnimal&ClinicalStudies
+Noanimalstudieswereconductedaspartofsubmissiontoprovesubstantialequivalence.
+Noclinicalstudieswereconductedaspartofsubmissiontoprovesubstantialequivalence.
+SafetyandEffectiveness/Conclusion
+Based on theinformationpresentedinthisSpecial510(k)submission,theTheraPanaceaSAS
+ART-Plan v.1.10.1 is considered substantially equivalent. The TheraPanacea ART-Plan is as
+safe and effective as the currently marketed predicate device, TheraPanacea SAS ART-Plan
+v1.10.0previously510(k)cleared(K220813).
+Based on testing and comparison with the predicate device TheraPanacea SAS ART-Plan
+v1.10.0 previously 510(k) cleared (K220813), TheraPanacea SASART-Planv1.10.1indicated
+no adverseindicationsorresults.ItisourdeterminationthattheTheraPanaceaSASART-Plan
+v.1.10.1 performs within its design specifications and is substantially equivalent to the
+predicatedevice,TheraPanaceaSASART-Planv1.10.0previously510(k)cleared(K220813).
+Page22of22

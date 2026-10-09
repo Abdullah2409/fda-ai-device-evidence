@@ -1,0 +1,374 @@
+VIDA Diagnostics Inc. August 7, 2020
+℅ Alex Morris
+Director, Quality and Regulatory
+2500 Crosspark Road, W250 BioVentures Center
+CORALVILLE IA 52241
+Re: K200990
+Trade/Device Name: VIDA|vision
+Regulation Number: 21 CFR 892.1750
+Regulation Name: Computed tomography x-ray system
+Regulatory Class: Class II
+Product Code: JAK
+Dated: May 19, 2020
+Received: May 20, 2020
+Dear Alex Morris:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.17
+Silver Spring, MD 20993
+www.fda.govK200990 - Alex Morris Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureVIDA Diagnostics, Inc.
+Traditional 510(k) Premarket Submission
+VIDA|vision
+Section 5 – 510(k) Summary
+K200990
+Submitter: VIDA Diagnostics, Inc.
+500 Crosspark Rd.
+W250 BioVentures Center
+Coralville, IA 52241 USA
+Date Prepared: July 25, 2020
+Contact Person: Alex Morris, Director, Quality and Regulatory
+VIDA Diagnostics, Inc.
+2500 Crosspark Rd.
+W250 BioVentures Center
+Coralville, IA 52241 USA
+Cell Phone: (647) 470.4363
+Office Phone: (855) 900.8432
+Email: amorris@vidalung.ai
+Submission Date: May 19, 2020
+Trade Name: VIDA|vision
+Regulation Computed tomography x-ray system
+Description:
+Common Name: Medical Imaging Software for Computed Tomography Devices
+Regulation: 21 CFR 892.1750
+Product Code: JAK
+Regulatory Class: Class II
+Predicate Device: Pulmonary Workstation 2 (PW2) by VIDA Diagnostics Inc.
+Regulation: 21 CFR 892.1750
+Product Code: JAK
+Regulatory Class: Class II
+Regulation Description: Computed tomography x-ray system
+Submission Number: K083227
+www.vidalung.aiVIDA Diagnostics, Inc.
+Traditional 510(k) Premarket Submission
+VIDA|vision
+Description of Device:
+VIDA|vision is a self-contained image analysis software package. This real-time interactive
+evaluation in space and time of CT volume datasets provides the reconstruction of two-dimensional
+images into a three-dimensional image format.
+VIDA|vision can be used to support the physician in the diagnosis, treatment planning, and
+documentation of chest diseases, including lung cancer, asthma, COPD, interstitial lung disease and
+other lung abnormalities e.g. when examining the pulmonary and thoracic tissue (i.e. lung
+parenchyma) in CT thoracic datasets.
+Evaluation (3D segmentation & isolation of sub-compartments, volumetric analysis, density
+evaluations, and low density cluster analysis), editing, and reporting tools are combined with a
+dedicated workflow.
+VIDA|vision is designed to analyze pulmonary CT slice data and display analysis results. Each voxel
+of the scan is measured by Hounsfield units (HU), a measurement of x-ray attenuation that is
+applied to each volume element in three dimensional space (“voxel”). The HU are utilized to
+distinguish between air, water, tissue and bone, such distinction is common in the industry.
+VIDA|vision provides computed tomography (CT) viewing, airway analysis, and parenchymal
+density analysis in one application. VIDA|vision provides imaging of bronchial airways that can be
+used to assess therapy effectiveness and treatment plan based on CT scan data. VIDA|vision
+reconstructs multiple cross-section images from CT data into a computer model displaying complex
+bronchial branches.
+VIDA|vision provides quantitative measurements and tabulates quantitative properties.
+VIDA|vision focuses on what is visible to the eye and applies volumetric methods that might
+otherwise be too tedious to use. The software does not perform any function which cannot be
+accomplished by a trained user utilizing manual tracing methods; the intent of the software is to
+save time and automate potential error prone manual tasks.
+VIDA|vision has functions for loading, analyzing, and saving datasets, and will generate screen
+displays, computations and aggregate statistics. VIDA|vision data output may be exported in pdf
+format or to a csv file.
+Indications for Use Statement:
+www.vidalung.aiVIDA Diagnostics, Inc.
+Traditional 510(k) Premarket Submission
+VIDA|vision
+The VIDA|vision software provides reproducible CT values for pulmonary tissue, which is essential
+for providing quantitative support for diagnosis and follow up examinations. VIDA|vision can be
+used to support the physician in the diagnosis and documentation of pulmonary tissue images (e.g.,
+abnormalities) from CT thoracic datasets. Three-D segmentation and isolation of
+sub-compartments, volumetric analysis, density evaluations, low density cluster analysis and
+reporting tools are combined with a dedicated workflow. The VIDA|vision software package is also
+intended to be a real-time interactive evaluation in space and time for CT volume data sets that
+provides the reconstruction of two dimensional images into a three-dimensional image format.
+Comparison to Predicate:
+The focus of this submission is to introduce deep learning-based segmentation algorithms to the
+proposed software to automatically segment lung regions.
+Table 1 - Comparison of Characteristics
+510(k) Submitter Predicate Differences
+Manufacturer
+VIDA Diagnostics, Inc. VIDA Diagnostics, Inc.
+Trade Name VIDA|vision (formerly VIDA VIDA Pulmonary
+Pulmonary Workstation 2 Workstation 2 (PW2)
+(PW2))
+510(k) Number K200990 K083227
+Product Code JAK JAK n/a
+Regulation 21 CFR 892.1750 21 CFR 892.1750 n/a
+Number
+Regulation System, X-Ray, Tomography, System, X-Ray, n/a
+Name Computed Tomography, Computed
+Intended The VIDA|vision software The VIDA Pulmonary n/a
+Use/Indications provides reproducible CT Workstation 2 (PW2)
+for Use software provides
+values for pulmonary tissue,
+reproducible CT values for
+which is essential for
+pulmonary tissue, which is
+providing quantitative
+essential for providing
+support for diagnosis and quantitative support for
+follow up examinations. diagnosis and follow up
+VIDA|vision can be used to examinations. The PW2 can
+www.vidalung.aiVIDA Diagnostics, Inc.
+Traditional 510(k) Premarket Submission
+VIDA|vision
+support the physician in the be used to support the
+diagnosis and physician in the diagnosis
+and documentation of
+documentation of
+pulmonary tissue images
+pulmonary tissue images
+(e.g., abnormalities) from
+(e.g., abnormalities) from CT
+CT thoracic datasets.
+thoracic datasets. Three-D Three-D segmentation and
+segmentation and isolation isolation of
+of sub-compartments, sub-compartments,
+volumetric analysis, density
+volumetric analysis, density
+evaluations, low density
+evaluations, low density
+cluster analysis and
+cluster analysis and
+reporting tools are
+reporting tools are
+combined with a dedicated
+combined with a dedicated workflow. The VIDA
+workflow. The VIDA|vision Pulmonary Workstation 2
+software package is also (PW2) software package is
+also intended to be a
+intended to be a real-time
+real-time interactive
+interactive evaluation in
+evaluation in space and
+space and time for CT
+time for CT volume data
+volume data sets that sets that provides the
+provides the reconstruction reconstruction of two
+of two dimensional images dimensional images into a
+three-dimensional image
+into a three-dimensional
+format.
+image format.
+Image Source CT CT n/a
+Modalities
+DICOM Yes Yes n/a
+Conformance
+Comparative 2D, 3D 2D, 3D n/a
+Review
+3D Lung yes yes n/a
+mapping
+3D Volume Volume n/a
+measurements Effective Diameter Effective Diameter
+2D Line and ROI tools with Line and ROI tools with n/a
+www.vidalung.aiVIDA Diagnostics, Inc.
+Traditional 510(k) Premarket Submission
+VIDA|vision
+measurements statistics statistics
+Diameter 2D Diameter 2D
+Area Area
+Density Minimum, maximum and Minimum, maximum and n/a
+measurements average HU average HU
+Deployment Standalone computer/ Standalone computer Subject device
+distributed offers
+distributed
+configuration in
+addition to
+standalone,
+unlike the
+predicate device
+OS Windows Linux transitioned
+from Linux to
+Windows.
+User Interface yes - w/ limited yes limited
+modifications modifications to
+improve the
+user experience
+and
+accommodate
+new
+functionality
+and a newer
+operating
+system.
+Algorithm Each voxel of the scan is Each voxel of the scan is Unlike the
+measured by Hounsfield measured by Hounsfield predicate
+device, the
+units (HU), a measurement units (HU), a measurement
+subject device
+of x-ray attenuation that is of x-ray attenuation that is
+provides deep
+applied to each volume applied to each volume
+learning-derived
+element in three element in three segmentation.
+dimensional space (“voxel”). dimensional space (“voxel”).
+The HU are utilized to The HU are utilized to
+distinguish between air, distinguish between air,
+water, tissue and bone, such water, tissue and bone,
+www.vidalung.aiVIDA Diagnostics, Inc.
+Traditional 510(k) Premarket Submission
+VIDA|vision
+distinction is common in the such distinction is common
+industry. in the industry.
+A non-adaptive deep
+learning-based algorithm is
+applied to the CT imaging
+data to automatically
+segment lung regions.
+Workflow Automated contouring Automated contouring Subject device
+Automated measurements Automated measurements offers
+functionality to
+Manual Correction Manual Correction
+support distinct
+user workflows,
+Distinct user workflows:
+unlike predicate.
+Airway Mapping and Lung
+Volume Analysis
+Graphic User Yes Yes n/a
+Interface
+Interactive 3D Yes Yes n/a
+Visualization
+Input/Output Users can browse, select, Users can browse, select, Unlike the
+and load CT scan files. Users and load CT scan files. Users predicate
+device, the
+can save and load analyses, can save and load analyses,
+subject device
+export via reporting tools. export via reporting tools.
+supports DICOM
+CT scan files can be CT scan files can be
+query/retrieve
+organized by user-defined organized by user-defined data
+projects, and tracked by projects, and tracked by importation.
+usage. User can generate a usage. User can generate a
+report that displays report that displays
+quantitative data items that quantitative data items that
+can be saved. DICOM info can be saved. DICOM info
+displayed. Data import displayed.
+through DICOM query/
+retrieve available.
+Path Planning yes - airways and lung tissue yes - airways only Like the
+www.vidalung.aiVIDA Diagnostics, Inc.
+Traditional 510(k) Premarket Submission
+VIDA|vision
+predicate, the
+subject device
+provides path
+planning to
+airway
+segments.
+Unlike the
+predicate, the
+subject device
+includes path
+planning to a
+region of
+interest in the
+lung tissue.
+User editing yes yes n/a
+Reports yes - csv and pdf format yes - csv only Unlike the
+configurable for specific use predicate, the
+cases subject device
+offers
+pre-existing
+metrics and
+visualizations
+packaged for
+specific use
+cases
+Scan quality ● Scan protocol is ● Scan protocol is n/a
+assessment assessed for assessed for PW2
+compatibility with compatibility
+software ● incompatibility
+● incompatibility issues issues flagged during
+flagged during import and on
+import and on report report
+● Scanner calibration ● Scanner calibration
+assessment assessment
+● Warning issued for ● Warning issued for
+out-of-range out-of-range
+air/blood air/blood
+measurements measurements
+www.vidalung.aiVIDA Diagnostics, Inc.
+Traditional 510(k) Premarket Submission
+VIDA|vision
+Clinical Testing:
+No human clinical testing was required to support a substantial equivalence finding.
+Non-clinical testing:
+The device labeling contains instructions for use and any necessary precautions and warnings to
+support the safe and effective use of the device. Known hazards were identified and mitigated in
+accordance with the ISO 14971 standard. Verification and validation activities were performed in
+accordance with FDA QSR and the IEC 62304 standard. Testing consisted of unit, regression,
+performance, and integrated system testing. Lung and lobe segmentation performance was tested
+against the predicate performance to demonstrate substantial equivalence. Results of testing
+demonstrate that the device has met all product specifications and user needs when used within its
+intended use.
+Consensus Standards:
+● ISO 14971:2007 Medical devices -- Application of risk management to medical devices.
+● IEC 62304:2006Amd2015 Medical device software -- Software lifecycle processes.
+● NEMA PS 3.1--3.20 (2016) Digital Imaging and Communication in Medicine (DICOM) Set
+● ISO 15223-1:2016 Medical devices -- Symbols to be used with medical device labels,
+● labelling and information to be supplied -- Part 1: General requirements.
+Statement of Substantial Equivalence:
+The subject device, VIDA|vision, is substantially equivalent to the predicate device. Differences do
+not raise new issues about the safety and effectiveness of the software.
+www.vidalung.ai

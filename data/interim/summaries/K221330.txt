@@ -1,0 +1,440 @@
+Aidoc Medical, Ltd.
+℅ John J. Smith
+Partner
+Hogan Lovells US LLP
+555 Thirteenth Street, N.W.
+WASHINGTON DC 20004
+November 18, 2022
+Re: K221330
+Trade/Device Name: BriefCase
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: October 11, 2022
+Received: October 11, 2022
+Dear John Smith:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.govK221330 - John J. Smith Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below
+510(k) Number (if known)
+K221330
+Device Name
+BriefCase
+Indications for Use (Describe)
+BriefCase is a radiological computer-aided triage and notification software indicated for use in the analysis of frontal
+chest X-ray (CXR) images in adults or transitional adolescents aged 18 and older. The device is intended to assist
+hospital networks and appropriately trained medical specialists in workflow triage by flagging and communicating
+suspected positive cases of vertically malpositioned endotracheal tube (ETT) in relation to the carina.
+Findings are flagged when the ETT distal tip is assessed as being more than 5 cm above the carina, less than 2 cm
+above the carina, or when it is below the carina (i.e., in the right or left mainstem bronchus).
+The device assesses solely the vertical position of the ETT distal tip relative to the carina, does not factor patient
+positioning, and cannot detect esophageal intubation. The device does not provide results when the carina is not well-
+visualized on the x-ray image. The device does not discriminate types of ETTs, as such a properly positioned double
+lumen ETT may trigger a false prioritization alert.
+BriefCase uses an artificial intelligence algorithm to analyze images and highlight cases with detected findings on a
+standalone application in parallel to the ongoing standard of care image interpretation. The user is presented with
+notifications for cases with suspected findings. Notifications include compressed preview images that are meant for
+informational purposes only and not intended for diagnostic use beyond notification. The device does not alter the
+original medical image and is not intended to be used as a diagnostic device.
+The results of BriefCase are intended to be used in conjunction with other patient information and based on the user’s
+professional judgment, to assist with triage/prioritization of medical images. Notified clinicians are responsible for
+viewing full images per the standard of care.
+Type of Use (Select one or both, as applicable)
+☒ Prescription Use (Part 21 CFR 801 Subpart D) ☐ Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including
+the time to review instructions, search existing data sources, gather and maintain the data needed and
+complete and review the collection of information. Send comments regarding this burden estimate or any
+other aspect of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human
+Services Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(k) Summary
+Aidoc Medical, Ltd.’s BriefCase
+K221330
+Submitter: Aidoc Medical, Ltd.
+3 Aminadav St.
+Tel-Aviv, Israel
+Phone: +972-73-7946870
+Contact Person: Amalia Schreier, LLM
+Date Prepared: November 17, 2022
+Name of Device: BriefCase
+Classification Name: Radiological computer-assisted triage and notification software
+device
+Regulatory Class: Class II
+Product Code: QAS (21 C.F.R. 892.2080)
+Primary Predicate Device: BriefCase (for iPE triage, K203508)
+Device Description
+BriefCase is a radiological computer-assisted triage and notification software device. The software
+system is based on an algorithm programmed component and consists of a standard off-the-shelf
+operating system, the Microsoft Windows server 2012 64bit, and additional applications, which include
+PostgreSQL, DICOM module and the BriefCase Image Processing Application. The device consists
+of the following three modules: (1) Aidoc Hospital Server (AHS/Orchestrator) for image acquisition; (2)
+Aidoc Cloud Server (ACS) for image processing; and (3) Aidoc Desktop Application for workflow
+integration.
+DICOM images are received, saved, filtered and de-identified before processing. Filtration matches
+metadata fields with keywords. Series are processed chronologically by running the algorithms on
+each series to detect suspected cases. The software then flags suspect cases by sending notifications
+to the desktop application, thereby facilitating triage and prioritization by the user. As the BriefCase
+software platform harbors several triage algorithms, the user may opt to filter out notifications by
+pathology, e.g., a chest radiologist may choose to filter out alerts on VO cases, and a neuro-radiologist
+would opt to divert vertically malpositioned ETT in relation to the carina alerts. Where several medical
+centers are linked to a shared PACS, a user may read cases for a certain center but not for another,
+and thus may opt to filter out alerts by center. Activating the filter does not impact the order in which
+notifications are presented in the Aidoc desktop application.
+The desktop application feed displays all incoming suspect cases, each notified case in a line.
+Hovering over a line in the feed pops up a compressed, low-quality, grayscale, unannotated image
+that is captioned “not for diagnostic use” and is displayed as a preview function. This compressed
+preview is meant for informational purposes only, does not contain any marking of the findings, and is
+not intended for primary diagnosis beyond notification.Presenting the users with worklist prioritization facilitates earlier triage by prompting the user to assess
+the relevant original images in the PACS. Thus, the suspect case receives attention earlier than would
+have been the case in the standard of care practice alone.
+Intended Use / Indications for Use
+BriefCase is a radiological computer-aided triage and notification software indicated for use in the
+analysis of frontal chest X-ray (CXR) images in adults or transitional adolescents aged 18 and older.
+The device is intended to assist hospital networks and appropriately trained medical specialists in
+workflow triage by flagging and communicating suspected positive cases of vertically malpositioned
+endotracheal tube (ETT) in relation to the carina.
+Findings are flagged when the ETT distal tip is assessed as being more than 5 cm above the carina,
+less than 2 cm above the carina, or when it is below the carina (i.e in the right or left mainstem
+bronchus).
+The device assesses solely the vertical position of the ETT distal tip relative to the carina, does not
+factor patient positioning, and cannot detect esophageal intubation. The device does not provide
+results when the carina is not well-visualized on the x-ray image. The device does not discriminate
+types of ETTs, as such a properly positioned double lumen ETT may trigger a false prioritization alert.
+BriefCase uses an artificial intelligence algorithm to analyze images and highlight cases with detected
+findings on a standalone application in parallel to the ongoing standard of care image interpretation.
+The user is presented with notifications for cases with suspected findings. Notifications include
+compressed preview images that are meant for informational purposes only and not intended for
+diagnostic use beyond notification. The device does not alter the original medical image and is not
+intended to be used as a diagnostic device.
+The results of BriefCase are intended to be used in conjunction with other patient information and
+based on the user’s professional judgment, to assist with triage/prioritization of medical images.
+Notified clinicians are responsible for viewing full images per the standard of care.
+Comparison of Technological Characteristics
+The subject BriefCase for vertically malpositioned ETT in relation to the carina triage and primary
+predicate BriefCase for iPE triage (K203508) are identical in all aspects and defer only with respect to
+the training of the algorithm on vertically malpositioned ETT in relation to the carina vs iPE images.
+Both devices are radiological computer-aided triage and notification software programs. Both devices
+are artificial intelligence, deep-learning algorithms incorporating software packages for use with
+DICOM 3.0 compliant x-ray scanners, PACS, and radiology workstations. The predicate BriefCase for
+iPE evaluates images from CT scanners and the proposed Briefcase for vertically malpositioned ETT
+in relation to the carina evaluates images from X-ray scanners.
+The proposed device for vertically malpositioned ETT in relation to the carina triage has identical
+technology and design as the predicate device, and similar indications for use, i.e., both devices are
+intended to aid in prioritization and triage of time-critical radiological images. The subject and
+predicate BriefCase devices raise the same types of safety and effectiveness questions, namely,
+2accurate detection of findings within the processed study. It is important to note that, like the predicate,
+the subject device neither removes cases from the standard of care reading queue nor deprioritized
+cases. Both devices operate in parallel with the standard of care, which remains the default option for
+all cases. A table comparing the key features of the subject and the predicate devices is provided
+below.
+Table 1. Key Feature Comparison
+Predicate Device Subject Device
+Aidoc Briefcase for iPE Triage Aidoc Briefcase for Vertically
+(K203508) Malpositioned ETT in Relation to the
+Carina Triage (K221330)
+Intended Use / BriefCase is a radiological computer BriefCase is a radiological computer-
+Indications for aided triage and notification software aided triage and notification software
+Use indicated for use in the analysis of indicated for use in the analysis of
+contrast enhanced chest CTs (but not frontal chest X-ray (CXR) images in
+dedicated CTPA protocol). The device adults or transitional adolescents aged
+is intended to assist hospital networks 18 and older. The device is intended to
+and trained medical specialists in assist hospital networks and
+workflow triage by flagging and appropriately trained medical
+communication of suspect positive specialists in workflow triage by
+cases of incidental Pulmonary flagging and communicating suspected
+Embolism (iPE) pathologies. positive cases of vertically
+malpositioned endotracheal tube (ETT)
+BriefCase uses an artificial intelligence in relation to the carina.
+algorithm to analyze images and flag
+suspect cases on a standalone desktop Findings are flagged when the ETT
+application in parallel to the ongoing distal tip is assessed as being more
+standard of care image interpretation. than 5 cm above the carina, less than 2
+The user is presented with notifications cm above the carina, or when it is below
+for suspect cases. Notifications include the carina (i.e in the right or left
+compressed preview images that are mainstem bronchus).
+meant for informational purposes only
+The device assesses solely the vertical
+and not intended for diagnostic use
+position of the ETT distal tip relative to
+beyond notification. The device does
+the carina, does not factor patient
+not alter the original medical image and
+positioning, and cannot detect
+is not intended to be used as a
+esophageal intubation. The device
+diagnostic device.
+does not provide results when the
+carina is not well-visualized on the x-ray
+The results of BriefCase are intended to
+image. The device does not
+be used in conjunction with other
+discriminate types of ETTs, as such a
+patient information and based on their
+properly positioned double lumen ETT
+professional judgment, to assist with
+may trigger a false prioritization alert.
+triage/prioritization of medical images.
+Notified clinicians are responsible for BriefCase uses an artificial intelligence
+algorithm to analyze images and
+3Predicate Device Subject Device
+Aidoc Briefcase for iPE Triage Aidoc Briefcase for Vertically
+(K203508) Malpositioned ETT in Relation to the
+Carina Triage (K221330)
+viewing full images per the standard of highlight cases with detected findings
+care. on a standalone application in parallel
+to the ongoing standard of care image
+interpretation. The user is presented
+with notifications for cases with
+suspected findings. Notifications
+include compressed preview images
+that are meant for informational
+purposes only and not intended for
+diagnostic use beyond notification. The
+device does not alter the original
+medical image and is not intended to be
+used as a diagnostic device.
+The results of BriefCase are intended to
+be used in conjunction with other
+patient information and based on the
+user’s professional judgment, to assist
+with triage/prioritization of medical
+images. Notified clinicians are
+responsible for viewing full images per
+the standard of care.
+User population Hospital networks and appropriately Hospital networks and appropriately
+trained medical specialists trained medical specialists
+Anatomical Chest Chest
+region of
+interest
+Data Contrast-enhanced chest CTs (but not Frontal Chest X-ray (CXR)
+acquisition dedicated CTPA protocol)
+protocol
+Notification- Yes Yes
+only
+(/notification
+alerts), parallel
+workflow tool
+Images DICOM DICOM
+format
+4Predicate Device Subject Device
+Aidoc Briefcase for iPE Triage Aidoc Briefcase for Vertically
+(K203508) Malpositioned ETT in Relation to the
+Carina Triage (K221330)
+Interference No. No cases are removed from No. No cases are removed from
+with standard Worklist or deprioritized. desktop app or deprioritized
+workflow
+Inclusion/ Inclusion criteria Inclusion criteria
+Exclusion ● Contrast-enhanced chest CTs (but ● Frontal Chest X-ray protocol.
+criteria not dedicated CTPA protocol. ● Images performed on adults/
+● Single energy exams. transitional adults ≥ 18 years of age.
+● Scans performed with a 64 slice or
+greater number of detectors. Exclusion Criteria
+● Scans performed on adults/ ● All x-ray images that have
+transitional adults ≥ 18 years of age. inadequate field of view.The device
+● Slice thickness: 0.5mm – 2.0mm does not provide results when the
+axial. carina is not well-visualized on the
+x-ray image.
+Exclusion Criteria
+● All studies that are technically
+inadequate, including studies with
+motion artifacts, severe metal
+artifacts, or inadequate field of view.
+Algorithm Artificial intelligence algorithm with Artificial intelligence algorithm with
+database of images. database of images.
+Structure ● AHS module (image acquisition); ● AHS module (orchestrator, image
+● ACS module (image processing); acquisition);
+● Aidoc Worklist application for ● ACS module (image processing);
+workflow integration (worklist and ● Aidoc Desktop application for
+non-diagnostic Image Viewer). workflow integration (feed and non-
+diagnostic Image Viewer).
+Performance Data
+Pivotal Study Summary
+Aidoc conducted a retrospective, blinded, multicenter, study with the BriefCase software to evaluate
+the software’s performance in identifying chest X-ray (CXR) images of vertically malpositioned
+endotracheal tube (ETT) in relation to the carina in 921 cases from 5 US-based clinical sites. The
+software’s performance was compared to the ground truth as determined by 2 out of 3 majority voting
+senior board-certified radiologists. The cases collected for the pivotal dataset were all distinct in time
+or center from the cases used to train the algorithm.
+Primary endpoints were sensitivity and specificity with an 80% performance goal.
+5Secondary endpoints were BriefCase time-to-notification compared to the predicate device, Positive
+Predictive Value (PPV), Negative Predictive Value (NPV), Positive Likelihood Ratio (PLR), and
+Negative Likelihood Ratio (NLR) were also assessed.
+Primary Endpoint
+Sensitivity and specificity exceeded the 80% performance goal. Sensitivity was 86.81% (95% CI:
+81.02%-91.36%) and Specificity was 92.02% (95% CI: 89.20%-93.87%).
+Secondary Endpoint
+In addition, the time-to-notification metric observed for the BriefCase software in the five medical
+centers was compared to the equivalent metric of the predicate devices.
+- The BriefCase time-to-notification includes the time to get the DICOM exam, de-identify it,
+upload it to the cloud, analyze and send a notification on a positive suspect case back to the
+desktop application.
+The BriefCase time-to-notification was measured for all True Positive cases (i.e., identified as positive
+both by the reviewers as well as the BriefCase device) and is given in Table 2 below.
+The secondary measure of time-to-notification analysis demonstrated that standard of care time-to-
+exam-open (157.0 minutes: 95% CI: 155.0-159.0; Median: 50.0 IQR: 156.0) was substantially longer
+than the parallel time-to-notification of the BriefCase for Malpositioned Endotracheal Tube (ETT)
+device (4.93 minutes, 95% CI: 4.64-5.22; Median: 4.13 IQR: 0.76). The mean difference of 152.07
+minutes between these two measures quantifies effective triage by the device.
+Table 2. Time Saving Data (Sec)
+Time-to-notification Mean N 95% 95% Median IQR
+Estimate Lower CL Upper CL
+Standard of Care 157.0 197 155.0 159.0 50.0 156.0
+Time-To-Exam-Open
+BriefCase Time-to- 4.93 182 4.64 5.22 4.13 0.76
+notification
+NPV was 98.43% (95% CI: 97.74% - 98.92%), 96.54% (95% CI: 95.05% 97.59%) and 94.21% (95%
+CI: 91.81% 95.94%) at 10%, 20% and 30% positive prevalence.
+PPV was 54.71% (95% CI: 48.45% 60.83%), 73.11% (95% CI: 67.89%- 77.75%) and 82.33% (95%
+CI: 78.38%- 85.70%) at 10%, 20% and 30% positive prevalence.
+PLR was 10.874 (95% CI: 8.458-13.979) and NLR was 0.143 (95% CI: 0.099- 0.208).
+Thus, the reported similar time-to-notification data demonstrates that when using the subject BriefCase
+for vertically malpositioned ETT in relation to the carina triage the radiologists may have the same
+benefit in time saving as with the BriefCase for iPE triage.
+6As can be seen in Table 3 the mean age of patients whose images were reviewed for vertically
+malpositioned ETT in relation to the carina was 62.5 years, with standard deviation of 17.0 years.
+Gender distribution was 58.52% male, and 41.37% female (Table 4). X-ray scanner distribution can
+also be found in Table 5 below.
+Table 3. Descriptive Statistics for Age
+Mean Std Min Median Max N
+Age 62.5 17.0 18.0 64.0 90 921
+(Years)
+Table 4. Frequency Distribution of Gender *
+Gender All
+Ground
+Truth Male Female
+Results
+N % N % N %
+Positive 112 12.16 70 7.60 182 19.76
+Negative 427 46.36 311 33.77 738 80.13
+All 439 58.52 381 41.37 920* 100.0
+* The gender of 1 case remained unknown due to incomplete DICOM tag information
+Table 5. Frequency Distribution of Manufacturer
+Manufacturer N %
+Carestream 358 38.9
+Canon 223 24.2
+Siemens 186 20.2
+Philips 154 16.7
+Total 921 100%
+Tables 6-8 below detail the distribution of pathologies with and without ETT in negative cases,
+distribution of ETT in negative cases, distribution of other (no ETT) tubes, lines and life support devices
+in positive cases.
+7Table 6. Distribution of Pathologies with and without ETT in Negative Cases
+Pathology N % N %
+(w/o (w/o ETT) (w/ ETT) (w/ ETT)
+ETT)
+Fully Negative 84 11.4% 0 0.0%
+Other (non ETT ) tubes,lines 220 29.8% 164 22.2%
+and life support devices*
+Inflammatory 185 25.1% 57 7.7%
+Post op 133 18.0% 58 7.9%
+Cardiovascular 94 12.7% 45 6.1%
+Lung pathologies 46 6.2% 7 0.9%
+Pneumothorax 36 4.9% 5 0.7%
+Infectious 33 4.5% 6 0.8%
+Trauma 14 1.9% 2 0.3%
+Neoplastic 13 1.8% 3 0.4%
+Chronic diseases 2 0.3% 0 0.0%
+None of the above 28 3.8% 7 0.9%
+8Table 7. Distribution of ETT in Negative Cases
+Pathology N %
+With correctly positioned 199 26.9%
+ETT
+With no ETT 540 73.1%
+Table 8. Distribution of Other (no ETT) Tubes, Lines and Life Support Devices in Positive
+Cases
+Pathology N %
+Other tubes, lines and life 144 60.0%
+support devices
+No other tubes, lines and 96 40.0%
+life support devices
+Other (non-ETT) tubes, lines & life support devices' includes a variety of tubes, lines, catheters,
+monitoring devices and other life support devices. For example: enteric tube (nasogastric/orogastric),
+chest tube, mediastinal drains, internal jugular central venous catheter, PICC, ECMO cannula, EKG
+leads, Mediport, etc.
+Clinical Subgroups And Confounders:
+- Pathologies present in negative cases: Fully Negative; Other (non ETT) tubes, lines and life
+support devices; Inflammatory; Post op; Cardiovascular; Lung pathologies; Pneumothorax;
+Infectious; Trauma; Neoplastic; Chronic diseases; None of the above.
+- Tip position sub-types: Too high; Too low (Trachea); Too low (Bronchus); Too low - right
+mainstem bronchus; Too low - left mainstem bronchus. An additional enriched dataset was
+collected for Tip position sub-types analysis on 327 positive cases.
+Conclusions
+The subject BriefCase for vertically malpositioned ETT in relation to the carina triage and the predicate
+BriefCase for iPE triage are intended to aid in prioritization and triage of radiological images for the
+indications of malpositioned endotracheal tube and incidental pulmonary embolism, respectively. Both
+devices are software packages with the same technological characteristics and principles of operation,
+9incorporating deep learning AI algorithms that process images, and software to send notifications and
+display unannotated compressed low-quality preview images. In both devices, the labeling clearly
+states that the devices are not for diagnostic use and instructs the user to further evaluate and
+diagnose based only on the original images in the local PACS.
+Both devices operate in parallel to the standard of care workflow in the sense that they do not change
+the original image, do not provide any marking on the output preview, do not remove images from the
+standard of care FIFO queue and do not de-prioritize cases, thus not disturbing standard interpretation
+of the images. Both devices notify the radiologist of time-sensitive critical cases within the range of
+several minutes, and thus contribute similarly to the standard of care workflow turnaround time
+reduction through preemptive triage.
+The subject BriefCase device for vertically malpositioned ETT in relation to the carina triage is thus
+substantially equivalent to the primary predicate BriefCase for iPE triage.
+10

@@ -1,0 +1,272 @@
+Ultromics Limited
+℅ Jaco Jacobs
+Chief Regulatory and Compliance Officer
+4630 Kingsgate, Cascade Way
+December 20, 2021
+Oxford Business Park South
+Oxford, Oxfordshire OX4 2SU
+UNITED KINGDOM
+Re: K213275
+Trade/Device Name: EchoGo Core (2.0)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: September 27, 2021
+Received: September 30, 2021
+Dear Jaco Jacobs:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803)for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (seeK213275 - Jaco Jacobs Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK213275K213275
+510(K) SUMMARY
+ECHOGO CORE 2.0 510(k) SUMMARY K2132751 Submitter
+Company Ultromics Limited
+4630 Kingsgate Cascade Way, Oxford Business Park South, Oxford,
+Oxfordshire, United Kingdom, OX4 2SU
+Contact Dr. Jaco Jacobs
+Date Prepared 27 November 2021
+2 Subject Device
+Product Trade Name EchoGo Core
+Model Number 2.0
+Medical Speciality Radiology
+Regulation 892.2050 – Picture Archiving and Communications System
+Product Code QIH – Automated Radiological Image Processing Software
+Regulatory Class II
+EchoGo Core is the product trade name and 2.0 is the model number. For the avoidance of doubt, in this
+submission we combine the product trade name and model number and refer to the subject device as
+EchoGo Core 2.0.
+3 Predicate and Reference Devices
+Predicate Device EchoGo Core
+510(k) K191171
+Manufacturer Ultromics Limited
+Reference Device TomTec Arena TTA2
+510(k) K150122
+Manufacturer TomTec Imaging Systems GmbH
+4 Device Description
+EchoGo Core 2.0 is a software application manufactured by Ultromics to provide a report of left ventricular
+cardiac function, in the form of secondary capture DICOM files and/or as a structured DICOM report, to aid
+interpreting physicians with diagnostic decision-making process. EchoGo Core 2.0 applies to ultrasound
+images of the heart (echocardiograms).
+EchoGo Core 2.0 utilizes artificial intelligence (AI) for the operator-assisted automatic quantification of
+commonly measured echocardiographic metrics1. Independent training, test and validation datasets were
+used for training and performance assessment of the device.
+ECHOGO CORE 2.0 510(k) SUMMARY K213275EchoGo Core 2.0 requires an operator at key steps to confirm or relabel automatically labeled acquisition
+views (if required) and approve the left ventricle segmentations (contours) proposed by the AI.
+EchoGo Core 2.0 operates in a sequential workflow manner, that includes:
+1. Automatic view classification and labeling
+2. Operator confirmation or relabeling of view classifications
+3. Contouring of the left ventricle in apical chamber views
+4. Automated heart cycle identification and end-diastolic and end-systolic frame selection
+5. Operator confirmation or rejection of left ventricle contouring and frame selection
+6. Calculation of clinical report metrics
+To identify a heart cycle, the heart rate must be known. If an ECG was not taken during acquisition of the
+echocardiogram, the heart rate may be inferred. The operator is supported in selecting a contoured image
+clip for each view and approving the selected cycle (and the key end-diastolic (ED) and end-systolic (ES)
+frames). The operator will review the report produced and may be asked to approve cautions that are added
+to the report. EchoGo Core 2.0 supports the production of reports for any combination of the three
+processible views (A2C, A3C and A4C), either embedded as image files in one or more multi-frame true color
+secondary capture DICOM files, and/or as a DICOM structured report.
+5 Indications for Use
+EchoGo Core 2.0 is intended to be used for quantification and reporting of results of cardiovascular function
+to support physician diagnosis. EchoGo Core 2.0 is indicated for use in adult populations.
+Both the intended use and indications for use statement for the subject and predicate devices are identical.
+Both the subject and predicate devices are indicated for use in quantification and reporting of cardiovascular
+function to support the physician’s diagnosis in an adult population.
+6 Comparison of Technological Characteristics
+A comparison of technological differences between the subject and predicate devices follows.
+Characteristic Subject Device Predicate Device
+EchoGo Core 2.0 EchoGo Core 1.0
+Intended use Identical Quantification of cardiovascular
+function from an echocardiogram
+Indications for use Identical Quantification and reporting of
+results of cardiovascular function
+to support physician diagnosis.
+EchoGo Core is indicated for use
+in adult populations
+Anatomical site Identical Cardiovascular structures
+Users Identical Accredited echocardiographers
+and sonographers at Ultromics
+Machine learning-based Yes Yes
+algorithm
+Algorithms • Auto-Contouring
+• Auto-Contouring
+• DICOM Handling
+• DICOM Handling
+ECHOGO CORE 2.0 510(k) SUMMARY K213275Characteristic Subject Device Predicate Device
+EchoGo Core 2.0 EchoGo Core 1.0
+• Technical QC • Technical QC
+• Auto-View Classification • Manual Labelling UI
+• Manual Labelling UI • Contour Selection and
+• Contour Selection and Approval
+Approval • Metrics Calculation
+• Metrics Calculation • Auditing
+• Auditing • Reporting
+• Service Webhooks
+• Reporting
+Operates on DICOM clips Yes Yes
+Average GLS A2C/A4C views Yes Yes
+Average GLS A2C/A4C/A3C views Yes No
+Per view GLS, EF and LV volume Yes No
+Segmental LS Yes No
+Echocardiogram images on device Yes Yes
+report
+Horseshoe and bullseye Yes No
+representations
+Mechanical dispersion plot Yes No
+Strain temporal intensity Yes No
+plot/CAMM plot
+Contours overlayed on Yes No
+echocardiogram images
+Auto-view classification Yes No
+Automatic ED/ES frame detection Yes Yes
+EF Reported Yes Yes
+Automated EF calculation Yes Yes
+Simpson’s biplane LV volume Yes Yes
+calculation
+Non-Simpson’s bi-plane LV Yes No
+volume calculation methods
+LV ED/ES volume indexed values Yes No
+EF results shown with video clip Yes Yes
+User confirmation / rejection of Yes Yes
+result
+Manual editing of automated No No
+result by user
+LV stroke volume Yes No
+LV length Yes No
+Operating system Windows Windows
+Operating platform Single software application Single software application
+platform platform
+Software Complies with IEC 62304:2015 Complies with IEC 62304:2006
+and developed under an FDA QSR and developed under an FDA QSR
+ECHOGO CORE 2.0 510(k) SUMMARY K213275Characteristic Subject Device Predicate Device
+EchoGo Core 2.0 EchoGo Core 1.0
+compliant QMS incorporating risk compliant QMS incorporating risk
+management per ISO 14971:2019 management per ISO
+14971:2007
+Usability Complies with IEC 62366-1:2020 General use of FDA guidance on
+and general use of FDA guidance usability engineering
+on usability engineering
+Performance testing Equivalent to reference Equivalent to reference
+comparator TomTec Arena TTA2 comparator TomTec Arena TTA2
+(K150122) (K150122)
+Both the subject and predicate devices have similar technological characteristics and principles of operation.
+Any technological differences between the subject and predicate devices raise no new concerns with regards
+to safety and efficacy.
+7 Consensus Standards
+The following consensus standards were used in the design and manufacture of EchoGo Core 2.0.
+Standard Recognition
+Number
+ISO 14971:2019 – Medical Devices – Application of Risk Management to Medical Devices 5-125
+IEC 62304:2015 – Medical Device Software – Software Life Cycle Processes 13-79
+IEC 62366-1:2020 – Medical Devices – Application of Usability Engineering to Medical 5-129
+Devices
+NEMA PS 3.1 – PS 3.20 (2016) – Digital Imaging and Communications in Medicine (DICOM) 12-300
+Set
+IEC ISO 10918-1:1994 – Digital Compression and Coding of Continuous-tone Still Images 12-261
+Ultromics Limited cites conformity to the voluntary standards above. In addition, EchoGo Core 2.0 was
+designed and manufactured under a QMS that fully conforms to ISO 13485:2016.
+8 Performance Data
+8.1 Software Verification and Validation
+EchoGo Core software was developed and tested in accordance with Ultromics’ Design Control processes and
+has been subjected to extensive safety and performance testing. Non-clinical verification and validation test
+results established that the device meets its design requirements and intended use. Specifically, software
+verification was conducted at unit, module, and system integration levels. Risk management analysis
+generated multiple risk mitigation measures and verification activities. Formative and summative usability
+assessments were conducted during formal development. Cybersecurity and data security testing were
+conducted to verify that data and patient protected health information security measures are included in the
+design of the software.
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA’s Guidance for the Content of Premarket Submissions for Software Contained in Medical
+Devices. The software for this device is considered as a moderate level of concern, since a failure or latent
+design flaw could indirectly result in minor injury to the patient through incorrect or delayed information or
+through the action of a care provider.
+ECHOGO CORE 2.0 510(k) SUMMARY K213275EchoGo Core 2.0 passed all software verification and validation tests.
+8.2 Essential Performance
+Performance testing was conducted to demonstrate substantial equivalence to the predicate device, EchoGo
+Core 1.0, via a reference comparator device, TomTec Arena TTA2. Pre-determined acceptance criteria were
+formalised in terms of Root Mean Square (RMS) error against reference values generated using the
+comparator device, for each reported metric. The acceptance criteria were formalised such that EchoGo Core
+2.0 would produce measures of left ventricular (LV) length, volume at end diastole (ED) and end systole (ES),
+ejection fraction (EF), stroke volume, cardiac output, global longitudinal strain (GLS) and segmental
+longitudinal strain (SLS) with an RMS error below a set, pre-determined threshold.
+A formal retrospective, non-interventional validation study was conducted using 214 previously unseen
+studies. Left ventricle volume and metrics subsequently derived, such as ejection fraction, were calculated.
+For global longitudinal strain and segmental strain at peak and end-systole, LV contour Euclidean distances
+were calculated. The performance dataset used was representative of the intended patient population over
+a clinically representative range of measures. The population was gender-balanced over clinically typical age,
+weight, and height ranges. Performance testing included acquisitions from multiple ultrasound system
+manufacturers to validate essential performance across multiple scanner platforms and settings. Test datasets
+were strictly segregated from algorithm training datasets. Root mean square error was calculated as the
+primary endpoint. The primary endpoint was met. Performance against the comparator device is summarised
+as follows.
+Left Ventricular Metric % Root Mean Square Error
+Length 3.06 – 4.59
+Volume at End Diastole and End Systole 8.57 – 16.59
+Ejection Fraction 6.69 – 8.50
+Stroke Volume 10.57 – 13.68
+Global Longitudinal Strain 3.36 – 4.79
+Systolic Segmental Longitudinal Strain 5.51 – 9.98
+Three operators processed a total of 214 TTE studies, respectively. Inter-operator variability demonstrated
+acceptable performance with a Deming RMSE of 0 for all report metrics. Similarly, intra-operator variability
+demonstrated acceptable performance with a Deming RMSE of 0 for all report metrics. The repeatability
+results for EchoGo Core 2.0 demonstrated acceptable performance.
+All measurements produced by EchoGo Core 2.0 were deemed to be substantively equivalent to the predicate
+device and met acceptable levels of performance. We therefore consider EchoGo Core 2.0 to be substantively
+equivalent to the predicate device and is therefore deemed to be safe and effective.
+9 Conclusions
+The subject device, EchoGo Core 2.0 is as safe and as effective as the predicate device, EchoGo Core 1.0,
+previously cleared under K191171. The subject and predicate devices have identical intended uses and
+indications for use, and similar technological characteristics and principles of operation. Any minor differences
+raise no new concerns with regards to safety and effectiveness. Essential performance of both the subject
+and predicate devices were evaluated against a comparator reference device, TomTec Arena TTA2, previously
+ECHOGO CORE 2.0 510(k) SUMMARY K213275cleared under K150122. Performance data demonstrate that EchoGo Core 2.0 and EchoGo Core 1.0 have
+similar essential performance.
+It follows that EchoGo Core 2.0 is substantially equivalent to EchoGo Core 1.0.
+ECHOGO CORE 2.0 510(k) SUMMARY K213275

@@ -1,0 +1,293 @@
+Aidoc Medical, Ltd. May 15, 2024
+℅ John J. Smith
+Partner
+Hogan Lovells U.S. LLP
+555 Thirteenth Street NW
+Washington, District of Columbia 20004
+Re: K241112
+Trade/Device Name: BriefCase-Quantification
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: April 22, 2024
+Received: April 22, 2024
+Dear John J. Smith:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.10
+Silver Spring, MD 20993
+www.fda.govK241112 - John J. Smith Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(K) SUMMARY
+Aidoc Medical, Ltd.’s
+BriefCase-Quantification
+Submitter
+Aidoc Medical, Ltd.
+3 Aminadav St.
+Tel-Aviv, Israel
+6706703
+Phone: +972-73-7946870
+Contact Person: Amalia Schreier, VP of Regulatory Affairs
+Date Prepared: 2024-05-13
+Name of Device: BriefCase-Quantification
+Common or Usual Name: BriefCase-Quantification
+Classification Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH (21 C.F.R. 892.2050)
+Primary Predicate Devices BriefCase-Quantification (K230534)
+Device Description
+BriefCase-Quantification is a radiological medical image management and processing device. The
+software consists of a single module based on an algorithm programmed component and is intended
+to run on a linux-based server in a cloud environment.
+The BriefCase-Quantification receives filtered DICOM Images, and processes them chronologically
+by running the algorithm on relevant series to measure the maximum abdominal aortic diameter.
+Following the AI processing, the output of the algorithm analysis is transferred to an image review
+software (desktop application), and forwarded to user review in the PACS.
+BriefCase-Quantification produces a preview image annotated with the maximum diameter
+measurement. The diameter marking is not intended to be a final output, but serves the purpose of
+visualization and measurement. The original, unmarked series remains available in the PACS as well.
+The preview image presents an unofficial measurement which is not final, and the user is instructed
+to review the full image and any other clinical information before making a clinical decision. The image
+1includes a disclaimer: “Not for diagnostic use. The measurement is unofficial, not final, and must be
+reviewed by a radiologist.”
+BriefCase-Quantification is not intended to evaluate post-operative aortas.
+Intended Use / Indications for Use
+BriefCase-Quantification is a radiological image management and processing system software
+indicated for use in the analysis of CT exams with contrast, that include the abdominal aorta, in adults
+or transitional adolescents aged 18 and older.
+The device is intended to assist appropriately trained medical specialists by providing the user with
+the maximum abdominal aortic diameter measurement of cases that include the abdominal aorta (M-
+AbdAo). BriefCase-Quantification is indicated to evaluate normal and aneurysmal abdominal aortas
+and is not intended to evaluate post-operative aortas.
+The BriefCase-Quantification results are not intended to be used on a stand-alone basis for clinical
+decision-making or otherwise preclude clinical assessment of cases. These measurements are
+unofficial, are not final, and are subject to change after review by a radiologist. For final clinically
+approved measurements, please refer to the official radiology report. Clinicians are responsible for
+viewing full images per the standard of care.
+Summary of Technological Characteristics
+The subject BriefCase-Quantification device is substantially similar to the predicate device BriefCase-
+Quantification (K230534). Both devices are radiological computer-aided medical image management
+and processing software devices, intended to aid in measurement of radiological images.
+Both devices are artificial intelligence, deep-learning algorithms incorporating software packages for
+use with compliant scanners, PACS, and radiology workstations. Both are intended to assist
+appropriately trained medical specialists by providing the user with the maximum abdominal aortic
+diameter measurement. The subject device presents key slice with the long and short axis of the aorta
+in the reformatted slice with the maximum measurement, while the predicate device presents key slice
+in axial format.
+The main difference between the subject and predicate device is the performance, due to its training
+on a larger data set, in that the subject device demonstrates improved performance over the predicate
+device. With regards to the indications for use, for the predicate device the indications refer to axial
+measurement of cases that include the abdominal aorta. For the subject device, measurement is
+orthogonal to the blood flow, therefore the word axial was omitted from the indications for use
+statement.
+Both devices raise the same types of safety and effectiveness questions. A table comparing the key
+features of the subject and predicate devices is provided below:
+2Table 1: Comparison between Predicate and Subject Devices
+Predicate Device: Subject Device:
+BriefCase-Quantification
+BriefCase-Quantification
+(K230534)
+Indications for Use/ Intended Use BriefCase-Quantification is a BriefCase-Quantification is a
+radiological image radiological image
+management and management and
+processing system software processing system software
+indicated for use in the indicated for use in the
+analysis of CT exams with analysis of CT exams with
+contrast, that include the contrast, that include the
+abdominal aorta, in adults or abdominal aorta, in adults or
+transitional adolescents transitional adolescents
+aged 18 and older. aged 18 and older.
+The device is intended to The device is intended to
+assist appropriately trained assist appropriately trained
+medical specialists by medical specialists by
+providing the user with the providing the user with the
+maximum abdominal aortic maximum abdominal aortic
+axial diameter measurement diameter measurement of
+of cases that include the cases that include the
+abdominal aorta (M-AbdAo). abdominal aorta (M-AbdAo).
+BriefCase-Quantification is BriefCase-Quantification is
+indicated to evaluate normal indicated to evaluate normal
+and aneurysmal abdominal and aneurysmal abdominal
+aortas and is not intended to aortas and is not intended to
+evaluate post-operative evaluate post-operative
+aortas. aortas.
+The BriefCase- The BriefCase-
+Quantification results are not Quantification results are not
+intended to be used on a intended to be used on a
+stand-alone basis for clinical stand-alone basis for clinical
+decision-making or decision-making or
+otherwise preclude clinical otherwise preclude clinical
+assessment of cases. These assessment of cases. These
+measurements are measurements are
+unofficial, are not final, and unofficial, are not final, and
+are subject to change after are subject to change after
+review by a radiologist. For review by a radiologist. For
+final clinically approved final clinically approved
+measurements, please refer measurements, please refer
+to the official radiology to the official radiology
+report. Clinicians are report. Clinicians are
+responsible for viewing full responsible for viewing full
+images per the standard of images per the standard of
+care. care.
+User Population Appropriately trained Appropriately trained
+medical specialists. medical specialists.
+Anatomical region of interest Abdominal aorta Abdominal aorta
+3Predicate Device: Subject Device:
+BriefCase-Quantification
+BriefCase-Quantification
+(K230534)
+Data acquisition protocol CT exams with contrast that CT exams with contrast that
+include the abdominal aorta include the abdominal aorta
+Diameter Measurement Yes Yes
+Measurement Method Axial Orthogonal
+Images Format DICOM DICOM
+Interference with No No
+standard workflow
+Preview images Presentation of a Presentation of a
+compressed, grayscale compressed, grayscale
+preview image that is preview image that is
+captioned “Not for diagnostic captioned “Not for diagnostic
+use”. use”.
+Output Maximum abdominal aortic Maximum abdominal aortic
+diameter with preview image diameter with preview image
+that contains the that contains the
+measurement and key slice measurement and key slice
+with the long and short axis with the long and short axis
+of the aorta in the slice with of the aorta in the
+the maximum measurement. reformatted slice composed
+of the plane that is
+orthogonal to the blood flow
+and not on the original axial
+slice.
+Algorithm Artificial intelligence Artificial intelligence
+algorithm with database of algorithm with database of
+images images
+Structure - BriefCase-Quantification is - BriefCase-Quantification is
+hosted on a cloud server, hosted on a cloud server,
+analyzes applicable CT analyzes applicable CT
+images that are forwarded to images that are forwarded to
+BriefCase-Quantification. BriefCase-Quantification.
+- The results of the analysis - The results of the analysis
+are exported in DICOM are exported in DICOM
+format, and are sent to a format, and are sent to a
+PACS destination for review PACS destination for review
+by medical specialists, to by medical specialists, to
+assist in the measurement of assist in the measurement of
+the abdominal aorta. the abdominal aorta.
+4Performance Data
+Pivotal Study Summary
+Aidoc conducted a retrospective, blinded, multicenter study with the BriefCase-Quantification software
+to evaluate the software’s performance in providing maximum diameter measurements of the
+abdominal aorta in CT images in 162 cases, from 6 US-based clinical sites, both academic and
+community centers, compared to the ground truth, as determined by three US board-certified
+radiologists. The cases collected for the pivotal dataset were all distinct in time and/or center from the
+cases used to train the algorithm.
+Primary Endpoint
+The algorithm performance showed that the mean absolute error between the ground truth
+measurement and algorithm was 1.52 mm (95% CI: 1.20 mm, 1.83 mm). Because the mean absolute
+error estimate was below the prespecified performance goal, the study’s primary endpoint was
+achieved.
+The reported similar mean absolute error [the subject device: 1.52 mm (95% CI: 1.20 mm, 1.83 mm);
+the predicate device: 1.95 mm (95% CI: 1.59 mm, 2.32 mm)] demonstrates comparable performance.
+As can be seen in Table 2, the mean age of patients whose scans were reviewed for BriefCase-
+Quantification of the Abdominal Aortic Measurement was 62.8 years, with a standard deviation of 19.6
+years. Gender distribution was 46.9% male, and 53.1% female (Table 3). Scanner distribution can
+also be found in Table 4 below.
+Table 2. Descriptive Statistics for Age
+Mean Std Min Median Max N
+Age 62.8 19.6 18.0 67.5 90.0
+(Years) 162
+Table 3. Frequency Distribution of Gender
+Gender N* %
+Male 76 46.9%
+Female 86 53.1%
+* 2 cases had unknown gender defined in the DICOM metadata header and were excluded from the
+gender distribution
+5Table 4. Frequency Distribution of Manufacturer
+Manufacturer N %
+Philips 43 26.5%
+Canon 41 25.3%
+Siemens 39 24.1%
+GE 39 24.1%
+Total 162 100%
+Clinical Subgroups and Confounders: Preoperative abdominal aortic aneurysm, Vasculitis, penetrating
+atherosclerotic ulcer, and mural thrombus, Aortic calcification/atherosclerosis, Aortic dissection,
+Retroperitoneal lymphadenopathy / enlarged para-aortic nodes and None of the above.
+Performance testing results for the Bland-Altman analysis is reported below:
+The mean difference between the ground truth compared to the algorithm output is 0.58 mm, indicating
+that there is little to no bias between the two measurements, demonstrating the study’s secondary
+endpoint was achieved.
+In summary, performance validation data, combined with a comparison of mean absolute error metric
+with the reference device demonstrated equivalent performance.
+Conclusions
+The subject and predicate BriefCase-Quantification for Abdominal Aortic Measurement (M-AbdAo)
+devices are intended to aid in medical image management and processing of radiological images in
+CT.
+BriefCase-Quantification of M-AbdAo is as safe and effective as the predicate device cleared under
+K230534. BriefCase-Quantification has similar intended uses and similar indications, technological
+characteristics, and principles of operation as its predicate device. The minor differences in the
+indications for use and in the technological characteristics do not alter the intended use of the device
+and do not affect its safety and effectiveness when used as labeled. Performance data demonstrate
+that the subject device is as safe and effective as the predicate device. Thus, BriefCase-Quantification
+of M-AbdAo is substantially equivalent to the previously cleared BriefCase-Quantification of M-AbdAo
+device (K230534).
+6

@@ -1,0 +1,252 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+GILI PRO BIOSENSOR (ALSO KNOWN AS "GILI BIOSENSOR SYSTEM")
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Hardware and software for optical camera-based measurement of pulse rate, heart
+rate, breathing rate, and/or respiratory rate. The device uses an optical sensor system
+and software algorithms to obtain and analyze video signal and estimate pulse rate, heart
+rate, respiratory rate and/or breathing rates. This device is not intended to independently
+direct therapy.
+NEW REGULATION NUMBER: 21 CFR 870.2786
+CLASSIFICATION: Class II
+PRODUCT CODE: QOK
+BACKGROUND
+DEVICE NAME: Gili Pro BioSensor (also known as "Gili BioSensor System")
+SUBMISSION NUMBER: DEN200038
+DATE DE NOVO RECEIVED: June 12, 2020
+SPONSOR INFORMATION:
+ContinUse Biometrics Ltd.
+HaBarzel 32B
+Tel-Aviv, Israel, 6971048
+INDICATIONS FOR USE
+The Gili Pro BioSensor (Gili BioSensor System) includes an optical module that is
+intended to capture motion-vibration signals from an illuminated surface for assessment
+of physiological information. Such information, captured during spot-measurement,
+includes:
+ Heart rate
+ Respiratory rate
+The device is indicated for use by or under the supervision of healthcare professionals for
+adult patients in a hospital, outpatient, or other medical care settings, or for clinical
+research purposes.The device should be used while the subject is seated upright either in a chair or in a bed.
+The information stored on the system may be reviewed by qualified persons.
+LIMITATIONS
+When using the device, the subject should be wearing smooth clothing that is snug fitting
+or flattened against the chest during measurements.
+The device is not intended for continuous vital signs monitoring.
+The device is not intended to be used as an apnea monitor.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The Gili Pro BioSensor is an optical system consisting of a sensing unit and a mobile unit with a
+preinstalled software application. The optical sensing unit is an aluminum enclosure which
+houses a lithium ion battery, illuminating optics (laser projector and laser pointer), digital image
+sensor, range meter, and firmware to facilitate data processing. The illuminating optics are based
+on eye-safe lasers which are compliant with Class I laser product accessible emission limits. The
+sensing unit is connected via a USB cable to a mobile unit on which the mobile application is
+installed.
+The system illuminates the subject via a low-powered near infra-red (NIR at ~780 nm) light
+beam while an image sensor module captures the back reflected light pattern by the light sensor.
+The laser pointer illuminates in the visible spectrum (~650 nm) to facilitate proper positioning of
+the sensor relative to the subject. Changes in the reflected light pattern are coupled with motions
+of the illuminated surface, which are affected by heart and breathing motions. Analysis of these
+patterns through the software application correlate with heart and respiratory rates, as part of
+vital signs assessment. The heart and respiratory rate values are displayed on the user interface of
+the mobile unit.
+Figure 1. The Gili Pro Biosensor Sensing Unit
+De Novo Summary (DEN200038) Page 2 of 8Figure 2. Example of HR and RR Values Displayed on the Mobile Unit
+Device measurement ranges are 30-230 bpm for heart rate and 4-60 breaths per minute (BrPM)
+for respiratory rate, of which the ranges of 38-100 bpm (for HR) and 6-34 BrPM (for Resp) were
+validated via clinical testing.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+SHELF LIFE/STERILITY
+The Gili Pro BioSensor is a non-sterile and reusable device. It is designed for non-contact
+measurements. The shelf-life of the device is 3 years. This shelf-life was determined
+based on specific storage conditions of the battery.
+ELECTROMAGNETIC CAPABILITY & ELECTROMAGNETIC SAFETY
+The following Electrical/ Mechanical/Thermal Safety, electromagnetic compatibility
+(EMC) and laser safety testing has been performed:
+ IEC 60601-1:2005+ CORR. 1:2006 + CORR. 2:2007 + A1:2012, General
+requirements for basic safety and essential performance for medical electrical
+equipment
+ IEC 60601-1-2:2014, Medical electrical equipment Part 1-2 – General
+requirements for basic safety and essential performance – Electromagnetic
+compatibility.
+ IEC 60825-1, Safety of laser products
+SOFTWARE
+De Novo Summary (DEN200038) Page 3 of 8The Gili Pro BioSensor has a Moderate Level of Concern (LOC). Appropriate
+documentation was provided to support the validation of the software for a Moderate
+LOC in accordance with FDA’s 2005 guidance titled, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The sponsor
+provided details on how the software algorithm measures heart and respiratory rate. The
+workflow and software handling of hardware error or failures were demonstrated.
+Appropriate documentation was provided in accordance with FDA’s 2014 guidance
+document titled “Content of Premarket Submissions for Management of Cybersecurity in
+Medical Devices” to support adequate cybersecurity measures have been taken and will
+be monitored and updated throughout the device life cycle.
+PERFORMANCE TESTING - BENCH
+Non-clinical performance testing was conducted to verify device performance across the
+intended range of heart and respiratory rates for values beyond what was observed in the
+clinical study. A modified manikin was used to simulate chest motion-vibrations of heart
+sounds and gross chest movements. Verification of manikin outputs were performed
+using reference devices. This testing included situations with extreme heart and breathing
+frequencies and different environmental conditions (clothing color, clothing layers,
+lighting conditions, etc.) Combinations of various conditions were tested to simulate
+worse-case scenarios. Mixed model estimates show that the heart rate and respiratory rate
+measurements met acceptance criteria of ±3bpm for heart rate and ±2 breaths per minute
+(BrPM) for respiratory rate. Repeatability and reproducibility (R&R) testing was
+performed using the manikin test-rig to demonstrate that the device provides consistent
+measurements regardless of operator. Results of the R&R testing showed a mean
+difference between devices across all reference values of 0.01, indicating strong
+repeatability and reproducibility for both heart rate and respiratory rate measurements.
+HUMAN FACTORS/USABILITY
+A human factors study was conducted with 21 representative users to evaluate the
+usability of the Gili BioSensor system. These users were asked to use the device to obtain
+a vital sign measurement on a subject mimicking behaviors expected of patients. Overall,
+users demonstrated successful operation of the device, through set-up and measurement
+of both heart rate and respiratory rate. The testing provided adequate assurance that the
+critical tasks could be performed without difficulty or use errors.
+SUMMARY OF CLINICAL INFORMATION
+The sponsor provided a clinical study protocol and results to support the safety and effectiveness
+of the device. The clinical performance study design was two-phase trial with 10 subjects in the
+pilot phase and 120 in the main, pivotal study. Patient recruitment was stratified by non-
+arrhythmia/arrhythmia subjects and included a variety of chest shapes (i.e. barrel-chested/COPD
+subjects), BMIs (31% of subjects considered obese), ages (range of 29 – 93 years), and a
+distribution of light and dark skin colors as measured by the Fitzpatrick scale.
+De Novo Summary (DEN200038) Page 4 of 8The study included two co-primary analyses to assess the accuracy of heart rate for the
+population of non-arrhythmia subjects and respiratory rate for the general population of subjects,
+with and without arrhythmia. The secondary objective was to demonstrate equivalence of the
+Gili BioSensor System to the reference device on heart rate for the general population of
+subjects, with and without arrhythmia. Heart rate was compared to the gold standard reference
+ECG to determine heart rate and presence of arrhythmia. Respiratory rate was compared to
+clinician over-scored capnography.
+The primary analysis found that the Gili Pro BioSensor meets the pre-specified acceptance
+criteria for both heart rate and respiratory rate. A mixed model estimates for the method
+comparison between Gili and the reference was utilized. Additionally, 95% confidence intervals
+were calculated using the bootstrap re-sampling method. Heart rate for non-arrhythmia patients
+met the pre-specified acceptance criteria of ±3bpm. The intercept was 0.51 with 95% confidence
+interval of (0.18, 0.84). Respiratory rate in the general population was found to have an intercept
+of 0.17 with 95% confidence interval of (-0.08, 0.42), within the pre-specified performance
+criteria of ±2BrPM.
+Secondary confirmatory analysis found that the device meets the pre-specified criteria for
+comparison to ECG heart rate in the broader population, including individuals with arrhythmias.
+The secondary endpoint analysis determined an intercept of 1.1 with a 95% confidence interval
+of (-0.02, 2.3). This result was within the range of the pre-specified acceptance criteria of ±5
+bpm. Supportive analysis comparing the heart rate of the Gili Pro BioSensor to an additional
+PPG reference device demonstrated the device’s equivalence. Lastly, poolability and covariate
+analyses found no notable covariate effects.
+With respect to safety outcomes, no adverse events were reported during the trial period, which
+was expected given the contactless nature of the device.
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+LABELING
+The labeling includes a description of what the device measures and outputs to the user. A
+summary of the validation and verification data performed provides expected performance for
+intended use populations and environments. When using the device, the subject should be
+wearing smooth clothing that is snug fitting or flattened against the chest during measurement.
+Other patient conditions that may affect performance of the device are listed in the labeling. The
+labeling provides instructions on the system set-up, taking measurements, device maintenance,
+and troubleshooting.
+The device is not a continuous monitor and is only intended for spot-check measurements of
+heart and respiratory rate. The reported accuracy of the system is described for both
+De Novo Summary (DEN200038) Page 5 of 8measurements in accordance with what was measured in the clinical study. The device should
+not be used with any subject that require critical care or continuous vital sign monitoring. The
+system is not intended to detect the presence/absence of arrhythmias. The Gili BioSensor system
+is intended for use by appropriately trained healthcare professionals and should not be used by
+untrained lay users. The device is not intended to be the sole method of checking the physical
+health of a subject.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of hardware and
+software for optical camera-based measurement of pulse rate, heart rate, breathing rate, and/or
+respiratory rate and the measures necessary to mitigate these risks.
+Identified Risks to Health Mitigation Measures
+Delayed or incorrect treatment due to Software verification, validation, and hazard analysis
+erroneous output as a result of device Cybersecurity assessment
+malfunction or algorithm error Clinical data
+Labeling
+Delayed or incorrect treatment due to Human factors assessment
+user misinterpretation Labeling
+Eye damage, burns, and related safety Non-clinical performance testing
+concerns due to illuminating optics Labeling
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the hardware and software for optical
+camera-based measurement of pulse rate, heart rate, breathing rate and/or respiratory rate is
+subject to the following special controls:
+(1) A software description and the results of verification and validation testing based on a
+comprehensive hazard analysis and risk assessment must include:
+(i) A full characterization of the software technical parameters, including
+algorithms;
+(ii) A description of all mitigations for user error or failure of any subsystem
+components (including signal detection, signal analysis, data display, and
+storage) on output accuracy; and
+(iii) Software documentation must include a cybersecurity vulnerability and
+management process to assure software functionality.
+(2) Performance testing must demonstrate the safety of any illuminating optics.
+(3) Clinical data must be provided. This assessment must fulfill the following:
+(i) The clinical data must be representative of the intended use population for the
+device. Any selection criteria or sample limitations must be fully described and
+justified.
+De Novo Summary (DEN200038) Page 6 of 8(ii) The assessment must demonstrate output consistency using the expected range
+of data sources and data quality encountered in the intended use population and
+environment.
+(iii) The assessment must compare device output with a clinically accurate patient-
+contacting relevant comparator device in an accurate and reproducible manner.
+(4) A human factors and usability engineering assessment must be provided that evaluates
+the risk of improper measurement.
+(5) Labeling must include:
+(i) A description of what the device measures and outputs to the user;
+(ii) Warnings identifying sensor acquisition factors or subject conditions or
+characteristics (garment types/textures, motion, etc.) that may impact
+measurement results;
+(iii) Guidance for interpretation of the measurements, including a statement that the
+output is adjunctive to other physical vital sign parameters and patient
+information;
+(iv) The expected performance of the device for all intended use populations and
+environments; and
+(v) Robust instructions to ensure correct system setup.
+BENEFIT-RISK DETERMINATION
+The risks of the device are based on data collected in a clinical study described above.
+The consequences of an incorrect reading would be a delay in the provision of care or
+unnecessary testing. The patient could suffer harm from the delay in providing care.
+However, the device has been validated to have clinically acceptable accuracy and the
+probability of a patient harm related to false results is minimum.
+The probable benefits of the device are also based on data collected in a clinical study as
+described above.
+The device can provide benefit as heart rate and respiratory rate values are obtained
+without personal contact with a healthcare worker. Remote monitoring provided by the
+device can minimize personnel exposure to the patient, reducing the risk of transmission
+of bacteria and other infectious agents. In addition, contactless data collection provides
+the opportunity for patient monitoring without contributing to patient discomfort from
+electrode pads typically attached to the patient.
+The Gili Pro BioSensor provides comparable accuracy to other monitoring methods.
+Results were also assessed when specifically including patients experiencing arrhythmias
+and performance remained consistent. For basic vital sign monitoring in these settings,
+there is a high likelihood that the Gili Pro BioSensor device can offer significant
+advantages over existing alternatives.
+De Novo Summary (DEN200038) Page 7 of 8Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+The Gili Pro BioSensor (Gili BioSensor System) includes an optical module that is
+intended to capture motion-vibration signals from an illuminated surface for assessment
+of physiological information. Such information, captured during spot-measurement,
+includes:
+ Heart rate
+ Respiratory rate
+The device is indicated for use by or under the supervision of healthcare professionals for
+adult patients in a hospital, outpatient, or other medical care settings, or for clinical
+research purposes.
+The device should be used while the subject is seated upright either in a chair or in a bed.
+The information stored on the system may be reviewed by qualified persons.
+The probable benefits outweigh the probable risks for the Gili Pro BioSensor (also known as
+"Gili BioSensor System"). The device provides benefits and the risks can be mitigated by the use
+of general controls and the identified special controls.
+CONCLUSION
+The De Novo request for the Gili Pro BioSensor (also known as "Gili BioSensor System") is
+granted and the device is classified as follows:
+Product Code: QOK
+Device Type: Hardware and software for optical camera-based measurement of heart
+rate and respiratory rate
+Regulation Number: 21 CFR 870.2790
+Class: II
+De Novo Summary (DEN200038) Page 8 of 8

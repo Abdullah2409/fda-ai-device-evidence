@@ -1,0 +1,348 @@
+EXINI Diagnostics AB
+℅ Donna-Bea Tillman, Ph.D.
+Senior Consultant
+Biologics Consulting Group, Inc.
+1555 King Street, Suite 300
+ALEXANDRIA VA 22314
+Re: K220590
+Trade/Device Name: aPROMISE X
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: February 28, 2022
+Received: March 1, 2022
+Dear Donna-Bea Tillman:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.32
+Silver Spring, MD 20993
+www.fda.govK220590 - Donna-Bea Tillman, Ph.D. Page 2
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Julie Sullivan, Ph.D.
+Assistant Director
+Nuclear Medicine and Radiation Therapy Branch
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary Page 1 of 8
+In accordance with 21 CFR 807.87(h) and 21 CFR 807.92 the 510(k) Summary for aPROMISE
+X is provided below.
+1. SUBMITTER K220590
+Applicant: EXINI Diagnostics AB
+Ideon Science Park
+Scheelevägen 27
+223 70 Lund
+Sweden
+Contact: Aseem Anand, Ph.D.
+Vice President
+EXINI Diagnostics AB
+Ideon Science Park, Scheelevägen 27, SE-223 70
+Lund, Sweden
+Tel: +46706604084
+aseem.anand@exini.com
+Submission Correspondent: Donna-Bea Tillman, Ph.D.
+Senior Consultant
+Biologics Consulting
+1555 King Street, Suite 300
+Alexandria, Virginia 22314
+(410) 531-6542
+dtillman@biologicsconsulting.com
+Date Prepared: February 28, 2022
+2. DEVICE
+Device Trade Name: aPROMISE X
+Device Common Name: Picture Archiving and Communication System
+Classification Name 21 CFR 892.2050 Medical Image Management and
+Processing System
+Regulatory Class: II
+Product Code: LLZ
+3. PREDICATE DEVICE
+Predicate Device: Exini aPROMISE (K211655)510(k) Summary Page2of 8
+4.(cid:3) DEVICE DESCRIPTION
+aPROMISE(automated PROstate specific Membrane Antigen ImagingSEgmentation) X is an
+updated version of previously cleared device, aPROMISE v 1.2.1 (K211655),with a web
+interface whereusers can upload body scans of PSMA PET/CT image data in the form of
+DICOM files, review patient studies and share study assessments within a team. The software
+platform has two installation configurations: either deployed to a cloud infrastructure or to a
+local server at a clinical facility. The software platform cancommunicate via http-protocol as
+described in part 18 of theDICOM standard. This compatibility enables direct transmission of
+DICOM data from a PACS to aPROMISE X. Manual upload via aPROMISE X user interface is
+also supported. The software complies with the Digital Imaging and Communications in
+Medicine (DICOM) 3 standard.
+Multiple scans can be uploaded for each patient and the system provides a separate review for
+each study. The review page display studies in a 4-panel view showing PET, CT, PET/CT fusion
+and maximum intensity projection (MIP) simultaneously and includes the option to display each
+viewseparately. The device is used to review entire patient studies, using image visualization
+and analysis tools for users to identify and mark regions of interest (ROIs). While reviewing
+image data, users can mark ROIs by selecting from pre-defined hotspots that are highlighted
+when hovering with the mouse pointer over the segmented region, or by manual drawing, i.e
+selecting individual voxels in the image slices to include as hotspots. Selected or drawn hotspots
+are subject to automatic quantitative analysis. The user can review the results of this quantitative
+analysis and determine which hotspots should be reported as suspicious lesions.
+To create a report the signing user is required to confirm quality control, and electronically sign
+the report preview. Signed reports are saved in the deviceand can be exported as a JPG or
+DICOM file.
+5.(cid:3) INTENDED USE/INDICATIONS FOR USE
+aPROMISE (cid:59)(cid:3)is intended to be used by healthcare professionals and researchers for acceptance,
+transfer, storage, image display, manipulation, quantification and reporting of digital medical
+images. The system is intended to be used with images acquired using nuclear medicine (NM)
+imaging, using PSMAPET/CT. The deviceprovides general Picture Archiving and
+Communications System (PACS) tools as well as a clinical application for oncology including
+marking of regions of interest and quantitative analysis.
+6.(cid:3) SUBSTANTIAL EQUIVALENCE
+Comparison of Indications
+aPROMISE X and the predicate aPROMISE have identical Indication for Usestatements.
+Technological Comparisons
+Thetablebelow compares the key technological feature of the subject device aPROMISE X to
+the predicate devices,Exini aPromise (K211655).510(k) Summary Page 3 of 8
+Table 1: Technological Comparison
+Specification/ aPROMISE X aPROMISE 1.2.1 Comparison to predicate
+Characteristic (proposed device) (predicate device)
+General
+Intended user Health care professionals Health care professionals No difference
+and researchers and researchers
+Intended use Healthcare clinics Healthcare clinics No difference
+environment
+Classification 21 CFR 892.2050 21 CFR 892.2050 No difference
+System, Image System, Image
+Processing, Radiological Processing, Radiological
+(LLZ) Class II (LLZ) Class II
+Installation Web-based service Web-based service Equivalent
+accessed through cloud accessed through cloud
+infrastructure or local infrastructure with The difference involves an
+server network with personal log-in. additional option for product
+personal log-in. deployment. The difference
+does not affect the clinical use
+of the device and does not raise
+different questions of safety or
+effectiveness.
+Operating system Windows or macOS with Windows or macOS with No difference
+Chrome browser Chrome browser
+DICOM DICOM 3: DICOM 3: No difference
+compatibility and Whole body Whole body
+Imaging (cid:120) PET (cid:120) PET
+Modalities (cid:120) CT (cid:120) CT
+Image upload Via file selector or drag Via file selector or drag Equivalent
+and drop from a local and drop from a local
+computer or network. computer or network. The difference involves an
+Upload can handle zip Upload can handle zip additional option for image
+files. Semiautomatic files. upload. The difference does not
+transfer via http- affect the clinical use of the
+protocol enabling direct device and does not raise
+transmission of DICOM different questions of safety or
+data if integrated with a effectiveness.
+PACS.
+Support for Yes, multiple scans can Yes, multiple scans can No difference
+multiple scans be analyzed one at a time. be analyzed one at a time.510(k) Summary Page 4 of 8
+Specification/ aPROMISE X aPROMISE 1.2.1 Comparison to predicate
+Characteristic (proposed device) (predicate device)
+Colormaps A selection of commonly A selection of commonly No difference
+used colormaps used colormaps
+supported: supported:
+For PET image: For PET image:
+(cid:120) Cool (cid:120) Cool
+(cid:120) Inverted (cid:120) Inverted
+grayscale grayscale
+(cid:120) Grayscale with (cid:120) Grayscale with
+overflow overflow
+(cid:120) Hot Iron (cid:120) Hot Iron
+(cid:120) Spectrum (cid:120) Spectrum
+(cid:120) Warm (cid:120) Warm
+For CT image: For CT image:
+(cid:120) Grayscale (cid:120) Grayscale
+Zoom Automatically adjusted Automatically adjusted No difference
+image size. image size.
+Manually adjustable Manually adjustable
+zoom in planar views zoom in planar views
+Windowing Manual adjustment of Manual adjustment of No difference
+windowing. Slider or windowing. Slider or
+selection form a drop- selection form a drop-
+down menu for PET. down menu for PET.
+Click’n’drag or selection Click’n’drag or selection
+from a drop-down menu from a drop-down menu
+for CT for CT
+Image layouts 4 panel view showing 4 panel view showing No difference
+PET, CT, PET/CT fusion PET, CT, PET/CT fusion
+and MIP simultaneously and MIP simultaneously
+and option to display each and option to display each
+view separately. view separately.
+Coronal, axial and sagittal Coronal, axial and sagittal
+views can be displayed views can be displayed
+Intensity display Local intensity displayed Local intensity displayed No difference
+in left corner of the image in left corner of the image
+when hovering over when hovering over
+image image
+Hotspot display Segmented hotspots can Segmented hotspots can No difference
+be displayed in planar be displayed in planar
+views if the user turns on views if the user turns on
+the hotspot segmentation the hotspot segmentation
+display option from the display option from the
+control panel resulting in control panel resulting in510(k) Summary Page 5 of 8
+Specification/ aPROMISE X aPROMISE 1.2.1 Comparison to predicate
+Characteristic (proposed device) (predicate device)
+visually presenting pre- visually presenting pre-
+defined hotspots in the defined hotspots in the
+viewer. viewer.
+Organ AI enabled automated AI enabled automated Equivalent
+Segmentation segmentation of skeleton segmentation of skeleton
+and soft tissue organs. and soft tissue organs. The option to segment the
+prostate is removed since it is
+no longer needed as a result of
+the new hotspot detection
+model. The difference does not
+affect the clinical use of the
+device and does not raise
+different question of safety or
+effectiveness.
+Pre-definition of Algorithm, using a Algorithm, using an Equivalent
+Hotspot machine-learning model analytical model to
+to detect high local detect high local intensity Same feature but adjusted
+intensity regions of regions of interest in the method for the detection of high
+interest in the PET series. PET series. local intensity regions to
+segment as hotspots. The
+difference does not affect the
+clinical use of the device and do
+not raise different questions of
+safety or effectiveness.
+Hotspot pre- No hotspot pre-selection No hotspot pre-selection No difference
+selection occurs. It is always the occurs. It is always the
+user who needs to select user who needs to select
+hotspots to include for hotspots to include for
+quantification and quantification and
+reporting. All detected reporting. All detected
+high local intensity ROIs high local intensity ROIs
+can be shown for review can be shown for review
+by the user. by the user.
+Hotspot The user can select pre- The user can select pre- No difference
+verification defined segmentation of defined segmentation of
+hotspots or segment each hotspots or segment each
+hotspot manually that are hotspot manually that are
+considered to be lesions considered to be lesions
+by the user. by the user.
+Hotspot Standard Uptake Values Standard Uptake Values No difference
+Quantification (SUV): (SUV):
+-SUV-max -SUV-max510(k) Summary Page 6 of 8
+Specification/ aPROMISE X aPROMISE 1.2.1 Comparison to predicate
+Characteristic (proposed device) (predicate device)
+-SUV-mean -SUV-mean
+-SUV-peak -SUV-peak
+-Volume -Volume
+-Lesion Index (LI) -Lesion Index (LI)
+-Intensity-weighted -Intensity-weighted
+Tissue Lesion Volume Tissue Lesion Volume
+(ITLV) (ITLV)
+Quality Control SW enforced requirement SW enforced requirement No difference
+to verify the user review to verify the user review
+of of
+- Image quality - Image quality
+- PET/CT image - PET/CT image
+alignment alignment
+- Patient study data - Patient study data
+- Reference values - Reference values
+- Study is not a superscan - Study is not a superscan
+User User completion of the User completion of the No difference
+confirmation for Quality Control and Quality Control and
+report generation report preview report preview
+confirmation by confirmation by
+electronic signature using electronic signature using
+user-ID and password is user-ID and password is
+required for report required for report
+creation creation
+Report (Summary The user can export the The user can export the No difference
+page export) report with quantification report with quantification
+results of a study to the results of a study to the
+hard drive (jpg or hard drive (jpg or
+DICOM Secondary DICOM Secondary
+Capture) or PACS Capture.
+(DICOM Secondary
+Capture).
+CSV export Supports export of study Supports export of study No difference
+and quantification values and quantification values
+as a CSV file for all as a CSV file for all
+created reports created reports510(k) Summary Page 7 of 8
+7. PERFORMANCE DATA
+Sterilization and Shelf Life
+aPROMISE X consists entirely of software; accordingly, there are no sterilization concerns. As a
+software only device, shelf-life (including performance date) is also not applicable because of
+low likelihood of time-dependent product degradation.
+Biocompatibility Testing
+There are no direct or indirect patient-contacting components of the subject device. Therefore,
+patient contact information is not needed for this device.
+Electrical safety and electromagnetic compatibility (EMC)
+Not applicable. The subject device is a software-only device. It contains no electric
+components, generates no electrical emissions, and uses no electrical energy of any type.
+Software Verification and Validation Testing
+Software verification and validation testing were conducted and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this
+device was considered as a moderate level of concern.
+Bench Testing
+Exini performed the following studies verify and validate the performance of aPROMISE.
+(cid:120) Digital Phantom Validation Study. This study assessed the accuracy, linearity, and limit
+of detection of aPROMISE X against the known values of a digital reference object
+(NEMA phantom). All SUV and volume quantification tests of aPROMISE X met their
+predetermined acceptance criteria.
+(cid:120) Comparison to Predicate. This study demonstrated the equivalent performance of
+aPROMISE X as compared to the previous version, predicate aPROMISE v1.2.1
+(K211655) for standard functions in marking and quantitative assessments of user
+defined region of interest in PSMA PET/CT.
+(cid:120) Analytical Performance in Clinical Study. This study compared the performance of
+aPROMISE X to that of clinicians and demonstrated that aPROMISE X enables the
+automated quantification of tracer uptake are more reproducible, and efficient than those
+obtained manually. The study demonstrated that aPROMISE X enables the reader to
+achieve a higher efficiency and quantitative consistency, while maintaining the diagnostic
+performance of the physicians.
+These results demonstrate that aPROMISE X performs in accordance with specifications and
+meets user needs and intended uses.510(k) Summary Page 8 of 8
+Animal Testing
+Not applicable. Animal studies are not necessary to establish the substantial equivalence of this
+device.
+Clinical Data
+Not applicable. Clinical studies are not necessary to establish the substantial equivalence of this
+device.
+8. CONCLUSION
+Based on the detailed comparison, the differences between the subject and predicate devices do
+not raise new questions of safety and effectiveness. Software verification and performance
+testing demonstrate that the device performs according to the device requirements. Therefore, the
+aPROMISE X device can be found substantially equivalent to the predicate device.

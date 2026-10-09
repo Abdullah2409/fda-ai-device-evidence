@@ -1,0 +1,621 @@
+March 27, 2025
+Siemens Healthcare GmbH
+Kira Morales
+Regulatory Affairs Manager
+Henkestrasse 127
+Erlangen, 91052
+Germany
+Re: K242745
+Trade/Device Name: AI-Rad Companion Organs RT
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QKB
+Dated: September 9, 2024
+Received: September 11, 2024
+Dear Kira Morales:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.05
+Silver Spring, MD 20993
+www.fda.govK242745 - Kira Morales Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. SeeK242745 - Kira Morales Page 3
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological
+Imaging and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALT H AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+�����
+Submission Number (if known)
+I K242745
+Device Name
+Al-Rad Companion Organs RT
+I
+Indications for Use (Describe)
+Al-Rad Companion Organs RT is a post-processing software intended to automatically contour
+DICOM CT and MR pre-defined structures using deep-learning-based algorithms.
+Contours that are generated by Al-Rad Companion Organs RT may be used as input for clinical
+workflows including external beam radiation therapy treatment planning. Al-Rad Companion Organs
+RT must be used in conjunction with appropriate software such as Treatment Planning
+Systems and Interactive Contouring applications, to review, edit, and accept contours generated
+by Al-Rad Companion Organs RT.
+The outputs of Al-Rad Companion Organs RT are intended to be used by trained medical
+professionals.
+The software is not intended to automatically detect or contour lesions.
+Type of Use (Select one or both, as applicable)
+D
+cg] Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+'i!\n agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."510(k) SUMMARY
+FOR
+AI-Rad Companion Organs RT
+K242745
+Submitted by:
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19355
+Date Prepared: September 9, 2024
+This summary of 510(k) safety and effectiveness information is being submitted in accordance
+with the requirements of Safe Medical Devices Act of 1990 and 21 CFR §807.92.
+1. Submitter
+Importer/Distributor Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19355
+Registration Number: 2240869
+Manufacturing Site Siemens Healthcare GmbH
+Henkestrasse 127
+Erlangen, Germany 91052
+Registration Number: 3002808157
+2. Contact Person
+Kira Morales
+Senior Regulatory Affairs Specialist
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19335
+Phone: +1 (484) 901 - 9471
+Email: kira.morales@siemens-healthineers.com
+3. Device Name and Classification
+Product Name: AI-Rad Companion Organs RT
+Common Name: Medical Imaging Software
+Classification Name: Medical Image Management and Processing System
+AI-Rad Companion Organs RT 1Classification Panel: Radiology
+CFR Section: 21 CFR §892.2050
+Device Class: Class II
+Product Code: QKB
+4. Predicate Device
+Product Name: AI-Rad Companion Organs RT
+Common Name: Medical Imaging Software
+510(k) Number: K232899
+Clearance Date: April 3, 2024
+Classification Name: Medical Image Management and Processing System
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.2050
+Device Class: Class II
+Primary Product Code: QKB
+Recall Information: N/A
+5. Reference Devices
+Product Name: Contour Protégé AI
+Common Name: Medical Imaging Software
+510(k) Number: K231765
+Clearance Date: November 8, 2023
+Classification Name: Medical image management and processing system
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.2050
+Device Class: Class II
+Primary Product Code: QKB
+Product Name: Contour Protégé AI
+Common Name: Medical Imaging Software
+510(k) Number: K223774
+Clearance Date: April 6, 2023
+Classification Name: Medical image management and processing system
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.2050
+Device Class: Class II
+Primary Product Code: QKB
+Product Name: AI Segmentation
+Common Name: Medical Image Segmentation Software
+510(k) Number: K211881
+Clearance Date: September 2, 2021
+AI-Rad Companion Organs RT 2Classification Name: Medical charged-particle radiation therapy system
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.2050
+Device Class: Class II
+Primary Product Code: MUJ
+6. Indications for Use
+AI-Rad Companion Organs RT is a post-processing software intended to automatically contour
+DICOM CT and MR pre-defined structures using deep-learning-based algorithms.
+Contours that are generated by AI-Rad Companion Organs RT may be used as input for clinical
+workflows including external beam radiation therapy treatment planning. AI-Rad Companion
+Organs RT must be used in conjunction with appropriate software such as Treatment Planning
+Systems and Interactive Contouring applications, to review, edit, and accept contours generated
+by AI-Rad Companion Organs RT.
+The outputs of AI-Rad Companion Organs RT are intended to be used by trained medical
+professionals.
+The software is not intended to automatically detect or contour lesions.
+7. Device Description
+AI-Rad Companion Organs RT provides automatic segmentation of pre-defined structures such
+as Organs-at-risk (OAR) from CT or MR medical series, prior to dosimetry planning in radiation
+therapy. AI-Rad Companion Organs RT is not intended to be used as a standalone diagnostic
+device and is not a clinical decision-making software.
+CT or MR series of images serve as input for AI-Rad Companion Organs RT and are acquired as
+part of a typical scanner acquisition. Once processed by the AI algorithms, generated contours in
+DICOMRTSTRUCT format are reviewed in a confirmation window, allowing clinical user to
+confirm or reject the contours before sending to the target system. Optionally, the user may
+select to directly transfer the contours to a configurable DICOM node (e.g., the Treatment
+Planning System (TPS), which is the standard location for the planning of radiation therapy).
+AI-Rad Companion Organs RT must be used in conjunction with appropriate software such as
+Treatment Planning Systems and Interactive Contouring applications, to review, edit, and accept
+the automatically generated contours. Then the output of AI-Rad Companion Organs RT must be
+reviewed and, where necessary, edited with appropriate software before accepting generated
+contours as input to treatment planning steps. The output of AI-Rad Companion Organs RT is
+intended to be used by qualified medical professionals, who can perform a complementary
+manual editing of the contours or add any new contours in the TPS (or any other interactive
+contouring application supporting DICOM-RT objects) as part of the routine clinical workflow.
+AI-Rad Companion Organs RT 38. Substantially Equivalent (SE) and Technological Characteristics
+The intended use of the subject device is unchanged from the predicate device. The following
+modifications have been made in the subject device, compared to the predicate, AI-Rad
+Companion Organs RT (K232899).
+• Enhanced CT contouring algorithm include 37 new organs & structures
+• Multi Guideline Support and corresponding update to UI
+AI-Rad Companion Organs RT VA60 and AI-Rad Companion Organs RT VA50 both use a deep
+learning algorithm to support their AI claims. Additionally, they both process CT and MR data in
+DICOM format, making them vendor agnostic and create outputs which can be used by any TPS
+system. The deep learning CT algorithm within AI-Rad Companion Organs RT VA60 has been
+enhanced from the algorithm in AI-Rad Companion Organs RT VA50 (K232899). All models
+contained within AI-Rad Companion Organs RT VA60 and AI-Rad Companion Organs RT
+VA50 (K232899) are locked and cannot be modified by the user.
+The subject device, AI-Rad Companion Organs RT, is substantially equivalent with regards to
+the software features, functionalities, and core algorithms. The performance of the enhanced CT
+contouring algorithm has been validated against FDA/CE cleared devices or from literature.
+The risk analysis and non-clinical data support that both devices perform equivalently and do not
+raise different questions of the safety and effectiveness.
+Subject Device Predicate Device
+Device
+Siemens Siemens
+Manufacturer
+Device Name AI-Rad Companion Organs RT AI-Rad Companion Organs RT
+510(k) Number K242745 K232899
+Indications for AI-Rad Companion Organs RT is AI-Rad Companion Organs RT is
+Use a post-processing software a post-processing software
+intended to automatically contour intended to automatically contour
+DICOM CT and MR pre-defined DICOM CT and MR pre-defined
+structures using deep-learning- structures using deep-learning-
+based algorithms. based algorithms.
+Contours that are generated by AI- Contours that are generated by AI-
+Rad Companion Organs RT may Rad Companion Organs RT may
+be used as input for clinical be used as input for clinical
+workflows including external workflows including external
+beam radiation therapy treatment beam radiation therapy treatment
+AI-Rad Companion Organs RT 4planning. AI-Rad Companion planning. AI-Rad Companion
+Organs RT must be used in Organs RT must be used in
+conjunction with appropriate conjunction with appropriate
+software such as Treatment software such as Treatment
+Planning Systems and Interactive Planning Systems and Interactive
+Contouring applications, to Contouring applications, to
+review, edit, and accept contours review, edit, and accept contours
+generated by AI-Rad Companion generated by AI-Rad Companion
+Organs RT. Organs RT.
+The outputs of AI-Rad Companion The outputs of AI-Rad Companion
+Organs RT are intended to be used Organs RT are intended to be used
+by trained medical professionals. by trained medical professionals.
+The software is not intended to The software is not intended to
+automatically detect or contour automatically detect or contour
+lesions lesions
+Algorithm Deep Learning Deep Learning
+Segmentation of CT: Head & Neck, Thorax, CT: Head & Neck, Thorax,
+Organ at Risk in the Abdomen & Pelvis Abdomen & Pelvis
+Anatomic Regions Head & Neck lymph nodes Head & Neck lymph nodes
+(203 OAR) (166 OAR)
+MR: Pelvis (9 OAR) MR: Pelvis (9 OAR)
+Compatible CT & MR Images CT & MR Images
+Modality
+Compatible No Limitation on scanner model No Limitation on scanner model
+Scanner Models for CT. Siemens Healthineers’ for CT. Siemens Healthineers’
+data only for MR. DICOM data only for MR. DICOM
+compliance required. compliance required.
+Compatible No Limitation on TPS model, No Limitation on TPS model,
+Treatment Planning DICOM compliance required. DICOM compliance required.
+System
+Contraindications Adult use only Adult use only
+Target Population AI-Rad Companion Organs RT is AI-Rad Companion Organs RT is
+designed for use only in adult designed for use only in adult
+populations. populations.
+AI-Rad Companion Organs RT is AI-Rad Companion Organs RT is
+designed for any patient for whom designed for any patient for whom
+relevant modality scans are relevant modality scans are
+available. available.
+AI-Rad Companion Organs RT 5Clinical condition Limited to patients previously Limited to patients previously
+the device is selected for Radiation Therapy. selected for Radiation Therapy.
+intended to
+diagnose, treat or
+manage
+Software AI-Rad Companion (Engine) AI-Rad Companion (Engine)
+Architecture architecture enabling the architecture enabling the
+deployment of AI Rad Companion deployment of AI Rad Companion
+Organs RT using Edge and in the Organs RT using Edge and in the
+Cloud. The UI is provided using a Cloud. The UI is provided using a
+web-based interface. web-based interface.
+Deployment Edge & Cloud Deployment Edge & Cloud Deployment
+Feature
+Organ Templates Creating, editing and deletion of Creating, editing and deletion of
+organ templates. Customize organ templates. Customize
+predefined structure database with predefined structure database with
+mapping to international mapping to international
+nomenclature schemes. nomenclature schemes.
+Automated AI-Rad Companion Organs RT AI-Rad Companion Organs RT
+workflow automatically processes input automatically processes input
+image data and sends the results as image data and sends the results as
+DICOM-RT Structure Sets to a DICOM-RT Structure Sets to a
+user-configurable target node. user-configurable target node.
+Contour AI-Rad Companion Organs RT AI-Rad Companion Organs RT
+visualization and provides basic result preview of provides basic result preview of
+editing feature automatic segmentation results, automatic segmentation results,
+and no editing feature of the and no editing feature of the
+automatic segmented contour. automatic segmented contour.
+Segmentation MR: The algorithm is unchanged MR: The target performance was
+Performance from the predicate and is separate validated using 66 cases to
+from the CT algorithm therefore validate the overall performance of
+the performance is unchanged the MR contouring.
+from the predicate.
+CT: The target performance was
+CT: The target performance was validated using 414 cases
+validated using 579 cases distributed to three cohorts.
+distributed to four cohorts.
+Both: To objectively evaluate the
+Both: To objectively evaluate the target performance, the DICE
+target performance, the DICE coefficient, the absolute symmetric
+coefficient, the absolute symmetric surface distance (ASSD) and the
+surface distance (ASSD) and the fail rate was evaluated. The
+fail rate was evaluated. The segmentation performance of the
+AI-Rad Companion Organs RT 6segmentation performance of the subject was equivalent to the
+subject was equivalent to the overall performance compared to
+overall performance compared to the predicate, reference device and
+the predicate, reference device and comparable literature & devices.
+comparable literature & devices.
+User Interface – Basic visualization functionality of Basic visualization functionality of
+Results Preview original data and generated original data and generated
+(Confirmation) contours contours
+User Interface Configuration UI Configuration UI
+Configuration
+Automated Results send to Confirmation UI & Results send to Confirmation UI &
+Workflow to TPS Optional bypassing of Optional bypassing of
+Confirmation UI to TPS Confirmation UI to TPS
+Human Factors Design to be used by trained Design to be used by trained
+clinicians. clinicians.
+Table 1: Indications for Use and Segmentation Feature Comparison
+The conclusions from all verification and validation data suggests that these enhancements are
+equivalent with respect to safety and effectiveness of the predicate device. These modifications
+do not change the intended use of the product. Siemens is of opinion that AI-Rad Companion
+Organs RT VA60 is substantially equivalent to the currently marketed device, AI-Rad
+Companion Organs RT (K232899).
+9. Nonclinical Tests
+Non-clinical tests were conducted to test the functionality of AI-Rad Companion Organs RT.
+Software validation and bench testing have been conducted to assess the performance claims as
+well as the claim of substantial equivalence to the predicate device.
+AI-Rad Companion has been tested to meet the requirements of conformity to multiple industry
+standards. Non-clinical performance testing demonstrates that AI-Rad Companion Organs RT
+complies with the FDA guidance document, “Guidance for the Content of Premarket
+Submissions for Device Software Functions” (June 2023) as well as with the following voluntary
+FDA recognized Consensus Standards listed in Table 2.
+Reference Standards
+Recognition Product
+Title of Standard Number and Development
+Number Area
+Date Organization
+5-129 General Medical Devices – 62366-1 Ed IEC
+Application of usability 1.1 2020-06
+engineering to medical CV
+devices
+5-125 General Medical Devices – 14971:2019- ISO
+application of risk 12
+AI-Rad Companion Organs RT 7management to medical
+devices
+13-79 Software/ Medical device software – 62304 Ed 1.1 AAMI
+Informatics software life cycle 2015-06 CV ANSI
+processes [Including IEC
+Amendment 1 (2016)]
+12-352 Radiology Digital Imaging and PS 3.1 – 3.20 NEMA
+Communications in 2023e
+Medicine (DICOM) Set
+5-134 General Medical devices – symbols 15223-1 ISO
+to be used with information Fourth edition IEC
+to be supplied by the 2021-07
+manufacturer – Part 1:
+General Requirements
+13-97 Software/ Health software – Part 1: 82304-1 IEC
+Informatics General requirements for Edition 1.0
+product safety 2016-10
+13-122 Software/ Health software and Health 81001-5-1 IEC
+Informatics IT system safety Edition 1.0
+effectiveness and security 2021-12
+5-135 General Medical devices – 20417 First ISO
+Information to be supplied edition 2021-
+by the manufacturer 04
+Table 2: List of recognized standards
+Verification and Validation
+Software documentation level, per FDA’s Guidance Document “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices” issued on June 14, 2023, is
+also included as part of this submission. The performance data demonstrates continued
+conformance with special controls for medical devices containing software. Non-clinical tests
+were conducted on the subject device during product development.
+Software bench testing in the form of Unit, System and Integration tests were performed to
+evaluate the performance and functionality of the new features and software updates. All testable
+requirements in the Requirement Specifications and the Risk Analysis have been successfully
+verified and traced in accordance with the Siemens Healthineers DH product development
+process. Human factor usability validation is addressed in system testing and usability validation
+test records. Software verification and regression testing have been performed successfully to
+meet their previously determined acceptance criteria as stated in the test plans.
+Siemens Healthineers adheres to the cybersecurity recommendations as defined the FDA
+Guidance “Cybersecurity in Medical Devices: Quality System Considerations and Content of
+Premarket Submissions” (September 2023) by implementing a process of preventing
+unauthorized access, modifications, misuse or denial of use, or the unauthorized use of
+information that is stored, accessed, or transferred from a medical device to an external recipient.
+AI-Rad Companion Organs RT 810. Performance Software Validation
+To validate the AI-Rad Companion Organs RT software from clinical perspective, the auto-
+contouring algorithms underwent a scientific evaluation. The results of clinical data-based
+software validation for the subject device AI-Rad Companion Organs RT (SW VA60A)
+demonstrated equivalent performance in comparison to the predicate device (SW VA50A,
+K232899). The performance of the enhanced CT organ contouring algorithm is comparable to
+the predicate device and comparable reference literature and cleared devices. A complete
+scientific evaluation report is provided in support of the device modifications.
+The MR Contouring algorithm contained within AI-Rad Companion Organs RT VA60 is
+identical to the predicate device AI-Rad Companion Organs RT VA50 (K232899).
+CT Contouring Algorithm Performance
+The performance of the AI-Rad Companion Organs RT has been validated in a retrospective
+performance study on CT data previously acquired for RT treatment planning (N= 579, data
+from multiple clinical sites across the North American, South American, Asia, Australia and
+Europe). Ground truth annotations were established following RTOG and clinical guidelines
+using manual annotation. The mean and standard deviation Dice coefficients, along with the
+lower 95th percentile confidence bound, were calculated for each organ in the subject device.
+The results of subject device were equivalent or had better performance than the predicate
+device. To encountered for different datasets, variation in annotation, we first calculate the
+average of multiple references or the average of anatomical region for the specific organ or
+anatomical region. We then define the baseline value by subtracting the reference value using
+5% error margin in case of Dice and 0.1 mm in case of ASSD.
+The performance results of the subject device for the new CT organs are comparable to the
+reference literature & cleared devices. Here equivalence for the new organs is defined such that
+the selected reference metric has a higher value than the defined baseline. For existing organs,
+the average (AVG) Dice score difference between the subject device and predicate device is
+smaller than 3%.
+Validation Testing Subject Acceptance Criteria
+Organs in Predicate Device • All the organs segmented in the predicate
+device are also segmented in the subject
+device
+• The average (AVG) Dice score difference
+between the subject and predicate device
+is smaller than 3%
+AI-Rad Companion Organs RT 9New Organs for Subject Device • The subject device in the selected reference
+metric has a higher value than the defined
+baseline value
+Table 3: Acceptance Criteria of AIRC Organs RT VA50
+Dice (%)
+Avg Std 95% CI
+Head & Neck 76.1 14.3 [75.1, 77.2]
+Head & Neck lymph 69.3 13.9 [68.7, 70.0]
+nodes
+Thorax 76.9 15.8 [76.2, 77.6]
+Abdomen 87.3 10.1 [86.3, 88.2]
+Pelvis 85.7 9.6 [85.0, 86.5]
+Cardiac 75.6 15.1 [74.1, 77.1]
+Table 3: Performance summary of the subject device CT contouring
+Organ Name NO. Dice (%) ASSD (mm)
+AVG STD MED 95%CI AVG STD MED 95%CI
+Left Breast 30 90.4 3.8 91 [89, 91.8] 2.4 2.2 1.8 [1.5, 3.2]
+Right Breast 30 90.2 3.7 90.8 [88.8, 91.5] 1.9 0.7 1.8 [1.7, 2.2]
+Bowel Bag 33 95 3.6 96.5 [93.7, 96.3] 1.9 1.5 1.4 [1.4, 2.5]
+Left Pelvic Bone 30 93.4 1.6 93.8 [92.8, 94] 0.6 0.2 0.5 [0.5, 0.6]
+Right Pelvic Bone 30 93.9 1.3 94 [93.4, 94.4] 0.5 0.1 0.5 [0.4, 0.6]
+Pituitary 30 75.8 7.4 77 [73.1, 78.6] 0.7 0.3 0.6 [0.5, 0.8]
+Sacrum 30 90.7 4 91.9 [89.2, 92.2] 0.8 0.6 0.6 [0.5, 1]
+Brainstem 30 88.4 2.5 88.8 [87.5, 89.3] 1 0.3 0.9 [0.9, 1.1]
+Glottis 30 68 8.7 70.9 [64.8, 71.3] 1.2 0.4 1.1 [1.1, 1.4]
+Supraglottic Larynx 30 80 5.9 81 [77.8, 82.20] 0.8 0.3 0.7 [0.7, 0.9]
+Esophagus 30 85.6 4.2 86 [84, 87.2] 0.6 0.3 0.6 [0.5, 0.7]
+Left Lacrimal Gland 30 72.1 7.3 71.3 [69.4, 74.9] 0.8 0.3 0.8 [0.7, 0.9]
+Right Lacrimal Gland 30 69.9 12.4 73.6 [65.3, 74.6] 0.9 0.7 0.8 [0.7, 1.2]
+Left Femur Head 30 95.2 1.1 95.2 [94.8, 95.6] 0.5 0.2 0.5 [0.5, 0.6]
+AI-Rad Companion Organs RT 10Right Femur Head 30 94.9 1.3 95.1 [94.5, 95.4] 0.6 0.2 0.5 [0.5, 0.6]
+Left Humeral Head 30 94.2 2.1 94.8 [93.4, 94.9] 0.7 0.3 0.6 [0.6, 0.8]
+Right Humeral Head 30 94.6 3.2 95.4 [93.4, 95.8] 0.7 0.5 0.5 [0.5, 0.9]
+MEDIASTINAL LN 10L 31 52.9 9.7 55.1 [49.4, 56.5] 1.2 0.6 1.1 [1, 1.5]
+MEDIASTINAL LN 10R 31 50.2 9.5 50.6 [46.7, 53.7] 1.4 0.6 1.2 [1.1, 1.6]
+MEDIASTINAL LN 1L 31 70.7 10 73 [67, 74.4] 2.4 1.2 1.9 [1.9, 2.8]
+MEDIASTINAL LN 1R 31 66 12.8 67.9 [61.3, 70.7] 2.4 0.9 2.3 [2.1, 2.8]
+MEDIASTINAL LN 2L 31 67.6 7.6 68.6 [64.8, 70.5] 1.4 0.4 1.3 [1.2, 1.5]
+MEDIASTINAL LN 2R 31 55.5 13.6 56.9 [50.6, 60.5] 2.3 1.5 2 [1.7, 2.8]
+MEDIASTINAL LN 3A 31 75.6 6.3 77.6 [73.3, 77.9] 1.6 0.4 1.5 [1.5, 1.8]
+MEDIASTINAL LN 3P 31 65.9 6 66.5 [63.7, 68.1] 1.6 0.6 1.5 [1.4, 1.8]
+MEDIASTINAL LN 4L 31 65.7 8.4 67.2 [62.6, 68.8] 1.4 0.7 1.1 [1.1, 1.7]
+MEDIASTINAL LN 4R 31 72.8 8 74.6 [69.9, 75.7] 1.7 0.7 1.6 [1.4, 1.9]
+MEDIASTINAL LN 5 31 61 14.8 65.7 [55.5, 66.4] 1.8 0.8 1.6 [1.5, 2.1]
+MEDIASTINAL LN 6 31 58.8 14.8 62.5 [53.4, 64.2] 2 1.1 1.6 [1.6, 2.4]
+MEDIASTINAL LN 7 31 59 7.6 61.3 [56.2, 61.8] 1.9 0.8 1.7 [1.6, 2.2]
+MEDIASTINAL LN 8 31 65.8 8 67.9 [62.9, 68.8] 2 0.9 1.7 [1.7, 2.4]
+MEDIASTINAL LN 9L 31 38.3 21.1 42.9 [30.6, 46.1] 5.3 4.4 3.7 [3.7, 6.9]
+MEDIASTINAL LN 9R 29 38.8 15.6 38.5 [32.9, 44.7] 3.7 2 3.5 [2.9, 4.4]
+Table 4: Detailed Performance evaluation of the new organs in the subject device
+Test Cohort
+# Patients 244
+(Data origin) South/North America: 163
+EU: 70
+Asia: 6
+Australia: 3
+Unknown: 2
+Gender F: 111
+M: 100
+Unknown: 33
+GE: 29
+Philips: 33
+Manufacturer
+Siemens: 158
+Other/Unknown: 24
+Slice Thickness <= 1: 10
+AI-Rad Companion Organs RT 11(1, 2]: 124
+(2, 3]: 106
+> 3: 4
+Table 5: Validation Testing Data Information for new OARs
+Cohort A B
+A.1 A.2 A.3
+# Patients 73 40 301 165
+# Of clinical 3 4 12+ 20+
+sites
+(Data origin) Germany: 14 Canada: 40 South/North America: South/North
+184 America: 100
+Brazil: 59 EU: 44 EU: 51
+Asia: 33 Asia: 6
+Australia: 28 Australia: 3
+Unknown: 12 Unknown: 5
+Body Region Head & Neck: 24 Head & Neck: Head & Neck: 50 Head & Neck: 40
+40
+Thorax & Thorax: 81 Thorax: 69
+Abdomen: 20
+Pelvis: 29 Abdomen: 115 Abdomen: 25
+Pelvis: 55 Pelvis: 31
+Table 5: Validation Testing Data Information based on Cohort
+Organ Group No. of Training No. of Validation
+Lacrimal Glands Left
+247 62
+Lacrimal Glands Right
+Pituitary Gland 247 62
+Humeral Head Left
+207 52
+Humeral Head Right
+Bowel Bag 544 25
+Pelvic Bone Left
+160 40
+Pelvic Bone Right
+Sacrum 160 40
+Mediastinal LN I Left
+Mediastinal LN 1 Right 136 34
+Mediastinal LN II Left
+AI-Rad Companion Organs RT 12Mediastinal LN II Right
+Mediastinal LN III Anterior
+Mediastinal LN III Posterior
+Mediastinal LN IV Left
+Mediastinal LN IV Right
+Mediastinal LN V
+Mediastinal LN VI
+Mediastinal LN VII
+Mediastinal LN VIII
+Mediastinal LN IX Left
+Mediastinal LN IX Right
+Mediastinal LN X Left
+Mediastinal LN X Right
+Femoral Head Left
+160 40
+Femoral Head Right
+Brainstem 247 62
+Esophagus 247 62
+Breast Left
+172 44
+Breast Right
+Supraglottic Larynx
+247 62
+Glottis
+Table 6: Training Dataset Characteristics
+Standard Annotation Process
+In both the annotation process for the training and validation testing data, the annotation
+protocols for the OAR were defined following the applicable guidelines. The ground truth
+annotations were drawn manually by a team of experienced annotators mentored by radiologists
+or radiation oncologists using an internal annotation tool. Additionally, a quality assessment
+including review and correction of each annotation was done by a board-certified radiation
+oncologist using validated medical image annotation tools.
+Validation Testing & Training Data Independence
+The training data used for the training of the algorithm is independent of the data used to test the
+algorithm.
+11. Clinical Tests
+No clinical tests were conducted to test the performance and functionality of the modifications
+introduced within AI-Rad Companion Organs RT. Verification and validation of the
+enhancements and improvements have been performed and these modifications have been
+validated for their intended use. The data from these activities were used to support the subject
+device and the substantial equivalence argument. No animal testing has been performed on the
+subject device.
+12. Safety and Effectiveness
+AI-Rad Companion Organs RT 13The device labeling contains instructions for use and any necessary cautions and warnings to
+ensure safe and effective use of the device as compared to the predicate.
+Risk management is ensured via ISO 14971:2019 compliance to identify and provide mitigation
+of potential hazards in a risk analysis early in the design phase and continuously throughout the
+development of the product. These risks are controlled via measures realized during software
+development, testing and product labeling.
+13. Conclusion
+Based on the discussion and validation testing and performance data above, the proposed device
+is determined to be as safe and effective as its predicate device, AI-Rad Companion Organs RT
+VA50 (K232899).
+AI-Rad Companion Organs RT 14

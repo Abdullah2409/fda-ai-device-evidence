@@ -1,0 +1,926 @@
+Shanghai United Imaging Healthcare Co., Ltd.
+Xin Gao
+Official Correspondent
+No.2258 Chengbei Rd.
+Jiading District
+Shanghai, Shanghai 201807
+China
+Re: K233209
+Trade/Device Name: uOmnispace.CT May 17, 2024
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: April 12, 2024
+Received: April 12, 2024
+Dear Xin Gao:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.10
+Silver Spring, MD 20993
+www.fda.govK233209 – Xin Gao Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, PhD
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K233209
+Device Name
+uOmnispace.CT
+Indications for Use (Describe)
+uOmnispace.CT is a software for viewing, manipulating, evaluating and analyzing medical images. It supports
+interpretation and evaluation of examinations within healthcare institutions. It has the following additional indications:
+-The uOmnispace.CT Colon Analysis application is intended to provide the user a tool to enable easy visualization and
+efficient evaluation of CT volume data sets of the colon.
+-The uOmnispace.CT Dental application is intended to provide the user a tool to reconstruct panoramic and paraxial views
+of jaw.
+-The uOmnispace.CT Lung Density Analysis application is intended to segment pulmonary, lobes, and airway, providing
+the user quantitative parameters, structure information to evaluate the lung and airway.
+-The uOmnispace.CT Lung Nodule application is intended to provide the user a tool for the review and analysis of
+thoracic CT images, providing quantitative and characterizing information about nodules in the lung in a single study, or
+over the time course of several thoracic studies.
+-The uOmnispace.CT Vessel Analysis application is intended to provide a tool for viewing, manipulating, and evaluating
+CT vascular images.
+-The uOmnispace.CT Brain Perfusion application is intended to calculate the parameters such as: CBV, CBF, etc. in order
+to analyze functional blood flow information about a region of interest (ROI) in brain.
+-The uOmnispace.CT Heart application is intended to segment heart and extract coronary artery. It also provides analysis
+of vascular stenosis, plaque and heart function.
+-The uOmnispace.CT Calcium Scoring application is intended to identify calcifications and calculate the calcium score.
+-The uOmnispace.CT Dynamic Analysis application is intended to support visualization of the CT datasets over time with
+the 3D/4D display modes.
+-The uOmnispace.CT Bone Structure Analysis application is intended to provide visualization and labels for the ribs and
+spine, and support batch function for intervertebral disk.
+-The uOmnispace.CT Liver Evaluation application is intended to provide processing and visualization for liver
+segmentation and vessel extraction. It also provides a tool for the user to perform liver separation and residual liver
+segments evaluation.
+-The uOmnispace.CT Dual Energy is a post-processing software package that accepts UIH CT images acquired using
+different tube voltages and/or tube currents of the same anatomical location. The uOmnispace.CT Dual Energy application
+is intended to provide information on the chemical composition of the scanned body materials and/or contrast agents.
+Additionally, it enables images to be generated at multiple energies within the available spectrum.
+-The uOmnispace.CT Cardiovascular Combined Analysis is an image analysis software package for evaluating contrast
+enhanced CT images. The CT Cardiovascular Combined Analysis is intended to analyze vascular and cardiac structures. It
+can be used in the qualitative and quantitative for the analysis of head-neck, abdomen, multi-body part combined, TAVR
+(Transcatheter Aortic Valve Replacement) CT data as input for the planning of cardiovascular procedures.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+FORM FDA 3881 (6/20) Page 1 of 2 PSC Publishing Services (301) 443-6740 EFThis section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 2 of 2Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+510 (k) SUMMARY K233209
+1. Date of Preparation:
+May 16, 2024
+2. Sponsor Identification
+Shanghai United Imaging Healthcare Co.,Ltd.
+No.2258 Chengbei Rd. Jiading District, 201807, Shanghai, China
+Establishment Registration Number: 3011015597
+Contact Person: Xin GAO
+Position: Regulatory Affairs Specialist
+Tel: +86-021-67076888-5386
+Fax: +86-021-67076889
+Email: xin.gao@united-imaging.com
+3. Identification of Proposed Device
+Trade Name: uOmnispace.CT
+Common Name: Medical image management and processing system
+Model: uOmnispace.CT
+Regulatory Information
+Classification Name: Medical image management and processing system
+Classification: II
+Product Code: QIH
+Regulation Number: 21 CFR 892.2050
+Review Panel: Radiology
+4. Identification of Predicate Device(s)
+Predicate Device
+510(k) Number: K183170
+Common Name: Medical image management and processing system
+Model: uWS-CT
+Regulatory Information
+Page 1 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Classification Name: Medical image management and processing system
+Classification: II
+Product Code: LLZ
+Regulation Number: 21 CFR 892.2050
+Review Panel: Radiology
+Reference Device#1
+510(k) Number: K230162
+Device Name: uCT 760 with uWS-CT-Dual Energy Analysis, uCT 780 with uWS-
+CT-Dual Energy Analysis
+Reference Device#2
+510(k) Number: K230039
+Device Name: uOmnispace
+Reference Device#3
+510(k) Number: K170221
+Device Name: syngo.CT Cardiac Planning
+Reference Device#4
+510(k) Number: K133643
+Device Name: syngo.CT Liver Analysis
+Reference Device#5
+510(k) Number: K182130
+Device Name: iSchema View's RAPID
+5. Device Description
+The uOmnispace.CT is a post-processing software based on the uOmnispace platform for
+viewing, manipulating, evaluating and analyzing medical images, can run alone or with
+other advanced commercially cleared applications.
+uOmnispace.CT contains the following applications:
+ uOmnispace.CT Calcium Scoring
+ uOmnispace.CT Lung Nodule
+ uOmnispace.CT Colon Analysis
+ uOmnispace.CT Lung Density Analysis
+Page 2 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+ uOmnispace.CT Dental Application
+ uOmnispace.CT Bone Structure Analysis
+ uOmnispace.CT Dual Energy
+ uOmnispace.CT Vessel Analysis
+ uOmnispace.CT Heart
+ uOmnispace.CT Brain Perfusion
+ uOmnispace.CT Dynamic Analysis
+ uOmnispace.CT Liver Evaluation
+ uOmnispace.CT Cardiovascular Combined Analysis
+6. Indications for use
+uOmnispace.CT is a software for viewing, manipulating, evaluating and analyzing
+medical images. It supports interpretation and evaluation of examinations within
+healthcare institutions. It has the following additional indications:
+ The uOmnispace.CT Colon Analysis application is intended to provide the user a tool
+to enable easy visualization and efficient evaluation of CT volume data sets of the
+colon.
+ The uOmnispace.CT Dental application is intended to provide the user a tool to
+reconstruct panoramic and paraxial views of jaw.
+ The uOmnispace.CT Lung Density Analysis application is intended to segment
+pulmonary, lobes, and airway, providing the user quantitative parameters, structure
+information to evaluate the lung and airway.
+ The uOmnispace.CT Lung Nodule application is intended to provide the user a tool
+for the review and analysis of thoracic CT images, providing quantitative and
+characterizing information about nodules in the lung in a single study, or over the time
+course of several thoracic studies.
+ The uOmnispace.CT Vessel Analysis application is intended to provide a tool for
+viewing, manipulating, and evaluating CT vascular images.
+ The uOmnispace.CT Brain Perfusion application is intended to calculate the
+parameters such as: CBV, CBF, etc. in order to analyze functional blood flow
+information about a region of interest (ROI) in brain.
+ The uOmnispace.CT Heart application is intended to segment heart and extract
+coronary artery. It also provides analysis of vascular stenosis, plaque and heart
+function.
+ The uOmnispace.CT Calcium Scoring application is intended to identify calcifications
+and calculate the calcium score.
+ The uOmnispace.CT Dynamic Analysis application is intended to support
+visualization of the CT datasets over time with the 3D/4D display modes.
+Page 3 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+ The uOmnispace.CT Bone Structure Analysis application is intended to provide
+visualization and labels for the ribs and spine, and support batch function for
+intervertebral disk.
+ The uOmnispace.CT Liver Evaluation application is intended to provide processing
+and visualization for liver segmentation and vessel extraction. It also provides a tool
+for the user to perform liver separation and residual liver segments evaluation.
+ The uOmnispace.CT Dual Energy is a post-processing software package that accepts
+UIH CT images acquired using different tube voltages and/or tube currents of the same
+anatomical location. The uOmnispace.CT Dual Energy application is intended to
+provide information on the chemical composition of the scanned body materials
+and/or contrast agents. Additionally, it enables images to be generated at multiple
+energies within the available spectrum.
+ The uOmnispace.CT Cardiovascular Combined Analysis is an image analysis
+software package for evaluating contrast enhanced CT images. The CT
+Cardiovascular Combined Analysis is intended to analyze vascular and cardiac
+structures.It can be used in the qualitative and quantitative for the analysis of head-
+neck, abdomen, multi-body part combined, TAVR (Transcatheter Aortic Valve
+Replacement) CT data as input for the planning of cardiovascular procedures.
+7. Summary of Technological Characteristics
+The technology characteristics of uOmnispace.CT, reflected in this 510(k) submission
+are substantially equivalent to those of the predicate devices.
+The following tables compare the main features, principles of operation, fundamental
+scientific technology and intended use of uOmnispace.CT when compared to the
+predicate devices.
+Page 4 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Proposed Device Predicate Device
+Item Remark
+uOmnispace.CT uWS-CT(K183170)
+General
+uOmnispace.CT is a software for viewing, uWS-CT is a software solution intended to be used
+manipulating, evaluating and analyzing medical for viewing, manipulation, communication, and
+images. It supports interpretation and evaluation of storage of medical images. It supports interpretation
+examinations within healthcare institutions. It has and evaluation of examinations within healthcare
+the following additional indications: institutions. It has the following additional
+ The uOmnispace.CT Colon Analysis indications:
+application is intended to provide the user a tool to  The CT Colon Analysis application is
+enable easy visualization and efficient evaluation of intended to provide the user a tool to enable easy
+CT volume data sets of the colon. visualization and efficient evaluation of CT volume
+ The uOmnispace.CT Dental application is data sets of the colon.
+Substantial Equivalence.
+intended to provide the user a tool to reconstruct  The CT Dental application is intended to
+The proposed device
+panoramic and paraxial views of jaw. provide the user a tool to reconstruct panoramic and
+includes more
+ The uOmnispace.CT Lung Density Analysis paraxial views of jaw.
+applications, which are
+application is intended to segment pulmonary, lobes,  The CT Lung Density application is
+discussed in the following
+Intended Use and airway, providing the user quantitative intended to provide the user a number of density
+sections, than the predicate
+parameters, structure information to evaluate the parameters and structure information for evaluating
+device. This difference
+lung and airway. tomogram scans of the lung.
+will not impact the safety
+ The uOmnispace.CT Lung Nodule  The CT Lung Nodule application is
+and effectiveness of the
+application is intended to provide the user a tool for intended to provide the user a tool for the review and
+device.
+the review and analysis of thoracic CT images, analysis of thoracic CT images, providing
+providing quantitative and characterizing quantitative and characterizing information about
+information about nodules in the lung in a single nodules in the lung in a single study, or over the
+study, or over the time course of several thoracic time course of several thoracic studies.
+studies.  The CT Vessel Analysis application is
+ The uOmnispace.CT Vessel Analysis intended to provide a tool for viewing, manipulating,
+application is intended to provide a tool for viewing, and evaluating CT vascular images.
+manipulating, and evaluating CT vascular images.  The CT Brain Perfusion application is
+ The uOmnispace.CT Brain Perfusion intended to calculate the parameters such as: CBV,
+application is intended to calculate the parameters CBF, etc. in order to analyze functional blood flow
+Page 5 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Proposed Device Predicate Device
+Item Remark
+uOmnispace.CT uWS-CT(K183170)
+such as: CBV, CBF, etc. in order to analyze information about a region of interest (ROI) in the
+functional blood flow information about a region of brain.
+interest (ROI) in brain.  The CT Heart application is intended to
+ The uOmnispace.CT Heart application is segment heart and extract coronary artery. It also
+intended to segment heart and extract coronary provides analysis of vascular stenosis, plaque and
+artery. It also provides analysis of vascular stenosis, heart function.
+plaque and heart function.  The CT Calcium Scoring application is
+ The uOmnispace.CT Calcium Scoring intended to identify calcifications and calculate the
+application is intended to identify calcifications and calcium score.
+calculate the calcium score.  The CT Dynamic Analysis application is
+ The uOmnispace.CT Dynamic Analysis intended to support visualization of the CT datasets
+application is intended to support visualization of the over time with the 3D/4D display modes.
+CT datasets over time with the 3D/4D display  The CT Bone Structure Analysis application
+modes. is intended to provide visualization and labels for the
+ The uOmnispace.CT Bone Structure ribs and spine, and support batch function for
+Analysis application is intended to provide intervertebral disk.
+visualization and labels for the ribs and spine, and  The CT Liver Evaluation application is
+support batch function for intervertebral disk. intended to provide processing and visualization for
+ The uOmnispace.CT Liver Evaluation liver segmentation and vessel extraction. It also
+application is intended to provide processing and provides a tool for the user to perform liver
+visualization for liver segmentation and vessel separation and residual liver segments evaluation.
+extraction. It also provides a tool for the user to
+perform liver separation and residual liver segments
+evaluation.
+ The uOmnispace.CT Dual Energy Analysis
+is a post-processing software package that accepts
+UIH CT images acquired using different tube
+voltages and/or tube currents of the same anatomical
+location. The uOmnispace.CT Dual Energy
+application is intended to provide information on the
+chemical composition of the scanned body materials
+and/or contrast agents. Additionally, it enables
+Page 6 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Proposed Device Predicate Device
+Item Remark
+uOmnispace.CT uWS-CT(K183170)
+images to be generated at multiple energies within
+the available spectrum.
+ The uOmnispace.CT Cardiovascular
+Combined Analysis is an image analysis software
+package for evaluating contrast enhanced CT
+images. The CT Cardiovascular Combined Analysis
+is intended to analyze vascular and cardiac
+structures.It can be used in the qualitative and
+quantitative for the analysis of head-neck, abdomen,
+multi-body part combined, TAVR (Transcatheter
+Aortic Valve Replacement) CT data as input for the
+planning of cardiovascular procedures.
+Page 7 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function name Proposed device Predicate device: Remark
+uOmnispace.CT uWS-CT(K183170)
+uOmnispace.CT Lung Lung Segmentation Yes Yes Same
+Density Analysis
+Lung Density Analysis Yes Yes Same
+Lung Contour Editing Yes Yes Same
+Pulmonary lobes Segmentation Yes Yes Same
+Airway Segmentation Yes Yes Same
+Airway Tree Extraction and Editing Yes Yes Same
+Airway Contour Editing Yes Yes Same
+Statistical Analysis Yes Yes Same
+Save, Report, Print Yes Yes Same
+Page 8 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function Name Proposed Device Predicate Reference Device#5 Remark
+uOmnisapce.CT Device: iSchema View's RAPID
+uWS-CT （K182130）
+(K183170)
+uOmnispace.CT Motion Correction Yes Yes / Same
+Brain Perfusion Arterial Detection Yes Yes / Same
+Parameter Map Yes Yes / Same
+Calculation
+Time-density curve Yes Yes / Same
+analysis
+Tmax Yes / Yes Functional Substantial
+Equivalent
+Note 1
+Ischemic penumbra Yes / Yes Functional Substantial
+analysis Equivalent
+Note 2
+Symmetric ROI and Yes Yes / Same
+ROI Template
+Save, Report, Print Yes Yes / Same
+Page 9 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function name Proposed device Predicate device: Reference Remark
+uOmnispace.CT uWS-CT device#2
+(K183170) UOmnispace
+(K230039)
+uOmnispace. Multi-Phase Loading Yes Yes / Same
+CT Heart
+Hyper Realistic Rendering Yes / Yes Same
+Heart Chamber Segmentation Yes Yes / Same
+Coronary Artery Extraction Yes Yes / Same
+Editing Tools Yes Yes / Same
+Centerline Extraction Yes Yes / Same
+Stenosis Analysis Yes Yes / Same
+Plaque Analysis Yes Yes / Same
+Cardiac function Assessment Yes Yes / Functional Substantial
+Equivalent
+Note 3
+Save, Report, Print Yes Yes / Same
+Application Function name Proposed device Predicate device: Remark
+uOmnispace.CT uWS-CT(K183170)
+uOmnispace.CT Calcium sites segmentation Yes Yes Same
+Calcium Scoring
+Calculate Calcium score Yes Yes Functional Substantially
+Equivalent
+Note 4
+Save, Report, Print Yes Yes Same
+Page 10 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function name Proposed device Predicate device: Remark
+uOmnispace.CT uWS-CT(K183170)
+uOmnispace.CT Bone Labeling Ribs Yes Yes Functional Substantial Equivalent
+Structure Analysis Note 5
+Labeling Spine Yes Yes Functional Substantial Equivalent
+Note 6
+Batch Yes Yes Same
+Save, Report, Print Yes Yes Same
+Application Function name Proposed device Predicate device: Remark
+uOmnispace.CT uWS-CT (K183170)
+uOmnispace.CT Motion correction Yes Yes Same
+Dynamic Analysis
+Multiple phase viewing Yes Yes Same
+Bone Removal Yes Yes Same
+Data Loading and 3D/4D Yes Yes Same
+Display
+Artery and Vein Display Yes Yes Same
+Save, Report, Print Yes Yes Same
+Page 11 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function name Proposed device Predicate device Reference device#3 Reference Remark
+uOmnispace.CT uWS-CT uOmnispace device#4
+(K183170) (K230039) syngo.CT
+Liver Analysis
+(K133643)
+uOmnispace.CT Phase Selection Yes Yes / / Same
+Liver Evaluation
+Liver Segmentation Yes Yes / / Same
+Lesion Segmentation Yes Yes / / Same
+Rib Segmentation Yes / Yes / Same
+and
+manual correction
+Vessel Extraction Yes Yes / / Same
+Vascular Editing Yes Yes / / Same
+Liver Segments Yes Yes / / Same
+Virtual Planning Yes Yes / / Same
+RFA Yes Yes / / Same
+Vascular Territories Yes / / Yes Functional Substantial
+Computation and Equivalent
+visualization Note 7
+Measurement Yes Yes / / Same
+Save, Report, Print Yes Yes / / Same
+Page 12 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function name Proposed device Reference Device#1: Remark
+uOmnispace.CT uCT 760 with uWS-CT-Dual
+Energy Analysis, uCT 780
+with uWS-CT-Dual Energy
+Analysis（K230162）
+uOmnispace.CT Mono Energetic Image Yes Yes Same
+Dual
+Mixed Enhanced Image Yes Yes Same
+Energy
+CNR(Contrast Noise Ratio) Image Yes Yes Same
+Base Material Images: Including Yes Yes Functional Substantially
+Water-Iodine, Water-Calcium, Equivalent
+Calcium-Iodine, Uric acid-Calcium, Note 8
+Water-HAP, Liver-Fat Base
+Material Pair image.
+Image Registration Yes Yes Same
+Effective Atomic Number Images Yes Yes Functional Substantial
+ Component analysis of Equivalent
+kidney stones, uric acid stones or Note 9
+non-uric acid stones
+ Component analysis of
+joint gout, uric acid gout or non-
+uric acid gout
+Electron Density Images Yes Yes Same
+Virtual Non contrast Images Yes Yes Same
+Save. Report, Print Yes Yes Same
+Page 13 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function name Proposed Device Predicate Device: Remark
+uOmnispace.CT uWS-CT(K183170)
+uOmnispace.CT Dental Defining the Reference Plane Yes Yes Same
+Application
+Plotting Panoramic Curve Yes Yes Same
+Marking the Nerve Canals Yes Yes Same
+Cross Sectional Operations Yes Yes Same
+Dental VRT Display Yes Yes Same
+Save, Report, Print (True size Yes Yes Functional Substantial
+printing) Equivalent
+Note 10
+Application Function name Proposed device Predicate device: Remark
+uOmnispace.CT uWS-CT(K183170)
+uOmnispace.CT Colon Colon Segmentation and Yes Yes Same
+Analysis Centerline Calculate
+Electronic Colon Cleansing Yes Yes Same
+Manual Polyps Marking Yes Yes Same
+Colon editing and Center Line Yes Yes Same
+editing
+Polyps’ Quantitative Yes Yes Same
+Calculation and Analysis
+Virtual Endoscopy Yes Yes Same
+Save, Report, Print Yes Yes Same
+Page 14 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function name Proposed device Predicate device: Reference device#3 Remark
+uOmnispace.CT uWS-CT(K183170) uOmnispace
+(K230039)
+uOmnispace.CT Vessel Bone removal Yes Yes / Same
+Analysis Vessel and centerlines Yes Yes / Same
+Extraction
+Semi-automatic vessel Yes Yes / Same
+extraction
+Vascular Measurement and Yes Yes / Same
+vascular stenosis analysis
+Save, Report, Print Yes Yes / Same
+Hyper Realistic Rendering Yes / Yes Same
+Application Function name Proposed device Predicate device: Remark
+uOmnispace.CT uWS-CT(K183170)
+uOmnispace.CT Lung Marking Nodules Yes Yes Same
+Nodule Follow-up Analysis Yes Yes Same
+Lung Segmentation Yes Yes Same
+Nodule Segmentation Yes Yes Same
+Measurement for the Yes Yes Same
+segmented nodule
+Save, Report, Print Yes Yes Same
+Page 15 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Application Function name Proposed device Predicate device: Reference Remark
+uOmnispace.CT uWS-CT device#3
+(K183170) Syngo.via
+(K170221)
+uOmnispace.CT Vessel analysis： Yes Yes / Functional Substantial
+Cardiovascular  Bone removal Equivalent
+Combined  Vessel and centerlines Note 11.
+Analysis Extraction
+ Semi-automatic vessel
+extraction
+ Vascular Measurement
+and vascular -stenosis analysis
+ Hyper Realistic
+Rendering
+Heart Analysis： Yes Yes / Functional Substantial
+ Multi-Phase Loading Equivalent
+ Hyper Realistic Note 12.
+Rendering
+ Heart Chamber
+Segmentation
+ Coronary Artery
+Extraction
+ Editing Tools
+ Centerline Extraction
+ Stenosis Analysis
+ Plaque Analysis
+ Cardiac function
+Assessment
+Fusion Review： Yes Yes / Same
+ The Combined Display
+of Heart and Vessels tissue
+Page 16 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+TAVR Evaluation ： Yes / Yes Functional Substantial
+ Automatic Aortic Equivalent
+annulus location and manually Note 13
+correction
+ Automatic Coronary
+ostia Location and manually
+correction
+ Multi-parameter
+Calculation
+Save, Report, Print Yes Yes / Same
+Note 1:
+Compared to reference device, the parameter principle and the functional implementation mode of Tmax is consistent with RAPID. Additional
+verification tests were carried out to demonstrate that uOmnispace.CT yields accurate quantitative perfusion parameters. Therefore, this technological
+difference does not raise new issues of safety and effectiveness as compared to RAPID.
+Note 2:
+Compared to reference device, the function implementse of Ischemic Penumbra Analysis is consistent with RAPID. Additional verification tests were
+carried out to demonstrate that uOmnispace.CT yields accurate quantitative perfusion parameters. Therefore, this technological difference does not raise
+new issues of safety and effectiveness as compared to RAPID.
+Note 3:
+Compared to predicate device, the proposed device add the calculation of parameters related to the left and right atria. These calculation is similar to the
+calculation of registered ventricular parameters. This difference between the proposed device and the predicate device doesn’t impact the safety and
+effectiveness of the proposed device.
+Note 4:
+Compared to predicate device, the proposed device adds the comparison of the computed Agatston Score to cited literature called Distribution of
+Coronary Artery Calcium by Race, Gender, and Age. The added function supports to compare the CAC between the current patient and the normal
+people based on MESA database. The operating principle and the scientific technology are the same, this difference between the proposed device and the
+reference device doesn’t impact the safety and effectiveness of the proposed device.
+Page 17 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Note 5:
+Compared to predicate device, the proposed device optimizes a new algorithm based on deep learning. This algorithm supports the same function as
+uWS-CT (K183170). This difference between the proposed device and the predicate device doesn’t impact the safety and effectiveness of the proposed
+device.
+Note 6:
+Compared to predicate device, the proposed device optimizes a new algorithm based on deep learning. This algorithm supports the same function as
+uWS-CT (K183170). This difference between the proposed device and the predicate device doesn’t impact the safety and effectiveness of the proposed
+device.
+Note 7:
+Compared to predicate device, the proposed device support territories computation and visualization based on vessel branches. The operating principle
+and the scientific technology are the same. There would be no clinically significant difference in the safety and clinical performance of the proposed
+device.
+Note 8:
+Compared to predicate device, the proposed device supports the generation of more base material pairs. There is no change in algorithm and this
+algorithm support the same function as K230162. This difference between the proposed device and the reference device doesn’t impact the safety and
+effectiveness of the proposed device.
+Note 9:
+Compared to predicate device, the proposed device increased the volume calculation based on the effective Atomic Number Image, the volume
+calculation is the process of pixel counting. There is no change in algorithm and this algorithm support the same function as K230162. This difference
+between the proposed device and the reference device doesn’t impact the safety and effectiveness of the proposed device.
+Note 10:
+Compared to predicate device, the proposed device adds true size printing, there is no change in operating principle and it is only through the ratio of the
+printed image scale to the real physical scale. Therefore, the real size of the print effect is obtained. This difference between the proposed device and the
+reference device doesn’t impact the safety and effectiveness of the proposed device.
+Page 18 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Note 11:
+For uOmnispace.CT Cardiovascular Combined Analysis application, it integrates uOmnispace.CT Vessel Analysis application and uOmnispace.CT
+Heart application, these two applications are the same as the CT Vessel Analysis application and the CT Heart application in K183170. There would be
+no impact on safety and effectiveness of this function.
+Note 12:
+The function of cardiac analysis refer to uOmnispace.CT Heart.
+For uOmnispace.CT Cardiovascular Combined Analysis application, it integrates uOmnispace.CT Vessel Analysis application and uOmnispace.CT
+Heart application, these two applications are the same as the CT Vessel Analysis application and the CT Heart application in K183170. There would be
+no impact on safety and effectiveness of this function.
+Note 13:
+For uOmnispace.CT Cardiovascular Combined Analysis application, TAVR Evaluation is substantively equivalent to the predicate device Syngo.via
+(K170221). Additionally, the proposed device can provide the length of left and right coronary ostium to annulus. Testing was performed to ensure the
+measurements meet the predetermined acceptance values. This difference between the proposed device and the reference device doesn’t impact the
+safety and effectiveness of the proposed device.
+Page 19 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+8. Performance Data
+The following performance data were provided in support of the substantial
+equivalence determination.
+Biocompatibility
+Not Applicable to the proposed device, because the device is stand-alone
+software.
+Electrical Safety and Electromagnetic Compatibility (EMC)
+Not Applicable to the proposed device, because the device is stand-alone
+software.
+Software Verification and Validation
+Software verification and validation testing was provided to demonstrate the Basic
+Documentation Level, including:
+• Software Description
+• Device Hazard Analysis
+• Software Requirements Specification (SRS)
+• Software Architecture Design Chart
+• Software Development Environment Description
+• Software Verification and Validation
+• Cybersecurity Documents
+Animal Study
+No animal study was required.
+Clinical Studies
+No clinical study was required.
+Performance Verification
+There are three algorithms based on ML/AI method:
+ Spine labeling algorithm
+ Rib labeling algorithm
+ TAVR analysis algorithm
+More information about the ML/AI algorithm is as follows:
+1. Spine labeling Algorithm
+The performance testing for deep learning-based spine labeling algorithm was
+performed on 120 subjects (data shown in Table 8-2) during the product
+development.
+ Acceptance Criteria
+The validation type and acceptance criteria is shown in the Table 8-1 below:
+Page 20 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Table 8-1. Validation type and acceptance criteria
+Validation Type Acceptance Criteria
+Score based on ground truth The average score of the proposed device
+results is higher than 4 points.
+ Testing Data Information
+1) Equipment and Protocols
+CT data were acquired from five major manufacturers (GE, Phillips, Siemens,
+Toshiba, UIH), and with tube voltage of 80 - 140kVp, slice thickness of 0.625-3.75
+mm.
+2) Clinical Subgroup Information
+The subgroup information of testing data is summarized below.
+Table 8-2. Testing data subgroup information
+Subgroup Details of Each Subgroup Sample Size
+Ethnicity U.S. 90
+Asia 30
+Age [22, 25] 4
+[26, 40] 11
+[41, 60] 25
+[61, 75] 52
+[76, 100] 9
+Unknown 18
+Gender Female 50
+Male 63
+Unknown 7
+BMI (kg/m(2)) < 18.5 6
+[18.5, 25) 19
+>=25 37
+Unknown 58
+ Performance Testing Summary
+The average score of the proposed device results to be validated is 5 points, which
+is greater than 4 points. Meanwhile, the subgroup analysis shows that (Table 8-3)
+the proposed device algorithm has good generalization in different subgroups.
+Table 8-3. Subgroup performance test
+Ethnicity Average Score of All Test Dataset
+U.S. 5.0
+Asia 5.0
+Age Average Score of All Test Dataset
+[22, 25] 5.0
+[26, 40] 5.0
+[41, 60] 5.0
+[61, 75] 5.0
+[76, 100] 5.0
+Unknown 5.0
+Gender Average Score of All Test Dataset
+Female 5.0
+Male 5.0
+Unknown 5.0
+Page 21 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+BMI (kg/m(2)) Average Score of All Test Dataset
+< 18.5 5.0
+[18.5, 25) 5.0
+>=25 5.0
+Unknown 5.0
+ Standard Annotation Process
+For ground truth annotations, all ground truth are annotated by well-trained
+annotators.
+The annotators use an interactive tool to observe the image, and then set annotation
+points near the center of vertebral body and assign anatomical labels. Finally, all
+ground truth are evaluated by two licensed physicians with U.S. credentials.
+ Testing & Training Data Independence
+The training data used for the training of the spine labeling algorithm is
+independent of the data used to test the algorithm.
+2. Rib labeling Algorithm
+The performance testing for deep learning-based rib labeling algorithm was
+performed on 120 subjects (data shown in Table 8-5) during the product
+development.
+ Acceptance Criteria
+The validation type and acceptance criteria is shown in the Table 8-4 below:
+Table 8-4. Validation type and acceptance criteria
+Validation Type Acceptance Criteria
+Score based on ground truth The average score of the proposed device
+results is higher than 4 points.
+ Testing Data Information
+1) Equipment and Protocols
+CT data were acquired from five major manufacturers (GE, Phillips, Siemens,
+Toshiba, UIH), and with tube voltage of 80 - 140kVp, slice thickness of 0.625-3.75
+mm.
+2) Clinical Subgroup Information
+The subgroup information of testing data is summarized below.
+Table 8-5. Testing data subgroup information
+Subgroup Details of each subgroup Sample Size
+Ethnicity U.S. 80
+Asia 40
+Age [22, 25] 4
+[26, 40] 14
+[41, 60] 25
+[61, 75] 46
+[76, 100] 18
+Unknown 13
+Page 22 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Gender Female 54
+Male 66
+BMI (kg/m(2)) < 18.5 10
+[18.5, 25) 23
+>=25 36
+Unknown 51
+ Performance Testing Summary
+The average score of the proposed device results to be validated is 5 points, which
+is greater than 4 points. Meanwhile, the subgroup analysis shows that (Table 8-6)
+the proposed device algorithm has good generalization in different subgroups.
+Table 8-6. Subgroup performance test
+Ethnicity Average Score of All Test Dataset
+U.S. 5.0
+Asia 5.0
+Age Average Score of All Test Dataset
+[22, 25] 5.0
+[26, 40] 5.0
+[41, 60] 5.0
+[61, 75] 5.0
+[76, 100] 5.0
+Unknown 5.0
+Gender Average Score of All Test Dataset
+Female 5.0
+Male 5.0
+BMI (kg/m(2)) Average Score of All Test Dataset
+< 18.5 5.0
+[18.5, 25) 5.0
+>=25 5.0
+Unknown 5.0
+ Standard Annotation Process
+For ground truth annotations, all ground truth are annotated by well-trained
+annotators. A threshold based interactive tool is used to generate initial rib mask,
+then annotators will refine the rib mask and assign anatomical labels. After the first
+round annotation, they will check each other’s annotation. Finally, all ground truth
+are evaluated by two licensed physicians with U.S. credentials.
+ Testing & Training Data Independence
+The training data used for the training of the rib labeling algorithm is independent
+of the data used to test the algorithm.
+3. TAVR analysis algorithm
+The performance testing for the AI-based TAVR analysis algorithm was performed
+on 60 subjects (data shown in Table 8-8) during the product development.
+ Acceptance Criteria
+Page 23 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+The validation type and acceptance criteria are shown in Table 8-7 below:
+Table 8-7. Validation type and acceptance criteria
+Validation Type Acceptance Criteria
+Verify the consistency with ground truth The mean landmark error between the
+proposed device results and ground truth
+is less than the threshold, 1 mm.
+Subjective Scoring of doctors with U.S. The average score of the evaluation
+professional qualifications criteria is higher than 2.
+ Testing Data Information
+Table 8-8. Testing data information
+Information of data Details of each subgroup Sample size
+Sex Male 29
+Female 21
+Unknown 10
+Age [40, 60) 9
+[60, 70) 16
+[70, 80) 14
+[80, 100) 11
+Unknown 10
+Ethnicity Asia 25
+U.S. 35
+US. Facility U.S. Facility 1 25
+U.S. Facility 2 10
+ Performance Testing Summary:
+The Mean Landmark Error for all data is 0.86 mm, which is less than 1mm. The
+average scores of two MD with the American Board of Radiology Qualification
+on the testing data set is 3, which is higher than 2. Meanwhile, the subgroup
+analysis shows that (Table 8-9) the performance of the algorithm consists of
+different subgroups.
+Table 8-9. Subgroup performance test
+All Mean Landmark Error (mm) Average Score
+All data 0.86 3
+Age Mean Landmark Error (mm) Average Score
+[40, 60) 0.888 3
+[60, 70) 0.818 3
+[70, 80) 0.907 3
+[80, 100) 0.845 3
+unknown 0.85 3
+Gender Mean Landmark Error (mm) Average Score
+Female 0.9 3
+Male 0.834 3
+Unknown 0.85 3
+Ethnicity Mean Landmark Error (mm) Average Score
+Asia 0.852 3
+U.S. 0.866 3
+US. Facility Mean Landmark Error (mm) Average Score
+U.S. Facility 1 0.872 3
+Page 24 of 25Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+U.S. Facility 2 0.85 3
+ Standard Annotation Process
+For ground truth annotations, all ground truth are annotated by well-trained
+annotators. After the first round of annotation, they will check each other’s
+annotation. Finally, all ground truth are evaluated by two licensed physicians with
+U.S. credentials.
+ Testing & Training Data Independence
+The training data used for the training of the post-processing algorithm is
+independent of the data used to test the algorithm.
+Other Standards and Guidance
+ NEMA PS 3.1 - 3.20 Digital Imaging and Communications in Medicine
+(DICOM) Set (2016).
+ ISO 14971 Medical devices - Application of risk management to medical
+devices (Edition 2.0, corrected version, 2007).
+ IEC 62304 Medical device software - Software life cycle processes (Edition
+1.1, 2015).
+Summary
+The features described in this premarket submission are supported with the results
+of the testing mentioned above; the uOmnispace.CT was found to have a safety and
+effectiveness profile that is similar to the predicate device and reference devices.
+9. Substantially Equivalent (SE) Conclusion
+The proposed device is equivalent to the predicate device with regard to safety
+and efficacy. This conclusion is based upon a comparison of intended use,
+technological characteristics, performance specification, device hazards as well as
+verification and validation results.
+In summary, the proposed device is determined to be Substantially Equivalent (SE)
+to the predicate device and reference devices.
+Page 25 of 25

@@ -1,0 +1,495 @@
+Brainomix Limited
+℅ Zsolt Szrnka
+Regulatory Affairs Manager
+First Floor Seacourt Tower
+West Way
+Oxford, OX2 0JJ
+United Kingdom
+November 21, 2023
+Re: K232496
+Trade/Device Name: Brainomix 360 Triage Stroke
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: November 6, 2023
+Received: November 6, 2023
+Dear Zsolt Szrnka:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.05
+Silver Spring, MD 20993
+www.fda.govK232496 - Zsolt Szrnka Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K232496
+Device Name
+Brainomix 360 Triage Stroke
+Indications for Use (Describe)
+Brainomix 360 Triage Stroke is a radiological computer aided triage and notification software indicated for use in the
+analysis of non-contrast head CT (NCCT) images to assist hospital networks and trained clinicians in workflow triage by
+flagging and communicating suspected positive findings of head NCCT images for large vessel occlusion (LVO) of the
+intracranial ICA and M1 and intracranial hemorrhage (ICH). Specifically, the device is intended to be used for the triage
+of images acquired from adult patients in the acute setting, within 24 hours of the onset of the acute symptoms, or where
+this is unclear, since last known well (LKW) time. It is not intended to detect isolated subarachnoid hemorrhage and
+symmetrical bilateral MCA occlusions.
+Brainomix 360 Triage Stroke uses an artificial intelligence algorithm to analyze images and highlight cases with detected
+NCCT LVO or ICH on the Brainomix server on premise or in the cloud in parallel to the ongoing standard of care image
+interpretation. The user is presented with notifications for cases with suspected LVO or ICH findings via a web user
+interface or mobile application. Notifications include compressed preview images that are meant for informational
+purposes only and are not intended for diagnostic use beyond notification.
+The device does not alter the original medical image, and it is not intended to be used as a primary diagnostic device. The
+results of Brainomix 360 Triage Stroke are intended to be used in conjunction with other patient information and based on
+professional judgment to assist with triage/prioritization of medical images. Notified clinicians are ultimately responsible
+for reviewing full images per the standard of care.
+Cautions:
+• All patients should get adequate care for their symptoms, including angiography and/or other appropriate care per the
+standard clinical practice, irrespective of the output of Brainomix 360 Triage Stroke.
+• Brainomix 360 Triage Stroke is not intended to be a rule-out device and for cases that have been processed by the device
+without notification for "Suspected L VO" should not be viewed as indicating that LVO is excluded. All cases should
+undergo angiography, per the standard stroke workup.
+Limitations:
+• Brainomix 360 Triage Stroke is not intended for mobile diagnostic use. Images viewed on a mobile platform are
+compressed preview images and not for diagnostic interpretation.
+• Brainomix 360 Triage Stroke does not replace the need for CT A in ischemic stroke workup - it provides workflow
+prioritization and notification only.
+• Brainomix 360 Triage Stroke has been validated and is intended to be used on Siemens, GE and Philips scanners.
+• Brainomix 360 Triage Stroke is not intended to be used on patients with recent (within 6 weeks) neurosurgery or
+endovascular neurointervention or recent (within 4 weeks) previous diagnosis of stroke.
+• Brainomix 360 Triage Stroke is not intended to detect isolated subarachnoid hemorrhage and symmetrical bilateral MCA
+occlusions.
+Contraindications: Brainomix 360 Triage Stroke is not suitable for use with scan data containing image features
+associated with:
+• tumors or abscesses
+• coils, shunts, embolization or movement artifacts
+FORM FDA 3881 (6/20) Page 1 of 2 PSC Publishing Services (301) 443-6740 EFBrainomix 360 Triage Stroke is not intended to be used for analyzing CT images in intracranial vascular pathologies such
+as arterial aneurysms, arteriovenous malformations or venous thrombosis.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 2 of 2Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+K232496
+510(K) Summary
+Brainomix 360 Triage Stroke
+Date Prepared: 16Aug2023
+Applicant’s name: Brainomix Limited
+Applicant’s address: First Floor, Seacourt Tower, West Way
+Oxford, OX2 0JJ
+United Kingdom
+Official contact: Zsolt Szrnka
++44 (0)1865 582730
+regulatory@brainomix.com
+Device Trade Name: Brainomix 360 Triage Stroke
+Device Common Name: Radiological Computer-Assisted Triage and Notification Software
+Regulatory Class: Class II
+Product Code: QAS
+Regulation No: 21 C.F.R. §892.2080
+Classification Panel: Radiology Devices
+Predicate Device
+The Brainomix 360 Triage Stroke device is claimed to be substantially equivalent to the following legally marketed
+predicate device: iSchemaView’s Rapid NCCT Stroke (K222884).
+Indications for Use
+Brainomix 360 Triage Stroke is a radiological computer aided triage and notification software indicated for use in
+the analysis of non-contrast head CT (NCCT) images to assist hospital networks and trained clinicians in workflow
+triage by flagging and communicating suspected positive findings of head NCCT images for large vessel occlusion
+(LVO) of the intracranial ICA and M1 and intracranial hemorrhage (ICH). Specifically, the device is intended to be
+used for the triage of images acquired from adult patients in the acute setting, within 24 hours of the onset of the
+acute symptoms, or where this is unclear, since last known well (LKW) time. It is not intended to detect isolated
+subarachnoid hemorrhage and symmetrical bilateral MCA occlusions.
+Brainomix 360 Triage Stroke uses an artificial intelligence algorithm to analyze images and highlight cases with
+detected NCCT LVO or ICH on the Brainomix server on premise or in the cloud in parallel to the ongoing standard
+of care image interpretation. The user is presented with notifications for cases with suspected LVO or ICH findings
+via a web user interface or mobile application. Notifications include compressed preview images that are meant for
+informational purposes only and are not intended for diagnostic use beyond notification.
+The device does not alter the original medical image, and it is not intended to be used as a primary diagnostic
+device. The results of Brainomix 360 Triage Stroke are intended to be used in conjunction with other patient
+information and based on professional judgment to assist with triage/prioritization of medical images. Notified
+clinicians are ultimately responsible for reviewing full images per the standard of care.
+RCD-42-155-3Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+Cautions:
+• All patients should get adequate care for their symptoms, including angiography and/or other appropriate
+care per the standard clinical practice, irrespective of the output of Brainomix 360 Triage Stroke.
+• Brainomix 360 Triage Stroke is not intended to be a rule-out device and for cases that have been processed
+by the device without notification for “Suspected LVO” should not be viewed as indicating that LVO is
+excluded. All cases should undergo angiography, per the standard stroke workup.
+Limitations:
+• Brainomix 360 Triage Stroke is not intended for mobile diagnostic use. Images viewed on a mobile platform
+are compressed preview images and not for diagnostic interpretation.
+• Brainomix 360 Triage Stroke does not replace the need for CTA in ischemic stroke workup - it provides
+workflow prioritization and notification only.
+• Brainomix 360 Triage Stroke has been validated and is intended to be used on Siemens, GE and Philips
+scanners.
+• Brainomix 360 Triage Stroke is not intended to be used on patients with recent (within 6 weeks)
+neurosurgery or endovascular neurointervention or recent (within 4 weeks) previous diagnosis of stroke.
+• Brainomix 360 Triage Stroke is not intended to detect isolated subarachnoid hemorrhage and symmetrical
+bilateral MCA occlusions.
+Contraindications:
+Brainomix 360 Triage Stroke is not suitable for use with scan data containing image features associated with:
+• tumors or abscesses
+• coils, shunts, embolization or movement artifacts
+Brainomix 360 Triage Stroke is not intended to be used for analyzing CT images in intracranial vascular pathologies
+such as arterial aneurysms, arteriovenous malformations or venous thrombosis.
+Device Description
+Brainomix 360 Triage Stroke is a radiological computer aided triage and notification software package compliant
+with the DICOM standard and running on an off-the-shelf physical or virtual server.
+The Triage Stroke module is a non-contrast CT processing module which operates within the integrated Brainomix
+360 Platform to provide triage and notification prioritization of suspected large vessel occlusion (LVO) and
+intracranial hemorrhage (ICH). Brainomix 360 Triage Stroke is a stand-alone software device which uses machine
+learning algorithms that uses advanced non adaptive imaging algorithms, artificial intelligence, and large data
+analytics to automatically identify suspected LVO and ICH on non-contrast CT (NCCT) imaging acquired from adult
+patients in the acute setting, within 24 hours of the onset of the acute symptoms, or where this is unclear, since
+last known well (LKW) time. The output of the module is a priority notification to clinicians indicating the suspicion
+of LVO or ICH based on positive findings. Specifically, Brainomix 360 Triage Stroke’s ICH analysis is optimized to
+identify findings of hyperdense volume in the parenchyma typically associated with acute intracranial hemorrhage;
+and the NCCT LVO suspicion uses the combined analysis of the ASPECTS and hyperdense vessel sign (HDVS)
+algorithms. It is not intended to detect isolated subarachnoid hemorrhage and symmetrical bilateral MCA
+occlusions. The Triage Stroke module uses the basic services supplied by the Brainomix 360 Platform including
+DICOM processing, job management, imaging module execution and imaging output including the notification and
+compressed image.
+RCD-42-155-3Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+Brainomix 360 Triage Stroke notification capabilities enable clinicians to review and preview images via mobile app
+notification. Alternatively, intended users can also access the notification (a “Suspected LVO” or “Suspected
+hemorrhage” flag) and straightened images via the Brainomix 360 web user interface. Images that are previewed
+via mobile app are compressed, are for preview informational purposes only, and not intended for diagnostic use
+beyond notification.
+The device is intended for use as an additional tool for assisting study triage within existing patient pathways. It
+does not replace any part of the current standard of care. It is designed to assist in prioritization of studies for
+reading within a worklist, in addition to any other pre-existing formal or informal methods of study prioritization in
+place. Specifically, it does not remove cases from a reading queue and operates in parallel to the standard of care.
+This device is not intended to replace the usual methods of communication and transfer of information in the
+current standard of care.
+Comparison of Technological Characteristics
+Both subject and predicate device use automatic data identification and transfer to send images from the local
+hospital network to a remote server for image processing and analysis, i.e., via a DICOM router that automatically
+identifies relevant images on a local IT Network and transfers them to a Backend Server using a DICOM compliant
+communication protocol. The Backend Server software for each device has the same additional software
+functionality that interacts with the image management architecture, including a notifier module.
+Both subject and predicate device provide triage and notification of suspected ICH and LVO. In case of both devices,
+the ICH analysis is optimized to identify findings of hyperdense volume in the parenchyma typically associated with
+acute ICH; and the NCCT LVO suspicion uses the combined analysis of the ASPECTS and hyperdense vessel sign
+(HDVS) algorithms. The algorithms do not externalize any internal segmentation, analysis, or intermediate outputs
+used in determining if an ICH or LVO is present in the NCCT, nor does either algorithm mark the analyzed NCCT
+image. Both devices support a mobile application that allows a user to receive push notifications, preview related
+images, and view patient details associated with a series. The mobile application of both devices is subject to non-
+diagnostic viewing limitations and have a non-diagnostic warning on the image viewing screen.
+Where subject device differs from the predicate is that Brainomix 360 Triage Stroke may also notify the user of a
+suspected LVO or ICH via a web user interface, as an additional output. The unprocessed images are subjected to
+rotation and resampling (pre-processing and registration) which do not alter the original imaging in relation to aid
+for diagnostic. Identically to the predicate, the notified clinicians are responsible for viewing non-compressed
+images on a diagnostic viewer and engaging in appropriate patient evaluation and relevant discussion with a
+treating physician before making care-related decisions or requests. Therefore, the technical differences in how the
+notification may be sent to the user between the proposed and predicate devices do not raise different questions
+of safety and effectiveness. The predicate device offers two additional channels of notification via email and PACS,
+which the subject device does not, and therefore, the risks associated with these are not applicable to the subject
+device.
+The below table summarizes and compares data on the Brainomix 360 Triage Stroke device, the subject of this filing,
+with the Rapid NCCT Stroke device (K222884).
+Characteristic/Parameter Brainomix 360 Triage Stroke iSchemaView Rapid NCCT Stroke
+Subject Device (K232496) Predicate Device (K222884)
+Product Code QAS QAS
+Regulation 21 C.F.R. §892.2080 21 C.F.R. §892.2080
+RCD-42-155-3Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+Indications for Use Brainomix 360 Triage Stroke is a radiological Rapid NCCT Stroke is a radiological
+computer aided triage and notification computer aided triage and notification
+software indicated for use in the analysis of software indicated for use in the analysis
+non-contrast head CT (NCCT) images to assist of (1) nonenhanced head CT (NCCT)
+hospital networks and trained clinicians in images. The device is intended to assist
+workflow triage by flagging and hospital networks and trained clinicians in
+communicating suspected positive findings of workflow triage by flagging and
+head NCCT images for large vessel occlusion communicating suspected positive findings
+(LVO) of the intracranial ICA and M1 and of (1) head CT images for Intracranial
+intracranial hemorrhage (ICH). Specifically, the Hemorrhage (ICH) and (2) NCCT large
+device is intended to be used for the triage of vessel occlusion (LVO) of the ICA and MCA-
+images acquired from adult patients in the M1.
+acute setting, within 24 hours of the onset of
+Rapid NCCT Stroke uses an artificial
+the acute symptoms, or where this is unclear,
+intelligence algorithm to analyze images
+since last known well (LKW) time. It is not
+and highlight cases with detected (1) ICH
+intended to detect isolated subarachnoid
+or (2) NCCT LVO on the Rapid server on
+hemorrhage and symmetrical bilateral MCA
+premise or in the cloud in parallel to the
+occlusions.
+ongoing standard of care image
+Brainomix 360 Triage Stroke uses an artificial interpretation. The user is presented with
+intelligence algorithm to analyze images and notifications for cases with suspected ICH
+highlight cases with detected NCCT LVO or ICH or LVO findings via PACS, email or mobile
+on the Brainomix server on premise or in the device. Notifications include compressed
+cloud in parallel to the ongoing standard of preview images that are meant for
+care image interpretation. The user is informational purposes only, and are not
+presented with notifications for cases with intended for diagnostic use beyond
+suspected LVO or ICH findings via a web user notification.
+interface or mobile application. Notifications
+The device does not alter the original
+include compressed preview images that are
+medical image, and it is not intended to be
+meant for informational purposes only and are
+used as a primary diagnostic device. The
+not intended for diagnostic use beyond
+results of Rapid NCCT Stroke are intended
+notification.
+to be used in conjunction with other
+The device does not alter the original medical patient information and based on
+image, and it is not intended to be used as a professional judgment to assist with
+primary diagnostic device. The results of triage/prioritization of medical images.
+Brainomix 360 Triage Stroke are intended to Notified clinicians are ultimately
+be used in conjunction with other patient responsible for reviewing full images per
+information and based on professional the standard of care. Rapid NCCT Stroke is
+judgment to assist with triage/prioritization of for Adults only.
+medical images. Notified clinicians are
+Cautions:
+ultimately responsible for reviewing full
+images per the standard of care. • All patients should get adequate care
+for their symptoms including CTA or
+Cautions:
+MRA and/or other appropriate care per
+• All patients should get adequate care for the standard clinical practice,
+their symptoms, including angiography irrespective of the device output.
+and/or other appropriate care per the • The device is not intended to be a rule-
+standard clinical practice, irrespective of the out device and for cases that have been
+output of Brainomix 360 Triage Stroke. processed by the device without
+• Brainomix 360 Triage Stroke is not intended notification for “Suspected LVO” should
+to be a rule-out device and for cases that not be viewed as indicating that LVO is
+have been processed by the device without excluded. All cases should undergo CTA
+notification for “Suspected LVO” should not or MRA, per the standard stroke
+be viewed as indicating that LVO is workup.
+excluded. All cases should undergo
+RCD-42-155-3Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+angiography, per the standard stroke Limitations:
+workup.
+• Rapid NCCT Stroke does not replace the
+Limitations: need for CTA in ischemic stroke workup,
+it provides workflow prioritization and
+• Brainomix 360 Triage Stroke is not intended
+notification only.
+for mobile diagnostic use. Images viewed
+• Rapid ICH has been shown to reliably
+on a mobile platform are compressed
+identify hemorrhages of ≥ 0.4ml.
+preview images and not for diagnostic
+interpretation. Contraindications/Exclusions/Cautions:
+• Brainomix 360 Triage Stroke does not
+• Patient Motion: excessive motion
+replace the need for CTA in ischemic stroke
+leading to artifacts that make the scan
+workup - it provides workflow prioritization
+technically inadequate.
+and notification only.
+• Hemorrhagic Transformation,
+• Brainomix 360 Triage Stroke has been
+Hematoma
+validated and is intended to be used on
+Siemens, GE and Philips scanners. Very thin or no Ventricles
+• Brainomix 360 Triage Stroke is not intended
+to be used on patients with recent (within 6
+weeks) neurosurgery or endovascular
+neurointervention or recent (within 4
+weeks) previous diagnosis of stroke.
+• Brainomix 360 Triage Stroke is not intended
+to detect isolated subarachnoid
+hemorrhage and symmetrical bilateral MCA
+occlusions.
+Contraindications:
+Brainomix 360 Triage Stroke is not suitable for
+use with scan data containing image features
+associated with:
+• tumors or abscesses
+• coils, shunts, embolization or movement
+artifacts
+Brainomix 360 Triage Stroke is not intended to
+be used for analyzing CT images in intracranial
+vascular pathologies such as arterial
+aneurysms, arteriovenous malformations or
+venous thrombosis.
+Environment of use Clinical/Hospital environment Clinical/Hospital environment
+User Clinician Clinician
+Anatomical Region Head Head
+Input Data NCCT (ICH and LVO) NCCT (ICH and LVO)
+Technical Implementation AI/ML/Neural Network AI/ML/Neural Network
+Diagnostic application Notification-only Notification-only
+Results of image analysis Internal, no image marking Internal, no image marking
+Segmentation of ROI The device does not highlight or direct user’s The device does not highlight or direct
+attention to a specific location in the image user’s attention to a specific location in the
+file image file
+Notification Display PACS, email and mobile device Web user interface and mobile device
+Preview Images Presentation of a preview of the study for Presentation of a preview of the study for
+initial assessment not meant for diagnostic initial assessment not meant for diagnostic
+purposes. purposes.
+RCD-42-155-3Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+The device operates in parallel with the The device operates in parallel with the
+standard of care. standard of care.
+Annotation / Localization Device does not mark, highlight, or direct Device does not mark, highlight, or direct
+users’ attention to a specific location in the users’ attention to a specific location in the
+original image original image
+Results of Image Analysis Internal, no image marking Internal, no image marking
+Prioritization Notification Yes Yes
+Clinical SoC Workflow In parallel to In parallel to
+Technical Pipeline Two cascaded functions (ICH then LVO) using Two cascaded functions (ICH then LVO)
+three integrated algorithms using three integrated algorithms
+Removal of Cases from No No
+SoC review
+Performance Data
+A retrospective study was conducted with the primary endpoint of assessing the performance of Brainomix 360
+Triage Stroke in identifying NCCT head images containing intracranial hemorrhage (ICH) or large vessel occlusion
+(LVO) findings in 267 cases (ICH positive: 40 cases; LVO positive: 112 cases; Negative for ICH or LVO: 115; excluded:
+3 cases due to technical inadequacy). ICH positive cases were previously truthed using NCCT imaging with additional
+clinical information as described in the standalone study for our previously cleared device, Brainomix 360 Triage
+ICH (K231195). The LVO positive and negative cases were truthed using acute CTA imaging and additional clinical
+information by consensus of three experienced US board certified neuroradiologists.
+Sensitivity and specificity exceeded the pre-specified performance goals for ICH and NCCT LVO. Specifically, ICH
+performance was observed at 92.5% sensitivity (95% CI: 80.97-98.36%) and 87.22% specificity (CI: 82.39-91.18%).
+These results were consistent with the Triage ICH standalone module performance (K231195). NCCT LVO
+performance was observed at 68.75% sensitivity (CI: 59.71-76.90%) and 89.57% specificity (CI: 82.92-94.36%).
+In addition, a reader study was conducted to compare NCCT LVO sensitivity of the device to that of radiologists.
+Secondary endpoints of expert non-inferiority and non-expert superiority were used. Triage Stroke passed both
+conditions, with a sensitivity for all readers (experts and non-experts) of 47.94% (CI: 37.91-57.97%). The difference
+between the device’s sensitivity and that of all readers was 20.52% (CI: 8.26-32.78%). The general radiologists (non-
+experts) performed with a sensitivity of 47.18% (CI: 33.62-60.75%). The difference between the device and non-
+expert sensitivity was 21.28% (CI: 5.84-36.72%).
+The Triage Stroke time-to-notification analysis includes three steps: (1) the time taken to transfer the image for
+DICOM transfer, (2) the device processing time, and (3) the time taken to deliver a notification after processing.
+The combined time-to-notification was compared to an acceptability criterion of 3.5 minutes. The minimum and
+maximum estimates for each of the three steps was assessed and combined to create a range of expected values
+for the total time-to-notification. The results were a minimum expected time-to-notification of 62 seconds, and a
+maximum of 134 seconds. This met the acceptability criterion of time-to-notification of under 3.5 minutes.
+Performance across subgroups
+Subgroup analyses were conducted for the LVO indication (the ICH algorithm is the same as the device cleared
+under K231195). The analyses assessed performance across age, gender, slice thickness and scanner manufacturer
+subgroups.
+Metrics 21 < Age < 50 50 ≤ Age < 70 Age ≥ 70
+Total Positives 13 39 60
+RCD-42-155-3Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+Sensitivity 84.62% (58.59-97.46) 74.36% (59.09-86.41) 61.67% (48.93-73.39)
+Specificity 94.74% (77.09-99.67) 89.09% (78.7-95.74) 87.8% (75.07-95.75)
+Metrics Female Male
+Total Positives 48 64
+Sensitivity 75.0% (61.4-85.89) 64.06% (51.78-75.19)
+Specificity 88.14% (77.94-94.92) 91.07% (81.32-96.95)
+Metrics Slice Thickness 1 mm ≤ Slice Thickness Slice Thickness
+< 1 mm < 3 mm ≥ 3 mm
+Total Positives 44 25 42
+Sensitivity 61.36% (46.46-74.93) 76.0% (56.8-90.0) 71.43% (56.52-83.7)
+Specificity 87.76% (76.29-95.19) 96.67% (84.74-99.79) 86.11% (71.95-95.11)
+Metrics SIEMENS GE MEDICAL SYSTEMS Philips
+Total Positives 48 33 27
+Sensitivity 62.5% (48.25-75.4) 69.7% (52.68-83.68) 77.78% (59.56-90.82)
+Specificity 88.24% (77.15-95.39) 83.87% (67.93-94.24) 96.97% (86.02-99.81)
+Additional subgroup analysis is reported in the labeling. In summary, the performance validation data
+demonstrated that the proposed device provides accurate detection of acute ICH and LVO under a range of clinically
+relevant variables associated with the intended use of the software. The notification functionality of the device also
+met the acceptability criterion.
+Prescriptive Statement
+Caution: Federal law restricts this device to sale by or on the order of a physician.
+Safety and Effectiveness
+Brainomix 360 Triage Stroke has been designed, verified and validated in compliance with 21 CFR Part 820.30
+requirements. The device has been designed to meet the requirements associated with EN ISO 14971:2019 for risk
+management and the software development process conforms to IEC 62304:2015. The performance of Brainomix
+360 Triage Stroke has been validated through retrospective case data based on expert reader truthing of the data
+and reader testing.
+Substantial Equivalence Discussion
+The subject device includes similar features as compared to the predicate device. Both devices have substantially
+equivalent indications for use, technical approaches and roles within a clinical workflow relative to triage and
+notification. Both devices are intended to automatically process and analyze non-contrast CT scans to provide a
+notification to users in case of a suspected LVO or ICH being identified. The subject device does not introduce any
+new risks when compared to the predicate and both include similar mitigation strategies for reducing the risk of off
+label use of preview images which are shared via mobile. Compared to the predicate device, the subject device
+RCD-42-155-3Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+offers one additional channel of notification (web user interface), while the predicate offers notification via email
+and PACS, which the subject device does not.
+Conclusion
+In conclusion, Brainomix 360 Triage Stroke has the same intended use and is substantially equivalent in
+technological characteristics, safety, and performance characteristics to the legally marketed predicate device,
+Rapid NCCT Stroke (K222884).
+RCD-42-155-3

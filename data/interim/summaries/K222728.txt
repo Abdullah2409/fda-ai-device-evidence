@@ -1,0 +1,773 @@
+University of Texas, MD Anderson Cancer Center May 17, 2023
+℅ Ms. Stella Tsai
+Sr. Project Manager
+1515 Holcombe Blvd.
+HOUSTON TX 77030
+Re: K222728
+Trade/Device Name: Radiation Planning Assistant (RPA)
+Regulation Number: 21 CFR 892.5050
+Regulation Name: Medical charged-particle radiation therapy system
+Regulatory Class: Class II
+Product Code: MUJ
+Dated: April 17, 2023
+Received: April 17, 2023
+Dear Ms. Stella Tsai:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-K222728 - Ms. Stella Tsai Page 2
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Digitally signed by
+Lora D.
+Lora D. Weidner -S
+Date: 2023.05.17
+Weidner -S
+07:14:45 -04'00'
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEAL TH AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+51 0(k) Number (if known)
+K222728
+Device Name
+Radiation Planning Assistant (RPA)
+Indications for Use (Describe)
+The Radiation Planning Assistant (RPA) is used to plan radiotherapy treatments for patients with cancers of the head and
+neck, cervix, breast, and metastases to the brain. The RPA is used to plan external beam irradiation with photon beams
+using CT images. The RP A is used to create contours and treatment plans that the user imports into their own Treatment
+Planning System (TPS) for review, editing, and re-calculation of the dose.
+Some functions of the RPA use Eclipse 15.6. The RPA is not intended to be used as a primary treatment planning system.
+All automatically generated contours and plans must be imported into the user's own treatment planning system for
+review, edit, and final dose calculation.
+Type of Use (Select one or both, as applicable)
+IZI D
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."
+FORM FDA 3881 (6120) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(k) Summary Radiation Planning Assistant (RPA)
+K222728
+DATE PREPARED: 16 May 2023
+1. SUBMITTER
+Manufacturer Name: The University of Texas MD Anderson Cancer Center
+Department of Radiation Physics
+Division of Radiation Oncology
+1515 Holcombe Blvd.
+Houston, TX 77030
+Official Contact: Stella Tsai, MHA, CCRA
+Sr. Project Director, IND Office
+The University of Texas MD Anderson Cancer Center
+1515 Holcombe Blvd. Unit 1634
+Houston, TX 77030
+Telephone (713) 563-5464
+swtsai@mdanderson.org
+2. DEVICE
+Name of Device: Radiation Planning Assistant (RPA)
+Common or Usual Name: System, Planning, Radiation Therapy Treatment
+Classification Name: 21CFR 892.5050 - Medical charged-particle radiation
+therapy system
+Regulatory Class: II
+Product Code: MUJ
+3. PREDICATE DEVICE
+Eclipse Treatment Planning System v15.6 (K181145)
+4. DEVICE DESCRIPTION
+Design Characteristics
+The Radiation Planning Assistant (RPA) is a web-based contouring and radiotherapy treatment
+planning software tool that incorporates the basic radiation planning functions from automated
+contouring, automated planning with dose optimization, and quality control checks. The system
+is intended for use for patients with cancer of the head and neck, cervix, breast, and metastases to
+the brain. The RPA system is integrated with the Eclipse Treatment Planning System v15.6
+software cleared under K181145. The RPA radiation treatment planning software tool was trained
+against hundreds / thousands of CT Scans of normal and diseased tissues from patients receiving
+radiation for head and neck, cervical, breast, and whole brain at MD Anderson Cancer Center.
+Page 1 of 18510(k) Summary Radiation Planning Assistant (RPA)
+5. INDICATIONS FOR USE
+The Radiation Planning Assistant (RPA) is used to plan radiotherapy treatments for patients with
+cancers of the head and neck, cervix, breast, and metastases to the brain.
+The RPA is used to plan external beam irradiation with photon beams using computerized
+tomography (CT) images. The RPA is used to create contours and treatment plans that the user
+imports into their own Treatment Planning System (TPS) for review, editing, and re-calculation
+of the dose.
+Some functions of the RPA use Eclipse 15.6. The RPA is not intended to be used as a primary
+treatment planning system. All automatically generated contours and plans must be imported into
+the user’s own treatment planning system for review, edit, and final dose calculation.
+6. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS
+WITH THE PREDICATE DEVICE
+The Radiation Planning Assistant (RPA) is substantially equivalent to the Eclipse Treatment
+Planning System v15.6 (K181145) predicate device in the following respects:
+Page 2 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 1: Comparison of the Technological Characteristics of the RPA with Predicate
+Device
+Subject Device Predicate Device
+Eclipse Treatment Planning System Version
+Radiation Planning Assistant (RPA)
+15.6
+K181145
+CFR
+892.5050 892.5050
+Citation
+Product
+MUJ MUJ
+Code
+The Radiation Planning Assistant (RPA) is The Eclipse Treatment Planning System
+used to plan radiotherapy treatments for (Eclipse TPS) is used to plan radiotherapy
+patients with cancers of the head and neck, treatments for patients with malignant or
+cervix, breast, and metastases to the brain. The benign diseases. Eclipse TPS is used to plan
+RPA is used to plan external beam irradiation external beam irradiation with photon, electron,
+with photon beams using computerized and proton beams, as well as for internal
+tomography (CT) images. The RPA is used to irradiation (brachytherapy) treatments.
+create contours and treatment plans that the
+Indications user imports into their own Treatment Planning
+for Use System (TPS) for review, editing, and re-
+calculation of the dose.
+Some functions of the RPA use Eclipse
+v.15.6. The RPA is not intended to be used as
+a primary treatment planning system. All
+automatically generated contours and plans
+must be imported into the user’s own
+treatment planning system for review, edit,
+and final dose calculation.
+Device
+The Radiation Planning Assistant (RPA) is a The Varian Eclipse™ Treatment Planning
+Description
+web-based contouring and radiotherapy System (Eclipse TPS) provides software tools
+treatment planning software tool that for planning the treatment of malignant or
+incorporates the basic radiation planning benign diseases with radiation. Eclipse TPS is
+functions from automated contouring, a computer-based software device used by
+automated planning with dose optimization, trained medical professionals to design and
+and quality control checks. The system is simulate radiation therapy treatments.
+intended for use for patients with cancer of the
+Eclipse TPS is capable of planning treatments
+head and neck, cervix, breast, and metastases to
+for external beam irradiation with photon,
+the brain. The RPA system is integrated with
+electron, and proton beams, as well as for
+the Eclipse Treatment Planning System v.15.6
+internal irradiation (brachytherapy) treatments.
+software cleared under K181145.
+Page 3 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 2: Comparison of Functions of the Subject Device with Functions of the Predicate Device
+Comparison of the RPA System’s Software Functions with
+Eclipse Treatment Planning System Version 15.6 (K181145)
+Software Description of Functions Available in Rationale for
+Differences Similarities
+Function Eclipse Substantial Equivalence
+1. Organ-specific autocontouring algorithms. Eclipse The RPA uses deep learning algorithms Use and function: The RPA Devices are Substantially
+v.15.6 includes the following organ-specific which Eclipse does not. provides autocontouring for a Equivalent. Both devices
+autocontouring algorithms for the following organs: Use and function: In Eclipse, the user edits range of structures, including provide autocontouring
+spine, lung, brain, eye, bone. the contours prior to planning. This is the most of those listed here for functions for the same
+2. Expert Segmentation. Eclipse v.15.6 includes an atlas- same for complex planning in the RPA Eclipse. anatomical regions. Both
+based contouring approach (“expert segmentation”) for (VMAT planning for head / neck and cervix). Performance data: The devices require user edits of
+autocontouring of many structures, including: It is different for simple plans, where the plan algorithm for Expert contours with ‘complex plans’
+• Head / neck region: Body, bones, brainstem, is generated before the user reviews the Segmentation in Eclipse is prior to planning.
+cochlea, esophagus, eyes, mandible, oral cavity, contours. If the user edits the contours in the very similar to the Multi-Atlas
+various lymph nodes RPA, they will have to delete the plan as Contouring System (MACS)
+• Breast region: Body, heart, trachea, various well. that is used to contour
+lymph nodes structures for the chest wall
+• Pelvis: Body, bladder, femoral heads, pelvic planning in the RPA.
+Software bones, rectum, spinal canal Safety and effectiveness: Both
+Contouring The system calculates the anatomical points, image Eclipse and the RPA are
+Functions features, and similarity scores of the patient image and designed to provide contours
+compares them with pre-stored expert cases. Rigid that the users review and edit.
+registration is used both for initializing the deformable
+registration algorithm and for displaying the expert case
+and patient image in aligned preview. The
+autocontouring approach depends on the selected
+structures. Either the structures are heuristically
+segmented from the patient image, or the structures are
+generated via deformable registration and structure
+propagation from the expert cases. If multiple expert
+cases are used, the propagated structures from the
+different atlases are fused by means of the simultaneous
+truth and performance level estimation (STAPLE)
+algorithm.
+Automatic marker detection - Eclipse v.15.6 includes a Use and function: The Eclipse function is for Use and function: Both Eclipse Devices are Substantially
+Eclipse,
+function (‘Calypso Beacon Detection’) to automatically a specific type of marker that is different and the RPA can automatically Equivalent. Both devices can
+Other Plan
+detect a specific type of marker (Calypso transponders) from the generic markers that the RPA is detect markers. automatically detect markers.
+Preparation
+on CT images. designed for.
+Page 4 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Comparison of the RPA System’s Software Functions with the
+Eclipse Treatment Planning System Version 15.6 (K181145)
+Software Description of Functions Available in Rationale for Substantial
+Differences Similarities
+Function Eclipse Equivalence
+1. Photon Optimizer (PO) algorithm. This algorithm Use and function: The main difference for Use and function: The RPA Devices are Substantially
+is used to optimize IMRT or VMAT plans based on VMAT planning is that Eclipse generally uses some Eclipse features, Equivalent. Both devices provide
+DVH constraints / objectives. creates a plan that the user reviews, makes including DVH Estimates for autoplanning features and create
+2. Automated Optimization Workflow. Enabling this edits to the optimization constraints, and RapidPlan and the Photon plans that the users then edit and
+can automate the optimization workflow for IMRT repeats the process to improve the plan Optimizer for optimizing review for clinical acceptability
+planning so that, after optimization, the leaf motion quality. The RPA uses the same VMAT plans. The plans look prior to use. Both devices provide
+calculation and final dose calculation are optimization tools (i.e., the tools in Eclipse), very similar. Photon Optimizer, automated
+automatically initiated, and the results are then but the optimization objectives and Safety and effectiveness: Both optimization workflow and DVH
+Eclipse
+automatically saved. A similar feature exists for constraints have been pre-set to give optimal Eclipse and the RPA are estimation models.
+Automated
+VMAT plans. plans for the majority of patients. The user designed to create plans that
+Planning,
+3. DVH Estimation Models for RapidPlan. DVH is not able to easily edit the RPA VMAT the users then edit and review
+VMAT
+estimation models are created from information plans so, if they do not approve the plan for for clinical acceptability prior
+extracted from a set of previous treatment plans clinical use, they must delete it and create to use.
+(called ‘treatment plans’). The estimation models one using their own routine processes (i.e.,
+predict the DVH that is achievable from the current in their own treatment planning system).
+treatment plan (based on the geometry in the current
+plan), and also creates a set of optimization objects
+that can be based on the DVH estimates or fixed
+(i.e., not based on the DVH estimates).
+1. Beam Angle Optimization (BAO). This tool Use and function: Autoplanning in Eclipse Use and function: Many of the Devices are Substantially
+optimizes the number and angle of treatment beams. is mostly automation of individual tasks that treatment plan details in Equivalent. Both devices create
+It optimizes the objective function, which is are controlled by the user. The user does Eclipse and RPA use functions plans that the users then edit and
+determined by DVH goals / constraints and a normal not control these tasks with the RPA. with similar algorithms, such review for clinical acceptability
+tissue objective (which falls off with distance from Use and function: Review and editing of 3D as optimizing the jaw prior to use through the use of AI
+the PTV). BAO can be used for IMRT plans or as a plans (cervix 4-field box, post-mastectomy positions. software. Both devices provide
+starting point for conformal treatment plans. breast plans, whole brain plans) for the RPA Safety and effectiveness: Both Beam Angle Optimization,
+2. Collimator Angle Optimization (CAO). This happens in the users’ own treatment Eclipse and the RPA are Collimator Angle Optimization and
+Autoplanning, function optimizes collimator angle for each arc of a planning system. designed to create plans that collimator jaw optimization.
+Other HyperArc plan such that, whenever possible, a given the users then edit and review
+pair of MLC leaves delineates only one target in the for clinical acceptability prior
+beam’s-eye-view. to use.
+3. Optimize collimator jaws. Adjusts the collimator
+jaws to best fit the MLC leaves to the structure.
+4. Use recommended jaw positions. Adjusts the
+collimator jaw positions with an additional margin.
+5. Optimize collimator rotation. Optimizes the
+collimator rotation around a structure.
+Page 5 of 18510(k) Summary Radiation Planning Assistant (RPA)
+7. PERFORMANCE DATA
+7.1 Non-Clinical Data
+7.1.1 Software Verification and Validation Testing
+Software verification and validation was conducted, and documentation was provided as
+recommended by the FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this
+device was considered as a “major” level of concern. Test results demonstrate conformance to
+applicable requirements and specifications.
+No animal studies or clinical tests have been included in this pre-market submission.
+The ground truth treatment plans were generated by the RPA by the primary 4-field box
+automation technique for cervical cancer by Kisling et al. (Kisling 2019) with beam apertures
+based on a patient's bony anatomy. Only the clinically acceptable plans were used for training
+(rated by physicians); their DRRs and corresponding beam apertures were the inputs for training
+(and just the DRRs for testing/prediction). No additional criteria were applied. The test set was
+generated in the same manner as the ground truth, but on previously unseen patients.
+Initial software training for each anatomical location was successfully accomplished and is
+described in brief in Table 3 below.
+Page 6 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 3 presents the initial testing performed for software training and testing. Multicenter performance testing is presented in Section
+7.2.
+Table 3: Software Training for Anatomical Locations
+Anatomical Test Data
+Tissue Type(s) Training Data Set
+Location Independence
+3,288 patients (3,495 CT scans) who received radiation therapy at MD 174 CT scans were
+Anderson Cancer Center between September 2004 and June 2018. Any randomly selected from
+patient who received a simulation CT scan of the head/neck region in a this group (and excluded
+Normal Tissue
+head -first supine position was eligible. for training) plus
+(primary)
+qualitative evaluation 24
+CT scans from an
+external dataset.
+160 patients who received radiation therapy at MD Anderson Cancer Test patients were
+Head and Neck
+Normal Tissue Center from 2018 to 2020. Any patient who received a simulation CT randomly selected and
+(secondary) scan of the head/neck region in a head-first supine position was eligible. excluded from the
+training set.
+61 patients who received radiation therapy at MD Anderson Cancer These 71 cases were
+Center between 2010 and 2019. Any patient who received a simulation randomly placed in 3
+Lymph Node
+CT scan of the head/neck region in a head-first supine position was groups: training (51 pts.),
+CTVs
+eligible. cross-validation (10 pts.)
+and final test (10 pts.).
+The whole brain primary segmentation models used the same models as Test patients were
+used for head and neck segmentation, described above, as well as an randomly selected from
+additional vertebral body localization and segmentation model (Vertebral this group (and excluded
+Bodies model: spinal canal CNN: 1,966, VB labeling: 803, VB for training).
+Whole Brain Whole Brain
+segmentation: 107, from 930 MDACC patients and 355 external
+patients). Patients who received spinal radiotherapy for spinal metastases
+(3DCRT and VMAT) at MD Anderson, or for whom data was publicly
+available (MICCAI challenge data).
+Page 7 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Anatomical Test Data
+Tissue Type(s) Training Data Set
+Location Independence
+1,999 patients (2,254 CT scans) who received radiation therapy at MD 140 CT scans were
+Anderson from September 2004 and June 2018. Any patient who randomly selected from
+received a simulation CT scan of the pelvic region in a head-first supine this group (and excluded
+Normal Tissue position was eligible. for training) plus
+(primary) qualitative evaluation
+with 30 cervical cancer
+patients from 3 centers in
+S. Africa.
+192 patients (316 CT scans) who were treated for locally advanced Test patients were
+Normal Tissue cervical cancer between 2006 and 2020. randomly selected from
+GYN (secondary) this group (and excluded
+for training).
+406 CT scans from 308 patients (UteroCervix), 250 CT scans from 201 Test patients were
+patients (Nodal CTV), 146 CT scans from 131 patients (PAN), 490 CT randomly selected from
+CTVs (primary) scans from 388 patients (Vagina), 487 CT scans from 388 patients this group (and excluded
+(Parametria) who received radiation therapy at MD Anderson Cancer for training).
+Center between 2006 and 2020.
+Training data for GYN Liver (normal) comprised 119 patients (169 CT Test patients were
+scans) who had received contrast-enhanced and non-contrast CT imaging randomly selected from
+Liver
+of the liver at MD Anderson Cancer Center. this group (and excluded
+for training).
+Chest Wall Whole Body Training data for whole body (secondary for chest wall) comprised 250 Test patients were
+(secondary for patients who were treated at MD Anderson between August 2016 and randomly selected from
+chest wall) June 2021, with CT imaging in the thoracic region. this group (and excluded
+for training).
+Page 8 of 18510(k) Summary Radiation Planning Assistant (RPA)
+7.1.2 Standards Conformance
+The subject device conforms in whole or in part with the following standards:
+• IEC 62304 Medical device software - Software life cycle processes
+• IEC 62083 Requirements for the safety of radiotherapy treatment planning systems
+7.2 Clinical Data
+A summary of the multicenter clinical data is presented in the tables below.
+Page 9 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 4: Demographics, Number of Patients, Number of Samples, and Clinical Sites
+All All All
+All Chest All Head
+Characteristic Cervix Cervix Whole
+Wall and Neck
+VMAT 3D Brain
+No. of Unique Patients with RPA Plan(s) 50 47a; 45b 46 86 46
+CT Scan Equipment
+Philips x x x x x
+Siemens x x x x x
+GE x x x x x
+No. of Clinical Sites 5 5 5 5 5
+No. of Participating Physicians / Study Site
+Site 1 5 5 8 12 12
+Site 2 1 1 2 3 2
+Site 3 3 3 1 1 3
+Site 4 3 3 8 1 6
+Site 5 2 2 4 5 2
+Clinical Subgroups and Confounding Factors
+By Study Site None None None None None
+By Equipment None None None None None
+Age
+Mean 51 50 51 62 60
+Min, Max 26, 94 26, 84 31, 80 27, 87 14, 88
+Sex
+Male 0.0% 0.0% 2.2% 79.3% 39.1%
+Female 100.0 100.0% 97.8% 29.7% 34.8%
+Not Reported 0.0% 0.0% 0.0% 0.0% 26.1%
+Race
+Asian 9.8% 2.1% 26.1% 5.4% 6.5%
+Black/African American 13.7% 14.9% 13.0% 12.0% 8.7%
+White 39.2% 78.7% 32.6% 73.9% 54.3%
+Native Hawaiian or Pacific Islander 0.0% 0.0% 0.0% 1.1% 0.0%
+British 7.8% 0.0% 0.0% 0.0% 0.0%
+American Indian or Alaskan Native 2.0% 0.0% 4.3% 1.1% 0.0%
+Other / not available 27.5% 4.3% 23.9% 6.5% 28.3%
+Ethnicity
+Hispanic or Latino 25.5% 10.6% 8.7% 7.6% 6.5%
+Not Hispanic or Latino 41.2% 46.8% 43.5% 50.0% 58.7%
+Other / not available 33.3% 42.6% 47.8% 42.4% 34.8%
+a4-field box soft tissue plan
+b4-field box bony landmark plan
+Page 10 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 5: Summary of Statistical Results—Cervix
+Criteria
+Criteria Results
+Number
+Assess the safety of using the RPA plan for normal structures for treatment < 5% difference
+planning by comparing the number of patient plans that pass accepted between RPA Plan and
+dosimetric metrics when assessed on the RPA contour with the number that Clinical Plan for all
+1 pass when assessed on the clinical contour. The difference should be 5% or bony structures and
+less. When there are multiple metrics for a single structure at least one critical soft tissue
+should pass this criterion. structures with VMAT
+and 4 field box.*
+Assess the effectiveness of the RPA plan for normal structures by < 5% difference
+comparing the dose to RPA normal structures for RPA plans and clinical between RPA Plan and
+normal structures for clinical plans. The difference in the number of RPA Clinical Plan for all
+2 plans that pass accepted dosimetric metrics and the number of clinical plans bony structures and
+that pass accepted dosimetric metrics should be 5% or less. When there are critical soft tissue
+multiple metrics for a single structure at least one should pass this criterion. structures with VMAT
+and 4 field box.**
+Assess the effectiveness of the RPA plan for target structures by comparing < 5% difference
+the number of RPA plans that pass accepted dosimetric metrics (e.g., between RPA Plan and
+percentage volume of the PTV receiving 95% of the prescribed dose) when Clinical Plan for all
+3
+compared with clinical plans. The difference should be 5% or less. When assessed structures
+there are multiple metrics used to assess a single structure, at least one
+coverage and one maximum criterion should pass this criterion.
+Assess the geometric effectiveness of the RPA targets using recall. A low 25th percentile for
+4 value for this metric represents under-contouring. The 25th percentile of the recall > 0.7
+recall must be 0.7 or greater.
+Assess the quality of body contouring generated by the RPA by comparing Surface DSC > 0.8 for
+primary and secondary body contours generated by the RPA with manual 95% of CT scans
+5
+body contours. Surface DSC (2mm) should be greater than 0.8 for 95% of
+the CT scans.
+Assess the ability of the RPA to accurately identify the marked isocenter. < 3mm difference
+This is achieved by comparing the automatically generated isocenters with between RPA Plan and
+manually generated ones. 95% of automatically generated marked Clinical Plan for all
+6
+isocenters (primary and verification approaches) should agree with orthogonal directions
+manually generated marked isocenters within 3mm in all orthogonal
+directions (AP, lateral, cranial-caudal).
+* With the exception of bowel bag in the 4-field box plans, the RPA contour gives a more conservative result.
+** RPA plan and clinical plan had 6% - 13% difference in passing rates using VMAT on right kidney, bladder, and bowel. The
+RPA Plan for rectum exceeded passing rates of the clinical plans in excess of 5%. However, when the RPA plan (which was
+created using the RPA normal contours) was assessed using the clinical normal contours, the passing rates for the clinical plan
+and RPA plan are within 5% for all normal structures. This is a result of the conservative nature of the RPA contours.
+Page 11 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 6: Summary of Cervix Protocol
+Criteria
+Inclusion Criteria Exclusion Criteria Sampling Method
+Number
+1 CT scan of the female pelvic anatomy. Poor Image Quality
+Clear CT image of the pelvic region without
+2 -
+distortions.
+Test datasets consisted of CT images of
+patients previously treated for cervical
+cancer using radiotherapy following one of
+3 the following treatment schemes: -
+• 4-field box (based on bony
+landmarks or soft tissue)
+• VMAT
+Test datasets were chosen
+Scan was obtained with patient head-first,
+4 - going forward in time
+supine.
+until sufficient data were
+The datasets included CT images, original collected, starting with CT
+5 clinical contours of anatomic structures and - scans collected on January
+treatment targets, and the dose distributions 1, 2022. If insufficient
+used for patient treatment. patient scans were found,
+Test datasets were chosen going forward in data collection was
+time until sufficient data was collected, restarted with January 1,
+starting with CT scans collected on January 2021 (for patients treated
+1, 2022. If insufficient patient scans were in 2021) and so forth, until
+6 -
+found, data collection could be restarted with sufficient data was
+January 1, 2021 (for patients treated in 2021) collected.
+and so forth, until sufficient data was
+collected.
+Testing datasets were unique, with no
+7 overlap with data used for model creation or -
+in previous validation studies.
+CT scans included the manufacturer and
+8 model of the scanner used to obtain the CT -
+image.
+Page 12 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 7: Chest Wall Summary of Statistical Results
+Criteria
+Criteria Results
+Number
+Assess the safety of use of the RPA by comparing the number of patient <7% difference
+plans that pass accepted dosimetric metrics when assessed on the RPA between RPA Plan and
+contour with the number that pass when assessed on the clinical contour. Clinical Plan for all
+1 assessed structures.
+The difference should be 5% or less. When multiple metrics were used to
+assess a single structure at least one had to pass the criteria (similar to the
+manner in which doses are assessed in clinical practice).
+Assess the effectiveness of use of the RPA by comparing the number of <5% difference
+RPA plans that pass accepted dosimetric metrics (e.g., mean dose to the between RPA Plan and
+organ-at-risk) when compared with clinical plans. Clinical Plan for all
+2 The difference should be 5% or less. When multiple metrics were used to assessed structures.
+assess a single structure, at least one should pass this criterion (similar to
+the manner in which doses are assessed in clinical practice). This was
+considered on a structure-by-structure basis.
+Assess the quality of body contouring generated by the RPA by Surface DSC > 0.8 for
+comparing primary and secondary body contours generated by the RPA 95% of CT scans
+3
+with manual body contours. Surface DSC (2mm) should be greater than
+0.8 for 95% of the CT scans.
+Page 13 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 8: Chest Wall Protocol Summary
+Criteria
+Inclusion Criteria Exclusion Criteria Sampling Method
+Number
+1 CT scan of the breast (thorax) region. Poor Image Quality
+Clear CT image of the breast (thorax) region
+2 -
+without distortions.
+Test datasets must consist of CT images of
+patients previously treated for
+postmastectomy breast radiotherapy
+following one of the following treatment
+schemes:
+3 -
+i. Tangent fields with supraclavicular
+fields. Similar approaches,
+including those that also treat the
+Test datasets were chosen
+intramammary lymph nodes are
+going forward in time
+also acceptable.
+until sufficient data was
+Scan was obtained with patient head-first,
+4 - collected, starting with CT
+supine.
+scans collected on January
+The datasets must include CT images,
+1, 2022. If insufficient
+original clinical contours of anatomic
+5 - patient scans were found,
+structures and treatment targets, and the dose
+data collection was
+distributions used for patient treatment.
+restarted with January 1,
+Test datasets were chosen going forward in 2021 (for patients treated
+time until sufficient data was collected, in 2021) and so forth, until
+starting with CT scans collected on January sufficient data was
+1, 2022. If insufficient patient scans were collected.
+6 -
+found, data collection can be restarted with
+January 1, 2021 (for patients treated in 2021)
+and so forth, until sufficient data was
+collected.
+Testing datasets must be unique, with no
+7 overlap with data used for model creation or -
+in previous validation studies.
+CT scan must include the manufacturer and
+8 model of the scanner used to obtain the CT -
+image or recorded separately.
+Page 14 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 9: Head and Neck Summary of Statistical Results
+Criteria
+Criteria Results
+Number
+Assess the safety of use of RPA normal structures for treatment planning <5% difference
+by comparing the number of patient plans that passed accepted dosimetric between RPA Plan and
+metrics (e.g., mean dose to the parotid) when assessed on the RPA Clinical Plan for the
+1 contour with the number that passed when assessed on the clinical majority of assessed
+contour. The difference should be 5% or less. When multiple metrics structures.
+were used to assess a single structure at least one should pass this
+criterion.
+Assess the effectiveness of use of RPA normal structures for treatment <5% difference
+planning by comparing the number of RPA plans that passed accepted between RPA Plan and
+dosimetric metrics (e.g., mean dose to the parotid) when compared with Clinical Plan for the
+2
+clinical plans. The difference should be 5% or less. When multiple majority of assessed
+metrics were used to assess a single structure, at least one should pass this structures*.
+criterion.
+Assess the effectiveness of the RPA plan for target structures by <5% difference
+comparing the number of RPA plans that pass accepted dosimetric metrics between RPA Plan and
+(e.g., percentage volume of the PTV receiving 95% of the prescribed Clinical Plan for the
+3
+dose) when compared with clinical plans. The difference should be 5% or majority of assessed
+less. When there are multiple metrics used to assess a single structure, at criteria.
+least one coverage and one maximum criterion should pass this criterion.
+Assess the geometric effectiveness of the RPA targets using recall. A 25th percentile for
+low value for this metric represents under-contouring and a potential risk recall > 0.7
+4 of creating a plan that misses the target (although the user is expected to
+review and edit contours). The 25th percentile of the recall must be 0.7 or
+greater.
+Assess the quality of body contouring generated by the RPA by Surface DSC > 0.8 for
+comparing body contours generated by the RPA with manual body >95% of CT scans
+5
+contours. Surface DSC (2mm) should be greater than 0.8 for 95% of the
+CT scans.
+Assess the ability of the RPA to accurately identify the marked isocenter. <3mm difference
+This is achieved by comparing the automatically generated isocenters with between RPA Plan and
+6 manually generated ones. 95% of automatically generated marked should Clinical Plan for all
+agree with manually generated marked isocenters within 3mm in all orthogonal directions.
+orthogonal directions (AP, lateral, cranial-caudal).
+*RPA plan and clinical plan had 6% - 13% difference with the cochlea.
+Page 15 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 10: Head and Neck Protocol Summary
+Criteria
+Inclusion Criteria Exclusion Criteria Sampling Method
+Number
+1 CT scan of head and neck anatomy. Poor Image Quality
+Clear CT image of head and/or neck
+2 -
+without distortions.
+Test datasets consisted of CT images of
+patients previously treated for head and
+neck cancer using radiotherapy following
+3 -
+this treatment scheme:
+i. VMAT or IMRT treatments
+ii. 1-3 dose levels in the prescription
+Test datasets were chosen
+Scan was obtained with patient head-first,
+4 - going forward in time
+supine.
+until sufficient data was
+The datasets included CT images, original
+collected, starting with CT
+clinical contours of anatomic structures and
+5 - scans collected on January
+treatment targets, and the dose distributions
+1, 2022. If insufficient
+used for patient treatment.
+patient scans were found,
+Test datasets were chosen going forward in data collection was
+time until sufficient data was collected, restarted with January 1,
+starting with CT scans collected on January 2021 (for patients treated
+1, 2022. If insufficient patient scans were in 2021) and so forth, until
+6 -
+found, data collection could be restarted sufficient data was
+with January 1, 2021 (for patients treated in collected.
+2021) and so forth, until sufficient data was
+collected.
+Testing datasets were unique, with no
+7 overlap with data used for model creation -
+or in previous validation studies.
+CT scans included the manufacturer and
+8 model of the scanner used to obtain the CT -
+image or were recorded separately.
+Page 16 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 11: Whole Brain Summary of Statistical Results
+Criteria
+Criteria Results
+Number
+Assess the safety of using the RPA plan for normal structures by <6% difference
+comparing the number of patient plans that pass accepted dosimetric between RPA Plan and
+metrics when assessed on the RPA contour with the number that pass Clinical Plan for all
+1
+when assessed on the clinical contour. The difference should be 5% or assessed structures
+less. When there are multiple metrics for a single structure at least one (Right and Left
+should pass this criterion. Lens)*.
+Assess the effectiveness of the RPA plan for normal structures by <9% difference
+comparing the number of RPA plans that pass accepted dosimetric metrics between RPA Plan and
+when compared with clinical plans. The difference should be 5% or less. Clinical Plan for all
+2
+When there are multiple metrics for a single structure at least one should assessed structures
+pass this criterion. (Right and Left
+Lens)**.
+Assess the effectiveness of the RPA plan for target structures by <5% difference
+comparing the number of RPA plans that pass accepted dosimetric metrics between RPA Plan and
+(e.g., percentage volume of the brain receiving 95% of the prescribed Clinical Plan for all
+3
+dose) when compared with clinical plans. The difference should be 5% or assessed structures.
+less. When there are multiple metrics used to assess a single structure, at
+least one coverage and one maximum criterion should pass this criterion.
+Assess the quality of body contouring generated by the RPA by > 0.8 difference
+comparing primary and secondary body contours generated by the RPA between RPA Plan and
+4
+with manual body contours. Surface DSC (2mm) should be greater than Clinical Plan for all
+0.8 for 95% of the CT scans. assessments.
+Assess the ability of the RPA to accurately identify the marked isocenter. <3mm difference
+This is achieved by comparing the automatically generated isocenters with between RPA Plan and
+manually generated ones. 95% of automatically generated marked Clinical Plan for all
+5
+isocenters (primary and verification approaches) should agree with orthogonal directions.
+manually generated marked isocenters within 3mm in all orthogonal
+directions.
+* The RPA contours gave more conservative results, with lower passing rates than using clinical contours.
+** Passing rates were higher for RPA plans than for clinical plans.
+Page 17 of 18510(k) Summary Radiation Planning Assistant (RPA)
+Table 12: Whole Brain Protocol Summary
+Criteria
+Inclusion Criteria Exclusion Criteria Sampling Method
+Number
+1 CT scan of the head/neck region. Poor Image Quality
+Clear CT image of the head/neck region
+2 -
+without distortions.
+Test datasets consisted of CT images of
+patients previously treated for whole brain
+3 radiotherapy following one of the following -
+treatment schemes:
+i. Opposed laterals or slight obliques.
+Scan was obtained with patient head-first, Test datasets were chosen
+4 -
+supine. going forward in time
+The datasets included CT images, original until sufficient data was
+clinical contours of anatomic structures and collected, starting with CT
+5 -
+treatment targets, and the dose distributions scans collected on January
+used for patient treatment. 1, 2022. If insufficient
+patient scans were found,
+Test datasets were chosen going forward in
+data collection was
+time until sufficient data was collected,
+restarted with January 1,
+starting with CT scans collected on January
+2021 (for patients treated
+1, 2022. If insufficient patient scans were
+6 - in 2021) and so forth, until
+found, data collection could be restarted with
+sufficient data was
+January 1, 2021 (for patients treated in 2021)
+collected.
+and so forth, until sufficient data was
+collected.
+Testing datasets were unique, with no
+7 overlap with data used for model creation or -
+in previous validation studies.
+CT scans included the manufacturer and
+8 model of the scanner used to obtain the CT -
+image.
+8. CONCLUSIONS
+The Radiation Planning Assistant (RPA) is substantially equivalent to the Eclipse Treatment
+Planning System v15.6 (K181145) predicate device. The intended use and indications for use
+are substantially equivalent. The major technological characteristics are substantially equivalent
+to the predicate devices, and the differences do not raise new questions of safety and
+effectiveness. The results of verification and validation as well as conformance to relevant
+safety standards demonstrate that the Radiation Planning Assistant (RPA) and the Eclipse
+Treatment Planning System v15.6 (K181145) meet safety and performance criteria and are
+substantially equivalent devices. The retrospective clinical data demonstrates that the device is
+safe and effective for its intended use as compared to the predicate device.
+9. REFERENCES
+Kisling K, Zhang L, Simonds H, Fakie N, Yang J, McCarroll R, Balter P, Burger H, Bogler O,
+Howell R, Schmeler K, Mejia M, Beadle BM, Jhingran A, Court L. Fully Automatic Treatment
+Planning for External-Beam Radiation Therapy of Locally Advanced Cervical Cancer: A Tool
+for Low-Resource Clinics. J Glob Oncol. 2019 Jan;5:1-9. doi: 10.1200/JGO.18.00107. PMID:
+30629457; PMCID: PMC6426517.
+Page 18 of 18

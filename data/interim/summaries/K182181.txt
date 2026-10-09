@@ -1,0 +1,125 @@
+(cid:49)(cid:82)(cid:89)(cid:72)(cid:80)(cid:69)(cid:72)(cid:85)(cid:3)(cid:21)(cid:28)(cid:15)(cid:3)(cid:21)(cid:19)(cid:20)(cid:27)
+Persyst Development Corporation
+Dari Darabbeigi
+Vice President of Quality and Regulatory Affairs
+420 Stevens Avenue, Suite 210
+Solana Beach, California 92075
+Re: K182181
+Trade/Device Name: Persyst 14 EEG Review and Analysis Software
+Regulation Number: 21 CFR 882.1400
+Regulation Name: Electroencephalograph
+Regulatory Class: Class II
+Product Code: OMB, OLT, OMA
+Dated: October 24, 2018
+Received: October 31, 2018
+Dear Dari Darabbeigi:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Pleasebe advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.03.02
+Silver Spring, MD 20993
+www.fda.govK182181-Dari Darabbeigi Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jay R. Gupta -S
+(cid:41)(cid:82)(cid:85) Carlos L. Peña, PhD, MS
+Director
+Division of Neurological
+and Physical Medicine Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2020
+Indications for Use
+See PRA Statement below.
+510(k) Number (if known)
+K182181
+Device Name
+Persyst 14 EEG Review and Analysis Software
+Indications for Use (Describe)
+1. Persyst 14 EEG Review and Analysis Software is intended for the review, monitoring and analysis of EEG recordings
+made by electroencephalogram (EEG) devices using scalp electrodes and to aid neurologists in the assessment of EEG.
+The device is intended to be used by qualified medical practitioners who will exercise professional judgment in using the
+information.
+2. The Seizure Detection component of Persyst 14 is intended to mark previously acquired sections of adult (greater than
+or equal to 18 years) EEG recordings that may correspond to electrographic seizures, in order to assist qualified clinical
+practitioners in the assessment of EEG traces. EEG recordings should be obtained with a full scalp montage according to
+the standard 10/20 system.
+3. The Spike Detection component of Persyst 14 is intended to mark previously acquired sections of the patient's EEG
+recordings that may correspond to spikes, in order to assist qualified clinical practitioners in the assessment of EEG traces.
+The Spike Detection component is intended to be used in patients at least one month old. Persyst 14 Spike Detection
+performance has not been assessed for intracranial recordings.
+4. Persyst 14 includes the calculation and display of a set of qualitative measures intended to monitor and analyze the
+EEG waveform. These include FFT, Rhythmicity, Peak Envelope, Artifact Intensity, Amplitude, Relative Symmetry and
+Suppression Ratio. Automatic event marking is not applicable to the quantitative measures. These quantitative EEG
+measures should always be interpreted in conjunction with review of the original EEG waveforms.
+5. Persyst 14 displays physiological signals, including the calculation and display of a heart rate measurement based on
+the ECG channel in the EEG recording, which are intended to aid in the analysis of an EEG. Heart rate measurement of
+Persyst 14 is not applicable to patients with pacemaker and/or active implantable devices.
+6. The aEEG functionality included in Persyst 14 is intended to monitor the state of the brain. The automated event
+marking function of Persyst 14 is not applicable to aEEG.
+7. Persyst 14 provides notifications for seizure detection, quantitative EEG and aEEG that can be used when processing a
+record during acquisition. These include an on screen display and the optional sending of an email message. Delays of up
+to several minutes can occur between the beginning of a seizure and when the Persyst 14 notifications will be shown to a
+user. Persyst 14 notifications cannot be used as a substitute for real time monitoring of the underlying EEG by a trained
+expert.
+8. Persyst AR (Artifact Reduction) is intended to reduce EMG, eye movement, and electrode artifacts in a standard 10-20
+EEG recording. AR does not remove the entire artifact signal, and is not effective for other types of artifacts. AR may
+modify portions of waveforms representing cerebral activity. Waveforms must still be read by a qualified medical
+practitioner trained in recognizing artifact, and any interpretation or diagnosis must be made with reference to the original
+waveforms.
+9. This device does not provide any diagnostic conclusion about the patient's condition to the user.
+FORM FDA 3881 (7/17) Page 1 of 2
+PSC Publishing Services (301) 443-6740 EFType of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (7/17) Page 2 of 2

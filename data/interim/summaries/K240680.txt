@@ -1,0 +1,481 @@
+December 6, 2024
+Oxford Brain Diagnostics Ltd
+℅ Yulia Nikova
+Regulatory Affairs Manager
+Ken Blocking Consulting LLC
+3400 N Central Expy
+Suite #110-225
+Richardson, Texas 75080
+Re: K240680
+Trade/Device Name: CDM Insights
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: November 4, 2024
+Received: November 5, 2024
+Dear Yulia Nikova:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.04
+Silver Spring, MD 20993
+www.fda.govK240680 - Yulia Nikova Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K240680 - Yulia Nikova Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, PhD
+Assistant Director
+DHT8C: Division of Radiological
+Imaging and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K240680
+Device Name
+CDM Insights
+Indications for Use (Describe)
+CDM Insights is a post-processing image analysis software that assists trained healthcare practitioners in viewing,
+analyzing, and evaluating MR brain images of adults > 45 years of age.
+CDM Insights provides the following functionalities:
+• Automated segmentation and quantitative analysis of individual brain structures and white matter hyperintensities
+• Quantitative comparison of brain structures and derived values with normative data from a healthy population
+• Presentation of results for reporting that includes numerical values as well as visualization of these results
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(k) Summary for CDM Insights [K240680]
+This summary of 510(k) safety and effectiveness information is being submitted in accordance with the
+requirements of Safe Medical Devices Act of 1990 and 21 CFR §807.92.
+Applicant/ Oxford Brain Diagnostics Ltd
+Sponsor: The Oxford Centre for Innovation
+New Road, Oxford. OX1 1BY United Kingdom
+Contact Person: Terry Pollard
+Chief Operating Officer
+TEL: +44 (0)1865 261400
+Date Prepared: December 3rd, 2024
+Subject Device: Manufacturer: Oxford Brain Diagnostics Ltd
+Trade Name: CDM Insights
+Product Name: CDM Insights
+Classification Name: Medical Image Management and Processing System
+Classification Panel: Radiology
+Product Code: QIH
+Regulation: 21 CFR §892.2050
+Class: II
+Prescription or OTC Use: Rx
+Predicate Device: Clearance: K213706
+Clearance Date: April 15, 2022
+Manufacturer: Siemens Healthcare GmbH
+Trade Name: AI-Rad Companion Brain MR
+Product Name: AI-Rad Companion Brain MR
+Classification Name: Medical Image Management and Processing System
+Classification Panel: Radiology
+Product Code: QIH
+Regulation: 21 CFR §892.2050
+Class: II
+Prescription or OTC Use Rx
+Device CDM Insights is automated post-processing medical device software
+Description: that is used by radiologists, neurologists, and other trained healthcare
+practitioners familiar with the post-processing of magnetic resonance
+images. It accepts DICOM images using supported protocols and
+performs: automatic segmentation and quantification of brain
+structures and lesions, automatic post-acquisition analysis of diffusion-
+weighted magnetic resonance imaging (DWI) data, and comparison of
+derived image metrics from multiple time-points.
+The values for a given patient are compared against age-matched
+percentile data from a population of healthy reference subjects. White
+matter hyperintensities can be visualized and quantified by volume.
+Output of the software provides numerical values and derived data as
+graphs and anatomical images with graphical color overlays.
+Oxford Centre for Innovation | New Road | Oxford | OX1 1BY
+Oxford Brain Diagnostics Ltd is a company registered in England and Wales | Company No. 11703979 | VAT No. 321 3026 62510(k) Summary for CDM Insights [K240680]
+CDM Insights output is provided in standard DICOM format as a DICOM-
+encapsulated PDF report.
+Indications for CDM Insights is a post-processing image analysis software that assists
+Use: trained healthcare practitioners in viewing, analyzing, and evaluating
+MR brain images of adults > 45 years of age.
+CDM Insights provides the following functionalities:
+• Automated segmentation and quantitative analysis of individual
+brain structures and white matter hyperintensities
+• Quantitative comparison of brain structures and derived values with
+normative data from a healthy population
+• Presentation of results for reporting that includes numerical values
+as well as visualization of these results
+Summary of The following aspects of the subject CDM Insights device and the
+Technological predicate devices are identical:
+Characteristics:
+• Intended Use
+• Technological Principle
+• Device Classification Name
+• Classification Panel
+• Regulation Number
+• Product Code
+• Classification
+• Prescription Use
+The Indications for Use and Intended Users for the CDM Insights device
+and the AI-Rad Companion Brain MR device use only slightly different
+wording:
+• The CDM Insights devices refers to “healthcare practitioners”
+whereas the AI-Rad Companion Brain MR refers to “clinicians” in the
+Indications for Use and “healthcare professionals” in the Intended
+Users. We consider these to be equivalent.
+In our Instructions for Use we have, in the same way as our primary
+predicate, clarified our definition of healthcare practitioners to include
+“radiologists, neurologists, and other trained healthcare practitioners
+familiar with the post-processing of magnetic resonance images”.
+The following features are substantially equivalent between the CDM
+Insights device and the AI-Rad Companion Brain MRI device (the CDM
+Insights Device presents percentiles, whereas the AI-Rad Companion
+Brain MRI device presents z-scores):
+• Brain Morphometry Segmentation
+• Brain Morphometry Quantification
+• Brain Morphometry: Deviation Map
+Oxford Centre for Innovation | New Road | Oxford | OX1 1BY
+Oxford Brain Diagnostics Ltd is a company registered in England and Wales | Company No. 11703979 | VAT No. 321 3026 62510(k) Summary for CDM Insights [K240680]
+New Device Predicate Device Additional Predicate Device
+Trade Name CDM Insights AI-Rad Companion Brain MR OnQ Neuro
+510(k) Submitter Oxford Brain Diagnostics Siemens Healthcare GmBh CorTechs Labs, Inc
+[Number] Ltd
+510(k) Number K240680 K213706 K210831
+Indications for CDM Insights is a post- AI-Rad Companion Brain MR OnQ Neuro is a fully automated
+Use processing image analysis is a post- processing image post-processing medical device
+software that assists analysis software that software intended for analyzing
+trained healthcare assists clinicians in viewing, and evaluating neurological MR
+practitioners in viewing, analyzing, and evaluating image data.
+analyzing, and evaluating MR brain images. OnQ Neuro is intended to provide
+MR brain images of adults automatic segmentation,
+> 45 years of age. AI-Rad Companion Brain MR quantification, and reporting of
+provides the following derived image metrics. OnQ
+CDM Insights provides the functionalities: Neuro is additionally intended to
+following functionalities: · Automatic segmentation provide automatic fusion of
+- Automated and quantitative analysis of derived parametric maps with
+segmentation and individual brain structures anatomical MRI data. OnQ Neuro
+quantitative analysis of and white matter is intended for use on brain
+individual brain structures hyperintensities tumors, which are
+and white matter · Quantitative comparison of known/confirmed to be
+hyperintensities each brain structure with pathologically diagnosed cancer.
+- Quantitative comparison normative data from a OnQ Neuro is intended for
+of brain structures and healthy population comparison of derived image
+derived values with · Presentation of results for metrics from multiple time-
+normative data from a reporting that includes all points.
+healthy population numerical values as well as The physician retains the ultimate
+- Presentation of results visualization of these results responsibility for making the final
+for reporting that includes diagnosis and treatment decision.
+numerical values as well as
+visualization of these
+results
+Intended Users The device is intended for The device is intended for Radiologists, Oncologists
+healthcare practitioners healthcare professionals
+familiar with the post- familiar with the post
+processing of magnetic processing of magnetic
+resonance images resonance images
+Technological Software Software Software
+Principle
+Device CDM Insights is automated AI-Rad Companion Brain MR OnQ Neuro is a fully automated
+Description post-processing medical VA40 is an enhancement to post-processing medical device
+device software that is the predicate, AI-Rad software that is used by
+used by radiologists, Companion Brain MR VA20 radiologists, oncologists, and
+neurologists, and other (K193290). Just as in the other clinicians to assist with
+trained healthcare predicate, AI-Rad Companion analysis and interpretation of
+practitioners familiar with Brain MR addresses the neurological MR images. It
+the post-processing of automatic quantification and accepts DICOM images using
+magnetic resonance visual assessment of the supported protocols and
+images. It accepts DICOM volumetric properties of performs 1) automatic
+images using supported various brain structures based segmentation and volumetric
+protocols and performs: on T1 MPRAGE datasets. In AI- quantification of brain tumors,
+Oxford Centre for Innovation | New Road | Oxford | OX1 1BY
+Oxford Brain Diagnostics Ltd is a company registered in England and Wales | Company No. 11703979 | VAT No. 321 3026 62510(k) Summary for CDM Insights [K240680]
+New Device Predicate Device Additional Predicate Device
+Trade Name CDM Insights AI-Rad Companion Brain MR OnQ Neuro
+automatic segmentation Rad Companion Brain MR which are known/confirmed to
+and quantification of brain VA40, the quantification and be pathologically diagnosed
+structures and lesions, visual assessment extends to cancer, 2) automatic post-
+automatic post-acquisition white matter hyperintensities acquisition analysis of diffusion-
+analysis of diffusion- on the basis of T1 MPRAGE weighted magnetic resonance
+weighted magnetic and T2 weighted FLAIR imaging (DWI) data and
+resonance imaging (DWI) datasets. These datasets are optional automated fusion of
+data, and comparison of acquired as part of a typical derived image data with
+derived image metrics head MR acquisition. The anatomical MR images, and 3)
+from multiple time-points. results are directly archived in comparison of derived image
+The values for a given PACS as this is the standard metrics from multiple time-
+patient are compared location for reading by points.
+against age-matched radiologist. From a predefined Output of the software
+percentile data from a list of 30 structures (e.g. provides values as numerical
+population of healthy Hippocampus, Left Frontal volumes, and images of derived
+reference subjects. White Grey Matter, etc.), volumetric data as grayscale intensity
+matter hyperintensities properties are calculated as maps and as graphical color
+can be visualized and absolute and normalized overlays on top of the
+quantified by volume. volumes with respect to the anatomical image. OnQ Neuro
+Output of the software total intercranial volume. The output is provided in standard
+provides numerical values normalized values for a given DICOM format as image series
+and derived data as graphs patient are compared against and reports that can be
+and anatomical images age-matched mean and displayed on most third-party
+with graphical color standard deviations obtained commercial DICOM
+overlays. from a population of healthy workstations
+CDM Insights output is reference subjects.
+provided in standard The white matter
+DICOM format as a hyperintensities can be
+DICOM-encapsulated PDF visualized as a 3D overlay map
+report. and the quantification in
+count and volume as per 4
+brain regions in the report.
+As an update to the previously
+cleared device, the following
+modifications have been
+made:
+1. Modified Intended
+Use Statement
+2. Addition of white
+matter hyperintensities
+overlay map, count and
+volume as per 4 brain regions
+3. Enhanced DICOM
+Structured Report (DICOM SR)
+4. Updated deployment
+structure
+Brain Pre-processing Pre-processing functionality Software performs automatic
+Morphometry functionality for automatic for automatic segmentation segmentation
+Segmentation segmentation and and volumetry of MPRAGE
+volumetry of T1-weighted data.
+Oxford Centre for Innovation | New Road | Oxford | OX1 1BY
+Oxford Brain Diagnostics Ltd is a company registered in England and Wales | Company No. 11703979 | VAT No. 321 3026 62510(k) Summary for CDM Insights [K240680]
+New Device Predicate Device Additional Predicate Device
+Trade Name CDM Insights AI-Rad Companion Brain MR OnQ Neuro
+MRI data, e.g. MPRAGE or
+similar acquisition data.
+Brain Calculation of label maps Calculation of label maps Software performs automatic
+Morphometry (display of brain (display of brain quantification
+Quantification segmentation) and segmentation) and partially
+partially combined label combined label maps (fused
+maps (fused with the with the processed MPRAGE
+processed T1-weighted data).
+MRI data, e.g. MPRAGE or
+similar acquisition.
+Brain Calculation of deviation Calculation of deviation map Unknown
+Morphometry: map (representation of (representation of brain
+Deviation Map brain status in relation to status in relation to
+reference data) and reference data) and partially
+partially combined combined deviation maps
+deviation maps (fused (fused with the processed
+with the processed T1- MPRAGE data) User
+weighted MRI data, e.g. customizable color labels for
+MPRAGE or similar the overlay map
+acquisition)
+Diffusion Analysis Yes, using a single- No Yes, using single and multi-
+compartment diffusion compartment diffusion models.
+model.
+Support Yes, performs comparison No Yes, performs comparison of
+Longitudinal of derived image metrics derived image metrics from
+Analysis from multiple time points multiple time points.
+Brain White Pre-processing Pre-processing functionality Information on White Matter
+Matter functionality for automatic for automatic segmentation Hyperintensities is not provided.
+Hyperintensities segmentation and and volumetry of MPRAGE
+Segmentation volumetry of T1-weighted and FLAIR data.
+data, that includes
+MPRAGE or similar
+acquisition, and FLAIR
+data. (volumetry of white
+matter hypointensities if
+FLAIR data is not available)
+Brain White Calculation of white Calculation of white matter Information on White Matter
+Matter matter hyperintensities hyperintensities count and Hyperintensities is not provided.
+Hyperintensities volume (white matter volume as per 4 brain
+Quantification hypointensities volume if regions.
+FLAIR data is not
+available).
+Brain White Calculation of white Calculation of white matter Information on White Matter
+Matter matter hyperintensities hyperintensities map fused Hyperintensities is not provided.
+Hyperintensities map fused with the with the processed FLAIR
+Map processed FLAIR data (or data User customizable
+white matter color labels for the overlay
+hypointensities map fused map.
+with the processed T1-
+weighted data). Color
+labels for the overlay map.
+Oxford Centre for Innovation | New Road | Oxford | OX1 1BY
+Oxford Brain Diagnostics Ltd is a company registered in England and Wales | Company No. 11703979 | VAT No. 321 3026 62510(k) Summary for CDM Insights [K240680]
+New Device Predicate Device Additional Predicate Device
+Trade Name CDM Insights AI-Rad Companion Brain MR OnQ Neuro
+Distribution & Creation of an image Creation of an image series The software is configured at
+Archiving series for a report. for a morphometry report. installation to receive input
+Automatic transfer of Automatic transfer of DICOM files from a network
+report to a PACS system. generated maps and location, and output DICOM to a
+morphometry report to a network destination.
+PACS system.
+User Interface No User Interface (UI) Confirmation UI with basic The software is designed without
+Confirmation visualization functionality the need for a user interface after
+installation
+User Interface No User Interface (UI) Configuration UI The software is designed without
+Configuration the need for a user interface after
+installation
+Architecture Cloud solution Cloud solution and Edge Cloud solution or within a
+components deployed on hospital’s IT infrastructure on a
+customer premise. server or PC-based workstation
+Report Type DICOM-encapsulated PDF DICOM structured report Standard DICOM format as image
+report representation of a natural series and reports
+language report
+Physical CDM Insights is a medical AI-Rad Companion Brain MR The OnQ Neuro is a stand-alone
+Characteristics device software package VA40 is a medical device medical device software package
+software package
+Installation Cloud Server Cloud or Server
+Data Source DICOM images using DICOM images using DICOM images using supported
+supported protocols supported protocols protocols
+Summary of Non-clinical tests were conducted to confirm the functionality of CDM Insights.
+Non-Clinical Software validation and bench testing were conducted to assess the performance
+Test Data: claims as well as the claim of substantial equivalence to the predicate device.
+CDM Insights was developed to meet the requirements of multiple voluntary FDA
+Recognized Consensus Standards (i.e., ISO 13485, ISO 14971 and IEC 62304), as well
+as the FDA guidance document “Design Control Guidance for Medical
+Manufacturers.” Non-clinical performance testing was conducted in compliance
+with IEC 62304, as well as the FDA guidance document “General Principles of
+Software Validation.”
+Software documentation has been provided for CDM Insights in compliance with
+the FDA guidance document “Content of Premarket Submissions for Device
+Software Functions” at the Basic Documentation Level, according to that guidance
+document. The documentation (including system-level software validation that
+included previously determined acceptance criteria) demonstrated conformance
+with FDA expectations for medical devices containing software functions. In
+addition, unit and integration testing was conducted during software development.
+Through these many activities, the CDM Insights Software Requirements
+Specifications were confirmed as being successfully executed in the developed and
+tested software, including mitigations as determined necessary through software
+risk management activities.
+Oxford Centre for Innovation | New Road | Oxford | OX1 1BY
+Oxford Brain Diagnostics Ltd is a company registered in England and Wales | Company No. 11703979 | VAT No. 321 3026 62510(k) Summary for CDM Insights [K240680]
+Cybersecurity documentation has been provided for CDM Insights in compliance
+with the FDA guidance document “Cybersecurity in Medical Devices: Quality
+System Considerations and Content of Premarket Submissions.” Medical device
+cybersecurity activities for CDM Insights were conducted to meet the requirements
+of multiple voluntary FDA Recognized Consensus Standards (i.e., AAMI TIR57 and
+ANSI AAMI SW96), as well as the FDA guidance documents “Cybersecurity for
+Networked Medical Devices Containing Off-the-Shelf (OTS) Software,” “Postmarket
+Management of Cybersecurity in Medical Devices” and “Cybersecurity in Medical
+Devices: Quality System Considerations and Content of Premarket Submissions.”
+Performance testing of CDM Insights has been conducted to assess accuracy of
+image processing, run/rerun and scan/rescan repeatability of the underlying
+measurements, reproducibility across varying MRI scanner models and MRI
+protocols, statistical accuracy of percentiles of normative data. Each of these
+aspects of performance testing is summarized below.
+Accuracy of segmentation for brain regions and for white matter hyperintensities,
+and accuracy of cortical surfaces, was tested against a gold standard of US board-
+certified neuroradiologists, using a total of 60 cases comprising a group of
+cognitively healthy individuals and a mix of individuals with disorders including
+Alzheimer’s disease, mild cognitive impairment, frontotemporal dementia, and
+multiple sclerosis. Testing data included scans acquired on different scanner
+models, multiple manufacturers and at field-strengths of 1.5 and 3 tesla. White
+matter hyperintensities were automatically segmented with mean (standard
+deviation, SD) Dice overlap score of 0.66 (0.15), that exceeded the acceptance
+criterion of 0.58 taken from the primary predicate. For eight representative cortical
+regions, the mean (SD) Dice scores were as follows: Orbito-frontal 0.58 (0.10),
+Superior-frontal 0.72 (0.05), Sensorimotor 0.69 (0.14), Ventral-temporal 0.58
+(0.05), Anterior-cingulate 0.60 (0.09), Precuneus 0.58 (0.08), Lateral-occipital 0.59
+(0.11), Medial-occipital 0.63 (0.06). All regional mean Dice scores passed the
+acceptance threshold of 0.58. Visual ratings of segmentation quality and of cortical
+surface quality were typically rated by neuroradiologists as “good” or “excellent”.
+Repeatability was confirmed on a total of 121 healthy individuals with two or three
+repeated MRI scans. Reproducibility was tested with scans from over 1500 unique
+subjects (58% female) aged 45 to 90 years. Reproducibility was quantified across a
+range of MRI scanner model and protocol parameters.
+Accuracy of percentiles was tested with almost 2000 test scans, independent of
+training scans used to derive percentiles. Information was available on race or
+ethnicity for the majority of individuals in both the training and test samples: more
+than 20% were non-white, and more than 5% were Hispanic. Data were obtained
+from 13 different source cohorts, 7 of which were based in the USA.
+All performance tests were successfully passed in relation to pre-specified
+acceptance criteria, demonstrating safety and effectiveness substantially
+equivalent to the primary predicate.
+Safety and The device labeling contains instructions for use and any necessary cautions and
+Effectiveness: warnings to ensure safe and effective use of the device. Risk management is
+ensured via ISO 14971:2019 compliance to identify and provide mitigation of
+Oxford Centre for Innovation | New Road | Oxford | OX1 1BY
+Oxford Brain Diagnostics Ltd is a company registered in England and Wales | Company No. 11703979 | VAT No. 321 3026 62510(k) Summary for CDM Insights [K240680]
+potential risks in a risk analysis in the design phase and continuously throughout
+the development of the product. These risks are controlled via measures realized
+during software development, testing and product labeling, and risk control will
+continue throughout the life of the device.
+Furthermore, the device is intended for healthcare practitioners familiar with the
+post-processing of magnetic resonance images.
+The test results in this 510(k) premarket notification demonstrate that the CDM
+Insights: 1) complies with the international and FDA-recognized consensus
+standards and FDA guidance documents, as listed on the CDRH Premarket Review
+Submission Cover Sheet Form, and 2) meets the pre-defined acceptance criteria
+and is adequate for its intended use and specifications.
+Conclusion: Oxford Brain Diagnostics considers CDM Insights to be substantially equivalent to
+the predicate device(s) listed above. This conclusion is based on the similarities in
+primary intended use, principles of operation, functional design, and established
+medical use.
+Oxford Centre for Innovation | New Road | Oxford | OX1 1BY
+Oxford Brain Diagnostics Ltd is a company registered in England and Wales | Company No. 11703979 | VAT No. 321 3026 62

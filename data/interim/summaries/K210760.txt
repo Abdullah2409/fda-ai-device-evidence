@@ -1,0 +1,306 @@
+January 14, 2022
+Philips Medical Systems Nederland, B.V.
+℅ Michael Chilbert
+Regulatory Affairs Engineer
+Veenpluis 4-6
+Best Noord-Brabant, 5684 PC
+NETHERLANDS
+Re: K210760
+Trade/Device Name: Precise Image
+Regulation Number: 21 CFR 892.1750
+Regulation Name: Computed Tomography X-Ray System
+Regulatory Class: Class II
+Product Code: JAK
+Dated: December 10, 2021
+Received: December 13, 2021
+Dear Mr. Michael Chilbert:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR PartK210760 - Michael Chilbert Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Laurel Burk, Ph.D.
+Assistant Director
+Diagnostic X-ray Systems Team
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosurePHILIPS SECTION 5 HA300-006-05
+BG Diagnostic Imaging Revision: 01
+510(K) SUMMARY
+Status: Approved
+CT/AMI Page: 1 of 5
+SECTION 5 510(K) SUMMARY
+510(k) Summary for K210760
+This 510(k) summary of safety and effectiveness information is prepared in accordance with 21 CFR §807.92.
+Date Prepared: January 13, 2022
+Manufacturer: Philips Medical Systems Nederland B.V.
+Veenpluis 6,
+5684 PC BEST
+The Netherlands
+Establishment Registration Number: 3015777306
+Primary Contact Michael Chilbert, Ph.D., P.E.
+Person: Regulatory Affairs Engineer
+Phone: 440-869-4576
+E-mail: Michael.chilbert@philips.com
+Secondary Douglas Kentz
+Contact Person: Director of Regulatory Affairs
+Phone: (262) 389-7369
+E-mail: douglas.kentz@philips.com
+Device: Trade Name: Precise Image
+Common name: Computed Tomography x-Ray System
+Classification Name: Computed Tomography x-Ray System
+Classification Regulation: 21CFR 892.1750
+Classification Panel: Radiology
+Device Class: II
+Primary Product Code: JAK
+Secondary Product Code: Not Applicable
+Predicate Trade Name: Incisive CT
+Device: Manufacturer: Philips Healthcare (Suzhou) Co., Ltd.
+510(k) Clearance: K180015
+Classification Name: Computed Tomography X-Ray System
+Classification Regulation: 21CFR §892.1750
+Classification Panel: Radiology
+Device Class: Class II
+Product Code: JAK
+Reference Trade Name: Brilliance iCT
+Device: Manufacturer: Philips Medical Systems Nederland B.V.
+510(k) Clearance: K162838
+Classification Name: Computed Tomography X-Ray System
+Classification Regulation: 21CFR §892.1750
+Classification Panel: Radiology
+Device Class: Class II
+Product Code: JAKPHILIPS SECTION 5 HA300-006-05
+BG Diagnostic Imaging Revision: 01
+510(K) SUMMARY
+Status: Approved
+CT/AMI Page: 2 of 5
+Device The proposed Precise Image is a reconstruction software application that may be used
+Description: on a Philips whole-body computed tomography (CT) X-Ray System. Precise Image is a
+robust reconstruction software application, utilizing technological advancements in
+Artificial Intelligence and a Convolutional Neural Networks (CNN), When used, Precise
+Image generates CT images that provides an image appearance similar to traditional
+FBP images while reducing dose and improving image quality.
+The implemented algorithm includes 5 user-adjustable settings to match the Radiologist’s
+preference for dose reduction and image quality.
+The proposed Precise Image reconstruction has been trained on and may be used on the
+currently marketed predicate device Philips Incisive CT System (K180015).
+Indications for The Precise Image is a reconstruction software application for a Computed Tomography
+Use / Intended X-Ray System intended to produce images of the head and body by computer
+reconstruction of x-ray transmission data taken at different angles and planes. These
+Use:
+devices may include signal analysis and display equipment, patient and equipment
+supports, components and accessories. Precise Image has been evaluated and available
+on preselected reference protocols for adult subjects. Precise Image is not indicated for
+use in pediatric subjects.
+The CT system with Precise Image is indicated for head, whole body and vascular X-ray
+Computed Tomography applications. These scanners are intended to be used for
+diagnostic imaging.
+Precise Image uses an Artificial Intelligence powered reconstruction algorithm that is
+designed for low radiation dose, provides low noise, and improves low contrast
+detectability.
+Technological The proposed Precise Image reconstruction software application, has the same
+Characteristics fundamental design characteristics and are based on comparable technologies found in
+the currently marketed predicate device Philips Incisive CT (K180015)
+This 510(k) submission addresses the following:
+• Precise Image is an Artificial Intelligence powered reconstruction algorithm that is
+designed for low radiation dose, provides low noise, and improves low contrast
+detectability as compared to iDose, as well as improve image appearance that
+more closely resembles Filtered Back Projection (FBP) at higher doses.
+• The currently marketed predicate Philips Incisive CT (K180015) is being used for
+diagnostic imaging in radiology, interventional radiology and cardiology and in
+oncology as part of treatment preparation and radiation therapy planning. The
+fundamental scientific technology and design of the proposed Precise Image
+reconstruction software application is equivalent to the currently marketed
+predicate device Philips Incisive CT (K180015).PHILIPS SECTION 5 HA300-006-05
+BG Diagnostic Imaging Revision: 01
+510(K) SUMMARY
+Status: Approved
+CT/AMI Page: 3 of 5
+Technological Characteristics Comparison
+Design and Fundamental Scientific Technology
+Predicate Device: Proposed Device:
+Device Incisive CT System Precise Image software Conclusion
+(K180015) application
+Proposed device has scan
+Head, Body, Vascular
+Application Head, Body and Vascular types found in the
+and Cardiac
+predicate,
+Scan data used for
+Scan Regime Continuous Rotation Continuous Rotation
+reconstruction - Identical,
+Scan Field of
+Up to 500 mm Up to 500 mm Identical
+View
+Surview
+Proposed device has scan
+Scan modes Axial-after-Axial Axial-after-Axial
+types found in the
+Dynamic Scan Helical Scan
+predicate
+Helical Scan
+Low Contrast
+Improved, better low
+Resolution (20 cm 4 mm @ 0.3% @ 22 mGy 5 mm @ 0.3% @ 5.5
+contrast resolution at lower
+Catphan CTDIvol mGy CTDIvol
+dose levels.
+phantom)
+Minimum Scan
+0.35 sec for 360° rotation 0.35 sec for 360° rotation Identical
+Time
+Noise in Standard
+Mode (as
+measured on 0.27% at 27 mGY 0.27% at 27 mGY Identical
+21.6 cm water-
+equivalent)
+achieving up to 85% lower
+Noise Reduction Improved, better noise
+N/A – Standard mode noise at 80% lower dose
+and Low Contrast reduction and low contrast
+(baseline for claim) and 60% better low
+Detectability detectability
+contrast detectability
+Where noise is reduced
+by at least 50%, the
+system shall shift the
+Noise Power N/A – Standard mode noise power spectrum of Will not shift NPS more
+Spectrum (baseline for claim) images by no more than than 6%
+6% as compared to the
+same data reconstructed
+without Precise Image
+Proposed device has scan
+Head, Body, Vascular
+Application Head, Body and Vascular types found in the
+and Cardiac
+predicate.
+Scan data used for
+Scan Regime Continuous Rotation Continuous Rotation
+reconstruction - Identical.
+Based on the information provided above, the proposed Precise Image reconstruction
+software application for Philips CT Systems is considered substantially equivalent to the
+currently marketed predicate device Philips Incisive CT (K180015), in terms of
+fundamental scientific technology.PHILIPS SECTION 5 HA300-006-05
+BG Diagnostic Imaging Revision: 01
+510(K) SUMMARY
+Status: Approved
+CT/AMI Page: 4 of 5
+Summary of Non-clinical performance testing has been performed on the proposed Precise Image
+Non-Clinical reconstruction software application for CT Systems.
+Performance
+Philips CT Systems, comply with the following International and FDA recognized
+Data:
+consensus standards and FDA guidance document(s).
+• IEC 60601-1:2005 (Third Edition) + CORR. 1:2006 + CORR. 2:2007 + A1:2012
+(or IEC 60601-1: 2012 reprint) (FDA Recognition Number: 19-4)
+• IEC 60601-1-2:2014: (FDA Recognition Number :19-8)
+• IEC 60601-1-3:2008+A1:2013 (FDA Recognition Number: 12-269)
+• IEC 60601-1-6:2010 +A1: 2013 (FDA Recognition Number: 5-89)
+• IEC 60601-2-44:2009/AMD2:2016 (FDA Recognition Number: 12-302)
+• IEC 62304:2006 + A1: 2015 (FDA Recognition Number: 13-79)
+• ISO 10993-1:2009/Cor.1:2010 (FDA Recognition Number: 2-220)
+• ISO 14971 2nd Edition. (FDA Recognition Number: 5-40)
+Device Specific Guidance Document:
+• Guidance for Industry and FDA Staff – Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices” (issued May 11, 2005)
+• International and FDA-recognized consensus IEC 62304 “Medical device software
+– Software life cycle processes” (Edition 1.1, 2006). FDA/CDRH recognition
+number 13-79.
+• Proposed Regulatory Framework for Modifications to Artificial
+Intelligence/Machine Learning (AI/ML)-Based Software as a Medical Device
+(SaMD) Discussion Paper. (April 2, 2019)
+Design Verification planning and testing was conducted at the sub-system and at the
+system level. The sub-systems are tested against the sub-system requirements
+specifications (SSRS) and the system level verification is conducted against the system
+requirement specifications (SRS). System and sub-system verification activities
+demonstrate the system or sub-systems meet the established system and sub-system
+level design input requirements. System and sub-system level requirements may be
+verified by manual test, automated test, inspection/analysis, or any combination of the
+three. Design verification also includes Image Quality verification and risk analysis/risk
+mitigation testing.
+The traceability between the requirements, the hazard mitigations and the test protocols
+are described in the Traceability Matrix. The Traceability Matrix also shows the overall test
+results per requirement and per hazard mitigation. The summary and conclusion of
+results are provided in the System Verification Test Report.
+Non-Clinical design validation testing covered the intended use and commercial claims
+Validation testing included clinical image evaluation and workflow validation.
+All these tests were used to support substantial equivalence of the proposed Precise
+Image reconstruction software application and demonstrate that the proposed Precise
+Image reconstruction software application for CT Systems:
+• Maintains compliance with the aforementioned international and FDA-recognized
+consensus standards and/or FDA device specific guidance document, and;
+• Meets the acceptance criteria and is adequate for its intended use.PHILIPS SECTION 5 HA300-006-05
+BG Diagnostic Imaging Revision: 01
+510(K) SUMMARY
+Status: Approved
+CT/AMI Page: 5 of 5
+Therefore, the proposed Precise Image reconstruction software application for Philips CT
+Systems is considered substantially equivalent to the currently marketed predicate device
+Philips Incisive CT (K180015) in terms of safety and effectiveness.
+Summary of The proposed Precise Image reconstruction software application for CT Systems did not
+Clinical require any external clinical study. A comparative image evaluation study was performed
+on 55 image set pairs from Precise Image and the predicate Incisive CT and Brilliance iCT
+Performance
+by 6 board certified radiologists to evaluate Diagnostic Confidence, Sharpness, Noise level,
+Data:
+Image texture and Artifacts on a five point Likert scale. The substantial equivalence to the
+currently marketed predicate device Philips Incisive CT (K180015) was demonstrated with
+the following attributes:
+• Indication for use;
+• Technological characteristics;
+• Non-clinical and clinical performance testing; and
+• Safety and effectiveness.
+Sample clinical images are provided with this submission, which were reviewed and
+evaluated by certified radiologists. All images were evaluated to have good image quality.
+Substantial The proposed Precise Image reconstruction software application for Philips CT Systems is
+Equivalence substantially equivalent to the currently marketed predicate device Philips Incisive CT
+(K180015) in terms of design, features and fundamental scientific technology. The Precise
+Conclusion:
+Image reconstruction software application for Philips CT Systems does not introduce any
+new risk nor impact safety and effectiveness.
+Additionally, substantial equivalence was demonstrated by non-clinical and clinical
+(verification and validation) performance tests provided in this 510(k) premarket
+notification. These tests demonstrate that the proposed Precise Image reconstruction
+software application for CT Systems complies with the requirements specified by Philips
+Medical Systems Nederland B.V. and the international and FDA-recognized consensus
+standards and is as safe and effective as its currently marketed predicate device Philips
+Incisive CT (K180015) without raising any new safety and/or effectiveness concerns.

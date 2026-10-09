@@ -1,0 +1,450 @@
+MVision AI Oy October 18, 2024
+Kalpana Jha
+VP of Regulatory and Market Strategy
+Paciuksenkatu 29, 6th Floor
+Helsinki, 00270
+Finland
+Re: K241490
+Trade/Device Name: Contour+ (MVision AI Segmentation)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QKB
+Dated: June 25, 2024
+Received: September 24, 2024
+Dear Kalpana Jha:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.03
+Silver Spring, MD 20993
+www.fda.govK241490 - Kalpana Jha Page 2
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K241490 - Kalpana Jha Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological
+Imaging and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K241490
+Device Name
+Contour+ (MVision Al Segmentation)
+Indications for Use (Describe)
+Contour+ (MVision Al Segmentation) is a software system for image analysis algorithms to be used
+in radiation therapy treatment planning workflows. The system includes processing tools for
+automatic contouring of CT and MR images using machine learning based algorithms. The produced
+segmentation templates for regions of interest must be transferred to appropriate image visualization
+systems as an initial template for a medical professional to visualize, review, modify and approve
+prior to further use in clinical workflows.
+The system creates initial contours of pre-defined structures of common anatomical sites, i.e., Head
+and Neck, Brain, Breast, Lung and Abdomen, Male Pelvis, and Female Pelvis.
+Contour+ (MVision Al Segmentation) is not intended to detect lesions or tumors. The device is not
+intended for use with real-time adaptive planning workflows.
+Type of Use (Select one or both, as applicable)
+[Prescription Use (Part 21 CFR 801 Subpart D) ]Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."510(k) Summary – K241490
+The following information is provided as required by 21 CFR 807.92
+Date Prepared: June 25, 2024
+Submitter's Information
+Company Name and Address: MVision AI Oy
+Paciuksenkatu 29, 6th floor
+00270 Helsinki, Finland
+Tel: +358 (0) 40 721 3783
+info@mvision.ai
+Establishment
+Registration Number: 3022745617
+Contact Person: Kalpana Jha
+VP of Regulatory and Market Strategy
+kalpana.jha@mvision.ai
+Tel: +358 44 9214 354
+Subject Device
+Device Trade Name: Contour+(MVision Al Segmentation)
+Common Name: Medical Image Segmentation Software
+Device Classification Name: Radiological Image Processing Software For Radiation Therapy
+Product Code: QKB
+Device Class: Class II
+Review Panel: Radiology
+Regulation Description: Medical Image Management And Processing System
+Regulation Number: 21 CFR §892.2050
+Predicate Device
+Device Name: MVision Al Segmentation
+510(k) Number: K212915
+Manufacturer: MVision AI Oy
+This predicate has not been subject to a design-related recall.
+Device Description
+Contour+ (MVision Al Segmentation) is a software-only medical device (software system) that can be
+used to accelerate region of interest (ROI) delineation in radiotherapy treatment planning by automatic
+contouring of predefined ROIs and the creation of segmentation templates on CT and MR images.
+The Contour+ (MVision Al Segmentation) software system is integrated with a customer IT network and
+configured to receive DICOM CT and MR images, e.g., from a CT or MRI scanner or a treatment planning
+MVision AI Oy Page 1of 8510(k) Summary – K241490
+system (TPS). Automatic contouring of predefined ROIs is performed by pre-trained, locked, and static
+models that are based on machine learning using deep artificial neural networks. The models have been
+trained on several anatomical sites, including the brain, head and neck, bones, breast, lung and abdomen,
+male pelvis, and female pelvis using hundreds of scans from a diverse patient population. The user does not
+have to provide any contouring atlases. The resulting segmentation structure set is connected to the original
+DICOM images and can be transferred to an image visualization system (e.g., a TPS) as an initial template
+for a medical professional to visualize, modify and approve prior to further use in clinical workflows.
+The following is a listing of supported anatomicalsites and ROIs of the organs for which the device creates
+initial contours:
+CT Bones CT Breast CT Head and Neck
+C1 A_Aorta A_Carotid_L/R
+C2 A_Aorta_v2 Arytenoid_L/R
+C3 A_Carotid_L/R Body
+C4 A_LAD Bone_Mandible
+C5 A_Pulm BrachialPlex_L/R
+C6 Atrium_L/R Brain
+C7 Bag_Bowel Brainstem
+L1 Body Buccal_Mucosa_L/R
+L2 Br_1234_RTOG_L/R Cavity_Oral
+L3 Br_234_RTOG_L/R Cochlea_L/R
+L4 BrachialPlex_L/R Cricophar_inlet
+L5 Breast_L/R Esophagus_S
+Rib01_L/R Breast_RTOG_L/R Eye_Ant_L/R
+Rib02_L/R BrTW_1234_RTOG_L/R Eye_Post_L/R
+Rib03_L/R BrTW_234_RTOG_L/R Eye_L/R
+Rib04_L/R BrTW_RTOG_L/R Glnd_Lacrimal_L/R
+Rib05_L/R Esophagus Glnd_Submand_L/R
+Rib06_L/R Glnd_Thyroid Glnd_Thyroid
+Rib07_L/R Heart Glottis
+Rib08_L/R Heart+A_Pulm LN_Neck_IA
+Rib09_L/R Humerus_Head_L/R LN_Neck_IB_L/R
+Rib10_L/R Humerus_L/R LN_Neck_III_L/R
+Rib11_L/R Liver LN_Neck_II_L/R
+Rib12_L/R LN_Axilla_RTOG_L/R LN_Neck_IVA_L/R
+T1 LN_Axillary_L/R LN_Neck_IVB_L/R
+T10 LN_B_RTOG_L1_L/R LN_Neck_IX_L/R
+T11 LN_B_RTOG_L2_L/R LN_Neck_VC_L/R
+T12 LN_B_RTOG_L3_L/R LN_Neck_VIA
+T2 LN_B_RTOG_L4_L/R LN_Neck_VIB
+T3 LN_B_RTOG_L5_L/R LN_Neck_VIIA_L/R
+T4 LN_Breast_L1_L/R LN_Neck_VIIB_L/R
+T5 LN_Breast_L2_L/R LN_Neck_V_L/R
+T6 LN_Breast_L3_L/R LN_Neck_XA_L/R
+MVision AI Oy Page 2of 8510(k) Summary – K241490
+T7 LN_Breast_L4_L/R LN_Neck_XB_L/R
+T8 LN_IMN_IC4_L/R Larynx_SG
+T9 LN_IMN_L/R Lens_L/R
+LN_Intpect_L/R Lips
+LN_RTOG_IMN_L/R Lung_L/R
+Lung_L/R Musc_Constrict
+SpinalCanal OpticChiasm
+SpinalCord OpticChiasm_cnv
+Spleen OpticNrv_L/R
+Stomach OpticNrv_cnv_L/R
+Trachea Parotid_L/R
+V_Venacava_I Pituitary
+V_Venacava_S SpinalCanal
+Ventricle_L/R SpinalCord
+Wire Trachea
+CT Lung and Abdomen CT Female Pelvis CT Male Pelvis
+A_Aorta A_Aorta A_Aorta
+A_Aorta_v2 Bag_Bowel Bag_Bowel
+A_LAD Bladder Bladder
+A_Pulm Body Body
+Atrium_L/R Bone_Pelvic Bone_Pelvic
+Bag_Bowel Bowel_Large Bowel_Large
+Body Bowel_Small Bowel_Small
+Bones CTV_Central CaudaEquina
+Bowel_Large CTV_Param Duodenum
+Bowel_Small CTV_Pelvis Femur_Head_L/R
+BrachialPlex_L/R Duodenum Femur_Implant_L/R
+Bronchus_Prox Femur_Head_L/R Femur_L/R
+Chestwall_L/R Femur_Implant_L/R Kidney_L/R
+Duodenum Femur_L/R L4_VB
+Esophagus Kidney_L/R L5_VB
+Heart L4_VB Liver
+Heart+A_Pulm L5_VB LN_Inguinal_L/R
+Humerus_Head_L/R Liver LN_NRG
+Humerus_L/R LN_Gyn_RTOG LN_Pivotal
+Kidney_L/R LN_Inguinal_L/R LN_RTOG
+Liver LN_PAN Markers
+Lung_L/R LN_PAN_Long Musc_Coccygeus_L/R
+Pancreas LN_Pivotal Musc_Iliacus_L/R
+SpinalCanal LN_RTOG Musc_Obt_Int_L/R
+SpinalCord Musc_Coccygeus_L/R Musc_Pirifor_L/R
+MVision AI Oy Page 3of 8510(k) Summary – K241490
+Spleen Musc_Iliacus_L/R Musc_Psoas_Maj_L/R
+Stomach Musc_Obt_Int_L/R Pancreas
+Trachea Musc_Pirifor_L/R PenileBulb
+Trachea_Prox Musc_Psoas_Maj_L/R Prostate
+V_Venacava_I Pancreas RectoSigmoid
+V_Venacava_S RectoSigmoid Rectum
+Ventricle_L/R Rectum Sacrum
+Sacrum SeminalVes
+SpinalCanal SpinalCanal
+SpinalCord SpinalCord
+Spleen Spleen
+Stomach Stomach
+UteroCervix V_Venacava_I
+V_Venacava_I Vessels_L/R
+Vagina Vessels_Long_L/R
+Vessels_L/R
+Vessels_Long_L/R
+CT Brain MR Brain MR T2 Male Pelvis
+A_Carotid_L/R Amygdala_L/R Bladder
+Body Body BladderTrigone
+Brain Brain PenileBulb
+Brainstem Brainstem Prostate
+Cochlea_L/R Cerebellum Rectum
+Eye_Ant_L/R CorpusCallosum SeminalVes
+Eye_L/R Eye_L/R Spacer
+Eye_Post_L/R Glnd_Lacrimal_L/R
+Fossa_Pituitary Hippocampus_L/R
+Glnd_Lacrimal_L/R Hypothalamus
+Lens_L/R MedullaOblongata
+OpticChiasm Midbrain
+OpticChiasm_cnv OpticChiasm
+OpticNrv_cnv_L/R OpticChiasm_cnv
+OpticNrv_L/R OpticNrv_cnv_L/R
+Parotid_L/R OpticNrv_L/R
+Pituitary OpticTract_cnv_L/R
+SpinalCanal OpticTract_L/R
+SpinalCord Pituitary
+Pons
+Thalamus_L/R
+MVision AI Oy Page 4of 8510(k) Summary – K241490
+The Contour+ (MVisionAl Segmentation) software system has two deployment modes and is written in a
+way that allows running the same code in two different environments:
+On-premises (local): For the local Healthcare environment, DICOM image and structure set data
+is transferredvia the DICOM TCP/IP protocol.
+Cloud: For the cloud environment, de-identified DICOM image and structure set data are
+transferred via secure HTTPS protocol. HTTPS data is protected by TLS encryption.
+Indication for use / Intended use
+Contour+ (MVision Al Segmentation) is a software system for image analysis algorithms to be used in
+radiation therapy treatment planning workflows. The system includes processing tools for automatic
+contouring of CT and MR images using machine learning based algorithms. The produced segmentation
+templates for regions of interest must be transferred to appropriate image visualization systems as an initial
+template for a medical professional to visualize, review, modify and approve prior to further use in clinical
+workflows.
+The system creates initial contours of pre-defined structures of common anatomical sites, i.e., Head and
+Neck, Brain, Breast, Lung and Abdomen, Male Pelvis, and Female Pelvis.
+Contour+ (MVision Al Segmentation) is not intended to detect lesions or tumors. The device is not
+intended for use with real-time adaptive planning workflows.
+Comparison with the Predicate Device
+Contour+(MVision AI Segmentation) is an incremental minor version release with the same intended use,
+indications for use, and principles of operation as the predicate software version.
+The following table outlines the similarities and differences between the two software versions:
+MVision AI Segmentation (K212915) Contour+ (MVision Al Segmentation) Comparison
+MVision AI Oy Page 5of 8
+esU
+rof
+snoitacidnI
+MVisionAI Segmentation is a software Contour+ (MVision Al Segmentation) is Same intended use.
+system for image analysis algorithms to be a software system for image analysis The only difference
+used in radiation therapy treatment algorithms to be used in radiation therapy is the inclusion of
+planning workflows. The system includes treatment planning workflows. The processing tools for
+processing tools for automatic contouring system includes processing tools for automatic contouring
+of CT images using machine learning automatic contouring of CT and MR of MR images, in
+based algorithms. The produced images using machine learning based addition to CT
+segmentation templates for regions of algorithms. The produced segmentation images –this is a
+interest must be transferred to appropriate templates for regions of interest must be change in
+image visualization systems as an initial transferred to appropriate image technological
+template for a medical professional to visualization systems as an initial characteristics that
+visualize, review, modify and approve template for a medical professional to does not affect the
+prior to further use in clinical workflows. visualize, review, modify and approve intended use of the
+prior to further use in clinical workflows. device.
+The system creates initial contours of pre-
+defined structures of common anatomical The system creates initial contours of
+sites, i.e. Head and Neck, Brain, Breast, pre-defined structures of common
+Lung and Abdomen, Male Pelvis, and anatomical sites, i.e., Head and Neck,
+Female Pelvis in adult patients. Brain, Breast, Lung and Abdomen, Male
+Pelvis, and Female Pelvis.
+MVision AI Segmentation is not intended
+to detect lesions or tumors. The device is Contour+ (MVision Al Segmentation) is
+not intended for use with real-time not intended to detect lesions or tumors.
+adaptive planning workflows. The device is not intended for use with
+real-time adaptive planning workflows.510(k) Summary – K241490
+MVision AI Segmentation (K212915) Contour+ (MVision Al Segmentation) Comparison
+MVision AI Oy Page 6of 8
+dednetnI
+sresU
+Designed to be used by clinicians trained Designed to be used by clinicians trained Same.
+in radiation therapy workflows. in radiation therapy workflows.
+tneitaP
+tegraT
+noitalupoP
+Patients who have been prescribed Patients who have been prescribed Same
+radiation therapy. radiation therapy.
+tnemyolpeD tnemnorivnE
+Cloud based software Application Cloud based software Application Same
+Local (on customer premises) Local (on customer premises)
+installation in healthcare provider's IT installation in healthcare provider's IT
+network / server network / server
+gnitarepO mroftalP
+Ubuntu Ubuntu Contour+ may also
+Windows run in a Windows
+operating platform
+/
+snoitacinummoC
+gnikrowteN
+DICOM image and structure set data DICOM image and structure set data Minor changes:
+transfers transfers Added API script to
+TCP/IP, SCP, and HTTP (Local) TCP/IP, SCP, and HTTP (Local) send scans directly
+TCP/IP, SCP, and HTTPS (Cloud) TCP/IP, SCP, and HTTPS (Cloud) from the Varian
+Eclipse Treatment
+Planning System;
+Provided read-only
+Import/Export UI to
+upload/download
+DICOM data via a
+web browser
+gnigamI
+seitiladom
+CT CT Added support for
+MR automatic contouring
+of MR images
+noitatnemgeS
+smhtirogla
+Machine learning-based contouring Machine learning-based contouring Same algorithms;
+using deep learning-based models using deep learning-based models Updated certain
+Does not support segmentation based Does not support segmentation based CT segmentation
+models; Added 1 CT
+on atlas-based techniques on atlas-based techniques
+and 2 MR models
+desab
+noitartsigeR
+gniruotnoc-er
+No No Same510(k) Summary – K241490
+The different technological characteristics of the two software versions do not raise different questions of
+safety and effectiveness.
+Both software versions are intended to accelerate region of interest delineation in radiological images
+by automatic contouring and the creation of segmentation templates to be used by qualified healthcare
+professionals in radiation therapy treatment planning workflows.
+Both software versions are not intended to detect lesions or tumors, and they are not intended for use
+with real-time adaptive planning workflows.
+Both software versions are intended to create initial contours of predefined structures of common
+anatomical sites, such as head and neck, brain, breast, lung and abdomen, male pelvis, and female pelvis
+on scans that are appropriate for treatment planning. The addition of a model to segment specifically
+bone structures on CT images and the addition of models for the segmentation of MR images does not
+change the device intended use and indications for use.
+Both software versions are intended to produce segmentation templates for regions of interest that must
+be transferred to appropriate image visualization systems as an initial template for a medical
+professional to visualize, review, modify and approve prior to further use in clinical workflows.
+As radiotherapy treatment planning may be performed effectively using CT and/or MR images,
+automatic contouring for the creation of segmentation templates of predefined structures of anatomical
+regions of interest in images from either modality offers the same benefits and presents the same risks.
+In both software versions, automatic contouring of images (segmentation of anatomical regions of
+interest) is performed by pre-trained, locked, and static models that are based on machine learning using
+the same deep artificial neural networks. The segmentation algorithms remain the same.
+Performance data –Verification and Validation Testing
+Verification and validation testing of this software release was also conducted as per FDA’s Guidance for
+the “Content of Premarket Submissions for Device Software Functions(2023),” including compliance with
+recognized consensus standards (e.g., IEC 62304, IEC 62366-1, ISO 14971, DICOM) and FDA guidance
+for “Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket
+Submissions (2023),” and “Design Considerations and Pre-market Submission Recommendations for
+Interoperable Medical Devices (2017).”
+Device performance with the updated CT models and the additional CT and MR models, i.e., the
+effectiveness of the automatic segmentation methods (machine learning-based models) in the modified
+software version,wasevaluated using the same data management practices (including data sources, sample
+size, and model generalizability) and established test protocols as previously reviewed by the FDA.
+The training and the test (golden) datasets were chosen to achieve high granularity in performance
+evaluation tests. The datasets originate from multiple EU and US clinical sites (with over 50% of data
+coming fromUS sites) with a broad diversity of patients and medical imaging technology that are deemed
+representative of the US population and medical practice. This also ensures that the evaluated model
+performance reflects the real clinical performance in any radiotherapy clinic following the segmentation
+consensus guidelines the models are trained to comply with.
+The performance of both CT and MR automatic segmentation models was evaluated by comparing the
+produced auto-segmentations to ground truth segmentations and calculating similarity scores DSC (Dice
+Score) and S-DSC@2mm (Surface-Dice Score) for all regions of interest (ROI). The ROI acceptance
+criteria are based on a set level of minimum agreement against ground truth segmentations determined
+through clinically relevant similarity metrics DSC and S-DSC@2mm.
+MVision AI Oy Page 7of 8510(k) Summary – K241490
+Performance verification and validation results for various subsets of the golden dataset show the
+generalizability and robustness of the device for the US patient population and US medical practice.
+Performance validation of machine learning-based algorithms for automatic segmentation was also carried
+out by radiotherapy experts. The results show that Contour+ (MVision AI Segmentation) assists in reducing
+the upfront effort and time required for contouring CT and MR images, which can instead be devoted by
+clinicians on refining and reviewing the software-generated contours.
+The additional functional interoperability changes (the API script for the Varian Eclipse TPS, and the
+Import/Export UI) and the labeling change to support deployment of the software on a Windows operating
+platform do not have an impact on device safety or effectiveness. Successful software execution in a
+Windows operating environment and the functional interoperability changes was performed using the same
+established design verification test protocols as for the predicate software version per Product Life Cycle
+Procedure, based on FDA recognized consensusstandards and design control regulation 21 CFR 820.30.
+Conclusion
+Contour+(MVision AI Segmentation) is an incremental minor version release with the same intended use,
+indications for use, and principles of operation as the predicate software version. The different technological
+characteristics of the two software versions do not raise different questions of safety and effectiveness.
+Software verification and validation testing, including the performance of all CT and MR models using
+established protocols and recognized standards demonstrate that Contour+ (MVision AI Segmentation)
+fulfills the same acceptance criteria, provides the intended benefits, and it is as safe and as effective as the
+predicate software version (MVision AI Segmentation).
+MVision AI Oy Page 8of 8

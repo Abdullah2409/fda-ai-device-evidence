@@ -1,0 +1,652 @@
+06-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+SECTION 6
+510(k) SUMMARY JUN - 9 2010
+This summary of 5 10(k) safety and effectiveness information is being submitted in accordance
+with the requirements of SMDA 1990 and 21 CFR 807.92.
+The assigned 5 10(k) number is-k092967.
+807.92 (a)(1): Name: Pathwork Diagnostics, Inc.
+Address: 595 Penobscot Drive
+Redwood City, CA 94063
+Phone: 650-366-1003 xl0l
+Contact: Deborah Neff, CEO
+807.92 (a)(2): Device Name trade name and common name, and classification
+-
+Trade name: PathworkV Tissue of Origin Test Kit-FFPE
+Common name: Microarray, reagents and software system kit for gene
+expression-based diagnostics
+Classification: 21 CFR § 862.3 100, Amphetamine Test System
+Class 11
+Product Code: 01W, Software, Similarity Score algorithm, tissue of origin for
+malignant tumor type
+Panel: Toxicology (91)
+807.92 (a)(3): Identification of the legally marketed predicate device
+The Pathwork Tissue of Origin Test Kit-FFPE is substantially equivalent to the
+Pathwork Tissue of Origin Test cleared under premarket notification K080896 on
+July 30, 2008.
+807.92 (a)(4): Device Description
+The Pathwork®9 Tissue of Origin Test Kit-FFPE (Origin Test Kit-FFPE) is a test
+kit consisting of the Pathchip microarray, reagents, software, Pathwork Specimen
+Processing Guide and Guide to Report Interpretation (GRI).
+The Pathehip is a custom-designed microarray (manufactured by Affymetrix, Inc.,
+Santa Clara, CA per Pathwork design requirements) that functions in a manner
+similar to GeneChip HG-U 133A. The Pathchip has over 500,000 unique
+oligonueleotide features (18-micron in size), covering over 18,400 transcript
+Pathwork Diagnostics, Inc. Section 6: Page 1 of 14
+Pathwork K092967 Page 96 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+variants (across 22,300 probesets) which in turn represent 14,500 of the best
+characterized human genes. Each transcript is represented by a probeset,
+comprised of 11-16 pairs of oligonucleotide probes. The probesets are spatially
+distributed over the array and are used to measure the level of transcription of
+each sequence represented on the array. For each array, there are 2000 probesets
+representing 2000 human genes which are used by the Origin Test Kit-FEPE
+algorithm as markers to identify the tissue of origin of the specimen being tested.
+These probesets were selected using machine learning methods and each set has
+between II and 16 probe pairs of 25 bases whose sequences are matched to
+mRNA species that are found in human tissue. In addition, the array has 29
+probesets that are used for normalization and data verification.
+The algorithm of the Origin Test Kit-FFPE was developed using a database of
+2196 specimens, divided into independent training and test datasets. The test
+development used a machine learning approach based on marker selection to
+build a predictive model. The model consists of a list of markers, a set of
+reference (support) samples and a set of coefficients. These components are
+combined to produce 15 Similarity Scores, one for each of the possible tissues on
+the test panel. Each Similarity Score ranges from 0 to 100, with a higher score
+being associated with a higher likelihood that the input specimen has a molecular
+signature of the corresponding tissue of origin. The 15 Similarity Scores are
+scaled to sum up to 100. Each is based on the microarray standardized expression
+(SE) values of selected biomarkers. The process consists of the following steps:
+I . Read SE values for the biomarkers used in the Tissue of Origin Test
+Kit-FFPE from the input file.
+2. Compute a decision function ("score") for each of 105 possible
+pairings of the 15 tissues on the test panel with respect to the sample
+described by the input SE values.
+3. Convert the 105 pairwise scores into pairwise probabilities.
+4. Reduce the 105 pairwise probabilities to 15 Similarity Scores, one for
+each Tissue of Origin. These are the final 15 Similarity Scores
+presented in the Tissue of Origin Test Kit-FFPE Report.
+The Pathwork Specimen Processing Guide (SPC) contains instructions for the
+user to process tissue specimens in the manner specimens were processed during
+the clinical validation of the Origin Test Kit-FFPE.
+The specimen used for the Origin Test Kit-FFFE (Origin Test Kit-FFPE) is a
+formalin-fixed, paraffin-embedded (FEPE) specimen. Prior to processing for the
+Origin Test Kit-FFPE test, the user must ensure, by routine H&E stain, that the
+specimen contains at least 60% viable tumor. The specimen is sectioned to yield a
+I10-um-thick curl with a minimum tissue area of at least 25 mm sq or equivalent.
+Total RNA must be isolated per the SPG. A total RNA yield of at least 150 ng i
+required. The procedural steps after isolation of total RNA from the specimen
+begin with a two-cycle RNA amplification: I) round I reverse transcription (RT)
+Pathwork Diagnostics, Inc. Section 6: Page 2 of 14
+Pathwork K092967 Page 97 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+of total RNA with dT and random RT primers; 2) purification of round I cDNA;
+3) tailing of first-strand cDNA with terminal deoxynucleotidyl transferase; 4)
+synthesis of T7/T3 promoter sequence; 5) T7 in vitro transcription 6) round 2 RT
+of sense RNA with a dT and random primers; 7) T3 in vitro transcription (linear
+amplification); 8) purification of round 2 sense RNA; 9) RT of round 2 sense
+RNA with random primers; and 10) purification and fragmentation of biotinylated
+DNA. This is followed by hybridization of the biotin-labeled cDNA target to the
+Pathchip microarray; washing and scanning of the hybridized Pathchip
+microarray; data acquisition (signal intensity per feature; GEL file), data
+verification, standardization of the signal intensities; determination of similarity to
+IS tissues of origin and generation of the Report.
+The GEL file from each laboratory is transported from the Affymetrix
+Workstation with GeneChip® Operating System (GCOSDx) using the Pathwork
+File Transfer Software (PFTS) through a secure FTP transfer protocol to
+Pathwork Diagnostics for analysis. The Pathwork System Software (PSS) then
+converts the GEL file to gene expression measurements, performs data
+verification, normalizes (standardizes) the data to correct for technical sources of
+variation, performs a series of multiplex statistical tests, and produces a report
+summarizing these results. Each specimen analyzed will produce IS Similarity
+Scores, one for each tissue on the panel. Each Similarity Score is a measure of
+the similarity of the gene expression profile of the specimen to the profile of the
+indicated tissue, ranging from 0 (very low similarity) to 100 (very high
+similarity). Similarity Scores for all 15 tissues sum to 10 0. For each Origin Test
+Kit-FFPE test performed, a test report is generated that quantifies the similarity of
+the RNA expression pattern found in a tumor specimen (poorly or un-
+differentiated primary tumors, as well as metastatic tumors) to expression patterns
+found in tumor specimens from 15 known tissues of origin and provided back to
+the laboratory over a secure internet connection in pdf format. Clinical laboratory
+customers are expected to use the resulting report in either its printed or electronic
+form for incorporation into the surgical pathology report delivered to the
+requesting physician by the laboratory.
+The report quantifies the similarity of a poorly differentiated, undifferentiated or
+metastatic tumor specimen to 15 cancers of known tissue of origin, for
+interpretation by the clinician. The report presents 15 computed Similarity Scores
+in a graphical format, one for each tissue on the test panel. The ordering physician
+interprets the Origin Test Kit-FFPE Report using the Guide to Report
+Interpretation (GRI) which is provided as a component of the report are located
+directly below the results for Similarity Scores.
+Components included in the kit
+Microarray: Pathchip microarrays, packaged in boxes of 5 or 10.
+Gene Expression Reagents: Reagents for specimen processing (extraction,
+amplification, labeling, hybridization, staining and washing).
+Pathwork Diagnostics, Inc. Section 6: Page 3 of 14
+Pathworlc K092967 Page 98 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+Report
+The Origin Test Kit-FFPE Report is produced by the Pathwork System Software
+by licensed agreement. The Pathwork®V System Software receives data from the
+scanned PathchipTM microarray and performs data quality control and analysis.
+The System Software then generates an Origin Test Kit-FFPE Report which
+provides a Similarity Score for each of the 15 tissues on the test panel. The test
+report is accessible for clinical interpretation via a secure password protected
+website.
+807.92 (a)(5): Intended Use
+Intended use: The PathworkV Tissue of Origin Test is an in vitro diagnostic
+intended to measure the degree of similarity between the RNA expression patterns
+in a patient's formalin-fixed, paraffin-embedded (FFPE) tumor and the RNA
+expression patterns in a database of fifteen tumor types (poorly differentiated,
+undifferentiated and metastatic cases) that were diagnosed according to then
+current clinical and pathological practice. This test should be evaluated by a
+qualified physician in the context of the patient's clinical history and other
+diagnostic test results.
+Limitations: The Pathwork Tissue of Origin Test is not intended to establish the
+origin of tumors (e.g. cancer of unknown primary) that cannot be diagnosed
+according to current clinical and pathological practice. It is not intended to
+subclassify or modify the classification of tumors that can be diagnosed by current
+clinical and pathological practice, nor to predict disease course or survival or
+treatment efficacy, nor to distinguish primary from metastatic tumor. Tumor
+types not in the Pathwork Tissue of Origin Test database may have RNA
+expression patterns that are similar to patterns in the database; therefore, results
+cannot be used to distinguish tumor types in the database from tumor types not in
+the database.
+Pathwork Diagnostics, Inc. Section 6: Page 4 of 14
+Pathwork K(092967 Page 99 of 12506-07- 10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+807.92 (a)(6): Technological Similarities and Differences to Predicate
+Table 6.1
+Sim ilarities
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Item Tissue of Origin Test Kit - FFPE Tissue of Origin- Frozen
+080896)
+_____ _ ____ ___ __ _____ ___ ___ ___ ____ ___ ___ ___(K
+To determine the degree of
+Function similarity of a patient's test result Sm
+to patterns of known characterized Sm
+samples in a database
+_______________
+Gene expression microarray;
+Technology Computer based, software driven, Same
+data driven algorithm
+_______________
+Indications for use Tumor types Same
+Algorithm Supr etrMcie(V)Same
+technology SpotVco ahn SM
+Affymetrix GeneChip®)
+Required platform GCS3000Dx Scanner and Same
+FS45ODx Fluidics Station
+Similarity of RNA expression
+Output patterns found in tumor specimens Same
+to 15 known tissues of origin
+_____________
+Differences
+Item Tissue of Origin Test Kit - FFPE Tissue of Origin- Frozen
+80896)
+____ ________ _______ ______ _ ____ ____ ____ ___(1K
+Test Sample Formalin-fixed, paraffin-embedded Frozen biopsy tissues
+tissues
+Procedure Two cycle amplification (polydT and One cycle amplification (polydT
+random primers) primer)
+Pathwork System SIW 4.0 Pathwork System S/W: 2.1
+Software Algorithm Version 42.4 Algorithm Version 21.2
+807.92 (b)(1): Brief Description of Non-clinical data
+a. Precision/Reproducibility
+Replicate samples from 60 individual tumors were distributed among the three
+laboratories for a total of 17 7 tissue samples (Site I did not receive two specimens
+and Site 3 did not receive one specimen due to insufficient stocks at the time
+specimen processing began). Of the 60 specimens, 27 (45%) were metastases and
+33 (55%) were primaries classified as poorly differentiated to undifferentiated.
+This study required each laboratory to perform the full protocol from FFPE curls.
+The fifteen tumor tissue types (bladder, breast, colorectal, gastric, hepatocellular,
+kidney, non-small cell lung, ovarian, pancreatic, prostate, and thyroid carcinomas,
+Pathwork Diagnostics, Inc. Section 6: PageS5 of 14
+Pathwork K092967 Page 10 0 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFEE
+Premarket Notification 5 10(k) Submission
+melanoma, testicular germ cell tumor, non-Hodgkin's lymphoma (not otherwise
+specified), and soft tissue sarcoma (not otherwise specified) were represented by
+four specimens each, with the exception of breast (n = 3) and soft tissue sarcoma
+(n = 5). All specimens had at least 60% viable tumor.
+Extraction of total RNA: Of the 177 FFPE tissue curls under study, 176 yielded
+sufficient total RNAs (99%). Tissue curls were distributed over 20 batches and no
+batch failures were noted. Amplification and labeling of total RNA: Of the
+176 total RNAs. 173 yielded sufficient sense RNAs (99%). Of the 173 sense
+RNAs, 164 yielded sufficient labeled cDNAs (95%). Of nine repeats, nine
+yielded sufficient labeled cDNAs, leading to an overall success rate of 173/176 or
+98%. Total RNAs were distributed over 15 batches and one batch failure was
+noted. All positive/negative controls were in specification, with the exception of
+the control in the batch failure. Microarray analysis: Of the 173 labeled cDNAs,
+155 yielded Tissue of Origin - Test FFPE Reports without data verification errors
+(90%). Note that errors were either low percent present or low overall signal or
+both. Of 16 repeats, seven yielded reports without errors. All positive/negative
+controls were in specification, with the exception of one in a batch failure. In
+summary: Of the 177 tissue curls under study, 162 Origin Test Kit-FFPE
+Reports without errors were produced (91%). Processing was performed by a
+different operator at each laboratory,' and was performed in batches, extending
+over a several week period at each laboratory.
+Reproducibility of Similarity Scores:
+Matched pairs of specimens which were successfully processed at both
+laboratbries were evaluated using linear regression and correlation analysis to
+evaluate the reproducibility of Similarity Score values. Across all three
+laboratories, three pair-wise comparisons showed slopes of 0.93 to 0.97 and "r"o f
+0.92 to 0.93.
+Similarity Scores were also stratified to demonstrate reproducibility across the
+dynamic range of the test. For each specimen an average of the Similarity Scores
+associated with the actual tissue of origin (available diagnosis; AD) was
+calculated, along with standard deviation and percent coefficient of variation (%
+CV). For each Similarity Score range shown below (Table 6.2), the observed
+average standard deviation and average % CV results are provided.
+Pathwork Diagnostics, Inc. Section 6: Page 6 of 14
+Pathwork K092967 Page 101 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+Table 6.2 Origin Test Kit-FFPE:
+Reproducibility of Similarity Scores across Laboratories
+Average
+Available Std.
+Diagnosis Deviation,
+Similarity Score Specimens, n Replicates* avg. CV%, avg.
+0 to 20 7 20 6.5 54.5
+20 to 40 11 31 8.7 25.8
+40 to60 11 32 16.9 36.2
+60 to 80 14 36 12.9 18.5
+8Ot o 10 0 14 41 6.6 7.8
+*Each specimen was tested as n = 3 (Laboratories 1-3). Missing
+replicates are due to depleted aliqtuots, insufficient yields, or data
+verification errors (low overall signal).
+Lab-to-Lab Concordance:
+In the lab-to-lab concordance analysis, concordance was strictly defined as an
+identical Pathwork test result between two laboratory sites for a paired specimen.
+The Pathwork test result was obtained by applying the Guide to Report
+Interpretation (see User Guide for details). For each specimen, an average of the
+highest Similarity Scores was calculated. For each Similarity Score range shown
+below (Table 6.3) the observed lab-to-lab concordance of Origin Test Kit-FFPE
+results is shown.
+Table 6.3 Origin Test Kit-FFPE: Lab-to-Lab Concordance as a function of
+Average Highest Similarity Scores
+Average Highest Concordant Concordant
+Similarity Score Specimens, n Pairs* Pairs Pairs as
+0 to 20 1 3 0/3 0
+20 to40 11 29 27/29 93.1
+40 to 60 17 47 36/47 76.6
+60 to80 14 30 30/30 100
+8O to I100 14 40 40/40 100
+Overall 57 149 13 3/149 89.3
+*Each specimen was tested as n (Laboratories 1-3).
+=3
+Missing replicates are due to depleted aliquots, insufficient
+yields, or data verification errors (low overall signal).
+Pathwork Diagnostics, Inc. Section 6: Page 7 of 14
+Pathwork K092967 Page 102 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+To assess the accuracy of the results reported by each laboratory, the Origin Test
+Kit-FEPE results were compared to available diagnosis established for each
+specimen. Each laboratory was expected to achieve the overall acceptance criteria
+of at least 80% agreement with the available diagnosis, with no more than 20%
+nonagreement. As can be seen in Table 6.4, all three laboratory sites achieved the
+criteria. No laboratory reported more than 20% non-agreement. It is important to
+note that accuracy results in Table 6.4 are based on a relatively small sample set.
+Accuracy is best assessed by the multi-site clinical validation study (See Table 6.5
+Origin Test Kit - FFPE Performance), which is based on n = 462 specimens.
+Table 6.4 Origin Test Kit - FFPE agreement with available diagnosis in lab-
+to-lab concordance study
+______________Tissue of Origin Test Kit - FFPE
+Stratification % Agreement 0/ Non- Agreement
+by Lab Specimens % I ratio %ratio
+C IJ 19 % l
+_____________ ___________195%
+Site 1 52 82.7% 1 43/52) 1.% (9/52)
+[69.7%, 91.8%] [8.2%, 30.3%]
+_____________ __________
+Site 2 55 ~81.8% 1 45/55) 18 .2% 10 /5 5
+Site 2 55 ~~~~[69.1%, 90.9%] [9.1%, 30.9%]
+Site 3 55 81.8% 1(45/55) 18 .2% 1 10/55)
+Site 3 ~~~~~[69.1%, 90.9%] [9.1%, 30.9%]
+All Sites 1282.1% 1(I33/162) 17.9% 1 29/162)
+(cumulative) 62[74.0%, 86.6%] [13.4%, 26.0%]
+b. Linearity/assayr eportabler ange:
+Linearity is not applicable for this range of assay.
+C. Traceability, Stability, Expected values (controls, calibrators, or methods9:
+Quality Control
+A suitable total RNA sample should be run with every batch of specimens to
+serve as a positive/negative control as described in the Pathwork Specimen
+Processing Guide.
+Specimen Processing Controls:
+The following quality control checks are required during specimen processing to
+assure reliable results:
+1) Amount of total RNA extracted from tissue specimens: minimum of 150 ng.
+2) Amount of fragmented, labeled cDNA used for hybridization to Pathchip
+microarrays: 3.0 (± 0.5) pg.
+Pathwork Diagnostics, Inc. Section 6: Page 8 of 14
+Pathwork K092967 Page 103 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+To ensure that a sufficient quantity of high quality labeled cDNA is obtained for
+hybridization to Pathchip microarrays, it is recommended that:
+I ) All procedures in the Pathwork Specimen Processing Guide are followed
+efficiently to reduce RNase degradation.
+2) FFPE block size is sufficient to take a 5 pm section for H&E staining and a 10
+pm +/- 1 pm section (curl) with a minimum tissue area of at least 25 mm sq or
+equivalent for the test.
+3) Specimen contain at least 60% viable tumor.
+4) Absorbance measurements of total RNA give an A260/A280 ratio of greater
+than 1.0 (typically 1.0 to 2.2).
+5) The minimum amount of labeled cDNA used for fragmentation is 2.5 pg.
+Endlogenous Pathchip Controls:
+In addition to these external controls, the Origin Test Kit-FFPE test utilizes
+endogenous mRNA markers that are found in human tissue specimens and are
+captured on the Pathchip microarray to perform a series of data verifications that
+detect laboratory processing anomalies found to unfavorably influence the
+accuracy of the Origin Test Kit - FFPE test. These data verifications include the
+detection of regional discontinuities and low overall signal. When a submitted file
+fails one or more of the data verifications, the system software will return an
+Origin Test Kit - FFPE Report flagged as "Unacceptable", with caution messages
+appropriate for the specific type of failure that occurred.
+Device stability:
+Storage conditions for the Origin Test Kit - FFPE reagents range from -20O C to
+ambient temperature. Please refer to the Pathwork®0 Specimen Processing Guide
+for Formalin-Fixed. Paraffin-Embedded Specimens, as well as product inserts for
+individual storage requirements.
+di. Detection limit:
+Dilution study - Labeled cDNA:
+A dilution study was performed to demonstrate that the Origin Test Kit - FFPE
+test is robust against reasonable variations in the amount of labeled cDNA used in
+hybridization. The study used three different FFPE specimens. RNA was
+extracted and processed to the point of labeled cDNA. For each specimen,
+Pathchip arrays were hybridized in triplicate with each of the five dilutions (1, 2,
+4. 6 and 7.5 pg) of labeled cDNA. Subsequent processing of all 3 specimens x 5
+dilutions x triplicates (= 45 arrays) was performed per the recommended protocol.
+One Pathchip array failed the percent present requirement, thus 44 arrays were
+used for further analysis. The data was analyzed using linear regression and
+correlation analysis to assess equivalence. Based on the data, the Pathworko
+Tissue of Origin Test Kit-FFPE User Guide specifies 3.0 ± 0.5 pg labeled cDNA.
+Pathwork Diagnostics, Inc. Section 6: Page 9 of 14
+Pathwork K092967 Page 104 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premnarket Notification 5 10(k) Submission
+e. Analytical specificity:
+Several potential interfering substances in tumor biopsies were evaluated for
+potential adverse effects.
+RNases: Performance of the test using specimens derived from biopsies of the
+pancreas, a tissue known to contain high levels of endogenous ribonuclease
+(RNase), was equivalent to performance of the test for specimens derived from
+other tissue types. Nonetheless, Pathwork recommends that care be taken to limit
+specimen exposure to RNases during storage, extraction and processing of
+specimens.
+Necrotic tissue: To examine whether necrotic tissue produce adverse effects in
+use of the Origin Test Kit-FFPE, the results from the FFPE specimens used in the
+clinical validation study were stratified by percent necrosis. Based on the %
+agreement, the Origin Test Kit-FFPE demonstrates adequate performance with up
+to 40% necrotic tissue in the sample.
+f Assay cut-off.
+Guide to Report Interpretation
+The Similarity Score (SS) is a measure of the similarity of the RNA expression
+pattern of the specimen to the RNA expression pattern of the indicated tissue.
+Similarity Scores range from 0 (very low similarity) to 100 (very high similarity)
+and sum to 100 across all IS tissues on the panel.
+>The highest Similarity Score indicates the likely tissue of origin.
+* In male patients, a highest SS for ovarian, followed by a second
+highest SS for testicular germ cell, corresponds to testicular germ cell
+cancer.
+A Similarity Score less than or equal to 5 rules out that tissue type as the
+likely tissue of origin.
+>Performance has not been established for results where the highest
+Similarity Score is less than 20.
+Performance: Performance characteristics for the Tissue of Origin Test Kit-FFPE
+were established in a clinical validation study that included 462 specimens.
+Results matched corresponding available diagnoses 89% of the time. Similarity
+Scores less than or equal to 5 ruled out the corresponding tissue types as the
+tumor of origin 99% of the time.
+Pathwork Diagnostics, Inc. Section 6: Page 10 of 14
+Pathwork K<092967 Page 105 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+807.92 (b)(2): Brief Description of Clinical Data
+a. Method comparison with available diagnosis:
+The clinical validation involved a total of three different processing laboratories.
+The study included 25 to 57 specimens per tissue on the panel, with an average of
+31 specimens per tissue. The specimens included poorly differentiated,
+undifferentiated and metastatic tumor specimens. Of the total 598 tumor
+specimens processed' in this study, 462 specimens met the labeling limitations for
+tumor grade and available diagnosis and passed the data verification quality tests.
+To assess the accuracy of the results reported by each laboratory, the Origin Test
+Kit-FFPE results were compared to available diagnosis established for each
+specimen. Based on the n =462 results, the probability that a true positive tissue
+call was obtained when a Similarity Score reported was 88.5%, 95% CI [85.3,
+91.3]. Any tissue type with a Similarity Score less than or equal to 5 had a 99.8%,
+95% Cl [99.7, 99.9] probability of not being the tissue of origin. Thus, the Origin
+Test Kit-FFPE can be used to exclude origins from specific tissues on the Origin
+Test Kit-FFPE Panel if their Similarity Scores are less than or equal to 5. Each
+laboratory was expected to achieve the overall acceptance criteria of at least 80%
+agreement with the available diagnosis, with no more than 20% non-agreement.
+The detailed results are presented in Tables 6.5 -6.6.
+Positive Percent Agreement (PPA) -1l00*TP/POS, where TP is the number of
+test results that match the available diagnoses for the given tissue of origin and
+POS is the total number of positive specimens as per available diagnosis for the
+given tissue of origin.
+Negative Percent Agreement (NPA) - 100*(l-(FP/NEG)), where FP is the
+number of test results that are false positive (as per the available diagnoses) for
+the given tissue of origin and NEG is the number of negative specimens as per the
+available diagnosis for the given tissue of origin.
+Non-Agreement (%) the percent of POS specimens in which the Pathwork test
+-
+result does not agree with the available diagnosis..
+Pathwork Diagnostics, Inc. Section 6: Page 11 of 14
+Pathwork K092967 Page 106 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+Table 6.5 ORIGIN TEST KIT - FFPE TEST PERFORMANCE'
+Available Agreement Non- Negative Area Under
+Diagnosis Agreement Percent ROC
+Agreement curve
+IfiI_ _ _
+% ratio
+J95iCiL........ J2 II.... 195% CII
+Blad(BdLe r 2222(cid:143)&..L.3/29... .20.7...629.. 100. .9
+Bla(dBdLe)r ~[60a1 92.0] [8.0 3,9.71 [ 99.2, 10 0.0] I .9
+Breast965%B5/57 3.5 2/57 99098
+Br(eBaRst) ~[87.9. 99.6] [0.4,12. 1] [97.5. 99.7] .9
+91.373 /36 8.3 3/36 96.9098
+Colorectal (GO) [77.5, 98.2] 1IX2 2.51 [94.8, 98.4]
+Gastric (GA) 72.0 118125 28. j /2j 98.6 0.978
+[50.6. 87,9] , [ 12.L49.4j,,, , 1 97.0, 99.5]
+___________ ___ _______
+Heptoclluar LI) 96.0 24/5 Ot!Z 1to0 0 1.0
+Hepatocelular (LI) [79.6, 99.9] * j0I . j2,4 [ 99.2, 100.0]
+......
+Kidney (KI) [7.829.7 10ia.7 8 99 j 0.996
+Melanoma (ME) 84.0 2 1/25 160142 0] 1.0
+___________ _____ ____ 63.9, 95.5] , [ 0f5, 36.11,,,,, __ 99_ ___2 _ __100__ ___0__
+Non-Hodgkin's 89..2629 0.9979.
+Lymphoma (LY) [72.6 97.81 [2.2, 27.4] I[98.3, 99.9] .9
+Non-small Cell 85.2 123/27 14.8 4/27 100099
+Lung (LU) [66.3, 95.8] [4.2, 33.7] 199.2, 100.0]
+Ovarian (OV) 88.9 140/45 H1.] 5/45 98.8 0.97
+[75.9, 96.3] 7L1 4 2 [97.2, 99.6]1 ________
+Pancreas (PA) 85.42/28 j 24
+.
+/218
+. .
+98.8 0.993
+______ ____ ____ ___ ____ [67.3. 96.0] I19L7 .3. 99.61 _ _ _ __ _ _ _ _
+Prostate (PR) 96.0 24/25 4______0_ 0.997
+______ ___ ______ __ ____ [79.6, 99.91 99J 1 0 ]0_ __ _ __ _ __
+Sarco(mSaC ) 88.9 24/27 _____3_27_96_3__ 0.967
+Sarcoma_____(SC)__ [70.8, 97.6] , 2,4, 29,2,,I,94,1 97.91_______
+Testicular Germ 84.0 21/25 0.99842510
+Cell (GC) [63.9, 95.5] 453.1 92 10]. 0___998__
+Thyroid (TH) 90.3 128/3 1 97 I0.98
+___________ ___ _______ [74.2, 98.0] L2.0,,,,,99,,,,,,,JI,,,0.0] _ _ _ _ _ _ _ _
+Overall [85.3, 91.3] 87.47 I__9_ __6__ _ 979_ ___]_ 7_
+Pathwork Diagnostics, Inc. Section 6: Page 12 of 14
+Pathwork K092967 Page 107 of 12506-07-10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+Table 6.6 Overall Tissue of Origin Test Performance:
+Stratification by Metastatic and Primary Tumor Specimens
+Metastasis or Agreement Non-Agreement
+Primary %ratio %ratio
+Metastatic Tumors 91.1% 163/179 8.9% 16/179
+Poorly &
+Undifferentiated 86.9% 246/283 13.1% 37/283
+Primary Tumors
+88.5% 409/6 11.5% 53/462
+Overall
+95% CI 85.3, 91.3] 95% CI [8.7, 14.7]
+b. Matrix comparison:
+Not applicable
+C. Clinical studies:
+a. Clinical Sensitivity:
+Not examined because a reference standard defining diagnostic truth was not
+employed for the clinical studies. Instead, positive percent agreement with the
+available diagnosis was considered (Tables 6.5 and 6.6).
+Clinicals pecijficity:
+Not examined because a reference standard defining diagnostic truth was not
+employed for the clinical studies. Instead, negative percent agreement with the
+available diagnosis was considered (Tables 6.5 and 6.6).
+b. Performance of the Tissue of Origin Test for Off- Panel Specimens
+Tissue specimens that are off-panel (i.e. not one of the fifteen tissues on the
+Tissue of Origin Test panel) were assessed for similarity in RNA expression
+pattern with one of the 15 tissues on the panel. A review of published sources
+and interviews with practitioners were conducted to identify the cancers not
+included in the IS5 tissues on the Origin Test Kit-FFPE test panel that should
+be evaluated in this study. Criteria for selection included:
+*Commonly known to metastasize
+*Challenging or difficult to diagnose
+*Likely to present as an uncertain primary cancer
+Pathwork Diagnostics, Inc. Section 6: Page 13 of 14
+Pathwork K092967 Page 108 of 12506-07- 10 Pathwork Tissue of Origin Test Kit - FFPE
+Premarket Notification 5 10(k) Submission
+This review selected the following: cancer of the uterine cervix, endometrium,
+esophagus, small cell lung, and squamous cell carcinoma of the head & neck.
+The study involved 101 off-panel tissue specimens from tissues from tumors
+of CNS origin, adult (CN, n = 13), endometrium (EN, n = 12), esophagus (ES,
+n = I 1), head and neck, squamous, (HN, n -10), mesothelioma (M4T, n = 10),
+neuroendocrine (NE, n =12), ovarian germ cell (OG, n1 I1), small cell lung
+(SL, n = I 1), and uterine cervix (UC, n =1 1), of which 82/101 (81.2%) yielded
+Origin Test Kit - FFPE results.
+Results:
+Table 6.7 shows off-panel specimen results and how highest Similarity Scores
+are distributed across the IS5 tissues on the Origin Test Kit-FFPE panel. For
+off-panel tissue specimens, this indicates a false positive association with that
+cancer. For each off panel tissue type, a high false positive percentage was
+observed, especially for several cancers (CN, EN, MT, OG) with ovarian and
+RN and SL with non-small cell lung.
+Table 6.7 Off-panel tumor types with RNA expression patterns that are
+similar to patterns in the datahase.
+Reut Total
+Specimen ~Specimens Distribution of Results across the 15 tissues on the Origin Test Kit -FFPE panel
+(at = 82) __
+Test Result n BL BR CO GA GC LI KI LY LU ME OV PA PR SC TI!
+CNS Origin 13 17 5
+(CN) ___ _
+Endometrium 8 7
+(EN)
+Esophagus 7 3 I 2
+(ES)
+Head &Neck, sq, 9 I 2 I
+(HN)
+Mesothelioma 9 9
+Neuroendocrine 10 I4 2 2 I
+Ovarian Germ Ccll 109
+Small Cell Lung 10154
+Uterine cervix 6 2 1 2
+(Cx) __ 82 ___ 3
+Toma]2 I rI 0 I 0 14 0 40 2 0 1
+d. Other clinical supportive data (when a. and b. are not applicable):
+None
+807.92 (b)(3): Conclusions from Clinical Testing
+The results of the clinical validation demonstrated that the Pathwork Tissue of
+Origin Test Kit-FFPE is substantially equivalent to the Pathwork Tissue of Origin
+Test (K080896)
+Pathwork Diagnostics, Inc. Section 6: Page 14 of 14
+Pathwork K092967 Page 109 of 125- 4
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+~~~~~~~~an~d~ D~r~ug~ ~Ad~m~n~in~is~tr~at~io~n~~Food
+10903 New Hampshire Avenue
+Document MailI Center - W066-0609
+Silver Sprin~g, MD 20993-0002
+Pathwork®D Diagnostics
+c/o Ms. Anna Longwell, MS, JD
+6'
+JUN 9 2010
+Regulatory Consultant
+595 Penobscot Drive
+Redwood City, CA 94063
+Re: k092967
+Trade/Device Name: Patliwork® Tissue of Origin Test Kit.- FEPE
+Regulation Number: 21 CFR §862.3 100
+Regulation Name: Amphetamine Test System
+Regulatory Class: Class II
+Product Code: 01W
+Dated: June 7, 201 0
+Received: June 8, 2010
+Dear Ms. Longwell:
+We have reviewed your Section 51 0(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into class II (Special Controls), it may be subject to such
+additional controls. Existing major regulations affecting your device can be found in Title 21,
+Code of Federal Regulations (CER), Parts 800 to 895. In addition, FDA may publish further
+announcements concerning your device in the Federal Registe r.
+Please be advised that FDA's issuance of a substantial equivalence~detennination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act's requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Parts 801 and 809); medical device reporting (reporting ofPage 2 - Ms. Anna Longwell, MS, JD
+requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820). This letter
+will allow you to begin marketing your device as described in your Section 5 10(k) premarket
+notification, The FDA finding of substantial equivalence of your device to a legally marketed
+predicate device results in a classification for your device and thus, permits your-device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Parts 801I and
+809), please contact the Office of In Vitro Diagnostic Device Evaluation and Safety at (301) 796-
+5450. Also, please note the regulation entitled, "Misbranding by reference to premarket
+notification" (21 CFR Part 807.97). For questions regarding the reporting of adverse events
+under the MDR regulation (21 CFR Part 803), please go to
+http://wwwv.fda.gov/MedicalDevices/Safety/ReportaProbleim/default.hitm for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance,
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+(800) 638-2041 or (301) 796-7 100 or at its Internet address
+http://www.fda. gov/cdrh/industry/support/index.html.
+Sincerely yours,
+Maria M. Chan, Ph.D
+Director
+Division of Immunology and Hematology Devices
+Office of In Vitro Diagnostic Device Evaluation and Safety
+Center for Devices and Radiological Health
+EnclosureIndications for Use
+510(k) Number (if known): k092967
+Device Name: Pathwork® Tissue of Origin Test Kit- FEPE
+Indications For Use:
+The Pathwork® Tissue of Origin Test is an in vitro diagnostic intended to measure the
+degree of similarity between the RNA expression patterns in a patient's formalin-fixed,
+paraffin-embedded (FEPE) tumor and the RNA expression patterns in a database of
+fifteen tumor types (poorly differentiated, undifferentiated and metastatic cases) that were
+diagnosed according to then current clinical and pathological practice. This test should
+be evaluated by a qualified physician in the context of the patient's clinical history and
+other diagnostic test results.
+Limitations: The PathworkclV Tissue of Origin Test is not intended to establish the origin
+of tumors (e.g. cancer of unknown primary) that cannot be diagnosed according to current
+clinical and pathological practice. It is not intended to subclassify or modify the
+classification of tumors that can be diagnosed by current clinical and pathological
+practice, nor to predict disease course or survival or treatment efficacy, nor to distinguish
+primary from metastatic tumor. Tumor types not in the Pathworke Tissue of Origin Test
+database may have RNA expression patterns that are similar to patterns in the database.
+Therefore, results cannot be used to distinguish tumor types in the database from tumor
+types not in the database.
+Prescription Use AND/OR Over-The-Counter Use
+_____ ___
+(Part 21 CFR 801 Subpart 0) (21 CFR 807 Subpart C)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CDRH, Office of In Vitro Diagnostic Devices (OIVD)
+Division Sign-O~ff ?L_
+Office of In Vitro Diagnostic Page 1 of
+___
+Device Evaluation and Safety
+Pc 2267
+510K

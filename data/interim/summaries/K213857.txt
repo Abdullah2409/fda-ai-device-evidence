@@ -1,0 +1,279 @@
+October 14, 2022
+HeartFlow, Inc.
+Windi Hary
+Chief Regulatory and Quality Officer
+1400 Seaport Boulevard, Building B
+Redwood City, California 94063
+Re: K213857
+Trade/Device Name: HeartFlow Analysis
+Regulation Number: 21 CFR 870.1415
+Regulation Name: Coronary Vascular Physiologic Simulation Software Device
+Regulatory Class: Class II
+Product Code: PJA, LLZ
+Dated: October 11, 2022
+Received: October 13, 2022
+Dear Windi Hary:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.01
+Silver Spring, MD 20993
+www.fda.govK213857 - Windi Hary Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+LCDR Stephen Browning
+Assistant Director
+Division of Cardiac Electrophysiology,
+Diagnostics, and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureThis 510(k) summary of safety and effectiveness information is submitted in accordance with the requirements
+of 21 CFR Part 807.87(h).
+1 Submitter Information
+Submitter / Manufacturer Name: HeartFlow, Inc.
+331 E. Evelyn Ave
+Mountain View, CA 94041
+Primary Contact Person: Windi Hary, RAC
+Chief Regulatory and Quality Officer
+HeartFlow, Inc.
+331 E. Evelyn Ave,
+Mountain View, CA 94041
+T +1 (650) 241-1250
+F +1 (650) 368-2564
+whary@heartflow.com
+Additional Contact Person: James R. Davis
+Director, Regulatory Affairs
+HeartFlow, Inc.
+T +1 (650) 241-1250
+F +1 (650) 368-2564
+jdavis@heartflow.com
+Date Prepared: April 20, 2022
+2 Device Identification
+Product Name HeartFlow Common Name FFRct
+Analysis
+Product Feature Description Product Code Classification Classification Name
+FFRct PJA-Primary 870.1415 Coronary vascular physiologic
+simulation software device
+PreRead (Anatomy extracted LLZ-Secondary 892.2050 Medical image management
+from FFRct 3D model) and and processing system
+system plaque volumes
+K213857 Page 1 of 5Plaque characterization LLZ-Secondary 892.2050 Medical image management
+presented with FFRct model and processing system
+(automated AI/ML detection)
+Planner PJA-Secondary 870.1415 Coronary vascular physiologic
+simulation software device
+3 Predicates
+HeartFlow FFR v3 (K203329) is the identified primary predicate and Autoplaque add-on ORS Visual (K122429)
+CT
+is an additional predicate for this submission.
+4 Device Description
+The HeartFlow Analysis is an AI-based medical device software developed for the clinical quantitative and
+qualitative analysis of CT DICOM data. It is a tool for the analysis of CT DICOM-compliant cardiac images and
+data, to assess the anatomy and function of the coronary arteries in the risk stratification and evaluation of
+coronary artery disease.
+The software displays coronary anatomy and functional information using graphics and text, including
+computed and derived quantities of percent stenosis, plaque volumes, blood flow, pressure and velocity, to aid
+the clinician in the assessment and treatment planning of coronary artery disease.
+The HeartFlow Analysis is performed on previously physician-acquired image data and is unrelated to
+acquisition equipment and clinical workstations.
+5 Indications for Use
+The HeartFlow Analysis is an AI-based medical device software for the clinical quantitative and qualitative
+analysis of previously acquired Computed Tomography DICOM data for patients with suspected coronary artery
+disease. It provides anatomic data, plaque identification and characterization, as well as the calculations of
+FFRCT, a coronary physiological simulation, computed from simulated pressure, velocity and blood flow
+information obtained from a 3D computer model generated from static coronary CT images. The HeartFlow
+Analysis is intended to support the risk assessment and functional evaluation of coronary artery disease.
+The HeartFlow Analysis is provided to support qualified clinicians to aid in the evaluation and risk assessment
+of coronary artery disease. The HeartFlow Analysis is intended to be used by qualified clinicians in conjunction
+with the patient’s clinical history, symptoms, and other diagnostic tests, as well as the clinician’s professional
+judgment.
+6 Technological Characteristics of Device
+The HeartFlow Analysis is a software medical device that allows for the quantitative and qualitative analysis of
+Coronary Computed Tomography Angiography (cCTA). The predicates and this product have the same
+technological characteristics.
+The core technology remains unchanged from the primary predicate and continues to be trained using deep
+learning (AI and machine learning) since 2015, to incorporate learnings from the volumes of CT data and
+studies. All algorithms are then frozen and validated prior to product release. There are no differences
+between the subject device and the predicates with respect to intended use.
+Table 5-1. Predicate Device Comparison
+FFR v3 (primary Autoplaque (predicate) FFR v3.plus
+CT CT
+predicate)
+510(k) K203329 K122429 K213857
+K213857 Page 2 of 5FFR v3 (primary Autoplaque (predicate) FFR v3.plus
+CT CT
+predicate)
+Manufacturer HeartFlow, Inc. Object Research Systems, HeartFlow, Inc.
+Inc.
+Regulation 870.1415 892.2050 870.1415
+Number
+Regulation Coronary Physiologic System, Image Processing, Coronary Physiologic
+Name Simulation Software Radiological Simulation Software Device
+Device
+Classification Class II Class II Class II
+Device Common HeartFlow FFR Image Processing HeartFlow Analysis
+CT
+Name System,
+Radiology,Software
+PACS
+Product Code PJA LLZ PJA
+Functions -Extract anatomic data -Users of Autoplaque can -Extract anatomical and
+from digital cardiac edit the lumen and plaque data from digital
+images for the display vessel walls of the cardiac images for the
+and visualization of the suggested display and visualization
+anatomy of patient’s segmentation. of the anatomy of
+coronary arteries patient’s coronary
+-Users are provided with
+arteries
+-Compute FFRct image viewing tools to
+aid in their analysis. -Compute FFRct
+-Plaque and stenosis
+measurements are
+output based on the
+combination of fully
+user-editable
+segmentation and user-
+placed demarcations of
+coronary artery
+characteristics.
+Intended use -Review of CT -Provide a non-invasive -Review of CT
+angiographic images application to analyze angiographic images to
+to confirm the coronary anatomy and confirm the coronary
+coronary vessels pathology vessels
+-Semi-automated tools -Post processing -Semi-automated tools
+for extraction of application option for for extraction of anatomic
+anatomic data the ORS visual platform data (including heart
+(including heart (K100335). structures) for coronary
+structures) for physiologic simulation to
+-A non-invasive
+coronary physiologic aid in diagnosis of
+diagnostic reading
+simulation to aid in coronary artery disease
+software add-on
+diagnosis of coronary
+intended for use by -Centerline detection
+artery disease
+cardiologists and
+radiologists as an
+K213857 Page 3 of 5FFR v3 (primary Autoplaque (predicate) FFR v3.plus
+CT CT
+predicate)
+-Centerline detection interactive tool for -Provides additional data
+viewing and analyzing derived from coronary CT
+-Provides additional
+cardiac CT data for anatomy and pathology
+data derived from
+determining the
+coronary CT anatomy -Provide simulated
+presence and extent of
+and pathology hemodynamic
+coronary plaques.
+information
+-Provide simulated
+-ORS Visual software
+hemodynamic
+(K100335) and the
+information
+Autoplaque add-on must
+be installed on a suitable
+commercial computer
+platform.
+Data source CT CT CT
+(input)
+Output/ Graphic and text Graphic and text results Graphic and text results of
+Accessibility results of coronary provided on a suitable coronary anatomy and
+anatomy and commercial computer simulated data are accessed
+simulated data are platform. It is the user’s via a device with internet
+accessed via a device responsibility to ensure the connectivity
+with internet monitor quality and ambient
+connectivity light conditions are
+consistent with the clinical
+applications.
+Physical -Non-invasive software -Software installed and -Non-invasive software
+characteristics package used by the user package
+-DICOM compatible -Suitable commercial -DICOM compatible
+computer platform
+Safety Clinician review and Clinician editable, review, Clinician review and
+assessment of analysis and assessment of analysis assessment of analysis prior
+prior to use as prior to use as supplemental to use as supplemental
+supplemental diagnostic aid diagnostic aid
+diagnostic aid
+Table 5-2. Predicate Device Feature Comparison
+Feature FFRct v3 Autoplaque FFRct
+v3.plus
+(primary (predicate)
+predicate) (subject)
+Presentation of CT images for confirmation of x x
+extracted model
+Automatic extraction of anatomic data from CT x x x
+images for analysis
+Modeled stenosis and plaque* information x (user edit) x
+K213857 Page 4 of 5Volume rendering based on centerlines x x
+Automatic/Semi-automatic lumen boundary x x (user edit) x
+determination
+Annotate, tag, measure and record selected views x x (user edit) x
+View the coronary vessels x x (user edit) x
+Modify anatomic model to remove luminal x x
+narrowing(s)
+Expose interim calculations used as input of FFRct x x
+(e.g., mass and volume)
+Calculate functional parameters of the heart (e.g., x x
+Fractional Flow Reserve, %myo)
+Visualize plaque information* x (user edit) x
+Graphic and text results x x x
+*Anatomical plaque calculation and visualization is supported by comparison to the Autoplaque predicate
+device
+7 Summary of Studies
+The software was designed, developed, tested and validated according to written procedures. These
+procedures specify individuals within the organization responsible for developing and approving product
+specifications, coding, testing, validating and maintenance.
+Validation studies included stress testing, and repeatability testing to ensure the safety and effectiveness of the
+device. Software and medical device design validation has been completed. Medical device design included
+testing and evaluation using previously acquired diagnostic images received through HeartFlow sponsored
+clinical trials.
+Summaries of pre-clinical studies were reviewed as part of a prior predicate review (K161772, the original
+predicate of K182035/K190925/K203329). The results concluded the device was acceptable for use.
+Results of all current and previously referenced testing conclude the device is acceptable for use.
+8 Conclusion
+The conclusions drawn from the testing demonstrate that the device is as safe, as effective, and performs as
+well as the legally marketed devices identified in section 2 above.
+K213857 Page 5 of 5

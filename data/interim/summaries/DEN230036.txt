@@ -1,0 +1,1669 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+SEPSIS IMMUNOSCORE
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Software device to aid in the prediction or diagnosis of sepsis. A software device to
+aid in the prediction or diagnosis of sepsis uses advanced algorithms to analyze patient
+specific data to aid health care providers in the prediction and/or diagnosis of sepsis. The
+device is intended for adjunctive use and is not intended to be used as the sole
+determining factor in assessing a patient's sepsis status. The device may contain alarms
+that alert the care provider of the patient's status. The device is not intended to monitor
+response to treatment in patients being treated for sepsis.
+NEW REGULATION NUMBER: 21 CFR 880.6316
+CLASSIFICATION: Class II
+PRODUCT CODE: SAK
+BACKGROUND
+DEVICE NAME: Sepsis ImmunoScore
+SUBMISSION NUMBER: DEN230036
+DATE DE NOVO RECEIVED: May 5, 2023
+SPONSOR INFORMATION:
+Prenosis, Inc.
+% Proxima Clinical Research
+2450 Holcombe Blvd
+Houston, Texas 77021
+INDICATIONS FOR USE
+The Sepsis ImmunoScore is indicated as follows:
+The Sepsis ImmunoScore is an Artificial Intelligence/Machine Learning (AI/ML)-Based
+Software that identifies patients at risk for having or developing sepsis.
+The Sepsis ImmunoScore uses up to 22 predetermined inputs from the patient's
+electronic health record to generate a risk score and to assign the patient to one of four
+discrete risk stratification categories, based on the increasing risk of sepsis.The Sepsis ImmunoScore is intended to be used in conjunction with other laboratory
+findings and clinical assessments to aid in the risk assessment for presence of or
+progression to sepsis within 24 hours of patient assessment. It is intended to be used for
+patients admitted to the Emergency Department or hospital for whom sepsis is suspected,
+and a blood culture was ordered as part of the evaluation for sepsis. It should not be used
+as the sole basis to determine the presence of sepsis or risk of developing sepsis within 24
+hours.
+LIMITATIONS
+The sale, distribution, and use of the ImmunoScore are restricted to prescription use in
+accordance with 21 CFR 801.109.
+The safety and effectiveness of the ImmunoScore device was not evaluated in subjects younger
+than 18 years of age.
+The ImmunoScore has not been validated for use in specific inpatient settings such as ICU or
+Labor and Delivery units.
+The device is not intended to be used as the sole basis to determine the presence of sepsis or risk
+of developing sepsis within 24 hours.
+The ImmunoScore is positively correlated with the risk of having or developing sepsis within 24
+hours. The score should not be interpreted as the probability, i.e., a patient with a risk score of
+20 should not be interpreted as having a 20% probability or chance of developing or having
+sepsis within 24 hours.
+The ImmunoScore is not intended to be used as a continuous monitoring or alert system, or to
+monitor response to treatment in patients being treated for sepsis. It is intended to simulate a
+diagnostic test, where an order for the test is placed and a set of outputs is provided as a one-
+time result.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The Sepsis ImmunoScore device is a software as a medical device intended to aid in the risk
+assessment for progression to sepsis for patients, 18 and older, in an emergency department or
+hospital. The device is intended to identify patients, who have a blood culture ordered as part of
+their evaluation for sepsis and who are at risk of having or developing sepsis within the next 24
+hours. The software uses 22 parameters from the hospital's electronic medical record (EMR),
+including demographics, vitals, labs, and sepsis biomarkers, and outputs the Sepsis Patient View.
+De Novo Summary (DEN230036) Page 2 of 47The Sepsis Patient View can be viewed in the EMR system or the through a web interface and it
+displays both a sepsis risk score and a risk stratification category as well as other supplemental
+information. There are four risk stratification categories (Low, Medium, High, or Very High).
+The device uses an artificial intelligence/machine learning (AI/ML) based algorithm that is
+locked to compute the risk score and place the patient in a risk category. The Sepsis
+ImmunoScore is intended to be used in conjunction with other laboratory findings and clinical
+assessments.
+Algorithm Description
+The algorithm is a cloud-based system that uses a set of values measured in real time to generate
+the sepsis risk score and its auxiliary components, which are then stored. The core inputs to the
+algorithm include up to 22 parameters and the outputs are the risk score, risk stratification
+category, input features value, imputed (true/false) and feature Shapley (SHAP) value.
+The core of the algorithm is a fixed machine learning model (probability random forest
+model) trained to identify sepsis in patients. A probability random forest calculates the mean
+predicted class probabilities from multiple simple models. Probability random forest performs
+bagging, a method of sampling a dataset with replacement. An individual simple model is
+trained on this sampled dataset. This sampling with replacement followed by training is
+performed many times to generate an ensemble, or forest, of simple models. The probability
+random forest used for the development of the ImmunoScore algorithm used 1000 decision
+trees as the base model to generate the forest. The hyperparameters used were a minimum node
+size of 13, the number of variables to randomly sample as candidates at each split of 8, and a split
+rule of extremely randomized trees. The output of the probability random forest model was
+then calibrated by performing a Platt calibration. Platt calibration was created by training a
+logistic regression model with the uncalibrated probability random forest output to predict the
+sepsis training label.
+The trigger logic receives streaming data from the patient for each measurement type and
+determines when the algorithm has sufficient data to produce a result and which
+measurements to select for use in the algorithm. Some parameters are required for the
+ImmunoScore to generate a result and some are optional (see details below). Optional
+parameters are imputed based on bag imputation using an imputation template. Bag
+imputation is a statistical method that builds a random forest model for each input feature in the
+Sepsis ImmunoScore Algorithm. Each random forest model uses the remaining observed
+input features to generate an imputed value.
+In addition to the risk score and risk stratification category, SHapley Additive exPlanations
+(SHAP) were generated to explain predictions of the model by computing the individual
+contribution of each feature to the prediction. The sum of SHAP values and the baseline
+value, which is the mean sepsis risk score from the training dataset, equals the final
+prediction. Positive SHAP values are indicative of positive contributions to the Sepsis
+IrrununoScore, while negative SHAP values are indicative of negative contributions. SHAP
+values apply a game-theoretic approach to identify the contribution of features to the
+prediction for an observation. The SHAP values use the training data to estimate the feature
+contribution in the training dataset. Due to the computational complexity of calculating
+SHAP values, the software estimates a SHAP value using Monte-Carlo simulations with 100
+rounds to estimate the feature contribution of the training data object with a fixed seed. This
+De Novo Summary (DEN230036) Page 3 of 47estimate may be applied to a new observation to report the contribution of each feature to a
+prediction for that observation.
+Input Parameters
+The 22 patient parameters utilized include demographic, vital signs, and blood tests (hematology
+laboratory values, chemistry laboratory values, and sepsis biomarker concentrations). The
+selected parameters have either been cited in published literature as sepsis biomarkers, are part of
+the Sepsis-3 definition, or are well-known to correlate with a patient's chance of deterioration.
+Twelve of the parameters are required for calculating the ImmunoScore; an ImmunoScore will
+not be generated if any of those twelve values is missing. The 10 parameters listed in the table
+below as imputable can be missing and the device will generate an ImmunoScore by imputing
+values based on the training dataset.
+MP ParametelAIMPIP Data Source Example Device Imputable
+4=
+I Age Triage - Yes
+2 Systolic Blood Pressure Triage Vitals Blood Pressure Monitor No
+3 Diastolic Blood Pressure Triage Vitals Blood Pressure Monitor No
+4 Temperature Triage Vitals Oral or Rectal No
+Thermometer
+5 Respiratory Rate Triage Vitals Manual Measurement No
+6 Heart Rate Triage Vitals Pulse Monitor No
+7 Blood Oxygen Saturation Triage Vitals Pulse Oximeter No
+8 White Blood Cell Count CBC Panel Sysmex XN-9100 No
+9 Lymphocyte Count CBC Panel Sysmex XN-9100 Yes
+10 Neutrophil Count CBC Panel Sysmex XN-9100 Yes
+11 Platelet Count CBC Panel Sysmex XN-9100 No
+12 Blood Urea Nitrogen BMP or CMP Panel Siemens Atellica CH 930 No
+13 Creatinine BMP or CMP Panel Siemens Atellica CH 930 No
+14 Potassium BMP or CMP Panel Siemens Atellica CH 930 Yes
+15 Chloride BMP or CMP Panel Siemens Atellica CH 930 Yes
+16 Total Carbon Dioxide BMP or CMP Panel Siemens Atellica CH 930 Yes
+17 Sodium BMP or CMP Panel Siemens Atellica CH 930 Yes
+18 Albumin CMP Panel Siemens Atellica CH 930 Yes
+19 Bilirubin CMP Panel Siemens Atellica CH 930 Yes
+20 Procalcitonin Stand-alone Test Roche Cobas e411 No
+21 C-Reactive Protein Stand-alone Test Roche Cobas e411 No
+22 Lactate Stand-alone Test Siemens Atellica CH 930 Yes
+Table 1. List of algorithm inputs
+Algorithm Outputs
+De Novo Summary (DEN230036) Page 4 of 47The main outputs include the ImmunoScore risk score and the risk stratification category. The
+risk score can range from 0 to 100 and denotes the risk of the patient meeting the Sepsis-3
+criteria within 24 hours of the testing being ordered. The risk categories are stratified as low,
+medium, high, or very high risk and they are separated from one another using fixed thresholds.
+Possible IN • User Inter • relation
+Risk of having or developing
+sepsis within 24 hours of the
+Sepsis Risk 0- 100
+Sepsis ImmunoScore being
+Score
+ordered
+Low Each Risk Category has associated
+11Risk Mediu diagnostic performance and
+Stratification m High associated average predictive
+Category Very High metrics
+Figure 1. Device Outputs
+Risk Stratification Diagnostic
+Sepsis Risk Score Range
+Category Interpretation
+Low Sepsis unlikely 0 — 12.2
+Medium Sepsis possible 12.2 — 30.6
+High Sepsis likely 30.6 — 87.2
+Very High Sepsis very likely 87.2 — 100
+Figure 2. Risk Stratification Categories
+De Novo Summary (DEN230036) Page 5 of 47Very High Risk Category 1/014.CEiNiCAL•USE
+92
+If)
+Ecoystaeramds.aeclidtatdsasitioeed
+score for sepsis
+within 24 hours Order Time Result Tune
+01/20/2023 22,48 01/20/2023 23:18
+0 12 SI 84100
+t.0.11/ megium HIGH VERY HIGH
+Parameters Increasing Risk of Sepsis Parameter Value Collection Tkne
+Resp Rate 1 63 breaths/min 01/20/2023 18:33
+Systolic BP 4 77 mm Hg 01/20/2023 22:03
+PCT 0 1 5.47 rig/m1 01/20/2023 22:47
+Sodium 1 150 MMOI/L 01/20/2023 15:04
+Temperature t 39.92 T 01/20/2023 22:03
+CRP 0 1 216.77 mg/L 01/20/202322:47
+Chloride 8117 mmolil 01/20/2023 15:04
+Parameters Decreasing Risk of Sepsis Parameter Value Collection Tans
+Platelets 423 10./1. 01/20/202311:48
+Creatinine 0.85 mg/dl 01/20/2023 15:04
+Age 56y 01/20/2023 22:47
+WBC 1 11.5101/b 01/20/202311:48
+Parameters Unavailable at Result Time Parameter Value
+Albumin Was unavailable
+Bilirubln Was unavailable 0
+Lactate Was unavailable 0
+*Note: When device is deployed for real-world use, the "Non-clinical Use" button on the top of
+the screen will not be present. This will only appear if the device is used in a non-clinical setting
+(e.g., take device offline for maintenance or updates)
+Figure 3. Sepsis ImmunoScore output screen
+The system also identifies the contribution of each input parameter feature to the overall
+estimated probability via SHAP (Shapley) values. A positive SHAP value indicates the feature
+increased the estimated probability of Sepsis-3 while a negative one indicates the opposite. The
+greater the magnitude of the value, the stronger the contribution. It is important to note the
+relationship between features and estimated probability may be complex. In some cases,
+clinically abnormal values may have small contributions to the estimate due to greater
+contributions from other features.
+The output screen also includes a weblink for "How does it work and what does it mean?".
+Clicking on that link brings up information regarding the algorithm development, clinical
+validation, and additional context regarding interpretation of the output.
+De Novo Summary (DEN230036) Page 6 of 47Workflow
+When an ImmunoScore is first ordered for a patient, the status of the score is displayed as
+pending. This time is used to collect any parameters needed for the algorithm. The software can
+inform the user of the orders that need to be placed and their status on the pending screen. While
+the necessary parameters are gathered, the risk score and category are displayed as shown in the
+screenshot below. If after three hours and thirty minutes the necessary parameters are not
+obtained, a "No Result" will appear on the screen and a score will not be calculated for this order
+of an ImmunoScore.
+Result Pending Screen:
+Result Pending ••
+Sepl:simmunoSporeM
+Order Time Result Time
+01/20/20232; 4;
+Measurements Lactate • Recommended for ImmunoScore No results within 24 hours
+to Order
+Albumin • Recommended for ImmunoScore No results within 24 hours
+Bilirubin • Recommended for ImmunoScore No results within 24 hours
+Awaiting Results WBC • Required for ImmunoScore Ordered at 01/20/2023 2239
+Platelets 0 Required for ImmunoScore Ordered at 01/20/2023 22:39
+CO2 • Recommended for ImmunoScore Ordered at 01/20/2023 22:39
+Chloride • Recommended for ImmunoScore Ordered at 01/20/2023 22:39
+Figure 4. Results Pending Screen
+De Novo Summary (DEN230036) Page 7 of 47No Result Screen:
+Wait Time Has Expired
+No Result
+Required parameters have not resulted
+How does it vas& and wnat rises at mean?
+Order Time Result Time
+score for sepsis
+within 24 hours 05/17/202217:41 05/17/2022 21 11
+Wait Time BUN Test has rot resulted
+Has Expired
+Oreatinile ti Test has not resulted
+Figure 5. No Results Screen
+Algorithm Development
+The NOSIS Dataset and Biobank is from a consortium of clinical sites that contribute
+prospectively collected clinical data (Electronic Medical Records (EMR) data), time-series
+biological samples, and sample biomarker measurements to generate a unified database. A subset
+of the NOSIS Dataset and Biobank was used for algorithm development and for clinical
+validation of the algorithm. All data required by the ImmunoScore software is included in the
+NOSIS dataset. For vitals, laboratory parameters, and assessment, the associated order times and
+result times were retrieved from the NOSIS dataset. Clinical sites do not routinely measure
+concentrations of Procalcitonin and C-Reactive Protein. For this reason, values for these
+measurements used as inputs into the device were obtained from frozen samples available in the
+NOSIS Biobank, using the closest patient sample to the evaluation time and drawn within 3
+hours of the suspicion of sepsis, as defined by the first order of a blood culture. Procalcitonin and
+C-Reactive Protein concentrations were measured by a reference laboratory.
+A total of 2,366 patients from three different sites in the NOSIS dataset were used to design and
+train the algorithm. Inclusion criteria included those 18 years or older, presented to the
+emergency department or hospital setting, had a blood culture order, and had a biobank sample ±
+3 hours from the first order of a blood culture. Two methods were used during algorithm
+development to determine the presence of a sepsis event: a medical record analysis using a
+software encoded version of the Sepsis-3 criteria, and a retrospective chart review done by a
+team of three physicians that reviewed the medical chart to determine the presence or absence of
+a sepsis event. Those conducting the chart review were blinded to the ImmunoScore results.
+To develop thresholds used to define the boundaries between risk stratification categories, a
+receiver operating characteristic curve (AUROC) was generated using the training data. Three
+points on the AUROC were selected using the following criteria to define the four risk
+stratification categories:
+• The threshold between the low and medium risk stratification categories was set to
+achieve a high sensitivity to the detection of a sepsis event within 24 hours of the order of
+De Novo Summary (DEN230036) Page 8 of 47the ImmunoScore (ordered concurrently with a blood culture) while maintaining a false-
+positive rate of 50%. The 50% false-positive rate is based on the number of non-septic
+patients that receive antibiotics within three hours of a blood culture in a multi-site
+prospectively enrolled dataset and simulates a level of over-prescription of antibiotics
+representative of the current standard of care.
+• The threshold between the medium and high risk stratification categories was set to
+simultaneously optimize both sensitivity and specificity of the device for identifying a
+sepsis event within 24 hours of the order of a blood culture.
+• The threshold between the high and very high risk stratification categories was set so that
+patients in the top 5' percentile of sepsis probability were placed into a very high risk
+category.
+Demographics of the training dataset are:
+Training Dataset
+Demographic Information
+(N = 2366)
+Clinical Site (%)
+Beth Israel Deaconess Medical Center — Boston, MA 0 (0.0)
+OSF — Peoria, IL 712 (30.1)
+Jesse Brown VA - Chicago, IL 0 (0.0)
+Mercy Health - St. Louis, MO 1061 (44.8)
+Beaumont - Royal Oak, MI 0 (0.0)
+Carle Foundation Hospital — Urbana, IL 593 (25.1)
+Age (mean (SD)) 64.20 (16.59)
+Gender (°/0)
+Male 1195 (50.5)
+Female 1171 (49.5)
+Race (%)
+American Indian or Alaska Nativle 1 (0.0)
+Asian 12(0.5)
+Black or African American 315 (13.3)
+Native Hawaiian or Other Pacific Islander 0 (0.0)
+Unknown 85 (3.6)
+White 1953 (82.5)
+Ethnicity (%)
+Hispanic or Latino 26 (1.1)
+De Novo Summary (DEN230036) Page 9 of 47Training Dataset
+Demographic Information
+(N = 2366)
+Not Hispanic or Latino 1725 (72.9)
+Unknown 615 (26.0)
+High-Risk Comorbidities
+Acute Myocardial Infarction (%) 97 (4.1)
+History of Myocardial Infarction (%) 101 (4.3)
+Congestive Heart Failure (%) 583 (24.6)
+Peripheral Vascular Disease (%) 225 (9.5)
+Cerebrovascular Disease (%) 130 (5.5)
+Chronic Obstructive Pulmonary Disease (%) 606 (25.6)
+Dementia (%) 167 (7.1)
+Paralysis (%) 68 (2.9)
+Diabetes (%) 630 (26.6)
+Diabetes with Complications (%) 423 (17.9)
+Renal Disease (%) 659 (27.9)
+Mild Liver Disease (%) 118 (5.0)
+Moderate and Severe Liver Disease (%) 45 (1.9)
+Peptic Ulcer Disease (%) 45 (1.9)
+Rheumatologic Disease (%) 105 (4.4)
+AIDS (%) 17 (0.7)
+Immunocompromised (%) 470 (19.9)
+COVID-19 (%) 189 (8.0)
+Table 2. Demographics of Training Dataset
+A separate tuning dataset was used to serve as a hold-out test set, to verify algorithm
+performance and determine the need for additional training of the algorithm. The training and
+tuning process for algorithm performance could be an iterative process, as shown in the figure
+below describing algorithm development:
+De Novo Summary (DEN230036) Page 10 of 47Figure 6. Algorithm Development Process
+The following table describes the sites used in the training and tuning phases.
+— Site Name and Locatio Site Used in Number of Site Used in Number of
+Training Training Tuning Tuning Patients
+Patients
+OSF- Peoria, IL Yes 712 Yes 50
+Mercy Health — St. Louis, MO Yes 1061 Yes 136
+Jesse Brown VA — Chicago, No 0 Yes 33
+IL
+Beaumont Royal Oaks, MI No 0 Yes 147
+Carle Foundation Hospital — Yes 593 No 0
+Urbana, IL
+Total 2366 366
+Table 3. Sites Used in Training and Tuning Phases of Algorithm Development
+Algorithm performance in the tuning dataset was assessed via the area under the receiver
+operating characteristic curve (AUROC). Following acceptable performance of the tuning
+dataset, the algorithm was locked.
+SUMMARY OF CLINICAL INFORMATION
+A retrospective study with prospectively collected data from a subset of the NOSIS dataset and
+biobank was conducted to demonstrate the diagnostic and predictive capability of the
+ImmunoScore algorithm.
+CLINICAL SITES AND PATIENT DEMOGRAPHICS
+Patients were recruited sequentially based on the inclusion/exclusion criteria from three sites:
+De Novo Summary (DEN230036) Page 11 of 47Hospital sites Number of patients
+Beth Israel Deaconess Medical Center 356
+Jesse Brown VA — Chicago, IL 65
+Beaumont — Royal Oak, MI 277
+Table 4. Summary of the number of patients from each hospital site used for validating the
+ImmunoScore device.
+Use of these three clinical validation sites provided data that was independent of the algorithm
+training and tuning sites, geographic diversity, and diversity in the type of electronic health
+record system utilized at the institution.
+The study population included all patients admitted to the emergency department or hospital for
+whom sepsis was suspected, as defined by the order of a blood culture as part of the evaluation
+for sepsis. Patients 18 and older were included. Any patients that did not have a qualifying
+plasma sample available in the NOSIS biobank originating from blood drawn within 3 hours of
+the first order of a blood culture were excluded. The primary endpoint for the study was a
+monotonic increase in the sepsis diagnostic predictive value and risk stratification category with
+an increase in severity and non-overlapping predictive value (95% confidence intervals) between
+the low and high and medium and very high risk stratification categories. Secondary endpoints
+for the study assessed in-hospital mortality, ICU admission, mechanical ventilation usage,
+vasopressor usage within 24 hours of patient assessment and median length of stay. The
+acceptance criteria for the secondary endpoints were the same as those for the primary endpoints.
+The following table provides details on the patient demographics for the study population:
+Demographic Information Overall (N = 746)
+Clinical Site (Y0)
+BIDMC — Boston, MA 370 (49.6)
+Jesse Brown VA — Chicago, IL 73 (9.8)
+Beaumont — Royal Oak, MI 303 (40.6)
+Age (median [IQR]) 66 [54, 77]
+Sex (/o)
+Male 420 (56.3)
+Female 326 (43.7)
+Race (%)
+American Indian or Alaska Native 2 (0.3)
+Asian 16(2.1)
+Black or African American 169 (22.7)
+Native Hawaiian or Other Pacific Islander 1 (0.1)
+Unknown 128 (17.2)
+White 430 (57.6)
+De Novo Summary (DEN230036) Page 12 of 47Ethnicity (%)
+Hispanic or Latino 100 (13.4)
+Not Hispanic or Latino 604 (81.0)
+Unknown 42 (5.6)
+High-Risk Comorbidities
+Acute Myocardial Infarction (%) 50 (6.7)
+History of Myocardial Infarction (%) 62 (8.3)
+Congestive Heart Failure (%) 187 (25.1)
+Peripheral Vascular Disease (%) 76 (10.2)
+Cerebrovascular Disease (%) 72 (9.7)
+Chronic Obstructive Pulmonary Disease (%) 184 (24.7)
+Dementia (%) 74(9.9)
+Paralysis (%) 25 (3.4)
+Diabetes (%) 166 (22.3)
+Diabetes with Complications (%) 167 (22.4)
+Renal Disease (%) 233 (31.2)
+Mild Liver Disease (%) 98 (13.1)
+Moderate and Severe Liver Disease (%) 55 (7.4)
+Peptic Ulcer Disease (%) 14 (1.9)
+Rheumatologic Disease (%) 37 (5.0)
+AIDS (%) 6 (0.8)
+Immunocompromised (%) 202 (27.1)
+COVID-19 (%) 79 (10.6)
+Table 5. Demographics of Clinical Validation dataset
+STUDY DESIGN AND PHYSICIAN ADJUDICATION
+The following risk category thresholds were established prior to initiation of the clinical
+validation study:
+-mp
+!. Risk Category ImmunoSeore Range
+Low [0 — 12.2)
+Medium [12.2 — 30.6)
+High [30.6 — 87.2)
+Very High [87.2 — 100)
+Table 6. Risk Categories and thresholds
+De Novo Summary (DEN230036) Page 13 of 47The ground truth comparison for the study was determined by using physician adjudication. The
+following is a summary of the adjudication process:
+Record alternate
+cause of Organ Non-Septic
+Dysfunction
+Organ Oyshinction Was the organ No
+dysfunction
+InteCtI011 caused by
+Possible primary iifectIon Inclelmtte Indeterminate
+Record alternate
+cause of Organ Non-Septic
+Dysfunction Forced
+Adiation)
+_J
+was the organ
+Infection dysfunction
+nth:Unite Indeterminate
+Probable caused by
+primary infection
+Infection Yes
+Definite Septic
+Figure 7. Physician Adjudication Process
+The entirety of the patient's record was sent to an adjudication committee of three physicians.
+Physicians used a Retrospective Chart Diagnosis (RCD) Determination, to determine the
+presence of sepsis or lack thereof and timing of a Sepsis Event, if any. As per the Sepsis-3
+definition, sepsis was adjudicated by determining three primary components: presence of
+infection, occurrence of organ dysfunction, and causality of organ dysfunction due to infection.
+The onset time of sepsis was adjudicated based on the timing of onset of organ disfunction
+caused by an infection, defined as the time that the Sequential Organ Failure Assessment
+(SOFA) score for a patient increased by at least 2 points consequent to the infection. If it was
+unclear whether the infection was the cause of organ dysfunction, the adjudicator was instructed
+to answer "Indefinite," and the patient's Sepsis status was labeled as "Indeterminate." If the
+infection did not cause the organ dysfunction event, the subject was recorded as "Non-Septic,"
+and an alternate cause of organ dysfunction was recorded. If the infection was identified as
+"Probable" or "Definite," then the adjudicator deemed the patient as "Septic" if it was
+determined that the infection caused the organ dysfunction. In addition to providing the "Septic,"
+"Non-Septic," or "Indeterminate" label for each subject, each adjudicator was also asked to also
+provide a "forced decision" in "Indeterminate" cases. This led to two groups for analysis, the
+adjudicated forced majority group and the adjudicated forced unanimous — the majority group
+was all patients that received adjudication and their Sepsis 3 determination was defined by the
+majority rule of diagnosis by physicians and the unanimous was where all physicians agreed on
+the diagnosis.
+The physicians were blinded to the results of the ImmunoScore and each subject was randomized
+for adjudication by physicians working at the healthcare institution from which the subject
+received care. FDA recommends adjudication by independent physicians at separate institutions
+to minimize bias in the adjudication process. To assess the impact of the bias potentially
+De Novo Summary (DEN230036) Page 14 of 47introduced by using same site adjudicators a verification bias study was conducted (discussed in
+more detail below), which demonstrated acceptable results.
+RESULTS
+The results of the clinical validation study included reporting of the metrics for primary and
+secondary endpoints and the AUROC:
+An estimate of the AUROC for 95% confidence intervals was calculated for both the forced
+majority and forced unanimous adjudication schemes. There was a pre-specified performance
+goal of 0.75, which was achieved for both schemes:
+Group ImmunoScore [95% CI]
+Adjudicated Forced Majority 0.81 [0.76, 0.86]
+Adjudicated Forced Unanimous 0.84 [0.78. 0.90]
+Table 7. AUROC (95% Cl) for ImmunoScore
+Both the predictive vales and stratum specific likelihood ratios (SSLR) were calculated to assess
+the likelihood of sepsis in each risk category using the 95% CI:
+Cochran
+Sepsis Risk Total Septic
+SSLR 195% CI] Armitage
+Group Category Patients Patients
+Test (p-
+(N) (N)
+value)
+Low 232 7 3.02% [1.22%, 6.12%] 0.11 [0.05, 0.23] <0.001
+Forced
+Majority Medium 157 20 12.74% [7.96%, 18.99%] 0.53 [0.34, 0.82] <0.001
+(N = 735)
+High 276 101 36.59%[30.90%, 42.58%] 2.09 [1.77, 2.47] <0.001
+Very High 33 23 69.70%[51.29%, 84.41%] 8.33 [4.05, 17.12] <0.001
+Low 205 5 2.44% [0.80%, 5.60%] 0.13 [0.06, 0.31] <0.001
+Forced Medium 119 10 8.40% [4.10%, 14.91%] 0.49 [0.27, 0.89] <0.001
+Unanimous (N High
+183 52 28.42%[22.01%, 35.54%] 2.11 [1.69, 2.63] <0.001
+=523)
+15.04 [6.11,
+Very High 23 17 73.91% [51.59%, 89.77%] <0.001
+37.04]
+Table 8. Sepsis PV and SSLR by ImmunoScore Risk Category
+The acceptance criteria of monotonic increase in predictive value as a risk stratification category
+severity increases and non-overlapping PV (95% CI) between low/high and medium/very high
+risk stratification categories was met. There was also no overlapping in adjacent bands either for
+the forced majority analysis scheme.
+De Novo Summary (DEN230036) Page 15 of 47The following data was provided in support of the secondary endpoints of the study:
+Sepsis Risk Low Medium High Very High
+Category (N = 232) (N = 157) A. (N = 276) (N = 331
+• -
+Median LOS
+4.00 [3.47, 4.86] 5.68 [4.89, 6.96] 7.66 [6.54, 8.53] 13.47 [7.12, 19.08]
+(Days) [95% CI]
+Table 9. Length of Hospital Stay by ImmunoScore risk category
+Cochran
+Secondary Sepsis Risk Patients with
+PV 195% C11 SSLR 195% C11 Armitage
+Outcome Category (N) Event (N)
+.., (p-value)
+Low (N = 232) 11 4.74% [2.39%, 8.33%] 0.24 [0.13, 0.43]
+ICU Transfer Medium (N = 157) 20 12.74% [7.96%, 18.99%] 0.7 [0.45, 1.1]
+<0.001
+within 24 Hrs High (N = 276) 71 25.72% [20.67%, 31.31%] 1.67 [1.32, 2.111
+Very High (N = 33) 18 54.55% [36.35%, 71.89%] 5.78 [2.95, 11.32]
+Low (N = 232) 0 0.00% [0.00%, 1.58%] 0 [0, NaN]
+In-Hospital Medium (N = 157) 3 1.91% [0.40%, 5.48%] 0.39 [0.13, 1.22]
+< 0.001
+Mortality High (N = 276) 24 8.70%[5.65%, 12.66%] 1.92 [1.29, 2.85]
+Very High (N = 33) 6 18.18% [6.98%, 35.46%] 4.48 [1.87, 10.74]
+Low (N = 232) 6 2.59% [0.95%, 5.54%] 0.53 [0.24, 1.191
+Mechanical
+Medium (N = 157) 6 3.82% [1.42%, 8.13%] 0.8 [0.36, 1.79]
+Ventilation 0.078
+within 24 Hrs High (N = 276) 18 6.52%[3.91%, 10.11%] 1.41 [0.89,2.22]
+Very High (N = 33) 3 9.09% [1.92%, 24.33%] 2.02 [0.62, 6.55]
+Low (N = 232) 2 0.86% [0.10%, 3.08%] 0.11 [0.03, 0.45]
+Vasopressor Medium (N = 157) 3 1.91% [0.40%, 5.48%] 0.25 [0.08, 0.79]
+<0.001
+within 24 Hrs High (N = 276) 32 11.59%[8.07%, 15.97%] 1.7 11.21, 2.4]
+Ve 1-1..11). = 33 13 39.39% 22.91%, 57.86% 8.42 4.24, 16.72
+Table 10. Secondary Endpoint PV and SSLR by ImmunoScore Risk Category
+All secondary objectives met the acceptance criteria except for mechanical ventilation within 24
+hours. The use of mechanical ventilation within 24 hours does show a monotonic increase in PV,
+but the reduced prevalence, decrease in sample size, and increase in the CI from 80 to 95% likely
+resulted in insufficient power to demonstrate the non-overlapping PV CIs between the low/high
+and medium/very high risk categories. However, overall, the secondary endpoints, although not
+statistically powered, do support that as likelihood of sepsis increase and risk categories increase,
+the likelihood of secondary outcomes occurring also increases.
+De Novo Summary (DEN230036) Page 16 of 47The relevant subgroup analysis was provided for age, sex, race, immunocompromised or not,
+imputation of features and study site. Results for both the primary and secondary endpoint
+analysis was provided.
+As noted in the table above, there were seven patients that were adjudicated to have sepsis that
+were placed in the low-risk category. This raises concerns about underestimating the risk of
+sepsis, which could lead to delayed treatment. An additional analysis was performed to evaluate
+the magnitude of potential impact of the risk based on the outcomes for patients that were
+classified as Low or Medium by the device but were classified as septic within 24 hours by the
+clinical adjudication process. To assess the severity of disease for these patients, the secondary
+outcomes for these patients were compared to the outcomes for all patients that were adjudicated
+to be septic.
+Low Risk Septic Medium Risk Septic
+All Septic Patients,
+lir Patients, Forced Patients, Forced ill
+Clinical Characteristic Forced Majority
+Majority Majority II
+(N = 164)
+(N = 7) (N = 20)
+.1
+Length of Stay (median [LOR]) 6.14 [5.15, 11.52] 9.26 [6.54, 10.44] 9.73 [5.87, 21.75]
+In-hospital Mortality (%) 0 (0.0) 1 (5.0) 21 (12.8)
+ICU Transfer within 24 Hours (%) 1 (14.3) 4 (20.0) 55 (33.5)
+Placement of Mechanical Ventilation
+0(0.0) 2(10.0) 18 (11.0)
+within 24 Hours (%)
+Administration of Vasopressors within
+0 (0.0) 0 (0.0) 32 (19.5)
+24 Hours (%)
+Max SOFA Score within 24 Hours
+3.00 [2.00, 3.00] 2.00 [2.00, 3.00] 4.00 [2.00, 6.00]
+(median [IQR])
+Table 11. Secondary Endpoint Outcomes for Septic Patients in Low and Medium Risk
+Categories
+This data shows there were trends supporting better outcomes for the patients in the Low and
+Medium categories when compared to the entire septic population. Therefore, although the risk
+of underestimating risk of sepsis for patients in the low and medium categories exists, these
+patients have a lower chance of disease severity as evidenced by the secondary endpoints.
+Verification Bias Study
+A verification bias study was conducted using two alternative adjudication methods for a subset
+of subjects in the validation cohort to mitigate the potential bias in the adjudication process
+resulting from physicians working at the same healthcare institutions from which the subjects
+received care. Due to limitations in sharing EMR data with physicians not practicing at the
+institution where the patient received care, a comprehensive chart abstraction from site EMRs
+was used to obtain relevant information for adjudicators. The chart abstraction included all lab
+and vital results, comorbidities, medications administered, past medical history, information on
+the care team, patient demographics and any other relevant information documented by the care
+team. The information was abstracted through a combination of automated data transfer from the
+De Novo Summary (DEN230036) Page 17 of 47site EMRs and manual data abstraction from relevant notes, imaging, and all other necessary data
+in the site EMR by adequately trained and skilled clinical research coordinators.
+Two adjudication methods were used — A and B. In each method three adjudicators
+independently re-adjudicated for the presence or absence of sepsis following the same protocol
+used originally, where the time stamp of when the subject developed sepsis was recorded. The
+adjudicators were blinded to prior results. Method A included adjudication by adjudicators from
+different sites than where the patient was treated, and they used abstracted chart data. Method B
+used same site adjudicators and abstracted chart data. This was done to also evaluate the impact
+of the abstracted chart data:
+'Adjudication Method Adjudicator Site Data Access AMI
+Original Method Same Site Full EMR Access
+Additional Method A Independent Site Abstracted Data
+Additional Method B Same Site Abstracted Data
+Table 12. Adjudication Methods Summary
+The agreement between the different methods was analyzed using the Wilson score method to
+see if there was a minimum agreement that met the acceptance criteria of 80% for the lower
+bound of the 95% confidence interval. This analysis was conducted for 10% of the original
+validation cohort, equating to approximately 70 patients from the validation cohort. The patients
+selected from each site were proportional to how many patients came from each site in the
+clinical validation. Under Method A no adjudicator re-adjudicated a case that they had
+previously adjudicated. Under Method B, not all subjects could be completely adjudicated by
+new adjudicators, but repeat adjudication was minimized as much as possible. There was a total
+of 31 of 210 charts where an adjudicator re-adjudicated a case they had reviewed originally.
+However, it is unlikely that this repeat adjudication was influenced by the prior adjudication
+because all patient identification information was removed from the chart, adjudicators review
+many charts making it difficult to remember the specifics of cases, prior adjudications occurred
+more than 6 months prior, and adjudicators were blinded to prior results. Agreement results for
+the three methods was as follows:
+Adjudication Methods gree Agreement 195% CII
+Compared
+Original Method vs 68 70 97.1% [91.7%, 100%]
+Additional Method A
+Original Method vs 67 70 95.7% [89.6%, 100%]
+Additional Method B
+Additional Method A vs 69 70 98.6% [93.8%, 100%]
+Additional Method B
+Table 13. Agreement Between Adjudication Methods
+De Novo Summary (DEN230036) Page 18 of 47The verification bias study results point estimates met a minimum of 95% agreement for each of
+the methods and the overall results met the acceptance criteria of the lower bound of the 95% CI
+being no less than 80%. The results of the verification bias study did not report significant bias
+and therefore a re-adjudication of the entire clinical validation cohort was not warranted.
+Diagnostic and Predictive Claim Subgroup Analysis
+The ImmunoScore risk score is representative of patients that have or may develop sepsis within
+the next 24 hours. To support both the diagnostic and predictive claims of the intended used of
+the device, a subgroup analysis of the diagnostic and predictive cohort was conducted. Subjects
+were categorized as either diagnostic, predictive, or no sepsis based upon a comparison of the
+timing between the ImmunoScore result and the time of suspected sepsis onset (as determined by
+the adjudicators based on pre-determined criteria including evidence of organ dysfunction) . If
+the ImmunoScore result preceded the adjudicator-determined time of sepsis onset, the result was
+considered predictive, while if the ImmunoScore result came after, it was considered diagnostic.
+The following is summary of the number of patients in each of the three groups:
+Description Sepsis within 24 Sepsis Event
+Hours Time
+Diagnostic Sepsis True Before 99
+ImmunoScore
+Result
+2 Predictive Sepsis True After 52
+ImmunoScore
+Result
+3 No Sepsis False N/A 547
+Table 14. Clinical Validation Cohort Subgroups to Assess Diagnostic and Predictive
+Performance of the ImmunoScore for the Sepsis Primary Endpoint
+698 Total Patients
+N.
+151 Sepsis 547 No Sepsis
+within 24 Hours within 24 Hours
+No Sepsis
+Diagnostic Analysis
+(n = 646)
+Predictive
+99 Sepsis Event 52 Sepsis Event
+Analysis
+Time before Sepsis Time after Sepsis
+(n = 599)
+Immunoscore Output Immunoscore Output
+Diagnostk Sepsis Predictive Sepsis
+Figure 8. Diagnostic and Predictive (Pe Sepsis Analyses
+De Novo Summary (DEN230036) Page 19 of 47Both the predictive and diagnostic breakdown showed that both the primary and secondary
+endpoints were met for increasing predictive values and non-overlapping stratum specific
+likelihood ratios for the low/high and medium/very high risk categories.
+Risk Group Septic Patients (N) Total Patients (N) PV [95% CI] SSLI195% CI]
+Low 2 227 0.88% [0.11%, 3.15%] 0.05 [0.01, 0.2]
+Medium 12 149 8.05% [4.23%, 13.65%] 0.48 [0.27, 0.86]
+High 72 247 29.15% [23.56%, 35.25%] 2.27 [1.79, 2.89]
+Very High 13 23 56.52% [34.49%, 76.81%] 7.18 [3.18, 16.2]
+Table 15. Primary Endpoint Diagnostic Analysis of ImmunoScore: PVs and SSLRs for
+Adjudicated Forced Majority Groups 1 and 3 (Diagnostic Sepsis and No Sepsis)not
+Risk Group Septic Patients (N) Total Patients (N) PV 195% CiliaMI SS1,12 195% C11 I
+Low 5 230 2.17% [0.71%, 5%] 0.23 [0.1, 0.56]
+Medium 8 145 5.52% [2.41%, 10.58%] 0.61 [0.31, 1.24]
+High 29 204 14.22% [9.73%, 19.77%] 1.74 [1.21, 2.52]
+Very High 10 20 50% [27.2%, 72.8%] 10.52 [4.42, 25.01]
+Table 16. Primary Endpoint Predictive Analysis for ImmunoScore: PVs and SSLRs for
+Adjudicated Forced Majority Groups 2 and 3 (Predictive Sepsis and No Sepsis)
+Fir Median Time to Discharge Event (Daysi i
+Sepsis Risk Category
+CI]
+Low (N = 232) 4.00 [3.47, 4.86]
+Medium (N = 157) 5.68 [4.89, 6.96]
+High (N = 276) 7.66 [6.54, 8.53]
+Very High (N = 33) 13.47 [7.12, 19.08]
+Table 17. Secondary Endpoint Predictive Analysis: Median Time to Discharge Event by
+ImmunoScore Risk Category
+De Novo Summary (DEN230036) Page 20 of 47Risk Patients with Total Patients
+PV [95% CI] SSLR [95% CI]
+Category Event (N) (N)
+Low 0 232 0.00% [0.00%, 1.58%] 0 [0, NaN]
+In-Hospital Medium 3 157 1.91% [0.40%, 5.48%] 0.39 [0.13, 1.22]
+Mortality
+High 24 276 8.70% [5.65%, 12.66%] 1.92 [1.29, 2.85]
+Very High 6 33 18.18% [6.98%, 35.46%] 4.48 [1.87, 10.74]
+Low 5 226 2.21% [0.72%, 5.09%] 0.17 [0.07, 0.4]
+ICU Transfer
+Medium 16 153 10.46% [6.1%, 16.43%] 0.87 [0.53, 1.42]
+within 24
+High 43 248 17.34% [12.84%, 22.64%] 1.55 [1.16, 2.09]
+hours
+Very High 14 29 48.28% [29.45%, 67.47%] 6.92 [3.38, 14.13]
+Low 0 230 0% [0%, 1.59%] 0 [0, NA]
+Vasopressor
+Medium 1 155 0.65% [0.02%, 3.54%] 0.17 [0.02, 1.2]
+within 24
+High 18 262 6.87% [4.12%, 10.64%] 1.91 [1.21, 3.02]
+hours
+Very High 6 26 23.08% [8.97%, 43.65%] 7.78 [3.16, 19.15]
+Low 2 228 0.88% [0.11%, 3.13%] 0.39 [0.1, 1.57]
+Mechanical
+Ventilation Medium 2 153 1.31% [0.16%, 4.64%] 0.59 [0.15, 2.35]
+Within 24 High 10 268 3.73% [1.8%, 6.75%] 1.72 [0.93, 3.18]
+hours
+Very High 1 31 3.23% [0.08%, 16.7%] 1.48 [0.2, 10.78]
+Table 18. Secondary Endpoint Predictive Analysis of ImmunoScore: PVs and SSLRs
+All the secondary endpoints were also met, with the exception of overlapping bands for the low
+and high risk categories. This is likely due to the low sample size of 15 subjects in this analysis
+cohort. All other endpoints were met.
+Fresh versus Frozen Plasma Sam les for CRP and PCT Testin
+Two of the non-imputable input parameters for the algorithm are C-Reactive Protein (CRP) and
+Procalcitonin (PCT) measurements. During clinical use of the device these tests could be ordered
+for a patient for input into the algorithm to calculate a ImmunoScore risk score. For the
+retrospective clinical validation study, patient data from the NOSIS database was used. This
+database includes timestamped patient specific parameters for the other 20 input parameters that
+are routinely collected for patients suspected of infection, but typically CRP and PCT are not
+analyzed for all patients and therefore values for these lab inputs were acquired by testing frozen
+plasma samples. Testing was conducted to demonstrate the equivalence of frozen plasma
+samples to fresh plasma samples as well as using different assay methods (Roche cobas
+analyzers versus Lumiex assay) on the ImmunoScore output. The plasma samples were stored
+refrigerated 2-8°C for up to 8 days or stored frozen at -80°C for up to 27 months. Testing
+included:
+• CRP and PCT measured in fresh clinical plasma with clinical analyzers
+De Novo Summary (DEN230036) Page 21 of 47• CRP and PCT measured in thawed, previously frozen plasma samples measured with
+Luminex assays — used in the algorithm training data
+• CRP and PCT measured in thawed, previously frozen plasma samples measured on
+Roche cobas analyzers — used in the clinical validation study
+Study reports for refrigerated stability studies, frozen stability studies, accuracy of the Luminex
+assay as compared to fresh clinical measurements, the accuracy of the Roche assay as compared
+to fresh clinical measurements, and a calculated normalization function between the Roche and
+Luminex measurements were provided. In the clinical study discussed above, all PCT and CRP
+input parameters were taken from frozen plasma samples, even in the cases where a fresh sample
+may have been available. In routine practice, both PCT and CRP inputs will likely come from
+fresh samples. To understand the impact of the use of frozen versus fresh samples on the
+ImmunoScore risk score, an analysis was done where frozen sample measurements were
+replaced with either fresh PCT samples (n=106) only, fresh CRP samples only, or both fresh
+PCT and CRP (n=28) samples and the impact on the risk score was assessed. A high positive
+correlation was observed for all three groups (>0.99) indicting that the use of frozen samples in
+the clinical validation did not impact the final ImmonoScore output.
+There was a positive agreement of 95% with a 95% CI lower bound above 90% for both the
+fresh PCT only (0.97 [0.92, 0.99]) and fresh CRP only (1.00 [0.9, 1.00]) groups, but not for the
+CRP & PCT group (1.00 [0.88, 1.00]), despite perfect agreement. This is likely attributed to the
+limited sample size of n=28.
+Fresh vs Frozen C-reactive Protein Sepsis ImmunoScore results
+R= 1, p < 2.2e- 16
+§ 0.75
+,
+re
+c 0.50 •
+2
+a.
+a
+0.25
+0.00
+01 025 0.50 0.75
+Frozen C-reactive Protein Sepsis Risk Score
+Figure 9. Fresh vs. Frozen C-reactive Protein ImmunoScore Results
+De Novo Summary (DEN230036) Page 22 of 47Fresh vs Frozen Procalcitonin Sepsis ImmunoScore results
+R= 1. p < 2.2e-16
+fo
+5
+CO
+-.•
+• J.-
+CC 0,25-
+4
+U)
+to'
+0.00-
+0.00 3.25 0:50 0.75
+Frozen Procalcitonin Sepsis Risk Score
+Figure 10. Fresh vs. Frozen Procalcitonin ImmunoScore Results
+Fresh vs Frozen CRP & PCT Protein Sepsis ImmunoScore results
+R= 1 . p < 2. 2e -16
+2 0.75-
+o
+a
+Cl)
+co
+.co
+0
+Cl
+11 616
+2 3 25- ...
+w
+-
+, 0
+0.25
+Frozen CRP & PCT Sepsis Risk Score
+Figure 1111.. Fresh vs. Frozen CRP & Procalcitonin ImmunoScore Results
+The following tables show the number of cases per risk category. There were three cases where
+risk category for a sample changed when the fresh PCT sample was tested versus when the
+frozen PCT sample was tested. Specifically, there were two cases that were in the high category
+when the Fresh PCT sample was tested, but were in the medium category when the frozen
+De Novo Summary (DEN230036) Page 23 of 47sample was testing. Also, there was one sample that was in the high category when the fresh
+PCT sample was tested, but was in the very high category when the frozen sample was tested. In
+all three cases, the difference in risk score value was very small (<0.4) and risk category
+reassignment likely occurred because the original risk score was near the threshold boundary
+between two risk categories. However, no patients were reassigned into a non-adjacent risk
+category. The data in the following tables supports that use of frozen samples in the clinical
+validation did not impact the ImmunoScore risk stratification output.
+Frozen Risk Fresh PCT Risk Category
+Category Medium High Very High
+Low 23 - - -
+Medium - 35 2 -
+High - 39 -
+Very High - 1 6
+Frozen Risk Fresh CRP Risk Category
+Category Low Medium Hi ._ h Very Hi._ h
+Low 10 -
+Medium 19
+Hi:h - - 15
+Very High - - - 1
+Frozen Risk Fresh CRP & PCT Risk Category
+Category Low Medium , High Very High
+Low 4
+Medium 13
+High - 10
+Very High 1
+Table 19. Fresh vs. Frozen PRT, CRP, and CRP & PCT Change in Risk Score
+Pediatric Extrapolation
+In this De Novo request, the 18+ intended use population was supported by clinical data on
+patients 18+ and the data were not leveraged to support the use of the device in any additional
+pediatric patient populations below 18 years of age.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+PERFORMANCE TESTING - BENCH
+Precision/Sensitivity and Reproducibility Analysis - variability and error in parameter
+inputs
+Because the algorithm uses a variety of input parameters that are each subject to
+variability and error, an assessment was conducted to evaluate the impact of input
+parameter errors on the output (the ImmunoScore result). A comprehensive simulation
+study of input parameter error, including varying combinations of bias and imprecision,
+was conducted to estimate the imprecision of the risk score and provide sensitivity
+De Novo Summary (DEN230036) Page 24 of 47analysis of the effect of input parameter bias on device performance. Perturbed input
+parameters were simulated 1000 times each for each subject in the clinical validation
+cohort using national reference standards set forth in Clinical Laboratory Improvement
+Amendments of 1988 (CLIA) federal regulations and academic literature. Analysis was
+conducted by estimating standard deviations (SDs), interquartile ranges (IQRs) and
+intraclass correlation (ICCs). The data analysis included the following:
+1. Sepsis Risk Score Imprecision: The imprecision of the Sepsis ImmunoScore
+Sepsis Risk Score was graphically assessed by depicting the interquartile range of
+the 1,000 Sepsis Risk Scores for each patient as a function of the patient's median
+Sepsis Risk Score. In addition, the standard deviation of the Sepsis Risk Score
+was estimated as a function of the mean Sepsis Risk Score grouped into discrete
+intervals.
+2. Sepsis Risk Score Reproducibility: The reproducibility of the Sepsis Risk Score
+in the face of input parameter error was estimated by computing an intraclass
+correlation coefficient (ICC). Specifically, the two-way random effects, absolute
+agreement, single rater/measurement ICC was estimated using the IRR package in
+R Statistical Software (Koo and Li, 2016).
+3. Impact of Input Parameter Bias on Device Performance: The impact of
+individual input parameter bias on the Sepsis Risk Score was assessed by
+estimating the ICC as a function of parameter bias for each of the 22 parameters.
+4. Diagnostic Accuracy: The robustness of the Sepsis Risk Score's diagnostic
+accuracy was assessed by computing its AUROC for predicting each of the
+adjudicated sepsis-3 labels for each simulation replicate. The 2.5th, 50th
+(median), and 97.5th quantiles across simulations were reported.
+5. Primary Endpoint Acceptance Criteria: The predictive value (PV) of each
+sepsis risk stratification category was estimated for both adjudicated sepsis-3
+labels. The primary endpoint of non-overlapping, non-adjacent 95% confidence
+intervals was assessed using the 2.5th and 97.5th quantiles of the PVs across
+simulations.
+De Novo Summary (DEN230036) Page 25 of 47Acceptable
+Total
+Input Parameter Source Measurement
+Allowable Error
+Range
+Creatinine 10% CLLEk, 2019 [0, 103]
+Sodium 4 mmol/L CLIA, 2019 [0, 104]
+Potassium 0.3 mmol/L CLIA, 2019 [0, 103]
+Total Carbon Dioxide 20% CLIA, 2019 [0, 103]
+Chloride 5% CLIA, 2019 [0, 103]
+Blood Urea Nitrogen 2 mg/dL CLIA, 2019 [0, 103]
+Albumin 8% CLIA, 2019 [0, 103]
+Bilirubin 20% CLIA, 2019 [0,400]
+Age [0, 110]
+Lactate 15% CLIA, 2019 [0, 1031
+Proc alcitonin 10% Ceriottii et al., 2017 [0, 10]
+C-Reactive Protein 30% CLIA, 2019 [0, 10121
+White Blood Cell Count 5% CLIA, 2019 [0, 103]
+Lymphocyte Count 15% CLIA, 2019 (0,103]
+Platelet Count 25% CLIA, 2019 [0, 10]
+Neutrophil Count 15% CLIA, 2019 [0, 104]
+Temperature 1° Celsius Sund-Levander et al., 2004 [11,45]
+Heart Rate 8.4 beats per minute Hug et al., 2007 [0, 300]
+Respiratory Rate 4 breaths per minute Drummond et al., 2020 [0, 70]
+Blood Oxygen Saturation (Sp02) 4% Nitzan et al., 2014 [11, 1001
+Systolic Blood Pressure 15.6 mm Hg Hug et al., 2007 [0, 250]
+Diastolic Blood Pressure 7.8 mm Hg Hug et al., 2007 [30, 300]
+Figure 12. List of Measurement Error for Each Input
+De Novo Summary (DEN230036) Page 26 of 47E 400
+2
+200 -
+0 -
+0.00 0.25 0.50 o,,5 1.00
+Sepsis ImmunoScore
+Figure 13. The Effect of Perturbed Input Parameters on ImmunoScore
+Interquartile Range — The interquartile range of the 1,000 simulation replicate
+I mmunoScores for each patient are depicted as a function of the patient's median
+ImmunoScore. The dotted vertical black lines indicate the boundaries between the
+ImmunoScore Risk Stratification Categories.
+De Novo Summary (DEN230036) Page 27 of 47Feature Bias vs Interclass Correlation Coefficient
+Age Albumin Bilirubin Total Blood Urea Nitrogen C-Reactive Protein
+0.978
+0.975 —
+111 1 1 .....— _, _II i ill 1 I 1 ' I I I
+0.972
+0.969
+1
+0.966
+Chloride Creatinine Diastolic BP Heart Rate Lactate
+0.978
+—
+IA 0.975
+a)
+11:11
+LU 0.972
+0
+c 0.969
+cC
+t' 0.966
+a)
+Lymphocyte Neutrophll Platelets Potassium Procalcitonln
+a.)
+E 0.978
+0.975
+ea
+6
+0.972
+w 0.969
+_—
+otv 0.966
+Respiratory Rate Sodium Sp02 Systolic BP Temperature
+.0 0.978
+as
+Ti
+6_ 0 975 III 1 _II 1 I I 1 _Ill II
+c> _
+(r) 0 972
+•Ia' 0.969 i I I — 1111
+_
+—
+0.966
+0.978 Total Carbon Dioxide White Blood Ce ll ;c4 '4c ol . ; r;',g . ; ; ; ;..,.. ,c40-1 .c r;l:;1; . ',2 . ; rc3 ;:4 "4 ,(:-1.. 11 rcs> rt Z.c ul
+r 0om
+000r0
+;'!;'! 2 — 2: t -9: t ,'LFiii --9.--9:-9:2; .:--t9:-939:-
+0.975
+0.972
+—11:11 I
+III fill 1 11
+0.969
+0.966
+en fq C) ,4 rn wl Tf CV r. r4 CY m,r
+Cf. CD CD cD .46 C) CD CD CD c.56c.'6'46-6666
+uici"oir4c,i6.4(4" .
+9999W6 6 6 6 6— 6 6 6 6
+Bias Decile
+Figure 14. ImmunoScore Intraclass Correlation as a Function of Input Parameter
+Bias
+De Novo Summary (DEN230036) Page 28 of 47Positive Bias Impact on Sepsis Risk Score
+Albuinin EMI 13111rubin Total Blood Urea Nitrogen C-Reactive Protein Chloride
+0.966x + -0.003343 1.063x + 0.00208 y 1.062x + 0.00143 y = 1.002x + 0.00082 y = 1.002x + 0.00224
+0.75
+0 50
+0.25
+0.00
+Heart Rate Lactate Lymphocyte
+1.00
+y 1.001x + 0.00073 y 1.003x + 0.00023 1.002x + 0.00042 0.999x + -0.00036!
+0.75
+0.50-
+0.25-
+aR
+0,00-
+o
+Neutrophll Platelets Potassium Respiratory Rate
+▪H 1.00-
+In y 1.060x + 0.00076 y e 0.989x + -0.00691 y 1.000x + 0.00212 1.062x + 0.00098 y 1.013x + 0.01232
+▪ 0.75-
+0
+V▪I 0.50-
+In
+C I g t 0.25-
+0.
+NJ
+In 0.00.
+NJ Sodium Sp02 Systolic BP Temperature Total Carbon Dioxide
+15'' 1.00 • •
+y 1.001x + 0.00471 0.995x + -0.00192 0.08x + -0.00510: 1.063x + 0.00161 0.964x + -0.00169:
+0.75-
+0.50-
+0.25-
+0.00
+00 0.25 0.50 0.75 1.0(00 0.25 0.50 0.75 1.0e00 0.25 0.50 0.75 1 MOO 0.25 0.50 0.75 1.0l
+0.999x + 0.00039
+0.75
+0 50
+0.25
+0 00-,
+000 0.25 0..50 0.75 LOO
+Original Sepsis Risk Score
+Figure 15. Positive Bias Impact on ImmunoScore
+De Novo Summary (DEN230036) Page 29 of 47Negative Bias Impact on Sepsis Risk Score
+lAthurPIN Billrubin Total Blood Urea Nitrogen
+1.00
+1.003x + 0.00410 y 0.995x + -0.00167 y 0.999x + -0.00121i y = 0.997x + 0.00037
+0 75
+0 50
+0.25
+0.00
+Heart Rate
+1 00
+0.999x + -0.00057: 1.010x + 0.00560 y 0.998x + -0.00014:
+0 75
+0 50
+0 25
+at 0 00
+Neutrophil Platelets ProcalcItonln Respiratory Rate
+1 00 1.090x + -0.00056 1.006x + 0.01231 1.000x + -0.00125: y = 0.998x + -0.00105 0.985x + -0.00413:
+Yti
+o 75
+L 0 y ,0 .50
+0 25
+Sodium Systolic BP Temperature Total Carbon Dioxide
+0.996x + -0.00131 y = 1.005x + 0.00543 1.0).3x + 0.01052 y = 0.991x + 0.00938 1 001x + 0.00806
+-
+2)0.75
+•
+050 •
+•
+0.25
+000
+00 a.75 0..50 0.5 1.0(00 0.25 0 50 0.75 1.0(00 0.25 0.50 0 75 1.0(00 0.25 0.50 0 75 1MI
+White Blood Cell
+1.00
+1.000x + -0.00011
+0.75
+050
+0.75
+0 00
+0 00 0.25 0.50 0.75 1 CO
+Original Sepsis Risk Score
+Figure 16. Negative Bias Impact on ImmunoSeore
+De Novo Summary (DEN230036) Page 30 of 47For both sets of graphs the slope of the regression line for all input parameters is close to
+1 and the intercept is close to 0. This indicates that even when the inputs are perturbed,
+the output score does not significantly change. This supports that the score is robust to
+perturbations.
+II Mean Sepsis Risk Sepsis Risk Score Standard 1
+Score Interval Deviation: Median IIQRI
+[0.025,0.075] 0.01 [0.01, 0.02]
+(0.075,0.125] 0.02 [0.02, 0.03]
+(0.125,0.175] 0.04 [0.03, 0.04]
+(0.175,0.225] 0.05 [0.04, 0.06]
+(0.225,0.275] 0.06 [0.05, 0.07]
+(0.275,0.325] 0.06 [0.05, 0.08]
+(0.325,0.375] 0.07 [0.06, 0.08]
+(0.375,0.425] 0.07 [0.06, 0.09]
+(0.425,0.475] 0.06 [0.05, 0.07]
+(0.475,0.525] 0.07 [0.05, 0.08]
+(0.525,0.575] 0.07 [0.05, 0.08]
+(0.575,0.625] 0.06 [0.05, 0.07]
+(0.625,0.675] 0.05 [0.04, 0.07]
+(0.675,0.725] 0.05 [0.03, 0.05]
+(0.725,0.775] 0.04 [0.03, 0.04]
+(0.775,0.825] 0.03 [0.03, 0.04]
+(0.825,0.875] 0.02 [0.02, 0.02]
+(0.875,0.925] 0.01 [0.01, 0.01]
+(0.925,0.975] 0.01 [0.01, 0.01]
+Table 10. The Effect of Perturbed Input Parameters on ImmunoScore Standard Deviation
+— The standard deviation of each patient's ImmunoScores was computed and summarized
+as a function of mean sepsis risk score. Sample size was too small below 0.025 and above
+0.975 to report.
+Label Sepsis Risk Score AUROC
+Median (95% CI)
+Forced Majority 0.81 [0.80, 0.82]
+Forced Unanimous 0.84 [0.83, 0.84]
+Table 21. AUROC (CI 95%): The median AUROC and 95% confidence interval for both
+adjudicated sepsis labels is estimated across simulations.
+De Novo Summary (DEN230036) Page 31 of 47Sepsis Label A Risk Categormill. PV 195% Cl] SSLR 195% CI'
+Forced Majority Low 2.71% [1.15%, 3.88%] 0.1 [0.04, 0.15]
+Forced Majority Medium 11.39% [7.48%, 15.58%] 0.47 [0.29, 0.67]
+Forced Majority High 34.81% [32.59%, 37.13%] 1.93 [1.75, 2.14]
+Forced Majority Very High 73.33% [65.62%, 82.77%] 9.96 [6.92, 17.41]
+Forced Unanimous Low 2.17% [1.05%, 3.16%] 0.12 [0.06, 0.17]
+Forced Unanimous Medium 7.56% [4.17%, 11.11%] 0.43 [0.23, 0.66]
+Forced Unanimous High 27.18% [24.77%, 29.69%] 1.98 [1.75, 2.24]
+Forced Unanimous Very High 77.27% [66.67%, 88.89%] 18.05 [10.62,42.48]
+Table 22. Stratum Specific Likelihood Ratio and Predictive Values (CI 95%) — The median,
+2.5th, and 97.5th quantiles of the SSLR and PV of each risk category for both sepsis labels.
+Feature Imputation Study
+The ImmunoScore algorithm uses 22 input parameters, 12 of which are required to
+generate an ImmunoScore; the remaining 10 parameters can potentially be imputed. If
+any of the 10 imputable parameters are not available for score computation, they can be
+estimated from the training data. To demonstrate that input feature imputation does not
+compromise the safe and effective use of the device, two analyses were conducted to
+evaluate the impact of feature imputation on risk score and risk stratification. First the
+distribution of feature missingness in the clinical study population was assessed:
+De Novo Summary (DEN230036) Page 32 of 47120
+113
+80
+eziS
+noitcesretnI
+40
+I lorode Missing
+Sothrn Mnting
+•
+I Potasuurn Messryg
+a •
+Total CO, Mis‘.01
+• Neutrophd MrsseNg
+• Lymphocyte lAsyng
+•
+• Album", Mist.ng
+• • 1
+Bllinsban Missing
+1 1
+• Lactige Missing
+Figure 17. Distribution of Feature Missingness Patterns in Totality of Data
+The missingness patterns shows that for most patients, between 1-5 parameters were
+missing and the maximum imputation was seven parameters missing in only one patient.
+Based on these input parameter missingness patterns, the impact on the output score was
+assessed when there are no parameters imputed, 1-2 parameters are imputed, or 3 or more
+parameters are imputed. The following tables shows that the primary endpoint criteria
+were still met when a sub analysis was done for 0, 1-2, or 3+ parameters were imputed.
+De Novo Summary (DEN230036) Page 33 of 47Risk Imputation Septic Total
+Endpoint PV [95% ell SSLR 195% CI1
+Category Group Cases (N)
+0 2 78 2.56% [0.31%, 8.96%] 0.06 [0.02, 0.25]
+Low 1-2 6 155 3.87% [1.43%, 8.23%] 0.13 [0.06, 0.28]
+3+ 1 77 1.30% [0.03%, 7.02%] 0.09 [0.01, 0.62]
+0 12 73 16.44% [8.79%, 26.95%] 0.47 [0.27, 0.83]
+Medium 1-2 18 133 13.53% [8.22%, 20.54%] 0.50 [0.31, 0.78]
+Forced 3+ 2 24 8.33%[1.03%, 27.00%] 0.63 [0.16, 2.47]
+Majority 0 66 137 48.18% [39.56%, 56.87%] 2.22 [1.77, 2.79]
+High 1-2 89 230 38.70% [32.37%, 45.32%] 2.00 [1.67, 2.39]
+3+ 11 45 24.44% [12.88%, 39.54%] 2.25 [1.39, 3.63]
+0 10 17 58.82% [32.92%, 81.56%] 3.41 [1.34, 8.68]
+Very High 1-2 18 28 64.29% [44.07%, 81.36%] 5.70 [2.70, 12.04]
+3+ 5 5 100.00% [47.82%, 100.00%] Inf [NaN, Infl
+0 1 71 1.41%[0.04%, 7.60%] 0.05 [0.01, 0.35]
+Low 1-2 5 142 3.52% [1.15%, 8.03%] 0.16 [0.07, 0.39]
+3+ 0 63 0.00% [0.00%, 5.69%] 0.00 [0.00, NaN]
+0 5 51 9.80% [3.26%, 21.41%] 0.38 [0.16, 0.90]
+Medium 1-2 9 98 9.18% [4.29%, 16.72%] 0.46 [0.24, 0.86]
+Forced 3+ 1 21 4.76% [0.12%, 23.82%] 0.56 [0.08, 3.75]
+Unanimous 0 37 89 41.57% [31.21%, 52.51%] 2.46 [1.86, 3.26]
+High 1-2 47 149 31.54% [24.18%, 39.65%] 2.08 [1.64, 2.63]
+3+ 5 34 14.71% [4.95%, 31.06%] 1.93 [0.96, 3.87]
+0 7 12 58.33% [27.67%, 84.83%] 4.84 [1.61, 14.61]
+Very High 1-2 13 19 68.42% [43.45%, 87.42%] 9.78 [3.84, 24.88]
+3+ 4 4 100.00% [39.76%, 100.00%] Inf [NaN, Inf]
+Table 23. Predictive Values of Sepsis within 24 Hours by Risk Stratification Category by
+Number of Imputed Features in Entire Validation Dataset
+De Novo Summary (DEN230036) Page 34 of 47A second analysis was done to show the impact on the output score for an extreme
+imputation scenario where all 10 parameters were imputed or where 5 parameters were
+imputed. The data tables below support that even in an extreme imputation scenario the
+endpoint criteria are still met.
+Risk Analysis Septic Total
+Endpoint L SSLR [95% CI]
+Category Type Cases (N)
+.4.
+Observed 2 78 2.56% [0.31%, 8.96%] 0.06 [0.02, 0.25]
+Low Extreme 10 8 111 7.21% [3.16%, 13.71%] 0.19 [0.09,0.36]
+Extreme 5 4 95 4.21% [1.16%, 10.43%] 0.11 [0.04, 0.28]
+Observed 12 73 16.44% [8.79%, 26.95%] 0.47 [0.27, 0.83]
+Medium Extreme 10 26 75 34.67% [24.04%, 46.54%] 1.27 [0.84, 1.90]
+Forced Extreme 5 20 72 27.78% [17.86%, 39.59%] 0.92 [0.58, 1.45]
+Majority Observed 66 137 48.18% [39.56%, 56.87%] 2.22 [1.77, 2.79]
+High Extreme 10 50 109 45.87% [36.29%, 55.68%] 2.02 [1.52, 2.69]
+Extreme 5 56 123 45.53% [36.53%, 54.75%] 2.00 [1.55, 2.58]
+Observed 10 17 58.82% [32.92%, 81.56%] 3.41 [1.34, 8.68]
+Very High Extreme 10 6 10 60.00% [26.24%, 87.84%] 3.58 [1.04, 12.39]
+Extreme 5 10 15 66.67% [38.38%, 88.18%] 4.78 [1.68, 13.58]
+Table 24. Predictive Values and Likelihood Ratios in Observed and Extreme
+Imputation Scenarios
+In addition to evaluating worst-case feature imputation on the primary endpoint criteria,
+an analysis was also conducted to determine if there was any risk category reassignment
+in an extreme imputation scenario. For the forced majority analysis, 222/305 patients
+stayed within the same risk category and 6 patients moved more than 1 category away
+and 7 subjects increased in severity.
+-.-
+Forced Majority (N = 305) Forced Unanimous (N = 223)
+Hypothetical
+Risk Category
+Low Medium High Very High Low Medium High Very High
+Low 76 I 29 6 0 69 21 5 0
+Medium 2 40 33 0 2 26 19 0
+High 0 4 97 8 0 4 65 5
+Very High 0 0 1 9 0 0 0 7
+Total 78 73 137 17 71 51 89 12
+Table 25. Results of Extreme 10 Imputation Simulation Study for Entire Validation
+Dataset
+De Novo Summary (DEN230036) Page 35 of 47Risk Score Monotonicity
+To demonstrate that an increase in risk score corresponds to a higher risk of developing
+or having sepsis, a risk score monotonicity analysis was conducted. The four risk
+categories were discretized further into eight subcategories and the one-sided Cochran-
+Armitage test was applied. The subcategories were created by splitting the low and
+medium risk categories into two smaller categories and the high risk category into three
+categories and keeping the very high as one category. The analysis showed that there was
+an increase in risk score with each risk category.
+Risk Subcategory Risk Score Proportion of Observed
+Stratification Interval Patients Sepsis Risk
+Category
+Low 1 [0,0.061) 17% 1%
+2 [0.061,0.122) 17% 5%
+Medium 3 [0.122, 0.204) 11% 8%
+4 [0.204, 0.306) 11% 18%
+High 5 [0.306, 0.499) 13% 28%
+6 [0.499, 0.671) 13% 41%
+7 [0.671, 0.872) 14% 42%
+Very High 8 [0.872, 1) 5% 70%
+Table 26. Discretization of the Sepsis Risk Score for Proposed Monotonicity
+Assessment of Entire Validation Dataset
+A risk score calibration study was conducted to determine if the risk score is indicative of
+the probability of having or developing sepsis. A calibration plot based on the methods in
+Moon et al. and a Hosmer-Lemeshow hypothesis test were conducted. As shown in the
+plots below, the risk score is associated with sepsis risk, but it is not calibrated to the true
+probability of sepsis. For example, a risk score of 50 does not correlate to a 50%
+probability of having sepsis, but rather to a probability less than 50%. Therefore, the
+ImmunoScore should not be interpreted as the probability of having or developing sepsis.
+The risk score is only positively correlated with the risk of having or developing sepsis.
+De Novo Summary (DEN230036) Page 36 of 47Totality: Sepsis PV vs. Subintervals
+Sepsis-3 Forced Majority
+,I0872. 11
+0.8
+Cochran-Armitage Test: (p-value = p<0.001)
+0.6
+(0.671. 0.872)
+(p499. 0.6711
+N Patient
+• • 40
+• 60
+10.306,0499)
+• 80
+• 100
+e
+10.204. 0.306)
+0.2
+0.0
+000 0.25 0.50 0.75 1.00
+Sepsis Risk Score
+Figure 18. Sepsis PV vs. Risk Score Subintervals for Forced Majority Sepsis within
+24 Hours Binary Outcome for Validation Dataset
+De Novo Summary (DEN230036) Page 37 of 47Totality: Sepsis PV vs. Subintervals
+Sepsis-3 Forced Unanimous
+Cochran-Armitage Test: (p-value = p<0.001)
+[0.671. 0.872)
+N Patient
+• 47
+• 60
+(0 499. 0.671)
+• 80
+• loo
+• 10306. 0.4991
+0.25 (0.20 , 410.306)
+•
+•
+(0.123/0204)
+[0.061. 0;i22)
+10. 0.064
+0.00
+•
+0.00 0.25 0.50 0.75 1.00
+Sepsis Risk Score
+Figure 19. Sepsis PV vs. Risk Score Subintervals for Forced Unanimous Sepsis
+within 24 Hours Binary Outcome for Validation Dataset
+Reproducibility of the SHAP Values
+To provide added transparency into the parameters that contributed to the final risk score,
+the output screen provides a display of patient-specific parameter importance scores, also
+referred to as SHAP values. These values quantify the contribution of each parameter
+value to the patient's risk score. Parameters that increased the risk score are depicted with
+a red bar and those that decreased it, with a green bar. The length of each bar indicated
+the magnitude of the parameter contribution to the calculation. These parameters are only
+intended to explain the risk score calculation in the algorithm for a particular patient and
+are not intended to indicate the clinical or biological significance of the parameter or the
+importance a clinician should place on these parameters when making a clinical
+judgment.
+An analysis was conducted to demonstrate the correctness and reproducibility of the
+SHAP value and feature ranking. This analysis was conducted with the clinical validation
+De Novo Summary (DEN230036) Page 38 of 47input data and created perturbations simulating 200 replicates for each patient. In each
+replicate, input parameters for each subject were perturbed by adding randomly generated
+noise to the original measurement within the limits of either CLIA specifications or
+academic literature for measurements that do not have CLIA requirements.
+First all features were ranked by summing the absolute SHAP value across all subjects
+for each input parameter in the validation dataset:
+Feature Sum ISHAP ValuesI Al Ranking
+Procalcitonin (PCT) 26.833 1
+Respiratory Rate 26.129 ?
+Platelets 24.632 3
+Systolic BP 22.147 4
+Blood Urea Nitrogen 20.051 5
+Bilirubin Total 17.856 6
+Diastolic BP 15.85 7
+Albumin 11.983 8
+Age 11.564 9
+Creatinine 10.683 10
+Sp02 10.193 11
+Potassium 7.994 12
+Total Carbon Dioxide 6.651 13
+C-Reactive Protein (CRP) 6.394 14
+Temperature 6.342 15
+Lactate 5.047 16
+Sodium 4.94 17
+Lymphocyte 4.836 18
+Chloride 3.603 19
+Heart Rate 3.364 20
+Neutrophil 2.817 21
+White Blood Cell 2.628 22
+Table 27. Global Feature Importance Ranking
+An intraclass correlation (ICC) was used to measure the similarity of the 200 SHAP
+values generated from perturbing the algorithm inputs with random noise. An analysis
+was conducted to determine if the lower bound of the 95% CI for ICC was above 0.90 for
+the top 10 features and above 0.75 for all remaining features, with no features falling
+below 0.50.
+The following analysis shows that for the top 10 features the ICC was above 0.90, and for
+all remaining features except temperature, the ICC was above 0.75. Temperature is the
+only one that had an ICC below 0.75. This is likely due to the considerable variability in
+De Novo Summary (DEN230036) Page 39 of 47the measurement perturbations that were used in the analysis. The results support that
+SHAP values are adequately reproducible and correct even when the algorithm inputs are
+perturbed with random noise.
+ICC for SHAP Feature
+fastshap nsim: 100
+1 I
+1.01
+I I
+I I
+1-0-1
+1 1
+II
+/
+154
+I
+II
+I I
+I.
+I I
+I I
+0.9
+erutaeF
+P AH
+S
+White Blood Cell -
+Total Carbon Dioxide -
+Temperature -
+Systolic BP -
+Sp02 -
+Sodium
+Respiratory Rate -
+Procalcitonin -
+Potassium -
+Platelets -
+Neutrophil -
+Lymphocyte -
+Lactate-
+Heart Rate-
+Diastolic BP -
+Creatinine -
+Chloride -
+C-Reactive Protein-
+Blood Urea Nitrogen
+Bilirubin Total-
+Albumin -
+Age -
+0.5 0.6
+Intraclass Correlation Coefficient
+Figure 20. SHAP Value ICCs in Presence of Perturbed Input Data
+De Novo Summary (DEN230036) Page 40 of 47SOFTWARE & CYBERSECURITY
+ImmunoScore was identified as having a moderate level of concern as defined in the
+2005 FDA guidance document "Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices." Note that the 2005 Software Guidance
+document has been superseded by the June 2023 FDA guidance document "Content of
+Premarket Submissions for Device Software Functions" which recommends an
+Enhanced Documentation Level for a device software function that provides a sepsis
+alarm to a healthcare provider in a critical care environment. The software
+documentation included:
+1.Software Requirements Specification
+2. DOC-45 Sepsis ImmunoScore Software Architecture Description
+3.DOC-46 Sepsis ImmunoScore Algorithm Design Document
+4. Software Design Specification
+5. PDPROJ-1 Sepsis ImmunoScore Traceability Matrix (GG-Document)
+6.DOC-39 Sepsis ImmunoScore Software Development Environment
+7. DOC-96 Sepsis ImmunoScore Verification and Validation Summary Report
+8.Revision Level History
+9. Anomaly Summary
+A description of the testing protocols, including pass/fail criteria, and report of results
+was provided for the verification and validation activities and all testing results met
+design specifications.
+For cybersecurity, the recommended information from FDA guidance document
+"Content of Premarket Submissions for Management of Cybersecurity in Medical
+Devices" was provided. This includes a threat model, software bill of materials, data
+security training, validation and mitigation of adversarial examples, cyber risk
+management, labeling, cyber testing, and post market cyber vulnerabilities and exploits
+and other information for safeguarding the algorithms.
+HUMAN FACTORS
+The human factors study was conducted to validate the understanding and confirm the
+usability of the ImmunoScore for all types of intended users, unfamiliar with the device,
+after they have been trained using referenced study materials. The study assessed the
+understanding of the usefulness of SHAP values to the user's assessment of the risk of
+sepsis.
+The human factors study was performed using simulated-use testing. Study participants
+were shown a PDF image of the ImmunoScore result screen on the screen via
+videoconference and were asked to perform tasks without interference or influence from
+the test facilitator or moderator. The participants' ability to identify specific information
+in the user interface, such as when the test was ordered and resulted, when specific
+parameters were collected and assess their understanding of the feature importance values
+De Novo Summary (DEN230036) Page 41 of 47were evaluated. Real-world clinical environments will likely have the ImmunoScore
+result integrated into the electronic health record. Therefore, a PDF screenshot with the
+result image was displayed to participants while they were asked directed questions to
+assess their ability to utilize the information shared during the training session. The
+format of the task sessions represented a simulated use environment with real clinical
+scenarios presented to the participants via videoconference. Task sessions were scheduled
+for a minimum of 24 hours after the training session and each session was scheduled for a
+minimum of 30 minutes. Several participants participated in the session while in a live
+clinical setting while several participants utilized their mobile phones to participate in the
+session. Participants were allowed to utilize the copy of the User Manual (DOC-50) that
+was provided after the training session for further review and reference during the task
+session.
+The ImmunoScore is intended for use by licensed care providers in a hospital
+environment. These care providers include physicians, physician extenders or advance
+practice providers (such as nurse practitioners and physician assistants), and nurses. A
+total of 30 participants, divided into two cohorts based on their scope of practice,
+included 5 physicians, 5 physician assistants, 5 nurse practitioners, and 15 nurses, with a
+variety of medical specialties. These specialties include but are not limited to emergency
+medicine, critical care, infectious disease/infection control, and general medicine/surgery.
+All participants were recruited from across the US to provide geographic diversity and
+account for varying facility specific standards. Furthermore, all participants were actively
+practicing in the acute care setting in emergency medicine, critical care, general
+medical/surgical, or infectious disease/infection control. No participants were recruited
+from current or previous study sites, and all were unfamiliar with the device and
+independent of its development.
+The primary areas of device use and interpretation for assessment of both critical (*) and
+non-critical tasks included:
+• User is able to locate and understand the time parameter values were collected.*
+• User is able to identify the time and date the ImmunoScore was generated or
+resulted.*
+• User is able to locate and read the parameter values as displayed.
+• User is able to locate the help center.
+• User is able to differentiate between required and recommended parameters.
+• User is able to interpret a product diagnostic result (Risk Score/Risk Category).*
+• User is able to understand what action to take if there is no ImmunoScore result.*
+• User understands displayed Shapley (SHAP) values in the user interface.
+• User finds the Shapley (SHAP) values useful to the user's assessment of the risk of
+sepsis.
+All participants scored above the predetermined passing score of 90% for all questions
+asked as part of the human factors study. The human factors assessment supports that the
+ImmunoScore can be appropriately used by the intended use population.
+De Novo Summary (DEN230036) Page 42 of 47POST MARKET MANAGEMENT STRATEGY
+Due to the nature of AI/ML based software devices, there is a risk of algorithm performance
+difference or deterioration over time. This change in performance can be due to model drift
+(degradation of a model's predictive performance due to systematic or statistical changes) caused
+by both unexpected or undocumented changes to data structures, semantics, and infrastructure or
+when the training data of the algorithm is no longer representative of the newly observed data. A
+strategy to monitor the performance of the algorithm will be implemented post-market. This
+strategy complements rather than replaces requirements under the Federal Food, Drug, and
+Cosmetic Act and its implementing regulations applicable to monitoring algorithm performance.
+Both a real-world monitoring plan, to assess those changes due to the training data no longer
+being representative of the user population, and a data drift plan, to assess those changes due to
+data structures, will be implemented. The following is a summary of both plans:
+Summary of real-world monitoring plan:
+• Data will be collected for a subset of hospitals where the device is used for a random subset
+of patients for whom the ImmunoScore is initiated
+• Collect information on score order time, values and timing of parameters contributing to
+score, score result, and operation data.
+• Collect data on patient demographics, comorbidities, hospital length of stay, in hospital
+death, admission time, treatments, microbiology, etc.
+• Real World Sepsis Record derived label based on automated Sepsis-3 definition.
+• Will look for monotonic increase in PV as risk category increases and non-overlapping 95%
+CI for low/high and medium/very high bands.
+• Monitor prevalence of sepsis or Sepsis-3 before and after device implementation
+• Results reviewed by Prenosis management and risk management file updated, if necessary,
+based on study results
+• Initially analysis will be done yearly or when at least 750 ImmunoScore orders are
+available. Monitoring will continue over the life of the device. Periodic review of historical
+monitoring data and other available data (e.g., complaints, literature, etc.) will be conducted
+by Prenosis management and the risk management file updated for any necessary changes to
+the frequency of implementing the monitoring plan.
+For the real-world monitoring plan, physician adjudication of sepsis will not be used as was done
+in the clinical study, but rather a computer adjudication of whether the Sepsis-3 definition was
+met by determining if there was presence of infection and organ dysfunction. This method of
+adjudication can lead to more false positives (more adjudicated cases of sepsis than there actually
+were). However, this approach was chosen in lieu of physician adjudication because it allows
+for improved scalability of data acquisition processes, allowing for larger samples sizes and
+greater representation of a wide variety of patients.
+Summary of ongoing surveillance of data drift plan:
+De Novo Summary (DEN230036) Page 43 of 47• Monitor drift by comparing data ingested by the software during an observed period and a
+reference period.
+• Evaluate differences in data distributions and data availability and generate drift reports
+• Assess if drift has occurred
+o If drift has occurred, notify users
+o Change Sepsis ItnmunoScore to "non-clinical use"/turn off access.
+o Investigate root cause of drift and address as necessary
+LABELING
+The labeling includes a detailed description of the device, description of the patient population
+for which the device is indicated for use, and instructions for use. The labeling also includes
+summary information, including training and validation datasets, feature imputation, SHAP
+values, patient demographics, and the clinical performance testing of the device.
+The labeling includes limitations and warnings specifying that the device should not be used as
+the sole parameter in determining a patient's sepsis status.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of the software
+device to aid in the prediction or diagnosis of sepsis and the measures necessary to mitigate these
+risks.
+Risks to Health Mitigation Measures
+Algorithm failure leading to categorizing Clinical performance testing
+patient either in a higher risk category resulting Non-clinical performance testing
+in unnecessary treatment or in a lower risk Post-market management
+category resulting in delayed or ineffective Software verification, validation, and hazard
+treatment analysis
+Labeling
+Ineffective treatment or diagnosis due to model Clinical performance testing
+bias or failure to adequately generalize to the Labeling
+intended use population Post-market management
+Overreliance on the device or incorrect Human factors assessment
+interpretation of device results by end user Labeling
+leading to ineffective patient management Technological characteristics
+,
+Inadequate input data quality, missing inputs, Clinical performance testing
+or unsupported input/hardware leading to Non-clinical performance testing
+delayed or ineffective treatment Software verification, validation, and hazard
+analysis
+Labeling
+Post-market management
+SPECIAL CONTROLS
+De Novo Summary (DEN230036) Page 44 of 47In combination with the general controls of the FD&C Act, the software device to aid in the
+prediction or diagnosis of sepsis is subject to the following special controls:
+(1) Clinical performance testing must demonstrate the performance characteristics of the
+device under anticipated conditions of use across the intended use population. The
+following must be met:
+(i) Validation must use a clinical test dataset acquired from a representative patient
+population. Data must be representative of the range of data sources and data
+quality likely to be encountered in the intended use population and relevant use
+conditions in the intended use environment;
+(ii) Establishment of ground truth (reference method or clinical comparator) must be
+clinically justified. Study protocols must include a description of the adjudication
+process(es) for determining ground truth of training and test datasets;
+(iii) Testing must compare device performance to a ground truth and report objective
+performance measures (e.g., sensitivity, specificity, positive predictive value,
+negative predictive value, or likelihood ratios) with relevant descriptive or
+developmental performance measures. Summary level demographic information
+for study subjects and clinicians must be provided. Sub-group analyses for
+specific predictive or diagnostic indications, study sites, relevant demographic
+sub-groups, and acquisition systems must be provided;
+(iv) Performance goals used to determine success of clinical validation must be
+clinically justified;
+(v) The dataset used for training and development of the advanced algorithm must be
+distinct from the dataset used for testing to support generalizability of the
+algorithm; and
+(vi) All adverse events must be reported.
+(2) Non-clinical performance testing must demonstrate that the device performs as
+intended under anticipated conditions of use, including:
+(i) Precision/sensitivity range of input parameters;
+(ii) Reproducibility of the outputs based on perturbations to the inputs;
+(iii) Missing input analysis (e.g., feature imputation study); and
+(iv) Monotonicity of any device outputs presented as risk scores.
+(3) Software verification, validation, and hazard analysis must be provided.
+(4) Human factors assessment must demonstrate that the intended user(s) can safely and
+correctly use the device and interpret the results in the intended use environment.
+(5) Device technological characteristics must specify that the presentation of outputs in the
+user interface must be accompanied by information necessary to interpret the output,
+including labeling requirements in paragraph 6(i) to 6(iii) of this section.
+(6) Labeling must include:
+(i) A summary of the development data and clinical validation data, including
+sources of data, study sites, samples sizes, demographics and other relevant
+characteristics of the study participants (including age, gender, race or ethnicity,
+and patient condition), and a description of the ground truth;
+De Novo Summary (DEN230036) Page 45 of 47(ii) A summary of clinical validation results, and information on subpopulations
+(age, gender, race, or ethnicity) that may experience disparate performance, and a
+description of the ground truth;
+(iii) A detailed description of the device inputs and outputs and how to interpret
+outputs;
+(iv) Hardware platform and operating system requirements;
+(v) Situations in which the device may not operate at an expected performance level;
+(vi) A statement that the device output should not be used as the sole basis to
+determine the presence of sepsis or risk of developing sepsis; and
+(vii) A statement that the device is not intended to be used for monitoring of patient
+response to treatment.
+(7) The device manufacturer must develop and implement a post-market performance
+management plan that ensures regular assessment of the generalizability and device
+performance in the intended patient population in real-world use. The plan must
+include:
+(i) Data collection, analysis methods, and procedures for:
+(A) Monitoring relevant performance characteristics and detecting changes in
+performance;
+(B) Identifying sources of performance changes between validation and the
+real-world environment over time; and
+(C) Assessing the results from the performance monitoring on safety and
+effectiveness.
+(ii) Procedures for communicating the device's current performance to users.
+BENEFIT-RISK DETERMINATION
+The risks of the device are based on nonclinical testing as well as data collected in a clinical
+study described above. The possible risks include mis-categorization of a patient into either a
+higher or lower risk category than their actual sepsis risk. If a patient is put into a higher risk
+category than they should have been in, this could lead to administration of unnecessary or
+harmful medical treatments. If a patient is put into a lower risk category than they should be in,
+this could lead to a missed opportunity for timely treatment leading to an increased risk for
+morbidity and mortality. This can also lead to a delay in assessing the true cause of the patients'
+symptoms, which may lead to increased length of stay in the hospital. There is also a risk that if
+the device is putting patients in higher risk categories than warranted, this can lead to alarm/alert
+fatigue.
+The probable benefits of the device are also based on nonclinical testing as well as data collected
+in clinical studies as described above. The probable benefits of the device include the ability to
+notify clinicians about patients that have a higher likelihood of either having or developing sepsis
+within the next 24 hours. Earlier notification allows for timely medical interventions and reduced
+length of stay in the hospital.
+It is well known that diagnosis of sepsis is a nuanced process that requires the assessment of
+multiple patient parameters. In busy clinical settings, the signs and symptoms may not be readily
+De Novo Summary (DEN230036) Page 46 of 47apparent. The ImmunoScore evaluates multiple parameters to provide one additional piece of
+information to the treating physician to determine if a patient has or is headed toward having
+sepsis. The ImmunoScore has demonstrated that an increase in risk score and category is
+correlated with the increased risk of sepsis. The ImmunoScore used with other clinician
+parameters can assist the physician in assessing sepsis likelihood.
+Based on the above information, the probable benefits of the ImmunoScore device outweigh the
+probable risks considering the listed special controls and the general controls.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+The Sepsis ImmunoScore is an Artificial Intelligence/Machine Learning (AI/ML)-Based
+Software that identifies patients at risk for having or developing sepsis.
+The Sepsis ImmunoScore uses up to 22 predetermined inputs from the patient's
+electronic health record to generate a risk score and to assign the patient to one of four
+discrete risk stratification categories, based on the increasing risk of sepsis.
+The Sepsis ImmunoScore is intended to be used in conjunction with other laboratory
+findings and clinical assessments to aid in the risk assessment for presence of or
+progression to sepsis within 24 hours of patient assessment. It is intended to be used for
+patients admitted to the Emergency Department or hospital for whom sepsis is suspected,
+and a blood culture was ordered as part of the evaluation for sepsis. It should not be used
+as the sole basis to determine the presence of sepsis or risk of developing sepsis within 24
+hours.
+The probable benefits outweigh the probable risks for the Sepsis ImmunoScore device. The
+device provides benefits and the risks can be mitigated using general controls and the identified
+special controls.
+CONCLUSION
+The De Novo request for the Sepsis ImmunoScore is granted and the device is classified as
+follows:
+Product Code: SAK
+Device Type: Software device to aid in the prediction or diagnosis of sepsis
+Regulation Number: 21 CFR 880.6316
+Class: II
+De Novo Summary (DEN230036) Page 47 of 47

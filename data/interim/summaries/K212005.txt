@@ -1,0 +1,259 @@
+MEDICREA International, Inc.
+℅ Carrie Hetrick
+Director of Regulatory
+Sterling Medical Devices
+250 Moonachie Road
+January 12, 2022
+MOONACHIE NJ 07074
+Re: K212005
+Trade/Device Name: UNiD™ Spine Analyzer
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: December 9, 2021
+Received: December 10, 2021
+Dear Carrie Hetrick:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK212005 - Carrie Hetrick Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary
+UNiD Spine
+Analyzer K212005
+1. Submission Sponsor
+MEDICREA International, Inc.
+5389 Route de Strasbourg - Vancia
+Rillieux La Pape
+69140
+France
+2. Submission Correspondent
+Sterling Medical Devices
+250 Moonachie Road, Suite 400
+Moonachie, NJ 07074
+Office Phone: (201) 227-7569
+Contact: Carrie Hetrick, DDS, MScRSc
+Title: Director of Regulatory Affairs
+3. Date Prepared
+June 25, 2021
+4. Device Identification
+Trade/Proprietary Name: UNiD Spine Analyzer
+Common/Usual Name: Medical Image Management and Processing System
+Classification Name: System, image processing, radiological
+Regulation Number: 21 CFR §892.2050
+Product Code: LLZDevice Class: Class II
+Classification Panel: Radiology
+5. Legally Marketed Predicate Device
+K180091, MEDICREA International, Inc. UNiD Spine Analyzer v2.0 (primary predicate). This predicate has
+not been subject to a design-related recall1
+6. Indication for Use Statement
+The UNiDTM Spine Analyzer is intended for assisting healthcare professionals in viewing and
+measuring images as well as planning orthopedic surgeries. The device allows surgeons and service
+providers to perform generic, as well as spine related measurements on images, and to plan surgical
+procedures. The device also includes tools for measuring anatomical components for placement of
+surgical implants. Clinical judgment and experience are required to properly use the software.
+7. Device Description
+The MEDICREA UNiD Spine Analyzer was developed to perform preoperative and postoperative patient
+image measurements and simulate preoperative planning steps for spine surgery. This web-based,
+Software as a Medical Device (SaMD) application aims to simulate a surgical strategy, make
+measurements on a patient image, and draw patient-specific rods or choose from a pre-selection of
+standard implants and ordering the patient-specific rods. The UNiD Spine Analyzer allows the user to:
+1) Measure radiological images using generic tools and “specialty” tools
+2) Plan and simulate aspects of surgical procedures
+The purpose of this submission is to request clearance for the UNiD Spine Analyzer v4.0. The changes
+introduced are as follows:
+• Addition of the Degenerative Predictive Model, which corresponds to a type of adult spinal fusion
+degenerative construct, trained with a retrospective longitudinal patient dataset.
+• Update to the existing Adult Predictive Model consisting of three predictive model modules
+trained with retrospective longitudinal patient datasets, where one was included in Adult
+Deformity Model 1 (TKA-12) and two included in Adult Deformity Model 2 (PTA-12 and PTA-34).
+• Update to the existing Pediatric Predictive Model consisting of two predictive model modules
+trained with retrospective longitudinal patient datasets (PediaLL and PediaPT).
+1 On July 9, 2012, section 605 of FDASIA (Pub. L. 112-144) added section 518A to the FD&C Act, which directs FDA to establish a
+program to routinely and systematically assess information regarding device recalls, and to use that information to proactively
+identify strategies for mitigating health risks presented by defective or unsafe devices. FDA believes that one way to carry out
+this directive is to provide greater transparency on recalled devices. Identifying whether a predicate was recalled is optional, but
+doing so would help the Agency achieve this FDASIA directive.• Addition of the display of a Predicted Value derived from a static machine-learning based model
+when the user views simulated quantitative radiographic parameters of a planned surgery,
+generated when the Degenerative, Adult or Pediatric Predictive Models are used.
+• The subject device update also includes the addition of a selection of implant templates among a
+preselected database of Medtronic standard implants cleared in in the following 510(k)s:
+K073291, K083026, K091813, K100175, K110543, K113528, K120368, K150135, K152277,
+K172199, K172328, and K201267.
+8. Substantial Equivalence Discussion
+The following table compares the UNiD Spine Analyzer v4.0 to the UNiD Spine Analyzer v2.0 predicate
+device with respect to indications for use, features, and technological characteristics.
+Table 5A – Substantial Equivalence Comparison
+Subject Device Predicate Device
+MEDICREA UNiD™ Spine Analyzer v4.0 MEDICREA UNiD™ Spine Analyzer v2.0
+Manufacturer MEDICREA International, Inc. MEDICREA International, Inc.
+510(k) Number To be determined K180091 (Special)
+Device Class II II
+Product Code(s) LLZ LLZ
+Regulation Medical Image Management and Picture Archiving and Communication
+Description Processing System (MIMPS) System (PACS)
+Regulation Number 21 CFR §892.2050 21 CFR §892.2050
+Indications for use: The UNiD Spine Analyzer is intended The UNiD Spine Analyzer is intended
+for assisting healthcare professionals for assisting healthcare professionals
+in viewing and measuring images as in viewing and measuring images as
+well as planning orthopedic surgeries. well as planning orthopedic surgeries.
+The device allows surgeons and service The device allows surgeons and service
+providers to perform generic, as well providers to perform generic, as well
+as spine related measurements on as spine related measurements on
+images, and to plan surgical images, and to plan surgical
+procedures. The device also includes procedures. The device also includes
+tools for measuring anatomical tools for measuring anatomical
+components for placement of surgical components for placement of surgical
+implants. Clinical judgment and implants. Clinical judgment and
+experience are required to properly experience are required to properly
+use the software. use the software.
+Computer PC Compatible PC Compatible
+Operating System Windows + MAC Windows + MAC
+Image Input Local LocalSubject Device Predicate Device
+MEDICREA UNiD™ Spine Analyzer v4.0 MEDICREA UNiD™ Spine Analyzer v2.0
+Runs on Server Yes Yes
+Osteotomy Module Yes Yes
+Generic No additional changes The measurement panel allows a user
+measurements to view the measured values of each
+tool. The device allows surgeons and
+service providers to perform generic,
+as well as spine related measurements
+on images, and to plan surgical
+procedures. The device also includes
+tools for measuring anatomical
+components for placement of surgical
+implants. Complementary to the pre-
+op measure, this panel also displays
+the simulated values and shows the
+normative value. Quality for the
+measurement is given coloring, the
+simulated values depending on
+reference values.
+Spine measurements MEASURING TOOLS: Contains all MEASURING TOOLS: Contains all
+measurement tools (angle, LLordo, measurement tools (angle, LLordo,
+line, circle, pelvic, T1SPi, SVA) line, circle, pelvic, T1SPi, SVA).
+New features internally documented
+and released include SA Analysis,
+Sagittal wizard, Coronal wizard,
+Transitional anatomy, Cervical, Lenke
+classification, and Guide spline.
+Pre-operative SURGICAL TOOLS: Contains all surgery SURGICAL TOOLS: Contains all surgery
+planning tools (wedge, open, resect) tools (wedge, open, resect).
+New features internally documented
+and released include wedge auto,
+open auto, and resect auto surgical
+tools.
+Custom implants IMPLANTS: Contains all implants (UNiD IMPLANTS: Contains all implants (UNiD
+Rod, cage, cage selection, screw, screw Rod, cage, cage selection, screw, screw
+selection). selection)
+New features internally documented
+and released include UNiD Rod Auto,
+cage auto, screw wizard, and postop
+screw.
+Database Yes (implants) Yes (implants)Subject Device Predicate Device
+MEDICREA UNiD™ Spine Analyzer v4.0 MEDICREA UNiD™ Spine Analyzer v2.0
+The subject device update also
+includes the addition of a selection of
+implant templates among a
+preselected database of Medtronic
+standard implants cleared in in the
+following 510(k)s: K073291, K083026,
+K091813, K100175, K110543, K113528,
+K120368, K150135, K152277, K172199,
+K172328, and K201267.
+Case sharing Yes Yes
+Human intervention Required Required
+for interpretation and
+manipulation of
+images
+Web content Yes Yes
+Reference Display of reference data to user Display of reference data to user
+information provided during surgery planning: during surgery planning:
+to user during surgical Normative data Normative data
+planning
+Predictive model outputs from one of
+three predictive models, depending on
+procedure type (degenerative, adult
+deformity, pediatric deformity)
+The new predictive models provide an additional tool to account for predicted spinal compensation when
+planning surgery; their use is similar to the display of reference and normative data, and does not raise new
+questions of safety and effectiveness when considered with existing methods of managing spinal
+compensation. Predictions are radiographic and do not include patient reported outcomes (e.g., ODI scores).8.Non-Clinical Performance Data
+The device’s software development, verification, and validation have been carried out in accordance with
+FDA guidelines. The software was tested against the established Software Design Specifications for each
+of the test plans to assure the device performs as intended. The device Hazard analysis was completed
+per ISO 14971, Application of Risk Management to Medical Devices and IEC 62304, Medical Device
+Software – Software Life-Cycle Processes, and risk control implemented to mitigate identified hazards. The
+testing results support that all the software specifications have met the acceptance criteria of each
+module and interaction of processes. The MEDICREA UNiD Spine Analyzer device passed all testing and
+supports the claims of substantial equivalence and safe operation.
+Validation activities included a usability study of the UNiD Spine Analyzer under actual use. The study
+demonstrated:
+- Comprehension of the Health Care professional with the UNiD Spine Analyzer,
+- Appropriate human factors related to the UNiD Spine Analyzer, and
+- Ease of use of the UNiD Spine Analyzer.
+9. Clinical Performance Data
+There was no human clinical testing required to support the medical device as the indications for use is
+identical to the predicate device. These types of devices, including the predicate device, have been on the
+market for many years with proven safety and efficacy for the use of the device. The non-clinical testing
+detailed in this submission supports the substantial equivalence of the device.
+10. Conclusions
+By definition, a device is substantially equivalent to a predicate device when the device has the same
+intended use and the same technological characteristics as the previously cleared predicate device. Or the
+device has the same intended use and different technological characteristics that can be demonstrated
+that the device is substantially equivalent to the predicate device, and that the new device does not raise
+additional questions regarding its safety and effectiveness as compared to the predicate device(s).
+The intended use and indications for use of the subject device is identical to the predicate device. The
+addition of the new features, consisting of measuring tool functionality and predictive models, to the
+device does not raise new issues of safety or effectiveness compared to the previously cleared versions
+of the device. Therefore, the UNiD Spine Analyzer v4.0 is determined to be substantially equivalent to the
+company’s own legally marketed predicate device.

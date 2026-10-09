@@ -1,0 +1,1443 @@
+TheraPanacea
+℅ Edwin Lindsay
+QA/RA consultant
+Pépinière Cochin Paris Santé, 29 rue du Faubourg Saint-Jacques
+Paris, 75014
+FRANCE
+Re: K220813
+Trade/Device Name: ART-Plan
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management and Processing System
+Regulatory Class: Class II
+Product Code: QKB
+Dated: March 16, 2022
+Received: March 21, 2022
+Dear Edwin Lindsay:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.govK220813 - Edwin Lindsay Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+Julie Sullivan, Ph.D.
+Director
+DHT8C: Division of Radiological Imaging and Radiation
+Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K220813
+Device Name
+ART-Plan
+Indications for Use (Describe)
+ART-Plan is indicated for cancer patients for whom radiation treatment has been planned. It is intended to be used by
+trained medical professionals including, but not limited to, radiologists, radiation oncologists, dosimetrists, and medical
+physicists.
+ART-Plan is a software application intended to display and visualize 3D multi-modal medical image data. The user may
+import, define, display, transform and store DICOM3.0 compliant datasets (including regions of interest structures).
+These images, contours and objects can subsequently be exported/distributed within the system, across computer networks
+and/or to radiation treatment planning systems. Supported modalities include CT, PET-CT, CBCT, 4D-CT and MR
+images.
+ART-Plan supports AI-based contouring on CT and MR images and offers semi-automatic and manual tools for
+segmentation.
+To help the user assess changes in image data and to obtain combined multi-modal image information, ART-Plan allows
+the registration of anatomical and functional images and display of fused and non-fused images to facilitate the
+comparison of patient image data by the user.
+With ART-Plan, users are also able to generate, visualize, evaluate and modify pseudo-CT from MRI images.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK220813
+TheraPanacea
+Traditional 510(k)
+ART-Plan
+510(k) Summary
+This 510(k) Summary is submitted in accordance with 21 CFR Part 807, Section 807.92.
+Submitter's Name:
+TheraPanacea
+Submitter's Address:
+Pépinière Paris Santé Cochin
+29 rue du Faubourg Saint-Jacques
+75014 Paris
+France
+Telephone: +33 9 62 52 78 19
+Establishment Registration Number:
+3019834893
+Contact Person:
+Edwin Lindsay
+Telephone +44 (0) 7917134922
+Date Prepared:
+16 Mar 2022
+Below summaries the Device Classification Information regarding the TheraPanacea
+ART-Plan:
+Primary Product Code:
+Regulation Device Device Product Classification
+Number Class Code Panel
+892.2050 Medical image Class II QKB Radiology
+management and
+processing system
+Device Trade Name:
+ART-Plan
+Device Common Name:
+ART-Plan
+Intended Use:
+Page1of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+ART-Plan is a software for multi-modal visualization, contouring and processingof3Dimages
+of cancer patients for whom radiotherapy treatment has been prescribed.
+It allows the user to view, create and modify contours for theregionsofinterest.Italsoallows
+to generate automatically, and based on medical practices, the contours fortheorgansatrisk
+and healthy lymph nodes and to register combinations of anatomical and functional images.
+Contours and images require verifications, potential modifications, and subsequently the
+validation of a trained userwithprofessionalqualificationsinanatomyandradiotherapybefore
+their export to a Treatment Planning System.
+ART-Plan offers the following visualization, contouring and manipulation tools to aid in the
+preparation of radiotherapy treatment:
+● Multi-modal visualization and rigid- and deformable registration of anatomical and
+functional images such as CT, MR, PET-CT, 4D-CT and CBCT
+● Display of fused and non-fused images to facilitate the comparison and delineation
+of image data by the user
+● Manual modification and semi-automatic generation of contours for the regions of
+interest
+● Automatic generation of contours for organs at risk and healthy lymph nodes, based
+on medical practices, on medical images such as CT and MR images.
+● Generation of pseudo-CT for supported anatomies
+The device is intended to be used in a radiation therapy clinical setting, by trained
+professionals only.
+Indications for Use:
+ART-Plan is indicated for cancer patients for whomradiationtreatmenthasbeenplanned.Itis
+intended to be used by trained medical professionalsincluding,butnotlimitedto,radiologists,
+radiation oncologists, dosimetrists, and medical physicists.
+ART-Plan is a software application intended to display and visualize 3D multi-modal medical
+image data. The user may import, define, display, transform and store DICOM3.0 compliant
+datasets (including regions of interest structures). These images, contours and objects can
+subsequently be exported/distributed within the system, across computer networks and/or to
+radiationtreatmentplanningsystems.SupportedmodalitiesincludeCT,PET-CT,CBCT,4D-CT
+and MR images.
+ART-Plan supports AI-based contouring onCTandMRimagesandofferssemi-automaticand
+manual tools for segmentation.
+To help the user assess changes in image data and to obtain combined multi-modal image
+information, ART-Plan allows the registration of anatomical and functionalimagesanddisplay
+of fused and non-fused images to facilitate the comparison of patient image data by the user.
+With ART-Plan, users are also able to generate, visualize, evaluate and modify pseudo-CT
+from MRI images.
+Page2of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Summary of Substantial Equivalence:
+The following predicate devices have been chosen that the ART-Plan can claim equivalence with and these are detailed below
+General Comparison
+General Information
+Property Proposed Device Primary Reference Reference Reference Reference Reference Comment
+ART-Plan v1.10.0 Predicate device device device device device
+ART-Plan Contour MIM 4.1 MRCAT Pelvis MRCAT Brain Syngo.via RT
+v1.6.1 ProtégéAI Image Suite
+Common Radiological image Radiological image Radiological System, image System, System, System,
+Name processing software for processing software Image processing, Planning, Planning, Planning,
+radiation therapy for radiation therapy Processing radiological Radiation Radiation Radiation
+N/A
+Software For Therapy Therapy Therapy
+Radiation Treatment Treatment Treatment
+Therapy
+Device TheraPanacea TheraPanacea MIM Software, MIMvista Corp Philips Medical Philips Medical Siemens
+Manufacturer Inc (now MIM Systems Systems Medical
+N/A
+Software Inc) Solutions USA,
+Inc.
+510k N/A K202700 K210632 K071964 K182888 K193109 K173635 N/A
+Device II II II II II II II
+N/A
+Classification
+Primary QKB QKB QKB LLZ MUJ MUJ MUJ The primary product code
+Product Code
+is QKB “Radiological
+Image Processing
+Software For Radiation
+Therapy” as the software
+uses AI algorithms and is
+intended for radiation
+therapy, just like the
+primary predicate device
+Secondary As secondary product
+Product Code code:
+- LLZ (System, Image
+LLZ, MUJ LLZ - - - - LLZ Processing,
+Radiological) was
+included as the
+software is used in
+Page3of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+image processing and
+some predicates use it
+as primary or
+secondary product
+code;
+- MUJ (System,
+Planning, Radiation
+Therapy Treatment)
+was includes as it is a
+software used in the
+planning of
+radiotherapy
+treatment and some of
+the reference devices
+use it as their primary
+code
+Target Any patient type for Any patient type for Not stated Any patient with
+Population whom relevant modality whom relevant soft tissue Any patient with
+scan image data is modality scan data is cancers in the primary and The proposed device has
+available available pelvic region for metastatic brain identical target
+Not stated tumor for whom Not stated
+whom populations to the primary
+radiotherapy
+radiotherapy and reference devices.
+treatment has
+treatment has
+been planned
+been planned
+Environment Hospital Hospital Hospital Hospital Hospital Hospital Hospital The proposed device
+and predicates have
+identical target
+environments
+Intended Use/ Intended Use Intended Use Intended Use Intended Use Intended Use: Intended Use: Intended use:
+The intended use and
+Indication for ART-Plan is a software ART-Plan is a Contour MIM 4.1 MRCAT imaging MRCAT imaging Not available in
+indications for use of
+Use for multi-modal software designed to ProtégéAI is an (SEASTAR) is is intended to the summary
+the proposed device,
+visualization, contouring assist the contouring accessory to software is intended to provide the
+ART-Plan v1.10.0 and
+and processing of 3D process of the target MIM software intended for provide the operator with Indication for
+the primary predicate
+images of cancer anatomical regions used for the trained medical operator with information of use:
+ART-Plan v1.6.1 are
+patients for whom on 3D-images of contouring of professionals information of tissue syngo.via RT
+similar as they are
+radiotherapy treatment cancer patients for anatomical including, but not tissue properties for Image Suite is a
+both intended for
+has been prescribed. whom radiotherapy structures in limited to, properties radiation 3D and 4D
+medical image
+treatment has been imaging data radiologists, for radiation attenuation image
+registration and
+It allows the user to planned. using oncologists, attenuation estimation visualization,
+segmentation in the
+view, create and modify The SmartFuse machine-learnin physicians, estimation purposes in multimodality
+context of radiotherapy
+contours for the regions module allows the g-based medical purposes photon external manipulation
+treatment planning:
+of interest. It also allows user to register algorithms technologists, in photon beam and
+to generate combinations of automatically. dosimetrists and external beam radiotherapy contouring tool
+they allow multi-modal
+automatically, and anatomical and Appropriate physicists. radiotherapy that helps the
+and mono-modal rigid
+based on medical
+Page4of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+practices, the contours functional images and image treatment treatment preparation and deformable registration
+for the organs at risk display them with visualization MIM 4.1 planning. planning. response for the same modalities
+and healthy lymph fused and non-fused software must (SEASTAR) is a assessment of of images (CT, MR, PET)
+nodes and to register displays to facilitate be used to medical image Indications for Indications for treatments such
+combinations of the comparison and review and, if and information Use: use: as, but not they allow automatic
+anatomical and delineation of image necessary, edit management limited to those segmentation of
+functional images. data by the user. results system that is MRCAT Pelvis MRCAT is performed with organs-at-risk and lymph
+Contours and images The images created automatically intended to is indicated for indicated for radiation (for nodes on injected and
+require verifications, with rigid or elastic generated by receive, transmit, radiotherapy radiotherapy example, non-injected CT images
+potential modifications, registration require Contour store, retrieve, treatment treatment Brachytherapy, using deep learning
+and subsequently the verifications, potential ProtégéAI. display, print and planning of soft planning for Particle algorithms
+validation of a trained modifications, and Contour process digital tissue cancers primary and Therapy,
+user with professional then the validation of ProtégéAI is not medical images, in the pelvic metastatic brain External they allow the import,
+qualifications in a trained user with intended to as well as create, region. tumor patients Beam Radiation manipulation,
+anatomy and professional detect or display and print Therapy). visualisation, generation
+radiotherapy before qualifications in contour lesions. reports from those It provides tools and the export of DICOM
+their export to a anatomy and images. The to efficiently images
+Treatment Planning radiotherapy. Indications for medical view existing
+System. With the Annotate Use modalities of contours,
+module, users can Trained medical these medical create, edit, The intended for the
+ART-Plan offers the edit manually and professionals imaging systems modify, copy proposed device has
+following visualization, semi-automatically use Contour include, but are contours of been adapted to
+contouring and the contours for the ProtégéAI as a not limited to, CT, regions of provide a more specific
+manipulation tools to regions of interest. It tool to assist in MRI, CR, DX, the body, such description of the
+aid in the preparation of also allows to the automated MG, US, SPECT, as but not proposed device but
+radiotherapy treatment: generate processing of PET and XA as limited to, skin does not represent a
+automatically, and digital medical supported by outline, targets new intended use,
+- Multi-modal based on medical images of ACR/NEMA and except for the
+visualization and rigid- practices, the modalities CT DICOM 3.0. organs-at-risk. It additional claims for
+and deformable contours for the and MR, as also provides the proposed device
+registration of organs at risk and supported by MIM 4.1 functionalities to as compared to the
+anatomical and healthy lymph nodes ACR/NEMA (SEASTAR) create and primary predicate as:
+functional images such on CT images. DICOM 3.0. In provides the user modify simple
+as CT, MR, PET-CT, The contours created addition, with the means to treatment plans. - it includes an improved
+4D-CT and CBCT automatically, Contour display, register Contours, version of the existing
+- Display of fused and semi-automatically or ProtégéAI and fuse medical images and automatic segmentation
+non-fused images to manually require supports the images from treatment plans tool as compared to the
+facilitate the verifications, potential following multiple can one of ART-Plan v1.6.1.
+modifications, and indications: • modalities. subsequently be
+comparison and
+then the validation of Creation of Additionally, it exported to a
+delineation of image a trained user with contours using evaluates cardiac Treatment - it allows automatic
+data by the user professional machine-learnin left ventricular Planning segmentation on more
+anatomies and
+- Manual modification qualifications in g algorithms for function and System.
+organ-at-risk
+and semi-automatic anatomy and applications perfusion, The software
+generation of contours radiotherapy. including, but including left combines
+not limited to, ventricular following digital
+Page5of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+for the regions of The device is quantitative end-diastolic image - it allows automatic
+interest intended to be used analysis, aiding volume, processing and segmentation on MR
+- Automatic generation in a clinical setting, by adaptive end-systolic visualization images which is not
+of contours for organs trained professionals therapy, volume, and tools: possible with ART-Plan
+at risk and healthy only. transferring ejection fraction. x Multi-modality v1.6.1 but covered by
+lymph nodes, based on contours to TheRegion of viewing and reference devices (MIM
+medical practices, on Indications for Use radiation Interest (ROI) contouring of 4.1. and Contour
+medical images such as therapy feature reduces anatomical, ProtégéAI)
+ART-Plan is intended treatment the time functional, and
+CT and MR images.
+to be used by trained planning necessary for the multi-parametric
+- Generation of medical professionals systems, and user to define images such as - it can generate
+pseudo-CT for including, but not archiving objects in medical but not limited synthetic CT from MR
+images which is not
+supported anatomies limited to, contours for image volumes by to CT, PET,
+possible with ART-Plan
+radiologists, radiation patient follow-up providing an initial PET/CT, MRI,
+v1.6.1 but covered by
+The device is intended oncologists, and definition of object Linac Cone
+reference devices
+to be used in a radiation dosimetrists and management. • contours. The Beam CT
+(MRCATpelvis, MRCAT
+therapy clinical setting, physicists. Segmenting objects include, (CBCT)
+brain and Syngo.via RT
+by trained professionals ART-Plan is a normal but are not limited images and
+Image Suite
+only. software application structures to, tumors and dose
+intended to display across a variety normal tissues. distributions - it allows a cloud-based
+and visualize 3D of CT x Multiplanar deployment which is not
+Indications for Use multi-modal medical anatomical MIM 4.1 reconstruction possible with ART-Plan
+image data. The user locations. • And (SEASTAR) (MPR) v1.6.1 but covered by
+ART-Plan is indicated may process, render, segmenting provides tools to thin/thick, Contour ProtégéAI and
+for cancer patients for review, store, display normal quickly create, minimum Syngo.via RT Image
+whom radiation and distribute DICOM structures of the transform, and intensity Suite
+treatment has been 3.0 compliant prostate, modify projection
+planned. It is intended datasets within the seminal contours for (MIP), volume
+to be used by trained system and/or across vesicles, and applications rendering
+medical professionals computer networks. urethra within including, but not technique (VRT)
+including, but not Supported modalities T2-weighted limited to, x Freehand and
+limited to, radiologists, include static and MR images. quantitative semi-automatic
+radiation oncologists, gated CT, PET, and Appropriate analysis, aiding contouring of
+dosimetrists, and MR. image adaptive therapy, regions-of-intere
+medical physicists. ART-Plan allows the visualization transferring st on any
+user to register software must contours to orientation
+ART-Plan is a software combinations of be used to radiation therapy including
+application intended to anatomical and review and, if treatment oblique
+display and visualize functional images and necessary, edit planning systems x Creation of
+3D multi-modal medical display them with results and archiving contours on any
+image data. The user fused and non-fused automatically contours for type of images
+may import, define, displays to facilitate generated by patient follow-up without prior
+display, transform and the comparison of Contour and management. assignment of a
+store DICOM 3.0 image data by the ProtégéAI. planning CT
+compliant datasets user. PET images MIM 4.1 x Manual and
+(including regions of should not be (SEASTAR) also semi-automatic
+Page6of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+interest structures). registered directly but aids in the registration
+These images, contours via the registration of assessment of using rigid and
+and objects can the CT of the PET PET/SPECT brain deformable
+subsequently be toward the target scans. It provides registration
+exported/distributed image. The result of automated x Supports the
+within the system, the registration quantitative and user in
+across computer operation can assist statistical analysis comparing,
+networks and/or to the user in assessing by automatically contouring, and
+radiation treatment changes in image registering adapting
+planning systems. data, either within or PET/SPECT brain contours based
+Supported modalities between scans to a on datasets
+include CT, PET-CT, examinations and standard template acquired
+CBCT, 4D-CT and MR aims to help the user and comparing with different
+images. obtain a better intensity values to imaging
+understanding of the a reference modalities and
+ART-Plan supports combined information database or to at different time
+AI-based contouring on that would otherwise other PET/SPECT points
+CT and MR images and have to be visually scans on a voxel x Supports the
+offers semi-automatic compared by voxel basis, user in
+and manual tools for disjointedly. within stereotactic comparing
+segmentation. ART-Plan provides a surface images and
+number of tools such projections or contours of
+To help the user assess as regions of standardized different
+changes in image data interests, which are regions of patients
+and to obtain combined intended to be used interest. x Supports
+multi-modal image for the assessment of multi-modality
+information, ART-Plan regions of an image Indications for image fusion
+allows the registration to support a clinical Use x Visualization
+of anatomical and workflow. Examples and contouring
+functional images and of such workflows MIM 4.1 of moving
+display of fused and include, but are not (SEASTAR) tumors and
+non-fused images to limited to, the software is used organs
+facilitate the delineation of by trained medical x Management
+comparison of patient anatomical regions of professionals as a of points of
+image data by the user. interest on tool to aid in interest
+3D-images of cancer evaluation and including but not
+With ART-Plan, users patients for whom information limited to the
+are also able to radiotherapy management of isocenter
+generate, visualize, treatment has been digital medical x Management
+evaluate and modify planned. images. The of simple
+pseudo-CT from MRI ART-Plan supports medical image treatment plans
+images. the loading and modalities x Generation of
+. saving of DICOM RT include, but are a synthetic CT
+objects and allows not limited to, CT, based on
+the user to define, MRI, CR, DX, multiple
+import, display, MG,
+Page7of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+transform, store and US, SPECT, PET pre-define MR
+export such objects and XA as acquisitions
+including regions of supported by
+interest structures to ACR/NEMA
+radiation therapy DICOM 3.0. MIM
+planning systems. 4.1
+ART-Plan allows the (SEASTAR)
+user to transform assists in the
+regions of interest following
+associated with a indications:
+particular imaging * Receive,
+dataset to another, transmit, store,
+supporting AI-based retrieve, display,
+contouring on CT print, and process
+images along with medical images
+semi-automatic and and DICOM
+manual tools for objects.
+segmentation. * Create, display
+and print reports
+from medical
+images.
+* Registration,
+fusion display,
+and review of
+medical images
+for diagnosis,
+treatment
+evaluation, and
+treatment
+planning.
+* Evaluation of
+cardiac left
+ventricular
+function and
+perfusion,
+including left
+ventricular
+end-diastolic
+volume,
+end-systolic
+volume, and
+ejection fraction.
+* Localization and
+definition of
+objects such as
+Page8of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+tumors and
+normal tissues in
+medical images.
+* Creation,
+transformation,
+and modification
+of contours for
+applications
+including, but not
+limited to,
+quantitative
+analysis, aiding
+adaptive therapy,
+transferring
+contours to
+radiation therapy
+treatment
+planning systems,
+and
+archiving contours
+for patient
+follow-up and
+management.
+* Quantitative and
+statistical analysis
+of PET/SPECT
+brain scans by
+comparing to
+other registered
+PET/SPECT brain
+scans
+Lossy
+compressed
+mammographic
+images and
+digitized film
+screen images
+must not be
+reviewed for
+primary image
+interpretations.
+Images that are
+printed to film
+must be printed
+using a
+Page9of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+FDA-approved
+printer for the
+diagnosis of
+digital
+mammography
+images.
+Mammographic
+images must be
+viewed on a
+display
+system that has
+been cleared by
+the FDA for the
+diagnosis of
+digital
+mammography
+images. The
+software is not to
+be used for
+mammography
+CAD.
+System InformationComparison
+System Information
+Property Proposed Primary Reference Reference Reference Reference Reference Comment
+Device Predicate device device device device device
+ART-Plan ART-Plan Contour MIM 4.1 MRCAT Pelvis MRCAT Brain Syngo.via RT
+v1.10.0 v1.6.1 ProtégéAI Image Suite
+Method of Standalone Standalone Standalone Standalone Provided as a Provided as a syngo.via can be
+Use software software software software plug-in clinical plug-in clinical used as a
+application application application package application to application to standalone device
+accessed via accessed via Ingenia MR-RT. It Ingenia MR-RT. It or together with a
+a compliant a compliant is compatible with is compatible with variety of The proposed device and
+browser browser Ingenia 1.5T and Ingenia 1.5T and syngo.via-based predicates (especially the
+(Chrome or (Chrome or 3.0T MR-RT, 3.0T MR-RT, software options, primary predicate) have
+Mozilla Mozilla Ingenia Ambition Ingenia Ambition which are medical identical methods of use
+Firefox) on a Firefox) on a 1.5T MR-RT and 1.5T MR-RT and devices in their
+personal personal Ingenia Elition Ingenia Elition own right.
+computer, computer, 3.0T MR-R. It runs 3.0T MR-RT. It
+tablet or tablet or parallel to image runs parallel to
+Page10of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+phone (In phone (In acquisition on the image acquisition
+case of case of MR console, on the MR
+connection to connection to embedded console,
+the platform the platform post-processing embedded
+with a screen with a screen generates MRCAT post-processing
+of a phone or of a phone or images using: • generates MRCAT
+a tablet, the a tablet, the Automated images using: •
+user must user must segmentation and Automated
+choose the choose the tissue segmentation and
+option for the option for the classification • tissue
+desktop site of desktop site Automated classification •
+his of his assignment of Automated
+communicatio communicatio CT-based density assignment of
+n device. The n device. The values CT-based density
+platform is platform is values
+optimally used optimally used
+with 17 inches with 17 inches
+and up and up
+screen. screen.
+Facilitates Facilitates
+display and display and
+visualization visualization of
+of data by data by user.
+user.
+Computer Full web Full web Server-based Windows As the density As the density This solution is
+Platform and platform platform application 2000/XP information is information is also available
+Operating Launch from Launch from supporting generated directly generated directly cloud-based,
+System Google Google Linux-based OS on the MR on the MR providing
+Chrome or Chrome or - and - console, the console, the scalability with
+Mozilla Firefox Mozilla Firefox resulting data is resulting data is flexible use The proposed device and
+Local available at the available at the models and cloud predicates are compatible with
+Available on deployment on console for console for deployment1 identical operating systems.
+Windows or Mac
+server-based immediate review. immediate review.
+application or
+Cloud-based Cloud-based
+deployment deployment
+Data Yes Yes Yes Yes Yes Yes Yes The proposed device and all
+Visualization the predicates have a data
+/ Graphical visualisation and graphical
+Interface interface
+Synthetic CT Generation of N/A N/A N/A Generation of CT Generation of CT Generation of CT- The proposed device and
+CT density density image density image reference devices such as
+1
+Information obtained from their brochure:https://cdn0.scrvt.com/39b415fb07de4d9656c7b516d8e2d907/a4c5e63ae0880cd1/f2053f668eaa/shs-syngo-via-rt-image-suite-brochure-2020.pdf
+Page11of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+image series series out of series out of density image MRCAT pelvis, MRCAT brain
+out of multiple multiple MR-image multiple MR-image series out of and Syngo.via RT Image Suite
+MR-image series series multiple MR-image have the same feature
+series series
+Supported Registration: Registration: CT and MR Medical image MR images MR images 3D: CT, PET1, The proposed device is
+Modalities Static and Static and modalities PET/CT1, MRI1, compatible with the same
+gated CT, MR, gated CT, MR, include, but are 4D-CT and Linac modalities as the primary
+PET (via the PET (via the not limited to, Cone Beam CT predicate on the registration
+registration of registration of CT, MRI, CR, (CBCT) image feature, which are CT, MR and
+the CT of said the CT of said DX, MG, US, support PET images in a DICOM
+PET), 4D-CT PET) SPECT, PET and Support for time format. However, the proposed
+and CBCT. XA as supported resolved CT and device supports 2 additional
+Segmentatio by ACR/NEMA MR1 images (e.g. modalities:
+Segmentatio n: DICOM 3.0. MR DCE, - CBCT (covered by
+n: CT (injected or
+Perfusion CT) the reference device
+CT (injected not), DICOM
+Syngo.via RT Image
+or not), RTSTRUCT
+Suite)
+MR images,
+- 4D-CT (covered by
+DICOM
+the reference device
+RTSTRUCT
+Syngo.via RT Image
+Suite
+For both devices, supported
+images can be fixed (static) or
+moving (gated).
+The proposed device and the
+primary predicate are both
+compatible with CT images
+(injected or not), DICOM and
+RTSTRUCT on the
+segmentation feature.
+For MR images, the proposed
+device and some reference
+devices (such as MRCAT
+pelvis and MRCAT brain) are
+both compatible with MR
+images on the segmentation
+feature.
+Page12of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Compared to reference
+devices, the proposed device
+claims less supported
+modalities
+Data Export Distribution of Distribution of As supported by The system has MRCAT images MRCAT images DICOM, HL7 and The proposed device and
+DICOM DICOM ACR/NEMA the ability to can be exported in can be exported in IHE-RO standard predicates (especially the
+compliant compliant DICOM 3.0. send data to DICOM format DICOM format compliance primary one) have identical
+Images into Images into DICOM-ready enabling the use enabling the use data export capabilities with
+other DICOM other DICOM devices for as primary images as primary images DICOM format.
+compliant compliant image storage, in the treatment in the treatment
+systems. systems. retrieval and planning systems planning systems
+transmission.
+Compatibility Compatible Compatible supported by The software can MR console: MR console: Compatible with The proposed device and
+with data from with data from ACR/NEMA receive, transmit, Compatible with Compatible with DICOM predicates (especially the
+any DICOM any DICOM DICOM 3.0 store, retrieve, Ingenia 1.5T and Ingenia 1.5T and Automatic send to primary one) have identical
+compliant compliant display, print, 3.0T MR-RT, 3.0T MR-RT, TPS configuration compatibility (DICOM format)
+scanners for scanners for and process Ingenia Ambition Ingenia Ambition
+the applicable the applicable DICOM objects 1.5T MR-RT and 1.5T MR-RT and
+modalities. modalities. and medical Ingenia Elition Ingenia Elition
+image modalities 3.0T MR-RT 3.0T MR-RT
+including, but not After export, After export,
+limited to, CT, compatible with compatible with
+MRI, CR, DX, any DICOM any DICOM
+MG, US, SPECT, compliant compliant
+PET and XA as scanners. scanners.
+supported by
+ACR/NEMA
+DICOM 3.0.
+Page13of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Technical Information Comparison
+Technical Information
+Property Proposed Primary Reference Reference Reference Reference Reference Comment
+Device Predicate device device device device device
+ART-Plan ART-Plan Contour MIM 4.1 MRCAT Pelvis MRCAT Brain Syngo.via RT
+v1.10.0 v1.6.1 ProtégéAI Image Suite
+Delineation AI AI AI Atlas N/A N/A Deep learning The proposed device,
+Method autocontouring primary predicate and
+for organs at risk most of the reference
+(incl. lymph devices share an AI
+nodes)2 delineation method.
+Image Multi-modal Multi-modal and N/A Registration, fusion N/A N/A Image Fusion Both the predicate device
+registration and mono-modal. display, and review and ART-Plan offer
+Rigid and
+mono-modal. Rigid and of medical images mono-modal (CT-CT) and
+Deformable
+Rigid and deformable for diagnosis, multi-modal (CT/MR,
+Registration with
+deformable Automatic and treatment CT/PET) rigid and
+region-of interest
+Automatic and manual evaluation, and deformable registration.
+based
+manual initialization treatment planning.
+registration and
+initialization (landmarks, multiple However, the proposed
+(landmarks, fusion box, registrations per device supports 2
+fusion box, alignment). image pair additional modalities:
+alignment). Registration for
+Registration for the purposes of Manual editing - CBCT (covered
+the purposes replanning/ of registrations by the reference
+deviceSyngo.via
+of replanning/ recontouring Save
+RT Image Suite)
+recontouring and AI-based registrations and
+- 4D-CT (covered
+and AI-based automatic save deformed
+by the reference
+automatic contouring. images as
+deviceSyngo.via
+contouring. reformatted
+RT Image Suite
+dataset2
+Contour warping
+Both devices offer an
+and display of
+automatic solution for
+prior and new
+registration and
+structure set
+semi-automatic registration
+Registration by including manual
+Quality Check initialization tools in
+with spyglass, addition to automatic
+deformation initialization.
+vector map,
+2https://www.siemens-healthineers.com/radiotherapy/software-solutions/syngovia-rt-image-suite(last checked on Feb, 15th 2022)
+Page14of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+magnitude color Reference device such as
+map Syngo.via RT Image Suite
+offers the same options as
+the proposed device: rigid
+and deformable
+registration.
+Segmentation Automatically Automatically Creation of The software N/A N/A Multimodality
+Features delineates delineates contours using automatically contouring
+OARs and OARs and machine-learning generates contours
+Freehand 2D,
+healthy lymph healthy lymph algorithms for using a deformable
+3D image-based
+nodes nodes (on any applications registration
+Smart Freehand
+CT images) including, but not technique which
+segmentation, s
+Deep learning limited to, registers
+algorithm. Deep learning quantitative pre-contoured Contour on any
+algorithm. analysis, aiding patients to target arbitrary plane
+Automatic adaptive therapy, patients. including oblique The proposed device and
+segmentation Automatic transferring Registrations are planes primary predicate are
+includes the segmentation contours to either deep learning capable of automatically
+following includes the radiation therapy between a serial autocontouring contouring the
+localizations: following treatment planning pair of intra-patient for organs at risk organ-at-risk (OAR) and
+* head and localizations: systems, and volumes or (inclusive LNs) healthy lymph nodes using
+neck (on CT * head and archiving contours between a AI (deep learning)
+One-click
+images) neck for patient follow-up pre-existing atlas of algorithm.
+adaptive
+* thorax/breast * thorax/breast and management. contoured patients
+contouring
+(for (for and a patient There is a difference in
+male/female male/female) Segmenting volume. This User intended anatomies for CT
+and on CT * abdomen anatomical process facilitates configurable images as the proposed
+images) * pelvis (for structures across a contour creation or Organ device also includes pelvis
+* abdomen (on male only) variety of CT re-contouring for Templates female.
+CT images and * brain. anatomical adaptive therapy. Multiple For MR images, all
+MR images) locations. structure set anatomies included in the
+* pelvis support (1 per proposed device are also
+male(on CT And segmenting image series) included in the primary
+images and normal structures Molecular predicate.
+MR images) of the prostate, imaging data
+* pelvis female seminal vesicles, such as PET,
+(on CT and urethra within threshold-based
+images) T2-weighted MR and skin, gray
+* brain (on CT images. value-based
+images and segmentation1
+MR images)
+“CT-free”
+contouring:
+native PET or
+MR contouring
+Page15of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Parallel
+contouring:
+contouring
+performed on
+any image is
+reflected on all
+other images
+Visualization of
+previously drawn
+structures on the
+current image
+series
+Contour copy
+and warping
+between image
+series2
+View Window and Window and Not stated Not stated N/A N/A Organ algebra
+Manipulation level, pan, level, pan, (union,
+and zoom, zoom, intersection,
+Volume cross-hairs, cross-hairs, exclusion)
+Rendering slice slice
+Symmetric and
+navigation. navigation.
+asymmetric
+Maximum, Maximum,
+structure growth
+average and average and
+or contraction
+minimum minimum
+intensity intensity Smart 2D/3D
+projection projection (MIP, Nudge, brush
+(MIP, AVG, AVG, MinIP), Pan, scale,
+MinIP), color rendering, rotate contour
+color multi-planar
+Geometrical and
+rendering, reconstruction smart The proposed device has
+multi-planar (MPR), fused image-based the same tools as the
+reconstruction views, contour primary predicate.
+(MPR), fused gallery views.
+interpolation
+views,
+Multi-modality
+gallery views.
+Image
+Manipulation
+Multiplanar
+reconstruction
+(MPR) thin/thick,
+minimum
+intensity
+projection (MIP),
+volume
+Page16of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+rendering
+technique
+(VRT)2
+Regions and AI Based AI Based AI Based Atlas based N/A N/A syngo.via RT
+Volumes autocontouring autocontouring, contouring, tools to contouring, tools to Image Suite
+of Interest , Registration quickly create, quickly create, provides
+(ROI) Registration based contour transform, and transform, and dedicated tools,
+based contour projection modify contours. modify contours. which help the
+projection (re-contouring), medical
+(re-contouring), Manual ROI professional in
+Manual ROI manipulation contouring
+manipulation and Both the proposed device
+and transformation and evaluating and the primary predicate
+transformation (margins, volumes of allow AI automatic
+(margins, booleans interest. contouring and manual
+booleans operators, Freehand and contouring
+operators, interpolation). semi-automatic
+interpolation). contouring of
+regions-of-intere
+st on any
+orientation
+including
+oblique2
+Region/volum Intensity, Intensity, N/A Quantitative N/A N/A N/A
+e of Hounsfield Hounsfield units analysis tools.
+interest units and SUV and SUV
+The proposed device
+measurement measurements measurements
+offers the same kind of
+s and Size Size
+region/volume of interest
+size measurements measurements
+measurements and size
+measurement include 2D and include 2D and
+measurements as the
+s 3D 3D
+primary predicate
+measurements measurements
+(number of (number of
+slices, volume slices, volume
+of a structure, of a structure,
+static ruler) static ruler)
+Page17of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Device Description:
+TheART-Planapplicationiscomprisedoftwokeymodules:SmartFuseandAnnotate,allowing
+the user to display and visualize 3D multi-modal medical image data. The user may process,
+render, review, store, display and distribute DICOM 3.0 compliant datasets within the system
+and/or across computer networks. Supported modalities cover static and gated CT
+(computerized tomography including CBCT and 4D-CT), PET(positronemissiontomography)
+and MR (magnetic resonance).
+Compared to ART-Plan v1.6.1 (primary predicate),thefollowingadditionalfeatureshavebeen
+added to ART-Plan v1.10.0:
+● an improved version of the existing automatic segmentation tool
+● automatic segmentation on more anatomies and organ-at-risk
+● image registration on 4D-CT and CBCT images
+● automatic segmentation on MR images
+● generate synthetic CT from MR images
+● a cloud-based deployment
+The ART-Plan technical functionalities claimed by TheraPanacea are the following:
+• Proposing automatic solutions to the user, such as an automatic delineation, automatic
+multimodal image fusion, etc. towards improving standardization of processes/
+performance / reducing user tedious / time consuming involvement.
+• Offering to the user a set of tools to assist semi-automatic delineation, semi-automatic
+registration towards modifying/editing manually automatically generated structures and
+adding/removing new/undesired structures or imposing user-provided correspondences
+constraints on the fusion of multimodal images.
+• Presenting to the user a set of visualization methods of the delineated structures, and
+registration fusion maps.
+• Saving the delineated structures / fusion results for use in the dosimetry process.
+• Enabling rigid and deformable registration of patients images sets tocombineinformation
+contained in different or same modalities.
+• Allowing the users to generate, visualize, evaluate and modify pseudo-CT from MRI
+images.
+ART-Plan offers deep-learning based automatic segmentation for the following localizations:
+● head and neck (on CT images)
+● thorax/breast (for male/female and on CT images)
+● abdomen (on CT images and MR images)
+● pelvis male(on CT images and MR images)
+● pelvis female (on CT images)
+● brain (on CT images and MR images)
+ART-Plan offers deep-learning based synthetic CT-generation from MR images for the
+following localizations:
+● pelvis male
+● brain
+Page18of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Information about your training dataset:
+● Summary test statistics or other test results including acceptance criteria or
+other information supporting the appropriateness of the characterised
+performance
+AcceptancecriteriaforperformanceofART-Planmoduleswereestablishedusingperformance
+ranges extracted from benchmarkdevicesandalternativetechnologiesintheliterature.Foran
+auto segmentation model to be judged acceptable, every organ included in the model must
+pass at least one acceptance criterion with success across the different testings it has been
+submitted to. These criteria are as follows:
+A. The Dice Similarity Coefficient(DSC)isequaltoorsuperiortotheacceptance
+criteria set by the AAPM: DSC (mean)≥ 0.8.
+Or
+B. The Dice Similarity Coefficient (DSC) is equal to or superior to inter-expert
+variability: DSC (mean)≥ 0.54 or DSC (mean) ≥ mean (DSC inter-expert) + 5%
+Or
+C. The clinicians’ s qualitative evaluation of the auto-segmentationisconsidered
+acceptable for clinical use without modifications (A) or with minor
+modifications / corrections (B) with a A+B % above or equal to 85%
+considering the following scale:
+A: the contour is acceptable for a clinical use without any modification
+B: the contour would be acceptable for clinical use after minor
+modifications/corrections
+C: the contour requires major modifications (e.g.itwouldbefasterfor
+the expert to manually delineate the structure)”
+For the synthetic-CT generation tool, the acceptance criteria are as follows:
+A. A median 2%/2mm gamma passing criteria of ≥95%
+B. A median 3%/3mm gamma passing criteria of ≥99.0%
+C. A mean dose deviation (pseudo-CT compared to standard CT) of ≤2% in
+≥88% of patients
+● Total number of individual patients images in the reported auto segmentation
+tools and independence of test data and training data
+Our training, validation andtestcohortsarebuiltfromreal-worldretrospectivedatawhichwere
+initially used for treatmentofcancerpatients.Forthestructuresofagivenanatomyforagiven
+modality (MR or CT),twonon-overlappingdatasetswereseparated:thetestpatients(number
+selected based on thorough literature review and statistical power) and the train data. We
+make sure that those sets are non-overlapping and further split the train cases into train and
+validation sets and ensure enough train cases for the machine learning models to converge
+and achieve good performances of the validation set.
+Page19of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Sample Size %
+Training 299142 0.8
+Validation 75018 0.2
+Total 374160 1
+● Total number of cases and samples images in the reported auto segmentation
+results
+The total number of patients used for training (8736) is lower than the number of samples
+(374160). This is linked to the fact that one patient can be associated withmoreimages(e.g.
+CT, MR) and that each image (anatomy) has the delineation of several structures(OARsand
+lymph nodes) which increases the number of samples used for training and validation.
+● Demographic distribution including gender, age and ethnicity
+All data used for training of the models have been pseudo-anonymised by the centers
+providing data before transfer.Around80%ofthedatausedfortrainingcontaininformationon
+gender and age of the patients. In terms of gender, around 44% and 56% of our data (that
+contains this information) are from female and male patients, respectively. In comparison, in
+2020 according to the Global Cancer Observatory, 48% and 52% of the cancerpatientswere
+female and male, respectively.
+Intermsofage,ourdatafollowsthesametrendobservedandreportedintheUS(SEERNIH),
+UK (Cancer Research UK) and worldwide (Global Cancer Observatory) for cancer incidence
+according to age, with more than 95% of the data coming from patients between 20 and 85
+years old. Our data has a slight overrepresentation (8% points) for the ages between 54 and
+60 years old, at the cost of a slight underrepresentation of patients in the agerangebetween
+20-34 (1.5% points) and above 85 (6.5% points) years old. In addition, following the general
+global (incl US) trend, our data also depicts a steep riseintheincidenceratefromintheage
+group of 55-64 years old, with a median age of 63 years old (as compared to 66 yearsoldin
+the US).
+Although this information is not exhaustive, this analysis shows that the demographic
+distribution in terms of age and gender of the data used for training and validation of the
+models are well aligned with the incidence cancer statistics found for instance in US,UKand
+globally. This comes from the fact that real clinical data provided by medical facilities without
+any selection criteria (i.e. no discrimination or selection has been applied to the cases
+retrieved), leading to the demographicdistributionincludinggenderandageacrossthedatais
+representative of the distribution in the clinic and thus of the cancer patient population in
+general.
+An exception is noted for following models that are gender-dependent:
+- 100% of pelvis images for male pelvis model for automatic annotation are male patients
+- 100% of pelvis images for female pelvis model for automatic annotation are female patients
+- 100% of breast images for the breast automatic annotation are female patients
+- 100 % of pelvis images for automatic synthetic-CT generation are male patients
+No pseudo-anonymized data included any information on the ethnicity.
+Page20of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+In addition, automatic delineation of the device demonstrated equivalent performances
+between non-US and US population.
+● On the “truthing” and data collection process
+The contouring guidelines followed to produce the contours were confirmed with the centers
+which provided the data. Our truthing process includes a mix of data created by different
+delineators (clinical experts) and assessmentofintervariability,groundtruthcontoursprovided
+by the centers and validated by a second expert of the center, and qualitative evaluationand
+validation of the contours. This processensuresthatthedatausedfortrainingandtestingcan
+be considered representative of the delineation practice across centers and following
+international guidelines.
+● On clinical subgroups, confounders and equipment details
+In general, confounding factors affecting health status present in the dataset could berelated
+to patient clinical variables such as age, gender, ethnicity, economicalandeducationallevels.
+As shown in “Demographic distribution including gender, age and ethnicity”, our datais
+representative of the demographic cancer distribution in terms ofgenderandage.Inaddition,
+our models when appropriate (i.e. for gender independent anatomies) are shared across
+gender removing any further bias and augmenting substantially training cohorts.
+Variables like ethnicity, economical and educational status that could be associated with
+obesity are further confounding factors that could impact global patient's anatomy and
+introduce bias in the performance of the obtained solution. To address this aspect, we have
+adopted a strategy that projects a patient's specific anatomy to common, multiple, differentin
+size, full-body female and male patient templates, allowing a direct harmonization of data
+resulting in potential removal of bias of anatomical diversity across ethnic, economical and
+educational groups. Please note that this information (ethnic group, educational/economical
+level, etc.) is often not available in the pseudo-anonymised data and therefore performing
+statistical tests and increasing thenumberofoperationsallowingtoseparatecorrelationsfrom
+causality is often unattainable.
+Regarding variables associated with treatment therapeutic and treatment implementation
+strategies;wecanimagineimagingdevicesandtreatmentdevicesbeingpotentialconfounding
+factors as differences exist among CT and MR scanners manufacturers that could potentially
+introduce bias. We have addressed this concern through a statistical analysis of the different
+imaging vendors in EU & USA towards the creation of a data training, validation and testing
+cohort that globally appropriately representsthemarketshareofthedifferentvendorsallowing
+generalization and removing hardware specific bias. In terms of treatment implementation, it
+should be noted that differentguidelinesexistanddependingonthetreatmentdevicedifferent
+therapeutic constraints and guidelines are applied. This is reflected in our database since
+different strategies and constraints are used depending on the choice of treatment (e.g
+external radiotherapy vs stereotactic treatment). Our solution, due to its concept of removing
+bias through projection to patient template anatomies as well asduetothecomponent-based
+approach that is abletoaggregatetrainingdataacrossimagingandtreatmentvendors,isable
+to address the maximum set of constraints. Therefore, we do not introduce any bias on the
+type oftreatmentthatwillbedelivered(supportinganytypeofclinicallyconventionallyadopted
+treatment from manufactures such as Varian, Elekta, Accuray, GE, Siemens, ViewRay & Zap
+Page21of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Surgical), providing direct means for customization of the constraints to be met at the clinical
+expert level and offering a representative coverage of all vendors in radiation oncology
+world-wide.
+An exception is noted for following models that are vendor-, machine- or sequence-dependent:
+- MR annotation tool for pelvis and abdominal regions weretrainedondatafroma0.35TMR
+machine provided by ViewRay
+- synthetic-CT generation tool for pelvis was trained on data from a 0.35T MR machine
+provided by ViewRay
+- synthetic-CTgenerationtoolandannotationtoolforMRpelviswastrainedondatafrom1.5T
+Philips (Elekta) for T2 sequences, and might not work on T1-weighted images
+Technological Characteristics:
+A comparative review of the ART-Plan with the predicate device found that the technology,
+mode of operation, and general principles for treatment with this device were substantially
+equivalent as the predicate device.
+Non-Clinical Tests (Performance/Physical Data):
+The ART-Plan was evaluated for its safety and effectiveness based on the following testing:
+Test Name Test Description/Results Results
+Usability Report This document is intended to document the
+(V1.10.0) usability test results for the ART-Plan v1.10.0 for
+Passed
+compliance with IEC 62366-1:2015+AMD1:2020 -
+Medical devices - Application of usability
+engineering to medical devices.
+Usability file - ART-USR-09 The ART-Plan was assessed with regards to
+(V1.10.0) usability for compliance with each section of IEC Passed
+62366
+Usability - Testers qualification This table shows that European medical physicists
+(V1.10.0) who have participated in the evaluation have at
+least an equivalent expertise level compared to a
+N/A
+junior US medical physicist (MP), and
+responsibilities in the radiotherapyclinicalworkflow
+are equivalent
+Literature Review and A literature review is performed to establish
+Performance Criteria acceptance criteria for performance of ART-Plan
+Extraction Report for ART-Plan modules using performance ranges observed from
+(V1.9.0 and V1.10.0) benchmark devices and alternative technologies in N/A
+the literature. All measures of performance that
+were established in this document were supported
+by clinical evidence. It was also demonstrated,
+from the clinical data, that ART-Plan has a clear
+Page22of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+clinical relevance in accordance with the clinical
+state of the art.
+ART-Plan performance testing The document summarises all performance tests
+- Overview that have been performed since the last FDA
+(V1.6.1-V1.10.0) cleared version (1.6.1). It also showswhichcriteria
+have been met in each test for all modules of
+Passed
+ART-Plan. It demonstrates that all modules of
+ART-Plan pass at least one performance
+acceptance criterion and hence are clinically
+acceptable for release.
+Study Protocol and Report The testing demonstrated that Annotate provides
+Annotate Performances acceptable contours for the concerned structures Passed
+Summary (V1.9.0) on an image of a patient.
+Abdo MRI auto-segmentation Mean DSC of each organ was compared with the
+performances according to tolerance threshold of 0.8. After comparing the
+AAPM requirements (V1.8.0) contours of 3 different experts on the samepatient
+the mean DSC was calculated, compared with the
+Passed
+auto-segmentation and was observed to be in
+every case superior. It is concluded that the
+auto-segmentation algorithm provides clinical
+acceptable contours.
+Testing protocol/report - Brain In this test, some organs did not meet the
+MRI autosegmentation acceptance criteria. However, the value of 0.80 is
+performances according to indicated by the AAPM as the “uncertainty of
+AAPM requirements contouring of the structure” which in fact can be
+significantly below 0.80 depending on the organ.
+Thus, we also decided to evaluate in parallel the
+models with a qualitative evaluation of our
+predictions (see additional qualitative test below).
+Qualitative validation of All organs except left and right cochlea passed at Passed
+autosegmentation least one of the acceptance criteria demonstrating
+performances - Brain (V1.8.0) that the Annotate module provides acceptable
+contours on MR brain structures. The MR brain
+model has been further improved, subjected to
+further testing, and, after providing acceptable
+contours for all structures (incl. the cochlea),
+released in v1.10.0. (see Study Protocol and
+Report- Autosegmentation performances against
+inter-expert variability - Brain MR (V1.10.0)).
+Qualitative validation of The testing demonstrates that Annotate provides
+auto-segmentation acceptable contours for a specific list of
+Passed
+performances - Gyneco gynecological structures on a Female pelvis CT
+(V1.8.0) image. Three testing methods are used: DICE
+calculation, Inter-expert DICE calculation and
+Page23of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+qualitative Indicator. All structures passed at least
+one of the acceptance criteria and were released.
+Pelvis MRI auto-segmentation The testing demonstrates that the
+tool performances according to auto-segmentation algorithm for Pelvis MRIs
+AAPM requirements (V1.8.0) provides acceptable contours for the concerned
+Passed
+structures on an image of a patient.Allorgansmet
+at least one of the acceptance criteria and
+therefore were considered acceptable.
+The study was developed to cover the major
+Qualitative & Quantitative clinical use cases in which fusions are used in the
+validation of fusion radiotherapy workflow and split into as many
+performances (V1.9.0) sub-studies as clinical use cases of fusion in
+Passed
+radiotherapy workflow. The results show that both
+types of fusion algorithms (Rigid & Deformable) in
+SmartFuse pass the performed tests, and provide
+valid results for further clinical use in radiotherapy.
+Study Protocol and Report for The study evaluated the quality oftherigidandthe
+qualitative validation of fusion deformable fusion algorithms of the SmartFuse
+performances for module for the following cases:
+tCT_sCT_injected/PET - CT injected image fuse towards CT image
+Passed
+modality (V1.9.0) - CT-PET image fuse towards CT image.
+Both types of fusion algorithms, rigid and
+deformable, provided clinically acceptable results
+for the desired clinical uses.
+Study Protocol & Report for The testing evaluated the quality of ITVcalculation
+qualitative validation of ITV algorithm of the Annotate module in the case of
+calculation performances for 4D-CT examinations. Acceptable results were Passed
+4D_CT modality (V1.9.0) reached for the evaluation of contours propagation.
+Study Protocol and Report for This testing evaluated the performances of the
+validation of fusion SmartFuse module for the clinical caseoffusionof
+performances for tCT_sMR an MRI towards a planning CT to aid in the Passed
+modality (V1.9.0) delineation. Acceptable results were reached for
+this evaluation.
+Study Protocol and Report for This study evaluated the performances of the
+qualitative validation of fusion SmartFuse module for fusion of CTs towards
+performances for tMR_sCT planning MRIs for the purpose of electron density Passed
+modality (V1.9.0) transfer. Acceptable results were reached for this
+evaluation.
+Study Protocol and Report for This study evaluated the performances of the
+qualitative & quantitative SmartFuse module on the clinical case of using
+validation of fusion fusion for MRI replannification.Favorableresultsto
+Passed
+performances for tMR_sMR the established performance criteria for rigid and
+modality (V1.9.0) deformable registrations, and for all organs, were
+obtained.
+Protocol for qualitative & This study evaluated thequalityoftherigidandthe
+quantitative validation of fusion deformable fusion algorithms of the SmartFuse
+performances for module for replanification of CT-based treatments. Passed
+tCT_sCT_replanning modality Acceptable results were reached for this
+(V1.9.0) evaluation.
+Page24of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+Pilot study for sample size Theliteraturereviewwasperformedtoestimatethe
+estimation - literature review appropriate sample size of the testing data set
+(V1.9.0) towards demonstrating the performance of the
+N/A
+image registration, segmentation and pseudo-CT
+generation solutions on the basis of the most
+recent and most relevant scientific literature.
+Autoseg 2D regression test for The objective of the test was to demonstrate
+integration in ART-Plan V1.9.0 equivalence between the version (V1.9.0) and
+previous versions of Annotate (V.1.8 and v1.6.1).
+All organs passed at least one of the defined
+criteria, and hence were accepted for release in Passed
+v1.9. Given that equivalence TheraPanacea
+considers all tests (especially the qualitative ones)
+performed on previous versions of the software to
+be still relevant.
+Study Protocol & Report This test demonstrates equivalence between the
+(SPR): External contour version V.1.10 and V.1.9 of the external contours
+non-regression protocol for and show that the new added anatomies in the
+integration in ART-Plan module Annotate provides clinically acceptable Passed
+V1.10.0 contours. The external contour for all anatomies
+passed the defined criteria, and hence were
+accepted for release in the v1.10.
+This test demonstrates equivalence between the
+Testing Protocol/Report - version v.1.10 and v.1.9 of the auto-segmentation
+Autoseg CT, MR models for all structures and shows that the
+Passed
+non-regression test for updated models provide clinically acceptable
+integration in ART-Plan contours. All organs passed the defined criteria,
+V1.10.0 and were hence accepted for release in the v1.10.
+Study Protocol and Report This test demonstrates that Annotate provides
+Qualitative Validation of acceptable contours for structures of the thorax
+Annotate in ART-Plan V1.10.0 region: thoracic aorta and bronchial trees. This
+Passed
+for Thorax qualitative test was performed as an addition to
+Section 18.21 to ensure the contours are clinically
+acceptable.
+Study Protocol and Report- This test demonstrates that the Annotate provides
+Autosegmentation clinically acceptable (compared to inter-expert
+performances against variability) for all MR-T1 Brain structures. Existing
+Passed
+inter-expert variability - Brain structures present in the previous version (v.1.8 -
+MR (V1.10.0) see Section 18.8) were also re-evaluated since a
+complete retraining of the model was done.
+Study Protocol and Report This test demonstrates that the module Annotate
+Qualitative Validation of provides acceptable contours for 9 organs
+Annotate in ART-Plan V1.10.0 evaluated on MR Truefisp images of patients. All
+for Pelvis Truefisp model organs have passed the acceptance criterion of Passed
+reaching a percentage of at least 85% of A or B
+(qualitative evaluation) and hence can be released
+in v.1.10.0.
+Study Protocol and Report This test demonstrates that Annotate provides
+Qualitative Validation of acceptable contours for following cervical lymph
+Annotate in ART-Plan V1.10.0 nodes levels: Ia, Ib right, VIIa left, VIIb right, IIleft, Passed
+for H&N Lymph nodes III right, V left, IVb right, IVb left. All cervicallymph
+nodes having reached a percentage of at least
+Page25of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+85% of A or B, the performance of auto
+segmentation is demonstrated, and hence all
+structures were included in V1.10.
+Study Protocol and Report This test demonstrates that Annotate provides
+Qualitative Validation of clinically acceptable contours, following qualitative
+Annotate in ART-Plan V1.10.0 measures, for the new version v.1.10. It serves as
+an additional evaluation to Section 18.21, andwas
+done on a set of organs of all anatomies for both
+the CT and MR models. The benchmarking was
+Passed
+done not only against thequalitativeevaluationbut
+also against the manual contours and a previously
+validated version of the models. All contours can
+be considered as acceptable as at least one
+criterion was met for each of the included
+structures.
+Study Protocol and Report The purpose of this document is todescribeallthe
+Annotate Performances testing protocols and testing results for validating
+Summary (V1.10.0) the performance of the Annotate module.
+Passed
+Since all organs added in v.1.10.0 of Annotate
+have passed at least one test andmetatleastone
+acceptance criteria, all organs have been released.
+The evaluation demonstrated the non-inferiority of
+using Annotate’s pseudo-CTfortreatmentplanning
+in terms of dosimetric measures as compared to
+Testing: pseudo-CT clinical
+CT-based treatment planning. Our pseudo-CT for
+performance and comparison
+pelvis has shown to produce results thatmeetthe Passed
+to predicates (pelvis)
+acceptance criteria derived from clinical practice
+(V1.10.0)
+and literature review as well as to perform at least
+as good as two FDA cleared devices for
+pseudo-CT generation.
+The evaluation demonstrated the non-inferiority of
+using Annotate’s pseudo-CTfortreatmentplanning
+in terms of dosimetric measures as compared to
+Testing: pseudo-CT clinical
+CT-based treatment planning. Our pseudo-CT for
+performance and comparison
+pelvis has shown to produce results thatmeetthe Passed
+to predicates (brain)
+acceptance criteria derived from clinical practice
+(V1.10.0)
+and literature review as well as to perform at least
+as good as two FDA cleared devices for
+pseudo-CT generation.
+This evaluation demonstrated the non-inferiority of
+Study Protocol & Report using ART-Planv1.10.0forannotationoforgansas
+(SPR): Testing: compared to other devices which have been
+Autosegmentation
+cleared for use in the US. In addition, ART-Plan Passed
+performances against
+v1.10.0 offers almost 3 times (2.72) more organs
+predicates
+than MIM/ContourProtege AI, which represents an
+(V1.10.0)
+additionalbenefittotheusersascomparedtoother
+devices.
+Study Protocol & Report In this test, Annotate demonstrated equivalent
+Passed
+(SPR): Autosegmentation performances between non-US and US population
+Page26of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+performances on Thorax US for the Thorax localisation. Considering that this is
+data a worst case scenario of morphological
+(V1.10.0) deformation due to factors such as age, gender or
+weight in abdominal region, we claim that
+considering any localisation included in the
+intended use of ART-Plan, any autosegmentation
+result demonstrated on a non-US population can
+be generalized to a US population. Nonetheless,
+TheraPanacea has performed an additional
+evaluation on pediatric US-data covering all other
+localisations included in the intended use of the
+device.
+Considering the fact that all the structures have
+reached a percentage of 90% (>=85%) of A or B
+for the MR brain model, and that 11/15 structures
+passed with success for the CT model,
+Therapanacea claims that the performance ofauto
+segmentation on said organs has been
+demonstrated for the studied population.
+These results highlight the high generalizability of
+Clinical evaluation of automatic
+the commercial tool, initially made for adults, to
+segmentation on Pediatric
+pediatric cases and its clinical implementation Passed
+images
+feasibility. Note that this study served to
+(V1.10.0)
+demonstrate that ART-Plan’s Annotate, trained on
+European data, can be generalised to the US
+population given that it would be clinically
+acceptable even for pediatric cases where a more
+prominent change in size is expected thantheone
+between two adults from different countries. This
+does not mean that TheraPanacea is claimingthat
+ART-Plan should be used for pediatric patients.
+System Verification and The system verification and validation testing was
+Passed
+Validation Testing performed to verify the software of the ART-Plan.
+Software Verification and Validation Testing
+Software verification and validation testing were conducted, and documentationwasprovided
+as recommended by FDA’s Guidance forIndustryandFDAStaff,“GuidancefortheContentof
+Premarket Submissions for Software Contained in Medical Devices.”
+The software for this device was considered as a “major” level of concern, since a failure or
+latent design flaw could directly result in death or serious injury to the patient or a failure or
+provide diagnostic information that directly drives a decision regarding treatment or therapy,
+such that if misapplied it could result in serious injury or death.
+Animal Studies
+No animal studies were conducted as part of submission to prove substantial equivalence.
+Clinical Studies
+Page27of28TheraPanacea
+Traditional 510(k)
+ART-Plan
+No clinical studies were conducted as part of submission to prove substantial equivalence.
+Safety and Effectiveness/Conclusion:
+Based on the information presentedinthese510(k)premarketnotificationstheTheraPanacea
+ART-Plan is considered substantially equivalent. The TheraPanacea ART-Plan is as safeand
+effective as the currently marketed predicate devices.
+Based on testing and comparison with the predicate devices, TheraPanacea ART-Plan
+indicated no adverse indications or results. It is our determination that the TheraPanacea
+ART-Plan performs within its design specifications and is substantially equivalent to the
+predicate device.
+Page28of28

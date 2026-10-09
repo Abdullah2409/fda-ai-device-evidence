@@ -1,0 +1,299 @@
+February16,2019
+VivaQuant Inc.
+℅ Mark Job
+Regulatory Technology Services, LLC
+1394 25th Street, NW
+Buffalo, Minnesota 55313
+Re: K183704
+Trade/Device Name: RX-1 Rhythm Express Remote Cardiac Monitoring System
+Regulation Number: 21 CFR 870.2920
+Regulation Name: Telephone Electrocardiograph Transmitter And Receiver
+Regulatory Class: Class II
+Product Code: DXH
+Dated: February 7, 2019
+Received: February 11, 2019
+Dear Mark Job:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.03.05
+Silver Spring, MD 20993
+www.fda.govK183704 - Mark Job Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+Arielle Drummond -S
+for
+Bram D. Zuckerman, M.D.
+Director
+Division of Cardiovascular Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+Enclosure(cid:46)(cid:20)(cid:27)(cid:22)(cid:26)(cid:19)(cid:23)
+KK118833770044 AAttttaacchhmmeenntt 11 RReessppoonnssee aanndd IInnddiiccaattiioonnss PPaaggee 001188 ooff 2255K183704
+510(k) SUMMARY
+(as required by 21CFR807.92)
+I. SUBMITTER
+VivaQuant Inc.
+4339 Nancy Place, Suite 100,
+St. Paul, MN 55126
+Contact Person: Brian Brockway
+bbrockway@vivaquant.com
+Phone: 651-217-2176
+Date Prepared: February 15, 2019
+II. DEVICE
+Name of Device: RX-1 Rhythm Express Remote Cardiac Monitoring System
+Classification Name: 870.2920
+Telephone electrocardiograph transmitter and receiver.
+Common or Usual Name:Mobile Cardiac Monitor
+Device Panel: Cardiovascular
+Regulatory Class: Class 2
+Product Code: DXH
+III. PREDICATE DEVICE
+The RX-1 system is substantially equivalent in intended use and similar
+technological characteristics to the following device, Rhythmedix, LLC.
+RhythmStar System which was cleared under K141813.
+Page 1 of 7K183704
+IV. DEVICE DESCRIPTION
+The Rhythm Express RX-1 will be worn by adult patients for a period of
+time as prescribed by a physician, typically 1 day to 4 weeks, and will
+continuously monitor ECG. RX-1 will function in one of three modes: a)
+Mobile Cardiac Telemetry (MCT), b) Event Recorder (ER), and Wireless
+Holter (WH). The device will connect to standard ECG electrodes to
+capture 2 channel ECGs. An embedded algorithm processes the acquired
+ECG to detect arrhythmias, compress the ECG, and remove most in-band
+noise without distorting ECG morphology. RX-1 incorporates a cellular
+modem to communicate with the RS-1 Web Service. The RX-1 device
+uses an embedded cellular modem on the Verizon LTE network.
+The RX-1 device is not a life-supporting or life-sustaining system. Clinical
+judgment and experience are used to check and interpret the data.
+V. INTENDED USE
+The Rhythm Express remote cardiac monitoring system is intended for use
+by adult patients who either have or are at risk of having cardiac disease
+and those that demonstrate intermittent symptoms indicative of cardiac
+disease and require cardiac monitoring on a continuing basis. The device
+continuously records ECG data and upon detection by an ECG analysis
+algorithm or manually initiated by the patient, automatically delivers the
+recorded cardiac activity to the server where it is presented and can be
+reviewed by a medical professional.
+The data received from the Rhythm Express device can be used by another
+device for arrhythmia analysis, reporting and signal measurements. The
+Rhythm Express device is not intended to sound any alarms.
+The device does not deliver any therapy, administer any drugs, provide
+interpretive or diagnostic statements or provide for any life support.The
+Rhythm Express system communicates events from the patient to the
+monitoring center within one to seven minutes (assuming cell service is
+available) and hence is not suitable for use as a real-time arrhythmia event
+monitor.
+Page 2 of 7K183704
+VI. SUMMARY OF TECHNOLIGICAL CHARACTERISTICS WITH THE
+PREDICATE DEVICE
+The RX-1 system is substantially equivalent in intended use and similar
+technological characteristics of RhythmStar System cleared under
+K141813.
+Category Identical/ RX-1 RhythmStar
+Different
+510(k) Number K183704 K141813
+Classification Identical Medical Medical
+Name Mobile Cardiac Monitor Mobile Cardiac Monitor
+Product Code Similar DXH DXH
+Intended Use Similar The Rhythm Express remote The RhythmStar system is
+cardiac monitoring system is intended for use by patients who
+intended for use by adult patients either have or are at risk of having
+who either have or are at risk of cardiac disease and those that
+having cardiac disease and those demonstrate intermittent
+that demonstrate intermittent symptoms indicative of cardiac
+symptoms indicative of cardiac disease and require cardiac
+disease and require cardiac monitoring on a continuing basis.
+monitoring on a continuing basis. The device continuously records
+The device continuously records ECG data and upon detection by
+ECG data and upon detection by an ECG analysis algorithm or
+an ECG analysis algorithm or manually initiated by the patient,
+manually initiated by the patient, automatically delivers the
+automatically delivers the recorded cardiac activity to the
+recorded cardiac activity to the server where it is presented and
+server where it is presented and can be reviewed by a medical
+can be reviewed by a medical professional.
+professional.
+The data received from the
+The data received from the RhythmStar device can be used by
+Rhythm Express device can be another device for arrhythmia
+used by another device for analysis, reporting and signal
+arrhythmia analysis, reporting and measurements. The RhythmStar
+signal measurements. The Rhythm system is not intended to sound
+Express device is not intended to any alarms. The device does not
+Page 3 of 7K183704
+Category Identical/ RX-1 RhythmStar
+Different
+sound any alarms. deliver any therapy, administer
+any drugs, provide interpretive or
+The device does not deliver any
+diagnostic statements or provide
+therapy, administer any drugs,
+for any life support. RhythmStar is
+provide interpretive or diagnostic
+for prescription use only.
+statements or provide for any life
+support. The Rhythm Express
+system communicates events
+from the patient to the monitoring
+center within one to seven
+minutes (assuming cell service is
+available) and hence is not
+suitable for use as a real-time
+arrhythmia event monitor.
+Delivered device Similar RX-1 device RhythmStar monitor
+includes
+-patient 2 lead 4 wire ECG cable -Patient 3 lead ECG lead cable
+-internal rechargeable battery -- 2 externally re-chargeable
+batteries
+-Wall Battery charger
+-Wall battery charger
+Monitor functional Similar analog ECG front end, analog ECG front end,
+blocks
+DSP MCU,
+MCU, flash data storage,
+flash data storage, RF modem for
+RF modem for data transmission,
+data transmission, LCD screen, and
+LCD screen, and keypad,
+keypad, accelerometer
+The server: Similar facilitate data communication facilitate data communication
+with the RX-1 device, with the RhythmStar device,
+Page 4 of 7K183704
+Category Identical/ RX-1 RhythmStar
+Different
+provide data storage, and provide data storage, and
+present the data for evaluation by present the data for evaluation by
+a medical professional a medical professional
+Device form factor Similar small, lightweight small, lightweight
+ambulatory cardiac monitors. ambulatory cardiac monitors.
+Wireless technology Identical Yes Yes
+used to transmit data
+to server
+Device is battery Identical Yes Yes
+powered by a
+rechargeable Li-Ion
+battery
+using a server, can Identical Yes Yes
+adjust device
+programming
+parameters such as
+pre-post recording
+times and auto-
+triggering
+configuration.
+Devices incorporate Different No Yes
+an accelerometer to
+capture activity level
+data related to
+patient motion and
+device orientation.
+devices havekeypad similar Yes Yes
+for manual event
+recordings and a user
+interface to indicate
+device status and
+mode of operation.
+Page 5 of 7K183704
+Category Identical/ RX-1 RhythmStar
+Different
+Device incorporate Similar Yes Yes
+embedded ECG
+analysis algorithm to
+auto-capture
+Bradycardia,
+Tachycardia , Atrial
+Fibrillation/Atrial
+Flutter and
+arrhythmia events
+between the signal
+acquisition point and
+the server.
+device has at least 2 Similar Yes Yes
+ECG channels and 3-
+lead electrodes
+Functional, Similar Yes Yes
+Environmental and
+Electrical
+characteristics
+USB connection different Yes, used to charge the battery, Yes, used only for data download
+cannot be connected during ECG and secondary communication,
+recording, not used for data cannot be connected during ECG
+download. recording
+VII. PERFORMANCE TESTING
+The following performance and safety tests have been
+passed successfully:
+· IEC 60601-2-47:2012 Medical electrical equipment - Part 2-47:
+Particular requirements for the basic safety and essential
+performance of ambulatory electrocardiographic systems.
+· IEC 60601-1-2:2014 4th Edition, Medical Electrical Equipment –
+Part 1-2: General requirements for basic safety and essential
+performance– Collateral standard: Electromagnetic compatibility –
+Requirements and tests.
+· IEC 60601-1-11:2015 Edition 1.1, Medical electrical equipment -
+Page 6 of 7K183704
+Part 1-11: General requirements for basic safety and essential
+performance – Collateral Standard: Requirements for medical
+electrical equipment and medical electrical systems used in the
+home healthcare environment.
+· ANSI/AAMI TIR57:2015, Principles for medical device security—
+Risk management
+· IEC 62366-1:2015 Edition 1.0, Medical devices – Part 1:
+Application of usability engineering to medical devices
+· ANSI IEEE C63.27-2017 Evaluation of Wireless Coexistence
+· Biocompatibility testing of patient contacting materials according
+to ISO 10993-1.
+· Bench test results verify that RX-1 Monitor system can
+continuously record ECG signal, store ECG data in the device
+memory, and transmit manual or auto activated event recordings to
+the server via mobile network connection for evaluation by a
+medical professional. Test results verify that all requirements were
+met and that the RX-1 Monitor performs as designed.
+VIII. SUBSTANTIAL EQUIVALENCE RATIONALE
+The intended use, performance and technological characteristics of the RX-
+1 Monitor system compared to the named predicate device demonstrates
+that the RX-1 Monitor is substantially equivalent to the predicate.
+IX. CONCLUSIONS
+The analysis of the differences between RX-1 Monitor and the predicate
+device does not raise new questions of safety and effectiveness. Based on
+device performance test results, it can be concluded that the RX-1
+Monitor system performs within its design specifications and is
+substantially equivalent to the predicate devices.
+The information in this 510(k) submission demonstrates that the RX-1
+Monitor system is substantially equivalent to the predicate device.
+Page 7 of 7

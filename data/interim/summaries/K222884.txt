@@ -1,0 +1,437 @@
+iSchemaView, Inc.
+℅ James Rosa
+SVP Regulatory and Quality
+1120 Washington Ave., Ste 200
+GOLDEN CO 80401
+Re: K222884 March 2, 2023
+Trade/Device Name: Rapid NCCT Stroke
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: February 9, 2023
+Received: February 10, 2023
+Dear James Rosa:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.govK222884 - James Rosa Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K222884
+Device Name
+Rapid NCCT Stroke
+Indications for Use (Describe)
+Rapid NCCT Stroke is a radiological computer aided triage and notification software indicated for use in the analysis of
+(1) nonenhanced head CT (NCCT) images. The device is intended to assist hospital networks and trained clinicians in
+workflow triage by flagging and communicating suspected positive findings of (1) head CT images for Intracranial
+Hemorrhage (ICH) and (2) NCCT large vessel occlusion (LVO) of the ICA and MCA-M1.
+Rapid NCCT Stroke uses an artificial intelligence algorithm to analyze images and highlight cases with detected (1) ICH
+or (2) NCCT LVO on the Rapid server on premise or in the cloud in parallel to the ongoing standard of care image
+interpretation. The user is presented with notifications for cases with suspected ICH or LVO findings via PACS, email or
+mobile device. Notifications include compressed preview images that are meant for informational purposes only, and are
+not intended for diagnostic use beyond notification.
+The device does not alter the original medical image, and it is not intended to be used as a primary diagnostic device. The
+results of Rapid NCCT Stroke are intended to be used in conjunction with other patient information and based on
+professional judgment to assist with triage/prioritization of medical images. Notified clinicians are ultimately responsible
+for reviewing full images per the standard of care. Rapid NCCT Stroke is for Adults only.
+Cautions:
+• All patients should get adequate care for their symptoms including CTA and/or other appropriate care per the standard
+clinical practice, irrespective of the device output.
+• The device is not intended to be a rule-out device and for cases that have been processed by the device without
+notification for “Suspected LVO” should not be viewed as indicating that LVO is excluded. All cases should undergo
+CTA, per the standard stroke workup.
+Limitations:
+• Rapid NCCT Stroke does not replace the need for CTA or MRA in ischemic stroke workup, it provides workflow
+prioritization and notification only.
+• Rapid ICH has been shown to reliably identify hemorrhages of ≥ 0.4ml.
+Contraindications/Exclusions
+• Patient Motion: excessive motion leading to artifacts that make the scan technically inadequate.
+• Hemorrhagic Transformation, Hematoma
+• Very thin or no Ventricles
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+FORM FDA 3881 (6/20) Page 1 of 2 PSC Publishing Services (301) 443-6740 EFThis section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 2 of 2iSchemaView’s - Traditional 510(k) Rapid NCCT Stroke
+K222884
+510(k) Summary
+510(k) Summary
+iSchemaView, Inc.’s Rapid NCCT Stroke
+This document contains the 510(k) summary for the iSchemaView Rapid NCCT Stroke. The
+content of this summary is based on the requirements of 21 CFR Section 807.92(c).
+Applicant Name and Address:
+Name: iSchemaView, Inc.
+Address: 1120 Washington Ave., Ste. 200
+Golden, CO 80401
+Official Contact: Jim Rosa
+Phone: (303) 704-3374
+Email: rosa@ischemaview.com
+Summary Preparation Date: February 28, 2023
+Device Name and Classification:
+Trade Name: Rapid NCCT Stroke
+Common Name: Radiological computer aided triage and notification software
+Classification: II
+Product Code: QAS
+Regulation No: 21 C.F.R. §892.2080
+Classification Radiology Devices
+Panel:
+Predicate Devices:
+The Rapid NCCT Stroke device is claimed to be substantially equivalent to the following legally
+marketed predicate device: Avicenna’s CINA device (K200855).
+Device Description:
+Rapid NCCT Stroke (RNS) is a radiological computer-assisted triage and notification software
+device. RNS is a non-enhanced CT (NCCT) processing module which operates within the integrated
+Rapid Platform to provide triage and notification prioritization of suspected intracranial hemorrhage
+(ICH) and NCCT Large Vessel Occlusion (LVO) of the ICA and MCA-M1. The RNS is an AI/ML
+SaMD. The output of the module is a priority notification to clinicians indicating the suspicion of
+ICH or NCCT LVO. ICH analysis uses the ICH Algorithm to identify findings within the ICH
+algorithm; and the NCCT LVO suspicion uses the combined analysis of the ASPECTS and
+Hyperdense Vessel Sign (HVS) algorithms. The RNS module uses the basic services supplied by the
+Rapid Platform including DICOM processing, job management, imaging module execution and
+imaging output including the notification and compressed image.
+Indications for Use:
+Rapid NCCT Stroke is a radiological computer aided triage and notification software indicated
+for use in the analysis of (1) nonenhanced head CT (NCCT) images. The device is intended to
+assist hospital networks and trained clinicians in workflow triage by flagging and communicating
+Page 1 of 8iSchemaView’s - Traditional 510(k) Rapid NCCT Stroke
+510(k) Summary
+suspected positive findings of (1) head CT images for Intracranial Hemorrhage (ICH) and (2)
+NCCT large vessel occlusion (LVO) of the ICA and MCA-M1.
+Rapid NCCT Stroke uses an artificial intelligence algorithm to analyze images and highlight
+cases with detected (1) ICH or (2) NCCT LVO on the Rapid server on premise or in the cloud in
+parallel to the ongoing standard of care image interpretation. The user is presented with
+notifications for cases with suspected ICH or LVO findings via PACS, email or mobile device.
+Notifications include compressed preview images that are meant for informational purposes
+only, and are not intended for diagnostic use beyond notification.
+The device does not alter the original medical image, and it is not intended to be used as a
+primary diagnostic device. The results of Rapid NCCT Stroke are intended to be used in
+conjunction with other patient information and based on professional judgment to assist with
+triage/prioritization of medical images. Notified clinicians are ultimately responsible for
+reviewing full images per the standard of care. Rapid NCCT Stroke is for Adults only.
+Cautions:
+• All patients should get adequate care for their symptoms including CTA or MRA and/or other
+appropriate care per the standard clinical practice, irrespective of the device output.
+• The device is not intended to be a rule-out device and for cases that have been processed by the device
+without notification for “Suspected LVO” should not be viewed as indicating that LVO is excluded.
+All cases should undergo CTA or MRA, per the standard stroke workup.
+Limitations:
+• Rapid NCCT Stroke does not replace the need for CTA in ischemic stroke workup, it provides
+workflow prioritization and notification only.
+• Rapid ICH has been shown to reliably identify hemorrhages of ≥ 0.4ml.
+Contraindications/Exclusions/Cautions:
+• Patient Motion: excessive motion leading to artifacts that make the scan technically inadequate.
+• Very thin or no Ventricles
+Comparison of Technological Characteristics:
+Rapid NCCT Stroke does not raise new questions of safety or effectiveness compared to the
+previously cleared CINA device (K200855). Both devices are radiological computer-aided
+triage and notification software applications for determining suspicion of ICH and LVO.
+The Avicenna device uses both NCCT for ICH and CTA imaging for LVO, while the Rapid
+device uses the NCCT Scan for both indications. A significant difference between these
+devices is that the subject device operates on NCCT images to provide a suspected LVO
+notification instead of CTA. The benefits include the shorter time to a suspected LVO
+notification by assessing non-contrast imaging immediately, then CTA follow-up per
+standard of care for stroke workup. The risks stem from the lower sensitivity of the subject
+device, which is an inherent limitation of the modality. See SE discussion for assessment of
+these benefits and risks. A caution has been added to notify the user that CTA should still
+be considered per standard of care in stroke workup as a reinforcement AHA/ASA
+guidelines. Thus, the Rapid NCCT Stroke software is substantially equivalent.
+Page 2 of 8iSchemaView’s - Traditional 510(k) Rapid NCCT Stroke
+510(k) Summary
+The following table summarizes and compares data on the Rapid NCCT Stroke device, the
+subject of this filing, with the Avicenna CINA device (K200855). A table comparing the key
+features of the subject and predicate devices is provided below.
+Substantial Equivalence Table
+Comparison Avicenna CINA (K200855) Rapid NCCT Stroke – Subject
+Feature Device
+Indications CINA is a radiological computer Rapid NCCT Stroke is a
+for Use aided triage and notification radiological computer aided triage
+software indicated for use in the and notification software indicated
+analysis of (1) non-enhanced head for use in the analysis of (1)
+CT images and (2) CT nonenhanced head CT (NCCT)
+angiographies of the head. The images. The device is intended to
+device is intended to assist hospital assist hospital networks and trained
+networks and trained radiologists in clinicians in workflow triage by
+workflow triage by flagging and flagging and communicating
+communicating suspected positive suspected positive findings of (1)
+findings of (1) head CT images for head CT images for Intracranial
+Intracranial Hemorrhage (ICH) and Hemorrhage (ICH) and (2) NCCT
+(2) CT angiographies of the head large vessel occlusion (LVO) of the
+for large vessel occlusion (LVO). ICA and MCA-M1.
+CINA uses an artificial intelligence Rapid NCCT Stroke uses an
+algorithm to analyze images and artificial intelligence algorithm to
+highlight cases with detected (1) analyze images and highlight cases
+ICH or (2) LVO on a standalone with detected (1) ICH or (2) NCCT
+Web application in parallel to the LVO on the Rapid server on
+ongoing standard of care image premise or in the cloud in parallel
+interpretation. The user is to the ongoing standard of care
+presented with notifications for image interpretation. The user is
+cases with suspected ICH or LVO presented with notifications for
+findings. Notifications include cases with suspected ICH or LVO
+compressed preview images that findings via PACS, email or mobile
+are meant for informational device. Notifications include
+purposes only, and are not intended compressed preview images that
+for diagnostic use beyond are meant for informational
+notification. The device does not purposes only, and are not intended
+alter the original medical image, for diagnostic use beyond
+and it is not intended to be used as a notification.
+diagnostic device.
+The device does not alter the
+The results of CINA are intended to original medical image, and it is not
+be used in conjunction with other intended to be used as a primary
+patient information and based on diagnostic device. The results of
+professional judgment to assist with Rapid NCCT Stroke are intended to
+triage/prioritization of medical be used in conjunction with other
+images. Notified clinicians are patient information and based on
+ultimately responsible for professional judgment to assist with
+triage/prioritization of medical
+Page 3 of 8iSchemaView’s - Traditional 510(k) Rapid NCCT Stroke
+510(k) Summary
+reviewing full images per the images. Notified clinicians are
+standard of care. ultimately responsible for
+reviewing full images per the
+standard of care. Rapid NCCT
+Stroke is for Adults only.
+Cautions:
+• All patients should get adequate
+care for their symptoms including
+CTA or MRA and/or other
+appropriate care per the standard
+clinical practice, irrespective of the
+device output.
+• The device is not intended to be a
+rule-out device and for cases that
+have been processed by the device
+without notification for “Suspected
+LVO” should not be viewed as
+indicating that LVO is excluded.
+All cases should undergo CTA or
+MRA, per the standard stroke
+workup.
+Limitations:
+• Rapid NCCT Stroke does not
+replace the need for CTA in
+ischemic stroke workup, it
+provides workflow prioritization
+and notification only.
+• Rapid ICH has been shown to
+reliably identify hemorrhages of ≥
+0.4ml.
+Contraindications/Exclusions/Cauti
+ons:
+• Patient Motion: excessive motion
+leading to artifacts that make the
+scan technically inadequate.
+• Hemorrhagic Transformation,
+Hematoma
+• Very thin or no Ventricles
+User Radiologist Clinician
+Anatomy Head Head
+Input Data NCCT (ICH) and CTA(LVO) NCCT (ICH and LVO)
+Technology AI/ML/Neural Network AI/ML/Neural Network
+Segmentation The device does not highlight or The device does not highlight or
+of ROI direct a user’s attention to a specific direct a user’s attention to a specific
+location in the image file. location in the image file.
+Page 4 of 8iSchemaView’s - Traditional 510(k) Rapid NCCT Stroke
+510(k) Summary
+Preview Presentation of a preview of the Presentation of a preview of the
+Images study for initial assessment not study for initial assessment not
+meant for diagnostic purposes. meant for diagnostic purposes.
+The device operates in parallel with The device operates in parallel with
+the standard of care. the standard of care.
+Annotation / Device does not mark, highlight, or Device does not mark, highlight, or
+Localization direct users’ attention to a specific direct users’ attention to a specific
+location in the original image location in the original image
+Prioritization Yes Yes
+Notification
+Clinical SoC In parallel to In parallel to
+Workflow
+Technical Two independent Algorithms Two cascaded functions (ICH then
+Pipeline LVO) using three integrated
+algorithms
+Removal of No No
+Cases from
+SoC review
+Performance Standards:
+Rapid NCCT Stroke has been developed in conformance with the following standards, as
+applicable:
+EN ISO 14971:2012 Application of Risk Management to Medical Devices
+IEC 62304:2015 Medical device software – Software lifecycle processes
+NEMA PS 3.1 - 3.20 Digital Imaging and Communications in Medicine (DICOM)
+Performance Data:
+iSchemaView conducted a retrospective, blinded, multicenter, multinational study with the
+Rapid NCCT Stroke device with the primary endpoint to evaluate the software’s performance in
+identifying NCCT head images containing intracranial hemorrhage (ICH) and large vessel
+occlusion (LVO) findings in 254 (ICH Pos:26, LVO Pos: 115, Neg to ICH, LVO:103, Excluded:
+10 for age and technical inadequacy) cases.
+Sensitivity and specificity exceeded the pre-specified performance goals for ICH and NCCT
+LVO. Specifically, ICH performance was observed at Se:0.962, Sp:0.974, consistent with the
+ICH standalone module performance (K221456); and LVO was observed at Se:0.635 (95% CI:
+0.544 - 0.717) and Sp: 0.951 (95% CI: 0.891 – 0.979).
+In addition, secondary clinical endpoints were used to show expert non-inferiority and non-
+expert superiority. Rapid NCCT Stroke passed both conditions with a Se for all readers (experts
+and non-experts) of 0.436, with difference in Se between NCCT Stroke and all readers of
+0.199(95%CI: 0.055-0.34); Se for general radiologists of 0.409, with difference in Se of
+0.226(95%CI: 0.071-0.381).
+Page 5 of 8iSchemaView’s - Traditional 510(k) Rapid NCCT Stroke
+510(k) Summary
+The Rapid NCCT time-to-notification analysis includes the time to get the DICOM exam, de-
+identify it (if required), analyze and send a notification back to the PACS/Workstation, email and
+mobile. The standard of care time-to-open-exam consisted of the time from the initial scan of
+the patient to when the radiologist first opened the exam for review.
+Rapid NCCT Stroke time-to-notification has been documented for all 254 cases with results
+shown in the following table. The time time-to-exam-open is referenced from DEN170073
+which was for LVO only and did not take into account the time from initial CT to CTA;
+however, the time indicates from image complete to notification which is similar to the subject
+device in referencing SoC time. The predicate does not reference combined timelines, only
+individual time for each portion of the device:
+The standard of care time-to-exam-open (58.72 minutes: 95% CI 51.5,71.23 is significantly
+longer than the parallel time-to-notification of the Rapid NCCT Stroke software.
+Parameter Mean 95% CI 95% CI
+Lower Upper
+Time to open in standard of 58.72 51.50 71.23
+care (Minutes)
+Time to notification of Rapid 2.5 2.4 2.6
+NCCT Stroke (Minutes)
+Difference (Minutes) 70.08 NA NA
+Performance across subgroups:
+Subgroup analyses were conducted for the LVO indication. The ICH algorithm is the same as
+the device cleared under K221456.
+Performance Metrics by Gender
+Gender Measure N Estimate Lower 95% CI Upper 95% CI
+Female Sensitivity 57 0.579 0.450 0.698
+Specificity 54 0.981 0.902 0.997
+Male Sensitivity 58 0.690 0.562 0.794
+Specificity 45 0.933 0.821 0.977
+Performance Metrics by Age Groups
+Age Measure N Estimate Lower 95% CI Upper 95% CI
+< 50 Sensitivity 12 0.583 0.320 0.807
+Specificity 21 0.905 0.711 0.973
+50 - 70 Sensitivity 41 0.610 0.457 0.743
+Specificity 42 0.976 0.877 0.996
+>70 Sensitivity 62 0.661 0.537 0.767
+Specificity 35 0.971 0.855 0.995
+Performance Metrics by Slice Thickness (LVO)
+Slice Thickness Measure N Estimate Lower 95% CI Upper 95% CI
+< 4.0 Sensitivity 29 0.724 0.543 0.853
+Specificity 55 0.964 0.877 0.990
+Page 6 of 8iSchemaView’s - Traditional 510(k) Rapid NCCT Stroke
+510(k) Summary
+Slice Thickness Measure N Estimate Lower 95% CI Upper 95% CI
+≥ 4.0 Sensitivity 86 0.605 0.499 0.701
+Specificity 48 0.938 0.832 0.979
+Performance Metrics by Manufacturer (LVO)
+Manufacturer Measure N Estimate Lower 95% CI Upper 95% CI
+GE Sensitivity 37 0.730 0.570 0.846
+Specificity 11 1.000 0.741 1.000
+PHILIPS Sensitivity 11 0.545 0.280 0.787
+Specificity 22 1.000 0.851 1.000
+SIEMENS Sensitivity 32 0.500 0.336 0.664
+Specificity 59 0.915 0.816 0.963
+TOSHIBA Sensitivity 35 0.686 0.520 0.814
+Specificity 11 1.000 0.741 1.000
+In summary, performance validation data, combined with real-world evidence, establish the
+achievement of effective triage by the Rapid NCCT Stroke device as well as effective
+notification functionality of the application, as compared to the standard of care for improved
+time-to-exam-open of a notified case. Due to the lower estimates of performance on Philips and
+Siemens scanners, additional analysis was performed across subgroups including sites to further
+assess performance. The assessment of performance on these subgroups of scanners did not
+reveal any systematic errors related to the device design.
+Prescriptive Statement:
+Caution: Federal law restricts this device to sale by or on the order of a physician.
+Safety & Effectiveness:
+Rapid NCCT Stroke has been designed, verified and validated in compliance with 21 CFR, Part
+820.30 requirements. The device has been designed to meet the requirements associated with
+EN ISO 14971:2019 (risk management) and the software development process conforms to ISO
+62304:2015. The Rapid NCCT Stroke performance has been validated through retrospective
+case data based on expert reader truthing of the data and reader testing.
+Substantial Equivalence Discussion:
+The subject device has the same intended use as the predicate device to provide triage and
+prioritization of time-sensitive suspected findings on radiological medical images. The subject
+device has a new indication compared to the predicate of flagging and triaging suspected LVO of
+the ICA and MCA-M1 on NCCT. This is expected to result in faster overall notification since
+NCCT is generally performed first in suspected stroke patient imaging workup. This benefit
+may be significant for local practices that defer ordering CTA for suspected stroke patients in
+their workflow.
+The lower sensitivity of the device could lead to a greater risk of mis-prioritization of patients
+under circumstances where delay of additional imaging or treatment could reasonably be
+expected to worsen outcomes; it may also limit the effectiveness of the device. The risk of mis-
+Page 7 of 8iSchemaView’s - Traditional 510(k) Rapid NCCT Stroke
+510(k) Summary
+prioritization is mitigated by inclusion of specific language in the notification for cases not
+suspected of LVO, by the device on NCCT, to clearly indicate that LVO cannot be excluded
+without CTA or MRA. The risk mitigation also includes additional performance testing to
+demonstrate that the device is superior to the general radiologists and non-inferior to overall
+readers, including both neuroradiologists and general radiologists, when triaging the LVO based
+on NCCT. These mitigations in combination with the significant time-sensitive nature of LVO
+detection and treatment lead to comparable benefit-risk profile to the predicate, and the device
+being substantially equivalent for the labeled intended use.
+Conclusion:
+In conclusion, iSchemaView’s Rapid NCCT Stroke is substantially equivalent in technological
+characteristics, safety, and performance characteristics to the legally marketed predicate device,
+Avicenna CINA (K200855).
+Page 8 of 8

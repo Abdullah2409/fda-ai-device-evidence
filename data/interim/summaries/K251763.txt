@@ -1,0 +1,333 @@
+December 16, 2025
+Intuitive Surgical Inc.
+℅ Jyh-Shyan Lin
+Senior Regulatory Affairs Specialist
+1266 Kifer Road
+SUNNYVALE, CA 94086
+Re: K251763
+Trade/Device Name: IRISeg
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH, LLZ
+Dated: November 12, 2025
+Received: November 13, 2025
+Dear Jyh-Shyan Lin:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.K251763 - Jyh-Shyan Lin Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K251763 - Jyh-Shyan Lin Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lu Jiang
+Lu Jiang, Ph.D.
+Assistant Director
+Diagnostic X-Ray Systems Team
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K251763
+Device Name
+IRISeg
+Indications for Use (Describe)
+IRISeg is intended for use as a software application that receives DICOM compliant MR or contrast-enhanced CT images,
+provides manual and machine learning-enabled tools for image analysis and segmentation, and creates an output file that
+can be used to render a 3D model for preoperative surgical planning and intraoperative display. The use of IRISeg may
+include the generation of preliminary segmentations using machine learning algorithms. IRISeg is intended for use by
+qualified professionals. The output file is meant for visual, non-diagnostic use and shall be reviewed by clinicians who are
+responsible for all final patient management decisions.
+The machine learning enabled kidney CT auto-segmentation tool is intended for use for adult patients with contrast-
+enhanced, axial kidney CT images with slice thickness 3mm or less.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFIRISeg 510(k) K251763 Summary
+K251763: 510(k) SUMMARY
+This summary of 510(k) substantial equivalence information is submitted in accordance with the
+requirements of Safe Medical Device Act (SMDA) 1990 and 21 CFR 807.92.
+1. SUBMITTER
+510(k) Owner: Intuitive Surgical, Inc.
+1266 Kifer Road
+Sunnyvale, CA 94086
+Contact: Jyh-Shyan (Jesse) Lin
+Senior Regulatory Affairs Specialist
+Phone Number: 408-523-4952
+Email: jesse.lin@intusurg.com
+Date Prepared: November 12, 2025
+2. SUBJECT DEVICE INFORMATION
+Manufacturer Name: Intuitive Surgical, Inc.
+510(k) Number: K251763
+Trade Name: IRISeg
+Common Name: Automated radiological image processing software
+Medical image processing software
+Classification: Class II
+21 CFR 892.2050
+Medical image management and processing system
+Primary Product Codes: QIH
+Associate Product Code: LLZ
+Review Panel: Radiology
+3. PREDICATE DEVICE INFORMATION
+Manufacturer Name: Intuitive Surgical, Inc.
+510(k) Number: K242461, last cleared on December 10, 2024
+Trade Name: IRISeg
+Common Name: Automated radiological image processing software
+Medical image processing software
+Classification: Class II
+21 CFR 892.2050
+Medical image management and processing system
+Primary Product Codes: QIH
+Associate Product Code: LLZ
+Review Panel: Radiology
+No reference devices were used in this submission.
+Page 1IRISeg 510(k) K251763 Summary
+4. DEVICE DESCRIPTION
+IRISeg is a standalone software application created by Intuitive Surgical for segmentation of CT and MR
+images and generation of output files that can be rendered as virtual 3D models of anatomical structures.
+IRISeg is designed to provide qualified professionals (“users”) with a machine learning (ML)-based tool for
+auto-segmentation of kidney anatomy based on CT scans and non-ML manual tools for segmentation
+based on CT and MR scans.
+Note that there have been no changes to existing tools or introductions of new tools between the
+predicate and subject devices.
+Input File
+IRISeg can open and load CT or MR imaging files in DICOM (Digital Imaging and Communications in
+Medicine) format, and segmentation label files in NIfTI (Neuroimaging Informatics Technology Initiative)
+format from an accessible storage location.
+Output File
+Following the use of IRISeg to segment CT or MR imaging files, the software can be used to generate an output
+file that can be used to render virtual segmented 3D models.
+IRISeg Manual Tools
+IRISeg includes a variety of tools for users to manually edit segmentation labels, such as Paintbrush tools,
+Eraser tools, Connected Component Selection, Free Curve Selection, Morphological operations,
+Mathematical Operations.
+Manual tools alone can be used to manually segment (annotate) CT and MR scans.
+Manual tools can also be used to modify the output of the ML-based auto-segmentation algorithm. The
+ML-based auto-segmentation does not generate mass labels. Users must segment and label renal masses
+using manual tools.
+IRISeg ML-Based Auto-Segmentation Tool
+IRISeg includes an ML-based auto-segmentation algorithm (cleared under K242461 and unchanged in the
+subject device) for automatic segmentation of four kidney structures from CT imaging. The auto-
+segmentation algorithm is a neural network based ML algorithm. It is trained on segmented kidney CT
+models that were sourced from clinical data processed during commercial operation of the cleared IRIS
+1.0 system (K182643). Each 3D model was reviewed by one U.S board certified radiologist. The input is a
+CT image (series of 2D slices). The output of the model is four probability maps for kidney parenchyma,
+kidney artery, kidney vein, and collecting system. The probability maps are thresholded to generate binary
+masks for kidney parenchyma, kidney artery, kidney vein and collecting system. The ML-based auto-
+segmentation does not generate binary masks for kidney masses.
+The algorithm output is intended as an initial estimate of the segmentation. The user must use the manual
+tools to update the initial algorithm output to generate the kidney CT 3D model.
+The development of the IRISeg kidney CT ML-based auto-segmentation algorithm followed FDA’s Good
+Machine Learning Practices for Medical Device Development: Guiding Principles, October 2021.
+Page 2IRISeg 510(k) K251763 Summary
+5. INTENDED USE/INDICATIONS FOR USE
+IRISeg is intended for use as a software application that receives DICOM compliant MR or
+contrast-enhanced CT images, provides manual and machine learning-enabled tools for image
+analysis and segmentation, and creates an output file that can be used to render a 3D model for
+preoperative surgical planning and intraoperative display. The use of IRISeg may include the
+generation of preliminary segmentations using machine learning algorithms. IRISeg is intended for
+use by qualified professionals. The output file is meant for visual, non-diagnostic use and shall be
+reviewed by clinicians who are responsible for all final patient management decisions.
+The machine learning enabled kidney CT auto-segmentation tool is intended for use for adult patients
+with contrast-enhanced, axial kidney CT images with slice thickness 3mm or less.
+6. SUMMARY OF SUBSTANTIAL EQUIVALENCE
+The subject device has been developed as a standalone software application by modifying the predicate
+device (K242461). The comparison with the predicate device is based on the intended use, indications for
+use, general design, technological characteristics and operational principle/workflow. A summary of the
+subject device compared to the predicate device is provided below.
+Comparison of Indications for Use and intended Use
+Predicate Device (K242461) Subject Device (K251763)
+Intended to receive DICOM compliant contrast- SAME intended use.
+enhanced CT images, provide manual and machine
+learning-enabled tools for image analysis and SIMILAR Indications for use:
+segmentation, and creates an output file that can Added MR indication for image analysis
+be used to render a 3D model for preoperative and non-ML manual segmentation of
+surgical planning and intraoperative display. DICOM compliant MR images.
+Comparison of Device Characteristics
+Description Predicate Device (K242461) Subject Device (K251763)
+Regulation Number 21 CFR §892.2050 21 CFR §892.2050
+Classification Class II Class II
+Product Code Primary: QIH; Associate: LLZ Primary: QIH; Associate: LLZ
+Prescription use Rx only Rx only
+Host Hardware General-purpose computer Same
+Compatibility hardware
+Intended population Adult patients (ML algorithm) Same
+Intended Users Qualified Professionals Same
+Page 3IRISeg 510(k) K251763 Summary
+Description Predicate Device (K242461) Subject Device (K251763)
+Intended Clinical The output file can be used to Same
+Decision Support render a 3D model for
+preoperative surgical planning
+and intraoperative display.
+The output file is meant for
+visual, non-diagnostic use and
+shall be reviewed by clinicians
+who are responsible for all final
+patient management decisions.
+Configuration Label names, label color Equivalent to the predicate
+parameters and label name device
+translation for kidney CT scans DIFFERENCE: Updated label
+names, label color parameters
+and label name translation for
+MR scans
+Principles of Operations Manual segmentation alone Equivalent to the predicate
+/ Workflow Auto-segmentation followed by device
+manual segmentation. DIFFERENCES: Manual
+segmentation only for MR scans
+User interface / Graphical user interface design. Same
+Environment Office setting (Segmentation
+Software Application running on
+a general-purpose computer)
+Supported Input DICOM-Compliant CT scans Equivalent to the predicate
+(Axial views, contrast enhanced) device
+DIFFERENCES: addition of
+DICOM compliant MR scans
+Supported Output Segmentation files that can be Same
+used to render a 3D model for
+preoperative surgical planning
+and intraoperative display
+Supported Segmentation Kidney CT structures: Same: Kidney CT structures
+Structures • ML auto-segmentation - (Manual and ML auto-
+Parenchyma, Artery, Vein and segmentation)
+Collecting System
+• Manual segmentation - DIFFERENCES (MR structures
+Parenchyma, Artery, Vein, for manual segmentation):
+Collecting System and Mass -Kidney MR structures
+-Prostate MR structures
+-Rectal MR structures
+Page 4IRISeg 510(k) K251763 Summary
+Description Predicate Device (K242461) Subject Device (K251763)
+ML Auto-Segmentation 4 kidney CT structures: Same
+Structures and Parenchyma, Artery, Vein and
+Collecting System
+performance
+Performance: Machine Learning Same
+Auto-Segmentation Testing of
+kidney CT scans.
+Manual Tools and Various segmentation and Same
+manual segmentation selection tools for manual
+segmentation.
+performance
+Performance: Manual Same (kidney CT scans)
+segmentation testing of kidney
+CT scans Equivalent manual
+segmentation performance
+for MR scans
+2D and 3D Visualization Volume rendering, 3D model Same
+Features visualization, 2D slice
+visualization.
+Segmentation Support Metadata viewing Same
+Features
+7. RISK MANAGEMENT (SAFETY)
+Risk is managed in compliance with ISO 14971, to identify and provide mitigation of potential hazards
+throughout the software development life cycle (SDLC). Risks related to IRISeg ML-based auto-segmentation
+algorithm is managed by following the AAMI CR34971 Guidance on the Application of ISO 14971 to Artificial
+Intelligence and Machine Learning. Clinical risk analysis, usability risk analysis, comparative task analysis,
+use-related risk analysis, Cybersecurity Risk Analysis, and Risk Assessment of off-The-Shelf Software are
+conducted, and the risks are mitigated throughout the SDLC.
+8. PERFORMANCE DATA (EFFECTIVENESS)
+Performance testing of the kidney ML auto-segmentation algorithm was conducted on the predicate
+device (cleared under K242461). The algorithm was not modified in the subject device, and therefore the
+performance of the ML algorithm is as effective as in the predicate device.
+Final product testing have been performed in accordance with IEC 62304 Edition 1.1 2015-06 Consolidated
+Version. Software documentation has been provided according to FDA’s Guidance, Content of Premarket
+Submissions for Device Software Functions” (June 14, 2023). IRISeg underwent final product testing. The
+software testing of the subject device included functional testing, usability testing, and cybersecurity
+testing. Acceptance criteria were based on the requirements and intended use of IRISeg. Test results
+showed that all tests met the acceptance criteria. The testing results demonstrate that IRISeg meets
+design specifications and user needs.
+Page 5IRISeg 510(k) K251763 Summary
+Cybersecurity Testing
+The cybersecurity verification and validation testing were conducted, and cybersecurity was evaluated
+per FDA’s Guidance “Cybersecurity in Medical Devices: Quality System Considerations and Content of
+Premarket Submissions” (June 27, 2025). Specifically, addressing the following cybersecurity testing areas:
+security requirement testing, threat mitigation testing, vulnerability testing, and penetration testing. The
+cybersecurity verification and validation test results demonstrate the adequacy of the implemented
+cybersecurity controls.
+Labeling
+The device labeling contains instructions for use and any necessary cautions to ensure that the labeling
+differences, as compared to the predicate device, do not affect the safety and effectiveness of the subject
+device when used as labeled.
+Labeling information including the prescription use (“Rx only”), the name and place of business of the
+manufacturer, device description, indications for use, directions for use, cybersecurity labeling and
+transparency labeling (per Transparency for Machine Learning-Enabled Medical Devices: Guiding Principles,
+June 2024) is provided in the subject device’s user manual. The UDI (per 21 CFR 801.50 Labeling
+requirements for standalone software) is provided on the software About screen.
+9. CONCLUSION
+The subject device and the predicate device are deemed to be substantially equivalent based on
+indications for use, general design, technological characteristics, operational principle/workflow and
+performance testing. The subject device raises no new questions related to safety or effectiveness, as
+compared to the predicate device.
+Page 6

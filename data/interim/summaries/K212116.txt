@@ -1,0 +1,454 @@
+Vysioneer Inc. October 12, 2021
+℅ Vicki Lin
+Regulatory Specialist
+33 Rogers St., # 308
+CAMBRIDGE MA 02142
+Re: K212116
+Trade/Device Name: VBrain-OAR
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QKB
+Dated: September 10, 2021
+Received: September 13, 2021
+Dear Vicki Lin:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.28
+Silver Spring, MD 20993
+www.fda.govK212116 - Vicki Lin Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureVysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain-OAR
+Section 5 510(k) Summary
+K212116
+5.1 Submitter
+Vysioneer Inc.
+33 Rogers St. #308, Cambridge, MA 02142
+Contact Person: Vicki Lin (Regulatory Specialist)
+Phone: 609-865-8659
+Email: vicki.lin@vysioneer.com
+Date Summary Prepared: September 10, 2021
+5.2 Device Name
+Trade Name: VBrain-OAR
+Common Name: Radiological Image Processing Software for
+Radiation Therapy
+Regulation Number / Product Code: 21 CFR 892.2050 / QKB
+5.3 Predicate Device
+Primary Predicate Device: AccuContour™
+510(k) Holder/Submitter: Xiamen Manteia Technology LTD.
+510(k) Number: K191928 (Cleared on 02/28/2020)
+Reference Device: iPlan
+510(k) Holder/Submitter: Brainlab AG
+510(k) Number: K113732 (Cleared on 05/07/2012)
+Section 5. Page 1 of 8Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain-OAR
+5.4 Intended Use / Indications for Use
+VBrain-OAR is a software device intended to assist trained radiotherapy personnel including, but
+not limited to, radiologists, radiation oncologists, neurosurgeons, radiation therapists, dosimetrists,
+and medical physicists, during their clinical workflows of brain tumor radiation therapy treatment
+planning, by providing initial object contours of organs at risk in the brain (i.e., the region of
+interest, ROI) on axial T1 contrast-enhanced brain MRI images. VBrain-OAR is intended to be
+used on adult patients only.
+VBrain-OAR uses an artificial intelligence algorithm (i.e., deep learning neural networks) to
+contour (segment) organs at risk (brain stem, eyes, optic nerves, optic chiasm) in the brain on MRI
+images for trained radiotherapy personnel’s attention, which is meant for informational purposes
+only and not intended for replacing their current standard practice of manual contouring process.
+VBrain-OAR does not alter the original MRI image, nor does it intend to be used to detect tumors
+for diagnosis. VBrain-OAR is intended only for contouring and generating contours of organs at
+risk in the brain; it is not intended to be used with images of other body parts.
+VBrain-OAR also contains the automatic image registration feature to register volumetric medical
+image data. (e.g., MR, CT). It allows rigid image registration to adjust the spatial position and
+orientation of two images.
+Radiation therapy treatment personnel must finalize (confirm or modify) the contours generated
+by VBrain-OAR, as necessary, using an external platform available at the facility that supports
+DICOM-RT viewing/editing functions, such as image visualization software and treatment
+planning system.
+5.5 Device Description
+VBrain-OAR is a software application system indicated for use in the contouring (segmentation)
+of brain MRI images for the organs at risk (OAR) in the brain during radiation treatment planning
+and in the registration of multi-modality images. The device consists of 2 algorithm modules,
+which are contouring algorithm module and registration algorithm module, and a workflow
+management module. The modules can work independently, and yet can be integrated with each
+other.
+The contouring (segmentation) algorithm module consists of image preprocessing, deep learning
+neural networks, and postprocessing components, and is intended to contour organs at risk in the
+brain on the axial T1 contrast-enhanced MR images. It utilizes deep learning neural networks to
+generate contours for the organs at risk in the brain and export the results as DICOM-RT objects
+(using the RT Structure Set ROI Contour attribute, RTSTRUCT).
+The registration algorithm module registers volumetric medical image data (e.g., MR, CT). It
+allows rigid image registration to adjust the spatial position and orientation of two images.
+Section 5. Page 2 of 8Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain-OAR
+The workflow management module is configured to work on a PACS network. Upon user’s request,
+it will pull patient scans or users can send corresponding DICOM images, and it will trigger a
+predefined workflow, in which different algorithm modules are executed to generate the DICOM
+output. The DICOM output of a workflow are sent back to the PACS.
+5.6 Comparison of Technological Characteristics with the
+Predicate Device
+VBrain-OAR is substantially equivalent to the primary predicate device AccuContourTM
+(K191928).
+The proposed device, VBrain-OAR, and the primary predicate, AccuContourTM (K191928) are
+both AI-based (deep learning) software devices intended to be used in the workflow of radiation
+therapy treatment planning by providing tools to automatically segment/contour organs at risk on
+images as well as perform image registration (image fusion). In addition, VBrain-OAR and the
+predicate device both use an intensity-based algorithm for image registration. Both the proposed
+device and AccuContourTM (K191928) are regulated under 21 CFR 892.2050, Product Code QKB
+(Radiological Image Processing Software for Radiation Therapy).
+Both the proposed device and the reference device, iPlan (K113732), are designed to contour
+organs at risk of brain on MR images and perform image registration (image fusion). The only
+difference between these two software devices is that VBrain-OAR uses an AI-based algorithm,
+while iPlan uses an atlas-based algorithm for segmentation of images.
+Please see Table 5-1 comparing the intended use and key technological characteristics of VBrain-
+OAR and the predicate and reference device.
+Table 5-1. Comparison with the Predicate and Reference Devices.
+Primary Predicate
+Proposed Device Reference Device
+Device
+Xiamen Manteia
+Company Vysioneer Inc. Brainlab AG
+Technology LTD.
+Device Name VBrain-OAR AccuContour™ iPlan
+510k Number K212116 K191928 K113732
+Regulation No. 21CFR 892.2050 21CFR 892.2050 21CFR 892.1750
+Classification II II II
+Product Code QKB QKB JAK/LLZ
+It is used by radiation iPlan's indications for
+VBrain-OAR is a
+oncology department to use are the viewing,
+Intended software device intended
+register multimodality presentation and
+Use/Indication for Use to assist trained
+images and segment documentation of
+radiotherapy personnel
+(non-contrast) CT medical imaging,
+Section 5. Page 3 of 8Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain-OAR
+Primary Predicate
+Proposed Device Reference Device
+Device
+including, but not images, to generate including different
+limited to, radiologists, needed information for modules for image
+radiation oncologists, treatment planning, processing, image
+neurosurgeons, radiation treatment evaluation and fusion, atlas assisted
+therapists, dosimetrists, treatment adaptation. visualization and
+and medical physicists, The product has two segmentation,
+during their clinical image process functions: intraoperative functional
+workflows of brain (1) Deep learning planning where the
+tumor radiation therapy contouring: it can output can be used e.g.
+treatment planning, by automatically contour with stereotactic image
+providing initial object the organ-at-risk, guided surgery or other
+contours of organs at including head and neck, devices for further
+risk in the brain (i.e., the thorax, abdomen and processing and
+region of interest, ROI) pelvis (for both male and visualization.
+on axial T1 contrast- female), Example procedures
+enhanced brain MRI (2) Automatic include but are not
+images. VBrain-OAR is Registration, and limited to:
+intended to be used on (3) Manual Contour. • Planning and
+adult patients only. simulation of cranial
+It also has the following surgical procedures such
+VBrain-OAR uses an
+general functions: as tumor resection, shunt
+artificial intelligence
+(1) Receive, placement, minimal-
+algorithm (i.e., deep
+add/edit/delete, transmit, invasive stereotactic
+learning neural
+input/export, medical interventions, biopsy,
+networks) to contour
+images and DICOM planning and simulation
+(segment) organs at risk
+data; of trajectories for
+(brain stem, eyes, optic
+(2) Patient management; stimulation and electrode
+nerves, optic chiasm) in
+(3) Review of processed recording
+the brain on MRI images
+images; • ENT procedures
+for trained radiotherapy
+personnel’s attention, such as sinus surgery,
+which is meant for (4) Open and Save of tumor surgery
+informational purposes files. • Spine
+only and not intended procedures such as
+for replacing their tumor surgery, pedicle
+current standard practice screw planning,
+of manual contouring vertebroplasty planning
+process. VBrain-OAR • Plan View is an
+does not alter the application which is
+original MRI image, nor intended to be used for
+does it intend to be used reviewing existing
+to detect tumors for treatment plans
+diagnosis. VBrain-OAR • Planning and
+is intended only for simulation of cranlo-
+contouring and maxillofacial procedures
+generating contours of Typical users of iPlan
+organs at risk in the are medical
+Section 5. Page 4 of 8Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain-OAR
+Primary Predicate
+Proposed Device Reference Device
+Device
+brain; it is not intended professionals, including
+to be used with images but not limited to
+of other body parts. surgeons and
+radiologists.
+VBrain-OAR also
+contains the automatic
+image registration
+feature to register
+volumetric medical
+image data. (e.g., MR,
+CT). It allows rigid
+image registration to
+adjust the spatial
+position and orientation
+of two images.
+Radiation therapy
+treatment personnel
+must finalize (confirm or
+modify) the contours
+generated by VBrain-
+OAR, as necessary,
+using an external
+platform available at the
+facility that supports
+DICOM-RT
+viewing/editing
+functions, such as image
+visualization software
+and treatment planning
+system.
+The proposed device,
+VBrain-OAR is a iPlan is a software based
+AccuContour, is a
+software application treatment planning
+standalone software
+system indicated for use application providing
+which is used by
+in the contouring functionalities like
+radiation oncology
+(segmentation) of brain viewing, processing and
+department to register
+MRI images for the documentation of
+multimodality images
+organs at risk (OAR) in medical data including
+and segment (non-
+Device Description the brain during different modules for
+contrast) CT images, to
+radiation treatment image preparation,
+generate needed
+planning and in the image fusion, image
+information for
+registration of multi- segmentation where the
+treatment planning,
+modality images. The result is a treatment plan
+treatment evaluation and
+device consists of 2 that can be used e.g. for
+treatment adaptation.
+algorithm modules, stereotactic and/or image
+which are contouring guided surgery.
+Section 5. Page 5 of 8Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain-OAR
+Primary Predicate
+Proposed Device Reference Device
+Device
+algorithm module and The product has two
+registration algorithm image process functions:
+module, and a workflow (1) Deep learning
+management module. contouring: it can
+The modules can work automatically contour
+independently, and yet the organ-at-risk,
+can be integrated with including head and neck,
+each other. thorax, abdomen and
+pelvis (for both male and
+The contouring
+female),
+(segmentation)
+(2) Automatic
+algorithm module
+Registration, and
+consists of image
+(3) Manual Contour.
+preprocessing, deep
+It also has the following
+learning neural
+general functions:
+networks, and
+Receive, add/edit/delete,
+postprocessing
+transmit, input/export,
+components, and is
+medical images and
+intended to contour
+DICOM data;
+organs at risk in the
+Patient management;
+brain on the axial T1
+Review of processed
+contrast-enhanced MR
+images;
+images. It utilizes deep
+Open and Save of files.
+learning neural networks
+to generate contours for
+the organs at risk in the
+brain and export the
+results as DICOM-RT
+objects (using the RT
+Structure Set ROI
+Contour attribute,
+RTSTRUCT).
+The registration
+algorithm module
+registers volumetric
+medical image data (e.g.,
+MR, CT). It allows rigid
+image registration to
+adjust the spatial
+position and orientation
+of two images.
+The workflow
+management module is
+configured to work on a
+PACS network. Upon
+Section 5. Page 6 of 8Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain-OAR
+Primary Predicate
+Proposed Device Reference Device
+Device
+user’s request, it will
+pull patient scans or
+users can send
+corresponding DICOM
+images, and it will
+trigger a predefined
+workflow, in which
+different algorithm
+modules are executed to
+generate the DICOM
+output. The DICOM
+output of a workflow are
+sent back to the PACS.
+Segmentation Deep learning Deep learning Atlas-based
+(Contouring)
+Technology
+Operating System Linux operating system Microsoft Windows Microsoft Windows
+Trained radiotherapy It is used by radiation Typical users of iPlan
+personnel including, but oncology department. are medical
+not limited to, professionals, including
+User Population radiologists, radiation but not limited to
+oncologists, physicians, surgeons and
+dosimetrists, and radiologists.
+medical physicists.
+CT, MRI, PET and
+Segmentation Features Segmentation Features:
+SPECT
+for organs at risk in the Non-Contrast CT
+brain: axial T1 contrast-
+Supported Modalities enhanced MR images. Registration Features:
+CT, MRI, PET
+Registration Features:
+CT, MR
+Organs at risk in the Organ-at-risk, including Outline anatomical
+brain head and neck, thorax, structures using manual
+abdomen and pelvis (for or automatic
+Image segmentation:
+both male and female) segmentation methods.
+Localization and
+Advanced manipulation
+Definition of Objects
+for 3D objects with
+(ROI)
+scaling, logical
+operations and object
+splitting.
+Image Registration Intensity-based Intensity-based Intensity-based
+Algorithm
+Section 5. Page 7 of 8Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain-OAR
+Primary Predicate
+Proposed Device Reference Device
+Device
+Alteration of Original No No No
+Images
+5.7 Non-Clinical Test (Standalone Performance Data)
+Standalone performance testing was conducted to evaluate the contouring (segmentation)
+performance and registration performance of VBrain-OAR. VBrain-OAR was tested on datasets
+from multiple institutions.
+The segmentation testing demonstrated that the auto-segmentation algorithm of the VBrain-OAR
+algorithm module provides clinically acceptable contours for organs at risk in the brain structures
+on an image of a patient.
+The registration testing evaluated the quality of the rigid registration of the registration algorithm
+module on images of multiple modalities, to demonstrate substantial equivalence to the predicate
+device.
+Stratified analysis of both testing showed consistent performance on data across patient sex,
+multiple imaging hardware and protocols.
+5.8 Software Verification and Validation
+Software verification and validation testing were conducted, and documentation was provided in
+accordance with FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices” for software devices
+identified as Major Level of Concern related to radiation therapy treatment planning.
+5.9 Substantially Equivalent (SE) Conclusion
+Vysioneer Inc. has conducted performance testing on VBrain-OAR. In all the cases, the software
+showed clinically acceptable performance. Verification and validation testing and hazard analysis
+demonstrate that VBrain-OAR performs within its design specifications and is as safe and effective
+as the predicate. The minor technological differences between VBrain-OAR and the predicate
+device with regard to the intended use do not introduce any new potential risks. Based on the
+information presented in these 510(k) premarket notifications, VBrain-OAR is considered
+substantially equivalent to the predicate device.
+Section 5. Page 8 of 8

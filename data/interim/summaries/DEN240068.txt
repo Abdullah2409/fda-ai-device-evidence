@@ -1,0 +1,180 @@
+C Type of Test:
+Evaluation of scanned WSIs of H&E-stained prostate needle biopsies by Artificial
+Intelligence/Machine Learning (AI/ML) based algorithm to provide cancer associated prognostic
+10-year risk estimates of distant metastasis (DM) and prostate cancer specific mortality (PCSM).
+III Indications for Use:
+A. Indication(s) for Use:
+ArteraAI Prostate is a software only device intended to analyze scanned histopathology whole
+slide images (WSIs) from treatment-naïve prostate core needle biopsies prepared from formalin
+fixed paraffin-embedded (FFPE) tissue and stained using Hematoxylin & Eosin (H&E) stains.
+ArteraAI Prostate provides 10-year risks of distant metastasis and prostate cancer specific
+mortality and is intended to assist physicians with prognostic risk-based decisions along with
+other clinicopathological factors in non-metastatic prostate cancer patients.
+ArteraAI Prostate is intended for males 55 years of age or older without clinically or
+pathologically defined metastases, and who are candidates for curative intent management
+(surgery, radiation therapy with or without systemic therapy, or active surveillance).
+ArteraAI Prostate is intended to utilize WSIs acquired from an FDA-cleared interoperable
+scanner with which ArteraAI Prostate has been authorized for use or a 510(k)-cleared scanner
+that has been assessed in accordance with the Predetermined Change Control Plan (PCCP) for
+qualifying additional interoperable scanners.
+B Special Conditions for Use Statement(s):
+Rx - For Prescription Use Only
+Warnings
+1. The ArteraAI Prostate should be used in conjunction with a complete standard of care
+evaluation.
+2. The ArteraAI Prostate patient report is to be utilized by trained physicians after being
+released by the pathology laboratory user.
+3. The ArteraAI Prostate results correctness is based on the quality requirements of the slide
+images and appropriate whole slide imaging scanner usage.
+4. Ensure proper traceability of the scanned images to the patient using an anonymized
+patient ID.
+Please refer to the labeling for a complete list of warnings and precautions.
+DEN240068 - Page 2 of 24• 10-year ArteraAI Prostate Categorical Risk for Distant Metastasis (High,
+Intermediate, Low)
+• Individual 10-year risk for Distant Metastasis (Low and Intermediate)
+• 10-year ArteraAI Prostate Categorical Risk for Prostate Cancer Specific Mortality
+(PCSM) (High, Intermediate, Low)
+The ArteraAI Prostate patient report is intended to be interpreted by the physician to aid in
+understanding the risk of DM or PCSM in the prostate cancer patient. The results are
+provided to support risk-based decisions within the recommended professional guidelines.
+B Principle of Operation
+ArteraAI Prostate is intended to be operated within a pathology laboratory with digital scanning
+capabilities. The ArteraAI Prostate workflow is depicted in Figure 1 below.
+Figure 1. ArteraAI Prostate Workflow
+The slide review and image selection procedure for uploading to the ArteraAI web portal is as
+follows:
+DEN240068 - Page 5 of 241. ArteraAI Prostate is performed on WSI images of prostate core biopsy specimen after a
+patient’s diagnosis of prostate cancer per standard of care. A qualified pathologist must
+have already determined that prostate cancer is present in the patient prostate core biopsy
+specimen. ArteraAI Prostate is intended for use only with slide images that contain non-
+metastatic prostate cancer. If there is no prostate cancer in any of the biopsy cores,
+ArteraAI Prostate should not be used.
+2. The pathologist will identify the WSI(s) of the biopsy specimen containing the highest
+Gleason score. The WSIs are obtained using the FDA-cleared Philips Ultra Fast scanner
+at 40x magnification in accordance with the scanner’s Instructions for Use.
+3. The WSIs are reviewed to verify that the image is not blurry, no defects are present and
+the whole tissue region is included in the image. Additional image and other related
+quality control steps are performed per the ArteraAI Prostate Instructions for Use.
+4. The WSI(s) and a unique patient identifier are entered as data inputs to the ArteraAI web
+portal that is then transferred to Artera’s back-end infrastructure. The patient identifier is
+intended to provide end-to-end traceability while protecting patient health information
+privacy.
+5. During the WSI transfer process, a web worker (thread) which is a web browser feature,
+is used to manage the upload of the WSI to parallelize the data transfer. This allows the
+image and other data upload to proceed in the background, allowing the operator to
+continue interacting with the system without interruption.
+6. ArteraAI Prostate uses the uploaded WSI(s) as input. Additional clinical data, if entered
+into the web portal, are not used as an input to ArteraAI Prostate but are only for the
+purposes of including this information in the ArteraAI Prostate Test Report.
+7. ArteraAI Prostate produces a test report that summarizes the ArteraAI Prostate results
+and transfers the test report to the pathology laboratory via the ArteraAI web portal.
+8. The pathologist will confirm the presence of cancer within the uploaded WSI, review and
+approve the report in accordance with the local laboratory procedures and release the test
+report to the requesting clinician.
+C. ArteraAI Prostate Prognostic Model Development
+The AI algorithm used in the ArteraAI Prostate was developed using deep learning machine
+learning algorithms trained on WSIs of H&E- stained prostate needle biopsy slides from
+multiple, multi-center, prospective randomized controlled clinical trials and clinical studies to
+assess 10-year risk of DM and PCSM. As indicated in the Table 2 below the datasets included a
+representative spectrum of cases with diagnostic variability including a range of Gleason scores,
+tumor stages. The model was trained on the data summarized in Table 2 below using the ground
+truth of actual metastasis or prostate cancer specific mortality events experienced by the patients
+in the trials from which the data is extracted. There were 1,133 distant metastasis events and 931
+prostate cancer specific mortality events in the dataset used to train the model. Additional
+information about training dataset is presented in Table 2 below:
+DEN240068 - Page 6 of 24V Standards/Guidance Documents Referenced:
+1. Guidance for the Content of Premarket Submissions for Device Software
+Functions; June 2023
+2. CLSI document EP12-Ed3: Evaluation of Qualitative, Binary Output
+Examination Performance; March 2023
+3. Cybersecurity in Medical Devices: Quality System Considerations and
+Content of Premarket Submissions; September 2023
+4. The 510(k) Program: Evaluating Substantial Equivalence in Premarket
+Notifications [510(k)]; July 2014
+5. Guidance for Industry and FDA Staff: De Novo Classification Process
+(Evaluation of Automatic Class III Designation); October 2021
+6. Acceptance of Clinical Data to Support Medical Device Applications and
+Submissions Frequently Asked Questions; February 2018
+7. Guidance for Industry and Food and Drug Administration Staff - Factors to Consider
+When Making Benefit-Risk Determinations in Medical Device Premarket Approval
+and De Novo Classifications; August 2019
+8. Guidance for Off-the-Shelf Software Use in Medical Devices; August 2023
+9. ISO 14971 Third Edition 2019-12 Medical devices - Application of risk management to
+medical devices
+10. IEC 62304 Edition 1.1 2015-06 (2015). Medical device software – Software life cycle
+processes
+11. IEC 62366-1 Edition 1.1 2020-06 CONSOLIDATED VERSION – Medical devices –
+Part 1: Application of usability engineering to medical devices
+VI Performance Characteristics:
+A. Analytical Performance:
+The precision of ArteraAI device was evaluated in a between-site reproducibility study which
+was performed at three laboratory sites in the United States. At each site, slides were scanned by
+a single operator on a Philips Ultra Fast scanner at 40x objective, with one run per day and five
+replicates per run, over five non-consecutive days (total number=15). Fifty-two samples
+(including 6 borderline samples based on ArteraAI Prostate raw score cut-offs) were included in
+the between-site reproducibility study and these samples were selected from patients with an age
+at biopsy from 55 years and above, Gleason score 6 to 10, clinical stage T1 to T3, and spanning
+the low-, intermediate-, and high-risk categories of the device output. The sample characteristics
+are provided in Table 3 below.
+DEN240068 - Page 9 of 24Figure 3. Kaplan-Meier curves for 10-Year Risk of PCSM for ArteraAI Prostate
+Risk Categories (High, Intermediate, Low)
+ArteraAI Prostate Categories
+c. Subgroup Analysis for 10-Year Risk of DM for ArteraAI Prostate Risk Categories (Low,
+Intermediate, High)
+i. African American Vs Non-African American
+This subgroup analysis shows that the ArteraAI Prostate risk categories for 10-year risk
+of distant metastasis outputs are validated between African American and Non-African
+American patients. A higher 10-year DM risk estimates for African American patients
+vs non-African American patients for ArteraAI categories High (35.6% vs 27.4%) and
+Low (9.0% vs 2.9%,) and overall risk (13.5% vs 7.7%) was observed (Table 9). The
+number of patients from African American patient group was limited (72) and this
+should be taken in consideration when using the risk estimates provided by ArteraAI
+Prostate for African American patients.
+DEN240068 - Page 19 of 24X Benefit/Risk Assessment:
+A Summary of the Assessment of Benefit:
+ArteraAI Prostate device provides 10-year categorical risk (High, Intermediate, Low)
+for DM and PCSM. The device also provides a 10-year individual risk estimate of DM for Low
+and Intermediate risk groups. These risk estimates in the IU population are intended to help
+physicians make more informed treatment decisions. The device may help in reducing under or
+over treatment of patients by estimating the risk of DM.
+B Summary of the Assessment of Risk:
+The probable risks associated with the use of this device are mainly due to erroneous results and
+incorrect use and interpretation of test results by the healthcare providers. Incorrect test results
+may be due the prognostic ArteraAI Prostate 10-year categorical risk (High, Intermediate, Low)
+for DM and PCSM being reported as higher or lower than true risk and the individual risk
+estimate of DM for Low and Intermediate risk groups being reported as higher or lower than true
+risk. In both scenarios above, there is probable risk of mismanagement of patient care in
+accordance with professional guidelines, based on false test results from this test, or incorrect
+interpretation of test results.
+C Patient Perspectives:
+This submission did not include specific information on patient perspectives for this device.
+D Summary of the Assessment of Benefit-Risk:
+The probable benefit of this device was demonstrated by analytical and clinical validation studies
+(refer to Section VI Performance Characteristics for details). The clinical performance of
+ArteraAI device was evaluated in a clinical study which included a total of 886 patients across
+three sites in the US. The pivotal clinical performance study showed that the 10-year risk of DM
+for ArteraAI Prostate risk category High (28.1%) is statistically significantly higher than the
+overall risk (8.1%) and this difference (20.0%) is clinically significant. The 10-year risk of DM
+for ArteraAI Prostate category Low (3.3%) is statistically significantly lower than the overall risk
+(8.1%) and this difference (4.8%) is clinically significant.
+False test results from this test, or incorrect interpretation of test results, could result in improper
+medical management of patients. The probable risks associated with false test results includes
+prognostic ArteraAI Prostate 10-year categorical risk (High, intermediate, Low) for DM and
+PCSM and prognostic ArteraAI 10-year individual risk estimate of DM for Low and
+Intermediate risk groups being reported as higher or lower than the true risk. These risks are
+mitigated by adequate analytical and clinical performance of the device. The probable risks
+associated with incorrect interpretation of test results are mitigated by inclusion of adequate
+instructions in the labeling on proper use of the device within the clinical workflow. Further, the
+DEN240068 - Page 23 of 24test results are unlikely to be the only factor considered while making clinical decisions. These
+results may support risk-based decisions within recommended guidelines.
+While general controls are insufficient to ensure the safety and effectiveness of the device, in
+light of the mitigations provided by the special controls, the probable benefits outweigh the
+probable risks for the use of the ArteraAI Prostate device.
+XI Conclusion:
+The De Novo request is granted, and the device is classified under the following and subject to
+the special controls identified in the letter granting the De Novo request:
+Product Code(s): SFH
+Device Type: Software algorithm device analyzing digital images for cancer prognosis
+Class: II
+Regulation: 21 CFR 864.3755
+DEN240068 - Page 24 of 24

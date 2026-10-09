@@ -1,0 +1,614 @@
+March 31, 2025
+TribusMed Beheer BV
+Johan Vogelaar
+COO
+Oude Vest 9
+Breda, 4811HR
+Netherlands
+Re: K242166
+Trade/Device Name: TribusConnect
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH, LLZ
+Dated: July 24, 2024
+Received: February 24, 2025
+Dear Johan Vogelaar:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"K242166 - Johan Vogelaar Page 2
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).K242166 - Johan Vogelaar Page 3
+Sincerely,
+Jessica Lamb, PhD
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENTOFHEALTHANDHUMANSERVICES FormApproved:OMBNo.0910-0120
+FoodandDrugAdministration
+ExpirationDate:07/31/2026
+Indications for Use SeePRAStatementbelow.
+SubmissionNumber(ifknown)
+K242166
+DeviceName
+TribusConnect
+IndicationsforUse(Describe)
+TribusConnect is a medical image management and processing device which facilitates remote
+viewing on different locations of CT images stored in DICOM format, allowing healthcare
+professionals to access, review, manipulate, measure and visualize simulated patient data from
+different sources.
+TribusConnect is suitable for, but not limited to, pre-procedural planning of cardiac interventions and
+post procedural analysis of cardiac interventions.
+To facilitate the above, TribusConnect uses CT DICOM data to output volume renderings, ML-based
+heart segmentation, a simulated fluoroscopy view, endo views, MIP and MPR views.
+Measurements can only be performed on MPR views.
+TribusConnect is not intended for diagnostic use on mobile displays.
+TribusConnect is not intended to serve as the primary archive for medical imaging data.
+TribusConnect is an adjunct tool and is not intended to replace a physician’s own review on the
+images.
+The intended patient population is comprised of adult patients (22 years of age and older)
+TypeofUse(Selectoneorboth,asapplicable)
+PrescriptionUse(Part21CFR801SubpartD) Over-The-CounterUse(21CFR801SubpartC)
+CONTINUEONASEPARATEPAGEIFNEEDED.
+ThissectionappliesonlytorequirementsofthePaperworkReductionActof1995.
+*DONOTSENDYOURCOMPLETEDFORMTOTHEPRASTAFFEMAILADDRESSBELOW.*
+Theburdentimeforthiscollectionofinformationisestimatedtoaverage79hoursperresponse,includingthe
+timetoreviewinstructions,searchexistingdatasources,gatherandmaintainthedataneededandcomplete
+andreviewthecollectionofinformation.Sendcommentsregardingthisburdenestimateoranyotheraspect
+ofthisinformationcollection,includingsuggestionsforreducingthisburden,to:
+DepartmentofHealthandHumanServices
+FoodandDrugAdministration
+OfficeofChiefInformationOfficer
+PaperworkReductionAct(PRA)Staff
+PRAStaff@fda.hhs.gov
+“Anagencymaynotconductorsponsor,andapersonisnotrequiredtorespondto,acollectionof
+informationunlessitdisplaysacurrentlyvalidOMBnumber.”TribusConnect 510(k) Summary (K242166)
+The following 510(k) summary of safety and effectiveness information is submitted in
+accordance with the requirements of the Safe Medical Device Act 1990 and 21 CFR
+807.92.
+Date: March 30, 2025
+Contact details
+Applicant Name: TribusMed Beheer BV
+Applicant Address: Oude Vest 9 Breda 4811HR Netherlands
+Applicant Contact Telephone: +31 6 36192511
+Applicant Contact: Johan Vogelaar
+Applicant Contact Email: johan.vogelaar@tribusmed.com
+Device
+Device Trade Name: TribusConnect
+Classification Name: Medical image management and processing system
+Common Name: Automated Radiological Image Processing Software
+Regulation Number: 21 CFR 892.2050
+Product Code(s): QIH, LLZ
+Legally Marketed Predicate Devices
+Predicate # Predicate Trade Name (Primary Predicate is listed first) Product Code
+K141061 RemotEye Viewer LLZ
+K222593 TruPlan Computed Tomography (CT) Imaging Software QIH
+Device Description Summary
+TribusConnect consists of the following components:
+• The cloud component performs rendering, provides access to imaging data,
+ensures secure user authentication, and safeguards data with encryption both in
+transit and at rest.
+• The web-based viewer application is accessible through standard web
+browsers on desktops, tablets, and mobile devices.
+The device has only one model.
+TribusConnect is a cloud-based software application that facilitates remote viewing on
+different locations of CT images stored in DICOM format, allowing healthcare
+professionals to access, review, manipulate, measure and visualize simulated patient
+data from different sources through a secure internet connection. TribusConnect offers
+a secure and efficient solution for accessing, reviewing, and visualizing CT images in
+DICOM format. Measurements can be performed on MPR views. TribusConnect is
+Page 1 of 15provided to its users as a Saas solution, TribusMed will be in control of installation,
+configuration, updates etc.
+TribusConnect can be used in healthcare facilities, hospitals, and remote locations,
+including home environments, when accessed by authorized users through a secure
+internet connection.
+CT scans can be uploaded to the server and will be de-identified before the upload. On
+the server the heart structures will be segmented using a ML based algorithm. Also a ML
+based semi-automated localization of the Left Atrial Appendage (LAA) will be
+performed.
+All rendering of image data is done on the server te results can be viewed on standard
+computing devices (e.g., desktop, laptop, tablet, smartphone) with an internet
+connection.
+Images can be rendered as Volume rendering, segmentations, simulated fluoroscopy,
+endo view, MIP or MPR. The user can interact with the data like zooming, rotating,
+changing the window. On the MPR views measurements can be performed.
+The device’s cloud infrastructure and encryption protocols ensure data protection and
+compliance with security standards.
+protection and compliance with security standards. The client operates on standard
+computing devices (e.g., desktop, laptop, tablet, smartphone) with an internet
+connection and requires no dedicated energy source as it leverages the user’s device
+power.
+TribusConnect is a software application that does not involve physical materials with
+patient contact and operates through cloud infrastructure and standard web browsers.
+TribusConnect is supported in the following configurations:
+• PC: Windows with Edge or Chrome
+• Mac: MacOS with Safari or Chrome
+• iPad: iPadOS with Safari or Chrome
+• iPhone: iOS with Safari or Chrome
+• Tablet: Android with Chrome
+• Smartphone: Android with Chrome
+Note: TribusConnect is not intended for diagnostic use on mobile displays.
+For interacting with TribusConnect the following internet bandwidth is recommended:
+Upload: 5 Mbps
+Download: 20 Mbps
+Page 2 of 15The software provides the following Manual Quantitative Imaging Functions. These
+measurements can be used on the MPR views only. The accuracy of all measurements
+is within 5% of the true value.
+Measurement Results
+Distance Distance between two points in mm
+measurement
+(Open) spline Distance over a non-straight trajectory in mm
+Closed spline Area in mm², perimeter, area derived diameter, perimeter
+derived diameter, min diameter and max diameter all in mm
+Angle Angle in degrees
+Hounsfield probe (3D The HU (Hounsfield unit) of the underlying pixel
+Marker)
+Intended Use/Indications for Use
+Intended Use
+TribusConnect is a cloud-based DICOM viewer designed for medical professionals to
+securely access, review, manipulate, measure and visualize DICOM images. The
+software is intended to be used by trained healthcare professionals, including but not
+limited to radiologists, physicians, nurses, and technicians.
+Indications for use
+TribusConnect is a medical image management and processing device which facilitates
+remote viewing on different locations of CT images stored in DICOM format, allowing
+healthcare professionals to access, review, manipulate, measure and visualize
+simulated patient data from different sources.
+TribusConnect is suitable for, but not limited to, pre-procedural planning of cardiac
+interventions and post procedural analysis of cardiac interventions.
+To facilitate the above, TribusConnect uses CT DICOM data to output volume
+renderings, ML-based heart segmentation, a simulated fluoroscopy view, endo views,
+MIP and MPR views.
+Measurements can only be performed on MPR views.
+TribusConnect is not intended for diagnostic use on mobile displays.
+TribusConnect is not intended to serve as the primary archive for medical imaging data.
+TribusConnect is an adjunct tool and is not intended to replace a physician’s own
+review on the images.
+The intended patient population is comprised of adult patients (22 years of age and
+older)
+Page 3 of 15Comparison with predicate devices:
+The detailed analysis of the subject device and the primary and secondary predicate
+devices (shown in the Device comparison table) demonstrates that the subject device is
+substantially equivalent in indications for use / intended use, technological
+characteristics, functionality, and operating principles with the primary predicate
+(K141061) and with the secondary predicate (K222593). Of the three characteristics
+(technical, biological, and clinical) required for the demonstration of equivalence,
+biological characteristics are not applicable since the subject device and both
+predicate devices are software as a medical device application with no tangible
+component interfacing with the body.
+Device comparison table
+TribusConnect RemotEye Viewer TruPlan
+(Subject device) (Primary Predicate) (Secondary Predicate)
+Device name TribusConnect RemotEye Viewer TruPlan Computed
+Tomography (CT)
+Imaging Software
+Device manufacturer TribusMed BV NeoLogica s.r.l. Circle Cardiovascular
+Imaging Inc.
+510(k) number K242166 K141061 K222593
+Regulation name Medical image Picture archiving and Medical image
+management and communications system management and
+processing system processing system
+Regulation Number 21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.2050
+Product code QIH LLZ QIH, LLZ
+Regulatory Class II II II
+Page 4 of 15TribusConnect RemotEye Viewer TruPlan
+(Subject device) (Primary Predicate) (Secondary Predicate)
+Intended use TribusConnect is a cloud- The RemotEye Viewer TruPlan enables
+based DICOM viewer software product is visualization and
+designed for medical intended to be used as a measurement of
+professionals to securely functional, web based structures of the heart
+access, review, medical image viewer to and vessels for:
+manipulate, measure and download, review, - Pre-procedural
+visualize DICOM images. interpret, manipulate, planning and sizing for
+The software is intended visualize and print the left atrial appendage
+to be used by trained medical multi-modality closure (LAAC)
+healthcare professionals, image data in DICOM procedure
+including but not limited format also stored in - Post-procedural
+to radiologists, remote locations with evaluation for the LAAC
+physicians, nurses, and respect to the viewing procedure
+technicians. site. When interpreted by
+a trained physician, the
+medical images
+displayed by RemotEye
+Viewer can be used as an
+element for diagnosis.
+Typical users of
+RemotEye Viewer are
+trained professionals,
+including but not limited
+to radiologists,
+physicians, nurses and
+technicians.
+Page 5 of 15TribusConnect RemotEye Viewer TruPlan
+(Subject device) (Primary Predicate) (Secondary Predicate)
+Indications for use TribusConnect is a The RemotEye Viewer TruPlan enables
+medical image software product is visualization and
+management and intended to be used as a measurement of
+processing device which functional, web based structures of the heart
+facilitates remote viewing medical image viewer to and vessels for:
+on different locations of download, review, - Pre-procedural
+CT images stored in interpret, manipulate, planning and sizing for
+DICOM format, allowing visualize and print the left atrial appendage
+healthcare professionals medical multi-modality closure (LAAC)
+to access, review, image data in DICOM procedure
+manipulate, measure and format also stored in - Post-procedural
+visualize remote locations with evaluation for the LAAC
+simulated patient data respect to the viewing procedure
+from different sources. site. When interpreted by
+TribusConnect is suitable a trained physician, the
+for, but not limited to, pre- medical images
+procedural planning of displayed by RemotEye
+cardiac interventions and Viewer can be used as an
+post procedural analysis element for diagnosis.
+of cardiac interventions. Typical users of
+RemotEye Viewer are
+To facilitate the above, trained professionals,
+TribusConnect uses CT including but not limited
+DICOM data to output to radiologists,
+volume renderings, ML- physicians, nurses and
+based heart technicians.
+segmentation, a
+simulated fluoroscopy
+view, endo views, MIP and
+MPR views.
+Measurements can only
+be performed on MPR
+views.
+TribusConnect is not
+intended for diagnostic
+use on mobile displays.
+TribusConnect is not
+intended to serve as the
+Page 6 of 15TribusConnect RemotEye Viewer TruPlan
+(Subject device) (Primary Predicate) (Secondary Predicate)
+primary archive for
+medical imaging data.
+TribusConnect is an
+adjunct tool and is not
+intended to replace a
+physician’s own review on
+the images.
+The intended patient
+population is comprised
+of adult patients (22 years
+of age and older)
+Patient population The intended patient No limitations in 510(k) or TruPlan’s intended
+population is comprised IFU patient population is
+of adult patients (22 years Similar, The fact that a comprised of adult
+of age and older) portion of the population patients.
+is not within the scope of Same
+TribusConnect does not
+introduce new risks.
+Input data CT (In DICOM format) Multi modality DICOM CT (In DICOM format)
+compliant (Including CT)
+Same
+Similar, more supported
+modalities
+Page 7 of 15TribusConnect RemotEye Viewer TruPlan
+(Subject device) (Primary Predicate) (Secondary Predicate)
+Patient study • Study/series previewing • Study/series previewing • Study/series
+management • Exporting • Exporting previewing
+• Deleting • Deleting • Exporting
+• Anonymizing • Anonymizing • Deleting
+• Search • Search • Anonymizing
+• Search
+Same
+Same
+Measurement • Distance (length, Advanced distance, area, • Distance (length,
+functionality diameter, angle and density diameter,
+perimeter) measurement tools perimeter)
+• Area (including SUV for PET • Area
+• Angle images), plus several • Angle
+• Signal intensity graphical annotation • Signal intensity
+tools. • Coordinates
+Measurement of CTR
+(Cardio-Thoracic Ratio) Same
+also supported.
+Same
+Visualization/rendering • 2D • 2D • 2D
+• 3D • 3D • 3D
+• 4D • MPR / MIP / MinIP /AvgIP • 4D
+• MPR • Annotations • MPR
+• Annotations • MIP
+• Segmented 3D volume Similar. No information • Annotations
+could be found whether • Segmented 3D volume
+4D is supported, since 4D
+as implemented in Same
+TribusConnect and
+TruPlan is a sequence of
+3D images played in a
+movie, this will not
+introduce a new risk
+Segmentations ML based segmentation No segmentation ML based segmentation
+of all heart chambers, left atrium, left ventricle,
+aorta, pulmonary trunk left atrial appendage
+and vena cava and the aorta. (Left
+Page 8 of 15TribusConnect RemotEye Viewer TruPlan
+(Subject device) (Primary Predicate) (Secondary Predicate)
+heart)
+Manual sculpting
+Similar, The same
+underlying technique is
+used the algorithm in
+TribusConnect is trained
+to identify more
+structures, this does not
+introduce new risks.
+Absence of the sculpting
+feature does not
+introduce new risks.
+Left atrial appendage Semi-Automated No such functionality Localization of LAA
+localization Localization of LAA appendage
+appendage
+Similar, since
+TribusConnect does not
+automatically suggest
+measurements like
+TruPlan, no new risks are
+introduced.
+Session saving Analysis is stored in a DICOM presentation Analysis is saved in a
+“Saved session” states and Key note saved session.
+images
+Same
+Similar, the saved
+sessions in
+TribusConnect also
+contain information
+about the orientation of
+the MPR planes and
+volumes, this does not
+introduce new risks
+Collaboration Shared sessions Cloud-based peer-to- Sessions are saved on a
+peer image sharing central location and
+functionalities. available for other users.
+Page 9 of 15TribusConnect RemotEye Viewer TruPlan
+(Subject device) (Primary Predicate) (Secondary Predicate)
+Same Similar, work can be
+shared via a saved
+session, but no “live”
+image sharing, this does
+not introduce new risks
+Upload of data File system based upload DICOM protocol and Supports DICOM
+of DICOM files. import from disk connectivity and file-
+system based upload of
+Same image data.
+Same
+Storage of data Cloud Cloud Laptop, on-premise
+server
+Same
+Similar, an on-premise
+server is not necessarily
+accessible via the
+internet, the risks
+introduced by the cloud
+component are handled
+in the cyber security risk
+assessment and
+deemed acceptable
+Technical environment Cloud based zero RemotEye Viewer is Windows/Apple based
+footprint viewer, users compatible with desktop/laptop
+can access the viewer Windows, Mac OS X and application.
+through a standard web Linux clients.
+browser on their Similar, TribusConnect
+desktops, laptops, or Similar, TribusConnect is is supported on more
+mobile devices. supported on more devices and cloud
+devices, the possible based, the possible risks
+risks introduced by this introduced by this are
+are evaluated as part of evaluated as part of the
+the risk management risk management
+activities and deemed activities and deemed
+acceptable acceptable
+Page 10 of 15Predicate device discussion
+Indications for Use Comparison
+TribusConnect and the primary predicate device, RemotEye Viewer (K141061), share
+the same indications for use, both facilitating web-based image viewing. While
+TribusConnect supports fewer imaging modalities and has a more limited intended
+patient population, performance testing confirmed that these differences do not
+compromise safety or effectiveness. Validation studies demonstrated equivalent
+diagnostic image quality, usability, and accuracy in supported modalities, ensuring
+consistent clinical performance. Therefore, these differences do not introduce new
+risks.
+The secondary predicate device, TruPlan (K222593), is specifically intended for LAAC
+procedures. TribusConnect supports a broader range of cardiac interventions using
+similar imaging and measurement techniques, with a consistent patient population.
+Validation of the algorithm confirmed equivalent performance, and no new risks were
+identified. Therefore, the intended use of TribusConnect is very similar to that of
+TruPlan, and these differences do not introduce new risks.
+Technological Comparison
+Visualization Techniques and Measurements:
+Both TribusConnect and RemotEye Viewer offer the same range of visualization
+techniques and measurements. This suggests parity in their basic functionalities for
+viewing medical imaging data.
+Web-based Platforms:
+Both TribusConnect and RemotEye Viewer are web-based viewers, meaning they can be
+accessed remotely via browsers.
+Modalities Supported:
+TribusConnect supports only CT scans, while RemotEye Viewer supports multiple
+modalities. This provides more flexibility with RemotEye Viewer but does not introduce
+new risks according to verification and validation tests.
+Heart Segmentation:
+TruPlan uses machine learning to segment four heart structures, while TribusConnect
+uses ml to identify seven. Despite the difference in the number of structures identified,
+validation shows that TribusConnect does not introduce any new safety or performance
+issues.
+LAA Localization Tool:
+Page 11 of 15The LAA localization method in TruPlan is designed for initiating a landingzone
+measurement. In TribusConnect, the method is used as a navigation tool only. This
+distinction does not introduce new risks, reinforcing the system's safety.
+Overall Evaluation of the technological comparison :
+Both systems maintain similar levels of safety and performance. TribusConnect does
+not introduce new technological characteristics, staying within previously validated
+boundaries. Its additional functionalities, like supporting more heart structures does
+not introduce new risks. Therefore, TribusConnect offers comparable performance and
+safety without new technological changes.
+Regulatory History
+Currently, no warning letters, product recalls, or reports in the MAUDE database have
+been identified for either RemotEye Viewer or TruPlan.
+Conclusion of the Predicate device discussion
+Based on the substantial similarities in intended use, technical characteristics, and the
+use of equivalent segmentation techniques, along with the absence of regulatory
+concerns for the predicate devices, TribusConnect is deemed substantially equivalent.
+It is concluded that TribusConnect does not introduce any new issues and is as safe
+and effective as the predicate devices, RemotEye Viewer and TruPlan.
+Non-Clinical and/or Clinical Tests Summary & Conclusions
+Performance testing was conducted to verify compliance with specified design
+requirements in accordance with IEC 62304:2015, ISO 14971:2019, and NEMA 3.1-3.20
+(2016) DICOM standard.
+Software Verification:
+A test plan was created and executed to ensure that all requirements were
+implemented according to specifications, and all test cases passed successfully.
+Manual measurements were thoroughly validated using phantom studies,
+demonstrating that all performance criteria were met, with measurement results falling
+within 5% of the true value.
+Verification testing was conducted to confirm the device’s specifications and
+performance in accordance with the FDA guidance documents:
+• Content of Premarket Submissions for Device Software Functions
+• Cybersecurity in Medical Devices: Quality System Considerations and Content
+of Premarket Submissions
+• Technical Performance Assessment of Quantitative Imaging in Radiological
+Device Premarket Submissions
+Page 12 of 15Cybersecurity Testing:
+A penetration test was conducted by an external company, and the cybersecurity
+assessment was successfully completed, validating the system’s security measures
+and resilience. No issues classified as medium or higher were identified.
+Cybersecurity testing was performed in accordance with the FDA guidance document:
+• Cybersecurity in Medical Devices: Quality System Considerations and Content
+of Premarket Submissions
+Validation of the machine learning based algorithms:
+For the validation of the algorithms, 100 CTA volumes were collected from 14 sites
+across the United States. No specific patient selection criteria were applied, and the
+volumes from each site generally consisted of consecutive cases. The data,
+retrospectively gathered, was anonymized before being shared with TribusMed.
+The sites providing data for the training dataset are different from the validation dataset,
+that is, no sites used for training are used for validation. Each dataset is acquired form
+an unique patient.
+Details dataset used
+• Patients - 100
+• Male - 59
+• Female - 40
+• Unknown - 1
+• Age (y) - 76 (52 - 91)
+• Slice thickness (mm) - 0.63 (0.50 - 2.50)
+• Slice count - 303 (106 - 868)
+• In-plane resolution (mm) - 0.49 (0.30 - 0.87)
+• Field Of View (mm) - 160 (103 - 347)
+• Tube potential (kVp) - 120 (70 - 135)
+• X-ray tube current (mA) - 571 (101 - 2442)
+• LAA morphology
+o Chicken Wing - 42
+o Cactus - 42
+o Windsock - 14
+• LAA Thrombus / Bad Filling - 18
+• Manufacturers:
+o Toshiba /Canon - 12
+o Philips - 6
+o Siemens - 42
+o GE - 38
+Page 13 of 15Validation of Heart segmentation
+Acceptance criteria Heart segmentation:
+• In at least 80% of cases bone removal should performed correctly
+• In at least 80% of cases each segmented structure should be clearly visible
+• In at least 80% of cases the rendered view of the heart should be clinically
+usable
+Validation of Heart segmentation is performed by 2 US board certified radiologists who
+qualitatively evaluated the performance.
+Validation results Heart segmentation:
+• 100% of cases bone removal correct
+• 99% of cases each segmented structure is clearly visible
+• 100% of cases the rendered view of the heart is clinically usable
+Due to this low failure rate, a subgroup analysis would not provide meaningful insight
+Validation of LAA Localization
+Acceptance criteria LAA Localization:
+• LAA localized within 10mm of the landing zone contour center as computed by
+the predicate device, in 95% of all cases, with a confidence of 95% and a
+statistical power of 80%
+Validation of the LAA localization feature is performed by comparing the results with the
+predicate device TruPlan( K222593)
+Acceptance criteria LAA Localization:
+• 97% of the cases are within 10mm of the landing zone contour center as
+computed by the predicate device
+Validation results of the LAA localization feature:
+Average distance was 4.40 mm, and its standard deviation was 2.74 mm. 95 out of 98
+cases (97%) had a distance < 10 mm while the maximum distance was 12.2 mm.
+Based on subgroup analysis it is concluded that the method can be deemed
+generalizable, reliable, and suitable for use across all tested condition
+As stated above, the heart segmentation and LAA localization features have been
+validated on scans with the following characteristics:
+Scanner manufacturers: Toshiba/Cannon, Philips, Siemens, GE
+Slice thickness (mm): 0,50-2,50
+Slice count :106-868
+In-plane resolution (mm): 0,30-0,87
+Field Of View (mm): 103-347
+Tube potential (kVp): 70-135
+X-ray tube current (mA): 101-2442
+Page 14 of 15For a safe and effective outcome of the Heart Segmentation and LAA localization, the
+parameters of the scan used should fall within the specified ranges or match the
+provided list, as detailed in the table above.
+Clinical testing:
+As stated above the validation of the ML algorithms is performed retrospectively on
+clinical scans. The segmentations have been validated by physicians.
+Further no clinical studies were necessary to support substantial equivalence.
+Conclusion:
+The information submitted in this premarket notification, including performance testing
+and predicate device comparisons, demonstrates that TribusConnect is at least as safe
+and effective, and performs at least as well as the legally marketed predicate devices
+K222593 and K141061.
+Page 15 of 15

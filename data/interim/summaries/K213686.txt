@@ -1,0 +1,488 @@
+August 12, 2022
+Iterative Scopes Inc.
+Dennis Francoeur
+Director of Regulatory Affairs
+14 Arrow St, 3rd Floor
+Cambridge, MA 02138
+Re: K213686
+Trade/Device Name: SKOUT Software
+Regulation Number: 21 CFR 876.1520
+Regulation Name: Gastrointestinal Lesion Software Detection System
+Regulatory Class: Class II
+Product Code: QNP
+Dated: November 22, 2021
+Received: November 22, 2021
+Dear Dennis Francoeur:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976,
+the enactment date of the Medical Device Amendments, or to devices that have been reclassified in
+accordance with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require
+approval of a premarket approval application (PMA). You may, therefore, market the device, subject to
+the general controls provisions of the Act. Although this letter refers to your product as a device, please
+be aware that some cleared products may instead be combination products. The 510(k) Premarket
+Notification Database located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm
+identifies combination product submissions. The general controls provisions of the Act include
+requirements for annual registration, listing of devices, good manufacturing practice, labeling, and
+prohibitions against misbranding and adulteration. Please note: CDRH does not evaluate information
+related to contract liability warranties. We remind you, however, that device labeling must be truthful
+and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may
+be subject to additional controls. Existing major regulations affecting your device can be found in the
+Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further
+announcements concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that
+FDA has made a determination that your device complies with other requirements of the Act or any
+Federal statutes and regulations administered by other Federal agencies. You must comply with all the
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.00
+Silver Spring, MD 20993
+www.fda.govK213686 - Dennis Francoeur Page 2
+Act's requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21
+CFR Part 801); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-
+reporting-combination-products); good manufacturing practice requirements as set forth in the quality
+systems (QS) regulation (21 CFR Part 820) for devices or current good manufacturing practices (21
+CFR 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+Part 807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-
+device-reporting-mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products,
+including information about labeling regulations, please see Device Advice
+(https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-assistance) and CDRH
+Learn (https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may
+contact the Division of Industry and Consumer Education (DICE) to ask a question about a specific
+regulatory topic. See the DICE website (https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/contact-us-division-industry-and-consumer-education-dice) for
+more information or contact DICE by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-
+796-7100).
+Sincerely,
+Shanil P. Haugen, Ph.D.
+Assistant Director
+DHT3A: Division of Renal, Gastrointestinal,
+Obesity and Transplant Devices
+OHT3: Office of GastroRenal, ObGyn,
+General Hospital and Urology Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK213686
+Page 1 of 16
+510(k) SUMMARY
+SKOUTTMsystem
+Submitter:
+Iterative Scopes, Inc.
+14 Arrow St, 3rd Floor
+Cambridge MA 02138
+Phone: (603) 819-8387
+Contact Person: Dennis Francoeur, Director of RegulatoryAffairs
+Date Prepared:August 11, 2022
+Name of Device:SKOUTTMsystem
+Classification Name:Gastrointestinal Lesion SoftwareDetection System
+Classification Panel:Gastroenterology and Urology
+Regulation Number:876.1520
+Product Code:QNP
+Predicate Device:GI Genius, Cosmo Artificial Intelligence - AI, LTD, DEN200055
+Device Description
+The SKOUTTM system is asoftware-basedcomputeraideddetection(CADe)systemfortheanalysis
+of high-definition endoscopic video during colonoscopy procedures. The SKOUTTM system is
+intended to aid gastroenterologists with the detection of potential colorectal polyps during
+colonoscopy by providing an informational visual aid on the endoscopic monitor using trained
+software that processes the endoscopic video in real time.
+Users will primarily interact with the SKOUTTM system by observing the software display, including
+the polyp detection box and device status indicator signal.
+Polyp Detection Notification
+The SKOUTTM system has a main graphical user interface (GUI) feature of the polyp detection
+notification. The polyp detection notification is a two-dimensional blue rectangularoutlinegenerated
+aroundanysuspectedpolypsontheendoscopicvideofeed.Displayofthisnotificationisdeactivated
+if / when a surgical tool enters the frame or if the polyp is no longer being detected.
+The polyp detection notification enables users to:
+● Detect potential colorectal polyps during colonoscopy examinations in adult patients
+undergoing a colorectal cancer screening or surveillance procedure.
+● Utilize a tool that provides additional information for endoscopic observation.K213686
+Page 2 of 16
+Device Status Indicator
+The SKOUTTM system has an additional GUI feature that notifies users of the current device status
+(active or error). The device status indicator signal displays as atwo-dimensionalsolidgreenboxin
+the left-hand cornerofthedisplayifthedeviceispoweredonandactivelyprocessingtheinputvideo
+and as a red X if there is a video processing error.
+Intended Use / Indications for Use
+The SKOUTTM system is asoftwaredevicedesignedtodetectpotentialcolorectalpolypsinrealtime
+during colonoscopy examinations. It is indicated as a computer-aided detection tool providing
+colorectal polyps location information to assistqualifiedandtrainedgastroenterologistsinidentifying
+potential colorectal polyps during colonoscopy examinations in adult patients undergoing colorectal
+cancer screening or surveillance.
+The SKOUTTM system is only intended to assist the gastroenterologist in identifying suspected
+colorectal polyps and the gastroenterologist is responsible for reviewing SKOUTTM suspected polyp
+areas and confirming the presence or absence of a polyp based on their own medical judgment.
+SKOUTTM is not intended to replace a full patient evaluation, nor is it intended to be relied upon to
+make a primary interpretation of endoscopic procedures, medicaldiagnosis,orrecommendationsof
+treatment/course of action for patients. SKOUTTMisindicated for white light colonoscopy only.
+Summary of Technological Characteristics
+Both the subject and the predicate devices are Computer-Assisted Detection (CADe) devices used
+in conjunction with endoscopy forthedetectionofabnormallesionsinthegastrointestinaltract. Ata
+high level, the subject and predicate devices are based on the following same technological
+elements. A table comparing the key features of the subject and predicate devices is provided
+below:
+Table 1: Technological Characteristics Comparison
+SKOUTTMSystem GI Genius
+Intended Use A gastrointestinal lesion software A gastrointestinal lesion software
+detection system is a detection system is a
+computer-assisted detection device computer-assisted detection device
+used in conjunction with endoscopy for used in conjunction with endoscopy
+the detection of abnormal lesions in for the detection of abnormal lesions
+the gastrointestinal tract. This device in the gastrointestinal tract. This
+with advanced software algorithms device with advanced software
+brings attention to images to aid in the algorithms brings attention to
+detection of lesions. The device has images to aid in the detection of
+hardware components to support lesions. The device may contain
+interfacing with an endoscope. hardware to support interfacing with
+an endoscope.
+Indications for The SKOUTTMsystem is a software The GI Genius System is a
+Use device designed to detect potential computer-assisted reading tool
+colorectal polyps in real time during designed to aid endoscopists in
+colonoscopy examinations. It is detecting colonic mucosal lesions
+indicated as a computer-aided (such as polyps and adenomas) in
+detection tool providing colorectal real time during standard white -lightK213686
+Page 3 of 16
+SKOUTTMSystem GI Genius
+polyps location information to assist endoscopy examinations of patients
+qualified and trained undergoing screening and
+gastroenterologists in identifying surveillance endoscopic mucosal
+potential colorectal polyps during evaluations. The GI Genius
+colonoscopy examinations in adult computer-assisted detection device
+patients undergoing colorectal cancer is limited for use with standard white
+screening or surveillance. light endoscopy imaging only. This
+device is not intended to replace
+The SKOUTTMsystem is only intended
+clinical decision making.
+to assist the gastroenterologist in
+identifying suspected colorectal polyps
+and the gastroenterologist is
+responsible for reviewing SKOUTTM
+suspected polyp areas and confirming
+the presence or absence of a polyp
+based on their own medical judgment.
+SKOUTTMis not intended to replace a
+full patient evaluation, nor is it
+intended to be relied upon to make a
+primary interpretation of endoscopic
+procedures, medical diagnosis, or
+recommendations of treatment/course
+of action for patients. SKOUTTMis
+indicated for white light colonoscopy
+only.
+User Adult patients undergoing colorectal Adult patients undergoing screening
+Population cancer screening or surveillance and surveillance endoscopic
+colonoscopy. mucosal evaluations.
+Technological The SKOUTTMsystem is composed of The GI Genius is composed of
+Characteristics hardware and software designed to hardware and software designed to
+highlight portions of the colon where highlight portions of the colon where
+the device detects potential colorectal the device detects a potential lesion.
+polyps.
+Software The SKOUTTMsystem utilizes an The GI Genius system utilizes an
+Algorithm artificial intelligence-based algorithm to artificial intelligence-based algorithm
+perform the polyp detection function. to perform the polyp detection
+function.
+Power Source Hospital mains power Hospital mains power
+Safety Features The Video Display Switch allows for Unknown
+instantaneous toggling between the
+SKOUT™ video feed and the standard
+video feed in the event of software
+error that affects video quality.
+The polyp detection marker is disabled
+if a biopsy tool enters the field of view
+to prevent obstruction of the area of
+interest during intervention.K213686
+Page 4 of 16
+SKOUTTMSystem GI Genius
+SKOUTTMsystem GUI also has a
+device status indicator, a green
+square, located in the top left corner of
+the SKOUT™ video feed. This GUI
+feature is an additional provide a
+check to the user that the SKOUTTM
+system is on and in use, even when
+polyp detection notifications are not on
+the screen to prevent undesired use of
+the AI.
+Device Output SKOUTTMsystem generates markers During a colonoscopy, the GI
+in the form of blue rectangles Genius system generates markers,
+superimposed on the endoscopic which look like green squares and
+video when potential colorectal polyps are accompanied by a short,
+are identified. SKOUT™ markers are low-volume sound, and
+not accompanied by a sound. superimposes them on the video
+from the endoscope camera when it
+The polyp detection marker is disabled
+identifies a potential lesion.
+if a biopsy tool enters the field of view
+to prevent obstruction of the area of
+interest during intervention.
+The SKOUT™ system and GI Genius have the same intended use, similar indications for use,
+comparable user population, hardware and software characteristics. Both devices provide as an
+output polyp detection markers that are superimposed onto endoscopic videos. Though there are
+minor differences between the two devices, such as the Video Display Switch and the low-volume
+sound, these differences do not raise different questions of safety and effectiveness as
+demonstrated by the non-clinical and clinical performance evaluation results.
+Performance Data
+The following testing was conducted for the SKOUTTM system with data included in the 510(k)
+document.
+Software Verification and Validation
+Software verification and validation was conducted for the SKOUT™ software to validate it for its
+intended use per the design documentation in line with recommendations outlined in General
+Principles of Software Validation, Guidance for Industry and FDA Staff. The SKOUT™ software
+demonstrated passing results on all applicable unit, integration, and requirements testing.
+Electrical Safety/Electromagnetic Compatibility
+The SKOUTTM system was evaluated for compliance to the following FDA-Recognized Consensus
+Standards:
+● IEC 60601-1:2005, AMD 1:2012 - Medical electrical equipment – Part 1: General
+requirements for basic requirements for basic safety and essential performanceK213686
+Page 5 of 16
+● IEC 60601-1-2: 2014 - Medical electrical equipment – Part 1-2: General requirements for
+basic requirements for basic safety and essential performance – Collateral standard:
+Electromagnetic compatibility – Requirements and tests
+● IEC 60601-2-18: 2009 -Medicalelectricalequipment–Part2-24:Particularrequirementsfor
+the basic safety and essential performance of endoscopic equipment
+Non-clinical performance testing
+The following non-clinical performance testing areas, and corresponding results, were conducted:
+● Standalone algorithm performancetesting;The Standalone Performance Assessment was
+performed to assess trends in the detection and classification of the SKOUT™ system
+and determine its ability to discriminate between normal mucosa and polyp tissue. This
+includes analysis of a predefined set of 79 HD videos with 94 polyps of relevant
+non-clinical performance metrics to evaluate this performance. These metrics
+comprehensively encompass standalone SKOUTTM system performance in relation to
+the algorithm’s ability to detect and highlight potential polyps with a bounding box on
+colonoscopy videos. Of the 94 polyps included in this analysis, SKOUT™ detected 92
+polyps.
+● Annotation methods:
+Annotation was performed by a team of trained annotators who were assessed on their ability to
+successfully identify and correctly label polyps.
+Ground truth was defined as data reviewed and either validated or created by expert
+gastroenterologists through a process referred to as gastroenterologist review. During
+gastroenterologist review, experts reviewed and either validated, rejected or created new labels
+post primary annotation. Gastroenterologist labels serve as the ground truth for frame level True
+Positive Rate (TPR), False Positive Rate(FPR) and object level TPR, FPR.
+● Primary Endpoints
+1. Object Level TPR: The proportion of suspected polyps that were detected by the
+device in the evaluation dataset and confirmed to be polyps using pathology findings.
+This metric demonstrates object/polyp level performance of the device algorithm.
+2. Object Level FPs: The number of suspected polyps that the device bounds per
+procedure which are not confirmed to be polyps by a) resection and b) pathology
+findings.
+● Secondary Endpoints
+1. Frame Level TPR: The proportion of all the frames with confirmed polyps in which
+the device bounds the polyp in the evaluation dataset.
+2. Frame Level FPR: The proportion of frames in which the device bounds an object
+that is not detected by the gastroenterologist in a colonoscopy during normal use
+(does not include frames when a surgical tool or NBI is detected).K213686
+Page 6 of 16
+● Demographics
+Table 2: Demographic and Baseline Information
+Demographics (Total no. of videos = 79)
+Sex No. of Videos
+Male 34
+Female 45
+Race
+White 72
+Asian 3
+Black or African American 2
+Not Reported - Declined 2
+Ethnicity
+Hispanic or Latino Heritage 0
+Non-Hispanic or Latin Heritage 78
+Declined 1
+Endoscopic Processor
+EVIS EXERA III processor CV-190 79
+● Results
+Table 3: Primary and Secondary Endpoints Results
+Object Level True Positive 97.87 (95% CI: 94.96, 100.0)
+Rate (TPR)
+Object Level False Positive 22.55 objects per a 15 minute
+(FP) interval (95% CI: 18.954, 26.148)
+Frame level performance (79 videos / 94 polyps)
+True positive: 193,861
+True negative: 3,459,211
+False positive: 81,930
+False negative: 154,429
+True positive rate per frame Mean: 55.66 % (95% CI: 55.50,
+55.83)
+False positive rate per Mean: 2.31% (95% CI:2.16 -
+frame 2.44)
+● Subgroup analysis of endpoints
+Table 4: Subgroups analysis of endpoints
+Total Videos = 79, Total Polyps = 94, Total Detected Polyps = 92K213686
+Page 7 of 16
+95 %
+Confidenc
+95 % e Interval
+Confidenc for mean
+e Interval mean Object FP
+for Object Object FP (15-min
+Polyps Total Object TPR (15 min interval)
+Detected Polyps TPR [low, high] interval) [low, high]
+Sex
+[93.61, [19.387,
+Male 45 46 97.83% 100.0] 25.66 31.927]
+[93.88, [15.934,
+Female 47 48 97.92% 100.0] 20.2 24.4746]
+Age
+40 years to 64 [95.17, [17.002,
+years 60 61 98.36% 100.0] 21.54 26.081]
+65 years and [91.12, [18.429,
+up 32 33 96.97% 100.0] 24.61 30.788]
+Size(mm)
+[94.45,
+0 - 4 35 36 98.11% 100.0] N/A N/A
+[95.09,
+5 - 9 47 48 98.13% 100.0] N/A N/A
+[100.0,
+10+ 10 10 100.00% 100.0] N/A N/A
+Histology
+[100.0,
+Adenoma 50 50 100.00% 100.0] N/A N/A
+[100.0,
+SSLs 16 16 100.00% 100.0] N/A N/A
+Hyperplastic [89.55,
+Polyp 16 17 96.43% 100.0] N/A N/A
+Inflammatory [100.0,
+Polyp 2 2 100.00% 100.0] N/A N/A
+Not
+Histologically a [79.79,
+Polyp 5 6 90.91% 100.0] N/A N/A
+[100.0,
+Unknown 3 3 100.00% 100.0] N/A N/A
+RaceK213686
+Page 8 of 16
+[100.0, [30.512,
+Declined 2 2 100.00% 100.0] 37.72 47.189]
+[94.08, [18.364,
+White 78 80 97.50% 100.0] 21.91 25.46]
+[100.0, [9.012,
+Asian 11 11 100.00% 100.0] 34.69 78.4]
+Black or
+African [100.0, [5.269,
+American 1 1 100.00% 100.0] 12.18 19.622]
+● Marker Persistence is defined as the continuous uninterrupted detection of a target in
+time. Alternatively, it can be explained as the time (in milliseconds) from the first
+appearance of a marker on a polyp until the first disappearance of the marker for the
+same polyp.
+A sensitivity analysis of marker persistence is performed with all 79 videos denoting
+the object-level True Positive Rate and False Positive event count (mean per 15
+minute session) as a function of marker persistence.
+The following graph demonstrates that markers with higher persistence have a
+higher likelihood to be true positives.
+Figure 1: Polyp TPR based on Marker Persistence
+The plot below shows FP events (per 15 min) as a function of marker persistence. The
+graph demonstrates that the majority of FP events occur with markers that persist for 1
+second or less.K213686
+Page 9 of 16
+Figure 2: Polyp FP Event count (mean per 15 min session) based on Marker Persistence
+● Marker Overlap: In order to not obstruct gastroenterologists’ view of polyps,
+SKOUT™ artificially increases the size of the boxes output by its AI algorithm.
+Various metrics are used to understand SKOUT™’s overlap performance with the
+ground truth reference standards.
+Intersection over Union (IOU) is the ratio of area of intersection of the SKOUT™
+signal with just the intersection of the two boxes over the total area of both boxes
+(Figure 03). This calculation means that when comparing SKOUT’s performance
+(artificially increased bounding box), the IOU figure should be low.
+Figure 03: IOU
+Intersection over Ground Truth (IOGT) is the ratio of area of intersection of
+SKOUT™ signal with ground truth bounding box over the area of the ground truth
+box (Figure 04). An IOGT value of 1 indicates that the ground truth box is fullyK213686
+Page 10 of 16
+engulfed by the SKOUT™ signal.
+Figure 04: IOGT
+Our results show that our IOU was 0.299. More importantly, our IOGT value was
+1.0 which indicates that on a median basis, all polyps were engulfed by a SKOUT
+bounding box.
+Table 05: Signal overlap analysis
+Mean, 95% confidence interval if IOU of 0.299, [0.289, 0.309]
+signal on 411 samples
+Median IOGT of signal 1.0
+● Special Control Testing
+● Pixel-level comparison of degradation of image quality due to the device; No visually
+detectable differences between images were found with the introduction of the
+SKOUT™ system.
+● Assessment of video delay due to marker annotation; 56.00ms (95% CI: 50.54,
+61.46) and 3.25 (95% CI: 2.93, 3.56) frame delay for Serial Digital Interface (SDI)
+and 62.33ms (95% CI: 60.76, 63.90) and 3.74 (95% CI: 3.65, 3.83) frame delay for
+Digital Visual Interface (DVI).
+● Assessment of real-time endoscopic video delay due to the device; 56.67ms (95%
+CI: 51.01, 62.33) and 3.28 (95% CI: 2.96, 3.62) frame delay for SDI and 60.67ms
+(95% CI: 57.72, 63.61) and 3.64 (95% CI: 3.46, 3.81) frame delay for DVI.
+Human Factors
+Human factors validation was performed following the FDA Guidance document Applying Human
+Factors and Usability Engineering to Medical Devices, Guidance for Industry and FDA Staff
+recommendations. The human factors validation demonstrated that the device functioned as
+intended, use-related risk has been mitigated, and the SKOUTTMsystem is safe for its intended use.K213686
+Page 11 of 16
+Clinical Testing
+A multicenter, prospective, randomized controlledtrialoftheSKOUTTMsystemwasconductedinthe
+United States in order to evaluate thesafetyandefficacyofthisdevice.Thestudydesigninvolved2
+arms in which adult patients undergoing either screening or surveillance colonoscopy procedures
+were randomized to either an AI-aided arm (standard colonoscopy with the use of the SKOUT™
+system), or the control arm (standard colonoscopy without the use of the SKOUT™ system).
+The aim of this study is to evaluate the clinical benefit and safety of using a computer-aided
+detection (CADe) device, the SKOUTTM system, in colonoscopy procedures with the indication
+of screening or surveillance.
+Inclusion Criteria:
+● Undergoing colonoscopy with screening or surveillance.
+● Whose endoscopist is a participating provider.
+● Who have given informed consent.
+Exclusion Criteria:
+● Have a history of inflammatory bowel disease.
+● Have a history of familial adenomatous polyposis.
+● Are under the age of 40.
+● Have had a colonoscopy within the previous three (3) years.
+● Patients undergoing diagnostic colonoscopy with high risk indications including iron
+deficiency anemia, abnormal CT imaging, unexplained weight loss, Lynch Syndrome, blood
+in stool or FIT positive test.
+● Use anti-platelet agents or anticoagulants that preclude the removal of polyps during the
+procedure.
+● Entered with poor bowel preparation (inadequate for procedure as assessed by the
+Investigator).
+Provider’s Eligibility requirements:
+● United States board-certified gastroenterologist.
+● Has performed at least 1,000 colonoscopies.
+● Has an ADR greater than or equal to 25%.
+The co-primaryendpointsofthestudyincludedaperformanceendpoint(adenomaspercolonoscopy
+-APC) and a safety endpoint (positive percent agreement – PPA).
+● APC: The total number of adenomas detected divided by the total number of colonoscopies.
+● PPA**:PPA is the fraction of adenomas, sessile serrated lesions, and hyperplastic polyps
+of the proximal colon (caecum, ascending colon, hepatic flexure, and transverse colon)
+out of the total number of resections.
+● PPA (or PPV): It is the fraction of adenomas, sessile serrated lesions, and large
+(>10mm) hyperplastic polyps of the proximal colon (caecum, ascending colon, hepatic
+flexure, and transverse colon) out of total number of resections.
+Table 06:Demographics and Baseline InformationK213686
+Page 12 of 16
+A total of 1,359 patients were included in the modified Intention To Treat (mITT) population for
+primary analysis, including682whoreceivedacolonoscopywiththeSKOUT™systemand677who
+received a standard colonoscopy. The evaluation of our primary endpoints and secondary endpoint
+for the mITT population is summarized below:
+Table 07: Primary and Secondary Endpoints results for mITT populationK213686
+Page 13 of 16
+In the mITT cohort, PPA** was found to be 75.7% in the control arm (n=677) and 70.9% in the
+treatment arm (n=682), a difference of -4.8%. The 95% CI forthedifferenceis(-9.5%to0.3%)and
+the p-value is <0.001.
+No adverse events or complications were reported during the study.
+Table 08: Polyp Characteristics and Baseline InformationK213686
+Page 14 of 16
+Table 09: Relationship between size of resected polyps and their locationK213686
+Page 15 of 16
+Table 10: Relationship between size of resected polyps across histology:
+The results oftheclinicalperformanceasdocumentedinthepivotalclinicalstudyshowastatistically
+significant increase in APC, and PPA fell statistically within the prespecified noninferiority margin ,
+demonstrating that the performance of the SKOUTTM system achievedbenchmarkexpectationsand
+a safety and effectiveness profile comparable to the predicate device.
+ConclusionsK213686
+Page 16 of 16
+The SKOUTTMsystem has the same intended uses andsimilar indications, technological
+characteristics, and principles of operation as its predicate device. The minor differences in
+indications do not alter the intended use of the device and do not affect its safety and effectiveness
+when used as labeled. In addition, the minor technological differences between the SKOUTTM
+system and its predicate device do not raise different issues of safety or effectiveness. Performance
+data from this study demonstrate that the SKOUTTMsystem is as safe and effective as the predicate
+device. Thus, the SKOUTTMsystem can be consideredsubstantially equivalent.

@@ -1,0 +1,226 @@
+Zebra Medical Vision Ltd. December 4, 2020
+℅ Flair Bar
+VP Operations
+Shefayim Commercial Center
+PO Box 25
+Shefayim, 6099000
+ISRAEL
+Re: K202487
+Trade/Device Name: HealthJOINT
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: November 3, 2020
+Received: November 6, 2020
+Dear Flair Bar:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.20
+Silver Spring, MD 20993
+www.fda.govK202487 - Flair Bar Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure5. 510 (k) Summary
+510(K) Summary - HealthJOINT
+Zebra Medical Vision Ltd.
+510(k) Number – K202487
+Applicant’s Name: Zebra Medical Vision Ltd.
+Shefayim Commercial Center
+PO Box 25
+Shefayim, 6099000
+ISRAEL
+Telephone: +972-9-8827795
+Fax: +972-9-8827795
+Date Prepared: November 03, 2020
+Trade Name: HealthJOINT
+Classification Name:
+LLZ – Picture Archiving and Communication System
+Classification:
+Class II, Radiology
+Predicate Device:
+The HealthJOINT device is substantially equivalent to the following device:
+Proprietary Name Efficient Care 3D Planning
+Premarket Notification K183544
+Classification Name Picture Archiving and Communication System
+Regulation Number 21 CFR 892.2050
+Product Code LLZ
+Regulatory Class II
+Performance Standards:
+No performance standards have been established for such device under Section 514 of the Federal Food,
+Drug, and Cosmetic Act.
+Intended Use/Indication for Use:
+The Zebra HealthJOINT device is a software tool for 3D reconstruction of bones from a set of 2D
+radiographs. The device is intended for assisting clinicians in the preoperative planning of knee orthopedic
+5-1
+Zebra Medical Vision Ltd.surgical procedures. Zebra’s HealthJOINT analyzes cases using an artificial intelligence algorithm for the
+3D model reconstruction. In addition to the model, the software provides a list of anatomical landmarks
+with their position on the 3D model.
+The result is made available via a 3rd parties’ software interface for further display and analysis of the 3D
+bone model.
+Clinical judgement and experience are required to properly use the models produced by this software.
+Device Description:
+Zebra’s HealthJOINT device is a software product that uses an artificial intelligence algorithm to analyze
+X-ray scans. The HealthJOINT is indicated for the analysis of X-rays scans. The device receives a set of
+2D radiographs and automatically provides a 3D model of the bones together with a list of anatomical
+landmarks with their position on the 3D model. The 3D model may be used by physicians for pre-operative
+planning of knee orthopedic surgeries. The HealthJoint supports 3D reconstructions of healthy bones, and
+osteoarthritis patients graded 1 to 4 based on the Kellgren-Lawrence grading system.
+The HealthJOINT device functions as a component that can be used by 3rd parties via an API to generate
+the 3D models and provides a list of anatomical landmarks with their position on the 3D model. The
+software communicates with the API only, and is not user-facing. The software does not recommend
+clinical decisions or treatment.
+The software is intended for use by clinicians in conjunction with additional patient information and
+professional judgment.
+The following modules compose the HealthJoint software:
+Data input and validation: performs validation of the input, X-ray DICOM images, assesses the input
+data (i.e. age, modality, view) to ensure compatibility for processing by the algorithm.
+HealthJoint algorithm: Once the study has been validated the algorithm analyzes the AP (anterior-
+posterior) along with the LAT (lateral) knee X-ray study in order to provide 3D bone models and locations
+of anatomic landmarks.
+IMA Integration feature: provides the capability to post studies for processing, get the study analysis
+status and the results of successful study analysis via a Web API.
+Error codes feature: In the case of a study failure during data validation or the analysis by the algorithm,
+an error is provided to the calling 3rd party via the Web API.
+Performance Data:
+Safety and performance of HealthJOINT has been evaluated and verified in accordance with software
+specifications and applicable performance standards through Software Development and Validation &
+Verification Process to ensure performance according to specifications, User Requirements and Federal
+Regulations and Guidance documents, “Guidance for the Content of Premarket Submissions for Software
+Contained in Medical Devices”.
+The HealthJOINT device performance was evaluated in a stand-alone retrospective study for accuracy of
+the 3D model of the Femur, Tibia, and Fibula (RMSE) and the accuracy of the three-dimensional
+positioning of the anatomic landmarks on the Femur and Tibia. The 3D model accuracy and the anatomical
+landmark positioning were evaluated comparing to the pre-defined success criteria. The data set for the 3D
+model accuracy included 67 pairs of a Knee X Ray and a CT scan of the same patient within a maximum
+5-2
+Zebra Medical Vision Ltd.time frame of 6 months. Performance accuracy of the HealthJOINT software was compared to an
+established Ground Truth by an experienced US Board-Certified radiologist.
+The HealthJOINT software performance accuracy was determined by measuring the RMSE (Root Mean
+Square Error), versus the ground truth. The HealthJOINT device performance for the Femur was an RMSE
+of 1.14 (95% CI: [1.097,1.187]), for the Tibia an RMSE of 1.05 (95% CI: [1.005,1.087]), and for the Fibula
+an RMSE of 0.94 (95% CI: [0.891, 0.986]). The device performance met the pre-defined success criteria.
+Additionally, HealthJOINT performance accuracy in the identification of the anatomic landmark
+positioning versus the ground truth was determined by measuring the distance between the software
+landmarks positioning and the ground truth in mm, in terms of the standard deviation of the distance. The
+HealthJOINT software device precision met the performance goal. In conclusion, this study demonstrated
+the HealthJOINT safety and effectiveness and meets its intended use statement.
+Technological Characteristics Compared to Predicate Device:
+The technological characteristics, e.g., overall design, mechanism of action, mode of operation,
+performance characteristics, etc., and the intended use of the HealthJOINT device are substantially
+equivalent to the predicate device cited above.
+A comparison of the technological characteristics with the predicate device is summarized below.
+Technological Proposed Device: Predicate Device: Summary
+Characteristics HealthJoint Efficient Care 3D Planning
+(K183544)
+Intended The Zebra HealthJOINT device is Efficient Care 3D Planning is Similar. In
+Use/Indications for a software tool for 3D software indicated for assisting addition to the 3D
+Use reconstruction of bones from a set orthopedic surgeons in preoperative reconstruction and
+of 2D radiographs. The device is planning of knee orthopedic 3D/2D overlay for
+intended for assisting clinicians surgeries. The software allows for the visualization
+in the preoperative planning of the overlaying of 3D/2D implant of radiological
+knee orthopedic surgical models and for the visualization of images, the
+procedures. Zebra’s the radiological images and 3D predicate device
+HealthJOINT analyzes cases reconstruction of bones, and also provide tools
+using an artificial intelligence includes tools for performing for performing
+algorithm for the 3D model measurements on the images or 3D measurements and
+reconstruction. In addition to the model of bones, and for selecting for selecting the
+model, the software provides a list and positioning the implant model. implant model.
+of anatomical landmarks with Clinical judgments and experience
+their position on the 3D model. are required to properly use the
+The result is made available via a software.
+3rd parties’ software interface for
+further display and analysis of the Efficient Care 3D Planning is to be
+3D bone model. used with the following fixed
+Clinical judgement and bearing knee replacement systems
+experience are required to in accordance with their indications
+properly use the models produced and contraindications: NexGen®
+by this software. CR, NexGen CR-Flex, NexGen
+CR-Flex Gender, NexGen LPS,
+NexGen LPS-Flex, NexGen
+LPSFlex Gender, Persona® CR,
+5-3
+Zebra Medical Vision Ltd.Persona PS, Vanguard® CR, and
+Vanguard PS.
+Classification/Produc 21 CFR 892.2050/LLZ 21 CFR 892.2050/LLZ Same
+t code
+User Prespecified clinical users Prespecified clinical users Same
+(clinicians) (clinicians)
+Radiological images DICOM DICOM Same
+format
+Modality X-ray X-ray Same
+Body part Knee Knee Same
+Software processing Image segmentation and Image segmentation and processing Same
+processing
+Output 3D bone reconstruction 3D bone reconstruction Same
+2D/3D Overlay Yes Yes Same
+Anatomic Landmarks Yes Yes Same
+Measurement Tools No Yes Different, but do
+not raise
+questions of
+safety and
+effectiveness.
+Implant Predictability No Yes Different, but do
+not raise
+questions of
+safety and
+effectiveness.
+Substantial Equivalence:
+Based on the information submitted in this premarket notification, and based on the indications for use,
+technological characteristics and performance testing, HealthJoint device raises no new questions of safety
+and effectiveness and is substantially equivalent to the predicate device in terms of safety and effectiveness.
+The subject device has the same intended use, similar indications for use, and technological characteristics
+as the predicate device.
+The results of the performance comparison study demonstrated that the HealthJoint device performs as
+intended, in the specified use conditions, and thus demonstrates the safety and effectiveness of the subject
+device.
+The HealthJoint device is therefore substantially equivalent to the predicate device and share the same
+intended use and technological characteristics.
+5-4
+Zebra Medical Vision Ltd.

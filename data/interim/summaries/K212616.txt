@@ -1,0 +1,858 @@
+Koios Medical, Inc.
+℅ Patricia Setti-Laperch
+December 16, 2021
+Director of Regulatory Compliance and Quality
+242 West 38th Street, 14th Floor
+NEW YORK NY 10018
+Re: K212616
+Trade/Device Name: Koios DS
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological computer-assisted diagnostic software for lesions
+suspicious of cancer
+Regulatory Class: Class II
+Product Code: POK, QIH
+Dated: November 12, 2021
+Received: November 15, 2021
+Dear Patricia Setti-Laperch:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK212616 - Patricia Setti-Laperch Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK212616
+510(k) Summary of Safety and Effectiveness
+This 510(k) summary of safety and effectiveness information is submitted as part of the Premarket Notification
+in accordance with the requirements of 21 CFR Part 807, Subpart E and Section 807.92.
+1.Identification of Submitter:
+Submitter: Koios Medical Inc.
+Address: 242 West 38th Street, 14th Floor
+New York, NY 10018
+Phone: 732-529-5755
+Fax: 732-529-5757
+Contact: Patricia Setti-Laperch
+Title: Director of Regulatory Compliance and Quality
+Phone: 732-529-5755
+Fax: 732-529-5757
+Summary Date: December 16, 2021
+2.Identification of Product:
+Device Name: Koios DS, Version 3.0
+Device Common Name: Radiological Computer-Assisted Diagnostic Software
+Device Classification: 21 CFR 892.2060, Class II, POK (primary)
+21 CFR 892.2050, Class II, QIH (secondary)
+Classification Name: Radiological Computer-Assisted Diagnostic Software (CADx) for
+Lesions Suspicious for Cancer
+Manufacturer: Koios Medical, Inc.
+3.Marketed Devices
+In terms of safety and performance, this software medical device is substantially equivalent to the devices listed
+below:
+Model: Koios DS for Breast
+Manufacturer: Koios Medical, Inc.
+510(k) Number: K1904424. Device Description
+Koios DS is a software application designed to assist trained interpreting physicians in analyzing breast and
+thyroid ultrasound images. The software device is a web application that is deployed to a Microsoft IIS web
+server and accessed by a user through a compatible client. Once logged in and granted access to the Koios DS
+application, the user examines selected breast or thyroid ultrasound DICOM images. The user selects Regions of
+Interest (ROIs) of orthogonal views of a breast lesion or thyroid nodule for processing by Koios DS. The ROI(s) are
+transmitted electronically to the Koios DS server for image processing and the results are returned to the user
+for review.
+Breast Functionality:
+Koios DS software automatically classifies breast lesions suspicious for cancer based on image data into one of
+four ACR BI-RADS® Atlas1,2 or European U1-U53 Classification System-aligned categories (Benign, Probably
+Benign, Suspicious or Indeterminate, or Probably Malignant) and also displays a continuous graphical Confidence
+Level Indicator depicting where the lesion falls within its respective category and its relation to neighboring
+categories. The software automatically classifies the shape (Round, Oval, Irregular) and orientation (Parallel, Not
+Parallel) of the selected lesion.
+Thyroid Functionality:
+Koios DS is a software medical device used to analyze ultrasound data to classify user-selected regions
+containing thyroid nodules suspicious for cancer. The software generates a set of user-editable sonographic
+nodule descriptor recommendations (Composition, Echogenicity, Shape, Margin, Echogenic Foci) along with an
+optional, deep-learning derived cancer risk assessment of the suspected nodule from two orthogonal views.
+Nodule descriptor recommendations are subsequently mapped to a categorical assessment and risk level rating
+via the ACR TI-RADS ATLAS™4,5 or American Thyroid Association (ATA)6 risk stratification systems (RSSs) based on
+user preference. The software’s direct, non-descriptor-based cancer risk assessment is presented as the Koios
+“AI Adapter” that, when used in conjunction with the ACR TI-RADS or ATA guidelines for nodule risk
+stratification, is shown to improve overall diagnostic performance of both systems. The AI Adapter operates as
+an optional lexicon-specific input used to modify the final categorization in the ACR TI-RADS and ATA RSSs. The
+AI adapter positively impacts performance through either a point-based modification (either positive or
+negative) or a risk-shift modification (either positive or negative) for ACR TI-RADS and the ATA systems,
+1
+BI-RADS® ATLAS is a registered trademark of American College of Radiology. All Rights Reserved.
+2
+ACR BI-RADS Atlas: https://www.acr.org/-/media/ACR/Files/RADS/BI-RADS/US-Reporting.pdf
+3
+European Guidelines for Quality Assurance in Breast Cancer Screening and Diagnosis (Health & Consumer Protection Directorate – General). Fourth
+Edition. Editors: N. Perry, M. Broeders, C. de Wolf, S. Törnberg
+4
+TI-RADS™ ATLAS is a trademark of American College of Radiology. All Rights Reserved.
+5
+ACR Thyroid Imaging, Reporting and Data System (TI-RADS): White Paper of the ACR TI-RADS Committee. Tessler, Franklin N. et al. Journal of the
+American College of Radiology, Volume 14, Issue 5, 587 - 595
+6
+2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American
+Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer. Haugen, Alexander, et al., Thyroid. Jan 2016, 26(1): 1-
+133.
+510(k) Summary Koios Medical, Inc. 2respectively. This process creates an AI-augmented categorization that is meant to be used with no other
+modifications to the decision-making pathway of either RSS. A trained interpreting physician may choose to
+incorporate or exclude the Koios AI Adapter from the overall assessment when finalizing their diagnostic
+interpretation.
+Koios DS enables the following functionality:
+● Breast and Thyroid diagnostic core AI engines enabled by state-of-the-art computer vision and machine
+learning techniques capable of reading, interpreting, analyzing, classifying and generating findings from
+ultrasound image data resulting in an automated risk assessment for breast lesions and thyroid nodules
+suspicious for cancer
+● Automatic classification of thyroid nodules aligned to both TI-RADS and ATA descriptors of:
+Composition, Echogenicity, Shape, Margin, and Echogenic Foci based on user-selected regions of
+interest (ROIs)
+● Automatic classification of breast lesion BI-RADS and U1-U5 Descriptors Shape and Orientation based on
+user-selected or confirmed regions of interest (ROIs)
+● Annotation and description of ultrasound images based on ACR BI-RADS Breast Imaging Atlas and U1-U5
+for Koios DS Breast
+● Annotation and description of ultrasound images based on and ACR TI-RADS Atlas and ATA classification
+guidelines for Koios DS Thyroid
+● Reporting forms for breast lesion or thyroid nodule identification and tracking in the Electronic Health
+Record
+● Smart Calipers - extraction of user-supplied ROI data (alternately referred to as Calipers) embedded in
+DICOM SR files from the ultrasound modality
+● Smart Click (Breast only) - generation of automated ROI based on user-supplied position (click on a
+lesion) within the image
+● Ability to save findings to PACS
+● Ability to export findings to reporting software
+● Remote analysis interface to generate and view results within compatible software (e.g. ultrasound
+equipment or PACS workstation software)
+● Installer and Configuration Wizard
+● Single Sign-on (SSO) Windows and LDAP Authentication
+● Operating system and platform-agnostic usage
+● Zero-footprint web-based HTML5 DICOM image viewer with image manipulation and annotation tools
+User Profile:
+Koios DS is for use by trained professionals only. Koios DS is not for use by patients. Users must have appropriate
+medical professional competence, such as trained sonographers and interpreting physicians.
+510(k) Summary Koios Medical, Inc. 3Use Environment:
+Koios DS is a software application for use within a healthcare setting for the examination and assessment of
+breast lesions or thyroid nodules using ultrasound. It is a platform-agnostic web application that queries and
+accepts DICOM compliant digital medical files from any compliant device subject to the specified DICOM
+Conformance Statement for Koios DS. Processing of the image(s) occurs in conjunction with a trained
+interpreting physician’s typical diagnostic case read. The output of the system is a digital display to be used as a
+concurrent read and report input that may be added as an addendum to the DICOM series selected for
+processing or exported directly into a patient’s draft report.
+Operating Principle:
+Koios DS is an ASP.NET web application deployed to a Microsoft IIS web server inside a Windows operating
+system environment accessed by a user through a compatible client. The application provides image-derived
+data via web triggering and remote analysis.
+Once logged in and granted access to the Koios DS application, the user examines selected breast and thyroid
+ultrasound DICOM images. The user selects or confirms up to two ROIs, from up to two orthogonal views that
+represent a single breast lesion for processing by the system. For thyroid functionality, two ROIs are required for
+analysis by the system. The first ROI must be drawn on the transverse view, with the second on the longitudinal
+view of the nodule. For breast functionality, bench testing has verified a single ROI does not significantly
+decrease system AUC performance. The ROI(s) are transmitted electronically to the Koios DS server by the Koios
+DS Breast or Koios DS Thyroid software for image processing and the results are returned to the user for review
+in the respective interface. Images and data can be stored, communicated, processed, and displayed within the
+system and/or across computer networks at distributed locations.
+The software does not require any specialized hardware to return a diagnostic output, but the time to process
+ROIs will vary depending on the hardware specifications.
+Koios DS contains two distinct AI/ML engines to characterize breast lesions and thyroid nodules. Based on the
+structured data that exists within the DICOM header for a patient study, the Koios DS system calls the
+corresponding engine for analysis of the identified lesion or nodule. Each system uses computer vision and
+machine learning techniques embedded within an engine capable of reading, interpreting, analyzing, and
+generating findings from ultrasound data. The underlying breast and thyroid engines draw upon knowledge
+learned from a large database of known cases, tying image features to their eventual diagnosis, to form a
+predictive model.
+Koios DS results can be saved or transferred in three separate ways: in-transit transmission, saving to Picture
+Archiving and Communication System (PACS), and exporting results to third-party reporting software. In-transit
+transmission may be utilized when users wish to share analyses across viewing workstations. Results can be
+stored in in-transit memory for a preset period of time defined by a system administrator. After that preset
+period of time, all results are wiped from the local memory. Another method of saving is storing a report in the
+patient study on the PACS. After single or multiple lesion or nodule analyses have been performed and
+ultimately accepted by a trained interpreting physician, Koios DS can export a summary report to PACS as an
+510(k) Summary Koios Medical, Inc. 4addendum to the DICOM study that was selected for processing. This report serves as future reference and aid
+in the comparison of cases requiring follow up. This functionality is strictly reserved for approved users and must
+be configured by a site administrator.
+Koios DS also supports exporting results to third-party reporting software to facilitate the reporting process.
+Saving or exporting preferences can be configured by the system administrator and user.
+5. Indications for Use
+Koios DS is an artificial intelligence (AI)/machine learning (ML)-based computer-aided diagnosis (CADx) software
+device intended for use as an adjunct to diagnostic ultrasound examinations of lesions or nodules suspicious for
+breast or thyroid cancer.
+Koios DS allows the user to select or confirm regions of interest (ROIs) within an image representing a single
+lesion or nodule to be analyzed. The software then automatically characterizes the selected image data to
+generate an AI/ML-derived cancer risk assessment and selects applicable lexicon-based descriptors designed to
+improve overall diagnostic accuracy as well as reduce interpreting physician variability.
+Koios DS may also be used as an image viewer of multi-modality digital images, including ultrasound and
+mammography. The software includes tools that allow users to adjust, measure and document images, and
+output into a structured report.
+Koios DS software is designed to assist trained interpreting physicians in analyzing the breast ultrasound images
+of adult (>= 22 years) female patients with soft tissue breast lesions and/or thyroid ultrasounds of all adult (>=
+22 years) patients with thyroid nodules suspicious for cancer. When utilized by an interpreting physician who
+has completed the prescribed training, this device provides information that may be useful in recommending
+appropriate clinical management.
+Limitations:
+• Patient management decisions should not be made solely on the results of the Koios DS analysis.
+• Koios DS software is not to be used for the evaluation of normal tissue, on sites of post-surgical excision, or
+images with doppler, elastography, or other overlays present in them.
+• Koios DS software is not intended for use on portable handheld devices (e.g. smartphones or tablets) or as a
+primary diagnostic viewer of mammography images.
+• The software does not predict the presence of the thyroid nodule margin descriptor, extra-thyroidal extension.
+In the event that this condition is present, the user may select this category manually from the margin descriptor
+list.
+510(k) Summary Koios Medical, Inc. 56. Substantial Equivalence Chart
+Product Koios DS for Breast Koios DS
+(K190442) (subject device)
+Physical Software Package Software Package
+Characteristics Operates on off-the-shelf hardware Operates on off-the-shelf hardware
+Storage Storage not supported Storage not supported
+Image Input DICOM DICOM
+Characteristics Decision support device used to assist Decision support device used to assist in
+in the assessment and the assessment and characterization of
+characterization of breast lesions breast lesions and thyroid nodules using US
+using US image data. image data.
+Intended Koios Decision Support (DS) for Breast Koios Decision Support (DS) is an artificial
+Use/Indications is a software application designed to intelligence (AI)/machine learning (ML)-
+for Use assist trained interpreting physicians based computer-aided diagnosis (CADx)
+in analyzing the breast ultrasound software device intended for use as an
+images of patients with soft tissue adjunct to diagnostic ultrasound
+breast lesions who are being referred examinations of lesions suspicious for
+for further diagnostic ultrasound breast or thyroid cancer.
+examination.
+Koios DS allows the user to select or
+Koios DS for Breast is a machine confirm regions of interest (ROIs) within an
+learning-based decision support image representing a single lesion or
+system, indicated as an adjunct to nodule to be analyzed. The software then
+diagnostic ultrasound for breast automatically characterizes the selected
+cancer. image data to generate an AI/ML-derived
+cancer risk assessment and selects
+Koios DS for Breast automatically applicable lexicon-based descriptors
+classifies user-selected region(s) of designed to improve overall diagnostic
+interest (ROIs) containing a breast accuracy as well as reduce interpreting
+lesion into four BI-RADS-aligned physician variability.
+categories (Benign, Probably Benign,
+Suspicious, Probably Malignant), and Koios DS software may also be used as an
+displays a continuous graphical image viewer of multi-modality digital
+confidence level indicator of where images, including ultrasound and
+the lesion falls across all categories. mammography. The software includes
+Koios DS for Breast also automatically tools that allow users to adjust, measure
+classifies lesion shape and orientation and document images, and output into a
+according to BI-RADS descriptors. structured report.
+The software requires a user to select Koios DS software is designed to assist
+up to two ROIs, from up to two trained interpreting physicians in analyzing
+orthogonal views, that represent a the breast ultrasound images of adult (>=
+single lesion to be selected and 22 years) female patients with soft tissue
+processed. When utilized by an breast lesions and/or thyroid ultrasounds
+interpreting physician who has of all adult (>= 22 years) patients with
+completed the prescribed training, thyroid nodules suspicious for cancer.
+510(k) Summary Koios Medical, Inc. 6this device provides information that When utilized by an interpreting physician
+may be useful in rendering an who has completed the prescribed
+accurate diagnosis. training, this device provides information
+that may be useful in recommending
+Patient management decisions should appropriate clinical management.
+not be made solely on the results of
+the Koios DS for Breast analysis. This
+device is intended to help trained
+interpreting physicians improve their
+overall accuracy as well as reduce
+inter- and intra-operator variability.
+Koios DS for Breast may also be used
+as an image viewer of multi-modality
+digital images, including ultrasound
+and mammography. The software
+includes tools that allow users to
+adjust, measure and document
+images, and output into a structured
+report.
+Target Population Koios Decision Support (DS) for Breast Koios DS software is designed to assist
+is a software application designed to trained interpreting physicians in analyzing
+(subset of above assist trained interpreting physicians the breast ultrasound images of adult (>=
+for comparison in analyzing the breast ultrasound 22 years) female patients with soft tissue
+purposes) images of patients with soft tissue breast lesions and/or thyroid ultrasounds
+breast lesions who are being referred of all adult (>= 22 years) patients with
+for further diagnostic ultrasound thyroid nodules suspicious for cancer.
+examination.
+Limitations for Limitations: Limitations:
+Use Koios DS for Breast is not to be used • Patient management decisions should
+on sites of post-surgical excision, or not be made solely on the results of the
+(subset of above images with doppler, elastography, or Koios DS analysis.
+for comparison other overlays present in them. • Koios DS software is not to be used for
+purposes) the evaluation of normal tissue, on sites of
+Koios DS for Breast is not intended for post-surgical excision, or images with
+the primary interpretation of digital doppler, elastography, or other overlays
+mammography images. present in them.
+• Koios DS software is not intended for use
+Koios DS for Breast is not intended for on portable handheld devices (e.g.
+use on mobile devices. smartphones or tablets) or as a primary
+diagnostic viewer of mammography
+images.
+• The software does not predict the
+presence of the thyroid nodule margin
+descriptor, extra-thyroidal extension. In
+the event that this condition is present, the
+user may select this category manually
+510(k) Summary Koios Medical, Inc. 7from the margin descriptor list.
+Modality Used for Breast Ultrasound Data Breast Ultrasound Data
+Analysis Thyroid Ultrasound Data
+Input Medical images provided in a DICOM Medical images provided in a DICOM
+format format
+ROI The software requires a user to select Breast
+Requirements up to two ROIs, from up to two The software requires a user to select up to
+orthogonal views, that represent a two ROIs, from up to two orthogonal
+single lesion to be selected and views, that represent a single lesion to be
+processed. selected and processed.
+Thyroid
+Two ROIs that represent a single lesion to
+be selected and processed are required for
+analysis.
+The first ROI is drawn on the transverse
+view of the nodule. The second is drawn on
+the longitudinal view.
+Output (Breast) Koios defined categorical and Koios DS Breast defined categorical and
+continuous outputs (confidence level continuous outputs (confidence level
+indicator) that align to BI-RADS and indicator) that align to BI-RADS, U1-U5, and
+auto-classified shape and orientation auto-classified shape and orientation.
+Output (Thyroid) N/A Koios DS Thyroid software automatically
+classifies thyroid nodules suspicious for
+cancer based on image data generating an
+output aligned to either the TI-RADS or
+ATA classification guidelines. The system
+automatically generates user-modifiable
+nodule descriptors (Composition,
+Echogenicity, Shape, Margin, Echogenic
+Foci) and a direct, image-derived cancer
+risk assessment that is translated into an
+optional lexicon-specific modifier.
+Comparative Metric: AUC Metric: AUC
+Clinical Cases: 900 Cases: 900
+Performance Readers: 15 Readers: 15
+Testing (Breast)
+Comparative N/A Metric: AUC
+Clinical Cases: 650
+Performance Readers: 15
+Testing (Thyroid)
+510(k) Summary Koios Medical, Inc. 87. Description of Similarities and/or Differences
+Intended Use/Indications for Use (IFU)
+Comparing the IFU of the predicate device Koios DS Breast (K190442) and Koios DS, there are several key
+similarities and differences outlined below:
+Both devices are intended to be utilized as diagnostic aids that operate on user-supplied
+Regions of Interest (ROIs). Koios DS Thyroid functionality requires two ROIs representing a single lesion to be
+selected and processed for analysis. The first ROI is drawn on the transverse view of the nodule. The second is
+drawn on the longitudinal view.
+The Koios DS system also contains the Smart Click (breast only) and Smart Caliper functionalities for streamlining
+the previously manual ROI selection process. The Smart Click functionality enables the user to click on the center
+of a lesion in order to activate a system-generated region of interest surrounding the selected lesion for the
+user. The Smart Calipers functionality ingests caliper data from compatible ultrasound devices with the
+capability to use a calculation package when drawing calipers on lesions. Koios DS can automatically generate
+ROIs and resulting analyses for the user based on this caliper data. Both Smart Click and Smart Caliper-generated
+ROIS can be edited or deleted by the user and have been demonstrated to have no adverse impact on the
+diagnostic outputs of the Koios DS engines.
+The intended use and indications for use statements have been updated from those of the predicate device in
+order to enhance labeling clarity and to detail the additional breast and thyroid cancer decision support
+functionality and limitations. These differences do not affect the safety and effectiveness of the device when
+used as a labeled Computer-Assisted Diagnostic software for lesions suspicious for cancer.
+Target Patient Population
+Both the Koios DS Breast predicate and the subject device are software applications designed to assist trained
+interpreting physicians in analyzing the ultrasound images of patients with soft tissue lesions who are being
+referred for further diagnostic ultrasound examination.
+Additional detail has been included to clarify the Koios DS Breast product indications for females, as well as to
+exclude pediatric use for Koios DS Breast and Koios DS Thyroid.
+Technological Characteristics
+Modality
+Koios DS shares the ultrasound modality requirements of Koios DS Breast and provides additional functionality
+for Thyroid ultrasound images.
+510(k) Summary Koios Medical, Inc. 9Input
+Per the respective device descriptions of Koios DS Breast and Koios DS, the input to each consists of medical
+images provided in a DICOM format. The technical implementation for ingesting images for processing occurs
+via the same DICOM-based interface. Based on the structured data that exists within the DICOM header for a
+patient study or a user selection, the Koios DS system calls the appropriate corresponding engine (Breast or
+Thyroid) for analysis of the identified lesion or nodule. The Koios DS system also contains the Smart Click and
+Smart Caliper functionalities for streamlining the previously manual ROI selection process. Regarding Region of
+Interest image input data, Koios DS Thyroid functionality requires two ROIs representing a single lesion to be
+selected and processed for analysis, whereas this is optional for breast.
+Output
+When comparing breast functionality, the predicate and subject devices differ only in the additional optional
+output display in alignment with the European U1-U5 Classification system for enhanced usability in
+international markets. Direct comparison with the Koios DS Breast v2.0 predicate engine’s categorical output
+performance determined there is a significant increase in AUC (5%), no significant change in sensitivity, and a
+significant increase (24%) in specificity. Koios DS retains the identical descriptor outputs and performance for
+the assessment of shape and orientation.
+Koios DS software contains functionality for automatically classifying thyroid nodules suspicious for cancer.
+Similar to Koios DS Breast, this is based on image data. The system generates an output aligned to either the TI-
+RADS or ATA classification guidelines (in comparison with BI-RADS and U1-U5 for breast). The system
+automatically generates user-modifiable thyroid nodule descriptors (Composition, Echogenicity, Shape, Margin,
+Echogenic Foci), analogous to the Shape and Orientation descriptors present in the breast functionality, and a
+direct, image-derived cancer risk assessment that is translated into an optional lexicon-specific (TI-RADS or ATA)
+modifier. Clinical data demonstrates that this provides a significant improvement in overall reader performance
+when utilizing Koios DS for the interpretation of thyroid ultrasound studies.
+Performance Testing
+To compare the performance of the subject device to the predicate device (K190442), a clinical study was
+conducted in order to assess the performance of the thyroid functionality of the subject device and bench
+testing was conducted on the updated breast functionality. As in the predicate device, ground truth for all breast
+analysis was determined by pathology or 1-year follow-up for cases that were not biopsied, whereas for thyroid
+it was determined exclusively via histo/cyto-pathology and/or surgical excision. The breast and thyroid engine
+validation sets are composed of 900 lesions from 900 different patients and 650 lesions from 650 different
+patients, respectively. Each was set aside from the systems’ training data for the purpose of validating
+performance.
+While operating on identical modalities, but different body regions (breast versus thyroid), similar primary
+endpoints were utilized in the clinical validation studies of the subject and predicate devices. Both clinical
+studies evaluated an Area Under the Curve (AUC) shift when comparing the performance of users alone versus
+users utilizing the respective software platform with a 1-month washout period. The number of cases evaluated
+in the predicate study was 900, while the subject device study evaluated a total of 650 cases which were both
+510(k) Summary Koios Medical, Inc. 10determined via power estimates utilizing pilot study estimates for effect size. The number of interpreting
+physicians utilized in both studies was 15 readers. Additionally, bench testing was conducted to assess the
+standalone performance, as measured by AUC, on identical breast validation datasets.
+The results of the subject device’s clinical study evaluating its impact on the diagnostic performance of thyroid
+lesion classification successfully met all primary endpoints demonstrating a 0.083 (0.066, 0.099 95% CI)
+improvement in parametric AUC on the overall dataset along with a stratified analysis of United States (US)-
+based readers on US-based cases demonstrating an improvement of 0.074 (0.051, 0.098 95% CI) in parametric
+AUC. The absolute improvement in AUC on the US-only stratification demonstrated a larger mean shift than
+seen in the predicate device’s study (0.074 versus 0.037).
+Previous clinical study evaluations reported in K190442 have demonstrated significant AUC improvements for
+readers utilizing Koios DS Breast. The subject device’s updated breast classification engine was compared to the
+predicate device on the same 900 case validation set and demonstrated a statistically significant shift in AUC to
+0.929 (0.913, 0.945 95% CI) from 0.882 (0.857, 0.907 95% CI). An additional 50 new cases were added to the set
+and evaluated to test the subject device for robustness to dataset drift. This additional test generated a resulting
+AUC of 0.930 [0.914, 0.946 95% CI], demonstrating there is no degradation in performance attributable to
+dataset drift.
+In conclusion, the subject device has demonstrated substantially equivalent performance to the predicate by
+showing statistically significant results against similar success criteria in both clinical and bench testing
+comparisons.
+8. Performance Testing – Bench/Non-Clinical
+Breast Engine
+Malignancy Risk Classification:
+Bench testing was performed on the updated breast engine to ascertain the degree of concordance with trained
+interpreting physicians. Ground truth for malignancy risk classification was determined by pathology or 1-year
+follow-up for cases that were not biopsied. The system was analyzed on 900 lesions from 900 different patients
+set aside from the system’s training data for the purpose of validating performance. Each lesion was
+represented by two orthogonal images (e.g. radial and anti-radial), providing a total of 1800 images. System
+performance on the 900 cases reported an AUC of 92.9%, with a Sensitivity of 0.97 [0.96, 0.99] and a Specificity
+of 0.61 [0.57, 0.66].
+Direct comparison with the prior (Koios DS Breast v2.0 predicate) engine’s performance determined there is a
+significant increase in AUC (5%), no significant change in sensitivity, and a significant increase (24%) in
+specificity.
+In summary, a comprehensive evaluation of the breast engines was conducted across key performance metrics
+and bench testing demonstrated that the system exceeds physician performance measured by AUC, sensitivity,
+510(k) Summary Koios Medical, Inc. 11and specificity. The engine’s shape and orientation predictions have not been modified from the previously
+cleared device (which demonstrated the required level of agreement with the subjective categorizations
+assigned by physicians). Testing characterizes the system’s sensitivity to shifts in the selected region of interests
+(ROI) and transducer frequency. Testing characterizes the system’s Positive Predictive Value (PPV), Negative
+Predictive Value (NPV), Positive Likelihood Ratio (PLR) and Negative Likelihood Ratio (NLR) in comparison with
+physicians. Testing demonstrates that the performance of the engine does not demonstrate degradation when
+regions of interest are provided by the Smart Click system, as compared to manually drawn regions of interest.
+In all tests, the Breast engine met or exceeded performance requirements.
+Thyroid Engine
+Bench testing was performed on the thyroid engine to ascertain the degree of concordance with trained
+interpreting physicians utilizing both the ACR TI-RADS and ATA classification systems. Ground truth for
+malignancy risk classification was determined by pathology results only. The system was analyzed on 500 lesions
+from 500 different patients set aside from the system’s training data for the purpose of validating performance.
+Each lesion was represented by two orthogonal images (e.g. radial and anti-radial), providing a total of 1000
+images.
+When applied to diagnoses made using ACR TI-RADS guidelines, the AI Adapter and descriptor predictors
+achieved an AUC of 79.8%, demonstrating a significant increase over the average physician AUC. When
+recommending biopsy, the system’s sensitivity is 0.644 [0.545, 0.744] and specificity is 0.612 [0.566, 0.658].
+When recommending follow-up, the system’s sensitivity and specificity are 0.879 [0.812, 0.946] and 0.495
+[0.446, 0.544], respectively. In both scenarios, bench testing of the system demonstrates a non-significant
+improvement in sensitivity and a significant improvement in specificity over the physician average.
+Tests demonstrating AI Adapter impact on ATA classifications yielded similarly improved performance. With
+application of the AI Adapter, physician AUC demonstrates a significant increase of 9.135% [5.975, 12.294].
+Sensitivity shows a non-significant increase of 0.511% [-5.182, 6.204], while specificity shows a significant
+increase of 18.741% [9.885, 27.596].
+Bench testing included verification of standalone performance, performance with TI-RADS and ATA outputs, as
+well as performance when compared to a separate data set including data from independent sites (separate and
+apart from the sites/data used to train and tune the algorithm).
+In summary, a comprehensive evaluation of the thyroid engine was conducted across key performance metrics
+and bench testing demonstrated that application of the Koios DS AI Adapter exceeds physician performance as
+measured by AUC, sensitivity, and specificity. Descriptor predictions were tested objectively – against ground
+truth pathology. Testing demonstrated that performance requirements were met under ACR TI-RADS and ATA
+reporting systems as well as when compared against independent site data. Outputs were additionally tested
+subjectively and met the requirements for agreement with readers’ descriptor categorizations. Testing
+characterized the sensitivity of the system with respect to shifts in the region of interest and variation in
+performance between high and low transducer frequencies. System performance on data acquired from
+510(k) Summary Koios Medical, Inc. 12independent sites meets performance requirements. In all tests, the Thyroid engine met or exceeded
+performance requirements.
+9. Performance Testing – Clinical
+Breast
+A clinical study was previously executed (K190442) to determine the effect of Koios DS Breast on reader
+performance. As discussed in the prior section, the prior device’s performance has been met or significantly
+improved across all measured metrics by the subject device. This data continues to apply to the breast
+functionality within the subject device, with the understanding that its performance is superior, and it would
+therefore provide an equivalent or greater benefit. The below summary of the clinical study data has been
+included for ease of reference.
+The study objective was to determine the impact on Interpreting Physician (Reader) performance as defined by
+the area under the Receiver Operating Characteristic (ROC) Curve (AUC) when Koios DS Breast and an
+ultrasound examination are combined (USE + DS), compared to USE Alone in patients that present with a soft
+tissue breast lesion through any form of imaging or physical examination and are referred for diagnostic
+ultrasound.
+The study consisted of 15 readers with varying levels of training and experience providing analysis on a
+randomized set of 900 patient cases presented with USE + DS and USE Alone in two reading periods separated
+by a 1-month wash-out, totaling 1800 cases analyzed per reader. The reader set and dataset were distributed in
+accordance with FDA guidance and are explained in detail below:
+510(k) Summary Koios Medical, Inc. 13Reader Background
+Breast
+Years of
+Fellowship Academic MQSA
+Board Experience –
+Reader Trained Institution Qualified
+Certification/ Mammography
+ID and/or Affiliation Interpreting
+Specialty and/or Breast
+Dedicated (Yes/No) Physician
+Ultrasound
+Breast Imager
+Diagnostic
+1 No 13 years No Yes
+Radiology
+Diagnostic
+2 No 4 years No No
+Radiology
+Diagnostic
+3 Yes 7 years Yes Yes
+Radiology
+Breast
+4 No 0 years No No
+Surgeon
+5 OB/GYN No 20 years No No
+Diagnostic
+6 No 13 years Yes No
+Radiology
+Diagnostic
+7 No 3 years Yes No
+Radiology
+8 OB/GYN No 0 years No No
+Diagnostic
+9 Yes 15 years No Yes
+Radiology
+Diagnostic
+10 No 13 years No No
+Radiology
+Diagnostic
+11 Yes 30 years No Yes
+Radiology
+Diagnostic
+12 Yes 10 years Yes Yes
+Radiology
+Diagnostic
+13 No 0 years No No
+Radiology
+Interventional
+14 No 4 years No No
+Radiology
+Breast
+15 No 25 years Yes No
+Surgeon
+510(k) Summary Koios Medical, Inc. 14Dataset Demographic Information
+The Koios DS Breast engine was tested on images sourced from a wide variety of ultrasound hardware and data
+with the following patient demographics to ensure the system performance is generalizable to and
+representative of diverse populations. Patient demographic distribution was based upon data from the Breast
+Cancer Surveillance Consortium (2006-2009)7.
+The following figures represent the final validation dataset (900 cases):
+Distribution of Malignancy in Final Validation Set Distribution of BI-RADS Category in Final Validation Set
+Distribution of Ethnicity in Final Validation Set Distribution of Age in Final Validation Set
+7 Data were obtained from the Breast Cancer Surveillance Consortium, funded by the National Cancer Institute
+(HHSN261201100031C). From the Breast Cancer Surveillance Consortium website, http://www.bcsc-research.org/
+510(k) Summary Koios Medical, Inc. 15Distribution of Lesion Size in Final Validation Set Distribution of Invasive Cancer in Final Validation Set
+Distribution of BI-RADS Density in Final Validation Set
+510(k) Summary Koios Medical, Inc. 16Distribution of US Machines in Final Validation Set
+Per the primary endpoint of the study, ROC curves were generated and analyzed. All AUCs were computed via
+the trapezoidal approximation. Based on the standard error measurements, the error can be propagated to
+estimate the mean performance interface and 95% confidence interval. This was found to be 0.0370 (0.030,
+0.044) at α = .05, satisfying the success criteria for the primary endpoint.
+To characterize the effect of Koios DS (USE + DS) system on inter-operator variability, the Kendall Tau-B
+correlation coefficient was computed in a pairwise manner for all readers. The metric is > 0 for all reader pairs.
+The standard error for USE + DS and USE Alone was computed to assess if the shifts in the metric were
+significant. The average Kendall Tau-B of USE Alone was .5404 (.5301, .5507) and the average Kendall Tau-B of
+USE + DS was .6797 (.6653, .6941) with 95% CI demonstrating a significant increase in the metric (α = .05).
+Also assessed was the effect of Koios DS on intra-operator variability leveraging 150 reads that did not switch
+from USE Alone to USE + DS across the washout session in the reader study (75 each). USE Alone class switching
+rate was 13.6% and the USE + DS class switching rate was 10.8% (p = 0.042), demonstrating a statistically
+significant reduction in intra-reader variability when using USE + DS.
+510(k) Summary Koios Medical, Inc. 17Thyroid
+An observational case-controlled, Multi-Reader, Multi-Case (MRMC) retrospective clinical trial (CRRS-3) was
+executed to determine the effect of Koios DS Thyroid on reader performance.
+Effect on performance was defined by measuring the area under the Receiver Operating Characteristic (ROC)
+Curve (AUC) when Koios DS and an ultrasound examination were combined (USE + DS), compared to unassisted
+TI-RADS based Reader performance (USE Alone). All data analysis cases consisted of USE Alone and USE + DS
+image readings in patients that presented with a thyroid abnormality through any form of imaging or physical
+examination and were referred for diagnostic ultrasound where a nodule was subsequently discovered.
+Data analysis in the CRRS-3 study was based on 650 retrospectively collected cases that were assigned a TI-
+RADS Assessment Category 1 through 5 at the time of initial review at study entry based upon the interpreting
+physician of the ultrasound evaluation. The study consisted of 15 readers reviewing and interpreting 650 cases
+twice (1300 total cases per reader). All data analysis was based on two randomized evaluations of each case
+with and without the assistance of Koios DS software with a 1-month washout period between corresponding
+presentations of the case and interpretations by physicians.
+The study design called for a mixed population of physician readers (11/15 or 73% US based) and cases (500 or
+77% US based) coming from both the US and Europe. Readers with a current medical license who met inclusion
+criteria and completed the study training protocol were considered trained interpreting physicians for study
+purposes. Readers possessed varying levels of training and experience, as detailed below:
+Reader Experience
+Reader Experience (post-
+Reader Category
+ID residency)
+R1 Domestic Endocrinologist (End) < 10 years
+R2 Domestic Radiologist (Rad) ≥ 20 years
+R3 Domestic Rad ≥ 20 years
+R4 Domestic Rad ≥ 10 and < 20 years
+R5 Domestic Rad ≥ 10 and < 20 years
+R6 Domestic Rad ≥ 10 and < 20
+R7 Domestic Rad ≥ 20 years
+R8 Domestic Rad < 10 years
+R9 Domestic Rad ≥ 20 years
+R10 Domestic Rad ≥ 20 years
+R11 Domestic End < 10 years
+R12 European Rad ≥ 20 years
+R13 European Rad ≥ 20 years
+R14 European End ≥ 20 years
+R15 European End ≥ 20 years
+510(k) Summary Koios Medical, Inc. 18Dataset Demographic Information
+The Koios DS thyroid engine was tested on images sourced from a wide variety of ultrasound hardware and data
+with the following patient demographics to ensure the system performance is generalizable to and
+representative of diverse populations.
+The following ultrasound hardware represents the final validation dataset (650 cases).
+Distribution of ultrasound machine models in the final validation set, by image
+510(k) Summary Koios Medical, Inc. 19The final validation set data is divided into 2 subsets; 500 cases from United States locations and 150
+cases from European locations. The following figures represent the United States patient
+demographics:
+Distribution of Malignancy in the Final Validation Set Distribution of TI-RADS Assessment in the Final Validation Set
+(United States) (United States)
+Distribution of Patient Ethnicity in the Final Validation Set Distribution of Patient Sex in the Final Validation Set
+(United States) (United States)
+510(k) Summary Koios Medical, Inc. 20Distribution of Patient Age in the Final Validation Set (United States)
+The following figures represent the European patient demographics:
+Distribution of Patient Age in the Final Validation Set (European)
+Distribution of Patient Sex in the Final Validation Set (European)
+510(k) Summary Koios Medical, Inc. 21The primary CRRS-3 analysis was performed on the Readers’ TI-RADS point total gradings from their review of
+the USE Alone and their review of the USE + DS for the Non-Cancer Case Set and Cancer Case Set. For each
+Reader, two ROC curves (Sensitivity vs. 1 – Specificity) were plotted using the USE Alone and the USE + DS
+primary analysis cases. Reader-specific AUC values for the primary analysis were derived from the trapezoidal
+approximation, whereas the mean AUC values and associated standard errors within- and between-modality
+across all Readers were derived from the DBM (Dorfman-Berbaum-Metz ANOVA after jackknife) method. This
+approach captures both reader variability and case variability and is the standard methodology for comparing
+AUCs in MRMC studies. All ROC curve analysis was done with respect to cyto-/histological or excisional
+pathology.
+Summary of All Primary Study Endpoints and Secondary Analyses (US data in bold)
+Analysis Overview Result
+Change in average AUC with Koios DS +0.083 [0.066, 0.099] (parametric)
+Primary Endpoint 1
+(all readers, all data) +0.079 [0.062, 0.096] (non-parametric)
+Change in average AUC with Koios DS +0.074 [0.051, 0.098] (parametric)
+Primary Endpoint 2
+(US readers, US data) +0.073 [0.049, 0.096] (non-parametric)
+Change in average Sensitivity and
++ 0.084 [0.054, 0.113] (sensitivity)
+Specificity of FNA with Koios DS
++ 0.140 [0.125, 0.155] (specificity)
+(all readers, all data)
+Change in average Sensitivity and
++ 0.058 [0.017, 0.098] (sensitivity)
+Secondary Analysis 1 Specificity of FNA with Koios DS
++ 0.130 [0.110, 0.151] (specificity)
+(US readers, US data)
+Change in average Sensitivity and
++0.125 [0.014, 0.237] (sensitivity)
+Specificity of FNA with Koios DS
++0.171 [0.109, 0.233] (specificity)
+(EU readers, EU data)
+Change in average Sensitivity and
++ 0.092 [0.043, 0.141] (sensitivity)
+Specificity of Follow-up with Koios DS
++ 0.242 [0.220, 0.264] (specificity)
+(all readers, all data)
+Secondary Analysis 2 -
+Change in average Sensitivity and
+– excluding cases + 0.087 [0.023, 0.151] (sensitivity)
+Specificity of Follow-up with Koios DS
+recommended for + 0.206 [0.176, 0.235] (specificity)
+(US readers, US data)
+FNA
+Change in average Sensitivity and
++0.084 [-0.133, 0.300] (sensitivity)
+Specificity of Follow-up with Koios DS
++0.350 [0.267, 0.434] (specificity)
+(EU readers, EU data)
+Secondary Analysis 2a Change in average Sensitivity and
++0.060 [0.040, 0.080] (sensitivity)
+– including cases Specificity of Follow-up with Koios DS
++0.206 [0.192, 0.219] (specificity)
+recommended for (all readers, all data)
+510(k) Summary Koios Medical, Inc. 22FNA Change in average Sensitivity and
++0.053 [0.026, 0.080] (sensitivity)
+Specificity of Follow-up with Koios DS
++0.180 [0.161, 0.198] (specificity)
+(US readers, US data)
+Change in average Sensitivity and
++0.060 [-0.009, 0.129] (sensitivity)
+Specificity of Follow-up with Koios DS
++0.296 [0.238, 0.354] (specificity)
+(EU readers, EU data)
+Change in average AUC with Koios DS + 0.079 [0.024, 0.134] (parametric)
+Secondary Analysis 3
+(EU Readers, EU Data) + 0.066 [0.014, 0.118] (non-parametric)
+Inter-Reader Variability measuring the
+40.7% (all readers, all data)
+association of TI-RADS points assigned
+Secondary Analysis 4 37.4% (US readers, US data)
+with and without decision support
+49.7% (EU Readers, EU Data)
+Difference (Relative Change %)
+-23.6% (all readers, all data)
+Secondary Analysis 5 Impact on Interpretation Time -22.7% (US readers, US data)
+-32.4% (EU Readers, EU Data)
++0.022 [0.005, 0.039]
+(all readers, all data)
+Change in average AUC with Koios DS
++0.017 [-0.007, 0.041]
+descriptor classifiers only (without AI
+(US readers, US data)
+Adapter) (parametric)
++0.010 [-0.051, 0.071]
+(EU Readers, EU Data)
++0.019 [0.001, 0.037]
+(all readers, all data)
+Change in average AUC with Koios DS
++0.015 [-0.010, 0.039]
+descriptor classifiers only (without AI
+(US readers, US data)
+Adapter) (non-parametric)
+Secondary Analysis 6
++0.004 [-0.054, 0.062]
+(EU Readers, EU Data)
+Sensitivity:
++0.052 [0.022, 0.081]
+(all readers, all data)
+Change in average sensitivity and
+specificity of FNA with Koios DS +0.026 [-0.014, 0.066]
+descriptor classifiers only (without AI (US readers, US data)
+Adapter)
++0.109 [-0.004, 0.221]
+(EU Readers, EU Data)
+510(k) Summary Koios Medical, Inc. 23Specificity
+-0.009 [-0.024, 0.006]
+(all readers, all data)
+-0.001 [-0.022, 0.019]
+(US readers, US data)
+-0.032 [-0.095, 0.031]
+(EU Readers, EU Data)
+Sensitivity
+0.079 [0.031, 0.128]
+(all readers, all data)
+0.072 [0.008, 0.135]
+(US readers, US data)
+0.133 [-0.068, 0.334]
+Change in average sensitivity and
+(EU Readers, EU Data)
+specificity of Follow-up with Koios DS
+descriptor classifiers only (without AI
+Specificity
+Adapter) – excluding cases
+0.015 [-0.010, 0.040]
+recommended for FNA
+(all readers, all data)
+0.012 [-0.021, 0.045]
+(US readers, US data)
+0.010 [-0.093, 0.113]
+(EU Readers, EU Data)
+Sensitivity
++0.047 [0.026, 0.067]
+(all readers, all data)
++0.037 [0.009, 0.065]
+(US readers, US data)
+Change in average sensitivity and
+specificity of Follow-up with Koios DS
++0.067 [0.000, 0.134]
+descriptor classifiers only (without AI
+(EU Readers, EU Data)
+Adapter) – including cases
+recommended for FNA
+Specificity
++0.000 [-0.013, 0.012]
+(all readers, all data)
++0.003 [-0.014, 0.019]
+510(k) Summary Koios Medical, Inc. 24(US readers, US data)
+-0.012 [-0.065, 0.041]
+(EU Readers, EU Data)
+Summary of System Clinical Performance Using TI-RADS RSS
+All Readers, All Data US Readers, US Data EU Readers, EU Data
+Change in average Sensitivity/Specificity of FNA
+TI-RADS categorization +0.084 [0.054, 0.113] +0.058 [0.017, 0.098] +0.125 [0.014, 0.237]
+w/AI Adapter + size (sensitivity) (sensitivity) (sensitivity)
+criteria +0.140 [0.125, 0.155] +0.130 [0.110, 0.151] +0.171 [0.109, 0.233]
+(specificity) (specificity) (specificity)
+TI-RADS categorization + +0.052 [0.022, 0.081] +0.026 [-0.014, 0.066] +0.109 [-0.004, 0.221]
+size criteria (sensitivity) (sensitivity) (sensitivity)
+-0.009 [-0.024, 0.006] -0.001 [-0.022, 0.019] -0.032 [-0.095, 0.031]
+(specificity) (specificity) (specificity)
+Change in average Sensitivity/Specificity of Follow-up
+TI-RADS categorization
+w/AI Adapter + size +0.060 [0.040, 0.080] +0.053 [0.026, 0.080] +0.060 [-0.009, 0.129]
+criteria (sensitivity) (sensitivity) (sensitivity)
++0.206 [0.192, 0.219] +0.180 [0.161, 0.198] +0.296 [0.238, 0.354]
+(specificity) (specificity) (specificity)
+TI-RADS categorization + +0.047 [0.026, 0.067] +0.037 [0.009, 0.065] +0.067 [0.000, 0.134]
+size criteria (sensitivity) (sensitivity) (sensitivity)
++0.000 [-0.013, 0.012] +0.003 [-0.014, 0.019] -0.012 [-0.065, 0.041]
+(specificity) (specificity) (specificity)
+510(k) Summary Koios Medical, Inc. 25Reader US (TI-RADS categorization) vs. US+DS (TI-RADS categorization w/AI Adapter)
+Per reader non-parametric AUC comparing US to US+DS. The dashed line represents equivocal results with all points above this line
+demonstrating an improvement for the US+DS reading condition.
+Reader US (TI-RADS categorization + size criteria) vs. US+DS (TI-RADS categorization w/AI Adapter + size
+criteria) Change in Operating Point (FNA)
+Change in Sensitivity and Specificity of FNA Recommendations for all data for all readers. The base of the arrow represents the initial
+operating point, while the arrowhead represents the sensitivity and specificity of US+DS
+510(k) Summary Koios Medical, Inc. 26Reader US (TI-RADS categorization + size criteria) vs. US+DS (TI-RADS categorization w/AI Adapter + size
+criteria) Change in Operating Point (Follow-up)
+Change in Sensitivity and Specificity of Follow-Up Recommendations for all data for all readers. The base of the arrow represents the initial
+operating point, while the arrowhead represents the sensitivity and specificity of US+DS
+Primary endpoints were successfully met, demonstrating a statistically significant improvement of 0.074
+[0.051, 0.098] (95% confidence interval) in overall reader performance of US-based readers when utilizing
+Koios DS for the interpretation of US-based thyroid ultrasound studies.
+10. Special Controls
+Design verification and validation and product labelling include all requirements proscribed in the 21 CFR
+892.2060 Special Controls.
+11. Conclusion
+Non-clinical and clinical performance tests demonstrate that the Koios DS software device is as safe, as effective,
+and performs as well as or better than the legally marketed predicate Koios DS Breast software. It has similar
+intended use, indications for use, technological characteristics, and principles of operation as its predicate
+device. The Koios DS product is substantially equivalent to K190442.
+510(k) Summary Koios Medical, Inc. 27

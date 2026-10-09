@@ -1,0 +1,876 @@
+MIM Software Inc. November 8, 2023
+℅ Lynn Hanigan
+Principal Regulatory and Quality Specialist
+25800 Science Park Drive, Suite 180
+CLEVELAND, OH 44122
+Re: K231765
+Trade/Device Name: Contour ProtégéAI
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QKB
+Dated: October 9, 2023
+Received: October 10, 2023
+Dear Lynn Hanigan:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.05
+Silver Spring, MD 20993
+www.fda.govK231765 - Lynn Hanigan Page 2
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K231765
+Device Name
+Contour ProtégéAI
+Indications for Use (Describe)
+Trained medical professionals use Contour ProtégéAI as a tool to assist in the automated processing of digital medical
+images of modalities CT and MR, as supported by ACR/NEMA DICOM 3.0. In addition, Contour ProtégéAI supports the
+following indications:
+• Creation of contours using machine-learning algorithms for applications including, but not limited to, quantitative
+analysis, aiding adaptive therapy, transferring contours to radiation therapy treatment planning systems, and archiving
+contours for patient follow-up and management.
+• Segmenting anatomical structures across a variety of CT anatomic locations.
+• And segmenting the prostate, the seminal vesicles, and the urethra within T2-weighted MR images.
+Appropriate image visualization software must be used to review and, if necessary, edit results automatically generated by
+Contour ProtégéAI.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK231765
+510(k) Summary of Safety and Effectiveness
+(The following information is in conformance with 21 CFR 807.92)
+Submitter:
+MIM Software Inc.
+25800 Science Park Drive – Suite 180
+Cleveland, OH 44122
+Phone: 216-455-0600
+Fax: 216-455-0601
+Contact Person: Lynn Hanigan
+Date Summary Prepared: October 5, 2023
+Device Name
+Trade Name: Contour ProtégéAI
+Common Name: Medical Imaging Software
+Regulation Number / Product Code: 21 CFR 892.2050 Product Code QKB
+Classification Name: Radiological Image Processing Software For Radiation
+Therapy
+Predicate Devices
+Primary - K223774 Contour ProtégéAI MIM Software Inc.
+Reference - K071964 MIM 4.1 SEASTAR (tradename MIM Maestro) MIMvista Corp.
+Intended Use
+Contour ProtégéAI is an accessory to MIM software. It includes processing components to
+automatically contour imaging data using machine-learning based algorithms.
+Contour ProtégéAI must be used in conjunction with MIM software to review and, if necessary, edit
+results automatically generated by Contour ProtégéAI.
+Contour ProtégéAI is not intended to automatically detect lesions.
+Indications for Use
+Trained medical professionals use Contour ProtégéAI as a tool to assist in the automated
+processing of digital medical images of modalities CT and MR, as supported by ACR/NEMA
+DICOM 3.0. In addition, Contour ProtégéAI supports the following indications:
+• Creation of contours using machine-learning algorithms for applications including, but not
+limited to, quantitative analysis, aiding adaptive therapy, transferring contours to radiation
+Page 1 of 19therapy treatment planning systems, and archiving contours for patient follow-up and
+management.
+• Segmenting anatomical structures across a variety of CT anatomical locations.
+• And segmenting the prostate, the seminal vesicles, and the urethra within T2-weighted MR
+images.
+Appropriate image visualization software must be used to review and, if necessary, edit results
+automatically generated by Contour ProtégéAI.
+Device Description
+Contour ProtégéAI is an accessory to MIM software that automatically creates contours on medical
+images through the use of machine-learning algorithms. It is designed for use in the processing of
+medical images and operates on Windows, Mac, and Linux computer systems. Contour ProtégéAI
+is deployed on a remote server using the MIMcloud service for data management and transfer; or
+locally on the workstation or server running MIM software.
+A total of 550 CT images from 41 clinical sites across multiple continents was gathered for the
+training of the final 4.1.0 neural network models. The following table lists the data used for the
+training of the 4.1.0 final production models. Across the training data, 56.4% were male, 25.8%
+were female, and 17.8% were not labeled. Training data patient age ranges were 1-20: 0.2%, 20-
+40: 1.8%, 40-60: 8.9%, 60+: 24.2%, and not labeled 64.9%. Images were acquired by scanners
+made by: Phillips, 38.5%, GE, 17.6%; Siemens, 16.2%; Toshiba, 2.7% and not labeled 25.0%.
+Over the dataset, 38.7% of the images were acquired with IV or oral contrast, and 61.3% were
+acquired with no contrast.
+Table1: CT data used to train the final production of the 4.1.0 CT models.
+Institution Country # of images
+Institution 1 USA 2
+Institution 2 USA 5
+Institution 3 USA 26
+Institution 4 USA 8
+Institution 5 USA 3
+Institution 6 USA 1
+Institution 7 USA 34
+Institution 8 USA 17
+Institution 9 USA 6
+Institution 10 Hong Kong 30
+Institution 11 USA 13
+Institution 12 USA 6
+Institution 13 USA 10
+Institution 14 USA 6
+Institution 15 USA 24
+Institution 16 USA 2
+Institution 17 USA 14
+Page 2 of 19Institution Country # of images
+Institution 18 USA 7
+Institution 19 USA 27
+Institution 20 USA 27
+Institution 21 USA 6
+Institution 22 USA 41
+Institution 23 Australia 19
+Institution 24 USA 10
+Institution 25 USA 11
+Institution 26 USA 10
+Institution 27 USA 2
+Institution 28 USA 1
+Institution 29 USA 6
+Institution 30 USA 9
+Institution 31 USA 4
+Institution 32 USA 2
+Institution 33 USA 6
+Institution 34 USA 2
+Institution 35 USA 6
+Institution 36 USA 14
+Institution 37 USA 4
+Institution 38 USA 5
+Institution 39 USA 75
+Institution 40 Australia 48
+Institution 41 USA 1
+Substantial Equivalence
+Reference
+Subject Device: Predicate Device: Predicate:
+ITEM Contour ProtégéAI Contour ProtégéAI MIM 4.1 SEASTAR
+(K231765) (K223774) [i.e., MIM Maestro]
+(K071964)
+Clearance Dates TBD 04/06/2023 9/26/2007
+Page 3 of 19Reference
+Subject Device: Predicate Device: Predicate:
+ITEM Contour ProtégéAI Contour ProtégéAI MIM 4.1 SEASTAR
+(K231765) (K223774) [i.e., MIM Maestro]
+(K071964)
+Contour ProtégéAI is an Contour ProtégéAI is an MIM 4.1
+accessory to MIM software accessory to MIM software used (SEASTAR)
+used for the contouring of for the contouring of anatomical software is
+anatomical structures in structures in imaging data using intended for trained
+imaging data using machine- machine-learning-based medical
+learning-based algorithms algorithms automatically. professionals
+automatically. including, but not
+Appropriate image visualization
+limited to,
+Appropriate image visualization software must be used to review
+radiologists,
+software must be used to and, if necessary, edit results
+oncologists,
+review and, if necessary, edit automatically generated by
+physicians, medical
+results automatically generated Contour ProtégéAI.
+technologists,
+by Contour ProtégéAI.
+Contour ProtégéAI is not dosimetrists, and
+Contour ProtégéAI is not intended to detect or contour physicists.
+Intended Use intended to detect or contour lesions.
+MIM 4.1
+lesions.
+(SEASTAR) is a
+medical image and
+information
+management
+system that is
+intended to receive,
+transmit, store,
+retrieve, display,
+print and process
+digital medical
+images, as well as
+create, display and
+print reports from
+those images. The
+medical modalities
+of these medical
+imaging systems
+include, but are not
+limited to, CT, MRI,
+CR, DX, MG, US,
+SPECT, PET and
+XA as supported by
+ACR/NEMA
+DICOM 3.0.
+MIM 4.1
+(SEASTAR)
+provides tools to
+quickly create,
+transform, and
+modify contours for
+Page 4 of 19Reference
+Subject Device: Predicate Device: Predicate:
+ITEM Contour ProtégéAI Contour ProtégéAI MIM 4.1 SEASTAR
+(K231765) (K223774) [i.e., MIM Maestro]
+(K071964)
+applications
+including, but not
+limited to,
+quantitative
+analysis, aiding
+adaptive therapy,
+transferring
+contours to
+radiation therapy
+treatment planning
+systems and
+archiving contours
+for patient follow-up
+and management.
+Indications for Use Trained medical professionals Trained medical professionals MIM 4.1
+use Contour ProtégéAI as a use Contour ProtégéAI as a tool (SEASTAR)
+tool to assist in the automated to assist in the automated software is used by
+processing of digital medical processing of digital medical trained medical
+images of modalities CT and images of modalities CT and professionals as a
+MR, as supported by MR, as supported by tool to aid in
+ACR/NEMA DICOM 3.0. In ACR/NEMA DICOM 3.0. In evaluation and
+addition, Contour ProtégéAI addition, Contour ProtégéAI information
+supports the following supports the following management of
+indications: indications: digital medical
+images. The
+• Creation of contours using • Creation of contours using
+medical image
+machine-learning machine-learning algorithms
+modalities include,
+algorithms for applications for applications including,
+but are not limited
+including, but not limited to, but not limited to,
+to, CT, MRI, CR,
+quantitative analysis, aiding quantitative analysis, aiding
+DX, MG, US,
+adaptive therapy, adaptive therapy,
+SPECT, PET and
+transferring contours to transferring contours to
+XA as supported by
+radiation therapy treatment radiation therapy treatment
+ACR/NEMA
+planning systems, and planning systems, and
+DICOM 3.0. MIM
+archiving contours for archiving contours for
+4.1 (SEASTAR)
+patient follow-up and patient follow-up and
+assists in the
+management. management.
+following
+• Segmenting anatomical • Segmenting anatomical indications:
+structures across a variety structures across a variety of
+• Receive,
+of CT anatomical locations. CT anatomical locations.
+transmit, store,
+• And segmenting the • And segmenting the retrieve, display,
+prostate, the seminal prostate, the seminal print, and process
+vesicles, and the urethra vesicles, and the urethra medical images
+Page 5 of 19Reference
+Subject Device: Predicate Device: Predicate:
+ITEM Contour ProtégéAI Contour ProtégéAI MIM 4.1 SEASTAR
+(K231765) (K223774) [i.e., MIM Maestro]
+(K071964)
+within T2-weighted MR within T2-weighted MR and DICOM
+images. images. objects.
+• Create, display
+and print reports
+Appropriate image visualization Appropriate image visualization
+from medical
+software must be used to software must be used to review
+images.
+review and, if necessary, edit and, if necessary, edit results
+results automatically generated automatically generated by • Registration,
+by Contour ProtégéAI. Contour ProtégéAI. fusion display, and
+review of medical
+images for
+diagnosis,
+treatment
+evaluation, and
+treatment planning.
+• Localization and
+definition of objects
+such as tumors and
+normal tissues in
+medical images.
+• Creation,
+transformation, and
+modification of
+contours for
+applications
+including, but not
+limited to,
+quantitative
+analysis, aiding
+adaptive therapy,
+transferring
+contours to
+radiation therapy
+treatment planning
+systems, and
+archiving contours
+for patient follow-up
+and management.
+Page 6 of 19Reference
+Subject Device: Predicate Device: Predicate:
+ITEM Contour ProtégéAI Contour ProtégéAI MIM 4.1 SEASTAR
+(K231765) (K223774) [i.e., MIM Maestro]
+(K071964)
+CT, MR, CR, DX,
+Modalities CT and MR CT and MR
+MG, US, SPECT,
+PET and XA
+Atlas-Based
+No No
+Segmentation Yes
+Automatically
+Contour Imaging
+Yes Yes No
+Data Using
+Machine-Learning
+Server-based application Server-based application
+supporting supporting
+Linux-based OS Linux-based OS
+Operating Windows, Mac
+Platform
+- and - - and -
+Local deployment on Windows Local deployment on Windows
+or Mac or Mac
+Cloud-based
+Yes Yes No
+deployment
+Locally deployed
+Yes Yes No
+(or installed)
+Page 7 of 19Reference
+Subject Device: Predicate Device: Predicate:
+ITEM Contour ProtégéAI Contour ProtégéAI MIM 4.1 SEASTAR
+(K231765) (K223774) [i.e., MIM Maestro]
+(K071964)
+(1.0.0 models) (1.0.0 models)
+Head and Neck CT Head and Neck CT
+Prostate CT Prostate CT
+Thorax CT Thorax CT
+Liver CT Liver CT
+Prostate MR Prostate MR
+(1.1.0 model) (1.1.0 model)
+Prostate MR Prostate MR
+(2.0.0 models) (2.0.0 models)
+Head and Neck CT Head and Neck CT
+None
+Prostate CT Prostate CT
+Thorax CT Thorax CT
+Abdomen CT Abdomen CT
+Neural Network
+Models included Lungs and Liver CT Lungs and Liver CT
+(3.1.0 models)* (3.0.0 models)
+Head and Neck CT Head and Neck CT
+Prostate CT Prostate CT
+Thorax CT Thorax CT
+Abdomen CT Abdomen CT
+Lungs and Liver CT Lungs and Liver CT
+MRT Additional Structures CT MRT Additional Structures CT
+(4.0.0 models) (4.0.0 models)
+Head and Neck CT Head and Neck CT
+Thorax CT Thorax CT
+Abdomen CT Abdomen CT
+Pelvis CT Pelvis CT
+Page 8 of 19Reference
+Subject Device: Predicate Device: Predicate:
+ITEM Contour ProtégéAI Contour ProtégéAI MIM 4.1 SEASTAR
+(K231765) (K223774) [i.e., MIM Maestro]
+(K071964)
+SurePlan MRT CT SurePlan MRT CT
+(4.1.0 models)
+Head and Neck CT
+Thorax CT
+Whole Body – Physiological
+Uptake Organs CT
+Discussion
+Changes within this submission include new 4.1.0 neural network models with additional
+contours. These changes differ when comparing to Contour ProtégéAI 510(K)223774. Non-
+inferiority testing was used to compare the proposed Contour ProtégéAI device to Atlases created
+from the MIM Maestro (K071964) reference device.
+Testing and Performance Data
+The proposed Contour ProtégéAI device were then evaluated on the test subjects from a pool of
+754 independent images gathered from 27 institutions.
+The CT images for this training set were obtained from clinical treatment plans for patients
+prescribed external beam or molecular radiotherapy, but the original segmentations were not
+used. Instead, the images were re-segmented by consultants (physicians and dosimetrists)
+specifically for this purpose, outside of clinical practice. Detailed instructions derived from relevant
+published clinical contouring guidelines were prepared for the dosimetrists. The initial
+segmentations were then reviewed and corrected by a radiation oncologist against the same
+standards and guidelines. Qualified staff at MIM Software (M.D. or licensed dosimetrists) then
+performed a final review and correction. All segmenters and reviewers were instructed to spend
+additional time to ensure the highest quality training data. In particular, the consultants were
+asked to contour all specified OAR structures on all images according to referenced standards,
+whether or not they were proximal to the treatment field. All patients were imaged on an indexed
+couch in treatment position (“simulation CT”). Series that were non-axial, had slices thinner than
+0.5mm, or had non-Fan Beam or MV acquisitions were excluded.
+The verification data used for testing is from a set of institutions that are totally disjoint from the
+training datasets used to train each model in the Contour ProtégéAI device. The reference
+predicate MIM device was configured with Atlases built from the same training data used to train
+Page 9 of 19the models. We tested Contour ProtégéAI against the reference predicate device, and the goal of
+this testing is to show that it is equivalent or superior to the reference predicate. The performance
+of both segmentation devices was measured by calculating both the Dice score and MDA of the
+novel segmentations with the original ground-truth contours. User beta testing was also used to
+evaluate the performance of Contour ProtégéAI in the context of time savings compared to
+contouring from scratch. This user evaluation was made on a three-point scale for each contour,
+with one indicating negligible time savings, two indicating moderate, and three indicating
+significant time savings. Our acceptance criteria combine the statistical tests and the user
+evaluation - only structures that pass two or more of the following three tests could be included in
+the final models:
+• Statistical non-inferiority of the Dice score compared with the reference predicate.
+• Statistical non-inferiority of the MDA score compared with the reference predicate.
+• Average user evaluation of 2 or higher, when measured on a three-point scale.
+Further clinical validation was also conducted in-house to evaluate contours compared to detailed
+criteria based on established clinical guidelines.
+In addition, each model as a whole was also evaluated. In order to be included in the released
+product, the cumulative Added Path Length of the contours in the model was evaluated relative to
+the ground-truth. Cumulative APL has been found to correlate well with the total time spent in
+editing and correcting auto-segmented contours (Vaassen et al, 2020)1. Each model was
+required to have statistically non-inferior cumulative APL compared to the reference predicate.
+Finally, the localization accuracy of each structure in all models was measured. We did not
+impose a passing criterion on localization accuracy; the results however are included in this
+summary document and in our User Guide and Whitepaper to allow the user to better understand
+the performance of the device.
+Across the testing data the images 48.4% were female, 35.2% were male, and 16.4% were
+unknown for sex. The manufacturer was GE for 37.9% of images, 25.1% was Siemens, 15.0%
+were Philips, 0.4% were from Toshiba, and the other 21.6% were unknown. 4.38% were
+between the ages of 20-40, 21.5% were between 40-60, and 47.9% were over the age of 60.
+26.0% were unknown, and 0.3% were under the age 20.
+The mean and standard deviation Dice coefficients and MDA scores, along with the lower 95th
+percentile confidence bound, were calculated for both the proposed Contour ProtégéAI device
+and the MIM Maestro atlas segmentation reference device for each structure of each neural
+network model. Contour ProtégéAI results were equivalent or had better performance than the
+MIM Maestro atlas segmentation reference device. Equivalence is defined such that the lower
+95th percentile confidence bound of the Contour ProtégéAI segmentation is greater than 0.1 Dice
+lower than the mean MIM atlas segmentation reference device performance.
+Results over the validation set compared to the reference device are presented here:
+Table 2: DICE, MDA and External Evaluation Score Comparison Per Structure
+Dice MDA External
+4.1.0 CT Dice Contour MDA Contour Evaluation
+Model: Structure: MIM Atlas ProtégéAI MIM Atlas ProtégéAI Score
+Head and 0.86 ± 0.07 0.64 ± 0.31
+Neck Bone_Mandible 0.81 ± 0.07 (0.83) * 1.00 ± 0.87 (0.93) * 2.86
+0.22 ± 0.10 2.82 ± 2.61
+BrachialPlex_L 0.17 ± 0.08 (0.14) * 3.24 ± 2.62 (5.12) * 2.6
+Page 10 of 19Dice MDA External
+4.1.0 CT Dice Contour MDA Contour Evaluation
+Model: Structure: MIM Atlas ProtégéAI MIM Atlas ProtégéAI Score
+0.19 ± 0.09 2.73 ± 2.38
+BrachialPlex_R 0.15 ± 0.07 (0.11) * 3.62 ± 2.79 (5.20) * 2.6
+0.98 ± 0.01 0.52 ± 0.36
+Brain 0.97 ± 0.01 (0.97) * 0.64 ± 0.37 (0.66) * 2.71
+0.82 ± 0.08 1.20 ± 0.65
+Brainstem 0.78 ± 0.09 (0.78) * 1.72 ± 0.81 (1.47) * 2.71
+0.76 ± 0.13 3.20 ± 1.93
+Cavity_Oral 0.75 ± 0.14 (0.68) * 3.34 ± 2.13 (4.35) * 2.71
+0.30 ± 0.18 1.17 ± 0.87
+Cochlea_L 0.19 ± 0.15 (0.22) * 1.26 ± 0.85 (1.58) * 2.29
+0.32 ± 0.20 1.05 ± 0.68
+Cochlea_R 0.17 ± 0.15 (0.23) * 1.12 ± 0.61 (1.37) * 2.29
+0.87 ± 0.06 0.65 ± 0.51
+Eye_L 0.80 ± 0.08 (0.83) * 1.07 ± 0.60 (0.91) * 2.57
+0.86 ± 0.07 0.66 ± 0.48
+Eye_R 0.80 ± 0.10 (0.82) * 1.11 ± 0.64 (0.92) * 2.57
+0.40 ± 0.16 0.68 ± 0.35
+Glnd_Lacrimal_L 0.22 ± 0.17 (0.27) * 0.86 ± 0.54 (1.05) * 2.71
+0.45 ± 0.14 0.71 ± 0.52
+Glnd_Lacrimal_R 0.23 ± 0.16 (0.34) * 0.73 ± 0.38 (1.09) * 2.71
+0.77 ± 0.11 0.76 ± 0.32
+Glnd_Submand_L 0.57 ± 0.13 (0.69) * 1.74 ± 0.72 (1.12) * 3
+0.75 ± 0.11 0.81 ± 0.34
+Glnd_Submand_R 0.56 ± 0.16 (0.65) * 1.82 ± 0.87 (1.28) * 3
+0.71 ± 0.19 1.38 ± 3.18
+Glnd_Thyroid 0.47 ± 0.18 (0.57) * 2.55 ± 2.14 (3.38) * 2.71
+0.61 ± 0.17 0.56 ± 0.47
+Lens_L 0.22 ± 0.23 (0.52) * 0.77 ± 0.54 (0.84) * 2.29
+0.63 ± 0.16 0.55 ± 0.33
+Lens_R 0.22 ± 0.22 (0.54) * 0.81 ± 0.47 (0.78) * 2.29
+0.37 ± 0.15 5.26 ± 3.41
+Lips 0.38 ± 0.14 (0.28) * 4.14 ± 2.86 (7.27) 2.83
+0.13 ± 0.13 2.46 ± 1.99
+OpticChiasm 0.04 ± 0.07 (0.08) * 2.69 ± 1.87 (3.55) * 2
+0.53 ± 0.14 0.77 ± 0.85
+OpticNrv_L 0.45 ± 0.15 (0.45) * 0.97 ± 0.81 (1.19) * 2.57
+0.52 ± 0.13 0.80 ± 0.83
+OpticNrv_R 0.44 ± 0.14 (0.44) * 1.11 ± 1.24 (1.34) * 2.57
+0.79 ± 0.09 1.30 ± 0.62
+Parotid_L 0.71 ± 0.10 (0.75) * 2.02 ± 0.95 (1.68) * 3
+0.80 ± 0.06 1.26 ± 0.43
+Parotid_R 0.71 ± 0.09 (0.76) * 2.11 ± 0.76 (1.56) * 3
+Pituitary 0.38 ± 0.18 0.54 ± 0.15 1.07 ± 0.59 0.87 ± 0.54 3
+Page 11 of 19Dice MDA External
+4.1.0 CT Dice Contour MDA Contour Evaluation
+Model: Structure: MIM Atlas ProtégéAI MIM Atlas ProtégéAI Score
+(0.41) * (1.29) *
+0.65 ± 0.16 0.73 ± 0.41
+SpinalCord 0.66 ± 0.14 (0.59) * 0.81 ± 0.33 (0.88) * 2.86
+0.60 ± 0.14 0.47 ± 0.45
+LN_Neck_IA 0.48 ± 0.13 (0.44) * 1.05 ± 1.51 (1.81) * 2.75
+0.79 ± 0.04 0.73 ± 0.24
+LN_Neck_IB_L 0.70 ± 0.05 (0.73) * 1.30 ± 0.47 (1.16) * 2.75
+0.79 ± 0.05 0.73 ± 0.20
+LN_Neck_IB_R 0.68 ± 0.06 (0.72) * 1.41 ± 0.51 (1.19) * 2.75
+0.75 ± 0.05 1.54 ± 0.44
+LN_Neck_IIA_L 0.64 ± 0.04 (0.70) * 2.02 ± 0.54 (2.09) * 2.25
+0.76 ± 0.04 1.41 ± 0.49
+LN_Neck_IIA_R 0.60 ± 0.08 (0.69) * 2.24 ± 0.76 (2.15) * 2.25
+0.80 ± 0.06 0.63 ± 0.31
+LN_Neck_IIB_L 0.68 ± 0.11 (0.68) * 0.95 ± 0.49 (1.12) * 3
+0.80 ± 0.06 0.58 ± 0.15
+LN_Neck_IIB_R 0.68 ± 0.09 (0.70) * 1.19 ± 0.64 (1.14) * 3
+0.75 ± 0.07 0.92 ± 0.44
+LN_Neck_III_L 0.54 ± 0.12 (0.63) * 1.53 ± 0.60 (1.51) * 3
+0.75 ± 0.07 0.99 ± 0.37
+LN_Neck_III_R 0.57 ± 0.12 (0.63) * 1.57 ± 0.61 (1.57) * 3
+0.69 ± 0.08 1.13 ± 0.37
+LN_Neck_IV_L 0.58 ± 0.08 (0.59) * 1.62 ± 0.47 (1.63) * 2.75
+0.71 ± 0.09 1.06 ± 0.33
+LN_Neck_IV_R 0.55 ± 0.11 (0.58) * 1.87 ± 0.75 (1.77) * 2.75
+0.58 ± 0.09 1.13 ± 0.59
+LN_Neck_V_L 0.53 ± 0.11 (0.45) * 1.43 ± 0.82 (2.02) * 3
+0.58 ± 0.11 1.43 ± 0.98
+LN_Neck_V_R 0.50 ± 0.10 (0.44) * 2.03 ± 1.66 (3.18) * 3
+0.36 ± 0.11 0.80 ± 0.35
+LN_Neck_VIA 0.34 ± 0.09 (0.24) * 1.20 ± 0.55 (1.33) * 2.75
+LN_Retropharynx_ 0.28 ± 0.10 1.54 ± 1.47
+L 0.22 ± 0.07 (0.19) * 1.44 ± 0.87 (2.93) * 2.75
+LN_Retropharynx_ 0.28 ± 0.09 1.49 ± 1.36
+R 0.21 ± 0.07 (0.18) * 1.64 ± 0.93 (2.82) * 2.75
+0.64 ± 0.09 1.23 ± 0.48
+LN_Retrostyloid_L 0.57 ± 0.10 (0.53) * 1.58 ± 0.75 (1.96) * 2.75
+0.66 ± 0.11 1.13 ± 0.66
+LN_Retrostyloid_R 0.56 ± 0.11 (0.53) * 1.59 ± 0.74 (1.95) * 2.75
+0.38 ± 0.14 2.94 ± 1.84
+Thorax BrachialPlex_L 0.28 ± 0.14 (0.26) * 2.96 ± 1.79 (4.49) * 3
+0.37 ± 0.16 3.28 ± 2.60
+BrachialPlex_R 0.28 ± 0.11 (0.24) * 3.37 ± 2.27 (5.51) 3
+Page 12 of 19Dice MDA External
+4.1.0 CT Dice Contour MDA Contour Evaluation
+Model: Structure: MIM Atlas ProtégéAI MIM Atlas ProtégéAI Score
+0.76 ± 0.15 3.64 ± 1.85
+Breast_L 0.74 ± 0.11 (0.66) * 4.86 ± 3.45 (5.65) * 2.8
+0.78 ± 0.15 3.45 ± 1.51
+Breast_R 0.76 ± 0.12 (0.67) * 4.02 ± 1.70 (4.66) * 2.6
+0.66 ± 0.13 1.90 ± 1.22
+Bronchus 0.60 ± 0.17 (0.55) * 2.18 ± 1.45 (2.78) * 2.6
+0.49 ± 0.12 1.03 ± 0.47
+Carina 0.36 ± 0.18 (0.40) * 1.27 ± 0.55 (1.33) * 2.4
+0.04 ± 0.05 (- 5.71 ± 1.24
+Cricoid 0.02 ± 0.04 0.01) * 4.64 ± 1.54 (7.05) 2.4
+0.70 ± 0.15 0.97 ± 0.54
+Esophagus 0.48 ± 0.16 (0.64) * 2.49 ± 2.48 (1.56) * 2.8
+0.65 ± 0.17 1.75 ± 1.78
+Glnd_Thyroid 0.46 ± 0.18 (0.54) * 2.92 ± 2.60 (3.19) * 2.75
+0.74 ± 0.10 2.67 ± 1.73
+GreatVes 0.70 ± 0.08 (0.65) * 3.37 ± 1.42 (4.14) * 3
+0.90 ± 0.09 2.55 ± 1.40
+Heart 0.88 ± 0.08 (0.87) * 3.39 ± 1.91 (3.06) * 3
+0.95 ± 0.02 0.40 ± 0.31
+Humerus_Head_L 0.95 ± 0.02 (0.94) *† 0.40 ± 0.23 (0.63) * 2.8
+0.96 ± 0.02 0.31 ± 0.26
+Humerus_Head_R 0.93 ± 0.09 (0.90) *† 0.82 ± 2.37 (1.81) * 2.8
+0.92 ± 0.05 0.94 ± 0.80
+Kidney_L 0.74 ± 0.18 (0.85) * 4.25 ± 3.38 (2.27) * 3
+0.91 ± 0.07 0.98 ± 0.66
+Kidney_R 0.74 ± 0.18 (0.84) * 3.77 ± 2.28 (1.91) * 3
+0.52 ± 0.14 3.06 ± 1.08
+Larynx 0.45 ± 0.21 (0.44) * 3.13 ± 1.18 (3.59) * 2.4
+0.93 ± 0.06 2.00 ± 1.79
+Liver 0.85 ± 0.11 (0.89) * 5.30 ± 4.79 (3.54) * 3
+0.96 ± 0.02 0.77 ± 0.37
+Lung_L 0.95 ± 0.02 (0.95) * 0.90 ± 0.39 (0.90) * 3
+0.96 ± 0.02 0.89 ± 0.43
+Lung_R 0.95 ± 0.03 (0.95) * 1.11 ± 0.58 (1.07) * 3
+0.45 ± 0.16 2.07 ± 1.52
+Musc_Constrict 0.41 ± 0.16 (0.33) * 2.22 ± 1.86 (3.11) * 2
+0.41 ± 0.24 15.18 ± 8.68 ± 11.12
+Pancreas 0.17 ± 0.19 (0.24) * 18.92 (22.23) 2.25
+0.66 ± 0.16 1.41 ± 0.63
+SpinalCord 0.66 ± 0.16 (0.62) * 1.47 ± 0.88 (1.62) * 2.75
+0.79 ± 0.19 2.33 ± 2.12
+Stomach 0.46 ± 0.21 (0.70) * 10.47 ± 6.72 (4.62) 3
+Trachea 0.67 ± 0.17 0.74 ± 0.16 1.22 ± 0.61 0.88 ± 0.54 3
+Page 13 of 19Dice MDA External
+4.1.0 CT Dice Contour MDA Contour Evaluation
+Model: Structure: MIM Atlas ProtégéAI MIM Atlas ProtégéAI Score
+(0.65) * (1.17) *
+0.65 ± 0.11 2.58 ± 1.17
+LN_Ax_L1_L 0.59 ± 0.09 (0.53) * 2.73 ± 0.81 (3.90) * 3
+0.58 ± 0.14 3.19 ± 1.61
+LN_Ax_L1_R 0.52 ± 0.12 (0.46) * 3.57 ± 1.31 (4.80) * 3
+0.63 ± 0.16 2.10 ± 0.96
+LN_Ax_L2_L 0.58 ± 0.16 (0.50) * 2.56 ± 1.37 (3.12) * 2.67
+0.60 ± 0.20 2.70 ± 1.77
+LN_Ax_L2_R 0.55 ± 0.20 (0.46) * 2.88 ± 1.45 (3.87) * 2.67
+0.61 ± 0.19 2.15 ± 1.52
+LN_Ax_L3_L 0.55 ± 0.17 (0.46) * 2.33 ± 1.38 (3.36) * 3
+0.50 ± 0.18 2.53 ± 1.41
+LN_Ax_L3_R 0.46 ± 0.16 (0.36) * 2.82 ± 1.49 (3.90) * 3
+0.37 ± 0.16 1.63 ± 0.96
+LN_IMN_L 0.17 ± 0.11 (0.20) * 2.66 ± 1.05 (2.93) * 2.67
+0.48 ± 0.19 1.55 ± 1.60
+LN_IMN_R 0.24 ± 0.16 (0.33) * 2.55 ± 1.84 (2.99) * 2.67
+0.67 ± 0.15 1.87 ± 0.89
+LN_Sclav_L 0.60 ± 0.15 (0.53) * 2.18 ± 0.72 (2.64) * 2.67
+0.55 ± 0.10 2.60 ± 0.85
+LN_Sclav_R 0.48 ± 0.09 (0.44) * 2.89 ± 0.88 (3.54) * 2.67
+Whole Body
+–
+Physiologic
+al Uptake 0.87 ± 0.05 0.91 ± 1.02
+Organs Bone 0.76 ± 0.08 (0.75) * 3.80 ± 2.88 (1.87) * 3
+0.74 ± 0.10 0.48 ± 0.13
+Bowel 0.46 ± 0.14 (0.62) * 1.32 ± 1.01 (3.32) 3
+0.75 ± 0.15 7.69 ± 5.07
+BowelBag 0.59 ± 0.14 (0.68) * 10.57 ± 5.08 (12.61) 3
+0.97 ± 0.03 17.18 ± 5.24
+Brain 0.97 ± 0.01 (0.96) * 18.17 ± 5.89 (20.30) 3
+0.78 ± 0.12 0.91 ± 1.17
+Cavity_Oral 0.77 ± 0.13 (0.68) * 0.69 ± 0.37 (1.32) * 3
+0.37 ± 0.16 3.19 ± 1.66
+Glnd_Lacrimal_L 0.23 ± 0.17 (0.24) * 3.18 ± 1.96 (4.56) * 3
+0.46 ± 0.14 0.72 ± 0.43
+Glnd_Lacrimal_R 0.24 ± 0.16 (0.34) * 0.88 ± 0.51 (1.13) * 3
+0.79 ± 0.06 0.81 ± 0.79
+Glnd_Submand_L 0.58 ± 0.11 (0.72) * 0.74 ± 0.39 (1.36) * 3
+0.77 ± 0.06 0.81 ± 0.35
+Glnd_Submand_R 0.55 ± 0.16 (0.68) * 1.65 ± 0.53 (1.14) * 3
+Heart 0.89 ± 0.04 0.91 ± 0.04 1.83 ± 0.90 0.81 ± 0.38 3
+Page 14 of 19Dice MDA External
+4.1.0 CT Dice Contour MDA Contour Evaluation
+Model: Structure: MIM Atlas ProtégéAI MIM Atlas ProtégéAI Score
+(0.87) * (1.38) *
+0.93 ± 0.04 2.65 ± 0.93
+Kidney_L 0.72 ± 0.17 (0.84) * 3.10 ± 0.84 (3.42) * 3
+0.92 ± 0.07 0.90 ± 0.51
+Kidney_R 0.73 ± 0.19 (0.82) * 3.76 ± 2.43 (2.14) * 3
+0.93 ± 0.07 0.85 ± 0.44
+Liver 0.84 ± 0.12 (0.87) * 3.74 ± 2.91 (2.34) * 3
+0.71 ± 0.03 2.26 ± 3.82
+LN_Iliac 0.63 ± 0.04 (0.68) * 5.28 ± 3.59 (4.41) * 3
+0.81 ± 0.05 1.59 ± 0.33
+Parotid_L 0.71 ± 0.09 (0.77) * 2.59 ± 0.56 (1.97) * 3
+0.82 ± 0.05 1.30 ± 0.47
+Parotid_R 0.71 ± 0.09 (0.78) * 1.97 ± 0.65 (1.62) * 3
+0.85 ± 0.05 1.34 ± 0.56
+Prostate 0.71 ± 0.14 (0.76) * 2.08 ± 0.71 (1.70) * 3
+0.95 ± 0.01 1.55 ± 0.61
+Spleen 0.72 ± 0.10 (0.87) * 3.21 ± 1.54 (2.53) * 3
+Mean ± Std Dice coefficient (lower 95th percentile confidence bound based on normal distribution in parentheses)
+* Equivalence demonstrated at p=0.05 significance level between Contour ProtégéAI and MIM Atlas
+† Comparisons for both atlas and Contour ProtégéAI calculated only on axial slices that contained the ground truth.
+Additionally, preliminary user evaluation conducted as part of testing demonstrated that Contour
+ProtégéAI yields comparable time-saving functionality when creating contours as other
+commercially available automatic segmentation products.
+Table 3: 4.1.0 CT models cumulative APL in mm
+4.1.0 CT Models: MIM Atlas Contour ProtégéAI
+Head and Neck 38.69 ± 33.36 28.61 ± 29.59 (31.61) *
+Thorax 89.24 ± 82.73 65.44 ± 68.85 (72.54) *
+Whole Body -
+Physiological Uptake
+Organs 138.06 ± 142.42 98.20 ± 127.11 (118.75) *
+Mean ± Std APL mm (upper 95th percentile confidence bound based on normal distribution in parentheses)
+* Equivalence demonstrated at p=0.05 significance level between Contour ProtégéAI and MIM Atlas
+Table 4: 4.1.0 CT models localization accuracy
+4.1.0 CT Models: Structure: Relevant FOV Whole Body CT
+Head and Neck Bone_Mandible 100 100
+BrachialPlex_L 100 91
+BrachialPlex_R 100 95
+Page 15 of 194.1.0 CT Models: Structure: Relevant FOV Whole Body CT
+Brain 100 100
+Brainstem 100 100
+Cavity_Oral 100 100
+Cochlea_L 95 95
+Cochlea_R 96 95
+Eye_L 100 100
+Eye_R 100 100
+Glnd_Lacrimal_L 98 100
+Glnd_Lacrimal_R 100 100
+Glnd_Submand_L 100 100
+Glnd_Submand_R 100 100
+Glnd_Thyroid 98 95
+Lens_L 97 100
+Lens_R 97 95
+Lips 100 95
+OpticChiasm 80 91
+OpticNrv_L 99 100
+OpticNrv_R 99 100
+Parotid_L 99 100
+Parotid_R 100 100
+Pituitary 100 86
+SpinalCord 99 100
+LN_Neck_IA 100 100
+LN_Neck_IB_L 100 100
+LN_Neck_IB_R 100 100
+LN_Neck_IIA_L 100 100
+LN_Neck_IIA_R 100 95
+LN_Neck_IIB_L 100 100
+LN_Neck_IIB_R 100 95
+LN_Neck_III_L 100 100
+Page 16 of 194.1.0 CT Models: Structure: Relevant FOV Whole Body CT
+LN_Neck_III_R 100 100
+LN_Neck_IV_L 100 100
+LN_Neck_IV_R 100 95
+LN_Neck_V_L 100 100
+LN_Neck_V_R 100 91
+LN_Neck_VIA 100 100
+LN_Retropharynx_L 100 100
+LN_Retropharynx_R 95 100
+LN_Retrostyloid_L 100 100
+LN_Retrostyloid_R 100 100
+Thorax BrachialPlex_L 100 100
+BrachialPlex_R 100 100
+Breast_L 100 100
+Breast_R 96 91
+Bronchus 100 100
+Carina 98 100
+Cricoid 67 100
+Esophagus 100 100
+Glnd_Thyroid 100 100
+GreatVes 100 100
+Heart 100 100
+Humerus_Head_L 100 95
+Humerus_Head_R 100 100
+Kidney_L 97 91
+Kidney_R 97 95
+Larynx 99 95
+Liver 100 100
+Lung_L 100 100
+Lung_R 100 100
+Musc_Constrict 100 91
+Page 17 of 194.1.0 CT Models: Structure: Relevant FOV Whole Body CT
+Pancreas 54 91
+SpinalCord 100 100
+Stomach 100 100
+Trachea 99 100
+LN_Ax_L1_L 100 100
+LN_Ax_L1_R 100 100
+LN_Ax_L2_L 100 100
+LN_Ax_L2_R 100 100
+LN_Ax_L3_L 100 100
+LN_Ax_L3_R 100 100
+LN_IMN_L 100 100
+LN_IMN_R 100 100
+LN_Sclav_L 100 100
+LN_Sclav_R 100 100
+Whole Body -
+Physiological Uptake
+Organs Bladder N/A 95
+Bone N/A 100
+Bowel N/A 100
+BowelBag N/A 100
+Brain N/A 100
+Cavity_Oral N/A 100
+Glnd_Lacrimal_L N/A 100
+Glnd_Lacrimal_R N/A 100
+Glnd_Submand_L N/A 100
+Glnd_Submand_R N/A 100
+Heart N/A 100
+Kidney_L N/A 95
+Kidney_R N/A 100
+Liver N/A 100
+LN_Iliac N/A 64
+Page 18 of 194.1.0 CT Models: Structure: Relevant FOV Whole Body CT
+Parotid_L N/A 100
+Parotid_R N/A 100
+Prostate N/A 100
+Spleen N/A 100
+Percentage of images that were successfully localized by Contour ProtégéAI. N/A (not applicable)
+refers to models which the relevant FOV is a Whole Body CT.
+Known Limitations and Biases:
+Contour ProtégéAI can produce incorrect or implausible segmentations when the underlying
+anatomy is in the field of view of the scan but not clearly discernable due to image quality, noise,
+or the generally low contrast of some structures. This can occur in any situation where the
+organ at risk is not clearly discernable in the image, but has been observed for submandibular
+glands, optic nerves, and optic chiasm, in particular.
+While both images with and without IV contrast are represented in the training set for Contour
+ProtégéAI, the effect of iodinated contrast can vary due to patient weight, contrast dosage, and
+time since injection. In cases where there is unusually intense brain enhancement, the posterior
+boundary of the brain can be incorrectly segmented.
+The age breakdown of the training data, where patient age was available, was predominantly in
+the 40-60 and 60+ age ranges. While this is appropriate to the intended patient population, only
+a small proportion of testing and training data was for patients under 40, so more intensive
+review may be warranted for younger patients.
+Where patient sex was available, the ratio of male to female patients in the training set was
+roughly 2:1. The testing data was chosen with a more even ratio (about 0.82:1) to establish
+applicability of the model to both.
+Conclusion
+Based on the Discussion and Testing and Performance Data above, the proposed device is
+determined to be as safe and effective as its predicate device, Contour ProtégéAI 510 K223774.
+In addition, the proposed device performs as well as the reference predicate device, MIM 4.1
+SEASTAR (tradename MIM Maestro) K071964.
+References
+1 Vaassen, F. et al. Evaluation of measures for assessing time-saving of automatic organ-at-risk
+segmentation in radiotherapy. Physics and Imaging in Radiation Oncology 13, 1–6 (2020).
+Page 19 of 19

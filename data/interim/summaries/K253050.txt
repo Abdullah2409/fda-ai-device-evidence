@@ -1,0 +1,973 @@
+June 18, 2026
+InformAI, Inc.
+Jackie Coleman
+Regulatory Lead
+2450 Holcombe Blvd.
+Houston, Texas 77021
+Re: K253050
+Trade/Device Name: RadOncAI
+Regulation Number: 21 CFR 892.5050
+Regulation Name: Medical charged-particle radiation therapy system
+Regulatory Class: Class II
+Product Code: MUJ
+Dated: May 19, 2026
+Received: May 19, 2026
+Dear Jackie Coleman:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.K253050 - Jackie Coleman Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality Management System Regulation
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls),
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review,
+the QMSR requires device manufacturers to review and approve changes to device design and production
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical
+Device File (ISO 13485 clause 4.2.3).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. SeeK253050 - Jackie Coleman Page 3
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D.
+Assistant Director
+DHT8C: Division of Radiologic Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K253050
+Device Name
+RadOncAI
+Indications for Use (Describe)
+RadOncAI is indicated for use in a clinical setting by radiation oncologists, medical physicists, and dosimetrists to
+configure and review radiotherapy treatment plans for adult patients with malignant or benign head-and-neck disease.
+The software accepts:
+CT-simulation scan
+Clinician-defined planning target volumes; and
+Clinician-supplied data of organs-at-risk (OARs)
+Using these inputs, RadOncAI generates a patient-specific preliminary dose distribution that includes:
+Estimated achievable dose coverage to the planning target volume(s); and
+Estimated achievable sparing of surrounding OARs.
+The directive derived from the AI-generated plan must be reviewed, revised and approved by a qualified professional
+before clinical implementation. The AI-generated dose distribution generated by the software is intended to be transferred
+to a compatible radiotherapy TPS or reviewed using DICOM-RT compliant software prior to further use in clinical
+workflows. RadOncAI is not intended for primary diagnosis, autonomous clinical decision-making, delivery of radiation,
+or use in patient populations, anatomic sites, or treatment modalities outside the indications stated above. Caution: Federal
+law restricts this device to sale by or on the order of a physician.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK253050
+510(k) Summary
+InformAI, Inc.
+This 510(k) Summary is in conformance with 21 CFR 807.92
+Submitter: InformAI, Inc.
+2450 Holcombe Blvd
+TMCi Innovation Center
+Houston, Texas 77021
+United States
+Primary Contact: Jim Havelka, CEO
+InformAI, Inc.
+Email: jcoleman@informai.com
+Phone: 832-754-5350
+Device Name and Classification
+Trade Name: RadOncAI
+Common Name: Radiation Treatment Planning Support Software; AI-Powered Dose
+Prediction Software
+Classification: Class II
+Regulation Number: 21 CFR § 892.5050 Medical charged-particle radiation therapy system
+Classification Panel: Radiology
+Product Code: MUJ
+Predicate Device:
+Predicate Device
+Trade Name Oncospace
+Common Name Oncospace
+510(k) Submitter / Holder Sigrid Schoepel
+Oncospace, Inc.
+510(k) Number K222803
+Classification Class II
+Regulation Number 21 CFR § 892.5050
+Medical charged-particle radiation therapy system
+Classification Panel Radiology
+Product Code MUJ
+The predicate device has not been subject to a design-related recall.
+Device Description
+RadOncAI is a software-only Class II medical device; it is an artificial intelligence-guided (AI/ML) dose
+prediction platform for head and neck radiation therapy treatment planning. The device enables clinicians
+to generate high-quality, patient-specific dose plans. The software takes the patient’s diagnostic CT
+images and clinician-defined targets/organs-at-risk as inputs, and produces a predicted, optimized 3D
+radiation dose distribution as the output. The device employs locked machine learning models that are
+not modifiable by the end user. RadOncAI works in conjunction with, and does not replace, a treatment
+planning system (TPS). The device does not perform final dose calculation for treatment delivery. Rather,
+the generated preliminary dose predictions must be transferred to a compatible Treatment Planning
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 1 of 21System (TPS), and reviewed by qualified radiation therapy professionals, who optimize and finalize the
+dose treatment plan prior to clinical implementation.
+RadOncAI is a locked supervised machine-learning device. Model training, internal validation/tuning, and
+development testing were completed before final FDA validation. The final FDA validation cohort was
+assembled separately and was used only to evaluate the locked model. Prior to selection of the final FDA
+validation cohort, anonymized patient identifiers associated with the model training/development datasets
+were identified and excluded from the regulatory validation candidate pool. The final 500-patient FDA
+validation cohort, including the 50-case clinical QC subset, was therefore patient-level distinct from the
+model training/development datasets. Training data comprised historical adult head and neck
+radiotherapy cases with available treatment-planning image/structure information, clinician-defined
+targets and OARs, prescription information, and clinically delivered or clinically accepted photon
+treatment-planning dose data appropriate for model development. Data exclusions included: cases
+outside the adult head and neck intended-use population; cases lacking required imaging, structure,
+prescription, or dose data; cases not meeting clinical planning-quality requirements for model-
+development use.
+The radiation oncology workflow with RadOncAI is shown below:
+Intended Use
+RadOncAI is indicated for use in a clinical setting by radiation oncologists, medical physicists, and
+dosimetrists to configure and review radiotherapy treatment plans for adult patients with malignant or
+benign head-and-neck disease. The AI-generated dose distribution is exported as a DICOM RT Dose
+object and is intended to be transferred to a compatible radiotherapy TPS or reviewed using DICOM-RT
+compliant software prior to further use in clinical workflows. This device is for prescription use by order of
+a clinician.
+Indications for Use
+RadOncAI is indicated for use in a clinical setting by radiation oncologists, medical physicists, and
+dosimetrists to configure and review radiotherapy treatment plans for adult patients with malignant or benign
+head-and-neck disease.
+The software accepts:
+● CT-simulation scan
+● Clinician-defined planning target volumes; and
+● Clinician-supplied data of organs-at-risk (OARs)
+Using these inputs, RadOncAI generates a patient-specific preliminary dose distribution that includes:
+● Estimated achievable dose coverage to the planning target volume(s); and
+● Estimated achievable sparing of surrounding OARs.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 2 of 21The directive derived from the AI-generated plan must be reviewed, revised and approved by a qualified
+professional before clinical implementation. The AI-generated dose distribution generated by the software
+is intended to be transferred to a compatible radiotherapy TPS or reviewed using DICOM-RT compliant
+software prior to further use in clinical workflows. RadOncAI is not intended for primary diagnosis,
+autonomous clinical decision-making, delivery of radiation, or use in patient populations, anatomic sites, or
+treatment modalities outside the indications stated above. Caution: Federal law restricts this device to
+sale by or on the order of a physician.
+Comparison of Technology Table
+The table below provides a detailed comparison of technology:
+Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Product Code MUJ (21 CFR 892.5050) MUJ (21 CFR 892.5050) Same. Both devices are
+classified under the same
+product code for radiation
+therapy treatment planning
+systems.
+Device System, Planning, System, Planning, Same. Both devices share
+Classification Radiation Therapy Radiation Therapy the same classification name
+Treatment (Class II) Treatment (Class II) and regulatory class.
+Intended Use RadOncAI is indicated for Oncospace is used to Substantially Equivalent.
+use in a clinical setting by configure and review Both devices provide AI-
+radiation oncologists, radiotherapy treatment generated dosimetric
+medical physicists, and plans for a patient with guidance for external beam
+dosimetrists to configure malignant or benign radiotherapy treatment
+and review radiotherapy disease in the prostate, planning for head and neck
+treatment plans for adult head, and neck regions. cancer, intended for use by
+patients with malignant or It allows for set up of qualified radiation therapy
+benign head-and-neck radiotherapy treatment professionals. Both require
+disease. The AI- protocols, association of output to be reviewed in a
+generated dose a potential treatment TPS before clinical use. The
+distribution is exported as plan with the protocol(s), subject device is indicated
+a DICOM RT Dose object submission of a dose for head and neck only; the
+and is intended to be prescription and predicate also covers
+transferred to a achievable dosimetric prostate cancer. The
+compatible radiotherapy goals to a treatment narrower anatomical scope
+TPS or reviewed using planning system, and does not raise new
+DICOM-RT compliant review of the treatment questions of safety or
+software prior to further plan. It is intended for effectiveness.
+use in clinical workflows. use by qualified, trained
+This device is for radiation therapy
+professionals. This
+device is for prescription
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 3 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+prescription use by order use by order of a
+of a clinician. physician.
+Indications for RadOncAI is indicated for Oncospace is used to Different. The differences do
+Use use in a clinical setting by configure and review not constitute a new
+radiation oncologists, radiotherapy treatment intended use. Both devices
+medical physicists, and plans for a patient with are prescription-use
+dosimetrists to configure malignant or benign radiation treatment planning
+and review radiotherapy disease in the prostate, support software tools used
+treatment plans for adult head, and neck regions. by qualified radiation therapy
+patients with malignant or It allows for set up of professionals to configure
+benign head-and-neck radiotherapy treatment and review radiotherapy
+disease. The software protocols, association of treatment plans in
+accepts: 1) CT-simulation a potential treatment conjunction with a treatment
+scan, 2) Clinician-defined plan with the protocol(s), planning system. RadOncAI
+planning target volumes; submission of a dose is limited to adult patients
+and 3) Clinician-supplied prescription and with malignant or benign
+data of organs-at-risk achievable dosimetric head-and-neck disease,
+(OARs). Using these goals to a treatment while the predicate includes
+inputs, RadOncAI planning system, and patients with malignant or
+generates a patient- review of the treatment benign disease in the
+specific preliminary dose plan. It is intended for prostate, head, and neck
+distribution that includes: use by qualified, trained regions; this narrower
+Estimated achievable radiation therapy anatomical scope does not
+dose coverage to the professionals (such as raise new questions of safety
+planning target medical physicists, or effectiveness. RadOncAI
+volume(s); and Estimated oncologists, and exports an AI-generated
+achievable sparing of dosimetrists). This DICOM RT Dose object for
+surrounding OARs. The device is for prescription TPS or DICOM-RT review,
+directive derived from the use by order of a while the predicate submits
+AI-generated plan must physician. prescription and achievable
+be reviewed, revised and dosimetric goals to a TPS;
+approved by a qualified both outputs provide
+professional before dosimetric planning
+clinical implementation. guidance that requires
+The AI-generated dose qualified professional review
+distribution generated by before clinical use.
+the software is intended
+to be transferred to a
+compatible radiotherapy
+TPS or reviewed using
+DICOM-RT compliant
+software prior to further
+use in clinical workflows.
+RadOncAI is not intended
+for primary diagnosis,
+autonomous clinical
+decision-making, delivery
+of radiation, or use in
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 4 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+patient populations,
+anatomic sites, or
+treatment modalities
+outside the indications
+stated above. Caution:
+Federal law restricts this
+device to sale by or on
+the order of a physician.
+Software V&V Validation testing was Validation testing was Both devices demonstrated
+/ Performance performed using performed using safety and effectiveness
+Testing retrospective clinical data retrospective clinical through retrospective clinical
+from 500 adult head and data. Non-inferiority of validation using paired plan
+neck cancer patients mean OAR dose sparing comparisons. The subject
+from UT Southwestern was demonstrated. For device's validation is more
+(UTSW) and multiple H&N: 19 plans tested, extensive for head and neck
+Arizona Oncology sites. 27 OARs evaluated, use: larger sample size (500
+The final validation cohort non-inferiority vs. 19 patients for the
+included 295 definitive demonstrated to 8 Gy. predicate head and neck
+and 205 post- No statistically validation), multi-source
+operative/adjuvant cases. significant differences in design, independent clinical
+The study demonstrated target coverage. review component, and
+PTV dose equivalence tighter equivalence/non-
+for 9/9 pre-specified PTV inferiority margins (3 Gy vs.
+tests within +/-300 cGy 8 Gy). These differences
+and OAR non-inferiority support substantial
+for 21/21 pre-specified equivalence and do not raise
+OAR metrics within +300 new questions of safety or
+cGy at adjusted alpha effectiveness.
+levels. Additionally, 50
+AI-generated cases were
+independently reviewed
+by 3 board-certified
+radiation oncologists for
+150 total reviewer
+assessments,
+demonstrating 100.0%
+clinical acceptability and
+98.7% OAR achievability.
+Model-specific
+assessment was
+performed separately for
+definitive and post-
+operative/adjuvant
+models.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 5 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Typical Users Qualified radiation Medical professionals, Same. Both devices are
+therapy professionals: including but not limited intended for the same
+radiation oncologists, to, radiation oncologists, qualified clinical user
+board-certified medical medical physicists or population.
+physicists, and certified physicians
+medical dosimetrists
+Patient Adult patients (aged 18+) There are no Substantially Equivalent. The
+Population with malignant or benign demographic, regional, subject device specifies
+head-and-neck disease. or cultural limitations for adult head and neck
+Validated across diverse patients. It is up to the patients; the predicate
+demographics including user to determine if the leaves population
+multiple cancer subtypes system can be used for determination to the user.
+(oropharyngeal, a patient. The subject device’s explicit
+laryngeal, population definition reflects
+nasopharyngeal, etc.), FDA expectations for AI
+both definitive and post- device labeling and does not
+operative cases, and raise new safety concerns.
+patients from academic Validation data
+and community oncology encompasses 500 patients
+settings. across 2 institutions with
+diverse demographics (see
+Performance Study).
+Risk Class II (moderate risk) Class II (moderate risk) Same. Both devices carry
+Classification the same risk classification
+under 21 CFR 892.5050.
+DICOM-RT Yes. The device accepts Yes. The device accepts Same. Both devices operate
+Compliant DICOM-RT inputs (CT and exports DICOM-RT within the DICOM-RT
+images, RT Structure compliant data. standard for radiation
+sets) and exports DICOM therapy data exchange.
+RT Dose objects
+containing the predicted
+3D dose distribution
+along with DVH metrics
+for OARs.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 6 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Technological Locked machine learning Locked machine Same processing
+Approach algorithm. The subject learning algorithm. The fundamentals. Both devices
+device uses pre-trained, predicate uses pre- employ locked machine
+locked neural network trained, locked ML learning models trained on
+models that generate models that predict patient-specific anatomical
+patient-specific dose achievable dosimetric geometry to generate
+predictions from goals/objectives for dosimetric predictions for
+anatomical geometry. OARs based on patient- radiation therapy treatment
+The algorithms are not specific anatomical planning. Both models are
+modifiable or editable by geometry. The algorithm locked prior to clinical use
+the end user. Two locked is locked prior to clinical and are not modifiable by the
+models are provided: one use. end user. The specific model
+for definitive treatment architectures differ (the
+cases and one for post- subject device generates 3D
+operative (adjuvant) dose distributions; the
+cases. predicate predicts OAR
+dosimetric objectives), but
+both produce dosimetric
+guidance that is reviewed by
+qualified professionals
+before clinical use. This
+difference in output
+granularity does not raise
+new questions of safety or
+effectiveness, as
+demonstrated through the
+subject device’s validation
+testing (500 patients, 2 sites,
+all primary endpoints met).
+Full Treatment No. RadOncAI is not a No. Oncospace works in Same. Neither device is a
+Planning full treatment planning conjunction with, and full treatment planning
+System system. It generates does not replace, a system. Both generate
+preliminary dose treatment planning dosimetric information
+predictions that must be system (TPS). The user intended to be used within
+transferred to a retains full control of the the context of an existing
+compatible TPS for plan TPS, including TPS workflow, and both
+finalization, optimization, finalization of the require a separate TPS for
+and delivery parameter treatment plan. treatment plan finalization
+generation. The device and delivery.
+does not perform leaf
+sequencing, beam
+modulation, or final dose
+calculation for treatment
+delivery.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 7 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Connected to No. RadOncAI does not No. Oncospace does not Same. Neither device
+or Controlling interface with treatment interface with the connects to or controls
+of Radiation machines, record-and- treatment machines. radiation delivery devices.
+Delivery verify systems, or any The risk to patient safety is
+Devices radiation delivery lower than a TPS since both
+equipment. devices only inform the
+treatment plan and do not
+interface directly with
+treatment machines.
+Input Data Patient CT-simulation Patient CT images, RT Same fundamental data types.
+imaging, clinician-defined Structure sets, and target Both devices accept patient
+planning target volumes dose information specified CT imaging and structure set
+(PTVs), and clinician- via treatment protocols or data (target volumes and OAR
+supplied organs-at-risk user input. contours) as primary inputs.
+(OAR) contours. The The subject device operates
+device operates on on anatomy inputs only; the
+anatomy only; dose predicate additionally accepts
+prescription and dose prescription parameters
+fractionation parameters via protocols or user input.
+are determined This difference does not raise
+independently by the new safety concerns — the
+treating physician. subject device’s dose
+predictions are based on
+patient-specific anatomy, and
+the treating physician
+independently determines
+prescription and fractionation,
+which is standard clinical
+practice.
+Automatic Yes. Regions of interest Yes. Regions of interest Same. Both devices provide
+Structure are automatically are matched as the automatic ROI matching with
+Matching matched when patient study is opened in the user override capability. The
+data is loaded into the device. Users can adjust subject device additionally
+device. The device or match to more includes a mandatory
+includes a mandatory available regions of clinician confirmation step for
+confirmation step where interest. each structure mapping,
+clinicians must providing an additional
+individually review and safety check that ensures
+approve each structure structure identification
+name mapping before accuracy before dose
+proceeding. Users can prediction is initiated.
+manually adjust any
+mapping.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 8 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Plan Review Yes. RadOncAI includes Contains integrated Substantially Equivalent. Both
+Functionality built-in visualization of features and GUI for devices include built-in plan
+isodose line overlays on treatment plan review, review features including
+CT imaging, DVH display including review of isodose visualization, DVH
+for OAR structures, and isodose lines, DVHs, display, and dose summation.
+dose summation dose comparison The predicate additionally
+capability. Multi-plan between multiple plans, supports multi-plan dose
+dose comparison and dose summation. comparison within its own
+(comparing AI output Provides a user interface, while the subject
+against other plans within interface for plan device relies on the clinical
+RadOncAI) is not evaluation against TPS for comparative plan
+supported; comparative protocol-based and evaluation. This difference
+evaluation of AI-predicted predicted goals. does not raise new safety
+dose against manual concerns — comparative plan
+plans is performed in the review is a standard function
+clinician’s TPS. of the clinical TPS
+environment where qualified
+professionals already conduct
+plan evaluation as part of
+routine practice.
+Processing Processes input using Processes treatment Same processing
+and Device locked ML models to plan data using locked fundamentals but different
+Output generate a patient- ML models trained on output formats. Both devices
+specific 3D dose patient-specific use locked ML models
+distribution, including anatomical geometry to operating on patient-specific
+estimated achievable predict achievable anatomy to produce
+dose coverage to dosimetric dosimetric predictions. The
+planning target volumes goals/objectives for subject device generates a
+and estimated achievable OARs. Supplies dose complete 3D dose
+sparing of surrounding prescription, delivery distribution exported as a
+OARs. Output is exported method, protocol-based DICOM RT Dose object; the
+as a DICOM RT Dose target objectives, and predicate predicts OAR
+object along with DVH predicted OAR dosimetric objectives and
+metrics for each OAR objectives to a TPS to supplies them to a TPS.
+structure. automate initiation of Both outputs serve the same
+plan optimization. clinical purpose: providing
+patient-specific dosimetric
+guidance to support
+treatment plan optimization.
+The difference in output
+granularity does not raise
+new questions of safety or
+effectiveness — both outputs
+require review by qualified
+professionals and further
+processing in a TPS before
+clinical use.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 9 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Import No. RadOncAI does not Yes. Import existing Different. The subject device
+Treatment import existing treatment plans from third-party does not support import of
+Plans plans from third-party systems to compare third-party treatment plans; it
+systems. The device dose objectives against generates de novo dose
+generates new dose templates. predictions from patient
+predictions from patient anatomy. The predicate
+anatomy inputs (CT supports plan import for
+imaging and structure comparison against
+sets) only. templates. This difference
+does not raise new safety
+concerns — it reflects a
+more focused device scope.
+The subject device’s output
+is exported to the clinical
+TPS, where comparison
+against existing plans can be
+performed as part of the
+standard clinical workflow.
+Export Plan Yes. The device exports Yes. Can export the Same. Both devices export
+Information AI-generated dose selected plan for review preliminary dosimetric
+predictions as DICOM RT and setup by a information for use in
+Dose objects for review dosimetrist. Oncospace treatment planning
+and further optimization does not export a final workflows and neither
+by a dosimetrist in a plan; it will not export to exports a final deliverable
+compatible TPS. a record-and-verify plan or interfaces with
+RadOncAI does not system. record-and-verify systems.
+export a final deliverable The subject device exports
+treatment plan and does DICOM RT Dose objects;
+not export to a record- the predicate exports
+and-verify system. dosimetric objectives in TPS-
+specific formats. Both export
+mechanisms serve the same
+clinical purpose of
+transferring AI-generated
+dosimetric guidance into the
+TPS for further clinical use.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 10 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Dose RadOncAI displays its AI- Yes. Comparison can be Different. The predicate
+predicted DVH metrics done between more includes built-in dose
+Objective
+for OAR structures. than one selected comparison against multiple
+Comparison Comparison of AI- treatment plan. Dose is plans and gold-standard
+predicted dose against based on calculated templates. The subject
+manual or alternative dose and curated, gold- device displays AI-predicted
+plans is not performed standard treatment DVH metrics and relies on
+within RadOncAI; such plans. the clinical TPS for
+comparisons are comparative dose
+performed in the evaluation. This difference
+clinician’s TPS after does not raise new safety
+export. concerns — dose
+comparison is a standard
+function of the clinical TPS,
+and the subject device’s
+workflow ensures qualified
+professionals perform
+comparative evaluation as
+part of routine plan review in
+their existing clinical
+environment.
+Isodose Line Yes. RadOncAI displays Yes. Same. Both devices display
+Display isodose lines as visual isodose lines for plan review.
+overlays on patient CT
+imaging, rendered from
+the 3D dose distribution
+generated by the AI
+model. This is a
+visualization of the
+predicted dose grid, not
+an independent dose
+calculation.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 11 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+DVH Display Yes. RadOncAI Yes. Same. Both devices
+calculates dose-volume calculate and display dose-
+histogram metrics for volume histograms for plan
+each OAR structure by review. The subject device
+computing dose statistics computes OAR dose metrics
+from the 3D dose from its 3D dose prediction
+distribution against the output; the predicate
+clinician-supplied OAR computes DVH metrics from
+contours. These its dosimetric predictions.
+calculated DVH metrics
+(e.g., mean dose, max
+dose) are displayed
+within the device
+interface.
+Operating Windows, macOS, and Windows (Client and Substantially Equivalent. The
+System Linux Server) subject device is compatible
+with additional operating
+systems beyond the
+predicate (macOS and Linux
+in addition to Windows).
+Expanded OS compatibility
+increases clinical
+deployment flexibility without
+introducing new safety risks.
+The core device functionality
+and clinical output are the
+same regardless of
+operating system.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 12 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Platform Client-server Client-server Same architecture. Both
+architecture. AWS cloud- architecture. Clinic- devices use client-server
+based hosting with provided client architecture with cloud-
+HIPAA Business machines, cloud based hosting options. The
+Associate Agreement Windows servers subject device uses AWS
+(BAA) and encrypted controlled by cloud infrastructure with
+data transfer, as well as Oncospace. HIPAA BAA compliance and
+clinic-provided on- encrypted data transfer; the
+premises hosting options. predicate uses Oncospace-
+controlled Windows cloud
+servers. Both approaches
+provide secure remote
+processing with appropriate
+data protection measures.
+The subject device
+additionally supports on-
+premises deployment for
+institutions requiring local
+data control.
+Workflow DICOM-RT based data DICOM import, AI Substantially Equivalent.
+Interface and exchange. Patient data prediction planning UI, Both devices use DICOM-RT
+Integration (CT images, RT Structure TPS scripting integration based data exchange for
+sets) is imported via (e.g., Pinnacle scripting integration with clinical TPS
+DICOM. AI-generated language) for workflows. The predicate
+dose predictions are streamlined additionally includes TPS
+exported as DICOM RT transmission of DICOM scripting integration for
+Dose objects, which the files and plan automated data transfer; the
+clinician manually imports parameters. subject device uses manual
+into their clinical TPS DICOM export/import. This
+(e.g., Eclipse, Pinnacle, difference does not raise
+or a compatible clinical new safety concerns —
+TPS consistent with the manual DICOM import is a
+device labeling and V&V standard, well-established
+testing) for further review, workflow in radiation
+optimization, and plan oncology clinics and
+finalization. provides the clinician with
+direct control over data
+transfer.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 13 of 21Comparison RadOncAI K253050 Oncospace K222803
+Item (Subject Device) (Predicate Device) Comparison Assessment
+Acceptable 3 Gy (300 cGy) for both 8 Gy for H&N non- The subject device uses a
+Dose equivalence and non- inferiority margin substantially tighter dose
+Constraint inferiority margins tolerance constraint (3 Gy
+Tolerance vs. 8 Gy), representing a
+more conservative standard
+for establishing device
+performance. The 3 Gy
+margin is justified through
+QUANTEC guidelines,
+AAPM TG-218
+recommendations,
+NRG/RTOG clinical trial
+precedent, and published
+inter-observer variability
+studies (see Performance
+Study, Section 2.1).
+Machine Learning Approach
+RadOncAI is prescription-use software that assists qualified radiation therapy professionals in generating
+and evaluating initial external-beam radiotherapy treatment plans for adult definitive and post-operative
+head and neck cases. The device uses a locked, supervised machine-learning model to predict a patient-
+specific three-dimensional dose distribution from clinician-supplied imaging, structure, and prescription
+inputs. The output is a preliminary dose prediction and associated DVH/dose metrics for clinical review; it
+is not a final deliverable treatment plan, does not control radiation delivery, and must be reviewed, revised
+as needed, and approved by qualified clinical users.
+Item RadOncAI Description
+Model version AI_Model_RT_Unet_v3.1
+Learning approach Supervised deep learning for voxel-level three-dimensional dose prediction
+Architecture Convolutional neural network using a hierarchically dense U-Net / HD U-Net
+approach with attention mechanisms
+Primary inputs DICOM CT simulation image set, DICOM RT Structure Set contours, prescription
+dose levels, and treatment intent
+Primary outputs Predicted 3D dose distribution, DVH information, and PTV/OAR dose metrics for
+clinician review
+Clinical use control Locked model used as a treatment-planning aid with required professional review
+and approval
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 14 of 21RadOncAI Training, Test, and Final Validation Dataset Separation Summary
+RadOncAI is a locked supervised machine-learning device for adult head and neck radiation therapy
+treatment-planning support. Model training, internal validation/tuning, and development testing were
+completed before final FDA validation. The final FDA validation cohort was assembled separately and
+was used only to evaluate the locked model.
+Prior to selection of the final FDA validation cohort, anonymized patient identifiers associated with the
+model training/development datasets were identified and excluded from the regulatory validation
+candidate pool. The final 500-patient FDA validation cohort, including the 50-case clinical QC subset, was
+therefore patient-level distinct from the model training/development datasets. The final 500-patient
+validation cohort and the 50-case clinical QC subset were used only after model lock and did not
+contribute to model training, internal validation/tuning, development testing, model selection, threshold
+setting, or post-hoc model updates.
+StudyDate ranges are provided below as supporting metadata. The primary separation control was
+patient-level identifier exclusion, not calendar-date separation alone.
+Dataset Separation Summary
+Dataset Composition Use Separation control
+Published model- Nguyen et al. (2019) Documents development- The published studies
+development datasets described 120 head and stage training, validation, and document development-stage
+neck patients: 20 held out test splitting before the current splitting. Patient-level
+for testing and the FDA validation. exclusion from the final FDA
+remaining 100 evaluated validation cohort was
+using 5-fold cross- controlled using the curated
+validation with 80 training anonymized identifiers
+and 20 validation patients described below.
+per fold. Mashayekhi et
+al. (2023) described 97
+definitive head and neck
+SIB VMAT plans split into
+80 training, 12 validation,
+and 5 testing patients.
+Curated model- The regulatory data team Identify model-development These identifiers were
+development received anonymized cases to be excluded before removed from the regulatory
+exclusion manifests identifiers for 126 final FDA validation cohort validation candidate pool
+definitive model- selection. before the final 500-patient
+development cases with FDA validation cohort was
+CT StudyDate range selected. StudyDate ranges
+2011-07-13 to 2017-02- were retained as supporting
+08 and 119 post- metadata, but separation was
+operative model- controlled at the patient-
+development cases with identifier level.
+CT StudyDate range
+2017-02-21 to 2020-10-
+13.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 15 of 21Dataset Composition Use Separation control
+Final FDA validation 500 adult head and neck Final locked-model Selected only after model-
+cohort patient cases. Treatment performance validation using development identifiers were
+intent: definitive 295 and paired AI-generated and removed from the regulatory
+post-operative/adjuvant reference manual treatment- validation candidate pool.
+205. CT StudyDate planning data. Used after model lock only;
+metadata were available not used for model training,
+for all 500 cases: UTSW= internal validation/tuning,
+397 (2017-02-14 to 2020- model selection, development
+10-26) and Arizona testing, threshold setting, or
+Oncology treatment post-hoc model updates.
+centers=103 (2019-12-05
+to 2024-06-25); combined
+range 2017-02-14 to
+2024-06-25.
+Inclusion and Exclusion Criteria
+The datasets were defined to match the intended use of RadOncAI and to prevent training/development
+cases from contributing to final FDA validation.
+Dataset Inclusion criteria Exclusion criteria
+Model training/development Historical adult head and neck Cases outside the adult head and neck
+datasets radiotherapy cases with available intended-use population; cases lacking
+treatment-planning image/structure required imaging, structure, prescription,
+information, clinician-defined targets and or dose data; cases not meeting clinical
+OARs, prescription information, and planning-quality requirements for model-
+clinically delivered or clinically accepted development use.
+photon treatment-planning dose data
+appropriate for model development.
+Final 500-patient FDA Adult patients at least 18 years old; head Cases categorized as non-head-and-
+validation cohort and neck cancer diagnosis within the neck; cases missing critical dosimetric
+intended-use population; available CT data needed for primary endpoint
+simulation data and clinician-defined analysis; plans not meeting institutional
+PTV/OAR structures; available paired AI- dose-calculation or planning-quality
+generated and reference manual standards; cases with incomplete clinical
+treatment-planning dose data; treatment or demographic metadata required by the
+planning performed under established protocol; cases identified as part of the
+institutional quality-assurance processes; model training/development datasets.
+PTV and OAR data sufficient for
+NRG/RTOG- and QUANTEC-informed
+endpoint analysis.
+Clinical QC subset Randomly selected cases from the No additional QC-specific exclusions
+eligible final 500-patient FDA validation were applied after eligibility for the final
+cohort to reflect the distribution of clinical validation cohort was established.
+groupings.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 16 of 21Non-Clinical Performance Testing
+RadOncAI was validated in accordance with a Verification and Validation plan to ensure conformance
+with established performance criteria.
+Software
+Software verification and validation was performed for RadOncAI. These activities were performed in
+accordance with FDA guidance Content of Premarket Submissions for Device Software Functions (June
+2023) and IEC 62304:2015 Medical device software – Software life cycle processes.
+Cybersecurity
+InformAI performed cybersecurity testing for RadOncAI in accordance with FDA guidance Cybersecurity
+in Medical Devices: Quality Management System Considerations and Content of Premarket Submissions
+(February 2026).
+Summary of Clinical Validation:
+Validation testing was performed using retrospective clinical data from 500 adult head and neck cancer
+patients from UT Southwestern (UTSW) and multiple treatment locations for Arizona Oncology. The final
+validation cohort included 295 definitive and 205 post-operative/adjuvant cases. The study demonstrated
+PTV dose equivalence for 9/9 pre-specified PTV tests within +/-300 cGy and OAR non-inferiority for 21/21
+pre-specified OAR metrics within +300 cGy at adjusted alpha levels. Additionally, 50 AI-generated cases
+were independently reviewed by 3 board-certified radiation oncologists for 150 total reviewer
+assessments, demonstrating 100.0% clinical acceptability and 98.7% OAR achievability. Model-specific
+assessment was performed separately for definitive and post-operative/adjuvant models.
+Validation Dataset
+The validation dataset used for final performance testing included 500 adult head and neck patient cases.
+The final FDA analysis also documented the treatment locations represented in the validation cohort,
+including three primary treatment locations of UTSW Dallas and multiple Arizona Oncology treatment
+locations, as shown in the table below. Each validation case represents one individual patient CT
+simulation image set with clinician-defined structures and paired AI-generated and reference manual
+treatment-planning dose data.
+Dataset Element Count / Description
+Individual patient cases / image sets 500
+Treatment locations represented UTSW Dallas: 397; Arizona Oncology - Tucson: 64; Arizona Oncology -
+Prescott: 36; Arizona Oncology - Goodyear: 1; Arizona Oncology -
+Phoenix: 1; Arizona Oncology - Green Valley: 1
+Clinical organizations UT Southwestern: 397 (79.4%); Arizona Oncology treatment locations:
+103 (20.6%)
+Treatment intent Definitive: 295 (59.0%); post-operative/adjuvant: 205 (41.0%)
+Patient/sample relationship PTV category and OAR metric observations are derived from the same
+500 patient-level cases and are not additional independent patients
+PTV endpoint family 9 dose-metric tests: D95, D98, and D99 across high-, intermediate-, and
+low-dose PTV categories
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 17 of 21Dataset Element Count / Description
+OAR endpoint family 21 standardized OAR Dmean/Dmax metrics
+Clinical QC review 50 AI-generated cases reviewed by 3 board-certified radiation oncologists
+(150 total assessments)
+Demographic Distribution
+Demographic characteristics are summarized using the final FDA analysis dataset. Age is presented by
+prespecified age group; among patients with numeric age recorded, mean age was 64.0 years (SD 12.4;
+median 65.0; range 19-94 years). Sex, race, and ethnicity were recorded from the source clinical dataset
+as available.
+Category Level N %
+Age group >=70 years 178 35.6%
+Age group 60-69 years 151 30.2%
+Age group 50-59 years 108 21.6%
+Age group <50 years 62 12.4%
+Age group Unknown 1 0.2%
+Sex/Gender as recorded M 307 61.4%
+Sex/Gender as recorded F 126 25.2%
+Sex/Gender as recorded Unknown/Not Reported 67 13.4%
+Race White 333 66.6%
+Race Unknown/Not Reported 89 17.8%
+Race Black 38 7.6%
+Race Declined 23 4.6%
+Race Asian 10 2.0%
+Race Other 6 1.2%
+Race American Indian or Alaska Native 1 0.2%
+Ethnicity Non-hispanic 348 69.6%
+Ethnicity Unknown/Not Reported 67 13.4%
+Ethnicity Hispanic 53 10.6%
+Ethnicity Declined 23 4.6%
+Ethnicity Unknown 9 1.8%
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 18 of 21Category Level N %
+Cancer type Oropharynx 162 32.4%
+Cancer type Oral Cavity 99 19.8%
+Cancer type Other 84 16.8%
+Cancer type Larynx 55 11.0%
+Cancer type Salivary Gland 29 5.8%
+Cancer type Nasal Cavity 26 5.2%
+Cancer type Nasopharynx 17 3.4%
+Cancer type Hypopharynx 16 3.2%
+Cancer type Thyroid 12 2.4%
+Summary Test Statistics and Acceptance Criteria
+The final validation analysis used pre-specified paired comparisons of AI-generated dose predictions
+against reference manual treatment plans. PTV coverage was evaluated using equivalence testing with
++/-300 cGy margins and family-wise error control across PTV dose categories. OAR sparing was
+evaluated using one-sided non-inferiority testing with a +300 cGy margin and Bonferroni adjustment
+across the standardized OAR metrics. This framework reflects the clinical objective that target coverage
+remains comparable to accepted manual planning while organ-at-risk dose is not meaningfully higher
+than the paired manual reference plan.
+Endpoint Acceptance Criterion Final Result
+PTV coverage equivalence Equivalence within +/-300 cGy; 9/9 tests passed; mean absolute
+adjusted alpha = 0.0167 difference 56.0 cGy
+OAR dose non-inferiority Non-inferiority within +300 cGy; 21/21 metrics passed; AI lower than
+adjusted alpha = 0.00238 manual in 20/21 metrics (95.2%);
+mean absolute difference 137.7 cGy
+Independent clinical QC AI prediction clinically reasonable and Clinical acceptability 100.0%; OAR
+useful as a first-pass dose plan with achievability 98.7%; utility 100.0%;
+no unresolved AI-attributable safety unresolved AI-attributable safety
+concerns concerns 0
+PTV Category Metric N Pairs Mean AI - Manual Result
+(cGy)
+High Dose PTVs D95 305 -128.7 Pass
+(>=66 Gy)
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 19 of 21PTV Category Metric N Pairs Mean AI - Manual Result
+(cGy)
+High Dose PTVs D98 305 -92.0 Pass
+(>=66 Gy)
+High Dose PTVs D99 305 -48.9 Pass
+(>=66 Gy)
+Intermediate Dose D95 291 -79.2 Pass
+PTVs (60-65.9 Gy)
+Intermediate Dose D98 291 -36.3 Pass
+PTVs (60-65.9 Gy)
+Intermediate Dose D99 291 16.6 Pass
+PTVs (60-65.9 Gy)
+Low Dose PTVs D95 422 -44.8 Pass
+(<60 Gy)
+Low Dose PTVs D98 422 -8.7 Pass
+(<60 Gy)
+Low Dose PTVs D99 422 48.9 Pass
+(<60 Gy)
+Clinically Meaningful Subgroups and Confounders
+The final statistical report evaluated consistency of device performance across clinically meaningful
+subgroups, including treatment site, treatment intent (definitive versus post-operative/adjuvant), cancer
+type, and sex. The demographic table above provides the age, race, and ethnicity distributions for the
+validation cohort. These analyses were interpreted descriptively with forest plots and clinical-margin
+comparisons rather than as separately powered formal hypothesis tests.
+● No systematic degradation in PTV equivalence or OAR non-inferiority was identified across the
+major clinical subgroups reviewed.
+● The paired design compares each AI-generated output with the reference manual plan for the
+same patient, controlling for patient anatomy and prescription-related confounding.
+● OAR missingness reflects anatomy and clinical contour availability rather than device output
+failure; each OAR metric includes all patients for whom that structure was clinically relevant and
+available.
+● Race and ethnicity distributions are documented for transparency. Some race/ethnicity strata are
+small, so performance conclusions for those strata should be interpreted descriptively rather than
+as independently powered subgroup claims.
+Equipment and Acquisition Protocols
+RadOncAI is designed for CT-based external-beam photon radiotherapy treatment planning in adult head
+and neck cases. The device accepts DICOM CT simulation scans with 5 mm or less slice thickness and
+clinician-defined RT Structure Sets. The device description states that RadOncAI is designed to be
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 20 of 21interoperable with standard DICOM CT images without contrast, regardless of image vendor, provided
+image quality is adequate for treatment planning. Clinician-defined PTVs and OAR contours follow
+NRG/RTOG and RTOG atlas conventions, with dose evaluation performed using PTV coverage metrics
+and OAR Dmean/Dmax metrics.
+Reference Standard / Truthing Process
+For final validation, the reference standard was the paired clinically generated manual treatment plan and
+associated clinician-approved structures for the same patient case. Reference manual plans were created
+through established clinical treatment-planning workflows and evaluated according to accepted radiation
+oncology standards, including NRG/RTOG planning protocols and QUANTEC-informed OAR dose
+assessment. The AI output was then compared against the paired reference plan using patient-level
+paired statistical testing. This truthing process reflects the intended clinical use: RadOncAI predicts an
+achievable starting dose distribution from patient anatomy and prescribed targets, while the final
+deliverable treatment plan remains subject to qualified physician, physicist, and dosimetrist review in the
+clinical TPS workflow.
+Limitations of Use Relevant to ML Performance
+● Validated use is limited to adult head and neck radiotherapy treatment-planning support for
+definitive and post-operative/adjuvant cases.
+● The model is not intended for pediatric patients, non-head-and-neck anatomical sites, proton
+therapy, real-time dose delivery control, or autonomous treatment planning.
+● The device is not intended for head and neck skin cancer or brain cancer cases, and the model
+was not trained on an extensive dataset of benign tumors.
+● Outputs may be adversely affected by low-quality CT images, incorrect or non-standard contours,
+significant artifacts, or anatomy outside the validation experience.
+All AI-generated dose predictions require independent clinical review, modification as needed, and
+approval by qualified radiation therapy professionals. AI-generated outputs must be carefully reviewed
+and validated by a qualified clinician before being used in treatment planning.
+Conclusion
+While there are differences noted in the technological characteristics of the proposed system and the
+predicate device, the differences do not raise different questions of safety or effectiveness. Based on the
+information provided in this submission, the subject device demonstrates that it is substantially equivalent
+to the predicate device through the results of clinical performance and results of non-clinical verification
+and validation.
+InformAI, Inc.
+RadOncAI Traditional 510(k) Page 21 of 21

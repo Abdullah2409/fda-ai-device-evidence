@@ -1,0 +1,195 @@
+Subtle Medical, Inc. February 26, 2021
+Regulatory Consultant
+Enzyme Corporation
+611 Gateway Blvd #120
+SOUTH SAN FRANCISCO CA 94080
+Re: K203182
+Trade/Device Name: SubtleMR
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: November 28, 2020
+Received: December 1, 2020
+Dear Jared Seehafer:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.23
+SilverSpring, MD 20993
+www.fda.govK203182 - Jared Seehafer Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureSubtle Medical, Inc. 510(k) - SubtleMR
+510(k) Summary
+K203182
+Table 1. Subject Device Overview.
+Submitter’s Name: Subtle Medical, Inc.
+883 Santa Cruz Ave, Suite 205
+Address:
+Menlo Park, CA 94025
+Contact Person: Jared Seehafer
+Title: Regulatory Consultant
+Telephone Number: 415-857-9554
+Fax Number: 415-367-1279
+Email: jared@enzyme.com
+Date Summary Prepared: 18-FEB-2021
+Device Proprietary Name: SubtleMR
+Model Number: V 2.0.0
+Common Name: SubtleMR
+Regulation Number: 21 CFR 892.2050
+Regulation Name: System, Image Processing, Radiological
+Product Code: LLZ
+Device Class: Class II
+Trade name: SubtleMR
+Manufacturer: Subtle Medical, Inc.
+Regulation Number: 21 CFR 892.2050
+Regulation Name: System, Image Processing,
+Predicate Device Radiological
+Device Class: Class II
+Product Code: LLZ
+510(k) Number: K191688
+510(k) Clearance Date: September 16, 2019
+510(k) Summary 1Subtle Medical, Inc. 510(k) - SubtleMR
+1 Device Description
+SubtleMR is Software as a Medical Device (SaMD) consisting of a software algorithm that
+enhances images taken by MRI scanners. As it only processes images for the end user, the
+device has no user interface. It is intended to be used by radiologists in an imaging center,
+clinic, or hospital. The software can be used with MR images acquired as part of MRI
+exams on 1.2 Tesla, 1.5 Tesla or 3 Tesla scanners. The device’s inputs are standard of care
+MRI images. The outputs are images with enhanced image quality.
+The software uses a convolutional neural network-based algorithm to improve image
+quality by reducing noise or enhancing the image sharpness. The algorithm’s specific
+parameters vary depending on the choice of image enhancement: noise reduction or
+sharpness enhancement, while the network designs are similar. For each choice, there is a
+fixed set of parameters and the algorithm is working as a fixed nonlinear filter. The choice
+of image enhancement is made by the end user via the DICOM Series Description,
+command line argument, or environment variable.
+2 Indications for Use
+SubtleMR is an image processing software that can be used for image enhancement in MRI
+images. It can be used to reduce image noise for head, spine, neck, abdomen, pelvis,
+prostate, breast and musculoskeletal MRI, or increase image sharpness for head MRI.
+3 Purpose of Submission
+The purpose of this 510(k) is to provide premarket notification for an expansion in the
+indications for use of SubtleMR to include: a) additional anatomical locations for which
+SubtleMR can reduce image noise and b) that SubtleMR can increase image sharpness in
+both contrast-enhanced and non-contrast-enhanced head MRI.
+4 Summary of Technological Characteristics Comparison
+Table 2 shows the similarities and differences between the technological characteristics of
+the two products.
+Table 2. Summary of Technological Characteristics Comparison.
+Topic Predicate Device Subject Device
+Physical Software package that operates on Same
+Characteristics off-the-shelf hardware
+Computer Linux Compatible Same
+DICOM The software processes DICOM Same
+Standard compliant image data
+Compliance
+510(k) Summary 2Subtle Medical, Inc. 510(k) - SubtleMR
+Topic Predicate Device Subject Device
+Operating Linux Same
+System
+Modalities MRI Same
+User Interface None Same
+Image SubtleMR software implements Same
+Enhancement an image enhancement algorithm
+Algorithm using convolutional neural
+Description network based filtering. Original
+images are enhanced by running
+through a cascade of filter banks,
+where thresholding and scaling
+operations are applied. Separate
+neural network based filters are
+obtained for noise reduction and
+sharpness enhancement. The
+parameters of the filters were
+obtained through an image-guided
+optimization process.
+Workflow The software operates on DICOM Same
+files on the file system, enhances
+the images, and stores the
+enhanced images on the file
+system. The receipt of original
+DICOM image files and delivery
+of enhanced images as DICOM
+files depends on other software
+systems. Enhanced images co-
+exist with the original images.
+Target Head, spine, neck, and knee MRI Head, spine, neck, abdomen,
+Anatomical pelvis, prostate, breast and
+Locations musculoskeletal MRI
+5 Performance Data
+Subtle Medical conducted the following performance testing:
+• Software verification and validation testing
+• Study that utilized retrospective clinical data to demonstrate the software
+enhanced image quality in MR images via a reduction of noise or sharpness
+enhancement.
+510(k) Summary 3Subtle Medical, Inc. 510(k) - SubtleMR
+The main performance study, utilizing retrospective clinical data, was divided into two
+tests.
+For the noise reduction performance test, acceptance criteria were that signal-to-noise ratio
+(SNR) of a selected region of interest (ROI) in each test dataset is on average improved by
+greater than or equal to 5% after SubtleMR enhancement compared to the original images,
+and (ii) the visibility of small structures in the test datasets before and after SubtleMR is on
+average less than or equal to 0.5 Likert scale points. This test passed.
+For the sharpness enhancement performance test, acceptance criteria were that the
+thickness of anatomic structure and the sharpness of structure boundaries are improved
+after SubtleMR enhancement in at least 90% of the test datasets. This test passed.
+Based upon the results of this testing, the SubtleMR performance was determined to be
+substantially equivalent to the predicate device.
+6 Substantial Equivalence Conclusion
+The predicate for the subject device is its legally marketed prior revision (K191688). The
+two devices have the same intended use and similar indications for use. The two devices
+have nearly identical technological characteristics, the lone exception being the subject
+device’s expanded target anatomical locations relative to the predicate device. The subject
+device was verified and validated using the same test methods and acceptance criteria as
+the predicate device and does not introduce any additional risk relative to its predicate.
+Therefore, this difference in technological characteristics does not raise different questions
+of safety and effectiveness. Consequently, SubtleMR is substantially equivalent to the
+predicate device.
+510(k) Summary 4

@@ -1,0 +1,438 @@
+DE Novo CLASSIFICATION REQUEST FOR
+VIZ HCM
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Cardiovascular machine learning-based notification software. Cardiovascular
+machine learning-based notification software employs machine learning techniques to
+suggest the likelihood of a cardiovascular disease or condition for further referral or
+diagnostic follow-up. The software identifies a single condition based on one or more
+non-invasive physiological inputs as part of routine medical care. It is intended as the
+basis for further testing and is not intended to provide diagnostic quality output. It is not
+intended to identify or detect arrhythrnias.
+NEW REGULATION NUMBER: 21 CFR 870.2380
+CLASSIFICATION: Class II
+PRODUCT CODE: QXO
+BACKGROUND
+DEVICE NAME: Viz HCM
+SUBMISSION NUMBER: DEN230003
+DATE DE NOVO RECEIVED: January 10, 2023
+SPONSOR INFORMATION:
+Viz.ai, Inc.
+201 Mission St., 12th Floor
+San Francisco, California 94105
+INDICATIONS FOR USE
+The Viz HCM is indicated as follows:
+Viz HCM is intended to be used in parallel to the standard of care to analyze recordings
+of 12-lead ECG made on compatible ECG devices. Viz HCM is capable of analyzing the
+ECG, detecting signs associated with hypertrophic cardiomyopathy (HCM), and allowing
+the user to view the ECG and analysis results. Viz HCM is indicated for use on 12-lead
+ECG recordings collected from patients 18 years of age or older. Viz HCM is not
+intended for use on patients with implanted pacemakers. Viz HCM is limited to analysis
+of ECG data and should not be used in-lieu of full patient evaluation or relied upon tomake or confirm diagnosis. Viz HCM identifies patients for further HCM follow-up and
+does not replace the current standard of care methods for diagnosis of HCM. The results
+of the device are not intended to rule-out HCM follow-up.
+LIMITATIONS
+The sale, distribution, and use of the Viz HCM are restricted to prescription use in
+accordance with 21 CFR 801.109.
+The device identifies patients for further HCM follow-up and does not replace the current
+standard of care methods for diagnosis of HCM. The results of the device are not
+intended to rule-out HCM follow-up.
+The device is not intended for use on patients with implanted pacemakers.
+The results of the device should not be used in lieu of full patient evaluation.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The Viz HCM ECG Analysis Algorithm (HCM Algorithm) is a machine learning-based software
+algorithm that analyzes 12-lead electrocardiograms (ECGs) for characteristics suggestive of
+hypertrophic cardiomyopathy (HCM). The mobile software module enables the end user to
+receive and toggle notifications for ECGs determined by the Viz HCM ECG Analysis Algorithm
+to contain signs suggestive of HCM.
+Legend
+adrinional
+Follow-Up
+Testing
+Vii havi AnatysN dnd Output Cireurnsinntisi
+NO further RCM-related
+actions Reasoned.
+Physical Exam
+No
+A r s o C s R l e o le a s n s r t t l m - i i n U n e v e p n o ? t C C P o M o a m r s d n M p l i y r s U 0 M eh 5 M m e :A m l M o u i g l M m y Con N f C 7 ir R m ed Yes A F A R s ir d s is e t f k o h s T r s . f F , m o H a o C e P c tr n M t a n o t t o e r f r n s o r t r
+Perform
+Follow-CO
+Prethnimuy Review Imaging
+of Available Patient
+MICOrnOtle• from
+Ealeting With
+Records.
+an a E a C lv G a M a o v b R a il l e e a m i b n e l t a l e t s r o f n ac e
+CVA
+Figure 1. Clinical Workflow Diagram
+De Novo Summary (DEN230003) Page 2 of 12The Viz HCM is a Software as a Medical Device (SaMD) intended to analyze ECG signals
+collected as part of a routine clinical assessment, independently and in parallel to the standard of
+care. Viz HCM is a combination of software modules that consists of an ECG analysis software
+algorithm and mobile application software module.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+Nonclinical studies conducted for the Viz HCM system are summarized below.
+SOFTWARE
+The software was reviewed according to the "Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices" dated May 11, 2005.
+Appropriate software documentation consistent with a "Moderate" level of software
+concern were provided.
+The software documentation included a detailed description of the machine learning
+model, the model inputs and outputs, and the supported patient population. Integration
+testing was conducted in the intended software system. Testing accounted for the impact
+of and variability between different ECG acquisition hardware. The ECG hardware
+controls included a description of input ECG signal control measures and mitigations for
+user error and system components on output accuracy.
+Cybersecurity was reviewed in accordance with the FDA guidance document "Content of
+Premarket Submissions for Management of Cybersecurity in Medical Devices" dated
+October 2, 2014.
+PERFORMANCE TESTING — MODEL DEVELOPMENT AND INTERNAL VALIDATION
+The data for algorithm development was collected from different US and Non-US (OUS)
+sources. The data contains both HCM Positive (obstructive and nonobstructive) and
+HCM Negative examples including random ECG samples (random control) and
+enrichment for conditions differential for and associated with HCM (negative controls).
+The data is diverse with respect to the age, sex, and health status of the patient, as well as
+the data source from which the ECG data was taken. Efforts were made to sample the
+data from data sources from ethnically diverse regions so as to promote ethnic diversity
+in the training and internal validation datasets.
+De Novo Summary (DEN230003) Page 3 of 12Algorithm Development Set (US and non US sources)
+301,106 patients ( 831,329 ECG exams)
+HCM posdive pattents. HCM negative patients
+4,470 298,394
+obstructive non-obstructive negative control random control
+Train 80% Internal Validation 20%
+Logical secure data pal-talon
+Algorithm Development and Internal Evaluation
+Figure 2. Distribution and separation of training and internal validation data
+Refer to Table 9 in the labeling section of this document for full demographics of training
+and internal validation datasets.
+The development dataset was split into disjoint and secured training and internal
+validation partitions. The partitions were created using a hash function on a patient-
+anonymized unique identifier (patient UID) to ensure consistency across all development
+phases and across different models and datasets and prevents different studies of the same
+patient being allocated to more than one partition.
+PERFORMANCE TESTING — USABILITY
+The usability of the Viz HCM system was assessed per EN 62366-1 "Medical Devices-
+Part 1: Application of usability engineering to medical devices" dated 2015 + A1:2020
+and the FDA guidance document "Applying Human Factors and Usability Engineering to
+Medical Devices". A use-related risk analysis (URRA) and system risk analysis (RA)
+were performed to identify use-related hazards and critical tasks. The study recruited 16
+representative clinical users who were assessed within two (2) use scenarios for task
+completion according to correct use, user error, close calls, or use difficulty.
+• There were no use errors during the study
+• All participants demonstrated full understanding of the intended use, device
+output (i.e., the HCM flag), and that they would not rely on the device to make a
+diagnosis
+• 15/16 (93%) participants acknowledged the HCM flag during the session to
+review the ECG record
+This testing demonstrated that the intended users of the product can perform the
+product's intended use in the expected use environment. It also demonstrated that the
+intended users could adequately comprehend the labeling.
+SUMMARY OF CLINICAL INFORMATION
+De Novo Summary (DEN230003) Page 4 of 12OVERVIEW
+Model testing was performed on a dataset which was acquired from a retrospective study to
+assess the performance of Viz HCM in the identification of suspected HCM findings in ECG as
+compared to the clinical finding of HCM as established by cardiologist chart and imaging review
+of historical patient data. The objectives of the study were to assess the performance of the
+device in terms of sensitivity, specificity, and device positive predictive value (PPV), and
+conduct additional analyses to assess the device performance for detection of suspected HCM in
+different sub-populations. This was a non-significant risk study using historical patient data and
+did not involve enrollment of any human beings. Due to the retrospective nature of the study, no
+adverse events were expected or observed. The Institutional Review Board (IRB) overseeing the
+study at participating hospitals waived the need for patient informed consent.
+A total of 3,196 (291 HCM-Positive and 2905 HCM-Negative) ECG cases were included in the
+performance assessment for the pivotal study. Patient cases were selected from 3 hospitals
+representing a combination of academic and community hospitals between July 1, 2017, and
+June 30, 2022. Two (2) of the three (3) sites providing data were from the Boston, Massachusetts
+area which are racially and ethnically diverse in terms of the local African American, Asian, and
+Multi-Race (two or more) populations. The third site was in Salem, Massachusetts which was
+predominantly Caucasian or Latino. All three sites provided data from geographic areas with
+similar proportions of Hispanic or Latino individuals in the local population, which were also
+similar to the proportion of the Hispanic or Latino population in the USA overall. The
+proportions of obstructive and non-obstructive HCM were roughly equal. See Table 2 for full
+demographic information.
+TRUTHING PROCESS
+For each HCM-Positive or HCM-Negative case, a single cardiologist performed a chart and
+imaging review (where available) for the patient to confirm the presence of HCM according to
+predefined guidelines using either the Cornell criteria or the Sokolow-Lyon criteria. In addition,
+ECGs were annotated for the presence of different features and pathologies. ECGs determined to
+contain a pacemaker or corrupt lead were excluded during ECG annotations.
+For HCM-Positive cases, the cardiologist assessed the patient chart and imaging to confirm the
+presence of HCM and if confirmed, the degree of obstruction (either non-obstructive or
+obstructive). HCM-Negative cases were reviewed for the presence or mention of HCM in the
+patient chart, along with any available imaging to rule out HCM. If the patient chart and imaging
+confirmed the presence of HCM, the patient was moved from the HCM-Negative cohort to the
+HCM-Positive cohort. As part of a secondary assessment, a selection of 60 cases (30 HCM-
+Positive cases and 30 HCM-Negative) were truthed by a second cardiologist to perform an
+analysis of agreement/consistency in confirmation of HCM.
+In the study, the ICD-10 Code was used to sample HCM-Positive and HCM-Negative patients
+prior to truthing. During the truthing process, HCM-Negative patient cases were confirmed if
+there were no notes related to HCM in the patient chart. These would be determined as HCM-
+Negative by the lack of ICD-9/10 code for HCM as was the case with algorithm development.
+For HCM-Negative patient cases with available imaging or HCM-Positive cases, the additional
+chart review and review of imaging provided more confidence into the label with imaging
+De Novo Summary (DEN230003) Page 5 of 12evidence as established by the initial sampling of the ICD-9/10 codes associated with the patient
+diagnosis (or lack of HCM diagnosis).
+The study results are in Table 1 below.
+Performance Measure Results
+Sensitivity 68.4% (95% CI: 62.8% - 73.5%)
+Specificity 99.1% (95% CI: 98.7% - 99.4%)
+PPV (prevalence of 0.002) 13.7% (95% CI: 10.1% - 19.9%)
+Table 1. Clinical Testing Results
+Refer to Table 9 for full demographics of training and internal validation datascts.
+In addition, subgroup analyses were conducted by:
+• Hospital site
+• ECG device make/model
+• Gender
+• Age
+• Race
+• Ethnicity
+• HCM Characterization (i.e., obstructive vs. non-obstructive)
+Subgroup AUG True False Sensitivity True False Specificity
+(95% CI) positive negative (95% CI) negative positive (95% CI)
+BWH 0.982 82 29 73.9 957 11 98.9
+(0.971,0.990) (65.0,81.2) (98.0,99.4)
+MGH 0.986 75 32 70.1 974 4 99.6
+(0.980,0.992) (60.8,78.0) (98.9.99.9)
+SH 0.948 42 31 57.5 949 10 99.0
+(0.915,0.970) (46.1,68.2) (98.1,99.5)
+Table 2: Subgroup Analysis by Site
+Subgroup True False Sensitivity
+positive negative (95% CI)
+Obstructive 97 45 68.3
+(60.2,75.4)
+Non-obstructive 102 47 68.5
+(60.6,75.4)
+Table 3: Subgroup Analysis by HCM type
+De Novo Summary (DEN230003) Page 6 of 12Subgroup AUC True False Sensitivity True False Specificity
+(95% CI) positive negative (95% CI) negative positive (95% CI)
+Female 0.979 85 54 61.2 1494 7 99.5
+(0.971,0.985) (52.8,68.9) (99.0,99.8)
+Male 0.971 114 38 75.0 1386 18 98.7
+(0.954,0.984) (67.5,81.2) (98.0,99.2)
+Table 4: Subgroup Analysis by gender
+Subgroup AUC True False Sensitivity True False Specificity
+(95% CI) positive negative (95% CI) negative positive (95% CI)
+<40 years 0.977 32 6 84.2 485 1 99.8
+(0.932,1.000) (69.2,92.9) (98.7,100.1)
+40 — 65 years 0.973 84 47 64.1 1166 12 99.0
+(0.963,0.982) (55.6,71.8) (98.2,99.4)
+> 65 years 0.973 83 39 68.0 1229 12 99.0
+(0.959,0.983) (59.3,75.7) (98.3,99.5)
+Table 5: Subgroup Analysis by age
+Subgroup AUC 'Elie False Sensitivity True False Specificity
+(95% CI) positive negative (95% CI) negative positive (95% CI)
+American Indian or 0 0 - 2 0 100.0
+Alaska Native (29.0,105.2)
+Asian 0.987 11 4 73.3 93 1 98.9
+(0.962,0.999) (47.6,89.5) (93.6,100.4)
+Black 0.981 20 11 64.5 262 2 99.2
+(0.961,0.994) (46.9,79.0) (97.1,100.0)
+Native Hawaiian or 0 0 - 1 0 100.0
+Other Pacific Islander (16.7,103.9)
+White 0.972 149 74 66.8 2222 21 99.1
+(0.959,0.981) (60.4,72.7) (98.6,99.4)
+Other 1.000 9 0 100.0 192 1 99.5
+(0.997,1.000) (65.5,104.5) (96.8,100.2)
+Two or More 1.000 3 1 75.0 21 0 100.0
+(1.000,1.000) (28.9,96.6) (81.8,102.8)
+Declined 1.000 3 1 75.0 34 0 100.0
+(0.956,1.000) (28.9,96.6) (87.9,101.9)
+Unknown 0.996 4 1 80.0 53 o 100.0
+(0.966,1.000) (36.0,98.0) (91.9,101.3)
+Table 6: Subgroup Analysis by race
+De Novo Summary (DEN230003) Page 7 of 12Subgroup AUG True False Sensitivity True False Specificity
+(95% CI) positive negative (95% CI) negative positive (95% CI)
+Hispanic 1.000 7 0 100.0 167 3 98.2
+(0.995,1.000) (59.6,105.0) (94.7,99.6)
+Non Hispanic 0.973 166 80 67.5 2485 21 99.2
+(0.962,0.982) (61.4,73.0) (98.7,99.5)
+Declined 0.989 11 6 64.7 120 0 100.0
+(0.964,1.000) (41.2,82.8) (96.3,100.6)
+Unknown 0.964 15 6 71.4 108 1 99.1
+(0.923,0.990) (49.8,86.4) (94.5,100.3)
+Table 7: Subgroup Analysis by ethnicity
+Subgroup True False Sensitivity
+positive negative (95% CI)
+Obstructive 97 45 68.3
+(60.2,75.4)
+Non-obstructive 102 47 68.5
+(60.6,75.4)
+Table 8: Subgroup Analysis by HCM type
+Further stratification was conducted for:
+• Concurrent ECG findings and anomalies, and
+• Comorbid conditions
+Pediatric Extrapolation
+For medical devices, the FD&C Act defines patients before their 22nd birthday as pediatric
+patients. In this De Novo request, data from patients between 18-21 were used to support the use
+of the device in patients over the age of 18.
+LABELING
+The labeling supports the decision, including information on all required and/or compatible parts,
+to grant the De Novo request for this device. The labeling includes a detailed description of the
+device, description of the patient population for which the device is indicated for use, a
+description of the intended user population, and instructions for use.
+The labeling reflects the following critical intended use and limitations of the Viz HCM device:
+• The device identifies patients for further HCM follow-up and does not replace the current
+standard of care methods for diagnosis of HCM. The results of the device are not
+intended to rule-out HCM follow-up.
+• The device is not intended for use on patients with implanted pacemakers.
+• The results of the device should not be used in lieu of full patient evaluation.
+De Novo Summary (DEN230003) Page 8 of 12The following baseline demographic information is included in the labeling for age, race,
+ethnicity, sex, and HCM type.
+Training (N=301,106) Testing (N=3196)
+Sex Sex
+Female 166,885 55.4% Female 1640 51.3%
+Male 134,221 44.6% Male 1556 48.7%
+Age Age
+<40 73,099 24.3% <40 524 16.4%
+40 - 65 127,551 42.4% 40- 65 1309 41.0%
+>65 100,456 33.4% >65 1363 42.6%
+Race Race
+American Indian / *Data collected from multiple regions American Indian /
+2 0.1%
+Alaska Native (USA and OUS) representing different Alaska Native
+Asian races: Asian 109 3.4%
+- United States
+Black Black 295 9.2%
+- Israel
+Native Hawaiian / Native Hawaiian /
+- Germany 1 <0.1%
+Pacific Islander - Brazil Pacific Islander
+White White 2466
+Other Other 202 6.3%
+Two or More Two or More 25 0.8%
+Declined Declined 38 1.2%
+Unknown Unknown 58 1.8%
+Ethnicity Ethnicity
+Hispanic kSee notes for racial distribution. Hispanic 177
+Non-Hispanic Non-Hispanic 2752 02. -1,
+Declined Declined 137 4.3'):
+Unknown Unknown 130 4.1%
+HCM Presence HCM Presence
+Obstructive 0,G62 1.2% UDStr ULt Vt 142 4.4%
+Non-Obstructive 892 0.3% Non-Obstructive 149 4.7%
+No HCM (Negative) 296,530 98.5% No HCM (Negative) 2905 90.92,:.
+Table 9. Training and Test set demographics
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of cardiovascular
+machine learning-based notification software.
+Table 10 — Identified Risks to Health and Mitigation Measures
+Identified Risks to Health Mitigation Measures
+False positive or false negative Clinical performance testing
+leading to incorrect treatment or Non-clinical performance testing
+diagnosis Labeling
+Incorrect treatment or diagnosis due Clinical performance testing
+to model bias or failure to adequately Labeling
+generalize to the intended use
+population
+Device used in unsupported patient Labeling
+population or with unsupported Human factors assessment
+input/hardware Software verification, validation, and hazard analysis
+De Novo Summary (DEN230003) Page 9 of 12Overreliance on device output for Human factors assessment
+follow-up Labeling
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, cardiovascular machine learning-
+based notification software is subject to the following special controls:
+(1) Clinical performance testing must demonstrate that the device performs as intended
+under anticipated conditions of use. The following must be met:
+(i) Clinical validation must use a test dataset of real-world data acquired from a
+representative patient population. Data must be representative of the range of
+data sources and data quality likely to be encountered in the intended use
+population and relevant use conditions in the intended use environment. The test
+dataset must be independent from data used in training/development and contain
+sufficient numbers of cases from important cohorts (e.g., demographic
+populations, subsets defined by clinically relevant confounders, comorbidities,
+and subsets defined by hardware and acquisition characteristics) such that the
+performance estimates and confidence intervals of the device for these individual
+subsets can be characterized for the intended use population and acquisition
+systems (e.g., acquisition hardware or preprocessing software). Study protocols
+must include a description of the adjudication process(es) for determining ground
+truth of training and test datasets;
+(ii) Data must be provided within the clinical validation study or using equivalent
+datasets to demonstrate the consistency of the output over the full range of
+inputs;
+(iii) Performance goals used to determine success of clinical validation must be
+justified in the context of risks associated with follow-up testing;
+(iv) Objective performance measures (e.g., sensitivity, specificity, positive predictive
+value or negative predictive value) must be reported with relevant descriptive or
+developmental performance measures. Summary level demographic information
+and sub-group analyses must be provided for each study site, relevant
+demographic sub-groups, and acquisition systems; and
+(v) The test dataset must include a minimum of 3 geographically diverse sites,
+separate from sites used in training of the model.
+(2) Software verification, validation, and hazard analysis must be performed. Software
+documentation must include:
+(i) A description of the model/algorithm, algorithm inputs/outputs, and supported
+patient population;
+(ii) Integration testing in the intended software system or software environment; and
+(iii) A description of the expected impact of all applicable sensor acquisition
+hardware characteristics on performance and any associated hardware
+specifications, including:
+(A) A description of input signal / data quality control measures; and
+De Novo Summary (DEN230003) Page 10 of 12(B) A description of all mitigations for user error or failure of any subsystem
+components (including signal detection, signal analysis, data display, and
+storage) on output accuracy.
+(3) Human factors assessment of the intended users in the intended use environment must
+evaluate the risk of misinterpretation of device output.
+(4) Labeling must include:
+(i) A summary of the performance testing methods, tested hardware,
+tested/supported patient population, results of the performance testing for tested
+performance measures/metrics, summary-level descriptions of patient
+demographics and associated subgroup analyses for training and test datasets,
+and the expected minimum performance of the device;
+(ii) Device limitations or subpopulations for which the device may not perform as
+expected;
+(iii) Warning that the user should not rely on the lack of a suspected finding to rule-
+out follow-up;
+(iv) A statement that the device output should not replace a full clinical evaluation of
+the patient and that the output may not be sufficient as the sole basis for further
+testing;
+(v) Warnings identifying sensor acquisition factors that may impact measurement
+results;
+(vi) Guidance for interpretation of the measurements and typical follow-up testing;
+and
+(vii) The type(s) of hardware sensor data used, including specification of compatible
+sensors for data acquisition.
+BENEFIT-RISK DETERMINATION
+The risks of the device are based on nonclinical testing as well as data collected in a clinical
+study described above.
+Primary risk is false negatives where a subject with HCM would be said to not likely have the
+disease. The original clinical testing and additional analyses provided adequate information to
+assess the likely performance of the device in the intended use population. The specificity is
+sufficiently high to address the risk of false negatives and there is low risk associated with
+routine follow-up testing with false positives. Due to the low prevalence of the disease, the
+positive predictive value is low but HCM is hard to diagnose, so the risk of false positives is
+acceptable given the benefit of identifying HCM in otherwise asymptomatic patients. Usability
+testing was performed to ensure that the output is not misinterpreted as a definitive diagnosis.
+This testing was performed in cardiologists rather than non-specialty clinicians; however, this is
+likely adequate as non-cardiologists would likely be more prone to referring to further follow-up,
+which is the intended use of the device.
+The probable benefits of the device are also based on nonclinical laboratory studies as well as
+data collected in a clinical study as described above.
+De Novo Summary (DEN230003) Page 11 of 12The ability to provide additional detection of and insight into a disease that is relatively
+uncommon and difficult to diagnose in subjects represents a benefit to the intended patient
+population.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+Viz HCM is intended to be used in parallel to the standard of care to analyze recordings of 12-
+lead ECG made on compatible ECG devices. Viz HCM is capable of analyzing the ECG,
+detecting signs associated with hypertrophic cardiomyopathy (HCM), and allowing the user to
+view the ECG and analysis results. Viz HCM is indicated for use on 12-lead ECG recordings
+collected from patients 18 years of age or older. Viz HCM is not intended for use on patients
+with implanted pacemakers. Viz HCM is limited to analysis of ECG data and should not be used
+in-lieu of full patient evaluation or relied upon to make or confirm diagnosis. Viz HCM identifies
+patients for further HCM follow-up and does not replace the current standard of care methods for
+diagnosis of HCM. The results of the device are not intended to rule-out HCM follow-up.
+The probable benefits outweigh the probable risks for the Viz HCM. The device provides
+benefits, and the risks can be mitigated by the use of general controls and the identified special
+controls.
+CONCLUSION
+The De Novo for the Viz HCM is granted and the device is classified as follows:
+Product Code: QXO
+Device Type: Cardiovascular machine learning-based notification software
+Regulation Number: 21 CFR 870.2380
+Class: II
+De Novo Summary (DEN230003) Page 12 of 12

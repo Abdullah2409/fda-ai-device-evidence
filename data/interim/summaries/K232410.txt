@@ -1,0 +1,245 @@
+Milvue
+℅ Rory Carrillo
+Regulatory Consultant
+Cosm
+45 Bartlett St.
+San Francisco, California 94110
+May 10, 2024
+Re: K232410
+Trade/Device Name: SmartChest
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: August 10, 2023
+Received: April 8, 2024
+Dear Rory Carrillo:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.10
+Silver Spring, MD 20993
+www.fda.govK232410 - Rory Carrillo Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A)for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K23241 0
+Device Name
+SmartChest
+Indications for Use (Describe)
+SmartChest is a radiological computer assisted triage and notification software that analyzes frontal
+chest X-ray images (Postero-Anterior (PA) or Antero-Posterior (AP)) of transitional adolescents (18 -
+21 yo but treated like adults) and adults (222 yo) for the presence of suspected pleural effusion
+and/or pneumothorax. SmartChest uses an artificial intelligence algorithm to analyze the images for
+features suggestive of critical findings and provides case-level output available to a PACS (or other
+DICOM storage platforms) for worklist prioritization.
+As a passive notification for prioritization-only software tool within the standard of care workflow,
+SmartChest does not send a proactive alert directly to a trained medical specialist.
+SmartChest is not intended to direct attention to a specific portion of an image. Its results are not
+intended to be used on a stand-alone basis for clinical decision-making.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) ]Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."510(k) Summary
+Contact Details 21 CFR 807.92(a)(1)
+Applicant Address
+Applicant Contact Telephone
+Applicant Contact
+Applicant Contact Email
+Correspondent Name
+Correspondent Address
+Correspondent Contact Telephone
+Correspondent Contact
+Correspondent Contact Email
+I
+Device Name 21 CFR 807.92(a)(2)
+Device Trade Name
+Common Name
+Classification Name
+Regulation Number
+Product Code
+Legally Marketed Predicate Devices 21 CFR 807.92(a)(3)
+Predicate# Predicate Trade Name (Primary Predicate is listed first) Product Code
+K211733 Lunit INSIGHT CXR Triage QFM
+I
+Device Description Summary 21 CFR 807.92(a)(4)SmartChest is a radiological computer assisted triage and notification software that analyzes frontal chest X-ray images (Postero-Anterior
+(PA) and/or Antero-Posterior (AP)) of transitional adolescents (18 ≤ age ≤ 21 yo but treated like adults) and adults (22 yo ≤ age) for the
+presence of suspected pleural effusion and/or pneumothorax. The software utilizes Al-based image analysis algorithms to detect the
+findings.
+SmartChest provides case-level output available in the workstation for worklist prioritization by appropriately trained medical specialists
+qualified to interpret chest radiographs.Chest radiographs are automatically received from the user's image acquisition or storage
+systems (e.g., PACS, other DICOM storage platforms) and processed by SmartChest for analysis. After receiving Chest X-Ray images, the
+device automatically analyzes the images and identifies pre-specified suspected findings (pleural effusion and/or pneumothorax). Then
+the analysis results are passively sent by SmartChest via a notification to the worklist software being used (PACS, or other platforms).
+The results are made available via a newly generated DICOM series (containing a secondary capture image), where DICOM tags contains
+the following information:
+1. "SUSPECTED FINDING" or "CASE PROCESSED" if the algorithm ran successfully, "NOT PROCESSED" if the algorithm receives a study
+containing chest images that are not part of the intended use (lateral views or excluded age for example).
+2. "SUSPECTED PLEURAL EFFUSION" OR "SUSPECTED PNEUMOTHORAX" if one pre-specified finding category identified OR,
+3."SUSPECTED PLEURAL EFFUSION, PNEUMOTHORAX" if the two pre-specified finding categories identified
+4. The secondary capture image returned in the storage system indicates at the study-level:
+- The number of images received by SmartChest,
+- The number of images processed by SmartChest,
+- The status of the study: "NOT PROCESSED", "SUSPECTED FINDING" or "CASE PROCESSED".
+The DICOM storage component may be a Picture Archiving and Communications (PACS) system or other local storage platforms. This
+would allow the appropriately trained medical specialists to group suspicious exams together that may potentially benefit their
+prioritization. Chest radiographs without an identified anomaly are placed in the worklist for routine review, which is the current
+standard of care.
+The device is not intended to be a rule-out device and for cases that have been processed by the device without notification for pre-
+specified suspected findings it should not be viewed as indicating that the pre-specified findings are excluded. SmartChest device does
+not alter the order nor remove imaging exams from the interpretation queue. Unflagged cases should still be interpreted by medical
+specialists.
+The notification is contextual and does not provide any diagnostic information. The results are not intended to be used on a stand-alone
+basis for clinical decision-making. The summary image will display the following statement: "The product is not for Diagnostic Use-For
+Prioritization Only".
+Model Training
+The training of the algorithm is made by using X-Ray radiographies collected from an unfiltered stream of exams in four French
+institutions between October 2018 & December 2021.
+The distribution of data, aggregated from unfiltered streams of exams of targeted institutions is necessarily representative of the real-life
+distribution. The Training Set is composed of 9560 images, the distribution of exams per pathology for the Training Set is as follows:
+i. No findings - 7,412 images
+ii. Pleural Effusion - 1,435 images
+iii. Pneumothorax - 713 images
+These images are then processed to fit the model's requirements, which can involve resizing and normalizing the images. A structure of
+the CNN is then defined, which consists of different types of layers. The collected data are used to train the model, adjusting its weights
+based on the errors it makes in predictions. To fine-tune the model and prevent it from overly specializing in the training data, a separate
+validation set is used. Finally, the model's performance is assessed with a testing set to see how well it can handle unseen data.
+Depending on the results, it is possible to go back and adjust the data, model's structure, or fine-tuning parameters, then repeat the
+training process until the model performs satisfactorilyIntended Use/Indications for Use 21 CFR 807.92(a)(5)
+SmartChest is a radiological computer assisted triage and notification software that analyzes frontal chest X-ray images (Postero-Anterior
+(PA) or Antero-Posterior (AP)) of transitional adolescents (18 - 21 yo but treated like adults) and adults (≥22 yo) for the presence of
+suspected pleural effusion and/or pneumothorax. SmartChest uses an artificial intelligence algorithm to analyze the images for features
+suggestive of critical findings and provides case-level output available to a PACS (or other DICOM storage platforms) for worklist
+prioritization.
+As a passive notification for prioritization-only software tool within the standard of care workflow, SmartChest does not send a proactive
+alert directly to a trained medical specialist.
+SmartChest is not intended to direct attention to a specific portion of an image. Its results are not intended to be used on a stand-alone
+basis for clinical decision-making.
+I
+Indications for Use Comparison 21 CFR 807.92(a)(5)
+The predicate device Indications for Use is: Lunit INSIGHT CXR Triage is a radiological computer-assisted triage and notification
+software that analyzes adult chest X-ray images for the presence of pre-specified suspected critical findings (pleural effusion and/or
+pneumothorax). Lunit INSIGHT CXR Triage uses an artificial intelligence algorithm to analyze images for features suggestive of critical
+findings and provides case-level output available in the PACS/workstation for worklist prioritization or triage. As a passive notification
+for prioritization-only software tool within standard of care workflow, Lunit INSIGHT CXR Triage does not send a proactive alert directly
+to the appropriately trained medical specialists. Lunit INSIGHT CXR Triage is not intended to direct attention to specific portions of an
+image or to anomalies other than pleural effusion and/or pneumothorax. Its results are not intended to be used on a stand-alone basis
+for clinical decision-making.
+The Indications for Use are similar and the Intended Use is the same.
+Technological Comparison 21 CFR 807.92(a)(6)
+The subject device (SmartChest) and the predicate device (Lunit INSIGHT CXR) are both radiological computer assisted prioritization
+notification software. The technologies use artificial intelligence algorithms to analyze radiological images.
+The subject and predicate devices share similar technological characteristics as follows:
+- target population, intended user and use environment, anatomical site and modality, means of notification, standalone performance
+level, and triage effectiveness.
+All outputs are the same between the subject device and the primary device.
+The only difference is related to the predicate device being able to connect to radiological imaging equipment and in parallel also
+connecting to PACS. The subject device only connects to the PACS (or other DICOM storage platforms) and flags cases there.
+These differences do not change or modify the risks associated with the device type nor does it raise new questions of safety or
+effectiveness.
+Both the subject device and predicate device are only intended to passively notify the end user that a study is suspicious of the indicated
+findings and enable them to prioritize those studies, but the end user is still required to review all images and make the find clinical
+diagnosis.
+TNheorenfo-reC, blyin exiacmainla taionn dof /thoer d eCviclien's iincteanld eTde usset asn dS teuchmnolmogiacarl yat tr&ibu Cteso, snubcsltaunstiailo eqnusiva len2ce1 i sC suFppRo rt8ed0. 7.92(b)Safety and performance of the SmartChest product has been evaluated and verified in accordance with software specifications and
+applicable performance standards through software verification and validation testing. Additionally, the software validation activities
+were performed in accordance with IEC 62304:2006/ A1:2016 - Medical device software - Software life cycle processes, in addition to the
+FDA Guidance documents, "Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices" and
+"Content of Premarket Submission for Management of Cybersecurity in Medical Devices."
+Standalone Performance Testing
+Two individual standalone performance assessment studies were conducted to evaluate the effectiveness of SmartChest. The studies
+were conducted on a dataset representative of the US population. This performance test data set was obtained from sites that were
+different from the training data sites and therefore this ensured the independence of the test data from training data. Each study was
+conducted on a dataset of 300 Chest X-Ray cases of transitional adolescent (18-21 years old) and adult (22 years and older) US subjects
+obtained from multiple institutions across the US..The ground-truth for the presence or absence of pneumothorax and pleural effusion
+was established by three ABR-certified radiologists with a minimum of 5 years of experience in cardiothoracic radiology: two radiologists
+independently interpreted each case and the third radiologist independently reviewed the cases where there was disagreement
+between the first two. The final reference standard was determined by majority consensus.
+The evaluated performance metrics were similar to the predicate device: ROC AUC, Sensitivity, Specificity, and mean execution time
+(time from submission of the CXR case to the device to the provision of an output as a notification). For pneumothorax, the results are as
+follows: ROC AUC 0.989 [0.978; 0.997], Sensitivity 92.7% [95% Cl: 87.4-96.2], and Specificity 97.3% [95% Cl:93.4-99.1 ], Mean execution
+time of 2.322 ± 0.267 seconds on a local server and 28.542 ± 8.254 seconds on a cloud server. The dataset consisted of male (167 cases)
+and female (133 cases) and included an age range from 18 years to above 65 years. Images were obtained from rural (49) and urban (251)
+sites from across New York, North Carolina, Texas, and elsewhere. The dataset was obtained from various imaging system manufacturers
+and included AP (115 cases) and PA views (160 cases).
+For pleural effusion, the results were as follows: ROC AUC 0.975 [0.960; 0.987], Sensitivity 93.3% [95% Cl: 88.1-96.4], Specificity 90.0%
+[95% Cl: 84.1-94.1], Mean execution time of 2.288 ± 0.165 seconds on a local server and 28.257 ± 7.226 seconds on a cloud server. The
+dataset consisted of male (158 cases) and female (142 cases) and included an age range from 18 years to above 65 years. Images were
+obtained from rural (53) and urban (247) sites from across New York, North Carolina, Texas, Washington, and elsewhere. The dataset was
+obtained from various imaging system manufacturers and included AP (105 cases) and PA views (180 cases).
+In Summary, the SmartChest device performed successfully in the clinical pivotal studies. Standalone detection performance and
+execution time for pleural effusion and pneumothorax were adequate as compared to the predicate device. SmartChest device can
+therefore be considered as safe and effective as the predicate device.
+Based on the information submitted in this premarket notification, and based on the indications for use, technological characteristics
+and performance testing, the SmartChest product raises no new questions of safety and effectiveness and is substantially equivalent to
+the predicate device in terms of safety, effectiveness, and performance.

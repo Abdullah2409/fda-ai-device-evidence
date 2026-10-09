@@ -1,0 +1,262 @@
+Summary of Safety and Effectiveness Data
+I. GENERAL INFORMATION
+Device Generic Name: Mammogram Image Analysis
+System
+Device Trade Name: Second Look™
+Applicant's Name and Address: CADx Medical Systems, Inc
+U.S. Agent: Parexel International
+Corporation
+195 West Street
+Waltham, MA 02451-1163
+Date of Panel Recommendation: Not applicable, see Section XII
+Premarket Approval Application (PMA): POI0034
+Dates of Good Manufacturing Practice
+Inspections:
+Qualia Computing, Inc. August 29, 2001
+Colorado MEDtech, Inc. July 24, 2001
+CADx Medical Systems October 23, 2001
+Date of Notice of Approval to Applicant: January 3 1, 2002
+II. INDICATIONS FOR USE
+The Second Look™ computer-aided detection system for mammography is intended to identify and mark
+regions of interest on standard mammographic views to bring them to the attention of the radiologist after
+the initial reading has been completed. Thus, the system assists the radiologist in minimizing
+observational oversights by identifying areas on the original mammogram that may warrant a second
+review.
+1III. CONTRAINDICATIONS
+There are no contraindications for use ofthis device.
+IV. WARNINGS AND PRECAUTIONS
+Warnings and Precautions for use of this device are stated in the attached product labeling. (See
+Attachment)
+V. DEVICE DESCRIPTION
+The Second Look™ system consists of the following major components: barcode reader, digitizer,
+computer (dual processor system), touchscreen monitor, and printer.
+The Second Look™ system is a single, self-contained unit that can be used with any mammography
+illuminator. It was designed to be compact in order to fit into crowded workspaces. (See Figure 1)
+2Figure 1: Second Look™ System
+The operator places mammogram films into the Second Look™ and it in turn creates a printout for the
+radiologist. After a patient's films are exposed, developed and quality checked, they are ready to be
+processed. The operator loads the films into the Second Look™'s digitizer receiver tray, enters the
+patient data on the work list with the keyboard or barcode reader, and issues the required commands using
+the touchscreen. The digitizer creates a digital representation of the mammogram by scanning it with a
+laser beam.
+3Next, Second Look™ uses image processing and pattern recognition algorithms hosted on a personal
+computer to detect potential areas of concern for further consideration by the radiologist.
+Finally, Second Look™ produces a Mammagraph™ (see Figure 2), a paper printout of results that
+contains identification of patient and technologist, images of the digitized film with any potential areas of
+concern marked, and a key for the markers. The operator collects these printed images and adds them to
+the case folder in preparation for the radiologist review.
+Doe, Jane
+NAME:
+Case7
+10#:
+LOCATION: CADx Medical Systems
+BIRTHOATE: 5-23-42 275 Almand Frappier Blvd.
+JR Laval, Quebee H7V 4A7
+TECH Canada
+Thursday, December 23, 1999 14:58:44
+SECONry· D
+Ck!'!'iHt\ <:<! n~:;,r<J.;.,1k.!~'~.,:~~;,~~~"'
+0
+n:~fl..'l.~;~!')
+L 0 0 K .­ Mammagraph "·'
+Figure 2: Second Look™ Output: The Mammagraph
+TM
+Areas of concern identified by Second Look™ include potentially suspicious clusters of
+microcalcifications and masses. Potential clusters of microcalcifications are marked by rectangles
+(CalcMarks™) and potentially suspicious masses are marked with ellipses (MassMarks™) on the output.
+Each marker (rectangle or ellipse) is placed at the location of a potential lesion detected by Second
+Look™ and sized to show the approximate size of the lesion. This printout is used by the radiologist to
+identify areas of concern on the screening mammograms after the completion of the initial review of the
+films.
+To interpret a case, the radiologist is instructed to review each mammogram in the conventional manner.
+Then the radiologist should review the Second Look™ Mammagraph™ after determining whether or not
+4
+/Da work-up is indicated from the initial review ofthe patient mammogram. The radiologist then "looks
+back" at the original mammograms in those locations corresponding to any marks on the Mammagraph™.
+If there are no marks made by Second Look™ on the Mammagraph™, then no re-evaluation ofthe
+mammogram is necessary. Work-up decisions must not be based on the Mammagraph™, but on review
+of the mammogram and supporting clinical information.
+Second Look™ detects clustered microcalcifications that may be indicative of malignancies. The system
+filters the image to intensify small mammographically bright spots. These intense regions are then
+segmented from the background by comparison to local brightness values, and the shape of each potential
+microcalcification is analyzed. Bright spots typically associated with malignant regions are passed to a
+clustering stage. The clustering stage forms groups of individual calcifications such that no detection is
+more than 3 millimeters from another detection in that cluster. Furthermore, each cluster must have more
+than 3 calcifications. Second Look™ then computes the statistics ofthe spatial and intensity distributions
+of the microcalcifications in the clusters. Those clusters satisfYing the matching requirements are stored
+for subsequent input to a post processing stage.
+In addition to microcalcifications, Second Look™ also detects suspicious densities. Second Look™
+nonlinearly filters a 700-micron resolution version of the digital image such that locally bright and
+approximately round regions are emphasized. Statistics of the size and approximate shape of these spots
+in the filtered images are then computed and compared to reference values.
+Initial detections from the microcalcification and density detectors of Second Look™ are generated on a
+per image basis. The inputs to the post processing stage are metrics proportional to the estimated
+likelihood of malignancy for each detection on all the images from a case. Each detection is then
+evaluated in the context of all the detections within that case. Classifiers are designed to pass the set of
+detections most likely to contain a malignancy. Second Look™ is designed to put marks on the
+Mammagraph™ only on regions that may be indicative of cancer; however, in doing so Second Look™
+will mark many non-malignant areas.
+VI. ALTERNATIVE PRACTICES AND PROCEDURES
+The current procedure for reviewing mammograms' involves a radiologist's review of the films on a
+lightbox or motorized film viewer. Commonly, the radiologist will use a magnifYing glass to facilitate the
+identification of subtle features on the film. Studies have shown that double reading results in a 5-15%
+gain in sensitivity. Even though clinically effective, double reading is not commonly performed.
+VII. MARKETING HISTORY
+Second Look™ has been marketed in Europe, Asia/Pacific, Australia and Canada. There have not been
+any adverse effects reported, nor has the system been withdrawn from any country.
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+There are no known direct risks to safety or health caused by, or related to, the use of the device. The
+indirect risks are that the device will fail to identifY and mark some actionable lesions and will mark some
+actionable lesions that do not require further action. However, the potential for missed lesions is not
+increased over unaided screening mammography when Second Look™ is used as labeled.
+5IX. NON-CLINICAL LABORATORY STUDIES
+Non-clinical studies were conducted throughout the design and development of the Second Look™
+System. These studies were designed to develop and analyze the design ofthe Second Look™ System.
+Assessment of CAD Algorithm Performance- The applicant performed a quantitative assessment of the
+Second Look™ CAD algorithms based on testing from an in-house library of over one thousand
+mammograms with known malignancies as well as normal images. The in-house library was collected
+according to a formal protocol. The results provided demonstrate that the system is able to detect features
+associated with microcalcifications and masses.
+The applicant also performed a quantitative assessment of the Second Look™ internal processing time
+performance. Results demonstrate that the Second Look™ System processes film within the times
+specified based on film size.
+In addition, a formal focus group and in-depth interviews were conducted to characterize the interactions
+between hardware and software to develop a user friendly system configuration and graphic user
+interface.
+Software I System Verification and Validation- CADx Medical Systems Inc. and Qualia Computing,
+Inc. have performed a device hazard analysis from both the patient and user perspective and mitigated
+identified hazards. They also performed an appropriate verification and validation process. These
+processes demonstrate that the software and hardware will operate as described in the specifications.
+System Reliability- Seven (7) Second Look™ systems were installed at the seven (7) clinical trial sites
+participating in the prospective study between September 1999 and July 2000. The system downtime, for
+component replacement, was estimated at 18 days for the 59 months of the system operation at all sites.
+Safety I Declaration of Conformance to Standards - Second Look™ complies with the fo'llowing
+electrical safety and EMC Standards:
+EN 60601-1/95
+UL 260 1-1, Second Edition
+CAN/CSA C22.2 No. 60 l.l-M90
+X. CLINICAL STUDIES
+Two comprehensive studies, ROSE-l and ROSE-2, were conducted to evaluate the use of the
+Second Look™ system in breast cancer screening.
+ROSE-l
+The first, ROSE-l, was a multi-institutional study with 3 components: ROSE-l M assessed the reduction
+in false negatives resulting from the system's detection of missed cancers; ROSE-l D assessed the
+sensitivity of the system in detecting cancers on mammograms that led to the diagnosis; and ROSE-lR
+assessed the reproducibility of the system's markings.
+6
+r)ROSE-1M
+The ROSE-l M study assessed the number of previously overlooked cancers that might have been
+detected and worked up by the radiologist had she or he been using Second Look™. Seventeen (17)
+institutions enrolled 402 screening mammography cases that were originally interpreted as normal or
+benign within 24 months prior to the screening mammogram that led to cancer diagnosis. Ofthese 402
+cases, 377 had both the current mammogram and the prior mammogram available for analysis. The 377
+prior mammograms underwent independent, blinded review by 3 radiologists (the panel) for detection and
+recommendation of work-up of mammographic abnormalities. At least one of the panel radiologists
+recommended work-up in 313 cases, with the other 64 cases recommended for work-up by none of them.
+Of the 313 cases, 177 had one or more work-ups confirmed to be at the locations of subsequently
+diagnosed cancers by 2 other (truthing) radiologists. The truthing radiologists worked independently of
+each other but came to consensus over initial disagreements. They worked unblinded, with the help ofthe
+subsequent mammogram that led to the diagnosis of cancer.
+Of these 177 previously missed cancers, approximately 66% were represented primarily by masses and
+34% by microcalcifications. The masses included spiculated and non-spiculated masses, architectural
+distortions, and asymmetric densities. These 177 mammograms were then processed by Second Look™.
+The system produced a Mammagraph™ on which MassMarks™ and CalcMarks™ were identified. The
+locations ofthese marks were compared to the locations of the subsequently diagnosed cancers. This
+process measured the sensitivity of the Second Look™ system in detecting missed cancers, but there
+remained to be determined how many of these would have led the radiologist to recommend work-up.
+Since a correct mark by the Second Look™ system in actual clinical practice would only lead to a useful
+result ifthe radiologist using it felt that the mark indicated a region that was suspicious enough to warrant
+further work-up, the number of correct marks needed to be adjusted downward. As a surrogate method of
+estimating this adjustment, the proportion of blinded panel radiologists who correctly identified the
+missed cancers was used as a likelihood multiplier. This proportion was either 0/3, 113, 2/3, or 3/3. Use
+of this proportion resulted in a lower bound to the estimated adjustment, for the following reason. The
+panel radiologists who failed to identify a region could have failed on the basis of either an error of
+detection or an error of interpretation, but the distribution of cases between these two types of errors was
+not recorded. So it was simply assumed that all lesions had been detected by all three of the unaided
+panelists and that failures to recommend work-up were due strictly to errors of interpretation. Then
+multiplyihg by 0/3, 1/3, etc. results in the worst-case scenario for actionability of any lesion marked by
+the system.
+By this method it was determined that ofthese 177 missed cancer cases 62.7% were marked by the
+Second Look™, and of these at least 80.3 would have been worked-up if they had been pointed out to the
+clinical radiologist.
+Retrospective review ofthe 313 cases by the truthing radiologists showed that 242 had retrospectively
+visible lesions in the location ofthe subsequent cancer and 71 did not. This 242 included 177 cancers that
+at least one ofthe three panel radiologists called actionable plus 65 which none of them called actionable.
+As a conservative estimate, all 64 of the cases not submitted to the truthing radiologists for determination
+of lesion visibility were arbitrarily assumed to have retrospectively visible lesions. Using this
+assumption, the maximum number of retrospectively visible false negative cases is 306 (242 + 64).
+Therefore, the reduction in false negatives with the use of Second Look™ is at least 26.2% (80.3/306).
+With a 95% confidence interval of 21.9% to 30. 7%, this 26.2% minimum reduction in false negatives is
+clinically significant.
+7
+rsROSE-lD
+The ROSE-l D study examined the sensitivity of Second Look in detecting diagnosed cancers on
+TM
+screening mammograms. Seventeen (17) institutions enrolled 930 subjects with screening mammograms
+that led to the diagnosis of breast cancer (67% of which were represented primarily by masses and 33%
+by calcifications). The 930 mammograms were processed by Second Look™. The system correctly
+marked the cancer in 791 of these 930 cases. Thus, Second Look™ had a sensitivity of 85% for screen­
+detected cancer cases.
+ROSE-IR
+The ROSE-lR study evaluated the reproducibility ofthe Second Look™ system. Twenty-five (25)
+screen-detected cancer cases from the ROSE-lD study were processed 10 times through each of3 Second
+Look™ systems. The system correctly marked the lesion in 745 of750 cases. Therefore, the Second
+Look™ system reproducibility was over 99%.
+ROSE-2
+The second pivotal study, ROSE-2, was a multi-institutional prospective study designed to show that the
+use of the Second Look™ system did not appreciably increase the number of suspicious regions
+recommended for further work-up by radiologists reading screening mammograms. The work-up rates of
+radiologists were prospectively determined before and after the use of Second Look™. In addition, the
+interpreting radiologists estimated the additional time associated with the use of Second Look™ as a
+percentage of total reading time.
+Ten (I 0) experienced mammographers at 5 institutions prospectively interpreted a total of3,946
+sequential screening mammograms. Each mammogram was then processed by Second Look™, and the
+same radiologists then re-evaluated the mammogram with the Mammagraph™. Of the 3,946 cases, 657
+were recommended for work-up by radiologists before the use of Second Look™. After the use of
+Second Look™ an additional 20 cases were recommended for work-up, for a total of 677 cases.
+Therefore, the work-up rate of radiologists was 16.6% (657 of 3,946) before use of Second Look™ and
+17.2% (677 of 3,946) afterward. The 95% confidence intervals for these work-up rates were (15.5%­
+17.8%) before Second Look™ use and (16.0%- 18.4%) with it. This demonstrated that the 0.5% (20 of
+3,946) increase in work-up rate due to the use of Second Look™ was statistically and clinically
+insignificant.
+In 3,631 of 3,946 prospective cases (92%) the estimated additional reading time to use Second Look™
+was 20% or less.
+In addition, historical work-up rates for the same radiologists in the months prior to the prospective cases
+were compared to their rates before the use of Second Look™ in order to illustrate the variability inherent
+in the process of reading screening mammograms. For this study, work-up included additional
+mammographic views, short-interval follow-up, ultrasound, other advanced imaging modalities, or
+recommendation for biopsy. Of the 3,876 historical cases, 516 were worked-up by radiologists without
+the use of Second Look™ for a 13.3% historical work-up rate. The 95% confidence interval on this
+work-up rate was (12.3%- 14.4%). Thus, there was no overlap in the confidence intervals between the
+historical work-up rate and the work-up rate prior to use of Second Look™ compared to the considerable
+overlap of confidence intervals between the work-up rates before and after Second Look™ use.
+Consequently, the inherent variability in radiologist work-up rates was larger than the increase due to the
+use of Second Look™. This adds further evidence that the increase in work-up rate due to the use of
+Second Look™ is clinically insignificant.
+8
+~~XI. CONCLUSIONS DRAWN FROM STUDIES
+• The use ofthe Second Look™ system on screening mammograms led to a clinically significant
+reduction in missed cancers (false negatives) of at least 26.2% (95% CI 21.9%, 30.7%).
+• The use of the Second Look™ system led to a clinically and statistically insignificant increase in
+the number of work-ups recommended by radiologists reading screening mammograms from
+16.6% (95% CI 15.5%, 17.8%) unaided to 17.2% (95% CI 16.0%, 18.4%) aided.
+In summary, Second Look™ aids a radiologist in detecting breast cancer on screening mammograms.
+XII. PANEL RECOMMENDATION
+In accordance with the provisions of section 515( c) (2) of the act as amended by the Safe Medical Devices
+Act of 1990, this PMA was not referred to the Radiological Devices Panel, an FDA advisory committee,
+for review and recommendation because the information in the PMA substantially duplicates information
+previously reviewed by this panel.
+XIII. CDRH DECISION
+The sponsor's manufacturing and control facilities were inspected on July 24, August 29, and October
+23,2001, and they were found to be in compliance with Good Manufacturing Practice regulations.
+Based on the review ofthe information submitted the PMA (which includes all modules and
+amendments), the device has been found to be reasonably safe and effective for its intended use when
+use9 in accordance with the instructions for use.
+FDA issued an approval order on January 31, 2002
+XVI. APPROVAL SPECIFICATIONS
+Directions for use: See attached labeling.
+Hazards to Health from Use ofthe device: See Indications, Contraindications, Warnings, and
+Precautions in the attached labeling.
+Post Approval Requirements and Restrictions: See attached approval order.
+9
+/eJ

@@ -1,0 +1,264 @@
+AIRAmed GmbH
+℅ Katharina Keutgen August 25th, 2023
+Official Correspondent
+Johner Institut GmbH
+Niddastr. 91
+Frankfurt, 60329
+GERMANY
+Re: K223180
+Trade/Device Name: AIRAscore
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: July 26, 2023
+Received: July 26, 2023
+Dear Katharina Keutgen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK223180 - Katharina Keutgen Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Ningzhi Li -S
+For
+Daniel M. Krainak, Ph.D.
+Assistant Director
+Magnetic Resonance and Nuclear Medicine Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK223180
+18 of 100510(k) Summary
+for
+AIRAscore
+This summary of 510(k) safety and effectiveness information is being submitted in accordance
+with the requirement of 21 CFR 807.92:
+Sponsor
+Sponsor: AIRAmed GmbH
+Konrad-Adenauer-Str. 13
+72072 Tübingen
+Germany
+Contact Person: Dr. Maximilian Stalter
+Email: maximilian.stalter@airamed.de
+phone: +49 7071 5393366
+Date Prepared: September 21, 2022
+510(k) Number: K223180
+Device Name and Classification
+Proprietary Name: AIRAscore
+Device: System, Image Processing, Radiological
+Classification Name: Medical image management and processing system
+(21 CFR 892.2050, Product Code LLZ)
+Predicate Device
+Predicate Device: icobrain, K192130
+Intended Use
+AIRAscore is intended for automatic labeling, visualization and volumetric quantification of
+segmentable brain structures from a set of MR images. This software is intended to automate the
+current manual process of identifying, labeling and quantifying the volume of segmentable brain
+structures identified on MR images.
+Device Description and Function
+AIRAscore is a software that offers automatic, fast and reliable segmentation of brain volumes
+into gray matter, white matter, cerebrospinal fluid and, if present, white matter lesions with an
+additional classification of tissue anatomy.The AIRAscore software comprises two functions, referred to as “AIRAscore structure” and
+“AIRAscore MS”. The report created using the AIRAscore structure function contains the volume
+evaluation for each segmented anatomical area with the raw value, the relative value with respect
+to the total intracranial volume, and the percentile for the patient compared to a reference set.
+It furthermore provides a quick overview of potential segment size differences based on the
+reference set comparison.
+If the AIRAscore MS report is requested, it is provided with additional information about the
+number and the volume of white matter lesions and their categorization (i.e., juxtacortical,
+periventricular or infratentorial).
+For analysis with AIRAscore, incoming MRI data need to comply with the DICOM standard and
+are checked to fulfill the technical requirements. After successful verification, segmentation is
+performed using specialized neuronal networks that remain static during the lifetime of a software
+version. The results are then corrected for head size and compared to an age- and sex adjusted
+reference collective including a statistical classification. A report is generated and transmitted via
+a DICOM storage SCU (sender) to a defined DICOM storage SCP (usually the picture archive of
+the referring physician) using the DICOM format.
+Predicate Device Comparison
+Table 1: Predicate Device Comparison
+Characteristic New Device Predicate Device
+510(k) Number K223180 K192130
+Device Name, AIRAscore icobrain
+Model
+Manufacturer AIRAmed GmbH icometrix NV
+Regulation 892.2050 892.2050
+Number
+Product Code LLZ LLZ
+Intended Use / AIRAscore is intended for automatic icobrain is intended for automatic
+Indications for labeling, visualization and volumetric labeling, visualization and volumetric
+Use quantification of segmentable brain quantification of segmentable brain
+structures from a set of MR images. This structures from a set of MR or NCCT
+software is intended to automate the images. This software is intended to
+current manual process of identifying, automate the current manual process
+labeling and quantifying the volume of of identifying, labeling and quantifying
+segmentable brain structures identified the volume of segmentable brain
+on MR images. structures identified on MR or NCCT
+images.
+icobrain consists of two distinct image
+processing pipelines: icobrain cross
+and icobrain long.
+icobrain cross is intended to provide
+volumes from images acquired at a
+single timepoint. icobrain long is
+intended to provide changes in
+volumes between two images that
+were acquired on the same scanner,with the same image acquisition
+protocol and with the same contrast at
+two different timepoints. The results of
+icobrain cross cannot be compared
+with the results of icobrain long.
+Technical  AIRAscore is a software as medical  Software package
+Characteristics device (SaMD) that runs on  Operates on off-the-shelf hardware
+AIRAmed internal servers (Software (multiple vendors)
+as a Service - SaaS).  DICOM compatible
+For sending and receiving DICOM  Segmentation by classical machine
+data dedicated interfaces are learning and deep learning
+supplied as accessory. (supervised voxel classification by a
+ Operates on off-the-shelf hardware Convolutional Neuronal Network)
+(multiple vendors)
+ DICOM compatible Input:
+ Segmentation by machine learning  T1-weighted and fluid-attenuated
+(supervised voxel classification by a inversion recovery (FLAIR) MR
+Convolutional Neuronal Network) images from a single or multiple
+time points
+Input:  Non-contrast CT from a single time
+ T1-weighted and (optional) fluid- point
+attenuated inversion recovery
+(FLAIR) MR images from a single Output:
+time point  Multiple electronic reports with
+volumetric information of brain
+Output: structures and midline shift
+ Multiple electronic report with  Annotated DICOM images
+volumetric information of brain
+structures (Encapsulated PDF
+DICOM)
+ Annotated DICOM images for visual
+inspection by an expert (Secondary
+Capture DICOM)
+Performance Accuracy Accuracy
+Measurement  Brain segmentable structure volumes  Brain segmentable structure
+Testing / volume changes compared to volumes / volume changes
+manually labeled ground truth compared to simulated and/or
+manually labeled ground truth
+Reproducibility
+ Brain segmentable structure volumes Reproducibility
+/ volume changes compared on test-  Brain segmentable structure
+retest images volumes / volume changes
+compared on test-retest images
+Environment of Primary users of the system are icobrain is used by trained
+Use physicians with finished course of professionals in hospitals, imaging
+studies, medical license and expert centers or in image processing labs.
+knowledge in neuroanatomy and MR-
+imaging of the head. The reports and
+control images are looked at and
+evaluated in a professional healthcare
+setting (diagnostic workstation or
+doctor’s office).
+Testing • Product Risk assessment • Product Risk assessment
+• Software verification tests • Software verification tests
+• Software validation tests  Software validation testsCompliance  ISO 14971:2019 Medical devices -  ISO 14971:2007 Medical devices -
+with Standards Application of risk management to Application of risk management to
+medical devices medical devices
+ IEC 62304 Edition 1.1 2015-06  IEC 62304:2006 Medical device
+Medical device software - Software software - Software life-cycle
+life-cycle processes processes
+ IEC 62366-1 Edition 1.0 2015-02  IEC 62366:2014 Medical devices -
+Medical devices - Application of Application of usability engineering
+usability engineering to medical to medical devices
+devices  CFR 21 part 820 Quality System
+ CFR 21 part 820 Quality System Regulation for Medical Devices
+Regulation for Medical Devices  ISO 13485:2016 Medical devices -
+ ISO 13485:2016 Medical devices - Quality management systems
+Quality management systems  ISO 12052:2006 Digital imaging
+ NEMA PS 3.1 - 3.20 (2016) Digital and communication in medicine
+imaging and communication in (DICOM)
+medicine (DICOM) Set
+Both the subject- and the predicate device have the same intended use and comparable technical
+features. Both devices use the same machine learning procedures (supervised voxel classification
+by Convolutional Neural Networks) to perform segmentation tasks. Since the technique is the
+same in both devices and is known to perform well on segmentation tasks, no different questions
+regarding safety and effectiveness are raised and both devices are deemed to be substantially
+equivalent.
+Performance Testing
+The software verification of AIRAscore included continuous automatic unit testing, integration
+testing and end-to-end testing during the product realization phase according to IEC 62304.
+During the verification phase, the components were tested separately to verify the conformance
+of the development result with the defined software requirements. The verification included the
+check of the implementation of risk mitigation measures. The efficiency of these measures was
+either tested during the verification or during the course of the validation.
+Afterwards, integration testing was performed to verify that the components work together as
+specified in the software.
+The validation confirmed that AIRAscore performs well across target patient population and
+scanner manufacturers.
+Software verification and validation demonstrated that AIRAscore meets the software
+requirements.
+Performance Standards
+AIRAscore complies with the applicable requirements of the following international and national
+standards:
+ ISO 14971 Third Edition 2019-12 - Medical Devices - Application Of Risk Management To
+Medical Devices
+ IEC 62304 Edition 1.1 2015-06 CONSOLIDATED VERSION - Medical Device Software -
+Software Life Cycle Processes IEC 62366-1 Edition 1.0 2015-02 - Medical devices - Part 1: Application of usability
+engineering to medical devices [Including CORRIGENDUM 1 (2016)]
+ NEMA PS 3.1 - 3.20 2021e Digital Imaging and Communications in Medicine (DICOM) Set
+The following FDA Guidance Documents have been applied:
+ Format for Traditional and Abbreviated 510(k)s, 2019
+ Guidance for the Content of Premarket Submissions for Software Contained in Medical
+Devices, 2005
+ Content of Premarket Submissions for Management of Cybersecurity in Medical
+Devices, 2014
+ Cybersecurity for Networked Medical Devices Containing Off-the-Shelf (OTS)
+Software, 2005
+ Off-The-Shelf Software Use in Medical Devices, 2019
+ Applying Human Factors and Usability Engineering to Medical Devices, 2016
+ Design Considerations and Premarket Submission Recommendations for Interoperable
+Medical Devices, 2017
+Conclusion of Substantial Equivalence Discussion:
+Both the subject- and the predicate device have the same intended use and comparable technical
+features. Both devices use the same machine learning procedures (supervised voxel classification
+by Convolutional Neural Networks) to perform segmentation tasks. Since the technique is the
+same in both devices and is known to perform well on segmentation tasks, no different questions
+regarding safety and effectiveness are raised and both devices are deemed to be substantially
+equivalent.

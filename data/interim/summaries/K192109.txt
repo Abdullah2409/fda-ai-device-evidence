@@ -1,0 +1,226 @@
+IB Lab GmbH November 5, 2019
+℅ John J. Smith, M.D., J.D.
+Regulatory Counsel
+Hogan Lovells US LLP
+Columbia Square
+555 Thirteenth Street, NW
+WASHINGTON DC 20004
+Re: K192109
+Trade/Device Name: KOALA
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ, JAK
+Dated: October 11, 2019
+Received: October 11, 2019
+Dear Dr. Smith:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.08
+Silver Spring, MD 20993
+www.fda.govK192109 - John J. Smith, M.D., J.D. Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure 
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+   
+111510(k) SUMMARY
+K192109
+IB Lab’s KOALA
+Submitter
+IB Lab GmbH
+Hietzinger Hauptstrasse 50/10
+1130 Vienna, Austria
+Phone: +43 1 9051206
+Contact Person: Dr. Richard Ljuhar
+Date Prepared: October 11, 2019
+Name of Device: KOALA
+Classification Name: Picture archiving and communications system (21 C.F.R. 892.2050)
+Regulatory Class: Class II
+Product Code: LLZ/892.2050, JAK/892.1750
+Predicate Device: Ortho Kinematics, Inc.’s VMATM System version 3.0 (K172327)
+Reference Device: Zebra Medical Vision Ltd.’s HealthCCS (K172983)
+Device Description
+The Knee OsteoArthritis Labeling Assistant (KOALA) software provides metric measurements of the
+joint space width and indicators for presence or absence of radiographic features of osteoarthritis
+(OA) on posterior-anterior or anterior-posterior (PA/AP) knee X-ray images. The outputs aid clinical
+professionals who are interested in the analysis of knee OA in adult patients, either suffering from
+knee OA or having an elevated risk of developing the disease.
+Outputs are summarized in a KOALA report that can be viewed on any FDA approved DICOM viewer
+workstation. KOALA operates in a Linux environment and can be deployed to be compatible with any
+operating system supporting the third-party software Docker. The integration environment has to
+support KOALA data input and output requirements. The device does not interact with the patient
+directly, nor does it control any life-sustaining devices.
+Intended Use / Indications for Use
+IB Lab KOALA is a radiological fully-automated image processing software device of either computed
+(CR) or directly digital (DX) images intended to aid medical professionals in the measurement of
+minimum joint space width; the assessment of the presence or absence of sclerosis, joint space
+narrowing, and osteophytes based OARSI criteria for these parameters; and, the presence or
+absence of radiographic knee OA based on Kellgren & Lawrence Grading of standing, fixed-flexion
+radiographs of the knee. It should not be used in-lieu of full patient evaluation or solely relied upon to
+make or confirm a diagnosis. The system is to be used by trained professionals including, but not
+limited to, radiologists, orthopedics, physicians and medical technicians.
+116Summary of Technological Characteristics
+The following technological similarities and differences exist between the subject and predicate
+devices. The predicate and subject software utilize computer vision and machine learning algorithms
+trained on medical images. The machine-learning algorithms allow for high accuracy in the detection
+and measurement of OA related symptoms visible on knee radiographs.
+A table comparing the key features of the subject and predicate devices is provided below.
+Ortho Kinematics,
+Zebra Medical Vision Ltd.’s
+IB Lab’s KOALA Software Inc.’s VMA System
+Feature HealthCCS Software
+(Subject Device) (K172327, Predicate
+(K172983, Reference Device)
+Device)
+Classification System, Image
+System, Image Processing, Computed Tomography X-Ray
+Name and Processing, Radiological
+Radiological (LLZ) System (JAK)
+Product Code (LLZ)
+Runs on Server Yes Yes Yes
+DICOM compliant images
+DICOM compliant
+collected in other devices in
+Image Input images inputted from DICOM
+either digitally computed (CR) or
+cleared PACS
+directly digital (DX) formats
+Anatomical Area Joint (knee) Spine Heart (coronary artery)
+Knee detection; Semi-automated
+Image
+Landmark detection; vertebral body Calcification location marking
+Processing
+Joint space detection templating and tracking
+Measurements Yes Yes Yes
+Grading based
+on Yes, cutoffs on grades No Yes
+measurements
+Human
+Intervention for Required Required Required
+interpretation
+Physicians and clinical
+Intended User Trained professionals Health care professionals
+professionals
+Performance Data
+Software verification and validation testing was completed for the subject device. The software
+functioned as intended and all results observed were as expected.
+The company performed standalone clinical performance validation on a dataset of images from a
+large longitudinal US study, Osteoarthritis Initiative (OAI) study. This dataset contained a total of
+6597 radiographs, representing 1149 individuals for which ground truth grading for Kellgren
+117Lawrence grades, as well as osteophyte, sclerosis and joint space narrowing grades according to the
+OARSI (Osteoarthritis Research Society International) guidelines, was established by three
+physicians following adjudication procedures for discrepancies.
+The quality of the joint space width (JSW) measurements was quantified by orthogonal linear
+regression against reference measurements. The performance of the indicators was assessed by
+calculating its accuracy matrix (confusion matrix) against the reference standard and calculating
+sensitivity and specificity.
+The status indicator outputs of KOALA performed as follows
+Status Indicator Sensitivity Specificity
+(95% CI) (95% CI)
+Kellgren-Lawrence status 0.87 0.83
+(KL ≥ 2) (0.84, 0.9) (0.8, 0.86)
+Joint Space Narrowing Status 0.83 0.8
+(JSN OARSI grade > 0) (0.8, 0.86) (0.76, 0.83)
+Osteophytosis status 0.86 0.79
+(Ost OARSI grade > 0 ) (0.81, 0.9) (0.76, 0.83)
+Sclerosis status 0.82 0.8
+(Scl OARSI grade > 0 ) (0.8, 0.87) (0.76, 0.83)
+In addition, the accuracy of the joint space width measurements was compared to equivalent
+measurements also provided as part of the outputs from the longitudinal study mentioned above,
+using orthogonal linear regressions.
+Slope Intercept
+[mm]
+Medial 1.02 -0.08
+(0.99 ; 1.05) (-0.22 ; 0.03)
+Lateral 0.97 0.08
+(0.93 ; 1.00) (-0.15 ; 0.30)
+The analysis supports good agreement between the two sets of measurements.
+In summary, performance validation data establish that KOALA is an effective image processing
+device that provides reliable measurements and accurate indicators for presence/absence of
+radiographic features relevant for the diagnosis and classification of osteoarthritis. Thus, the device
+performs as intended and is substantially equivalent to the predicate device.
+Conclusions
+KOALA is as safe and effective as the predicate device. The subject device has the same intended
+uses and similar indications, technological characteristics, and principles of operation as its predicate
+device. The minor differences between subject and predicate device in indications do not alter the
+intended use of the device and do not raise new or different questions regarding its safety and
+effectiveness when used as labeled. Performance data demonstrate that the device performs as
+intended. Thus, KOALA is substantially equivalent.
+118

@@ -1,0 +1,751 @@
+March 5, 2025
+Siemens Healthcare GmbH
+Abhineet Johri
+Regulatory Affairs Manager
+Henkestr. 127
+Erlangen, 91052
+Germany
+Re: K241770
+Trade/Device Name: Prostate MR AI (VA10A)
+Regulation Number: 21 CFR 892.2090
+Regulation Name: Radiological Computer Assisted Detection And Diagnosis Software
+Regulatory Class: Class II
+Product Code: QDQ
+Dated: February 6, 2025
+Received: February 6, 2025
+Dear Abhineet Johri:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.05
+Silver Spring, MD 20993
+www.fda.govK241770 - Abhineet Johri Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.K241770 - Abhineet Johri Page 3
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D
+Assistant Director
+Magnetic Resonance and Nuclear Medicine Team
+DHT8C: Division of Radiological
+Imaging and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K241770
+Device Name
+Prostate MR AI (VA10A)
+Indications for Use (Describe)
+Prostate MR AI is a plug-in Radiological Computer Assisted Detection and Diagnosis Software device intended to be used
+• with a separate hosting application
+• as a concurrent reading aid to assist radiologists in the interpretation of a prostate MRI examination acquired according
+to the PI-RADS standard
+• in adult men (40 years and older) with suspected cancer in treatment naïve prostate glands
+The plug-in software analyzes non-contrast T2 weighted (T2W) and diffusion weighted image (DWI) series to segment
+the prostate gland and to provide an automatic detection and segmentation of regions suspicious for cancer. For each
+suspicious region detected, the algorithm moreover provides a lesion Score, by way of PI-RADS interpretation suggestion.
+Outputs of the device should be interpreted consistently with ACR recommendations using all available MR data (e.g.,
+dynamic contrast enhanced images [if available]).
+Patient management decisions should not be made solely based on analysis by the Prostate MR AI algorithm.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFProstate MR AI (VA10A) Traditional 510(k) Submission
+510(k) Summary
+K241770
+Prostate MR AI (VA10A)
+In accordance with 21 CFR §807.92, the following summary of safety and effectiveness is provided.
+I. SUBMITTER 21CFR § 807.92(a)(1)
+Siemens Healthcare GmbH
+Henkestr. 127
+91052 Erlangen
+Germany
+Contact: Mr. Abhineet Johri
+Phone: +1 (484) 680-8723
+Email: abhineet.johri@siemens-healthineers.com
+Date Prepared: May 17, 2024
+II. DEVICE 21CFR § 807.92(a)(2)
+Device Trade Name Prostate MR AI (VA10A)
+Classification Name Radiological Computer Assisted Detection/Diagnosis Software For
+Lesions Suspicious For Cancer
+Device Classification Panel Radiology
+Regulation Number 892.2090
+Product Code QDQ
+III. LEGALLY MARKETED PREDICATE DEVICES 21CFR § 807.92(a)(3)
+Predicate Device
+Device Trade Name TransparaTM
+510(k) Number K181704
+Regulation Number 892.2090
+Product Code QDQ
+This predicate has not been subject to a design-related recall.
+Reference Device
+Device Trade Name ProstatIDTMProstate MR AI (VA10A) Traditional 510(k) Submission
+510(k) Number K212783
+Regulation Number 892.2090
+Product Code QDQ
+This predicate has not been subject to a design-related recall.
+IV. DEVICE DESCRIPTION SUMMARY 21CFR § 807.92(a)(4)
+This premarket notification addresses the Siemens Healthineers Prostate MR AI (VA10A) Radiological
+Computer Assisted Detection and Diagnosis Software (CADe/CADx).
+Prostate MR AI is a Computer Assisted Detection and Diagnosis algorithm designed to plug into a
+hosting workflow that assists radiologists in the detection of suspicious lesions and their classification.
+It is used as a concurrent reading aid to assist radiologists in the interpretation of a prostate MRI
+examination acquired according to the PI-RADS standard.
+The automatic lesion detection requires transversal T2W and DWI series as inputs. The device
+automatically exports a list of detected prostate regions that are suspicious for cancer (each list entry
+consists of contours and a classification by Score and Level of Suspicion (LoS)), a computed suspicion
+map, and a per-case LoS. The results of the Prostate MR AI plug-in (with the case-level LoS, lesion
+center points, lesion diameters, lesion ADC median, lesion 10th percentile, suspicion map, and non-PZ
+segmentation considered optional) are to be shown in a hosting application that allows the radiologist
+to view the original case, as well as confirm, reject, or edit lesion candidates with their contours and
+Scores as generated by the Prostate MR AI plug-in. Moreover, the radiologist can add lesions with
+contours and PI-RADS scores and finalize the case. In addition, the outputs include an automatically
+computed prostate segmentation, as well as sub-segmentations of the peripheral zone and the rest of the
+prostate (non-PZ).
+The algorithm will augment the prostate workflow of currently cleared syngo.MR General Engine if
+activated via a separate license on the General Engine.
+V. INTENDED USE/INDICATIONS FOR USE 21CFR § 807.92(a)(5)
+Indications for Use Comparison
+Predicate Device Reference Device
+Subject Device
+TransparaTM ProstatIDTM
+Prostate MR AI (VA10A)
+K181704 K212783
+The ScreenPoint Transpara™ ProstatlD™ is a radiological Prostate MR AI is a plug-in
+system is intended for use as a computer assisted detection Radiological Computer Assisted
+concurrent reading aid for (CADe) and diagnostic (CADx) Detection and Diagnosis
+physicians interpreting screening software device for use in a Software device intended to be
+mammograms, to identify healthcare facility or hospital to used
+regions suspicious for breast assist trained radiologists in the • with a separate hosting
+cancer and assess their
+detection, assessment and application
+likelihood of malignancy.
+characterization of prostate
+Output of the device includes • as a concurrent reading aid
+abnormalities, including cancer
+marks placed on suspicious soft to assist radiologists in the
+lesions using MR image data
+tissue lesions and suspicious interpretation of a prostate
+calcifications; region-based MRI examination acquired
+scores, displayed upon the
+physician’s query, indicating theProstate MR AI (VA10A) Traditional 510(k) Submission
+likelihood that cancer is present with the following indications according to the PI-RADS
+in specific regions; and an for use. standard
+overall score indicating the
+ProstatlD analyzes T2W, DWI • in adult men (40 years and
+likelihood that cancer is present
+and ADC MRI data. ProstatlD older) with suspected cancer
+on the mammogram. Patient
+in treatment naïve prostate
+management decisions should does not include DCE images in
+glands
+not be made solely on the basis its analysis.
+of analysis by Transpara™. The plug-in software analyzes
+ProstatlD software is intended
+non-contrast T2 weighted (T2W)
+for use as a concurrent reading
+and diffusion weighted image
+aid for physicians interpreting
+(DWI) series to segment the
+prostate MRI exams of patients
+prostate gland and to provide an
+presented for high-risk screening
+automatic detection and
+or diagnostic imaging, from segmentation of regions
+compatible MRI systems, to suspicious for cancer. For each
+identify regions suspicious for suspicious region detected, the
+prostate cancer and assess their algorithm moreover provides a
+likelihood of malignancy. lesion Score, by way of PI-
+RADS interpretation suggestion.
+Outputs of the device include the
+Outputs of the device should be
+volume of the prostate and
+interpreted consistently with
+locations, as well as the extent of
+ACR recommendations using all
+suspect lesions, with index
+available MR data (e.g.,
+scores indicating the likelihood
+dynamic contrast-enhanced
+that cancer is present, as well as
+images [if available]).
+an exam score by way of PI-
+Patient management decisions
+RADS interpretation suggestion.
+should not be made solely based
+"Extent of suspect lesions" refers
+on analysis by the Prostate MR
+to both the assessment of the
+AI algorithm.
+boundary of a particular
+abnormality, as well as
+identification of multiple
+abnormalities. In cases where
+multiple abnormalities are
+present, ProstatlD can be used to
+assess each abnormality
+independently.
+Outputs of this device should be
+interpreted with all available MR
+data consistent with ACR
+clinical recommendations (e.g.,
+dynamic contract enhanced
+images if available) in context of
+PI-RADs v2, and in conjunction
+with bi-parametric MRI acquired
+with either surface or endorectal
+MRI accessory coils from
+compatible MRI systems.
+Analysis by ProstatlD is notProstate MR AI (VA10A) Traditional 510(k) Submission
+intended as a replacement for
+interpreting prostate
+abnormalities using MR image
+data consistent with clinical
+recommendations (including
+DCE); nor should patient
+management decisions be made
+solely on the basis of ProstatlD.
+The indication for Use of Prostate MR AI is similar to that of the predicate device. Both devices are
+designed for use by medical professionals who analyze radiological images, assisting them in pinpointing
+and characterizing abnormalities. The devices are both intended to be used concurrently with image
+interpretation but are not meant to replace a clinician’s evaluation or clinical judgement. Thus, the subject
+and predicate devices are both intended to perform the same type of function and serve the same
+fundamental role in medical practice.
+There are distinctions in the disease-specific abnormalities these devices can identify, the types of
+medical images they can process, and the specific patient populations they are intended for. The core
+functionalities of lesion identification and interpretation for medical images remain consistent across the
+differences. The new concerns regarding the safety and effectiveness of the device raised by these
+distinctions are assessed and resolved in the device designs to ensure the substantial equivalence.
+Indications for Use/Intended Use Comparison Summary and Conclusion
+The Indications for Use were assessed in accordance with the following FDA Guidance Documents:
+• The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)]
+The results of this evaluation determined that the Indications for Use for the subject device and the
+predicate device are fundamentally equivalent, and only include differences in modality type, body
+region, and vendors. As such, Siemens Healthineers is of the opinion that the Intended Use and
+Indications for Use are similar to the predicate device.
+VI. COMPARISON OF FEATURES AND SPECIFICATIONS WITH 21CFR § 807.92(a)(6)
+THE PREDICATE DEVICES
+Predicate Device Reference Device
+Subject Device Equivalency
+Attribute TransparaTM ProstatIDTM
+Prostate MR AI (VA10A) Analysis
+K181704 K212783
+General Information
+Regulation § 892.2090 Radiological § 892.2090 Radiological § 892.2090 Radiological Identical
+number Computer Assisted Detection Computer Assisted Detection and Computer Assisted Detection
+and Diagnosis Software Diagnosis Software and Diagnosis Software
+Classification Class II Class II Class II Identical
+Product Code QDQ QDQ QDQ Identical
+Clinical CharacteristicsProstate MR AI (VA10A) Traditional 510(k) Submission
+Predicate Device Reference Device
+Subject Device Equivalency
+Attribute TransparaTM ProstatIDTM
+Prostate MR AI (VA10A) Analysis
+K181704 K212783
+Intended Use A concurrent reading aid for A concurrent reading aid for A concurrent reading aid for Equivalent –
+(short) physicians interpreting physicians interpreting prostate physicians interpreting prostate Justified in
+screening FFDM acquired with MRI exams of patients presented MRI examinations acquired Section V.
+compatible mammography for high-risk screening or according to the PI-RADS
+systems, to identify findings and diagnostic imaging, to identify standard, to identify findings and
+assess their level of suspicion. regions suspicious for prostate assess their level of suspicion.
+cancer and assess their likelihood
+of malignancy.
+Intended Women undergoing screening Population of biological males Adult men (40 years and older) Equivalent –
+patient mammography with a prostate gland undergoing with suspected prostate cancer Images
+population screening or clinical MRI exams. undergoing prostate MRI captured from
+This includes biological males of without prior treatment of the different
+all ages with clinical indicators prostate gland (treatment-naïve). patient
+suggestive of possible prostate populations
+cancer or with family history of are
+standardized
+prostate cancer.
+to be
+processible by
+CAD devices.
+Anatomical Breast Prostate gland Prostate gland Equivalent –
+region of Images
+interest captured from
+different
+anatomical
+regions are
+standardized
+to be
+processible by
+CAD devices.
+Intended physicians qualified to read Physicians qualified to read and Radiologists qualified to read Equivalent –
+Users screening mammograms interpret prostate MRI exams prostate MRI – Users are
+consistent with ACR qualified to
+recommendations in the context read radiology
+of PI-RADS v2 images using
+CAD devices
+Mode of Software that applies algorithms Software that applies algorithms Software that applies algorithms Equivalent –
+action for recognition of suspicious for recognition of suspicious for recognition of suspicious Both predicate
+calcifications and soft tissue tissue regions in Prostate MR tissue regions in Prostate MR and subject
+lesions to detect and images to provide information images to provide information devices use
+characterize findings in about the presence, location, and about the presence, location, and algorithms to
+radiological breast images and level of suspicion of the findings. level of suspicion of the detect findings
+provide information about the findings. and provide
+diagnosis.
+presence, location, and
+characteristics of the findings to
+the user.
+Medthod of Concurrent Concurrent Concurrent Identical
+UseProstate MR AI (VA10A) Traditional 510(k) Submission
+Predicate Device Reference Device
+Subject Device Equivalency
+Attribute TransparaTM ProstatIDTM
+Prostate MR AI (VA10A) Analysis
+K181704 K212783
+Visualization Computer aided detection ProstatID does not include a Prostate MR AI does not include Equivalent –
+Features (CAD) marks to highlight standalone graphical user a standalone graphical user The difference
+locations where the device interface. Rather, ProstatID interface. Rather, it is a plug-in between
+detected suspicious outputs are in DICOM format and device that is intended to be used predicate and
+calcifications or soft tissue may be viewed on DICOM- with a separate hosting subject
+lesions. Decision support is compliant image viewers. application that allows the user devices is
+provided by region scores on a to view the original case, as well justified by
+using the
+scale ranging from 0-100, with as confirm, reject, edit, or add
+reference
+higher scores indicating a higher lesions, their contours and
+device which
+level of suspicion. Scores.
+also does not
+have UI while
+it retains the
+same level of
+safety and
+effectiveness.
+Technical Characteristics
+Design Software only device Software only device Software only device Identical
+Automatic Yes Yes Yes Identical
+Segmentation
+Algorithm Artificial intelligence algorithm Neural network trained on a Artificial intelligence algorithm Identical – all
+trained with large datasets of database of reference normal trained on a database of prostate trained AI
+biopsy proven examples of tissues and abnormalities with MR image series acquired algorithms
+breast cancer, benign lesions known ground truth. according to the PI-RADS
+and normal tissue. standard (non-contrast T2W and
+DWI image series), and
+corresponding radiological
+and/or biopsy findings.
+Alteration No No No Identical
+original
+image
+Data Screening mammograms Prostate MRI image series Prostate MRI image series Equivalent –
+acquisition acquired according to the PI- Acquired
+protocol RADS standard images are
+qualified for
+CAD device
+processing
+Input Medical images provided in a Medical images provided in a Medical images provided in a Equivalent –
+DICOM format DICOM format DICOM format Devices all
+use
+standardized
+image types.Prostate MR AI (VA10A) Traditional 510(k) Submission
+Predicate Device Reference Device
+Subject Device Equivalency
+Attribute TransparaTM ProstatIDTM
+Prostate MR AI (VA10A) Analysis
+K181704 K212783
+Output • Marks placed on suspicious • Marks locations suspicious • Automatically segments the Equivalent –
+soft tissue lesions and of lesions contours of the prostate gland as far as the
+suspicious calcifications • Provides region scores with • Automatically segments the different
+• Region-based scores higher scores indicating a parts of the prostate that belong body regions
+indicating the likelihood that higher level of suspicion to the periheral zone (PZ) and allow. PZ vs.
+cancer is present • Provides single exam score that do not belong to the non-PZ is
+• Overall score indicating the that synthesizes features peripheral zone (non-PZ), prostate
+likelihoood that cancer is respectively specific and
+present on the mammogram • Calculation of a “Suspicion is relevant for
+Map” that indicates lesions PI-RADS
+suspicious for cancer evaluation.
+• For each detected lesion: Instead of
+o Lesion contours marks for
+o Rating of severity (“Score”) suspicious
+on a scale from 3 to 5 (in locations in
+steps of 1). Score is the image, the
+generated by an algorithm subject
+trained on the correlation of device
+prostate MRI with PI-RADS provides
+scores provided by lesion
+radiologists and results of contours and
+lesion-targeted biopsy. a “suspicion
+o A “Level of Suspicion” map”.
+(LoS) on a scale from 60 to
+100 (in steps of 1) as a fine
+granular measure of the
+algorithm's suspicion for the
+presence of a significant
+lesion, based on training on
+PI-RADS scores provided by
+radiologists and results of
+lesion-targeted biopsyProstate MR AI (VA10A) Traditional 510(k) Submission
+Predicate Device Reference Device
+Subject Device Equivalency
+Attribute TransparaTM ProstatIDTM
+Prostate MR AI (VA10A) Analysis
+K181704 K212783
+Score Finding level: Finding level: Finding level: Equivalent –
+Continuous score 1-100 Scores on a continuous scale Rating of severity (“Score”) on a The
+indicating the level of suspicion from 0 to 1 that accompany the scale from 3 to 5 (in steps of 1). differences
+of malignancy (from low overlay markings of suspicious The Score is generated by an between
+suspicion to high suspicion). locations algorithm trained on the predicate and
+subject
+correlation of prostate MRI with
+devices can be
+Breast level: Case level: PI-RADS scores provided by justified by
+Suggested level of suspicion radiologists and results of lesion- using the
+None (LoS) or overall PI-RADS exam targeted biopsy reference
+score A “Level of Suspicion” (LoS) on device which
+Exam level: a scale from 60 to 100 (in steps apply
+of 1) as a more granular measure continuous
+10-point scale score indicative
+of the algorithm's suspicion for finding scale
+of higher frequency of cancer
+the presence of a significant and share the
+positive
+lesion, based on training on PI- same PI-
+RADS LoS
+RADS scores provided by
+exam score.
+radiologists and results of lesion-
+targeted biopsy
+Prostate level (= Exam Level):
+LoS derived from Finding Level
+results as maximum LoS over all
+findings (on a scale of 60-100 in
+steps of 1), or (in the absence of
+findings) as maximum of
+internal Suspicion Map over
+prostate segmentation (on a scale
+of 1-59 in steps of 1)
+Finding Findings are by-default Findings are added to post- Upon activation of the plug-in, Equivalent –
+discovery displayed when score is equal or processed T2W image in DICOM findings are displayed in the Finding
+higher than 5. format as a colorized translucent hosting workflow as results of both
+Upon user request for findings overlay to highlight locations, as segmentations on the T2W predicate and
+of score equal or less than 4. overlay scores on a continuous image series with corresponding subject
+scale from 0 to 1, and as a ratings by Scores (value range: devices can be
+suggested LoS or overall PI- 3-5), and as an overall exam displayed.
+RADS exam score. Score.Prostate MR AI (VA10A) Traditional 510(k) Submission
+Predicate Device Reference Device
+Subject Device Equivalency
+Attribute TransparaTM ProstatIDTM
+Prostate MR AI (VA10A) Analysis
+K181704 K212783
+Performance Reader study with 6720 reads: Reader study with 2700 reads: Reader study with 4080 reads: Equivalent –
+The difference
+• fully crossed multi-reader, • 150 cases were read by 9 • split-plot multi-reader, multi-
+between the
+multi-case design trained physicians in two case design
+predicate and
+separate reads – first without (comprising 2 fully crossed
+• 240 cases
+ProstatID, and second with multi-reader, multi-case splits) subject
+• 14 radiologists ProstatID. devices can be
+• 2× 170 = 340 cases from 2
+justified by
+consecutively acquired cohorts
+comparing
+• 2× 6 = 12 radiologists with the
+performance
+• Two analysis scenarios:
+of the
+a) all cases, all readers
+reference
+b) only cases with biopsy, or a device. Reader
+negative MRI and ≥12 studies of both
+months negative follow-up reference and
+by PSA or MRI (exclusion subject
+of 34 cases), and only case- devices used
+reader pairs in which similar
+readers were not involved statistically
+in prostate MRI reading at meaningful
+the institution providing the case numbers,
+case during the time of data qualified
+collection (exclusion of readers,
+459 case-reader pairs) acceptance
+criteria and
+Case-level ROC for discriminating Case-level ROC for yielded
+Case-level ROC:
+Gleason Score ≥ 7 in those 130 out discriminating Gleason Score ≥ 6: comparable
+• radiologists’ AUC unaided = study results.
+of the 150 cases that had biopsy • radiologists’ AUC (unaided) =
+0.866
+results: a) 0.676; b) 0.658
+• radiologists’ AUC aided =
+• radiologists’ AUC unaided = • radiologists’ AUC (aided) =
+0.886
+0.629 a) 0.701; b) 0.695
+• mean difference: +0.020,
+• radiologists’ AUC unaided = • mean difference:
+95% C.I. [0.010, 0.030]
+0.671
+a) +0.025,
+• mean difference: +0.042, 95% C.I. [0.001, 0.049]
+95% C.I. [0.005, 0.080]
+b) +0.037,
+95% C.I. [0.011, 0.063]
+Lesion-level wAFROC: Lesion-level wAFROC:
+• radiologists’ AUC unaided = • radiologists’ AUC unaided =
+0.387 a) 0.734; b) 0.772
+• radiologists’ AUC aided = • radiologists’ AUC aided =
+0.430 a) 0.769; b) 0.834
+• mean difference: +0.043, • mean difference:
+95% C.I. [0.003, 0.083] a) +0.035,
+95% C.I. [0.002, 0.068]
+b) +0.030,
+95% C.I. [0.008, 0.052]
+The predicate and subject devices are both Computer Assisted Detection and Diagnosis Software devices
+to assist radiologists to detect and diagnose diseases based on the radiological images. They shareProstate MR AI (VA10A) Traditional 510(k) Submission
+significant similarities in the functionalities of detection, assessment and characterization of human tissue
+abnormalities on radiological images using AI/ML augmented technologies.
+While technological characteristics of the predicate device TransparaTM, e.g., network architecture and
+training process, remain unknown to the public, the verification and validation testing of the subject
+device Prostate MR AI demonstrate that the device can perform prostate gland segmentation, lesion
+detection and classification as intended, meeting all the design inputs. The risks associated with the
+algorithm development are mitigated as far as possible. The detection and diagnosis accuracy of the
+subject device was assessed to validate the appropriateness and implementation of the intended use. In
+addition, a Multi-Reader/Multi-Case Study was performed to demonstrate that radiological reading aided
+by Prostate MR AI yields better diagnostic performance than unaided reading. Evidence provided within
+this submission demonstrates conformance with special controls for software as medical devices. The
+differences in technological characteristics between the subject device Prostate MR AI and the predicate
+device do not constitute any new intended use and do not raise new questions of safety and effectiveness.
+The other differences between the subject device and the predicate device, notably the body regions
+targeted, are justified based on the reference device ProstatIDTM.
+In summary, Siemens is of the opinion that Prostate MR AI (VA10A) does not raise new or different
+questions of safety or effectiveness and is substantially equivalent to the currently marketed predicate
+device TransparaTM (K181704).
+VII. PERFORMANCE DATA
+The following performance data were provided in support to demonstrate similarities to the predicate /
+previously cleared device.
+Summary of Software Verification and Validation
+No performance standards for CADe/CADx have been issued under the authority of Section 514. Non-
+clinical testing was conducted for the device Prostate MR AI (VA10A) during product development.
+The features described in this Premarket Notification were supported with verification and validation
+testing.
+Siemens Healthineers claims conformance to the following recognized consensus standards:
+• ISO 14971 Third Edition 2019-12
+• IEC 62304 Edition 1.1 2015-06 CONSOLIDATED VERSION
+• IEC 82304-1 Edition 1.0 2016-10
+Software documentation for Basic Documentation Level per FDA’s Guidance Document “Content of
+Premarket Submissions for Device Software Functions” issued on June 14, 2023 is also included as
+part of this submission. The performance data demonstrates continued conformance with special
+controls for medical devices containing software. Non-clinical tests were conducted on the device
+Prostate MR AI during product development.
+The Risk Analysis was completed, and risk control implemented to mitigate identified hazards. The
+testing results support that all the software specifications have met the acceptance criteria. Testing for
+verification and validation for the device was found acceptable to support the claims of substantial
+equivalence.Prostate MR AI (VA10A) Traditional 510(k) Submission
+Nonclinical Test Summary 21CFR § 807.92(b)(2)
+Automatic prostate segmentation
+To monitor the performance of the automatic prostate segmentation, an automated test routine was
+established that compared the segmentation result of 222 transversal T2 series from more than 10
+clinical sites against ground truth generated by radiologists. The image data base of this formal test
+includes ~31% cases acquired with a 1.5T system and ~69% cases acquired with a 3T system. Of the
+test data 41%, 27%, and 32% were scanned on Siemens, Philips, and GE MR systems, respectively.
+The reference standard was established through pixel-wise consensus, which was built based on
+annotation results of three expert radiologists. Two metrics were used for the evaluation. One was
+based on the Dice score of pairs of segmentation masks, and the other was based on the normalized
+volume difference based on the computed volumes of masks.
+The overall results demonstrate the following:
+• The median of the Dice score between the AI algorithm results and the corresponding ground
+truth masks exceeds the threshold of 0.9.
+• The median of the normalized volume difference between the algorithm results and the
+corresponding ground truth masks is within a ±5% range.
+• The AI algorithm results as compared to any individual reader are statistically non-inferior
+based on variabilities that existed among the individual readers within the 5% margin of error
+and 5% significance level.
+Prostate lesion detection and classification
+To monitor the performance of the automatic prostate lesion detection and classification, an automated
+test routine was established that compared the result of the automatic lesion detection and classification
+result for
+• 105 cases from 6 sites against a ground truth generated by radiologists,
+• 115 cases from 6 sites against a ground truth generated by prostate biopsy, as well as
+• 340 cases from the multi-reader multi-case study.
+The reference standard for the radiology ground truth was established through consensus reading of
+three expert radiologists in prostate MRI reading. The reference standard for the pathology ground truth
+was established through biopsy results for the same patient. Therefore, in the pathology ground truth,
+only case level annotation was available, while in the radiology ground truth, lesion level annotation
+was also included. Sensitivity and false positive rate per case was used to evaluate the performance of
+prostate lesion detection and classification, and accuracy was used to determine the performance of the
+PI-RADS classification.
+The overall results demonstrated the following:
+• The case level sensitivity of the lesion detection is equal or greater than 0.80 for both radiology
+and pathology ground truth.
+• The false positive rate per case of the lesion detection is smaller than one false positive per case
+for radiology ground truth.
+• The accuracy of the PI-RADS classification of radiology ground truth lesions detected by the
+algorithm is equal or greater than 0.8.Prostate MR AI (VA10A) Traditional 510(k) Submission
+• The non-inferior performance of the subject device in GE vs Siemens and African American vs
+non-African American cases, and in cases with peripheral zone vs non- peripheral lesions
+All pre-specified criteria for non-clinical testing were therefore met.
+Clinical Test Summary 21CFR § 807.92(b)(2)
+For assessment of the clinical performance of the device, a reader study was conducted with the
+objective to determine whether individual radiologists perform better with than without Prostate MR
+AI in the task of identifying cases of treatment-naïve men that are suspicious of prostate cancer based
+on a prostate MRI examination acquired according to the PI-RADS standard. In order to compare the
+reading performance of radiologists with and without the aid of Prostate MR AI, a study design with
+independent arms for aided and unaided reading is appropriate to test both reading conditions. The
+study was set up as a multi-reader multi-case (MRMC) study in a paired split-plot design, which
+essentially combined two fully-crossed MRMC (sub-)studies conducted in parallel, each using half of
+the overall readers and half of the overall cases.
+Within each of the two MRMC sub-studies, multiple radiologists performed two reads of multiple
+prostate MRIs, one without and one with the support of Prostate MR AI. Between the sessions there
+was a wash-out time interval of at least 28 days. All of the 12 Readers were American Board of
+Radiology certified and selected to reflect a spectrum of experience and practice type background.
+Study cases were selected retrospectively to be representative of the population of U.S. men
+undergoing prostate MRI without prior treatment of the prostate gland.
+For inclusion in the reader study, 340 cases were selected. The cases from two US sites were
+consecutive and not enriched for positive cases. To adequately represent African American patients,
+who are more likely to be diagnosed with prostate cancer, present at an earlier age, and are more likely
+to have advanced disease at diagnosis1, additional consecutive patient cases specifically from men of
+African descent were included to ensure that at least 13% of the study cases are of Black or African
+American ethnicity2.
+The cases for the reader study were kept completely separate from those used for the training of the
+Prostate MR AI algorithm.
+The primary endpoint of the study was based on the comparison of case-level diagnostic performance
+of aided and unaided reads using the reader-provided case-level LoS (RLoS), that is, a PI-RADS scale
+with additional intermediate steps of 0.5. The resulting finer granularity, which is not used in clinical
+practice, was introduced for improved accuracy of the comparative assessment. Biopsy results (with the
+criterion Gleason Grade Group GGG greater or equal to 1, i.e. any cancer on biopsy), and in case they
+were not available, PSA density and follow-up were used to determine the reference standard.
+However, as consecutive cases were used in order to avoid selection bias, not all cases had
+unquestionable ground truth in terms of biopsy information or a negative MRI with negative follow-up
+of at least 12 months by PSA density or MRI. Therefore, two alternative evaluations were performed in
+1 Smith ZL, Eggener SE, Murphy AB: African-American Prostate Cancer Disparities.
+Curr Urol Rep 18, 81 (2017)
+2 https://www.census.gov/quickfacts/fact/table/US/IPE120219 (accessed on Feb 6th, 2022) gives an estimate of
+13.4% for the U.S. population of Black or African American ethnicity for July 1st, 2021Prostate MR AI (VA10A) Traditional 510(k) Submission
+parallel: a fully inclusive and a maximally restrictive analysis.
+In the fully inclusive scenario, all cases and readers were considered, using a probabilistic treatment if
+definite reference standard labels were not available.
+In the maximally restrictive scenario, only cases with biopsy information, or a negative MRI and 12-
+month negative follow-up by PSA density or MRI, were used. Moreover, reader-case pairs were
+excluded if readers were involved in clinical prostate MRI evaluation at the institution that provided the
+cases during the period of data collection.
+In the fully inclusive analysis, the average area under the ROC (Receiver Operating Characteristic)
+curve (AUROC) improved from 0.6758 in unaided reading to 0.7010 in aided reading, with a
+difference of 0.0252 (95% C.I. [0.0011, 0.0493]; P=0.040).
+In the maximally restrictive analysis, AUROC improved from 0.6579 in unaided reading to 0.6948 in
+aided reading, with a difference of 0.0368 (95% C.I. [0.0108, 0.0628]; P=0.006).
+In either analysis, the improvement was statistically significant and the primary endpoint thus met.
+The following figures show the pooled ROC curves and RLoS ≥ 3 operating points for the
+discrimination of any cancer on biopsy (Gleason Grade Group ≥ 1) in unaided (orange) and aided
+reading (blue). The grey curve denotes AI standalone performance (with 95% confidence interval
+envelope); left: fully inclusive analysis, right: maximally restrictive analysis.
+In the fully inclusive analysis, the average sensitivity/specificity of the Readers at a case-level RLoS
+threshold of ≥ 3 was 0.57 (95% C.I.: [0.49, 0.64]) / 0.72 (95% C.I. [0.64, 0.79]) in unaided and 0.60
+(95% C.I.: [0.53, 0.68]) / 0.73 (95% C.I.: [0.65, 0.80]) in aided reading.
+For the secondary endpoint (an analysis of the lesion-level reading performance in unaided and aided
+reading), AUwAFROC (area under the average weighted alternative free receiver operating
+characteristic) figures of merit were determined, using as reference standard consensus lesions with a
+consensus PI-RADS of at least 3 from majority voting among 3 experienced radiologists acting as
+Truthers. Against this, the Readers' corresponding true positives (correct lesion localizations) and false
+positive lesion detections were held, with their respective ratings.
+Although in this analysis the reference standard is not in question for any case, for full equivalence to
+the primary analysis the evaluation was performed both for the fully inclusive and the maximally
+restrictive analysis scenario.
+In the fully inclusive analysis, AUwAFROC improved in aided vs. unaided reading by 0.0350 (95%
+C.I.:[0.0020, 0.0681], P=0.037).Prostate MR AI (VA10A) Traditional 510(k) Submission
+In the maximally restrictive analysis, AUwAFROC improved in aided vs. unaided reading by 0.302
+(95% C.I.: [0.0080,0.0520], P=0.008).
+In either analysis, the improvement was statistically significant and the secondary endpoint thus met.
+In a supplemental analysis for the fully inclusive analysis scenario, Fleiss’ Kappa for interreader
+agreement in per-case PI-RADS scores was 0.283 (95% C.I.: [0.242, 0.322]) for unaided reads, and
+0.371 (95% C.I.: [0.326, 0.411]) for aided reads, with a difference of 0.087 (95% C.I. [0.051, 0.125]).
+The improvement in Fleiss’ Kappa between unaided and aided reads was statistically significant
+(P<0.0001).
+The device thus passed clinical testing for case-level and lesion-level reading performance
+improvement in aided vs. unaided reads.
+Summary
+Performance tests were conducted to test the functionality of the device Prostate MR AI (VA10A).
+These tests have been performed to assess the functionality of the subject device. Results of all
+conducted testing were found acceptable in supporting the claim of substantial equivalence.
+Safety and Effectiveness Information
+Software design description, hazard analysis, and technical and safety information have been
+completed and provided in support of this device. The device labeling contains instructions for use with
+cautions to provide for safe and effective use of the device. The results of the hazard analysis,
+combined with the appropriate preventive measures taken indicate the device are included in
+documentations of Basic Documentation Level, as per Guidance “Content of Premarket Submissions
+for Device Software Functions”, June 2023.
+The device has no PHI and is utilized only by trained professionals. The output of the device is
+evaluated by trained professionals as a concurrent reader. Use of this device does not impact the quality
+or status of the original acquired data.
+VIII. CONCLUSIONS 21CFR § 807.92(b)(3)
+In accordance with Guidance Document “The 510(k) Program: Evaluating Substantial Equivalence in
+Premarket Notifications [510(k)]”, the predicate device for this submission is TransparaTM, cleared via
+Premarket Notification K181704 on November 21, 2018.
+On the basis of the comparison of device properties provided above including intended use,
+technological characteristics, performance and risks, Siemens Healthineers believes that the subject
+device, Prostate MR AI (VA10A) is as safe and effective as and substantially equivalent to the
+predicate device, TransparaTM.

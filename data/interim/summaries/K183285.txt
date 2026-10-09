@@ -1,0 +1,316 @@
+CureMetrix, Inc. March 8, 2019
+℅ Mr. Kevin Harris
+CEO
+9404 Genesee Avenue, Suite 330
+LA JOLLA CA 92037
+Re: K183285
+Trade/Device Name: cmTriage
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: February 4, 2019
+Received: February 4, 2019
+Dear Mr. Harris:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.03.07
+Silver Spring, MD 20993
+www.fda.govK183285 – Mr. Kevin Harris Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia Mills, Ph.D.
+Director
+Division of Radiological Health
+Office of In Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+Enclosure(cid:2)510(k) Summary
+Submitter CureMetrix, Inc.
+Contact Person Kevin Harris
+9404 Genesee Ave
+Suite 330
+La Jolla, CA 92037
+619-339-9889
+Kevin@CureMetrix.com
+Common Name Radiological Computer-Assisted Triage and Notification Software
+Trade Name cmTriage™
+Classification
+Name: Radiological Computer-Assisted Prioritization Software
+Regulation: 21 CFR 892.2080
+Code: QFM
+Class: Class II
+Predicate Device
+Name: ContaCT
+Company: Viz.AI
+Code: QAS
+510(k): DEN170073
+510(k) Submission Number: K183285
+Device Description
+CureMetrix’s cmTriage is a radiological computer-assisted triage and notification software device. Digital two-dimensional
+(2D) mammograms are captured by a Full-Field Digital Mammography (FFDM) system and deposited on the PACS. The
+CureMetrix image forwarding software, acting as a PACS listener, receives a copy of the mammography DICOM image(s),
+creates a local copy of the image(s), de-identifies the local copy, encrypts the local copy, transmits the local copy to the
+CureMetrix cloud, and then deletes the local copy.
+Within the CureMetrix cloud, the cmTriage service receives the DICOM image(s), decrypts the image(s), groups them by
+study, analyzes the image(s) within the study, and produces a result for each study. The results are produced in the form of
+DICOM Structured Report (SR) file with a cmTriage result.
+The result file is encrypted and transmitted from the CureMetrix cloud back to cmEdge where it is decrypted and re-
+associated with the original study. The DICOM SR is then routed to the PACS.
+Once the PACS receives the DICOM SR, the file is opened, the cmTriage code (“Impression Description”) is extracted for the
+exam, and the worklist column for the exam is updated. The cmTriage code will either indicate “Suspicious” or “” (blank).
+Within the PACS worklist the cmTriage code can be displayed in a separate column. Each PACS may have different features
+and functionality depending on the manufacturer which are outside of the scope and control of CureMetrix and
+cmTriage. However, in general, at a minimum, the user is able to sort their worklist based on values in columns. This sorting
+functionality (if present) would allow the radiologist to group Suspicious exams together. The device does not alter
+the original medical image and is not intended to be used as a diagnostic device.
+The standard of care for breast cancer screening in the US is quickly becoming one in which both FFDM and digital breast
+tomosynthesis (DBT) are acquired during the exam. However, cmTriage only operates on 2D images. If a site does not use
+FFDM and 2D but instead only uses 3D and DBT, they will not be able to use this current device.
+In summary, the cmTriage device is intended to provide a passive notification through the PACS to the radiologist indicating
+the existence of a case that may potentially benefit from that radiologist’s prioritization.
+1
+© CureMetrix, Inc. Confidential and Proprietary. All Rights Reserved
+© 2018 CureMetrix, Inc. Proprietary and ConfidentialIntended Use/Indications for Use
+cmTriage is a passive notification for prioritization-only, parallel-workflow software tool used by radiologists to prioritize
+specific patients within the standard-of-care image worklist for 2D FFDM screening mammograms. cmTriage uses an artificial
+intelligence algorithm to analyze 2D FFDM screening mammograms and flags those that are suggestive of the presence of at
+least one suspicious finding at the exam level. These flags are viewed by the radiologist via their Picture Archiving and
+Communication System (PACS) worklist. The decision to use cmTriage codes and how to use cmTriage codes is ultimately up
+to the radiologist. cmTriage does not send a proactive alert directly to the radiologist.
+Radiologists are responsible for reviewing each exam on a diagnostic viewer according to the current standard of care.
+cmTriage is limited to the categorization of exams, does not provide any diagnostic information beyond triage and
+prioritization, does not remove images from the radiologist’s worklist, and should not be used in lieu of full patient
+evaluation, or relied upon to make or confirm diagnosis.
+cmTriage is for prescription use only.
+Technological Characteristics
+cmTriage is a software only device that can be segmented into three components: (1) Image Forwarding and Result File
+Receiving Software, (2) Image Processing and Analysis Software, and (3) Notification Result File.
+The Image Forwarding and Result File Receiving Software is configured by the hospital to interact with a healthcare facility’s
+PACS or local DICOM router and is responsible for automatically transmitting a copy of DICOM files from the local router
+through a secured channel to the Image Processing and Analysis Software based on DICOM metadata.
+The Image Processing and Analysis Software component of the device is hosted in the cloud and is responsible for receiving,
+assembling, processing, analyzing and storing DICOM images. This software component includes the software algorithm that
+is responsible for identifying and quantifying image characteristics that are consistent with a suspicious region of interest in a
+screening mammogram. When the software algorithm detects imaging characteristics suggestive of a suspicious region of
+interest, the Image Processing and Analysis Software component sets a flag in the Notification Result File indicating that the
+exam is “Suspicious” and sends the file back to the Image Forwarding and Result File Receiving Software. While the software
+algorithm informs the notification process, no other diagnostic information is generated from the algorithm or available to
+the user beyond the notification.
+The Notification Result File is a DICOM SR file that can be used by the PACS or viewing workstation to update the worklist
+with an indication of that reflects the cmTriage notification of either “Suspicious” or “” (blank).
+Summary of Comparison to Predicate Device
+Characteristic Predicate: Viz.AI ContaCT cmTriage Similarities or
+Differences
+FDA Clearance DEN170073 TBD
+Clearance Date 2/13/18 TBD
+Product Code QAS QFR
+Class II II Same
+Regulation 892.2080 892.2080 Same
+OTC vs. PUO PUO PUO Same
+2
+© CureMetrix, Inc. Confidential and Proprietary. All Rights Reserved
+© 2018 CureMetrix, Inc. Proprietary and ConfidentialIntended Use. ContaCT is a notification-only, parallel workflow cmTriage is a passive notification for Similarities
+Indications for tool for use by hospital networks and radiologists prioritization-only, parallel-workflow software • Used by radiologists
+Use to identify and communicate images of specific tool used by radiologists to prioritize specific • Identifies specific
+patients to a radiologist, independent of standard patients within the standard-of-care image patients
+of care workflow. worklist for 2D FFDM screening mammograms. • Operates in parallel
+cmTriage uses an artificial intelligence algorithm to standard of care
+ContaCT uses an artificial intelligence algorithm to to analyze 2D FFDM screening mammograms and workflow
+analyze images for findings suggestive of a pre- flags those that are suggestive of the presence of at • Uses artificial
+specified clinical condition and to notify an least one suspicious finding at the exam level. intelligence to
+appropriate medical radiologist of these findings These flags are viewed by the radiologist via their analyze images
+in parallel to standard of care image Picture Archiving and Communication System • Looking for findings
+interpretation. Identification of suspected findings (PACS) worklist. The decision to use cmTriage suggestive of a pre-
+is not for diagnostic use beyond notification. codes and how to use cmTriage codes is ultimately specified clinical
+up to the radiologist. cmTriage does not send a condition
+Specifically, the device analyzes CT angiogram proactive alert directly to the radiologist. • Not intended for
+images of the brain acquired in the acute setting, diagnostic use
+and sends notifications to neurovascular Radiologists are responsible for reviewing each
+• Radiologists are
+radiologist that a suspected large vessel occlusion exam on a diagnostic viewer according to the
+responsible for
+has been identified and recommends review of current standard of care.
+viewing images on a
+those images. Images can be previewed through a
+diagnostic viewer
+mobile application. cmTriage is limited to the categorization of exams,
+• Limited to analysis
+does not provide any diagnostic information
+of imaging data and
+Images that are previewed through the mobile beyond triage and prioritization, does not remove
+should not be used
+application are compressed and are for images from the radiologist’s worklist, and should
+in-lieu of full patient
+informational purposes only and not intended for not be used in lieu of full patient evaluation, or
+evaluation or relied
+diagnostic use beyond notification. Notified relied upon to make or confirm diagnosis.
+upon to make or
+radiologists are responsible for viewing non-
+confirm diagnosis
+compressed images on a diagnostic viewer and c mTriage is for prescription use only.
+engaging in appropriate patient evaluation and
+Noted difference:
+relevant discussion with a treating physician
+cmTriage notification
+before making care-related decisions or requests.
+is passive vs. proactive
+ContaCT is limited to analysis of imaging data and
+and cmTriage codes
+should not be used in-lieu of full patient evaluation
+are accessed by
+or relied upon to make or confirm diagnosis.
+radiologist through
+PACS worklist and
+used for prioritization.
+Technical The device provides triage or notification that is The device provides triage or notification that is Same
+Method informed by machine learning, artificial informed by machine learning, artificial
+intelligence or other image analysis algorithms intelligence or other image analysis algorithms
+Target Area The device operates on radiological images of the The device operates on radiological images of the Same
+human body. human body.
+Anatomical Site Head Breast Different anatomic site
+Where Used Hospital or Clinic Hospital or Clinic Same
+User Population Radiologist Radiologist Same
+Software Device is software only Device is software only Same
+Software Level Moderate Moderate Same
+of Concern
+Communication Communicates images of patients to a radiologist. Does not communicate images of patients. Noted difference: No
+with Patient cmTriage passively notifies the radiologist via the images are
+PACS worklist, whereas ContaCT notifies a pre- communicated from
+identified specialist via direct message. cmTriage to
+radiologist. Only
+cmTriage codes are
+returned for viewing
+within the PACS
+worklist.
+3
+© CureMetrix, Inc. Confidential and Proprietary. All Rights Reserved
+© 2018 CureMetrix, Inc. Proprietary and ConfidentialNotification/ Yes Yes cmTriage prioritizes
+Priority based on suspicious
+findings; ContaCT
+connects a specialist to
+a patient that may be
+in need of urgent
+treatment for stroke.
+ContaCT proactively
+notifies radiologist.
+cmTriage passively
+notifies and thus
+radiologist is
+responsible for
+accessing cmTriage
+codes via PACS
+worklist.
+Preview Images Presentation of notification and preview of the Presentation of notification and preview of the Same
+study for initial assessment not meant for study for initial assessment not meant for
+diagnostic purposes. diagnostic purposes.
+The device operates in parallel with the standard The device operates in parallel with the standard
+of care, which remains the default option for all of care, which remains the default option for all
+cases. cases.
+Alteration of No No Same
+original image
+Image Viewing Images previewed through a mobile app Images viewed on existing viewing workstation cmTriage codes are
+viewed through PACS
+worklist
+Performance Data
+CureMetrix conducted a retrospective, blinded, multi-center study of the cmTriage software. A statistical analysis was
+conducted to estimate to the number of cancer and normal studies required to achieve the stated primary endpoint 95%
+confidence interval (CI) and to ensure that our detailed statistical analyses are consistent with a priori estimates.
+Sensitivity and Specificity targets were set based on the performance in the BCSC study. A primary endpoint goal established
+to validate that cmTriage operates at a 95% CI for both sensitivity and specificity above the 80% CI reported in the BCSC.
+Further the goal was refined to validate that at a sensitivity of 86.9% corresponding to the median sensitivity reported by the
+BCSC, the specificity would be comparable to the median specificity reported by the BCSC and above the bottom of the 80%
+CI. For cmTriage a sensitivity of 86.9% corresponds to a specificity of 88.5% -- comparable to the median specificity of 88.9%
+of the BCSC.
+A secondary endpoint was established to determine time performance of cmTriage to ensure that mammograms can be
+processed, and notification results returned for use by radiologists within minutes which is clinically acceptable.
+The population of cases (exams) was selected to represent a representative cross-section of patients based on age, density,
+and lesion type mix typically seen in a screening population. The population was enriched with biopsy confirmed cancers to
+more accurately measure the efficacy of the cmTriage software.
+The quarantined test data were obtained from multiple clinical sites in the United States. The dataset consists of 1255
+mammographic studies: 400 biopsy-proven cancer studies (278 studies of soft-tissue density and 122 studies of
+microcalcifications) and 855 normal studies (BIRADS 1 and 2 with two-year follow-up of negative diagnosis). Each
+mammographic study in the quarantined test dataset consists of at most 4 standard-view screening mammograms: (LCC),
+(LMLO), (RCC), (RMLO). By limiting each study to at most 4 standard-view screening mammograms, we emulate the workflow
+in standard clinical patient care where 4 standard-view screening mammographic images are acquired for each patient.
+4
+© CureMetrix, Inc. Confidential and Proprietary. All Rights Reserved
+© 2018 CureMetrix, Inc. Proprietary and ConfidentialThe quarantined test set was constructed to ensure that confounding factors present in the population were addressed in the
+data and consistent with the population of women undergoing breast cancer screening. Confounding factors that were
+considered include: 1) Lesion Type; 2) Lesion Size for Soft-Tissue Densities; 3 Age; and 4) Breast Density. To establish a
+population baseline for comparison, CureMetrix used the Breast Cancer Surveillance Consortium for age and lesion type and
+used an NIH study for density.
+When the cmTriage software is set to a sensitivity of 84.4%, in direct comparison to the BCSC results, cmTriage has a stand-
+alone specificity of 94.0% and would indicate that only 4.1% of the total number of cases are incorrectly marked as
+“suspicious” on the test set. However, this is an enriched data set. Adjusting for a 0.5% cancer rate, at 84.4% sensitivity,
+CureMetrix would have indicated that a total of 6.4% of the exams are suspicious. Thus, in stand-alone mode CureMetrix is
+operating at higher specificity than radiologists. At the default sensitivity of 93% (specificity = 76.3%), cmTriage will
+incorrectly mark 16.1% of the normal cases as suspicious in this enriched test set. Adjusting for a 0.5% cancer rate, at 93%
+sensitivity, CureMetrix would have indicated that a total of 24% of the exams are suspicious.
+Based on the results demonstrated above, the primary endpoints of sensitivity and specificity exceeded the
+targets. Sensitivity was observed at mean of 86.9% with a 95% confidence interval (CI) of 83.6% to 90.2%. Specificity was
+observed at a mean of 88.5% with a 95% CI of 86.4% to 90.7%. The low end of our 95% CI for sensitivity and specificity, 83.6%
+and 86.4% respectively, exceeded BCSC’s low end of their 80% CI (80.7% and 82.6% for sensitivity and specificity,
+respectively).
+A population-adjusted mark rate of 6.37% at 84.4% sensitivity was well below the target recall rate of 9.60% of radiologists at
+the same sensitivity.
+Overall cmTriage was able to demonstrate an area under the curve (AUC) of 0.951 with a 95% CI of 0.937 to 0.964 on this
+dataset. This AUC held across densities: Density 1: AUC 0.964 with a 95% CI of 0.934 to 0.994; Density 2: AUC 0.964 with a
+95% CI of 0.946 to 0.981; Density 3: AUC 0.940 with a 95% CI of 0.917 to 0.963; and Density 4: AUC 0.958 with a 95% CI of
+0.92 to 0.995. This AUC also held across lesion types: Mass: AUC 0.941 with a 95% CI of 0.923 to 0.959; Calcifications: AUC
+0.972 with a 95% CI of 0.958 to 0.985.
+Lastly the timing performance for the device was shown to be an average of 3.35 minutes at a network speed of 10Mbits/s
+upload and 37Mbits/s download. This is well within the clinical operational expectations of breast cancer screening.
+These data in combination establish effective triage for the image analysis algorithm and notification functionality of the
+cmTriage device as compared to the standard of care.
+Conclusion
+The subject cmTriage and the ContaCT predicate devices are both software only devices intended to aid in triage of
+radiological images of specific patients to a radiologist, independent of standard of care workflow. The labeling of both
+devices are limited to the categorization of exams and are not to be used in-lieu of full patient evaluation or relied upon to
+make or confirm diagnosis.
+Both devices operate in parallel to the standard of care workflow in the sense that they do not change the original image, do
+not provide any marking on the output preview, and do not remove images from the standard of care “First in First out”
+(FIFO) queue, thus not disturbing standard interpretation of the images by trained clinicians. The minor differences between
+the subject device and the predicate raise no new issues of safety or effectiveness. In addition, performance testing
+demonstrates that the cmTriage performs as intended.
+The cmTriage device is thus substantially equivalent to the ContaCT predicate.
+5
+© CureMetrix, Inc. Confidential and Proprietary. All Rights Reserved
+© 2018 CureMetrix, Inc. Proprietary and Confidential

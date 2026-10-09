@@ -1,0 +1,242 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+Tyto Insights for Eardrum Bulging Detection
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Ear, nose, and throat image analyzer. An ear, nose, and throat image analyzer is a device that
+uses software to analyze patient-specific optical images of the ear, nose, and throat area. The results
+are provided for healthcare providers as an aid to detection, diagnosis, or monitoring of ear, nose,
+and throat conditions.
+NEW REGULATION NUMBER: 21 CFR 874.4775
+CLASSIFICATION: Class II
+PRODUCT CODE: SHL
+BACKGROUND
+DEVICE NAME: Tyto Insights for Eardrum Bulging Detection
+SUBMISSION NUMBER: DEN250014
+DATE DE NOVO RECEIVED: April 21, 2025
+SPONSOR INFORMATION:
+Tyto Care Ltd.
+Stella Raizelman Perry
+14 Beni Gaon Street
+Netanya, Israel
+INDICATIONS FOR USE
+The Tyto Insights for Eardrum Bulging Detection is indicated as follows:
+Tyto Insights for Eardrum Bulging Detection is an over-the-counter web-based AI-enabled
+software analytics device intended to automatically detect the bulging of the eardrum in
+Otoscopic video recordings acquired by the compatible electronic otoscope, as identified
+in the product labeling, in patients aged 6 months and older. The device is not intended for
+diagnosis. A healthcare provider’s advice is required to understand the meaning of the Tyto
+Insights for Eardrum Bulging Detection result. Healthcare providers should consider the
+device result in conjunction with otoscopic recordings and other relevant patient data. The
+device is not intended to detect other abnormal otoscopic findings.LIMITATIONS
+Limitations on device use are included in the Instructions for Use as Contraindications,
+and Warnings/Precautions.
+Contraindications
+• Not intended for diagnostic purposes.
+• Not intended for patients under the age of 6 months.
+• Not suitable for use by people who have undergone ear surgical procedures on the
+eardrum, middle ear, and/or mastoid. These procedures encompass tympanoplasty, canal
+wall up tympanomastoidectomy, canal wall down mastoidectomy, modified radical
+mastoidectomy, radical mastoidectomy, and myringotomy with ventilation tube insertion
+(ear tubes).
+• Not suitable for use by people suspected of having a foreign object in the ear.
+Warnings
+• The Tyto Insights for Eardrum Bulging Detection can detect eardrum bulging in
+recordings acquired only by the compatible Tyto Otoscope.
+• Ears recordings must be collected only according to the guidance provided with the
+compatible Tyto Otoscope. Instructions for adequate data collection method are provided
+in the Tyto Otoscope instructions for use
+• The user of the Tyto Otoscope and Tyto Insights for Eardrum Bulging Detection must be:
+• An adult, aged 18 and older.
+• Comfortable using mobile apps.
+• The Tyto Otoscope must be used as intended according to its instructions for use. Pay
+special attention to recording the environment to meet the requirements defined in the
+instruction for use.
+• Always discuss the results of the Tyto Insights for Eardrum Bulging Detection with a
+medical professional.
+• Never rely on the result of the Tyto Insights for Eardrum Bulging Detection for diagnosis
+and treatment.
+• Regardless of the Tyto Insights for Eardrum Bulging Detection result, if the patient has
+signs and symptoms such as ear pain or fever, they should always approach their healthcare
+professional for advice.
+De Novo Summary (DEN250014) Page 2DEVICE DESCRIPTION
+Tyto Insights for Eardrum Bulging Detection is a web-based AI enabled software analytics device
+intended to automatically detect the bulging of the Eardrum in Otoscopic video recordings
+acquired by the compatible Tyto Otoscope in pediatrics and adults. The device is intended to
+process recordings only from the compatible Tyto Otoscope (Class I medical device, exempt from
+premarket notification procedures), manufactured by TytoCare Ltd. The acquisition of the video
+otoscopy data (recordings) is carried out by a professional user in a clinical environment or by a
+lay user in a non-clinical environment.
+Bulging is a medical characteristic of the tympanic membrane that is commonly used for the
+diagnosis of Acute Otitis Media, but is also observed in ear trauma, barotrauma, bullous myringitis,
+etc. Therefore, the device can provide an aid to diagnosis when used in conjunction with otoscopic
+ear examinations and when considering all patient symptoms and medical history.
+Device input obtained via Otoscope (Class I medical device exempt from premarket notification):
+The Tyto Insights for Eardrum Bulging Detection system is a processing service and has an
+interface with a Telehealth system which is not part of this product. The Tyto Insights for Eardrum
+Bulging Detection device is responsible for the data transfer, store and read-only display of device
+output (otoscopic video analysis results).
+De Novo Summary (DEN250014) Page 3Tyto Insights for Eardrum Bulging Detection Architecture:
+Tyto Insights for Eardrum Bulging Detection system is composed of the following sub-systems:
+I. Application Server (APS) communicates with Algorithm Server (ALS) and implements an
+application programming interface (API) for communication with the telehealth server.
+II. The ALS sub-system is composed of the artificial intelligence-enabled bulging detection
+algorithm, eardrum quality filter and logic wrapper and interface. The ALS receives a video
+file as input and returns as output a positive/negative/unable to analyze result.
+III. The Web Server provides a graphic indication whether an eardrum bulging is detected in
+the recording. It can be utilized both in the patient and clinician side. All the software
+subsystems (servers and storage) are hosted in the cloud and communicate via IP network
+When the input (.mp4 file) is received, the Tyto Insights for Eardrum Bulging Detection applies
+an artificial intelligence-enabled “Eardrum Quality Filter” that excludes video files with any of the
+following: no eardrum detected, duration less than 4 seconds, non-MP4 format, or corrupted files.
+The artificial intelligence-enabled Eardrum Quality Filter Algorithm outputs a classification of:
+Positive: Eardrum with sufficient quality to determine ear drum position was detected in video
+Negative: Eardrum with sufficient quality to determine ear drum position was not detected in video
+De Novo Summary (DEN250014) Page 4Next, an artificial intelligence-enabled Bulging Detection Algorithm outputs a classification of:
+Positive: Eardrum Bulging was detected in the video
+Negative: Eardrum Bulging was not detected in the video
+The user (lay user) view includes a warning reminding the user not to rely on the analysis results
+for diagnosis or treatment and to consult with a clinician.
+The clinician view includes a view the otoscopic video recording, with a mouse-over option that
+displays a short video segment (up to 5 seconds) in which the eardrum is visible. The clinician
+should consider the results of the Tyto Insights for Eardrum Bulging Detection in conjunction with
+the otoscopic recording and with all other relevant patient data.
+De Novo Summary (DEN250014) Page 5Training Dataset
+The training dataset consists of 3,102 otoscopic recordings:
+• Visible Tympanic Membrane Position - Bulging Positive: 606 recordings
+• Visible Tympanic Membrane Position - Bulging Negative: 1,510 recordings
+• Tympanic Membrane Position Not Sufficiently Captured: 986 recordings
+The training dataset was sourced from the TytoCare RWD (Real-World Data) Database, originating
+from individual patients who upload their otoscopic videos during routine telehealth use, as
+intended. The training dataset was categorized based on their ground truth annotations by multiple
+ENT (Ear Nose Throat) specialists (otolaryngologists):
+At Step 1, the recordings were systematically annotated by one ENT specialist into two categories:
+“Ear Abnormal Recording” and “Ear Normal Recording.” This initial classification addressed the
+challenge posed by the low prevalence of the targeted bulging otoscopy finding in real world data.
+At Step 2, all of the data marked “Abnormal” in Step 1 and a part of randomly selected “Normal”
+data was transferred to a set to be annotated by 3 ENTs into the following categories: “Bulging
+Positive,” “Bulging Negative,” and “Tympanic Membrane Position was not sufficiently Captured.”
+The final ground truth is determined by majority vote among the three truthers.
+At Step 3, randomly selected recordings from Step 2 were annotated on a frame level by an ENT.
+This dataset was used to train both Eardrum Bulging Detection and Quality Filter Algorithms.
+De Novo Summary (DEN250014) Page 6PEDIATRIC EXTRAPOLATION
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+LABELING
+The Tyto Insights for Eardrum Bulging Detection labeling is sufficient and meets labeling
+requirements for over-the-counter devices. It contains the indication for use, limitations,
+contraindication, device description, maintenance, warnings and precautions, instruction for use,
+and summary of clinical validation.
+HUMAN FACTORS TESTING
+The first human factor study included 15 U.S.-licensed healthcare providers who were tested
+remotely in 3 simulated scenarios (Automated Output Aligned with Clinical Findings, Device-
+Generated “Unable to Analyze” Output, and Discordant (False-Positive) Automated Output).
+Across all simulated-use scenarios, all participants successfully completed the critical task of
+independent clinical assessment. Participants consistently reviewed otoscopic video recordings,
+patient-reported symptoms, and relevant medical history, and appropriately interpreted the Tyto
+Insights output as supportive information only. No participant relied on the automated output as
+the sole basis for clinical assessment or determination of next steps.
+The second human factor study was conducted in-person on 30 lay users that did not have any
+formalized training (15 participants aged 18-50 years and approximately 15 participants aged 50
+years and older) to evaluate performance of all critical tasks of otoscopic video capture, upload,
+and transfer of recordings via the Tyto Care User App, comprehension of device limitations,
+interpretation of displayed result, and avoidance of inappropriate self-diagnosis through selection
+of next steps consistent with the intended use of the device. The lay users were able to use the Tyto
+Insights for Eardrum Bulging Detection device as part of the full operational workflow, without
+progression to hazardous situations.
+PREDETERMINED CHANGE CONTROL PLAN (PCCP)
+Modification Description
+Modification #1[M#1]: modifications Re-training of the machine learning model with
+related to quantitative measures of additional data to increase the sensitivity or
+performance specifications. specificity compared to the most recently validated
+and released device while the same type and range
+of input signal is used.
+De Novo Summary (DEN250014) Page 13Modification #2[M#2]: modifications Modification of data preprocessing methodologies
+related to quantitative measures – /data augmentation methodologies/ Architecture
+technical performance specifications. and hyper-parameters to improve the performance
+or the efficiency of the computational resources
+(running time, memory consumption and CPU
+utilization).
+Modification #3[M#3]: modifications Expanding the algorithm to include new sources of
+related to device inputs. the same signal type, new model/version of Tyto
+Otoscope that meet the minimum predefined
+otoscopic video acquisition and file requirements
+for compatibility, including MP4 format or
+comparable, resolution ≥640×480, field of view
+≥45° diagonal and frame rate ≥10 fps.
+* No third-party otoscopes are included within the
+scope of this PCCP.
+This PCCP was reviewed and authorized by FDA. A testing plan was developed to verify that the
+modified Tyto Insights for Eardrum Bulging Detection device continues to ensure safety and
+effectiveness. For instance, algorithm performance will be evaluated relative to the most recently
+validated and released version of the device and performance goals will be based on the lower
+bounds of the two-sided 95% confidence intervals (LCI).
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of the ear, nose, and
+throat image analyzer and the measures necessary to mitigate these risks
+Identified Risks to Health Mitigation Measures
+Incorrect results, whether Clinical performance testing
+• False positives, leading to unnecessary Labeling
+medical procedures or treatments; or
+• False negatives, leading to delayed
+patient treatment
+Overreliance or misinterpretation of results Labeling
+leading to incorrect patient management Human factors testing
+Software malfunction leading to inaccurate Clinical performance testing
+patient diagnosis and monitoring or failure to Software verification, validation, and hazard
+identify the correct condition analysis
+De Novo Summary (DEN250014) Page 14SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the ear, nose, and throat image analyzer
+is subject to the following special controls:
+(1) Clinical performance testing must demonstrate the accuracy and precision of the device
+output to demonstrate that the device performs as intended under anticipated conditions of
+use in the intended patient population for the stated indications for use.
+(2) Human factors/usability testing must demonstrate that the user can correctly use the
+device, based solely on reading the directions for use.
+(3) Software verification, validation, and hazard analysis must be performed.
+(4) Labeling must include:
+(i) Hardware compatibility information;
+(ii) A warning that the device is not intended to be used independently for diagnosis; and
+(iii) A summary of the clinical performance testing conducted with the device, including
+the study endpoints and statistical confidence intervals.
+BENEFIT-RISK DETERMINATION
+The probable benefits of this device are to automatically detect eardrum bulging in Otoscopic
+video recordings (which would otherwise be detected visually, relying on clinical experience and
+judgment to interpret the tympanic membrane position and characteristics). Bulging is a medical
+characteristic of the tympanic membrane that is commonly used for the diagnosis of Acute Otitis
+Media, but is also observed in ear trauma, barotrauma, bullous myringitis, etc. Therefore, the
+device can provide an aid to diagnosis when used in conjunction with otoscopic ear examinations
+and when considering all patient symptoms and medical history.
+There is a risk of inappropriate patient management in the setting of inaccurate output from the
+device, which can lead to either incorrect, unnecessary, or delayed patient treatment/medication.
+However, labeling can mitigate these risks such as by including a warning reminding the lay user
+not to rely on the analysis results for diagnosis and treatment and to consult with a clinician, and
+to inform the clinician to consider the results of the device software output in conjunction with the
+otoscopic recording and with all other relevant patient data (and therefore not to solely rely on the
+device for diagnosis).
+Based on the totality of the information provided, including the non-clinical testing/validation,
+clinical performance, and human factors data, there is sufficient evidence to support concluding
+that the probable benefit of the Tyto Insights for Eardrum Bulging Detection exceeds the probable
+risks for its use to automatically detect the bulging of the eardrum in otoscopic video recordings.
+PATIENT PERSPECTIVES
+This submission did not include specific information on patient perspectives for this device.
+BENEFIT/RISK CONCLUSION
+De Novo Summary (DEN250014) Page 15In conclusion, given the available information above, for the following indication statement:
+Tyto Insights for Eardrum Bulging Detection is an over-the-counter web-based AI-enabled
+software analytics device intended to automatically detect the bulging of the eardrum in Otoscopic
+video recordings acquired by the compatible electronic otoscope, as identified in the product
+labeling, in patients aged 6 months and older. The device is not intended for diagnosis. A healthcare
+provider’s advice is required to understand the meaning of the Tyto Insights for Eardrum Bulging
+Detection result. Healthcare providers should consider the device result in conjunction with
+otoscopic recording and other relevant patient data. The device is not intended to detect other
+abnormal otoscopic findings.
+The probable benefits outweigh the probable risks for the Tyto Insights for Eardrum Bulging
+Detection. The device provides benefits and the risks can be mitigated by the use of general
+controls and the identified special controls.
+CONCLUSION
+The De Novo request for the Tyto Insights for Eardrum Bulging Detection is granted and the
+device is classified as follows:
+Product Code: SHL
+Device Type: Ear, nose, and throat image analyzer
+Regulation Number: 21 CFR 874.4475
+Class: Class II
+De Novo Summary (DEN250014) Page 16

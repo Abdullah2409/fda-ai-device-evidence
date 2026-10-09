@@ -1,0 +1,436 @@
+AZmed SAS
+℅ Patricia Massako
+QARA Manager
+6 rue Leonard de Vinci June 2, 2022
+Laval, Pays de la Loire 53000
+FRANCE
+Re: K220164
+Trade/Device Name: Rayvolve
+Regulation Number: 21 CFR 892.2090
+Regulation Name: Radiological computer assisted detection and diagnosis software
+Regulatory Class: Class II
+Product Code: QBS
+Dated: April 12, 2022
+Received: April 29, 2022
+Dear Patricia Massako:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.govK220164 - Patricia Massako Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosurePage 1 on 15
+510(k) SUMMARY
+K220164
+510(k) SUMMARYPage 2 on 15
+510(k) SUMMARY
+Content
+1 Submitter 3
+2 Device identification 3
+3 Predicate device 3
+4 Device description 4
+5 Intended use/Indication for use 4
+6 Substantial equivalence Discussion 5
+7 Performance data 8
+7.1 Software verification and validation testing 8
+7.2 Biocompatibility testing 8
+7.3 Electrical safety and electromagnetic compatibility (EMC) 8
+7.4 Bench Testing 8
+7.4.1 Acceptance criteria / Endpoints 8
+7.4.2 Data & Patient information 9
+7.4.3 Collected images 10
+7.4.4 Results 10
+7.5 Animal testing 13
+7.6 Clinical data 13
+8 CONCLUSION 15Page 3 on 15
+510(k) SUMMARY
+K220164
+1 Submitter
+AZmed
+6 rue Léonard de Vinci
+53000, Laval, France
+Contact Person: Patricia Massako – Quality and regulatory Manager
+Phone: +336 25 84 69 88
+Prepared date: 22nd April 2022
+2 Device identification
+Name of the Common or Regulatory Product
+Classification Panel
+Device Usual Name section Code
+90
+21 CFR
+Rayvolve Rayvolve Class II QBS (Radiology)
+892.2090
+3 Predicate device
+The legally marketed device for which AZmed is claiming equivalence is identified as
+follows:
+Manufacturer Product Name 510K Number
+Imagen Technologies FractureDetect (FX) K193417Page 4 on 15
+510 k summary
+4 Device description
+The medical device is called Rayvolve. It is a standalone software that uses deep learning
+techniques to detect and localize fractures on osteoarticular X-rays. Rayvolve is intended to be
+used as an aided-diagnosis device and does not operate autonomously. It is intended to work in
+combination with Picture Archiving and communication system (PACS) servers. When
+remotely connected to a medical center PACS server, Rayvolve directly interacts with the
+DICOM files to output the prediction (potential presence or absence of fracture). Rayvolve does
+not intend to replace medical doctors. The instructions for use are strictly and systematically
+transmitted to each user and used to train them on Rayvolve’s use.
+The dataset used to develop the Rayvolve deep learning algorithm is composed of labeled
+osteoarticular radiographs. The osteoarticular radiographs have been collected from multiple
+centers (different types of medical imaging centers: public hospitals, private clinics, generalist
+medical imaging centers, and musculoskeletal medical imaging centers) from different
+countries (France, Israel, Germany, Switzerland, Belgium, United-Kingdom, Argentina, Brazil,
+and Nigeria) to have the largest diversity and variety. This diversity allows the Rayvolve
+algorithm to have a high generalization ability.
+5 Intended use/Indication for use
+Rayvolve is a computer-assisted detection and diagnosis (CAD) software device to assist
+radiologists and emergency physicians in detecting fractures during the review of radiographs
+of the musculoskeletal system. Rayvolve is indicated for adults only (≥ 22 years old). Rayvolve
+is indicated for radiographs of the following industry-standard radiographic views and study
+types.:
+Study type (Anatomic Radiographic Views
+Area of interest) supported*
+Ankle Frontal, Lateral, Oblique
+Clavicle Frontal
+Elbow Frontal, Lateral
+Forearm Frontal, Lateral
+Hip Frontal, Frog Leg Lateral
+Humerus Frontal, Lateral
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 5 on 15
+510 k summary
+Knee Frontal, Lateral
+Pelvis Frontal
+Shoulder Frontal, Lateral, Axillary
+Tibia/fibula Frontal, Lateral
+Wrist Frontal, Lateral, Oblique
+Hand Frontal, Lateral
+Foot Frontal, Lateral
+Table 1 Rayvolve indication for use - Anatomical regions
+*For this table, “Frontal” is considered inclusive of both posteroanterior (PA) and
+anteroposterior (AP) views.
++ Definitions of an anatomic area of interest and radiographic views are consistent with the
+American College of Radiology (ACR) standards and guidelines.
+6 Substantial equivalence Discussion
+The comparison chart below provides evidence to facilitate the substantial equivalence
+determination between Rayvolve to the predicate device (K193417) concerning the intended
+use, technological characteristics, and principle of operation.
+FractureDetect(FX) Rayvolve Subject Comparison
+device
+Number K193417 TBD /
+Applicant Imagen Technologies AZmed /
+Device Name FractureDetect (FX) Rayvolve /
+Classification 892.2090 892.2090 Same
+Regulation
+Product Code QBS QBS Same
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 6 on 15
+510 k summary
+Intended use FractureDetect (FX) Rayvolve is a Same
+/Indication for is a computer- computer-assisted
+use assisted detection and detection and
+diagnosis (CAD) diagnosis (CAD)
+software device to software device to
+assist clinicians in assist radiologists
+detecting fractures and emergency
+during the review of physicians in
+radiographs of the detecting fractures
+musculoskeletal during the review of
+system. FX is radiographs of the
+indicated for adults musculoskeletal
+only. system. Rayvolve is
+indicated for adults
+only (≥ 22 years old).
+Image X-ray X-ray Same
+Modality
+Study Type Ankle Ankle Rayvolve covers 2 more
+(Anatomic Clavicle Clavicle anatomical regions than FX;
+Areas of Elbow Elbow but the intended use is
+Interest) Femur Forearm similar since both FX and
+Forearm Hip Rayvolve are intended to
+Hip Humerus identify fractures in
+Humerus Knee radiographs, and all those
+Knee Pelvis anatomical regions are
+Pelvis Shoulder included in the definition of
+Shoulder Tibia / Fibula anatomic area of interest and
+Tibia / Fibula Wrist radiographic views
+Wrist Hand consistently with the
+Foot American College of
+Radiology (ACR) standard
+and guidelines.
+Clinical Fracture Fracture Same
+Finding
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 7 on 15
+510 k summary
+Patient Adults ≥ 22 years of Adults ≥ 22 years of Same
+Population age age
+Intended User Clinicians Clinicians (MSK and Same
+non-MSK radiologist
+and emergency
+physicians)
+Machine Supervised Deep Supervised Deep Same
+Learning Learning Learning
+Methodology
+Platform Secure local Secure local Same
+processing and processing and
+delivery of DICOM delivery of DICOM
+images images
+Image Source DICOM node (e.g., DICOM node (e.g., Same as FX
+imaging device, imaging device,
+intermediate DICOM intermediate DICOM
+node, PACS system, node, PACS system,
+etc.) etc.)
+Image PACS system, image PACS system, image Same, with a copy of the
+Viewing annotations toggled annotations made on original image
+on or off a copy of the original
+image
+Privacy HIPAA compliant HIPAA compliant Same
+AZmed claims the substantial equivalence of Rayvolve with the predicate FX based on the
+functional principle of the software algorithms, the same technological characteristics, and the
+intended purpose of the software algorithm.
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 8 on 15
+510 k summary
+7 Performance data
+7.1 Software verification and validation testing
+The device’s software development, verification, and validation have been carried out
+following FDA guidelines. The software was tested against the established software design
+specification for each test plan to assure the device’s performance as intended. The device
+hazard analysis was completed and risk control was implemented to mitigate identified hazards.
+The testing results support that all the software specifications have met the acceptance criteria
+of each module and interaction of processes. Rayvolve device passes all the testing and supports
+the claims of substantial equivalence with the predicate.
+Validation activities included a usability study of Rayvolve under normal conditions for use.
+The study demonstrated:
+- Non-invasive usability because users’ habits are unchanged
+- Comprehension of the instructions for use provided with the device
+7.2 Biocompatibility testing
+There are no direct or indirect patient-contacting components of Rayvolve. Therefore, patient
+contact information is not needed for this device.
+7.3 Electrical safety and electromagnetic compatibility (EMC)
+Rayvolve is a software-only device, therefore; electrical safety and EMC testing are not
+applicable.
+7.4 Bench Testing
+AZmed conducted a standalone performance assessment on 2626 radiographs for all the study
+types (anatomic areas of interest) and views in the indication for Use.
+7.4.1 Acceptance criteria / Endpoints
+Regarding the performance standalone study:
+- The primary endpoint of the standalone study is to characterize the detection accuracy
+of Rayvolve for detecting adult patient fractures.
+- The secondary endpoint is to demonstrate Rayvolve’s ability to perform across different
+subgroup variables. More precisely, the goal is to compute Rayvolve AUC, sensitivity,
+and specificity for all the potential and relevant observable subgroups such as gender,
+age, anatomic region, machine acquisition, machine view, as well as Rayvolve
+performances depending on weight-bearing and complex & uncommon cases.
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 9 on 15
+510 k summary
+Regarding the MRMC study:
+- The primary objective of the clinical reader study is to determine whether the diagnostic
+accuracy of readers aided by Rayvolve is superior to reader accuracy when unaided by
+Rayvolve, as determined by the AUC of the ROC curve: H0: T-test for p (no statistical
+difference) > 0.05; H1: T-Test for p (statistical difference) < 0.05
+- The secondary objective is to report the sensitivity and the specificity of the Rayvolve-
+aided and unaided reads.
+7.4.2 Data & Patient information
+For both standalone and MRMC studies, the subgroups have been determined based on the data
+set composed with the following inclusion criteria:
+- De-identified radiographs
+- Frontal, LAT, Oblique and Axillary views
+- Adult patient, minimum of 22 years of age
+Regarding the performance standalone study:
+Here are the different subgroups/confounders evaluated:
+- Gender
+- Age
+- Anatomic region
+- Machine acquisition
+- Machine view
+- Weight-bearing radiographs
+- Complex and uncommon radiographs
+Here is other information about the patients:
+- The 2626 radiographs (samples) of the performance study were taken from 851 patients
+- The number of samples is the number of radiographs, thus the study contains 2626
+samples.
+- Gender split: 440 female patients, 411 male patients.
+- Age split: 468 patients between 22 and 60 (mean: 38 y.o., std: 12 y.o.), 383 patients
+above 60 (mean: 81 y.o., std: 18 y.o.)
+- Ethnicity: no information was available regarding ethnicity.
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 10 on 15
+510 k summary
+Regarding the MRMC study:
+Here are the different subgroups/confounders evaluated:
+- Gender
+- Age
+- Machine acquisition
+Here is other information about the patients:
+- The 186 cases (samples) were taken from 186 patients - Regarding the MRMC study, a
+case is equivalent to a patient. Thus, the study contains 186 samples.
+- Gender split: 96 male patients, 90 female patients.
+- Age split: 79 patients between 22 and 60, 107 patients above 60.
+- Ethnicity: no information was available regarding ethnicity.
+7.4.3 Collected images
+To ensure the independence between data for both standalone and MRMC studies, and
+Rayvolve training data, no radiograph in the validation (bench or clinical testing) study is part
+of Rayvolve’s training set. Rayvolve training set has been established before the collection of
+the standalone and MRMC studies data.
+Data were acquired from 4 sites in US.
+7.4.4 Results
+AZmed conducted a standalone performance assessment on 2626 radiographs for all the study
+types (anatomic areas of interest) and views in the Indications for Use. The results of standalone
+testing demonstrated that Rayvolve detects fractures of the musculoskeletal system radiographs
+with high sensitivity (0.98763, 95% Wilson’s Confidence Interval (CI): 0.97559; 0.99421),
+high specificity (0.88558; 95% Wilson’s CI: 0.87119; 0.89882) and high Area Under The Curve
+(AUC) of the Receiver Operating Characteristic (ROC) (0.98607; 95% Bootstrap CI: 0.98104;
+0.99058). Additionally, the results demonstrated that Rayvolve performs with high accuracy
+across study types (anatomic areas of interest, views, patient age and sex and machine) and across
+potential confounders such as different x-ray manufacturers.
+The results of the standalone testing demonstrated that Rayvolve detects fractures of the
+musculoskeletal system radiographs with high AUC across the following subgroups:
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 11 on 15
+510 k summary
+AUC (Bootstrapped CI)
+All (2626) 0.98607
+(0.98104; 0.99058)
+Anatomic Area (Nb of images) AUC (Bootstrapped CI)
+Ankle (232) 0.99137 (0.98374; 0.99727)
+Clavicle (171) 0.97806 (0.94626; 0.99761)
+Elbow (192) 0.9964 (0.99059; 1.0)
+Forearm (157) 0.9953 (0.98909; 0.99937)
+Humerus (181) 0.9955 (0.98960; 0.99943)
+Hip (198) 0.95821 (0.93239; 0.98014)
+Knee (239) 0.97742 (0.95084; 0.99592)
+Pelvis (149) 0.97676 (0.95241; 0.99638)
+Shoulder (150) 0.97814 (0.94147; 0.99958)
+Tibia/Fibula (232) 0.98285 (0.95925; 0.9978)
+Wrist (225) 0.99567 (0.99126; 0.99897)
+Hand (252) 0.99552 (0.99074; 0.99898)
+Foot (248) 0.99162 (0.98238; 0.99823)
+Gender (Nb of images) AUC (Bootstrapped CI)
+Male (1306) 0.98822 (0.98186; 0.99409)
+Female (1320) 0.98395 (0.97589; 0.99101)
+View (Nb of images) AUC (Bootstrapped CI)
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 12 on 15
+510 k summary
+Frontal (1279) 0.97872 (0.96845; 0.98805)
+Lateral (1033) 0.99218 (0.98903; 0.99477)
+Oblique (268) 0.9958 (0.98979; 0.99977)
+Axillary (46) 0.99675 (0.98734; 1.0)
+Age (Nb of images) AUC (Bootstrapped CI)
+22-60 (1403) 0.99049 (0.98359; 0.99598)
+> 60 (1223) 0.98102 (0.97487; 0.98941)
+Machine (Nb of images) AUC (Bootstrapped CI)
+GEHC Discovery XR 656 (1234) 0.98482 (0.97920; 0.99264)
+Philips DigitalDiagnost (840) 0.98635 (0.97657; 0.99345)
+Carestream Health DRX-1 (552) 0.98842 (0.97754; 0.99689)
+Abbreviations: AUC=Area under the Curve; CI=confidence interval.
+Four additional studies (comprising a total of 3574 cases) were used to demonstrate the
+generalizability of Rayvolve across multiple imaging devices. It was demonstrated that
+Rayvolve had reached similar and stable performance across different medical imaging
+acquisition device providers (Siemens Healthineers, Philips Healthcare, Carestream, GE
+Healthcare, Fujifilm, MinXray, Hologic, Shimadzu, Agfa, Duet, Primax, Kodak, Samsung and
+Thales).
+Additionally, the performance of Rayvolve was validated for potential confounders including
+weight-bearing and non-weight bearing bone fractures, complex and uncommon fractures
+different X-ray Machine providers.
+Particular groups (Nb of images) AUC (Bootstrapped CI)
+Complex & uncommon (547) 0.96102 (0.95223; 0.99615)
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 13 on 15
+510 k summary
+Non complex & uncommon (2079) 0.99607 (0.98862; 0.99701)
+weight-bearing (1298) 0.98059 (0.96162; 0.99458)
+Non-weight-bearing (1328) 0.99143 (0.97916; 0.99912)
+7.5 Animal testing
+Not applicable. Animal studies are not necessary to establish the substantial equivalence of
+this device.
+7.6 Clinical data
+AZmed conducted a fully-crossed multiple readers, multiple case (MRMC) retrospective reader
+study to determine the impact of Rayvolve on reader performance in diagnosing fractures.
+The primary objective of the study was to determine whether the diagnostic accuracy of readers
+aided by Rayvolve (“Rayvolve-aided”) is superior to the diagnostic accuracy of readers unaided
+by Rayvolve (“Rayvolve-unaided”) as determined by the AUC of the Receiver Operating
+Characteristic (ROC) Curve. The secondary objective is to report the sensitivity and the
+specificity of the Rayvolve-aided and unaided reads.
+24 clinical readers each evaluated 186 cases in Rayvolve’s indication for use under both
+Rayvolve-aided and Rayvolve-unaided conditions. Each case had been previously evaluated by
+a panel of three US board-certified MSK radiologists to provide ground truth binary labeling
+indicating the presence or absence of fracture and the localization information for fractures. The
+MRMC study consisted of two independent reading sessions separated by a washout period of
+at least one month to avoid memory bias.
+For each case, each reader was required to provide a binary determination of the presence or
+absence of a fracture and also to draw a bounding box around each fracture on the image to
+determine the localization of each fracture.
+In addition to this binary decision of the readers regarding the presence or absence of fracture,
+each reader should also provide a report score with an ordinal value.
+This report score has been collected for every case and for every reader with and without aid of
+Rayvolve device. The report score has been used for ROC data.
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 14 on 15
+510 k summary
+The results of the study found that the diagnostic accuracy of readers in the intended use
+population is superior when aided by Rayvolve than when unaided by Rayvolve, as measured
+at the task of fracture detection using the AUC of the ROC curve as calculated by the DBM
+modeling approach.
+Clinical Reader Study Results
+Rayvolve-Aided vs Rayvolve-Unaided ROC Curves
+In particular, the study results demonstrated:
+- Reader AUC was significantly improved from 0.84602 to 0.89327, a difference of
+0.04725 (95% CI: 0.03376; 0.061542), across the 186 cases within Rayvolve’s
+Indications for Use, spanning 13 study types (anatomic areas of interest) (p=0.0041).
+- Reader sensitivity was significantly improved from 0.86561 (95% Wilson’s CI:
+0.84859, 0.88099) to 0.9554 (95% Wilson’s CI: 0.94453, 0.96422)
+- Reader specificity was improved from 0.82645 (95% Wilson’s CI: 0.81187, 0.84012)
+to 0.83116 (95% Wilson’s CI: 0.81673, 0.84467)
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOWPage 15 on 15
+510 k summary
+8 CONCLUSION
+Both the proposed device (Rayvolve) and the predicate device (FX) are computer-assisted
+detection and diagnostic devices that accept as input radiographs in DICOM format and use
+machine learning techniques to identify and highlight fractures. The overall design of the
+software and the basic functionality that it provides to the end-user are the same. The differences
+in technological characteristics do not raise different questions of safety and effectiveness. The
+results of standalone and clinical studies demonstrate that Rayvolve performs according to the
+specifications and meets user needs and intended use and that Rayvolve can be found to be
+substantially equivalent to FX.
+AZmed – OPTIMIZING PHYSICIANS’ WORKFLOW

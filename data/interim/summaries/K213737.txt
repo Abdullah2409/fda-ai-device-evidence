@@ -1,0 +1,260 @@
+Quantib B.V.
+℅ Floor van Leeuwen
+Quality & Regulatory Director
+Westblaak 106
+Rotterdam, Zuid-Holland 3012KM
+NETHERLANDS
+January 14, 2022
+Re: K213737
+Trade/Device Name: Quantib ND
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: November 11, 2021
+Received: December 17, 2021
+Dear Floor van Leeuwen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK213737 - Floor van Leeuwen Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureQuantib ND 2.0
+Special 510(k)
+Summary
+1 SUBMITTER
+Quantib B.V.
+Westblaak 106
+3012 KM Rotterdam
+Phone: (+31) 108 41 17 49
+Contact Person: Floor van Leeuwen
+Date Prepared: November 11, 2021
+2 DEVICE
+Name of Device: Quantib ND 2.0
+Common or Usual Name: Quantib ND 2.0
+Classification Name: System, image processing, radiology (892.2050)
+Regulatory Class: II
+Product Code: Medical image management and processing system (former Picture archiving
+and communication system)
+3 PREDICATE DEVICE
+Device: Quantib ND 1.5
+Manufacturer: Quantib B.V.
+510(k) Reg. No: K182564
+This predicate has not been subject to a design-related recall.
+Classification Name: System, image processing, radiology (892.2050)
+Regulatory Class: II
+Product Code: Picture archiving and communication system (LLZ)
+4 DEVICE DESCRIPTION
+Quantib ND is an extension for Quantib AI Node software platform. It is intended for automatic
+labeling, visualization, and volumetric quantification of identifiable brain structures from
+magnetic resonance images (a 3D T1-weighted MR image for brain structure segmentation, with
+an additional T2-weighted FLAIR MR image for white matter hyperintensities (WMH)
+05-01-1segmentation). The segmentation system relies on a number of atlases each consisting of a 3D
+T1-weighted MR image and a label map dividing the MR image into different tissue segments.
+Quantib ND provides quantitative information on both the absolute and relative volume of the
+segmented regions. The automatic WMH segmentation is to be reviewed and if necessary,
+edited by the user before validation of the segmentation, after which volumetric information is
+accessible. Quantib ND consists of 4 workflows: for both segmentation and quantification of
+brain structures as well as of white matter hyperintensities is there a single time-point analysis
+workflow, and a longitudinal workflow, which provides longitudinal analysis of images of two or
+more time-points. Quantib ND is intended to provide the trained medical professional with
+complementary information for the evaluation and assessment of MR brain images and to aid the
+radiology specialist in quantitative reporting.
+5 INDICATIONS FOR USE
+Indications for use Quantib ND 2.0
+Quantib ND is a non-invasive medical imaging processing application that is intended for
+automatic labeling, visualization, and volumetric quantification of segmentable brain structures
+from a set of magnetic resonance (MR) images. The Quantib ND output consists of
+segmentations, visualizations and volumetric measurements of brain structures and white matter
+hyperintensities. Volumetric measurements may be compared to reference centile data. It is
+intended to provide the trained medical professional with complementary information for the
+evaluation and assessment of MR brain images and to aid the trained medical professional in
+quantitative reporting.
+Indications for use predicate device (Quantib ND 1.5)
+Quantib ND is a non-invasive medical imaging processing application that is intended for
+automatic labeling, visualization, and volumetric quantification of segmentable brain structures
+from a set of magnetic resonance (MR) images. The Quantib ND output consists of
+segmentations, visualizations and volumetric measurements of brain structures and white matter
+hyperintensities. Volumetric measurements may be compared to reference centile data. It is
+intended to provide the trained medical professional with complementary information for the
+evaluation and assessment of MR brain images and to aid the trained medical professional in
+quantitative reporting. Quantib ND is a software application on top of Myrian®.
+Indications for use comparison
+The intended use of the device is equivalent to the intended use of the previously cleared
+predicate device [K182564]
+6 DEVICE MODIFICATIONS
+Quantib ND 2.0 is the first update of Quantib ND 1.5 that includes a substantial change. The
+substantial changes are the following:
+1. Quantib ND 2.0 is an extension for a different platform
+Whereas Quantib ND 1.5 was an add-on for the Windows-based 3rd party platform Myrian®
+(Intrasense, FR), Quantib ND 2.0 is developed as extension for Quantib’s own platform Quantib
+AI Node (Quantib BV, NL). This platform is Linux-based. Quantib ND 2.0 is designed as a
+05-01-2server-client system, where the server is accessible via a web browser from any configured
+client system. Both platforms are FDA-cleared.
+2. Simplification of user interaction and results viewing in workflows
+With the exception of the single time-point WMH analysis- which requires review, editing and
+validation by the user- results of the workflows are now directly added to the report.
+• For the brain structures single time point and longitudinal step, the user could previously
+only view the segmentations in the user interface, with no possibility to edit. Now, results
+are directly added to the report in the form of volumetric measures and overview images
+of the segmentations. Complete segmentations are exported as separate files for
+detailed analysis.
+• For the longitudinal WMH analysis workflow the functionality to relabel was never used
+and has been removed. Longitudinal labeling results are now directly sent to the report.
+Numerical values are now only present in the report and no longer in a summary table in the
+user interface. Each workflow now generates its own report, which removes dependencies
+between workflows and thereby produces certain reports without waiting for user input.
+Report and segmentations are directly and automatically exported to a configured DICOM node
+(for example PACS system). They can be viewed from the PACS system using any DICOM
+viewer the user prefers.
+7 COMPARISON OF TECHNOLOGICAL CHARACTERISTICS
+The following technological characteristics are the same for Quantib ND 2.0 and its predicate
+device Quantib ND 1.5:
+• Indications for use
+• Target users, anatomical site, and use environment
+• Algorithm design
+• Reported measures
+• Design control activities and recognized standards
+• Required input
+The following technological characteristics are different:
+• Software Design: Architecture of algorithm parts is equivalent for new and predicate
+device and is using the same C++ library. Architecture of integration is determined by
+architecture of platform, in the case of Quantib ND 2.0 the Quantib AI Node. Design
+differences include different programming language for integration architecture and use
+of additional libraries and packages.
+• Human factors: user interaction has been revised due to the change of platform, which
+includes the viewer/editor functionality and sets requirements on how workflows are
+implemented. Where possible, user interaction steps have been simplified or been left
+out.
+• Algorithm performance: Performance numbers show slight changes, attributable to the
+underlying software packages. No significant performance differences are expected
+and observed since no changes have been made to algorithms and their
+implementation.
+05-01-3• Compatibility with the environment and other devices: Quantib ND 2.0 is an extension for
+Quantib AI Node running on a Linux OS, while Quantib ND 1.5 is an add-on for Myrian,
+using Windows as operating system.
+8 PERFORMANCE DATA
+8.1 QUALITY AND SAFETY
+Quantib ND 2.0 is designed in compliance with the following process standards:
+• ISO 14971 – Medical devices - Application of risk management to medical devices
+• IEC 62304 – Medical device software – Software life cycle processes
+• IEC 62366 – Medical devices - Application of usability engineering to medical devices
+The following quality assurance measures were applied to Quantib ND 2.0 development:
+• Risk and hazard analysis
+• Design and code reviews
+• Unit level testing
+• Integration and regression testing
+• System and UI testing
+• Performance testing
+• Usability engineering
+• Cybersecurity and vulnerability analysis
+8.2 ALGORITHM PERFORMANCE
+8.2.1 Brain Structures
+To validate the quality of Quantib ND volume measurements and segmentations, these were
+compared to manual segmentations of the same scan and their derived volumes. This analysis
+was performed for Brain Tissue, CSF, ICV, Hippocampus, Frontal Lobe, Occipital Lobe, Parietal
+Lobe, Temporal Lobe, and Cerebellum.
+For brain tissue, CSF, and ICV, the test set included 33 T1w MR images (Dataset A). The set was
+carefully selected to include data from multiple vendors and a series of representative scan
+settings. For each scan we selected six (6) slices for comparison. For the hippocampus the test
+set included 89 T1w images (Dataset B) and for the lobes the test set included 13 T1w MR
+images (Dataset C). For test sets B and C all slices were segmented manually for the
+comparison. The results are summarized below.
+Absolute difference of
+Dataset Dice index
+the relative volumes [pp]
+Brain A 0.96 ± 0.01 1.63 ± 1.06
+CSF A 0.78 ± 0.05 1.67 ± 1.06
+ICV A 0.98 ± 0.00 -
+Hippocampus total B 0.84 ± 0.03 0.03 ± 0.02
+Hippocampus right 0.84 ± 0.03 0.01 ± 0.01
+Hippocampus left 0.84 ± 0.04 0.01 ± 0.01
+05-01-4Results of comparison between manual and automatic brain structure segmentation. Reported values are
+averages ± std. dev., computed over 6 segmented slices of 33 scans (Dataset A). For Dataset B all slices
+were segmented. The Dice index provides a measure for overlap of manual and automatic segmentations
+(1 = perfect overlap). The absolute differences of the relative volumes are averages ± std. dev. in
+percentage points.
+Absolute difference of
+Dataset Dice index
+the relative volumes [pp]
+Frontal lobe total C 0.95 ± 0.01 1.21 ± 1.22
+Frontal lobe right 0.94 ± 0.02 0.76 ± 0.58
+Frontal lobe left 0.94 ± 0.02 0.60 ± 0.67
+Occipital lobe total C 0.89 ± 0.03 0.75 ± 0.83
+Occipital lobe right 0.88 ± 0.04 0.54 ± 0.48
+Occipital lobe left 0.88 ± 0.03 0.44 ± 0.36
+Parietal lobe total C 0.89 ± 0.03 1.21 ± 1.31
+Parietal lobe right 0.88 ± 0.04 0.73 ± 0.76
+Parietal lobe left 0.88 ± 0.03 0.64 ± 0.67
+Temporal lobe total C 0.91 ± 0.02 0.87 ± 0.74
+Temporal lobe right 0.91 ± 0.02 0.46 ± 0.33
+Temporal lobe left 0.90 ± 0.03 0.47 ± 0.46
+Cerebellum total C 0.99 ± 0.00 0.19 ± 0.13
+Cerebellum right 0.97 ± 0.01 0.12 ± 0.07
+Cerebellum left 0.97 ± 0.01 0.17 ± 0.11
+Results of comparison between manual and automatic brain structure segmentation of the lobes. Reported
+values are averages ± std. dev., computed over 13 scans of which all slices were segmented (Dataset C).
+The Dice index provides a measure for overlap of manual and automatic segmentations (1 = perfect
+overlap). The absolute differences of the relative volumes are averages ± std. dev. in percentage points.
+8.2.2 White Matter Hyperintensities
+The test set for the White Matter Hyperintensities analysis included 45 3D T1w images, of which
+7 contrast-enhanced, all with corresponding T2w FLAIR images. This set also represented
+various scan settings. WMHs were manually segmented on the T2w FLAIR images and
+compared to Quantib ND automatic segmentation output. The average Dice overlap between
+the manual segmentations and Quantib ND segmentations was 0.61 ± 0.13 (over all cases). The
+absolute difference of the relative volumes (for WMHs) was 0.2 ± 0.2 percentage points (over 38
+cases without contrast-enhancement).
+9 CONCLUSIONS
+By virtue of its intended use and physical and technological characteristics, Quantib ND 2.0 is
+substantially equivalent to a device that has been approved for marketing in the United States.
+The performance data shows that Quantib ND 2.0 is as safe and effective as the predicate
+device.
+05-01-5

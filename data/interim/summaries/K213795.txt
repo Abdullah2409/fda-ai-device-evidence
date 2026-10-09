@@ -1,0 +1,275 @@
+April 21, 2022
+VideaHealth, Inc
+℅ Donna-Bea Tillman
+Senior Consultant
+Biologics Consulting Group
+1555 King St, Suite 300
+ALEXANDRIA VA 22314
+Re: K213795
+Trade/Device Name: Videa Caries Assist
+Regulation Number: 21 CFR 892.2070
+Regulation Name: Medical Image Analyzer
+Regulatory Class: Class II
+Product Code: MYN
+Dated: March 23, 2022
+Received: March 24, 2022
+Dear Donna-Bea Tillman:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.32
+Silver Spring, MD 20993
+www.fda.govK213795 - Donna-Bea Tillman Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Laurel Burk, Ph.D.
+Assistant Director
+Diagnostic X-ray Systems Team
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary – K213795 Page 1 of 7
+In accordance with 21 CFR 807.87(h) and 21 CFR 807.92 the 510(k) Summary for the Videa
+Caries Assist device is provided below.
+1. SUBMITTER
+Applicant: VideaHealth, Inc.
+19 Kingston St, Floor 3
+Boston, MA, 02114
++1 617-340-9940
+florian.hillen@videahealth.io
+Contact: Florian Hillen
+CEO and Founder
+VideaHealth, Inc.
+617-528-8643
+florian.hillen@videahealth.io
+Submission Correspondent: Donna-Bea Tillman, Ph.D.
+Senior Consultant
+Biologics Consulting
+1555 King St, Suite 300
+Alexandria, VA 22314
+410-531-6542
+dtillman@biologicsconsulting.com
+Date Prepared: March 23, 2022
+2. DEVICE
+Device Trade Name: Videa Caries Assist
+Device Common Name: Medical Image Analyzer
+Classification Name 21 CFR 892.2070 Analyzer, Medical Image
+Regulatory Class: 2
+Product Code: MYN
+3. PREDICATE DEVICE
+Predicate Device: P980025 Logicon Caries Detection Software (Carestream Dental LLC)510(k) Summary – K213795 Page 2 of 7
+4. DEVICE DESCRIPTION
+Videa Caries Assist (VCA) software is a cloud-based AI-powered medical device for the
+automatic detection of carious lesions in dental radiographs. The device itself is available as a
+service via an API (Application Programming Interface) behind a firewalled network. Provided
+proper authentication and a bitewing image, the device returns a set of bounding boxes
+representing the carious lesions detected.
+VCA is accessed by the dental practitioner through their Dental Viewer. From within the Dental
+Viewer the user can upload a radiograph to VCA and then review the results. The device outputs
+a binary indication to identify the presence or absence of findings. If findings are present the
+device outputs the coordinates of the bounding boxes for each finding. If no findings are present
+the device outputs a clear indication that there are no carious lesions identified.
+5. INTENDED USE/INDICATIONS FOR USE
+Videa Caries Assist is a computer-assisted detection (CADe) device that analyzes intraoral
+radiographs to identify and localize carious lesions. Videa Caries Assist is indicated for use by
+board licensed dentists for the concurrent review of bitewing (BW) radiographs acquired from
+adult patients aged 22 years or older.
+6. SUBSTANTIAL EQUIVALENCE
+Comparison of Indications
+Logicon Caries Detector and Videa Caries Assist both analyze dental radiographs and identify
+regions of interest. Logicon Caries Detector aids in diagnosis of caries that have penetrated in
+the dentin for each tooth, where Videa Caries Assist detects carious lesions for all types of caries
+lesions. However, both devices are only intended as an aid to the physician and not intended to
+replace the diagnosis by the physician. The differences in Indications for Use do not constitute a
+new intended use, as both devices are intended to assist dental professional by identifying and
+marking Regions of Interest (ROI) in dental radiographs.
+Technological Comparisons
+Table 1 compares the key technological feature of the subject devices to the predicate device
+(Logicon Caries Detector, P980025).
+Table 1: Technological Comparison
+Proposed Device Predicate Device
+510(k) Number TBD P980025
+Applicant VideaHealth, Inc. Carestream Dental LLC
+Device Name Videa Caries Assist Logicon Caries Detector
+Classification Regulation 892.2070 892.2070510(k) Summary – K213795 Page 3 of 7
+Proposed Device Predicate Device
+Product Code MYN MYN
+Indications for Use Videa Caries Assist is a Logicon Caries Detector is a
+computer-assisted detection software device that is an aid in the
+(CADe) device that analyzes diagnosis of caries that have
+intraoral radiographs to penetrated into the dentin on un-
+identify and localize carious restored proximal surfaces of
+lesions. Videa Caries Assist is secondary dentition through the
+indicated for use by board statistical analysis of digital intra-
+licensed dentists for the oral radiographic imagery. The
+concurrent review of bitewing device provides additional
+(BW) radiographs acquired information for the clinician to use in
+from adult patients aged 22 his/her diagnosis of a tooth surface
+years or older. suspected of being carious. It is
+designed to work in conjunction with
+an existing CareStream Dental RVG
+Digital X-Ray Radiographic System
+with Dental Imaging Software (DIS)
+for Windows XP or higher.
+Image Modality X-Ray X-Ray
+Study Type Bitewing Images Digital intra-oral radiographic
+imagery
+Clinical Finding Active and Secondary Caries Caries penetrating into dentin
+at all penetration depths
+Tooth Surface Proximal, Buccal/Lingual, Proximal
+Occlusal, Root, Cervical
+Clinical Output Message indicating if and Message indicating if a carious
+how many carious lesion were lesion was detected.
+detected An outline of the potential lesion site
+Set of togglable bounding is shown
+boxes around suspected
+lesions
+Patient Population Adults ≥ 22 years of age Adults ≥ 22 years of age
+Intended User US licensed dentists Dentists
+Development Technology Supervised Deep Learning Computer Vision
+Image Source X-Ray Sensor X-Ray Sensor
+Image Viewing Image Viewer CareStream Dental RVG Digital X-
+Ray Radiographic System with
+Dental Imaging Software (DIS)510(k) Summary – K213795 Page 4 of 7
+7. PERFORMANCE DATA
+Biocompatibility, Sterilization, and Reprocessing
+Not applicable. The subject device is a software-only device. There are no direct or indirect
+patient-contacting components of the subject device. There are no sterile or reprocessed
+components.
+Electrical Safety and Electromagnetic Compatibility (EMC)
+Not applicable. The subject device is a software-only device. It contains no electric
+components, generates no electrical emissions, and uses no electrical energy of any type.
+Software Verification and Validation Testing
+Software verification and validation testing were conducted and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this
+device was considered as a moderate level of concern.
+Bench Testing (Standalone Study)
+A Standalone Performance Assessment was conducted to measure and report the performance of
+Videa Caries Assist by itself, in the absence of any interaction with a dentist. The dataset was
+1034 adult radiographs collected from 10 US sites that were ground-truthed by three US board-
+certified dentists. The patients in the dataset were 53% female and 47% male, with 55% having
+age 22-40, 34% age 41-60, 9% age 61-75, and 2% over age 76. The number of lesions per image
+was: 0 lesions (39%), 1 lesions (22%), 2-3 lesions (26%), and 4+ lesions (13%). Image sensors
+included in the study were: DEXIS Platinum, DEXIS Titanium, Gendex GXS-700, Kodak RVG,
+6100, RVG 5200, RVG 6200, and Schick 33.
+The standalone overall average Alternative Free-response Receiver Operating Characteristic
+Figure of Merit (AFROC FOM) was found to be 0.740 (95% confidence interval: 0.721, 0.760)
+with a corresponding average image-based Sensitivity of 70.8% and PPV of 59.5% (Table 2).
+Table 2: Standalone: AFROC FOM, Image-based Se, PPV. Lesion-based estimates in italics.
+Mean 95% Confidence Interval
+Overall average FOM 0.740 (0.721, 0.760)
+Overall average Se - image-based (%) 70.8 (68.0, 73.7)
+Overall average PPV - image-based (%) 59.5 (56.5, 62.5)
+Overall average Se (%) - lesion-based (pooled) 73.6 (71.1, 76.0)
+Overall average PPV (%) - lesion-based 64.9 (62.3, 67.6)
+(pooled)510(k) Summary – K213795 Page 5 of 7
+We observed a False Positive Fraction FPF of 0.335 and a Non-Lesion Fraction of 0.599
+Comparing these results with the results from the readers study shows a decrease in the absolute
+number of false positives per image.
+VCA’s standalone performance was assessed against the following potential subject and image
+confounders: age, sex, number of lesions per image, image quality, imaging sensor model,
+effective resolution, bit-depth, and image size. We observed very good generalizability for all
+confounders with the exception of image sensor model, with all reported confidence intervals
+including 0.74, the average AFROC FOM calculated on the full dataset. We did observe a
+somewhat lower average AFROC FOM of 0.608 for the Schick 33 sensor. However, when we
+performed a sub-analysis of the reader study results for the Schick 33 images (n=28), we found a
+lower unaided reader performance for this sensor versus the mean performance across all
+sensors, and an improvement in mean AFROC FOM performance for aided (0.706) versus
+unaided (0.614) reads that was very similar to what was seen for the entire study dataset
+alleviating any concerns.
+Animal Testing
+Not applicable. Animal studies are not necessary to establish the substantial equivalence of this
+device.
+Clinical Data (Reader Study)
+A fully crossed randomized, multiple reader multiple case (MRMC) controlled study was
+performed to determine whether the diagnostic accuracy of readers aided by VCA is superior to
+reader accuracy when unaided by VCA, as determined by the AFROC Figure of Merit (AFROC
+FOM). The hypothesis to be tested is:
+H : AFROC FOM - AFROC FOM ≤ 0
+0 aided unaided
+H : AFROC FOM - AFROC FOM > 0
+1 aided unaided
+where AFROC FOM is the population-mean AFROC FOM for aided reads, and similarly
+aided
+with AFROC FOM for unaided reads.
+unaided
+The dataset was 226 adult radiographs collected from 10 US sites that were ground-truthed by
+three US board-certified dentists. The patients in the dataset were 55% female and 45% male,
+with 49% having age 22-40, 38% age 41-60, 11% age 61-75, and 6% over age 76. Image
+sensors included in the study were: DEXIS Platinum, DEXIS Titanium, Gendex GXS-700,
+Kodak RVG, 6100, RVG 5200, RVG 6200, and Schick 33.
+The overall average AFROC FOM for reads aided by VCA was 0.739 as compared to 0.667 for
+unaided reads (Table 3). The difference was 0.072 (95% CI: 0.047, 0.097; p < 0.0001), thus
+rejecting the null hypothesis. This demonstrates that the performance of readers assisted by VCA
+was better than that of readers who were unassisted, thus meeting the primary study objective.
+The improvement in aided reader performance over unaided reader performance was seen for
+each of the 21 readers510(k) Summary – K213795 Page 6 of 7
+Table 3: Overall Image-based AFROC FOM for Aided vs Unaided reads
+Aided Unaided Difference
+Overall, average FOM 0.739 0.667 0.072
+95% Confidence Interval (0.705, 0.773) (0.633, 0.701) (0.047, 0.097)
+The image-based - AFROC Curve for aided and unaided reads is shown below in Figure 1.
+Figure 1: Image-based- AFROC Curve of aided (blue) and unaided (orange) reading
+modalities.
+Sensitivity was significantly increased for aided versus unaided reads for both the reader-
+averaged and the lesion-based analyses. The Non-Lesion Fraction (NLF) is a measure of the
+average number of false positive lesions expected per image. NLF was reduced in aided reads for
+both normal (no lesions) and abnormal (one or more lesions) images. The False Positive Fraction
+(FPF) is a measure of how many normal images have at least one false positive. Although the
+FPF is slightly increased for aided reads (0.33) versus unaided reads (0.29), this difference is
+small and not statistically significant (95% CI [-0.03, 0.12]). Furthermore, the device did
+demonstrate an overall improvement in reader performance as demonstrated by the primary
+endpoint analysis.
+Conclusion
+The predicate Logicon Caries Detector (P980025) and the proposed Videa Caries Assist device
+have the same intended use, as they are both computer-assisted detection devices that accept
+dental radiographs as inputs and use Supervised Deep Learning to identify and highlight ROIs.
+Although there are technological differences, as discussed above these differences in
+technological characteristics do not raise different questions of safety and effectiveness, as
+overall functionality as a reading aid for dental radiographs and utility within the associated510(k) Summary – K213795 Page 7 of 7
+clinical workflows offered to the dental professionals by Videa Caries Assist and Logicon Caries
+Detector are the same.
+Software testing verified the device functioned as intended. The results of the Standalone
+Performance Assessment and Clinical Performance Assessment demonstrate that the
+performance of Videa Caries Assist is comparable to that of Logicon Caries Detector. Therefore,
+Videa Caries Assist can be found substantially equivalent to Logicon Caries Detector.

@@ -1,0 +1,793 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+PMD-200
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Adjunctive pain measurement device for anesthesiology. An adjunctive pain
+measurement device for anesthesiology is a prescription device that includes software
+algorithms to analyze physiological sensor data and measure response to painful stimuli
+in patients under general anesthesia. The device may be software-only or it may include
+hardware such as physiological sensors. This device type is intended for adjunctive use to
+tailor analgesic administration to a patient’s actual response to painful stimuli and is not
+intended to independently direct decision-making.
+NEW REGULATION NUMBER: 21 CFR 868.2200
+CLASSIFICATION: Class II
+PRODUCT CODE: QVE
+BACKGROUND
+DEVICE NAME: PMD-200
+SUBMISSION NUMBER: DEN210022
+DATE DE NOVO RECEIVED: June 04, 2021
+SPONSOR INFORMATION:
+Medasense Biometrics, Ltd.
+4 Hachilazon St.,
+Ramat Gan 5252268
+Israel
+INDICATIONS FOR USE
+The PMD-200 with the Nociception Level (NOL) Index is indicated for use in a clinical setting
+that requires assessment of changes in nociception levels in adult patients under general
+anesthesia receiving opioid or opioid-sparing analgesia as part of their care.
+The PMD-200 should be used as an adjunct to clinical judgment. Clinical judgment should
+always be used when interpreting the NOL index in conjunction with other available clinical and
+vital signs.LIMITATIONS
+The sale, distribution, and use of the PMD-200 are restricted to prescription use in accordance
+with 21 CFR 801.109.
+The PMD-200 should be used as an adjunct to clinical judgment. Clinical judgment should
+always be used when interpreting the NOL index and trend line in conjunction with other
+available clinical and vital signs.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The PMD-200 (device) is a nociception monitoring system which assists assessment of
+anaesthetized patient’s physiological response to noxious stimuli and helps tailor analgesic
+administration to the patient’s actual response to painful stimuli. The device provides
+quantification of the patient’s response to noxious stimuli with the nociception level index
+(NOL).
+The PMD-200 system consists of 4 main components:
+• Monitor – acquisition and display of physiological raw data signals and NOL index and trend
+graph.
+• Software includes two main components:
+Calculation of the NOL index based on physiological parameters extracted from raw
+o
+data signals.
+User interface – displays physiological raw data signals, NOL index and trend graph.
+o
+De Novo Summary (DEN210022) Page 2 of 22• Finger probe –includes the following sensors:
+Photoplethysmogram (PPG or Pleth)
+o
+Thermistor for peripheral temperature (TMP)
+o
+A 3-axis accelerometer for movement (ACC or Movement).
+o
+Connectors for the Galvanic skin response sensor (GSR or Conductance)
+o
+• Single use sensor (connected to the finger probe) – includes the following sensor:
+Bio-impedance Galvanic skin response sensor (GSR or Conductance)
+o
+The NOL index is a relative, non-linear measure with a range of 0–100, where 0 represents no
+pain /nociceptive response and 100 represents extreme pain/nociceptive response. The NOL
+index and trend are intended as an adjunct to support clinical decisions concerning the
+administration of analgesic medications. Clinical evidence1,2,3,4 suggests the following guidelines
+for procedures under general anesthesia:
+• NOL above 25 for more than one minute may indicate the patient requires additional
+analgesic therapy. Higher values indicate a stronger nociceptive response. However, the
+magnitude above the NOL threshold of 25 does not provide guidance on the magnitude of the
+dose of analgesic, but rather indicates timing as to when additional analgesic dosing may be
+necessary, following a nociceptive response.
+• NOL between 0–25 represents an appropriately suppressed physiological response to noxious
+stimuli and suggests adequate analgesia.
+• The NOL index cannot anticipate noxious stimuli and thus a minimal level of analgesics
+should always be maintained.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+BIOCOMPATIBILITY
+The PMD-200 includes components that are direct contact with patient skin during use. The
+finger probe and single-use sensor are categorized as surface contacting (intact skin) devices
+with prolonged contact in accordance with ISO 10993-1 referenced by the FDA guidance
+document, Use of International Standard ISO 10993-1, "Biological evaluation of medical devices
+- Part 1: Evaluation and testing within a risk management process". The components were
+subjected to biocompatibility testing in accordance ISO 10993-1. The following tests were
+conducted to assess biocompatibility of the device for the surface, intact skin contacting
+components for prolonged duration:
+• Cytotoxicity
+1 Meijer, F et al/Reduced postoperative pain using Nociception Level-guided fentanyl dosing during sevoflurane anaesthesia: a randomised
+controlled trial/ British Journal of Anaesthesia 2020 September
+2 Meijer F et al/ Nociception-guided versus Standard Care during Remifentanil–Propofol Anesthesia: A Randomized Controlled
+Trial/Anesthesiology 2019 Feb.
+3 Ledowski, T., Schlueter, P. & Hall, N. Nociception level index: do intra-operative values allow the prediction of acute postoperative pain?. J
+Clin Monit Comput (2021).
+4 Martini CH et al Ability of the Nociception Level (NOL), a multiparameter composite of autonomic signals, to detect noxious stimuli during
+propofol-remifentanil anesthesia Anesthesiology 2015 Sept.
+De Novo Summary (DEN210022) Page 3 of 22• Sensitization
+• Irritation
+All tests passed. The results demonstrated the biocompatibility of the device.
+SHELF LIFE/REPROCESSING
+The PMD-200 system is provided non-sterile and is not intended to be sterilized by the user. The
+monitor and finger probe components of the PMD-200 system are reusable and the single use
+sensor (disposable) has a three (3) year shelf-life. The labeling provides cleaning and disinfection
+procedures for the main unit and finger probe. The procedures for the reusable components were
+validated following the recommendations of the FDA Guidance Document “Reprocessing
+Medical Devices in Health Care Settings: Validation Methods and Labeling”.
+The shelf-life of the single use sensor was assessed by visual and functional testing following
+accelerated and real-time aging of three (3) years. The expected service life of the PMD-200
+finger probe is 2 years (24 months) which is reflected by 600 procedures (300 per year) based on
+usage data in other jurisdictions in which the device is already in routine use. Service life testing
+with 600 simulated use cycles followed by functional testing is provided to validate the service
+life.
+ELECTROMAGNETIC CAPABILITY & ELECTRICAL SAFETY
+Electrical safety and electromagnetic compatibility testing has been performed and complies
+with the following standards:
+• IEC 60601-1-2 Medical Electrical Equipment – Part 1:2014+AMD1:2020: General
+Requirements for Safety; Electromagnetic Compatibility Requirements and Tests (Edition
+4.1).
+• AAMI / ANSI ES60601-1:2005/(R)2012 + AMD1:2012, C1:2009/(R)2012 And
+A2:2010/(R)2012 (Consolidated Text) Medical Electrical Equipment - Part 1: General
+Requirements For Basic Safety And Essential Performance (IEC 60601-1:2005+
+AMD1:2012+AMD2:2020, edition 3.2.
+• The device was also tested for requirements of IEC 60601-1-2:2014+AMD1:2020 and AIM
+7351731 for RFID to evaluate the effects of electrocautery and diathermy.
+SOFTWARE
+Software documentation including management of cybersecurity was provided in accordance
+with the FDA Guidance Document, “Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices,” (issued May 11, 2005) for a Moderate Level of
+Concern (LOC). A Moderate LOC is deemed appropriate as malfunction of the device software
+or a latent design flaw in the device software may lead to erroneous information or a delay in the
+delivery of appropriate medical care, which would likely result in minor injury but would likely
+not result in serious injury or death due to the current practice of medicine
+De Novo Summary (DEN210022) Page 4 of 22HUMAN FACTORS TESTING
+The PMD-200 has been evaluated in a comprehensive human factor validation process in
+compliance with IEC 62366 and ANSI/AAMI 60601-1-6. The summative validation study of 18
+participants representative of intended users conducted in Ramban hospital (Haifa, Israel) and
+Carmel Medical Center (Haifa, Israel) was intended to validate usability aspects of the device
+including operational validation and display validation. The testing activities performed endured
+that the test tasks confirm to the ended use of the device and to patient safety and defined user
+needs. In the operational validation each task was completed at a success rate of 94%. In no case
+did two participants repeat the same use errors. In the display validation most questions were
+answered with 100% success rate and a few with 94% success rate. No wrong answer was
+repeated by more than one participant.
+Another summative validation study was conducted in a simulated use environment in Boulder,
+Colorado was intended to validate workflow and operational validation, clinical interpretation
+and troubleshooting validation, and knowledge tasks by US intended users. Fifteen (15) US
+licensed anesthesiologists and CRNAs were recruited to participate in this validation study. The
+study was conducted by testing the ability of the users to perform a set of real tasks and interpret
+various clinical conditions. Knowledge tasks were evaluated using questionnaires.
+Anesthesiologists and CRNAs are considered to be one user group, as their interactions with the
+device and the tasks they perform are identical. Both anesthesiologists and CRNAs are
+professional users, who underwent extensive clinical training qualifying them to manage
+anaesthetized patients including the routine use of patient monitors to inform clinical decision
+making. Both would use the device in the same manner, same use environment and for the same
+use population. Tasks evaluated during the study were categorized using task analysis technique,
+which systematically breaks down the device use process into discrete sequences of tasks. All
+critical tasks were identified, mitigated as far as possible, and evaluated in the human factor
+validation study. The participants received a short introduction and training to the system. This
+training was designed to approximate the training actual users are likely to receive. 45 minutes
+were allowed to elapse between the introductory & training session and the actual testing.
+Following the 45 minutes, participants were asked to perform a set of tasks for the operation of
+the device, interpret clinical conditions and troubleshooting scenarios and complete
+questionnaires. Data collection was followed by a debriefing interview, to enable the collection
+of users’ perspectives of the device and its use. The results were scored by both the moderator
+and the observer, where primary data collection is performed by the moderator. The observer
+scoring was used as reference in case of any uncertainty regarding the result. No use errors were
+recorded in any of the test sessions.
+PERFORMANCE TESTING - BENCH
+Signal Acquisition
+The essential performance of the PMD-200 according to ANSI/AAMI 60601-1 is defined as the
+ability of the PMD-200 to continuously produce NOL values. This performance is evaluated in
+the electrical safety report where the PMD-200 demonstrates continuous performance under
+different constraints as defined by the standard.
+De Novo Summary (DEN210022) Page 5 of 22The PPG signal acquisition was validated by injecting a Sine wave into the PMD-200 using a
+signal generator, and then altering the signal frequency and viewing its effect on the Pleth signal
+displayed on the PMD-200 screen. The full range of the PPG signal acquisition was validated in
+the algorithm unit testing,
+The GSR signal acquisition is validated by using a resistor substitute to simulate a signal and
+reviewing the signal on the PMD-200 screen. The single-use sensor is then disconnected and the
+GSR alert 'Conductance' is verified. The full range of the GSR signal acquisition was validated
+in the algorithm unit testing.
+The temperature signal range was tested to verify the accuracy of the Finger Probe thermistor by
+comparing it to a reference calibrated thermometer, according to the requirements of ISO 80601-
+2-56, clause 201.101.2. All tests met the pre-defined acceptance criteria of the thermistor
+deviating < 2.5°C from the reference thermometer measurement in compliance with the standard.
+The accelerometer performance was validated during software testing for movement detection
+and Trendelenburg detection in the algorithm unit testing.
+Algorithm Unit Testing
+A total of 604 different test points and test vectors were used for the unit testing, testing the main
+units of the algorithm. Four (4) additional bench tests were used for the unit testing:
+• Two (2) bench tests to validate algorithm model performance.
+• One (1) bench test to validate finger probe movement detection.
+• One (1) bench test to validate Trendelenburg detection.
+• One (1) bench test to validate the accuracy of detecting low quality of PPG signal (too low a
+quality for reliable calculation of physiological parameters).
+The sensitivity and specificity of the NOL Index in response to noxious stimulation should be
+above 75% for the low 95% CI, validated for nociception / no nociception levels. All tests
+included in the unit testing passed this pre-defined acceptance criteria.
+Algorithm Verification
+For the verification testing, a multinational, multi-center dataset, consisting of major
+abdominal/gynecological surgery recordings performed on adult patients under general
+anesthesia was used. None of the recordings used for verification were used in the training
+dataset or for validation activities. This dataset covers a wide range of patient demographics,
+such as age, sex, BMI, pre-existing conditions and American Society of Anesthesiologists (ASA)
+Physical Status Classification System to ensure diversity. Anesthetic drugs included
+Remifentanil\Fentanyl for analgesia and Propofol\volatile gas for anesthesia.
+The verification process includes 3 different types of tests, incorporating different methodology
+and procedures. The tests, acceptance criteria and results are provided in Table 1.
+Table 1: Algorithm verification results
+De Novo Summary (DEN210022) Page 6 of 22Test description Test metrics Acceptance criteria Results
+Algorithm overall Estimated vs reference CISA: 95% CI < 1.0 CISA unit Pass
+predictability mean +/- 95% CI
+NOL algorithm decision Youden Index for NOL threshold 25 +/- 3 NOL units Pass
+accuracy (binary testing) of 25
+AUC 0.85 (0.8 for low 95% CI) Pass
+Specificity 0.85 (0.75 for low 95% CI) Pass
+0.85 (0.75 for low 95% CI) Pass
+Sensitivity
+> 0.85 Pass
+Accuracy
+Characterization of NOL Mean NOL value during periods 97.7% of NOL samples Pass
+values at times of no where no nociception is reported should be below 25
+noxious stimulus
+Algorithm Validation
+For validation, a multinational, multi-center dataset, consisting of major
+abdominal/gynecological surgery recordings, performed on adult patients under general
+anesthesia was used. All data is unique, i.e., was not used for training the algorithm or for
+verification purposes. This dataset covers a wide range of patient demographics, such as age, sex,
+BMI, pre-existing conditions and ASA score to ensure diversity. Validation was divided into two
+phases. Phase I repeated and expanded the verification activities on a separate dataset. Phase II
+included sub-group analysis. The purpose of the sub-group analysis is to validate the accuracy of
+the NOL algorithm for its
+intended use population, and to demonstrate that NOL performance is not affected by specific
+populations or anesthetic techniques:
+1) Sex: Male/Female
+2) Age: 18-65/65+
+3) BMI: 18-25/25-30/30+
+4) Analgesic drug: Remifentanil/Fentanyl
+Each sub-group contained at least 40 patients.
+Phase I validation results are provided in Table 2.
+Table 2: Phase I validation results
+Test description Test metrics Acceptance criteria Results
+Algorithm overall Estimated vs reference 95% CI < 1.0 CISA unit Pass
+predictability CISA: mean +/- 95%
+CI
+De Novo Summary (DEN210022) Page 7 of 22NOL ability to correctly mean{NOL(TP1) > mean{NOL(TP2) > Pass
+grade various mean{NOL(TNP)
+nociceptive intensities
+Wilcoxon signed-rank test
+mean{NOL(POI)}
+(-/+ 95% CI) by
+stimulus groups:
+TP1: intubation
+TP2: incision/trocar
+TNP: non-nociceptive
+stimulus or no stimulus
+NOL algorithm Youden Index for NOL 25 +/- 3 NOL units Pass
+decision accuracy threshold of 25
+(binary testing)
+AUC 0.85 (0.8 for low 95% CI) Pass
+Specificity 0.85 (0.75 for low 95% CI) Pass
+0.85 (0.75 for low 95% CI) Pass
+Sensitivity
+> 0.85 Pass
+Accuracy
+> 0.8 Pass
+Clinical relevance score
+Characterization of Mean NOL value 97.7% of NOL samples should be below Pass
+NOL values at times of during periods where no 25
+no noxious stimulus nociception is reported
+Phase II validation results are provided in Table 3. For the subgroup analysis, both the
+verification and the validation data sets were used
+Table 3: Phase II validation results
+Sub-group Numbe Test Test #3 Test Test #5 Test #6 Test #7
+r #1 Test #2 Youde #4 Specificit Sensitivit Accurac
+of CISA TP1/TP2/TN n AU y y y
+patients err P index C
+95%C
+I
+Female 75 Pass Pass Pass Pass Pass Pass Pass
+Male 75 Pass Pass Pass Pass Pass Pass Pass
+Age <65 81 Pass Pass Pass Pass Pass Pass Pass
+Age > 65 48 Pass Pass Pass Pass Pass Pass Pass
+BMI 39 Pass Pass Pass Pass Pass Pass Pass
+18-25
+BMI 45 Pass Pass Pass Pass Pass Pass Pass
+De Novo Summary (DEN210022) Page 8 of 2225-30
+BMI > 30 45 Pass Pass Pass Pass Pass Pass Pass
+Remifentani 55 Pass Pass Pass Pass Pass Pass Pass
+l
+Fentanyl 67 Pass Pass Pass Pass Pass Pass Pass
+SUMMARY OF CLINICAL INFORMATION
+Clinical Outcome Studies
+Two outcome studies (SOLAR & Abdomi-NOL) demonstrate clinically meaningful reduction of
+pain scores in the NOL guided groups vs. the standard of clinical care group. These studies were
+conducted with patients receiving a sevoflurane / fentanyl anesthesia regimen, which is broadly
+used in US practice. The studies were designed as single-blinded, two-group randomized,
+superiority studies. In order to evaluate the adjunctive intended use of the PMD-200, patients
+were randomized to either NOL-guided analgesia (NOL groups) or standard of care monitoring
+only (SOC group). The instructions and guidance on how to use the output from the PMD-200
+were pre-specified and provided to investigators, prior to patient enrollment. Subjects underwent
+common, elective, non-cardiac procedures as would normally be conducted in routine clinical
+practice. Both outcome studies compared the effect of NOL-guided fentanyl dosing versus
+standard clinical care in patients undergoing major abdominal surgery under sevoflurane/fentanyl
+anesthesia on postoperative pain scores. The study hypothesis was that objective NOL-guided
+fentanyl dosing during surgery would result in superior pain scores compared to standard of care
+fentanyl dosing based on the hemodynamic indices, blood pressure and heart rate. A clinically
+meaningful reduction in post-operative pain scores was demonstrated in both the SOLAR study
+and the Abdomi-NOL study. In the SOLAR study a clinically meaningful reduction of 1.6 in the
+median pain score was reported throughout the 90 minutes. The Abdomi-NOL study was
+designed as a confirmatory study to confirm and support the results of the SOLAR study and a
+clinically meaningful reduction of 1.5 was maintained up to 90 minutes from PACU entrance.
+These reductions represent 30-33% improvement on the 11-point NRS scale in comparison to the
+standard of care control groups.
+Table 1: Abdomi-NOL Clinical Study
+Title of Study Impact of Nociceptive-Level (NOL) Intraoperative Guided
+Fentanyl Analgesia versus Standard Clinical Care (SOC) for
+Elective Major Abdominal Surgery
+Investigators Dr. Rivka Fuica
+Study center Shaare Zedek Medical Center, Jerusalem, Israel
+Patient Enrollment Period November 2019 - March 2021
+Objective To guide intraoperative fentanyl dosing using Nociception Level
+(NOL) index and assess the effect of this guidance on the
+postoperative pain scores in the post-anesthesia care unit (PACU)
+De Novo Summary (DEN210022) Page 9 of 22Primary Endpoint Reduction of pain score in the PACU. (Time points: at arrival;
+every 15min; at discharge or following 3 hours, whichever comes
+first)
+Secondary Endpoints 1. Reduction in the frequency of inadequate analgesia/anesthesia
+events (MAP < 55 mmHg (severe hypotension) and/or < 60
+mmHg (hypotension); Systolic blood pressure >140 mmHg;
+Heart rate <45min-1; Heart rate >90 min-1) during the
+maintenance period until reversal in the NOL-guided group.
+2. Total intraoperative fentanyl consumption (in mcg).
+Exploratory Endpoints
+Intraoperative
+1. Use of vasoactive medication (ephedrine, phenylephrine,
+norepinephrine, atropine)
+In the PACU
+1. Time to the first administration of morphine and/or non-opioid
+systematically administered analgesics
+2. Post-operative opioid consumption from arrival to discharge
+3. Readiness to discharge from PACU (Aldrete score measured at
+arrival, every hour and at discharge)
+4. Post-operative sedation scores with Ramsay Sedation Score
+(Time points: at arrival; every 15 min)
+5. Respiratory Depression- defined as respiratory rate (RR) below
+8 respirations per minute (RPM) for 1 minute. Saturation of less
+than 90% for 1 minute under continuous monitoring.
+6. Nausea and vomiting incidence (PONV Score)
+7. Pruritis requiring treatment
+WARD – up to 24 hours post-surgery
+1. Pain scores (VAS or NRS Scale; Time points: ~every 8 hours
+or according to the SOC))
+2. 24 hours post-operative opioid consumption
+3. PONV medication consumption
+Methodology Patients were randomized to receive NOL‐guided anesthesia or
+standard of care. In both groups, a NOL device was connected, but
+in the standard care group, the anesthesia team was blinded to the
+device. The anesthetic technique was identical in the two groups
+and consisted of induction with a single dose of 1-2μg/kg fentanyl
+(analgesia), followed by maintenance boluses of 0.5 μg/kg,
+sevoflurane (anesthesia maintenance targeted at MAC 0.8-1.2) and
+rocuronium (muscle relaxant). In the standard clinical care (SOC)
+arm, fentanyl boluses were given based on hemodynamic variables
+such as blood pressure and heart rate. In the NOL-guided analgesia
+arm, fentanyl dosing was based on NOL values.
+De Novo Summary (DEN210022) Page 10 of 22Number of Patients 75 patients (ASA 1‐3 patients undergoing elective major
+laparoscopic abdominal, urologic or gynecologic procedures under
+general anesthesia) were enrolled and completed all study
+procedures.
+Main Criteria for 1. Age: 18 years and older;
+Inclusion 2. ASA I-III
+3. Elective major laparoscopic abdominal, urologic or
+gynecologic procedures under general anesthesia.
+4. Patient able to provide informed consent
+Main Criteria for 1. Use of any type of anesthesia other than general anesthesia
+Exclusion (neuraxial, epidural analgesia or local regional anesthesia, e.g.
+transversus abdominal plane block).
+2. Non-sinus heart rate.
+3. Pregnancy/lactation.
+4. Central nervous system disorder (neurologic/head
+trauma/uncontrolled epileptic seizures).
+5. Abuse of alcohol or illicit drugs within the last 6 months.
+6. Chronic pain conditions - pain in 1 or more anatomic regions
+that persists or recurs for longer than 3 months and is
+associated with significant emotional distress or significant
+functional disability.
+7. Opioid tolerant - if for at least 1 week the patient has been
+receiving oral morphine 60 mg/day; transdermal fentanyl 25
+mcg/hour; oral hydromorphone 8 mg/day; oral oxymorphone
+25 mg/day; or an equianalgesic dose of any other opioids.
+8. Chronic use of psychoactive drugs within 90 days prior to
+surgery.
+9. Allergy or intolerance to any of the study drugs.
+10. History of severe cardiac arrhythmias within the last 12
+months.
+11. Surgeries less than one hour (from incision to
+extubation).
+12. Current participation in another clinical study
+De Novo Summary (DEN210022) Page 11 of 22Statistical Methods Confidence intervals for median values were obtained using
+generalized linear models with the cluster bootstrap and bias
+corrected and accelerated (Bca) 95% confidence intervals (CI).
+Continuous variables showing normality such as age, height,
+weight, and BMI were analyzed using Student's t-test and
+expressed as mean ± SD.
+Continuous variables not showing normality such as frequency of
+inadequate analgesia/ anesthesia events and total intraoperative
+fentanyl consumption were analyzed using the Mann–Whitney test
+and expressed as median (IQR).
+For the secondary outcomes, according to the study protocol, the p
+value 0.05, normally considered as the threshold for statistical
+significance, should have been corrected using the Holm step-
+down procedure.
+As none of the secondary outcomes were found to be statistically
+significant even before the correction, actual application of the
+Holm step-down procedure was deemed unnecessary.
+SUMMARY AND CONCLUSIONS
+Safety Results No adverse events associated with the use of the device were
+reported. Three (3) non-device related adverse events were reported
+during the study.
+Effectiveness Results Primary Endpoint:
+Median postoperative pain scores following 60 minutes in the
+PACU were 3 (inter-quartile range 0-5) and 5 (3-7) in NOL-guided
+and SOC groups, respectively.
+Bootstrap analysis actual difference 1.6, 95% confidence interval
+0.5-2.7 or 1.9 corrected for differences in sex distribution, 95%
+confidence interval 0.7-3.0
+Median postoperative pain scores following 90 minutes in the
+PACU were 3 (inter-quartile range 0-5) and 5 (3-6) in NOL-guided
+and SOC groups, respectively.
+Bootstrap analysis actual difference 1.3, 95% confidence interval
+0.3-2.3 or 1.5 corrected for differences in sex distribution, 95%
+confidence interval 0.5-2.6.
+Secondary Endpoints:
+Mean intraoperative fentanyl dosing was not different between
+groups 351 mcg in the NOL group vs. 338 mcg in the SOC. (Mann-
+Whitney p=0.22). There were no differences in the prevalence of
+De Novo Summary (DEN210022) Page 12 of 22inadequate analgesia/anesthesia events between the NOL and the
+SOC groups.
+Exploratory Endpoints:
+There were no significant differences between groups in any of the
+exploratory endpoints.
+Conclusion
+Despite absence of differences in fentanyl and morphine
+consumption during and after surgery, a 1.5-1.9-point
+improvement in postoperative pain scores was observed in the
+NOL-guided group. This was attributed to NOL-guided rather
+than BP- and HR driven fentanyl dosing during anesthesia.
+Table 2: SOLAR Clinical Study
+Title of Study Sevoflurane/fentanyl anesthesia guided by Nociceptive-Level index
+during abdominal surgery in ASA 1-3 patients – a randomized
+controlled trial on the effect of NOL-guidance on postoperative pain
+scores
+Investigators Monique van Velzen PhD, Martijn Boon MD PhD, Chris Martini
+MD, PhD, Maarten Honing MD, Paul Calis MD, Emre Almac MD,
+Albert
+Dahan MD PhD
+Study centers 1. Leiden University Medical Center, Leiden
+2. Alrijne Hospital, Leiderdorp
+Study period From: May 2019 To: December 2019
+Objective To guide the analgesic component of anesthesia using the NOL
+index in ASA 1-3 patients under general anesthesia for elective
+abdominal surgery
+De Novo Summary (DEN210022) Page 13 of 22Endpoints Primary Endpoints
+Postoperative pain scores in the post anesthetic care unit (PACU).
+Secondary Endpoints
+1. Postoperative opioid consumption;
+2. Fentanyl use during anesthesia;
+3. Sevoflurane consumption during anesthesia;
+4. Inadequate hemodynamic events;
+5. Time between reversal of neuromuscular block and extubation
+/eyes open;
+6. Occurrence of awareness;
+7. Anesthesia and surgery times/PACU stay time.
+8. Blood ACTH and cortisol levels during and following the
+procedure.
+Methodology Patients were randomized to receive NOL-guided anesthesia or
+standard of clinical care. In both groups, a NOL device was
+connected, but in the standard of clinical care group, the anesthesia
+team was blinded to the device. The anesthetic technique was
+identical in the two studies and consisted of 25-50 or 50-100 µg
+fentanyl boluses (analgesia), sevoflurane (anesthesia maintenance
+aimed at BIS values 50 ± 5) and rocuronium (muscle relaxant). In
+the standard of clinical care (SOC) arm, fentanyl boluses were
+given based on hemodynamic variables such as blood pressure and
+heart rate. In the NOL-guided analgesia arm, fentanyl dosing
+was based on NOL values.
+Number of patients 50 ASA 1-3 patients undergoing elective open abdominal surgery
+or laparoscopic/ robot-assisted abdominal surgery at two centers.
+Main criteria for 1. Age: 18 years and older;
+inclusion 2. ASA 1-3
+3. Elective open abdominal surgery or robotic/laparoscopic
+abdominal surgery.
+Main criteria for 1. Unable to give written informed consent;
+exclusion 2. Use of epidural analgesia or local anesthesia (e.g. transversus
+abdominal plane block-TAP block)
+3. Non-elective surgery
+4. Pregnancy/lactation.
+5. Uncontrolled preoperative hypo- or hypertension (Mean
+arterial pressure < 60 mmHg or systolic blood pressure > 160
+mmHg)
+6. Preoperative Heart rate < 45/min or > 90/min;
+De Novo Summary (DEN210022) Page 14 of 227. Central nervous system disorder (neurologic/head trauma/
+uncontrolled epileptic seizures).
+Statistical Methods
+The primary endpoint, PACU pain scores over time, was compared
+between the two treatment groups using generalized linear models
+with the cluster bootstrap and bias corrected and accelerated (Bca)
+95% confidence intervals (CI) (Deen 2000). Analyses were
+implemented using R Cluster Bootstrap package v1.1.2. Models
+included group, time center and demographic characteristics.
+For secondary endpoints, since statistical testing was exploratory
+rather than confirmatory, power calculations were not performed.
+Data analysis of these data was performed using independent two-
+tailed-t-test, Mann-Whitney test, χ2-test for continuous &
+categorical measurements respectively, for measurements
+evaluated over time (morphine & stress hormones) Cluster
+Bootstrap with Bca 95% confidence intervals were applied.
+Data are presented as mean ± SD, mean ± 95% confidence
+interval, median and interquartile range and counts & percentages
+unless otherwise stated.
+Corrections for type one error were not performed as:
+• The study included a single primary endpoint
+• Sample size was not powered for secondary endpoints,
+and they are therefore considered as exploratory and
+not confirmatory
+For assessment of the reproducibility of the study endpoints at the
+two hospitals (Leiden University Medical Center, Leiden and
+Alrijne Hospital, Leiderdorp), descriptive analysis was performed
+as well graphical representation using boxplots.
+SUMMARY AND CONCLUSIONS
+De Novo Summary (DEN210022) Page 15 of 22Safety Results 4 of 50 (8%) of patients experienced serious adverse events
+(SAEs) not related to the study device. In the SOC group, two SAEs
+(one event of postoperative nausea/vomiting and constipation and
+the other of bile leakage) were judged as unrelated to the study
+device. In addition, in the NOL-guided group, two SAEs (one
+event of anastomotic leak and one episode of postoperative
+bleeding) were judged to be also, unrelated to the study device.
+No adverse events (AE), or device related adverse events (ADE) or
+serious adverse device events (SADEs) were recorded throughout
+the study.
+Effectiveness Results During the first 90 minutes of PACU stay, the median
+postoperative pain scores were 3.2 [interquartile range 1.3 – 4.3]
+and 4.8 [3.0 – 5.3] in NOL-guided and control groups, respectively
+(actual difference 1.6, 95% confidence interval 0.5-2.7). As two
+independent centers were included in this study, center was added
+to the Bootstrap model as a covariate, this addition did not impact
+the results (actual difference 1.7, 95% confidence interval 0.8-2.8).
+Postoperative morphine consumption was 0.06 ± 0.07 mg/kg
+(NOL-guided group) and 0.09 ± 0.09 mg/kg (p=0.3) During
+surgery, fentanyl dosing was not different between groups.
+ACTH and cortisol levels were analyzed using bias corrected and
+accelerated cluster bootstrap intervals with time, center, sex, age
+and BMI as covariates. Relative to baseline, the increase of ACTH
+and cortisol was 1.5 to 2-fold greater in the group that received
+standard care compared to those that received Nociception Level
+index guided fentanyl dosing”. Mean difference 40.6 and 242.6 for
+cortisol and ACTH respectively (95% confidence interval 7.1 to -
+85.1 for cortisol and 39.4 to 513.5 for ACTH).
+The results demonstrated for morphine consumption and stress
+hormone levels are considered exploratory, representing a trend
+towards reduction of morphine consumption in the PACU and
+reduced levels of stress hormones in the NOL guided group.
+Further confirmatory studies are required in order to assess the
+reproducibility and clinical relevance of these results.
+The remaining secondary endpoints did not demonstrate any
+De Novo Summary (DEN210022) Page 16 of 22meaningful results.
+Conclusion Patients receiving intraoperative NOL-guided fentanyl
+administration during sevoflurane anesthesia for abdominal
+surgery demonstrated decreased pain in the PACU, likely as a
+result of better objective intraoperative fentanyl management.
+NOL Retrospective Clinical Validation Study
+In addition, a retrospective study comparing the clinical performance of the PMD-200 monitor
+across multiple patient cohorts in order to assess the generalizability of the technology
+performance in clinical practice representative of the intended use environment was conducted.
+The patient cohorts include various anesthesia regimens and patients with different demographic
+characteristics. The study was performed on a database comprising 500 adult patients.
+The hypothesis that the NOL index responds consistently to nociceptive stimuli in patients under
+general anesthesia over a broad range of patient demographic characteristics and physical health
+classifications, using different anesthesia and analgesia drugs was evaluated. The primary
+endpoint was the ability of the NOL index to discriminate between noxious and non-noxious
+stimuli in various subgroups of adult surgical patients. NOL recordings from elective surgery
+procedures using the PMD-200 monitor between January 2015 to December 2020 were selected.
+All data were shared with the company as deidentified datasets under data-sharing agreements
+appropriate for the purpose of this study:
+1. HMR, Montreal, Canada:
+• CINAAMON
+• NOLGYN
+• Remi-Trach
+2. Shaare Zedek Medical Center, Jerusalem, Israel
+• Abdomi-NOL
+3. Leiden University Medical Center, Leiden, the Netherlands
+• NOLA
+• SOLAR
+4. University of Vermont Medical Center, Larner College of Medicine, Burlington,
+Vermont
+• Observational study
+5. Cleveland Clinic Foundation, Cleveland, USA
+• Fentanyl pilot study
+Adults who had elective general, gynecological, or urological surgery under general anesthesia
+(GA) with or without epidural analgesia were included. Patients with incomplete intraoperative
+medication listings or annotation records were excluded after manual and automated data review.
+The ability to discriminate between noxious and non-noxious stimuli was assessed using
+De Novo Summary (DEN210022) Page 17 of 22descriptive statistics and receiver operating characteristics (ROC) curve of the NOL response
+within the 3 minutes post stimulus. The results of the retrospective study are provided in Table 3.
+Table 3: Retrospective study results
+Subgroup N (data NOL AUC Specificity Sensitivity Accuracy CRS Pass/Fail
+points) Cutoff
+Point
+Sex
+Female 483 25 0.97 0.93 0.92 0.92 0.87 Pass
+(0.95-0.98) (0.89-0.96) (0.88-0.95)
+p < 0.0001
+Male 219 25 0.96 0.91 0.90 0.92 0.80 Pass
+(0.93-0.99) (0.85-0.95) (0.85-0.94)
+p < 0.0001
+Age
+Age < 65 476 25 0.96 0.94 0.90 0.92 0.86 Pass
+(0.95-0.98) (0.90-0.96) (0.85-0.94)
+p < 0.0001
+Age > 65 217 23 0.95 0.93 0.91 0.92 0.83 Pass
+(0.92- 0.98) (0.88 – 0.97) (0.83 – 0.96)
+p < 0.0001
+BMI
+Overweight 280 25 0.95 0.90 0.93 0.92 0.85 Pass
+25-30 (0.93-0.98) (0.85-0.95) (0.87–0.97)
+p < 0.0001
+Overweight 255 25 0.95 0.96 0.93 0.91 0.85 Pass
+25-30 (0.92- 0.98) (0.91–0.99) (0.87–0.97)
+p < 0.0001
+Obese 162 25 0.98 0.97 .90 0.94 0.86 Pass
+30+ (0.96-1.00) (0.91-0.99) (0.81-0.96)
+p < 0.0001
+Anesthesia
+Desflurane 155 25 0.99 0.99 0.95 0.97 155 Pass
+(0.98-1.00) (0.95–1.00) (0.88 – 0.99)
+p < 0.0001
+Sevoflurane 354 25 0.95 0.89 0.93 0.91 354 Pass
+(0.93-0.98) (0.84-0.93) (0.88-0.97)
+p < 0.0001
+Propofol 173 25 0.98 0.96 0.89 0.92 173 Pass
+(0.97-1.00) (0.89-0.99) (0.82-0.96)
+p < 0.0001
+ASA Classification
+ASA I 112 25 0.96 0.90 0.90 0.90 0.88 Pass
+(0.94-0.99) (0.81-0.95) (0.81-0.95)
+p < 0.0001
+ASA II 418 25 0.95 0.95 0.89 0.92 0.84 Pass
+(0.93-0.98) (0.91-0.97) (0.84-0.94)
+p < 0.0001
+ASA III 91 25 0.97 0.94 0.92 0.93 0.85 Pass
+(0.94-1.00) (0.88-1.00) (0.83-1.00)
+p < 0.0001
+Analgesia
+Remifentanil 265 24 0.97 0.92 0.92 0.92 0.82 Pass
+(0.95-0.99) (0.87-0.96) (0.85 – 0.96)
+De Novo Summary (DEN210022) Page 18 of 22p < 0.0001
+Fentanyl 395 25 0.96 0.90 0.94 0.92 0.88 Pass
+(0.94-0.98) (0.85 – 0.94) (0.89 – 0.97)
+p < 0.0001
+The NOL algorithm met product requirements and behaved consistently across all tested
+subgroups. The performance of the NOL index was thus reliable, independent of patient
+characteristics and anesthetic approach, and generalizes well across the intended use population.
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+LABELING
+The labeling (User Instructions) meets the requirements of 21 CFR 801.109 for prescription
+devices and satisfies the special controls listed below:
+• A summary of the clinical validation data, including demographics and other relevant
+characteristics of the clinical study participants (including age, gender, race or ethnicity,
+and patient condition), the anesthetic regimen, including types (e.g., morphine,
+hydromorphone, fentanyl, etc.), and doses of opioids used, and a summary of validation
+result.
+• A description of what the device measures and outputs to the user.
+• The type of sensor data used, including specification of compatible sensors for data
+acquisition.
+• Warnings identifying sensor signal-acquisition factors that may impact output.
+• Warnings identifying situations that may create a safety risk to the patient or users.
+• Information on the patient population(s) for which the device has been demonstrated to
+be effective and for subpopulations (age, gender, race or ethnicity) which may experience
+disparate performance.
+• Guidance for clinical interpretation of the output, including warning(s) emphasizing the
+adjunctive use of the output measure(s).
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of an adjunctive
+pain measurement device for anesthesiology and the measures necessary to mitigate the risks.
+Risks to Health Mitigation Measures
+Delayed or incorrect treatment due to Clinical performance testing
+erroneous device output resulting Non-clinical performance testing
+from software malfunction or Software verification, validation, and hazard analysis
+algorithm error Labeling
+De Novo Summary (DEN210022) Page 19 of 22Delayed or incorrect treatment due to Usability assessment
+user misinterpretation or overreliance Labeling
+on indicator
+Adverse tissue reaction Biocompatibility evaluation
+Electric shock/electromagnetic Electrical safety testing
+interference related to hardware Electromagnetic compatibility testing
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the adjunctive pain measurement
+device for anesthesiology is subject to the following special controls:
+(1) Clinical data must be provided to validate the algorithm in support of the intended use and
+include the following:
+(i) Comparison of output measure(s) to a reference method to demonstrate the required
+accuracy and/or sensitivity and specificity of the output measure(s);
+(ii) Demonstration of the consistency of the output and representativeness of the range of
+data sources and data quality likely to be encountered in the intended use population
+and relevant use conditions in the intended use environment;
+(iii) Evaluation of the type of pain (e.g., nociceptive, somatic, visceral, neuropathic) that
+is within the scope of the indicated use; and
+(iv) For devices using algorithms based on machine learning, the clinical validation must
+be completed using a dataset that is separate from the training dataset.
+(2) Software description, verification, and validation based on comprehensive hazard analysis
+must be performed. Software documentation must include:
+(i) Full characterization of technical parameters of the software, including any
+algorithm(s);
+(ii) Description of mechanisms for handling of noisy or missing data and poor signal
+quality under expected conditions of use;
+(iii) Specification of acceptable incoming sensor data quality control measures;
+(iv) Mitigation of impact of user error or failure of any subsystem components (signal
+detection and analysis, data display, and storage) on output accuracy; and
+(v) Justification for the validity of the algorithm(s) (e.g., clinical relevance of decision
+threshold).
+(3) Non-clinical performance data must demonstrate that the device performs as intended
+under anticipated conditions of use. Performance testing under anticipated conditions of
+use must demonstrate the ability of the device software/algorithm to detect adequate input
+signal quality and handle noisy or missing data and poor signal quality.
+(4) Usability assessment must be provided to mitigate the risk of misinterpretation of device
+output.
+De Novo Summary (DEN210022) Page 20 of 22(5) The patient contacting components of the device must be demonstrated to be
+biocompatible.
+(6) Performance testing must demonstrate the electromagnetic compatibility (EMC) and
+electrical safety of any hardware components of the device.
+(7) Labeling must include the following:
+(i) A summary of the clinical validation data, including demographics and other
+relevant characteristics of the clinical study participants (including age, gender, race
+or ethnicity, and patient condition), the anesthetic regimen (including types (e.g.,
+morphine, hydromorphone, fentanyl, etc. and doses of pain medication used), a
+summary of results, and information on subpopulations (age, gender, race, or
+ethnicity) that may experience disparate performance.
+(ii) A description of what the device measures and outputs to the user.
+(iii) The type of sensor data used, including specification of compatible sensors for data
+acquisition.
+(iv) Warnings identifying sensor signal-acquisition factors that may impact output.
+(v) Warnings to identify and avoid specific patient conditions or concomitant medical
+therapies that could mask pain or negatively impact device performance leading to
+inaccurate measurements; and
+(vi) Recommendations for clinical interpretation of the output, including warning(s)
+emphasizing the adjunctive use of the output measure(s).
+BENEFIT-RISK DETERMINATION
+The risks of the device include underdose and overdose of opioid during intraoperative
+procedures due to inaccurate NOL readings and allergic response to the material of the finger
+probe. Insufficient analgesia may result in temporary hypertension, tachycardia, postoperative
+pain, sensitization that may cause persistent post-operative pain and delayed postoperative
+recovery. Excessive analgesia may result in temporary respiratory depression, hypotension,
+bradycardia, opioid induced hyperalgesia, post-op nausea/vomiting and delayed postoperative
+recovery. During clinical study, there were no reports of any serious or minor adverse events
+related to the device, other than 3 isolated cases of minor pressure marks to the patient's finger,
+that self-resolved and did not require treatment.
+The probable benefits of the device include reduction of postoperative pain which may reduce
+prolonged postsurgical opioid use. An additional probable benefit includes clinically relevant
+reduction in inadequate anesthesia events.
+Patient Perspectives
+Patient perspectives considered for the PMD-200 during the review include:
+De Novo Summary (DEN210022) Page 21 of 22Patient reported outcomes in the Nociceptive-Level index validation study (i.e., postoperative
+NRS scale).
+Benefit/Risk Conclusion
+The risks of false positive or false negative results leading to under- or over-dosing are
+diminished due to the patient-specific nature of NOL values. The score provided is a relative
+score based on the patient’s own normalized data. Further, the device is used as an adjunct to the
+traditional, surrogate measures of assessing nociception, such as blood pressure heart rate, and
+somatic signs (tearing, mydriasis etc.) Accordingly, the NOL information is provided only to
+supplement the physician’s standard of care practices for guiding analgesic dosing. The patient
+remains under direct observation at all points in time.
+In conclusion, given the available information above, for the following indications for use
+statement:
+“The PMD-200 with the Nociception Level (NOL) Index is indicated for use in a clinical
+setting that requires assessment of changes in nociception levels in adult patients under
+general anesthesia receiving opioid or opioid-sparing analgesia as part of their care.
+The PMD-200 should be used as an adjunct to clinical judgment. Clinical judgment
+should always be used when interpreting the NOL index in conjunction with other
+available clinical and vital signs.”
+The probable benefits outweigh the probable risks for the PMD-200. The device provides
+benefits, and the risks can be mitigated by the use of general controls and the identified special
+controls.
+CONCLUSION
+The De Novo request for the PMD-200 is granted and the device is classified as follows:
+Product Code: QVE
+Device Type: Adjunctive pain measurement device for anesthesiology
+Regulation Number: 21 CFR 868.2200
+Class: II
+De Novo Summary (DEN210022) Page 22 of 22

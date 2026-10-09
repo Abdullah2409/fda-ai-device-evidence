@@ -1,0 +1,432 @@
+March 4, 2022
+Pearl Inc.
+℅ Zvi Ladin, Ph.D.
+Principal
+Boston MedTech Advisors
+990 Washington Street, Suite #204
+Dedham MA 02026
+Re: K210365
+Trade/Device Name: Second Opinion®
+Regulation Number: 21 CFR 892.2070
+Regulation Name: Medical Image Analyzer
+Regulatory Class: Class II
+Product Code: MYN
+Dated: January 20, 2022
+Received: January 24, 2022
+Dear Zvi Ladin:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.32
+Silver Spring, MD 20993
+www.fda.govK210365 - Zvi Ladin Page 2
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Laurel Burk
+Assistant Director
+Diagnostic X-ray Systems Team
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosurePearl, Inc.
+510(K) SUMMARY K210365
+1. Submitter's Identification
+Pearl Inc.
+2515 Benedict Canyon Dr.
+Beverly Hills, CA, 90210
+USA
+(239)450-8829
+Contact Person: Bill Birdsall
+Position: Chief Compliance Officer
+Date Summary Prepared: March 2, 2022
+2. Trade Name of the Device
+Second Opinion®
+3. Common or Usual Name
+Analyzer, Medical Image
+4. Classification Name, Regulatory Classification & Product Code
+Classification Name: Analyzer, Medical Image
+Regulatory Classification: 21CFR 892.2070, Class II
+Product Code: MYN
+5. Predicate Device Information
+Predicate device: Logicon Caries Detection by Carestream Dental LLC. (P980025 &
+Supplements 1, 2, 3 & 4)
+6. Device Description
+Second Opinion® is a computer aided detection ("CADe”) software device indicated for use
+by dental health professionals as an aid in their assessment of bitewing and periapical
+radiographs of permanent teeth in patients 12 years of age or older. Second Opinion®
+employs computer vision technology, developed using machine learning techniques, to
+detect and draw attention as second reader to regions on bitewing and periapical
+radiographs where distinct pathologic and/or nonpathologic dental features may appear.
+Page 1 of 10Pearl, Inc.
+Second Opinion® consists of three parts:
+● In-office application or Client User Interface (“Client”)
+● Application Programing Interface (“API”)
+● Computer Vision Models (“CV Model”, “CV Models”)
+The Client resides in the clinician’s office. The API and CV Models reside in a cloud
+computing platform, where image processing takes place.
+The CV Models create and append to a metadata file information denoting pixel regions
+and other associated properties of each radiograph. Those associated properties include:
+● Normal anatomy (e.g., Teeth)
+● Nine radiological dental findings, which include five restorations (crowns, bridges,
+implants, root canals, fillings) and four pathologies (caries, margin discrepancy –
+MD, calculus, periapical radiolucency – PR)
+The API delivers the metadata back to Second Opinion® via the cloud. The metadata
+information is displayed in graphical form to clinical users by way of the Second Opinion®
+Client’s user interface.
+7. Indications for Use
+Second Opinion® is a computer aided detection ("CADe”) software to identify and mark
+regions in relation to suspected dental findings which include Caries, Discrepancy at the
+margin of an existing restoration, Calculus, Periapical radiolucency, Crown (metal,
+including zirconia & non-metal), Filling (metal & non-metal), Root canal, Bridge and
+Implants.
+It is designed to aid dental health professionals to review bitewing and periapical
+radiographs of permanent teeth in patients 12 years of age or older as a second reader.
+8. Summary of Substantial Equivalence:
+The predicate device and candidate device are similar CADe devices in the following ways:
+1) Intended use: Both devices are intended to be used to aid dental clinicians in their
+detection of pathologic dental features in radiographs of permanent teeth.
+2) Technology characteristics: Both devices employ computer vision and machine
+learning to output detections.
+3) Safety: As both the candidate and predicate device are CADe systems, neither pose
+any direct safety hazard to the patient.
+4) Clinical Performance: Both devices have undergone clinical studies which
+demonstrate statistically significant improvement in aided reader performance.
+However, due to technological differences (e.g., the need to mark the region of
+interest by the user of the predicate device), there are challenges for a direct
+technological and performance comparison with the predicate device.
+Page 2 of 10Pearl, Inc.
+For substantial equivalence comparison, the follow table is provided:
+Predicate Device:
+Candidate device:
+Item Logicon Caries Comments
+Second Opinion®
+Detection (P980025)
+Manufacturer Pearl Inc. Carestream Dental LLC N/A
+Classification 892.2070 892.2070 Same
+Product Code MYN MYN Same (Product code MYN
+was recently
+reclassified to class II)
+Image Modality Radiograph Radiograph Same
+Intended Use To aid in clinical detection of To aid in clinical Same indication as
+pathologic and/or non- detection of pathologic predicate device as both
+pathologic dental features in features in devices are intended to
+radiographs radiographs of adult teeth identify pathologic features
+of permanent teeth, as a in dental radiographs.
+second reader, only after the
+initial read is completed
+Indications for Second Opinion® is a The Logicon Caries
+Use computer aided detection Detector is a software
+("CADe”) software to device that is an aid in the
+identify and mark regions in diagnosis of caries that
+relation to suspected dental have penetrated into the
+findings which include dentin, on un- restored
+Caries, Discrepancy at the proximal surfaces of
+margin of an existing secondary dentition
+restoration, Calculus, through the statistical
+Periapical radiolucency, analysis of digital intraoral
+Crown (metal, including radiographic imagery. The
+zirconia & non-metal), device provides additional
+Filling (metal & non- metal), information for the
+Root canal, Bridge and clinician to use in his/her
+Implants. It is designed to diagnosis of a tooth
+aid dental health surface suspected of
+professionals to review being carious. It is
+bitewing and periapical designed to work in
+radiographs of permanent conjunction with an
+teeth in patients 12 years of existing Carestream
+age or older as a second Dental RVG digital x-ray
+reader. radiographic system with
+Carestream Dental
+Imaging Software
+(DIS/CSI) for WINDOWS
+7 or higher.
+Page 3 of 10Pearl Inc.
+Intended body part Dental Dental Same as predicate device
+Intended User Dental Clinicians Dental Clinicians Same as predicate
+device
+Marker Bounding boxes / User may mark ROI with V
+Type/Size Fixed tool (to select a pie-wedge
+shape: narrow end at the
+center of the tooth, wide
+end extending through
+surface over the
+suspicious region)
+or the pencil tool to draw
+the ROIs.
+Prescription For Prescription Use For Prescription Use Same
+or OTC
+Algorithm Utilizes computer vision Utilizes computer vision Same
+neural network algorithms, neural network algorithms
+developed from open-source developed using proprietary
+models using supervised techniques.
+machine learning
+techniques.
+Reader Second reader workflow The user can select specific
+workflow regions of interest (ROI) to
+be analyzed by the
+program
+Clinical Study Standalone study for • MRMC study for two All devices included
+pathological (Caries, types of dental caries: MRMC studies to assess
+discrepancy at the approximal/enamel into effectiveness.
+margin, calculus, and dentin
+periapical radiolucency) • Analysis included: ROC
+and non-pathologic analysis for primary
+feature detection endpoints
+performance (Crowns,
+fillings, root canal,
+bridges, and Implants).
+• Multiple-Reader,
+Multiple-Case
+(MRMC) study for
+pathologic dental
+features
+• Analysis included:
+• wAFROC-FOM
+analysis for
+primary endpoints
+• Determination of
+the changes in
+sensitivity and
+change in number
+of false positive
+Page 4 of 10Pearl Inc.
+dental pathologies
+of a given type per
+image (FPPI).
+Image Source Accepts image formats Limited to Different
+from RVG, DICOM, Carestream
+JPEG, TIFF, proprietary
+and PNG and radiography
+converts to JPEG. equipment.
+Type of CADe CADe Same
+Device
+Hardware WINDOWS 7 or higher WINDOWS 7 or Same
+Requirements higher
+Analysis of digital Bitewing & Periapical Bitewing only Similar
+intraoral
+radiographic
+imagery
+Table 1. Comparison of Second Opinion® with the predicate device
+9. Technological Comparison to Predicate Device
+The fundamental technological principle for both the candidate and predicate devices is
+the automatic computerized lesion detection of the dental finding of interest, as an aid to
+dental health professionals to review patients’ dental radiographs.
+The candidate and predicate devices are technologically equivalent as follows:
+• Both are software devices designed to run on Windows operating systems.
+• Both devices are designed to process digital intraoral bitewing radiographs.
+• Both devices use neural network-based computer vision algorithms for lesion
+detection.
+• Both devices demarcate detections within the user interface with a graphical
+overlay on the radiograph.
+• Both devices produce near-instantaneous detection results.
+• Both devices are considered to be of “moderate” level of software concern.
+• Both devices passed all verification and validation testing requirements.
+The candidate and predicate devices are technologically different as follows:
+• The candidate device includes computer vision algorithms capable of detecting other
+dental features in addition to carious lesions.
+• The candidate device includes computer vision algorithms capable of making
+detections in periapical radiographs in addition to bitewing radiographs
+• The candidate device uses a cloud-based rather than CD-ROM method of software
+installation
+• The candidate device is capable of making detections in images captured on
+Page 5 of 10Pearl Inc.
+radiography devices from a range of manufacturers, rather than in conjunction only
+with a Carestream digital imaging device.
+• The candidate device outputs detections as a second reader only and physician
+needs to make final determinations. The user does not select specific regions of
+interest (ROI) to be analyzed by the program
+• The candidate device does not predict lesion depth or severity.
+10. Assessment of Benefit-Risk, Safety and Effectiveness, and
+Substantial Equivalence to Predicate Device:
+Pearl has demonstrated the benefits of the device through a standalone and MRMC clinical
+studies of aided and unaided reader accuracy across the four pathologic features included in
+Second Opinion®’s Indications for Use: caries, margin discrepancy, calculus, and periapical
+radiolucency. While detection accuracy improvement between aided and undead readers
+were seen to vary by pathologic feature, the results of the MRMC studies showed statistically
+significant aided-reader improvement in detection accuracy across all four pathologic
+features. When the probable benefits and probable risks of Second Opinion® are weighed
+against one another, the weight of benefits significantly exceeds that of risks. This
+judgement can be made based on review of the submitted materials showing that Second
+Opinion® meets the design verification and validation and labeling Special Controls required
+for clearance of Class II medical image analyzers. It is, thus, concluded that Second
+Opinion® can be considered safe and effective such that the device will aid users in the
+indicated user population in their radiographic detection of certain abnormal dental features.
+11. Discussion of Non-Clinical Tests Performed
+The device is a software-only device, so most testable characteristics common to other
+device types, including Biocompatibility/Materials, Shelf Life/Sterility, Electromagnetic
+Compatibility and Electrical Safety, Magnetic Resonance (MR) Compatibility, are not
+applicable to this device.
+Software Verification and Validation Testing
+Second Opinion® verification testing of software, unit testing, software integration testing,
+and software system testing were conducted. Verification and validation activities for
+Second Opinion® were conducted to provide evidence that the design meets user needs,
+intended use and application specification. The testing results support that all the software
+specifications have met the acceptance criteria and the claims of substantial equivalence.
+12. Discussion of Clinical Tests Performed
+Clinical evaluation of Second Opinion® was performed to validate the clinical efficacy of the
+system in helping dentists review four dental pathologies (caries, margin discrepancy,
+calculus, and periapical radiolucency) on intra oral radiographs. Second Opinion® was
+clinically tested as a standalone device and in a fully-crossed multi-reader multi-case
+(MRMC) reader study.
+The Weighted Alternative Free-Response Receiver Operating Characteristic (wAFROC)
+paradigm was used as the metric of efficacy for all studies. The ground truth (GT) was
+assessed using the consensus approach (based on agreement among at least three out of
+Page 6 of 10Pearl Inc.
+four expert readers). Each GT expert independently marked areas on any radiograph
+wherein they marked (using the smallest possible rectangular bounding box to encompass
+the entire region identified) and identified the pathologic and/or non-pathologic features. All
+experts went through the training and reading of the images over the same period of time.
+The studies were conducted as retrospective, unblinded open-label, multi-site trials that
+produced clinically useful information on the potential application of this device in a dental
+office setting. 2,010 images reviewed by all four GT readers were used for the standalone
+and MRMC studies:
+Feature Caries MD Calculus PR
+# of normal radiographs 1,640 1,741 1,766 1,887
+# of lesion-containing radiographs 370 269 244 123
+Number of lesions 655 355 467 144
+Average # of lesions/image 1.77 1.32 1.91 1.17
+Table 2. Images reviewed by all four GT readers
+Standalone Testing
+In the standalone study, the Second Opinion® CADe exhibited comparable performance to
+unaided readers in detecting four pathologic features and five restorations based on Jaccard
+Index (JI) of ≥ 0.4 for LL (Lesion Localization). This value of JI optimized lesion localization
+of unaided readers and was also used to process the Standalone performance of the
+candidate device. Use of other values of JI will clearly affect the overall performance of the
+product.
+• Jaccard Index of 0.4 corresponds to an overlap area between the device’s outputs
+and truth of 57% in theory. Using Jaccard Index of 0.4 leads to the device’s
+standalone performance wAFROC-FOM 95% CI (0.73, 0.79), (0.71, 0.78), (0.78,
+0.85) and (0.75,0.84) for Caries, MD, Calculus, and PR with consensus truthing
+method, respectively.
+• Jaccard Index of 0.5 corresponds to an overlap area between the device’s outputs
+and truth of 67% in theory. Using Jaccard Index of 0.5 leads to the device’s
+standalone performance wAFROC-FOM 95% CI (0.61, 0.68), (0.62, 0.68), (0.75,
+0.81) and (0.69,0.78) for Caries, MD, Calculus, and PR with consensus truthing
+method, respectively.
+Product’s standalone sensitivity and false positive rate were also assessed. Sensitivity is
+defined as the number of dental pathologies (of a given type) detected as a percentage of
+the same type GT pathologies on a given slide. The false positive rate is defined as the
+number of false positive findings of a given type identified on a given slide and expressed
+in terms of FPPI (false positive per image).
+Page 7 of 10Pearl Inc.
+The standalone sensitivity of the product was in the range of 76.39% – 89.77% and the
+false positive rate was in the range of 0.46 – 4.85.
+MRMC Testing and Results
+Pearl conducted a fully-crossed multi-reader, multi-case (MRMC) retrospective reader study
+to determine the impact of Second Opinion® on reader performance in detecting four dental
+pathologies. The primary objective of the study was to determine whether the detection
+accuracy of readers aided by Second Opinion® is superior to the detection accuracy of
+readers unaided by Second Opinion®.
+Twenty-five readers were asked to determine the locations of all identified (i.e., classified)
+lesions, in a setting designed to increase user specificity in detection. Each reader read a
+total of 2,010 images – 1,005 images unaided and 1,005 images aided (using Second
+Opinion®).
+The performance of readers aided by the use of Second Opinion® demonstrated statistically
+significant improvement over the performance of unaided readers for caries, margin
+discrepancy, calculus, and periapical radiolucency.
+Moreover, the improvement in sensitivity of a single dental finding was in the range of 0.9%–
+11.7% and examination of the individual improvement in sensitivity documented that:
+• 17/25 (68%) improved the sensitivity of detecting Caries
+• 19/25 (76%) improved the sensitivity of detecting MD
+• 22/25 (88%) improved the sensitivity of detecting Calculus
+• 25/25 (100%) improved the sensitivity of detecting PR
+The improvement in false positive rate of a single dental pathology was in the range of
+0.08 – 0.136. Examination of the individual improvements in the rate of FPPI documented
+that:
+• 23/25 (92%) improved the rate of FPPI for Caries
+• 24/25 (96%) improved the rate of FPPI for MD
+• 25/25 (100%) improved the rate of FPPI for Calculus
+• 9/25 (36%) improved the rate of FPPI for PR
+No statistically significant reductions in performance were observed when readers used
+Second Opinion® as an assistive aid. All pathologies met the pre-specified endpoints for
+the MRMC study.
+The results have demonstrated that, in a significant portion of the target population,
+detection performances using the proposed device improved with statistical significance.
+Therefore, the proposed device could provide potential assistance for dentists in the review of
+dental pathologies found in intra oral radiographs when used as a second read.
+13. Comparison to Predicate Clinical Outcomes
+Predicate Device: Logicon Caries Detection by Carestream Dental LLC.
+The predicate device’s clinical study was based on a dataset of 175 tooth surfaces and
+Page 8 of 10Pearl Inc.
+18 readers. The primary endpoint was to determine the device’s effect on reader
+sensitivity (true positive identification), specificity (true negative), and accuracy (fraction of
+all correct diagnosis made by a dentist) as they pertain to detection of caries lesions into the
+dentin on proximal tooth surfaces. Truth was defined as the dentist’s clinical assessment
+of the exposed lesion prior to restoration. Results from this study showed a significant
+increase in reader sensitivity and no significant change in reader specificity (slightly
+reduced when aided by Logicon) when readers used the device. Average reader accuracy,
+reported as the comparison of detection accuracy unaided readers to aided readers, were
+determined using the ROC paradigm and showed an improvement of 12.8 percent:
+Unaided Reader Accuracy Aided Readers Accuracy
+0.756 0.883
+Table 5. Logicon Caries Detector (predicate device) accuracy – Aided vs. Unaided
+However, this observed median difference is not significant based on the Wilcoxon test
+(P=0.0537). Therefore, the improvement in diagnostic accuracy associated with the
+Logicon Caries device is mostly associated with the improvement in sensitivity.
+The candidate device’s clinical study was based on a dataset of 2010 radiographs which
+included 370 carious lesions. Three primary studies were performed: Standalone, MRMC,
+and CADe vs. Reader. The endpoints were designed to determine the candidate device’s
+ability to identify dental features as a standalone system and to determine the device’s
+effect on reader performance.
+In comparison to the predicate device’s clinical study, caries detection performance of the
+candidate device, measured based on wAFROC-FOM, for unaided and Second Opinion®-
+aided readers with Second Opinion® is:
+Unaided Reader wAFROC-FOM Aided Reader wAFROC-FOM
+0.740 0.758
+Table 6. Second Opinion® wAFROC-FOM – Aided vs. Unaided
+This difference is significant with P=0.0062.
+Therefore, similar to the predicate device, the candidate device also demonstrated
+improved detection accuracy in detecting carious lesions. Although candidate device
+performance was determined using a different statistical paradigm (wAFROC) than
+predicate device performance (ROC), the trend is the same: When aided by the device,
+readers’ ability to detect carious lesions improves.
+14. Conclusions
+Based on the information presented above, Second Opinion® and its predicate device,
+Logicon Caries Detector, are deemed to have similar intended uses as devices which aid in
+Page 9 of 10Pearl Inc.
+the detection of pathologic features that can appear in dental radiographic imagery.
+Second Opinion®’s clinical trial results demonstrate that like its predicate, the device
+effectively improves the performance of its intended users, as a second read CADe system.
+As Second Opinion® raises no new or different questions of safety or effectiveness,
+performs in accordance with its specifications, meets user needs, meets the intended use
+and therefore was found substantially equivalent to the predicate device.
+Page 10 of 10

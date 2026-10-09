@@ -1,0 +1,285 @@
+ClariPi Inc.
+President
+ClariPi Detroit Office
+1645 Park Creek Ct. Rochester Hills
+DETROITMI 48309
+Re: K203785
+Trade/Device Name: ClariSIGMAM
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processingsystem
+Regulatory Class: Class II
+Product Code: QIH
+Dated: August 9, 2021
+Received: August 9, 2021
+Dear Harry Park:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-K203785-Harry Park Page 2
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary
+K203785
+This 510(k) Summary is being submitted in accordance with the requirements of as required by
+section 807.92(c).
+I. SUBMITTER
+ClariPi Inc.
+3F, 70-15, Ihwajang-gil, Jongno-gu
+Seoul, Korea, Republic of [03088]
+Tel: +82-2-741-3014
+Fax: +82-2-743-3014
+Email: claripi@claripi.com
+Contact person: Ms. Hyun-Sook Park, CEO
+Date Prepared: September 09, 2021
+II. DEVICE
+Name of Device: ClariSIGMAM
+Common or Usual Name: Automated Radiological Image Processing Software
+Classification Name: Medical image management and processing (21 CFR 892.2050)
+Regulatory Class: II
+Product Code: QIH
+III. PREDICATE DEVICE
+This predicate has not been subject to a design-related recall.
+The ClariSIGMAM software device, addressed in this premarket notification, is
+substantially equivalent to the following commercially available software:
+Device Classification Name System, Image processing, Radiological
+510(k) Number K170540
+Device Name DM-Density
+Applicant Densitas, Inc.
+1344 Summer Street, Suite 311.2
+Halifax, CA B3h 0A8
+Regulation Number 892.2050
+Classification Product Code LLZ
+Date Received 02/13/2017
+Decision Date 02/23/2018
+510k Review Panel Radiology
+Further to the predicate device, ClariPi has identified the following currently marketed
+devices as reference predicate device of proposed ClariSIGMAM:
+Device Classification Name System, Image processing, Radiological
+510(k) Number K132742
+Device Name iReveal (formerly M-Vu Breast Density)Applicant iCAD, Inc. (formerly VuCOMP, Inc.)
+98 Spit Brook Road, Suite 100
+Nashua, NH 03062 USA
+Regulation Number 892.2050
+Classification Product Code LLZ
+Date Received 09/03/2013
+Decision Date 12/03/2013
+510k Review Panel Radiology
+IV. DEVICE DESCRIPTION
+ClariSIGMAM software is a standalone software application that automatically analyzes
+“for presentation” 2D digital mammograms to assess breast tissue composition.
+The software assesses the breast density of women and generates a breast density
+group information for the patient (BI-RADS A+B as fatty and BI-RADS C+D as dense) in
+accordance with the American College of Radiology’s Breast Imaging Reporting and Data
+System (BI-RADS) density classification scale.
+Output of breast density by ClariSIGMAM is designed to display on a mammography
+workstation or PACS as DIOCM mammography structured report or secondary capture.
+The reports are configured to provide the following data:
+• Breast area (cm2) for each breast
+• Fibroglandular tissue area (cm2) for each breast
+• Percent breast density for each breast
+• Breast density group information for the patient (BI-RADS A+B as fatty and BI-RADS C+D
+as dense)
+V. INDICATIONS FOR USE
+ClariSIGMAM is a software application intended for use with compatible full field digital
+mammography systems. ClariSIGMAM calculates percent breast density defined as the
+ratio of fibroglandular tissue to total breast area estimates. ClariSIGMAM uses this
+numerical value to provide breast density group information (BI-RADS A+B as fatty and BI-
+RADS C+D as dense) to aid interpreting physicians in the assessment of breast tissue
+composition. ClariSIGMAM produces adjunctive information. It is not a diagnostic aid.
+VI. SUBSTANTIAL EQUIVALENCE TABLE
+The subject device (ClariSIGMAM) is substantially equivalent to the predicate devices
+(K170540, DM-Density) which also calculate breast density as a ratio of fibro-glandular
+tissue and total breast area estimates. Both devices are not to be used as diagnostic aids,
+but to provide adjunctive information only. Users in both cases must be qualified medical
+practitioners and exercise their professional judgment when formulating diagnostic
+decisions and selecting appropriate treatment paths that are supported by breast density
+data. Both devices utilize standard DICOM communications protocol to receive Digital
+mammograms, processes them and automatically transfers the DICOM summary report to
+the picture archiving and communication system (PACS).
+K203785The difference lies in image source modalities and breast density category. The subject
+device is compatible and validated to certain Hologic and GE digital mammography
+systems whereas the predicate device (K170540) is compatible with Hologic Selenia
+Dimensions and Hologic Lorad Selenia the reference device (K132742) is compatible with
+all digital radiography (DR) systems and computer radiography (CR) systems. The
+predicate device reports four BI-RADS categories as the output of the device whereas the
+subject device reports dense (BI-RADS C+D) versus fatty (BI-RADS A+B). It has no effect
+on the safety or efficacy of the subject device and does not raise any potential safety risks,
+and the subject device is identical in performance to the legally marketed device.
+The following information compares the predicate devices and the subject device.
+Predicate Device- Reference Device -
+Subject Device –
+Item DM-Density M-Vu Breast Density
+ClariSIGMAM
+(K170540) (K132742)
+Intended ClariSIGMAM is a DM-Density is a M-Vu Breast Density is
+Use / software application software application a software application
+Indication intended for use with intended for use with intended for use with
+for Use compatible full field compatible full field digital mammography
+digital mammography digital mammography systems. M-Vu Breast
+systems. systems. DM-Density Density calculates
+ClariSIGMAM calculates percent breast density as a
+calculates percent breast density defined ratio of fibroglandular
+breast density defined as the ratio of tissue and total breast
+as the ratio of fibroglandular tissue to area estimates. M-Vu
+fibroglandular tissue to total breast area Breast Density
+total breast area estimates. DM-Density provides these
+estimates and provides these numerical values for
+provides breast numerical values for each breast as well as
+density group each breast as well as a density category to
+information (BI-RADS a density category to aid radiologists in the
+A+B as fatty and BI- aid interpreting assessment of breast
+RADS C+D as dense) physicians in the tissue composition. M-
+to aid radiologists in assessment of breast Vu Breast Density
+the assessment of tissue composition. produces adjunctive
+breast tissue DM-Density produces information, It is not an
+composition. adjunctive information. interpretive or
+ClariSIGMAM It is not a diagnostic diagnostic aid.
+produces adjunctive aid.
+information. It is not a
+diagnostic aid.
+Intended Interpreting Interpreting Physicians Interpreting Physicians
+User Physicians,
+Radiologists and
+Specialists
+Image GE Senograph 2000D Hologic Selenia All digital radiography
+Source GE Senograph DS Dimensions (DR) systems and
+Modalities GE Senographe Hologic Lorad Selenia computed radiography
+Pristina (CR) systems
+Hologic Selenia
+Dimensions
+Hologic Lorad Selenia
+Image DICOM digital DICOM full field digital DICOM digital
+K203785Predicate Device- Reference Device -
+Subject Device –
+Item DM-Density M-Vu Breast Density
+ClariSIGMAM
+(K170540) (K132742)
+Format mammography imager mammography imager mammography imager
+– For Presentation; – For Presentation; – For Processing;
+RCC, LCC, RMLO, RCC, LCC, RMLO, RCC, LCC, RMLO,
+LMLO LMLO LMLO
+Output For each breast: BI-RADS 4th Ed. For each breast:
+Data • Area of fibroglandular For each breast: • Area of fibroglandular
+tissue (cm²) • Area of fibroglandular tissue (cm²)
+• Area of breast (cm²) tissue (cm²) • Area of breast (cm²)
+• Area-based breast • Area of breast (cm²) • Area-based breast
+density (%) • Area-based breast density (%)
+For each patient: density (%) For each patient:
+For each patient: DM- VuCOMP density
+• Breast density group
+Density breast density grade/BIRADS breast
+information for the
+grade and percent density
+patient (BI-RADS
+breast density
+A+B as fatty and BI-
+RADS C+D as
+BI-RADS 5th Ed.
+dense)
+For each patient: DM-
+Density breast density
+grade
+VII. PERFORMANCE DATA
+Non-clinical performance testing has been performed on ClariSIGMAM, (the subject device)
+and demonstrates compliance with the following International and FDA-recognized consensus
+standards and FDA guidance document:
+• ISO 14971 Medical devices – Application of risk management to medical devices
+• NEMA-PS 3.1- PS 3.20 Digital Imaging and Communications in Medicine (DICOM)
+• Guidance for the Content of Premarket Submissions for Software Contained in Medical
+Devices issued May 11, 2005.
+• Design Considerations and Pre-market Submission Recommendations for Interoperable
+Medical Devices issued September 6, 2017.
+• The subject device, was tested in accordance with the internal Verification and Validation
+processes of ClariPi Inc. Verification and Validation tests have been performed to address
+intended use, the technological characteristics claims, requirement specifications, and the
+risk management results. Validation testing included:
+- ClariSIGMAM-generated breast density estimates on substantial data sets were
+compared with Gold Standard breast density estimates which were established by
+generating breast density measurements using an interactive thresholding software
+(Cumulus, Sunnybrook Health Sciences Centre, Toronto, ON, Canada) by expert
+radiologist.
+- Reproducibility for what is known to decrease breast density with age was evaluated by
+running ClariSIGMAM on a substantial data set.
+- Breast density estimates with ClariSIGMAM were made on a paired set of mammograms
+with a maximum imaging period of a one year apart in order to assess if ClariSIGMAM-
+generated breast density estimates were reproducible over time.
+- ClariSIGMAM was run over substantial data sets and the breast density estimates for left
+and right breasts were compared to confirm that the results are similar for each view.
+K203785- Comparison of breast density group information (BI-RADS A+B as fatty and BI-RADS
+C+D as dense) between experts’ visual assessment and automated assessment with
+ClariSIGMAM was assessed on reference standard dataset for BI-RADS breast density
+category that was established by a consensus visual assessment of expert readers
+according to BI-RADS 5th Edition.
+ClariSIGMAM results were compared to a consensus assessment from four expert readers’
+independent assessments of breast density category on a dataset that spanned all compatible
+FFDM systems. The results for the binary density task using are summarized below:
+● Confusion matrix for ClariSIGMAM and the reference standard on binary breast density
+task (BI-RADS A+B as fatty vs. BI-RADS C+D as dense).
+n=837; Kappa 0.734 [0.688, 0.781]
+Readers’ consensus
+Fatty Dense Accuracy
+Fatty 293 63 86.6%
+ClariSIGMAM Dense 45 436 87.3%
+Total 338 499
+The test results in this 510(k), demonstrate that ClariSIGMAM:
+• complies with the aforementioned international and FDA-recognized consensus standards
+and
+• FDA guidance document, and
+• Meets the acceptance criteria and is adequate for its intended use.
+Therefore, ClariSIGMAM, is substantially equivalent to the currently marketed predicate
+devices, in terms of safety and effectiveness.
+Clinical Testing:
+ClariSIGMAM does not require clinical studies to demonstrate substantial equivalence to the
+predicate devices.
+VIII CONCLUSIONS
+Verification and Validation activities required to establish safety and effectiveness of
+ClariSIGMAM, were performed. Testing involved system level tests, performance tests, and
+safety tests from risk analysis. These tests demonstrated the subject device meets pre-defined
+functionality requirements.
+The subject device and predicate devices are substantially equivalent in the areas of technical
+characteristics, general function, application, and intended use. Test results with the substantial
+datasets demonstrate that the subject device is as safe and effective as the predicate devices.
+Therefore the subject device is substantially equivalent to the predicate devices.
+K203785

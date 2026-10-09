@@ -1,0 +1,279 @@
+June 29, 2022
+Eko Devices, Inc.
+Sam Huang
+Director of Regulatory Affairs
+1212 Broadway, Suite 100
+Oakland, California 94612
+Re: K213794
+Trade/Device Name: Eko Murmur Analysis Software (EMAS)
+Regulation Number: 21 CFR 870.1875
+Regulation Name: Stethoscope
+Regulatory Class: Class II
+Product Code: DQD, DQC, DPS
+Dated: May 28, 2022
+Received: June 2, 2022
+Dear Sam Huang:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.gov2K 213794 - Sam Huang Page
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+LCDR Stephen Browning
+Assistant Director
+Division of Cardiac Electrophysiology, Diagnostics
+and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK213794K213794
+Page 1 of 6
+GENERAL INFORMATION
+Applicant:
+Eko Devices, Inc.
+1210 Broadway, Suite 100,
+Oakland, CA 94612
+Phone: 844-356-3384
+Contact Person:
+Sam Huang, Ph.D.
+Director of Regulatory Affairs
+Eko Devices, Inc.
+1210 Broadway, Suite 100,
+Oakland, CA 94612
+Date Prepared: Dec 03, 2021
+DEVICE INFORMATION
+Trade/Proprietary Name: Eko Murmur Analysis Software (EMAS)
+Regulation number: 21 CFR 870.1875
+Classification Name: Electronic Stethoscope
+Regulatory Class: Class II
+Product Code: DQD, DQC, DPS
+PREDICATE DEVICES
+CSD Labs GmbH, eMurmur ID (K181988)
+Eko Devices, Inc., Eko Analysis Software (K192004)
+DEVICE DESCRIPTION
+Eko Murmur Analysis Software (EMAS) is a cloud-based service that allows users to upload
+heart sound/phonocardiogram (PCG) and optional electrocardiogram (ECG) data via an
+application programming interface (API) for analysis. The software uses signal processing (such
+as waveform filtering), as well as algorithms derived from machine learning, to analyze the
+acquired data and generate clinical decision support output for clinicians.
+EMAS is designed to evaluate data derived by the company’s two previously cleared devices, the
+Eko DUO (K170874) and Eko CORE (K151319, K200776). The heart sound data from those
+devices can be transmitted to the Eko Cloud using either the Eko mobile application or third-
+party applications that use a software development kit (SDK). The EMAS algorithm analyzes
+the heart sound data and outputs a JSON file with the algorithm results, which is passed down to
+the requesting application and displayed by the requesting application to the user in the human-
+readable format.K213794
+Page 2 of 6
+The analysis will assess the signal quality of the phonocardiogram; detect heart murmurs and
+classify them as innocent or structural; determine the timing of S1 and S2 heart sounds; and
+distinguish between systolic and diastolic heart murmurs. As an integral part of a physical
+assessment, clinicians’ interpretations of EMAS’ output can help them rule in or out different
+pathological conditions in a patient.
+The EMAS consists of the following algorithm components:
+● Signal Quality Detection Algorithm:
+This pre-processing algorithm accepts as input the PCG sound from the API controller
+(e.g., a mobile smartphone application). The algorithm is used to classify PCG recordings
+based on their signal quality as good or poor.
+● Heart Sound Timing Algorithm:
+This algorithm detects the presence and timing of specific heart sounds including S1, S2,
+the systole region, and the diastole region.
+● Murmur Detection & Classification Algorithm:
+This algorithm is used to identify and classify heart sounds as having “No Murmur”, an
+“Innocent Murmur” (i.e., not pathologic), or a “Structural Murmur” (i.e., pathologic).
+● Murmur Timing Algorithm:
+This algorithm is used to identify in which regions of the heart cycle (systole vs diastole)
+a heart murmur occurs if either an “Innocent Murmur” or “Structural Murmur” is
+identified by the Murmur Detection and Classification Algorithm.
+INDICATIONS FOR USE
+The Eko Murmur Analysis Software is intended to provide decision support to clinicians in their
+evaluation of patients' heart sounds. The software analyzes heart sounds and phonocardiograms
+(and ECG signals, when available). The software will automatically detect murmurs that may be
+present, and the murmur timing and character, including S1, S2, innocent heart murmurs,
+structural heart murmurs, and the absence of a heart murmur.
+The Eko Murmur Analysis Software is not intended as a sole means of diagnosis and is for use in
+environments where health care is provided by clinicians. The interpretations of heart sounds
+offered by the software are meant only to provide decision support to the clinician, who may use
+the result in conjunction with their own evaluation and clinical judgment. The interpretations are
+not diagnoses. The Eko Murmur Analysis Software is intended for use on pediatric and adult
+patients.
+SUBSTANTIAL EQUIVALENCE
+Eko Murmur Analysis Software (EMAS) has the same intended use as the predicate devices for
+providing support to the physician in the evaluation of heart-related physiological data.
+Additionally, EMAS combines the indications of the predicate devices into a single product:
+algorithms to classify suspected murmurs as either innocent or structural, similar to that of the
+eMurmur ID; and algorithms that analyze heart sound data to identify the presence of suspected
+murmurs, similar to that of the Eko Analysis Software. Any differences in the Eko MurmurK213794
+Page 3 of 6
+Analysis Software’s indication statement, i.e., omission of certain outputs and compatible device
+information, do not alter the intended diagnostic effect of the device.
+Eko Murmur Analysis Software also has similar technological characteristics as the predicate
+devices in regard to it being a software-only analysis tool that analyzes and classifies heart sound
+data. EMAS’s new technological characteristics, i.e., proprietary analysis algorithms, could
+affect its safety or effectiveness, but do not raise any different questions of safety or
+effectiveness, because they analyze the same data (input) to determine the same parameters
+(output) as those of the predicate devices. The performance testing data shown in this
+application demonstrate that the Eko Murmur Analysis Software is as safe and as effective as the
+predicate device(s).
+A table comparing the key features of the subject and predicate devices is provided below.
+Table 1 Substantial Equivalence Summary Comparison
+Parameters Eko Murmur Analysis eMurmur ID Eko Analysis
+Software (Primary Predicate) Software
+(Secondary Predicate)
+FDA Number K213794 K181988 K192004
+Indications for The Eko Murmur Analysis The eMurmur ID software The Eko Analysis
+Use Software is intended to system is a decision Software is intended to
+provide decision support support device for the provide support to the
+to clinicians in their healthcare provider (the physician in the
+evaluation of patients' user) in the evaluation of evaluation of patients'
+heart sounds. The software patient heart sounds. heart sounds and
+analyzes heart sounds and eMurmur ID is used to ECG’s. The software
+phonocardiograms (and record, display, analyze, analyzes simultaneous
+ECG signals, when and store the acoustic ECG and heart sounds.
+available). The software signal of the heart, The software will
+will automatically detect recorded by means of an detect the presence of
+murmurs that may be electronic stethoscope. The suspected murmurs in
+present, and the murmur automated analysis will the heart sounds. The
+timing and character, identify specific heart software also detects
+including S1, S2, innocent sounds that may be present, the presence of atrial
+heart murmurs, structural including S1, S2, fibrillation and normal
+heart murmurs, and the physiological heart sinus rhythm from the
+absence of a heart murmurs, pathological ECG signal. In
+murmur. heart murmurs and absence addition, it calculates
+of a heart murmur. certain cardiac time
+The Eko Murmur Analysis intervals such as heart
+Software is not intended eMurmur ID is indicated rate, QRS duration and
+as a sole means of for use in a setting where EMAT. The software
+diagnosis and is for use in auscultation would does not distinguishK213794
+Page 4 of 6
+Parameters Eko Murmur Analysis eMurmur ID Eko Analysis
+Software (Primary Predicate) Software
+(Secondary Predicate)
+environments where typically be performed by a between different kinds
+health care is provided by healthcare provider. It is of murmurs and does
+clinicians. The not intended as a sole not identify other
+interpretations of heart means of diagnosis. The arrhythmias.
+sounds offered by the heart sound interpretations
+software are meant only to offered by eMurmur ID are It is not intended as a
+provide decision support only significant when sole means of
+to the clinician, who may considered in conjunction diagnosis. The
+use the result in with healthcare provider interpretations of heart
+conjunction with their over-read and including all sounds and ECG
+own evaluation and other relevant patient data. offered by the software
+clinical judgment. The are only significant
+interpretations are not when used in
+diagnoses. The Eko conjunction with
+Murmur Analysis physician over-read and
+Software is intended for is for use on adults (>
+use on pediatric and adult 18 years).
+patients.
+Patient Adult and pediatric Adult and pediatric patients Adult patients
+Population patients
+Device DQD, DQC, DPS DQD, DQC MWI, DQD, DPS
+Classification
+Prescribed Prescription Only Prescription Only Prescription Only
+Components Software Only Software Only Software Only
+Interface Callable application N/A (Self-contained Callable application
+programming interface software application) programming interface
+(API) (API)
+Display No primary display No primary display No primary display
+Murmur Yes Yes Yes
+Detection
+Murmur Yes Yes No
+ClassificationK213794
+Page 5 of 6
+PERFORMANCE DATA - NONCLINICAL TESTING SUMMARY
+The Eko Murmur Analysis Software was the subject of software verification and validation
+testing, consistent with the principles outlined in FDA’s General Principles of Software
+Validation; Final Guidance for Industry and FDA Staff issued May 11, 2005.
+PERFORMANCE DATA - CLINICAL TESTING SUMMARY
+The algorithms in this submission have been validated using retrospective analysis on a proprietary
+database. The database contains 2,380 unique heart sound recordings from 615 unique subjects.
+In the proprietary database, all heart sound recordings were collected using the Eko CORE (67.6%)
+or Eko DUO (32.4%) digital stethoscopes. The subject population was 42.6% female and had an
+age range of 0 to 95 years old, race was recorded in 45% of the subjects and out of that subset,
+98% were white, 1.5% were African American and 0.7% were Asian. No complications or adverse
+events were experienced during the use of the EMAS device.
+All recordings were annotated by multiple cardiologists in respect to their quality and the presence
+of any murmur. Of the recordings identified as being good signal by the expert cardiologists, 45.8%
+had a confirmed structural murmur and 54.2% had a confirmed no murmur or innocent murmur.
+Ground truth for murmur classification was obtained via pairing cardiologist annotations with gold
+standard echocardiogram. Additionally, 299 heart sound recordings were annotated by expert
+cardiologists to obtain the timing of the S1 and S2 sounds. Cardiologists were blinded to all subject
+demographic data and echocardiogram findings during annotation.
+No study subjects included in the training datasets were included in the test database. All
+algorithm testing was performed once the final EMAS version was locked.
+The following tables demonstrate the results of the primary performance analyses (Murmur
+Classification and Heart Sound Timing).
+Table 2 EMAS Murmur Classification Performance
+Sensitivity (%) Specificity (%)
+85.6 84.4
+Murmur Classification
+(95% CI: 82.6 - 88.7) (95% CI: 81.3 - 87.5)
+The lower bounds of the 95% confidence intervals of the primary predicate device are 72.9% and
+74.9% for sensitivity and specificity, respectively. Through clinical validation, the lower bound
+of EMAS’ calculated 95% confidence interval is found to be above 75.0%, thus demonstrating
+substantially equivalent performance (effectiveness) to the predicate device (eMurmur).K213794
+Page 6 of 6
+Table 3 EMAS Heart Sound Timing Performance
+Sensitivity (%) PPV (%)
+96.2 97.1
+S1 Detection
+(95% CI: 94.9 - 97.4) (95% CI: 96.3 - 98.0)
+Heart Sound
+Timing
+92.3 94.3
+S2 Detection
+(95% CI: 90.3 - 94.3) (95% CI: 93.4 - 95.1)
+Given the data described above, the EMAS algorithm testing shows substantially equivalent
+performance to the predicate devices where applicable. Based on the clinical performance, the
+Eko Murmur Analysis Software has a safety and effectiveness profile that is similar to the
+predicate devices.
+CONCLUSIONS
+The Eko Murmur Analysis Software is as safe and as effective as the predicate devices. The Eko
+Murmur Analysis Software has the same intended uses and similar indications, technological
+characteristics, and principles of operation as its primary predicate device. The minor
+differences in indications do not alter the intended diagnostic use of the device and do not raise
+different questions of safety and effectiveness when used as labeled. In addition, the minor
+technological differences between the Eko Murmur Analysis Software and its predicate devices
+raise no new issues of safety or effectiveness. Performance data demonstrate that the Eko
+Murmur Analysis Software is as safe and effective as the predicate devices. Thus, the Eko
+Murmur Analysis Software is substantially equivalent.

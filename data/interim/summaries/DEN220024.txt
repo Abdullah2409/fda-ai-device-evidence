@@ -1,0 +1,436 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+SCANNAV ANATOMY PERIPHERAL NERVE BLOCK
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Real-time ultrasound anatomy visualization and labeling device for ultrasound
+guided regional anesthesia. This device provides real-time interpretation and enhanced
+visualization of live ultrasound images by highlighting anatomical landmarks in
+preparation for performing regional anesthesia.
+NEW REGULATION NUMBER: 21 CFR 868.1980
+CLASSIFICATION: Class II
+PRODUCT CODE: QRG
+BACKGROUND
+DEVICE NAME: ScanNav Anatomy Peripheral Nerve Block
+SUBMISSION NUMBER: DEN220024
+DATE DE NOVO RECEIVED: April 25, 2022
+SPONSOR INFORMATION:
+Intelligent Ultrasound Limited
+114-116 St. Mary Street
+Hodge House, Floor 6a
+Glamorganshite, United Kingdom
+CF10 1DY
+INDICATIONS FOR USE
+ScanNav Anatomy Peripheral Nerve Block is indicated to assist qualified healthcare
+professionals to identify and label the below mentioned anatomy in live ultrasound
+images in preparation for ultrasound guided regional anesthesia prior to needle insertion
+for patients 18 years of age or older.
+The highlighting of structures in the following anatomical regions is supported:
+• Axillary level brachial plexus
+• Erector spinae plane
+• Interscalene level brachial plexus
+• Popliteal level sciatic nerve• Rectus sheath plane
+• Sub-sartorial femoral triangle / Adductor canal
+• Superior trunk of brachial plexus
+• Supraclavicular level brachial plexus
+• Longitudinal suprainguinal fascia iliaca plane
+ScanNav Anatomy Peripheral Nerve Block is an accessory to compatible general-purpose
+diagnostic ultrasound systems.
+LIMITATIONS
+The sale, distribution, and use of the ScanNav Peripheral Nerve Block are restricted to
+prescription use in accordance with 21 CFR 801.109.
+The device is not intended to be used as a stand-alone diagnostic device.
+The device should be used by qualified healthcare professionals with the skills and
+expertise to independently perform ultrasound guided regional anesthesia procedures.
+The device output does not reduce the operator’s responsibility for informed clinical
+judgement and best clinical procedure.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+ScanNav Anatomy Peripheral Nerve Block is a software medical device which assists
+anesthetists and other qualified healthcare professionals in the identification of
+anatomical structures within ultrasound images during ultrasound-guided regional
+anesthesia (UGRA) procedures by highlighting the relevant anatomical structures in real-
+time.
+Figure 1: The display screen with anatomical features highlighted
+De Novo Summary (DEN220024) Page 2 of 15Highlighting colors as follows:
+Arteries - Red
+Bones -Cyan
+Bowel -Brown
+Fascial planes - Orange
+Lung -Brown
+Muscles -Green
+Nerve -Yellow
+Pleural line -Purple
+The device performs the highlighting by using deep learning artificial intelligence
+technology based on convolutional neural networks (CNNs). These deep-learning models
+generate a colored overlay that allows the user to identify the specific anatomical
+structures of interest for the procedure. A separate monitor displays the highlighted
+images as an overlay on top of the ultrasound image, so the original view from the
+ultrasound machine is not affected. The deep learning models are locked, and they do not
+continue to learn in the field.
+The device interfaces with ultrasound machine with an external monitor output that meets
+the compatibility requirements. The ScanNav Anatomy Peripheral Nerve Block is run on
+a mobile computing platform (a commercial off the shelf panel PC) performing the
+processing with an integrated touchscreen monitor to display the user interface and
+anatomy highlighting
+The Software as a Medical Device is packaged with a tablet PC, power cable, compatible
+plug, and mounting bracket and instructions for mounting the tablet to the ultrasound
+host. This acts as a separate monitor to display the highlighted images as an overlay on
+top of the ultrasound image, so the original view from the ultrasound machine is not
+affected. The ScanNav Anatomy Peripheral Nerve Block system is composed of a
+De Novo Summary (DEN220024) Page 3 of 15software medical device and other non-medical devices such as a panel PC, power
+supply, an HDMI interface cable and a VESA mount as outlined in the figures below:
+Figure 2: ScanNav Anatomy Peripheral Nerve Block system connected to Ultrasound
+scanning machine
+Figure 3: High level workflow from block selection to ready to inject anesthetics
+Return to Hom~
+screen , .
+procedure Review
+usine Reference
+ultrasound material
+machine
+Rea.dy, 0
+oniec: ,
+De Novo Summary (DEN220024) Page 4 of 15SUMMARY OF NONCLINICAL/BENCH STUDIES
+ELECTROMAGNETIC CAPABILITY & ELECTRICAL SAFETY
+Electrical safety and electromagnetic compatibility testing has been performed per
+IEC 60601-1-12 Edition 1.1 2020-07 CONSOLIDATED VERSION
+Medical electrical equipment - Part 1-12: General requirements for basic safety and
+essential performance - Collateral Standard: Requirements for medical electrical
+equipment and medical electrical systems intended for use in the emergency medical
+services environment, and IEC 60601-1-2 Edition 4.1 2020-09 CONSOLIDATED
+VERSION Medical electrical equipment - Part 1-2: General requirements for basic safety
+and essential performance - Collateral Standard: Electromagnetic disturbances -
+Requirements and tests. The test results support electrical safety and electromagnetic
+compatibility.
+MAGNETIC RESONANCE (MR) COMPATIBILITY
+The subject device is considered MR Unsafe. Appropriate MR safety symbol is included
+in the labeling.
+SOFTWARE
+The ScanNav Anatomy Peripheral Nerve Block software documentation was reviewed
+according to the FDA Guidance document, Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices, issued May 11, 2005. The
+software was found to have a Major Level of Concern, because failure or latent flaw
+could directly result in death or serious injury to the patient prior to risk mitigation. The
+software documentation included management of cybersecurity and:
+1. Software Description
+2. Device Hazard Analysis
+3. Software Requirements Specification
+4. Architecture Design Chart
+5. Software Design Specification
+6. Traceability Analysis
+7. Software Development Environment Description
+8. Verification and Validation Documentation
+9. Revision Level History
+10. Unresolved Anomalies
+The software documentation provided in support of the ScanNav Anatomy Peripheral
+Nerve Block was found to be acceptable.
+HUMAN FACTORS TESTING
+De Novo Summary (DEN220024) Page 5 of 15Thirty (30) anesthesiologists participated in this summative usability validation st-udy
+starting on February 11, 2022, and completing on February 17, 2022. The study took
+-
+(b) (4) (b) (4)
+place in a simulated interventional procedural lab setting at in
+(b) (4) , USA.
+This study had two cohorts:
+• One cohort consisted of 15 Expert Anesthesiologists competent in independently
+performing UGRA.
+• One cohort consisted of 15 Trainee Anesthesiologists undergoing training for UGRA
+procedures
+All study participants completed the essential and critical tasks.
+The study participants completed the following three parts of the study:
+1. Performance-based use scenario tasks and associated root cause analysis (RCA),
+when needed
+2. Knowledge Task and Labeling Validation and associated root cause analysis
+(RCA), when needed
+3. Interview/subjective discussion
+The data obtained during the summative study were analyzed to determine whether any
+aspect of the final design of the UI were implicated or pointed out by test participants as a
+source of difficulties with use, close call, use error, or task failure. The analysis did not
+find any UI design issues that might impact the safe and effective use of the device. No
+issues were found that required reconsideration or major modification of the UI design.
+There were no patterns of use failures, confusion, or difficulties.
+SUMMARY OF CLINICAL INFORMATION
+(b) (4)
+Study was carried out over ■ days at Oregon Health & Science University (OHSU),
+Portland, USA in May 2021.
+Study Objective – To gather evidence on the clinical benefit of ScanNav Anatomy PNB
+for identification of anatomical structures during UGRA scanning, in particular:
+a. Assess the benefits of the device to intended users when supervising a trainee who
+is performing UGRA scanning.
+b. Assess the benefits of the device when intended users perform UGRA scanning.
+c. Assess risk mitigation by the intended users when performing UGRA scanning.
+Clinical Validation Study to assess Performance and predict Adverse Events:
+De Novo Summary (DEN220024) Page 6 of 15A single center, prospective validation study [IU2021_AG_07] in the US was conducted
+on 40 volunteers by the intended users for the specified 9 block regions. The aim of the
+study was to assess and quantify the correct/incorrect highlighting of anatomical
+structures associated with subject device during UGRA scanning. The Primary endpoint
+was Frequency of misidentification of structures [%of total, per anatomical region] with
+ScanNav Anatomy PNB highlighting. Secondary outcome measures were frequency of
+correct identification of structures, and frequency of non-identification of structures as
+well as frequency of safety issues and probable adverse events. Clinicians scanning were
+anesthesiologists competent to perform independent UGRA. Sonosite Xport and
+SonoSite PX were used. 10 second scene clips were taken prior to “optimum block”
+image acquisition. Eighty 10s scene clips were acquired and ten 10s non-scene clips were
+acquired as well for analyses.
+Post-hoc, device output of device was incorporated for each scene. Three expert
+anesthesiologists in UGRA viewed clips side by side to assess safety and performance of
+Anatomy PNB.
+Figure 4: Example review video of side-by-side captured ultrasound and Scan Nav
+Anatomy PNB
+Experts answered questions on performance of highlighting by device to determine TP,
+TN, FP, and FN, AEs [PONS, Pneumothorax, LAST, Block failure. Majority opinion
+[2/3] determined above rates.
+Nerve block procedures were not performed as part of the study, therefore the ability of
+the device to mitigate risks associated with adverse events are unknown.
+De Novo Summary (DEN220024) Page 7 of 15Using the following definitions below, performance was quantified for each block.
+Measure Answers Assessment Classification
+(2/3
+majority )
+TP (b) (4) (b) (4) Correct identification
+TN Not visible
+FP Mis-identification
+FN Non-identification
+Error Overall error
+Safety Issue Safety issue
+Adverse Event Adverse event
+Block failure Block failure
+De Novo Summary (DEN220024) Page 8 of 15(b) (4) (b) (4)
+Non-scenes Non-scene
+Primary Endpoint Analyses:
+Block- all views Exact FP Rate Percent
+(Misidentification)
+Axillary 0.003 0.3 %
+ESP 0.000 0%
+IS 0.013 1.3%
+Pop 0.006 0.6%
+RS 0.032 3.2%
+Adductor 0.000 0%
+ST 0.052 5.2%
+SC 0.008 0.8%
+SFIC 0.219 21.9%
+Secondary endpoint analyses:
+ScanNav Anatomy PNB highlighting
+a)Frequency of correct identification of structures (>=80% of total)
+Block- all views Exact Accuracy Rate Percent
+(TP+TN)
+Axillary 0.977 97.7%
+ESP 0.888 88.8%
+IS 0.941 94.1%
+Pop 0.981 98.1%
+RS 0.968 96.8%
+Adductor 0.904 90.4%
+ST 0.909 90.9%
+SC 0.983 98.3%
+SFIC 0.762 76.2%
+AEs Rate: A
+Adverse Event Rate
+De Novo Summary (DEN220024) Page 9 of 15The secondary endpoint was defined as:
+ScanNav Anatomy PNB Adverse Events: Frequency of highlighting risking an adverse event (<=5% of
+total)
+Block PONS risk LAST risk Pneumothorax Risk Peritoneum risk
+Axillary (b) (4) (b) (4) I n/a n/a
+IS n/a n/a n/a
+Pop I(b ) (4) I n/a n/a
+Add I I n/a n/a
+ST n/a n/a n/a
+SC n/a (b) (4) I n/a
+ESP n/a n/a I n/a
+RS n/a n/a n/a (b) (4) I
+SFIC n/a (b) (4) I n/a n/a
+The study did not include the nerve block procedure, and there is no actual data on the potential adverse
+events associated with the procedure
+Non-Scene analyses were as following:
+Risk of mistaking an incorrect view as a correct view Present
+Increased (b) (4)
+No change
+Reduced
+No Consensus
+Th-ey concluded that in 70% of the cases, the highlighting significantly reduces the risk of
+mistaking an incorrect site for the correct block where as incorrect highlighting increased the risk
+(b) (4)
+in
+HF Study Design
+To provide evidence for the clinical benefits of ScanNav Anatomy PNB, Intelligent
+Ultrasound ltd undertook a comprehensive prospective clinical study with 15 participants
+(experts in UGRA) and 15 trainees in Portland, United States. The 15 expert participants
+were all capable of independent clinical practice of UGRA, and therefore met the
+intended user definition.
+Participant Demographics
+Expert- All 15 expert participants deliver regular clinical care using UGRA, and 14- of
+participants are members of relevant professional society (e.g., ASA, ASRA, ESRA, RA-
+(b) (4)
+UK), and/or regularly teach UGRA. An impressive majority of participants (n=11,
+hold advanced further training in UGRA.
+De Novo Summary (DEN220024) Page 10 of 15-
+(b) (4)
+Trainee - Seven (n=7, ) trainees deliver regular clinical care using UGRA, and 13 of
+-trainees are members of relevant professional society (e.g., ASA, ASRA-, ESRA, RA-
+UK). Unsurprisingly, none of the trainees regularly teach UGRA. A few trainees (n=2,
+(b) (4) hold an advanced further training in UGR-A. Most trainees (n=11, (b) (4) ) deliver
+under ( ■ b) (4)b locks annually, with two (n=2, 1(b1) 1(41) trainees having no experience of any
+clinical PNB procedures. Most trainees (n=12,(b) (4) do not practice PNB independently.
+(b) (4)
+Of the trainees that have carried out PNB procedures, the majority ( )
+stated that they always use ultrasound guidance to perform PNB blocks.
+ScanNav Anatomy PNB performance was evaluated in the following manner:
+• ScanNav Anatomy PNB performance was assessed by study attendees on 2
+models, one of BMI <30 kg/m2, one of BMI =>30kg/m2. Both trainee and expert
+I
+(b) (4)
+attendees performed scans with and without the aid of the device, on each
+model.
+• A block evaluation questionnaire was issued to assess device accuracy and safety
+immediately after using the device in practice. The block evaluation questionnaire
+was designed to evaluate safety critical structures described in Section 3.16.
+Ultrasound scans performed during the study were recorded for later analysis.
+• Additional benefits were evaluated by assessing the ScanNav Anatomy PNB
+performance by an intended user supervising another healthcare professional
+(who is qualified to perform these procedures under supervision). These benefits
+were assessed using a questionnaire.
+• An expert panel independently evaluated ScanNav Anatomy PNB highlighting
+on the scans recorded from the study. These data were compared to the
+evaluations made by the attendees during the study.
+The study was designed to evaluate the use and benefits of the ScanNav Anatomy PNB
+device in a simulated clinical environment. The device was used by the study participants
+to perform several scans on two volunteer models, one with low BMI (<30kg/m2) and
+one with high BMI (>=30kg/m2), to ascertain the device’s performance, safety, benefits,
+and risks via a questionnaire.
+Following the data collection phase, recordings of the scans performed by participants
+were presented to a panel of three (3) independent experts. The scan data was displayed
+side-by-side with the corresponding device highlighting. The experts reviewed the
+entirety of each recorded scan and completed the same questionnaire as participants. The
+majority panel view of the device’s performance and safety profile for each scan was
+compared to the corresponding view of the expert participant.
+The primary endpoint for the study was:
+De Novo Summary (DEN220024) Page 11 of 15i. Device assists participants in obtaining the correct ultrasound view of the
+anatomy prior to needle insertion [majority view, at least 8/15 participants in
+agreement]
+The secondary endpoints were:
+i. ScanNav Anatomy PNB assists intended users in the identification of anatomical
+structures in
+adult patients, up to BMI 35 kg/m2 [majority view, at least 8/15 participants in
+agreement].
+ii. Device assists participants in supervision and training in anatomical structure
+identification for
+UGRA scanning [majority view, at least 8/15 participants in agreement]
+iii. Device improves operator confidence [majority view, at least 8/15 participants in
+agreement]
+Study Results
+The predefined primary endpoint was met, and the study data shows that ScanNav
+Anatomy PNB assisted 63% (19/30) of the study participants to obtain the correct
+ultrasound view.
+All predefined secondary endpoints were also met:
+a. ScanNav Anatomy PNB assisted 70% (21/30) of participants to identify the
+anatomical structures relevant to UGRA.
+b. ScanNav Anatomy PNB assisted 87% (13/15) of experts to supervise and train of
+trainees to identify anatomical structures relevant to UGRA procedures.
+c. ScanNav Anatomy PNB improved the confidence of 63% (19/30) of participants
+while scanning for UGRA.
+Pediatric Extrapolation
+ScanNav Anatomy Peripheral Nerve Block is indicated for patients age 18 and older. For
+medical devices, the FD&C Act defines patients before their 22nd birthday as pediatric
+patients. In this De Novo request, existing clinical data were not leveraged to support the
+use of the device in a pediatric patient population.
+LABELING
+ScanNav Anatomy Peripheral Nerve Block labeling consists of Instructions for Use that
+includes a detailed summary of the clinical evaluation. The Instructions for Use should
+also include appropriate warnings and cautions associated with potential over reliance on
+device output in clinical setting.
+De Novo Summary (DEN220024) Page 12 of 15Intended Users:
+Anatomy PNB is intended to be used by or under supervision of an anesthesiologist who
+is competent to perform UGRA independently:
+U.S. board-eligible/board-certified and licensed Medical Doctor meeting the following
+criteria:
+• Completed advanced training (e.g., fellowship) in or hold a qualification related to
+UGRA
+• Regularly delivers direct clinical care using UGRA, including for ‘awake’ surgery
+where indicated
+• Regularly teach UGRA in the course of their clinical work, including advanced
+techniques where indicated
+Training requirements for users:
+Users will not be provided any formal training on the use of the device. However, for the
+safe and effective use of the device, Anatomy PNB, shall be provided with the
+instructions for use, product overview video and the QuickStart guide.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of a real-
+time ultrasound anatomy visualization and labeling device for ultrasound guided regional
+anesthesia and the measures necessary to mitigate the risks
+Identified Risks to Health Mitigation Measures
+Adverse events due to inaccurate Clinical performance testing
+location identification for ultrasound Human factors testing
+guided procedures Software verification, validation, and hazard analysis
+Labeling
+Users without expertise operating the Labeling
+device leading to adverse events or
+ineffective procedure
+Procedure delay due to corruption in Clinical performance testing
+image transfer or software failure Software verification, validation, and hazard analysis
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the real-time ultrasound anatomy
+visualization and labeling device for ultrasound guided regional anesthesia is subject to the
+following special controls:
+De Novo Summary (DEN220024) Page 13 of 15(1) Clinical performance testing under anticipated conditions of use must evaluate the
+location accuracy of anatomical landmarks identified by the device.
+(2) Human factors testing must demonstrate that the user can correctly use the device to
+identify anatomical structures, based solely on reading the instructions for use.
+(3) Software verification, validation, and hazard analysis must be performed, including
+demonstrated compatibility with ultrasound devices labeled to be compatible with the
+device.
+(4) Labeling must include
+(i) The recommended training for safe use of the device;
+(ii) Pertinent details of the clinical data collected to evaluate the performance of the
+device; and
+(iii) A warning against over-reliance on device output.
+BENEFIT-RISK DETERMINATION
+The risks of the device are based on data collected in a clinical study and human factors
+study described above.
+1. Adverse events due to inaccurate location identification for nerve blocks (eg., local
+anesthesia systemic toxicity (LAST), perioperative neurologic syndrome (PONS),
+Pneumothorax, Peritoneal violation).
+2. Ineffective nerve blocks due to misinterpretation of anatomical structures by the device.
+3. Users without specific clinical expertise operating the device
+4. Ineffective nerve blocks and treatment delay due to corruption in image transfer
+The probable benefits of the device are also based on data collected in a clinical study as
+described above.
+The benefits are subjectively assessed and include:
+1. A 25% response consensus that device assisted or helped expert participants [intended
+users] when identifying the relevant anatomical structures per block while 5% hindered
+or made it harder to identify anatomical structures in this cohort.
+-
+2. A 70% reduction that device use mitigated risk of mistaking an incorrect view as a
+correct view while it increased the same by (b) (4)
+Patient Perspectives
+De Novo Summary (DEN220024) Page 14 of 15This submission did not include specific information on patient perspectives for this
+device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication
+statement:
+ScanNav Anatomy Peripheral Nerve Block is indicated to assist qualified healthcare
+professionals to identify and label the below mentioned anatomy in live ultrasound
+images in preparation for ultrasound guided regional anesthesia prior to needle insertion
+for patients 18 years of age or older.
+The highlighting of structures in the following anatomical regions is supported:
+• Axillary level brachial plexus
+• Erector spinae plane
+• Interscalene level brachial plexus
+• Popliteal level sciatic nerve
+• Rectus sheath plane
+• Sub-sartorial femoral triangle / Adductor canal
+• Superior trunk of brachial plexus
+• Supraclavicular level brachial plexus
+• Longitudinal suprainguinal fascia iliaca plane
+ScanNav Anatomy Peripheral Nerve Block is an accessory to compatible general-purpose
+diagnostic ultrasound systems.
+The probable benefits outweigh the probable risks for the ScanNav Anatomy Peripheral
+Nerve Block. The device provides benefits, and the risks can be mitigated by the use of
+general controls and the identified special controls.
+CONCLUSION
+The De Novo request for the ScanNav Anatomy Peripheral Nerve Block is granted and the
+device is classified as follows:
+Product Code: QRG
+Device Type: Real-time ultrasound anatomy visualization and labeling device for
+Ultrasound Guided Regional Anesthesia
+Regulation Number: 21 CFR 868.1980
+Class: II
+De Novo Summary (DEN220024) Page 15 of 15

@@ -1,0 +1,372 @@
+August 15, 2019
+Biofourmis Singapore Pte. Ltd
+℅ Rakesh Lal
+Consultant
+Rakesh Lal
+7 Courtyard Pl
+Lexington, Massachusetts 02420
+Re: K183282
+Trade/Device Name: Biovitals Analytics Engine
+Regulation Number: 21 CFR 870.2300
+Regulation Name: Cardiac Monitor (Including Cardiotachometer And Rate Alarm)
+Regulatory Class: Class II
+Product Code: PLB
+Dated: July 18, 2019
+Received: July 19, 2019
+Dear Rakesh Lal:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.06
+Silver Spring, MD 20993
+www.fda.govK183282 - Rakesh Lal Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Stephen Browning
+Acting Assistant Director
+Division of Cardiac Electrophysiology, Diagnostics
+and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosurePremarket Notification 510(k) Summary
+This summary of 510(k) safety and effectiveness information is submitted in accordance with the
+requirements of SMDA 1990 and 21 CFR 807.92.
+Applicant Information:
+Date Prepared: July 16, 2019
+Name: Biofourmis Singapore Pte. Ltd.
+Address: Vision Exchange, #07-15
+2 Venture Drive
+Singapore 608526
+Contact Person: Rakesh M. Lal, Consultant
+rakesh.m.lal@gmail.com
+Phone: (817) 734-8303
+Device Information:
+Trade Name: Biovitals Analytics Engine
+Common Names: BA Engine
+Classification Name(s): Cardiovascular
+Product Code/ Regulation: PLB/21 CFR 870.2300
+Classification: Class II
+Predicate Device:
+• PhysIQ PPA Engine – K142512
+Device Description:
+Biovitals Analytics Engine consists of:
+• An automated proprietary algorithm to analyze data and generate Biovitals Index.
+• A cloud-based database to store the input, intermedium output and the final output
+• A web application programming interface (API) which handle the continuous physiology
+data.
+• A web application programming interface (API) query the databases and get output.
+• A web dashboard to render the BA Engine output in a continuous graph format, which can
+help intended users to monitor a patient’s Biovitals Index.
+Biovitals Analytics Engine works in the following sequence:
+• Accept input data via secure API;
+• Analyze the input data using Biovitals Analytics Engine proprietary algorithm, which
+generate Biovitals Index:
+K183282 Page 1 of 7o Personal physiology signature data base initialization (at the early stage on the
+algorithm when the engine learns the patients and builds the personal baseline)
+o Biovitals Index calculation
+• Biovitals Analytics engine generates the Biovitals Index which is a time series scalar
+value from 0 to 1.
+• The output of BA Engine is stored in a cloud-based database.
+• The output API queries the databases and gets the output, and the output shall be
+reviewed by the qualified practitioner via a dashboard.
+Interpretation of Biovitals Index:
+The BA Engine computes a time series Biovitals Index (BI), which reflects changes in the patient’s
+measured vital signs from their measured baseline, which is derived from the individualized
+biometric signature of the patient. The BI is displayed in 30-minute segments and ranges from 0
+to 1. The BI is intended for daily intermittent, retrospective review by a qualified practitioner.
+A BI closer to 0 indicates that the relationships among the patient’s vital signs are similar to the
+baseline. A BI value closer to 1 indicates that the relationships among the patient’s vital signs are
+different from the baseline. The baseline is initially established using data from the first 24 hours
+and updated periodically as new data is received. The initial baseline comprises 3 to 13 hours of
+data and the updated baseline usually comprises the last 9 to 45 hours of data with low change in
+the relationship among the vital signs, depending on the monitoring duration.
+To aid in understanding the magnitude of changes in the relationship among the patient’s vital
+signs as compared to the baseline, the BI is divided into three categories. A BI less than or equal
+to 0.3 indicates that there has been little or no change in the relationship among the patient’s vital
+signs as compared to baseline. A BI value greater than 0.3 and less than or equal to 0.7 reflects
+moderate change, and a BI value greater than 0.7 reflects significant change in the relationship
+among the patient’s vital signs as compared to baseline.
+The expected within-subject variability for each of the three ranges of the BI are shown in the table
+below.
+BI Category Expected within-subject variability
+Low (BI ≤ 0.3) 0.11
+Moderate (0.3 < BI ≤ 0.27
+0.7)
+Significant (BI > 0.7) 0.17
+The expected within-subject variability was computed using data from a clinical study involving
+50 emergency department patients that were deemed appropriate for home monitoring.
+K183282 Page 2 of 7Indications for Use:
+The Biovitals Analytic Engine (BA Engine) is intended to be used with continuous biometric data
+from already cleared sensors measuring heart rate, respiratory rate, and activity in ambulatory
+patients being monitored in a healthcare facility or at home, during periods of minimal activity.
+The device learns the correlation between multiple vital signs during the patient’s daily activity
+and builds an individualized biometric signature which is dynamically updated based on incoming
+data. The device computes a time series Biovitals Index (BI), which reflects changes in the
+patient’s measured vital signs from their measured baseline, which is derived from the
+individualized biometric signature of the patient.
+The BA Engine is a cloud-based software engine, intended to be an adjunct to and is not intended
+to replace vital signs monitoring. The BI is intended for daily intermittent, retrospective review by
+a qualified practitioner. The BA Engine is intended to provide additional information for use
+during routine patient monitoring. The BI is not intended for making clinical decisions regarding
+patient treatment or for diagnostic purposes.
+The device is intended for an adult population.
+Summary Comparison to Predicate:
+The following tables provide a summary of substantial equivalence between the subject device and
+the cited predicate. The subject device has the same intended use and substantially equivalent
+characteristics that do not raise different questions of safety or effectiveness.
+Comparison to Predicate Device:
+The following table provides a comparison of the detection features of Biovitals Analytics
+Engine and the predicate device:
+Biofourmis PhysIQ
+Features Comparison
+Biovitals Analytics PPA Engine
+Engine (K142512)
+General Characteristics
+Classification Class II, 21 CFR 870.2300 Class II, 21 CFR 870.2300 Equivalent
+Product Code PLB PLB Equivalent
+Patient Monitor (without Patient Monitor (without
+Intended Use Equivalent
+alarms) alarms)
+The Biovitals Analytic The Personalized Equivalent – both devices
+Engine (BA Engine) is Physiology Engine (PPA are intended to provide an
+Indications for
+intended to be used with Engine) is intended to be index to a physician based
+Use continuous biometric data used with data from a patient’s on vital signs,
+from already cleared already cleared sensors to provide additional
+sensors measuring heart measuring physiological information during routine
+K183282 Page 3 of 7Biofourmis PhysIQ
+Features Comparison
+Biovitals Analytics PPA Engine
+Engine (K142512)
+rate, respiratory rate, and parameters, including patient monitoring.
+activity in ambulatory heart rate, respiratory rate, Neither device is intended
+patients being monitored and activity in ambulatory to replace vital signs
+in a healthcare facility or patients being monitored monitoring, nor is either
+at home, during periods of in a healthcare facility or device intended to provide
+minimal activity. The at home. The device a diagnosis to the
+device learns the provides a time series physician.
+correlation between Multivariate Change Index
+multiple vital signs during (MCI) which indicates
+the patient’s daily activity whether the relationships
+and builds an among the patient’s
+individualized biometric monitored vital signs
+signature which is change from those
+dynamically updated measured at baseline,
+based on incoming data. which has been derived
+The device computes a from measurements
+time series Biovitals Index previously obtained during
+(BI), which reflects routine activities of daily
+changes in the patient’s living. The MCI is based
+measured vital signs from on an integrated
+their measured baseline, computation evaluating
+which is derived from the changes in the parameters
+individualized biometric and their relationships to
+signature of the patient. each other.
+The PPA Engine is an
+adjunct to and is not
+The BA Engine is a cloud-
+intended to replace vital
+based software engine,
+signs monitoring. The
+intended to be an adjunct
+MCI is intended for daily
+to and is not intended to
+intermittent, retrospective
+replace vital signs
+review by a qualified
+monitoring. The BI is
+practitioner. The PPA
+intended for daily
+Engine is intended to
+intermittent, retrospective
+provide additional
+review by a qualified
+information for use during
+practitioner. The BA
+routine patient monitoring.
+Engine is intended to
+The MCI is not intended
+provide additional
+for making clinical
+information for use during
+decisions regarding patient
+routine patient monitoring.
+treatment or for diagnostic
+The BI is not intended for
+purposes.
+making clinical decisions
+regarding patient treatment
+or for diagnostic purposes.
+The device is intended for
+an adult population.
+K183282 Page 4 of 7Biofourmis PhysIQ
+Features Comparison
+Biovitals Analytics PPA Engine
+Engine (K142512)
+Patient
+Ambulatory | Non- Ambulatory | Non-
+Population & Equivalent
+pediatric pediatric
+Environment
+Technological Characteristics
+Equivalent – the only
+differences arise with
+regard to the specific
+implementation (software
+Cloud-based Software
+Components Software only architecture, programming
+only
+languages, etc.). These
+minor differences do not
+raise new questions of
+safety and effectiveness.
+Equivalent – while the
+specific combination of
+Index Non-linear combination of Non-linear combination of the index may be different,
+the general approach,
+Produced vital parameters vital parameters
+meaning of the index and
+use of baseline
+information are the same.
+Index represents how
+different the relationships
+Index represents how
+among the patient’s vital
+different the relationships
+signs are with respect to
+among the patient’s vital
+normality.
+signs are with respect to
+A BI less than or equal to normality. Equivalent – the devices
+0.3 indicates that there has have a different
+been little or no change in An MCI value closer to interpretation of the index
+the relationship among the zero (0) indicates that the specific to its software
+Index Meaning patient’s vital signs as monitored relationships implementation, but the
+compared to baseline. A among the vital signs are interpretation is
+BI value greater than 0.3 similar to the learned conceptually similar, and
+and less than or equal to baseline. An MCI value this difference does not
+0.7 reflects moderate closer to one (1) indicates raise new questions of
+that the patient’s safety and effectiveness.
+change, and a BI value
+monitored relationships
+greater than 0.7 reflects
+among the vital signs are
+significant change in the
+likely to be different from
+relationship among the
+the learned baseline.
+patient’s vital signs as
+compared to baseline.
+Normality is defined as the Equivalent – the subject
+Index
+patient’s own baseline. Normality is defined as the device’s baseline is
+Algorithm
+The baseline is initially patient’s own baseline periodically updated but
+Normality established using data still reflects the same
+from the first 24 hours and relationship among vital
+K183282 Page 5 of 7Biofourmis PhysIQ
+Features Comparison
+Biovitals Analytics PPA Engine
+Engine (K142512)
+updated periodically as signs as initially
+new data is received. established in the first 24
+hours. This difference does
+not raise new questions of
+safety and effectiveness.
+Equivalent – specific
+differences in the user
+Single numeric value of Single numeric value of
+interface do not raise
+latest index latest index
+different questions of
+Index Display
+safety and effectiveness.
+Trend graphs Trend graphs
+Table
+Equivalent – the subject
+device enables use of data
+captured directly from
+FDA cleared patient
+monitors. The predicate
+device also uses data from
+Vital Signs FDA cleared Patient Clinical Information FDA cleared devices but
+Monitors and Clinical obtains the data through
+Data Source Systems
+Information Systems integration with Clinical
+Information Systems.
+Since the actual sensor
+data is the same, this
+difference does not raise
+new questions of safety
+and effectiveness.
+Alarm System No No Equivalent
+Summary of Performance Testing
+Tests have been performed in compliance with the appropriate recognized consensus standards.
+Testing described in this 510(k) consisted of verification of all design input requirements and
+product specifications. No residual anomalies appeared during verification and software validation
+tests. General usability tests, analyzing the users’ ability to login, upload, review and download
+were performed and met all requirements. All software validation testing was completed
+successfully and met all requirements.
+Summary of Clinical Testing
+Clinical testing was performed with the BA Engine to evaluate the performance of the Biovitals
+Index. The testing was performed on a total of 50 subjects presenting at an Emergency Department,
+K183282 Page 6 of 7who were deemed appropriate for home monitoring, and compared the performance of the BI
+against a panel of three physicians evaluating the changes in the relationship among the patients’
+vital sign parameters. The testing showed that the BI was correlated to the changes in relationship
+among vital sign parameters, with a lower bound of the 95% confidence interval of the positive
+percent agreement (PPA) greater than 0.7.
+Software
+Biofourmis followed IEC 62304:2015 and the FDA Guidance Document, “General Principles of
+Software Validation; Final Guidance for Industry and FDA Staff” (January, 2002) with respect to
+software development and validation. The Biofourmis software is classified as a “moderate level
+of concern” per the FDA guidance document.
+Verification and validation testing were completed in compliance with the following
+standards and guidance documents:
+• AAMI ANSI IEC 62304:2015, Medical device software – Software life cycle processes
+• General Principles of Software Validation; Final Guidance for Industry and FDA Staff”
+(January 2002)
+• IEC 62366-1 Edition 1.0 2015-02 - Medical devices - Application of usability engineering
+to medical devices
+Conclusion
+Based upon the intended use, product technical information, clinical and non-clinical testing and
+standards compliance provided in this premarket notification, Biovitals Analytics Engine has been
+shown to be substantially equivalent to the legally-marketed predicate.
+K183282 Page 7 of 7

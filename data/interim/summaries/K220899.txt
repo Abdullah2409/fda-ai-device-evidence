@@ -1,0 +1,361 @@
+April 29, 2022
+Oxehealth Limited
+Iain Charlton
+Head of Engineered Compliance
+Magdalen Centre North, The Oxford Science Park
+Oxford, OX4 4GA
+United Kingdom
+Re: K220899
+Trade/Device Name: Oxehealth Vital Signs
+Regulation Number: 21 CFR 870.2785
+Regulation Name: Software For Optical Camera-Based Measurement Of Pulse Rate, Heart Rate,
+Breathing Rate, And/Or Respiratory Rate
+Regulatory Class: Class II
+Product Code: QME
+Dated: March 14, 2022
+Received: March 28, 2022
+Dear Iain Charlton:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.32
+Silver Spring, MD 20993
+www.fda.govK220899 - Iain Charlton Page 2
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+Jennifer Shih
+Assistant Director
+Division of Cardiac Electrophysiology,
+Diagnostics and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK220899
+510(k) SUMMARY
+K220899 Oxehealth’s modified Vital Signs software medical device
+Submitter’s Name, Address, Telephone Number, Contact Person and Date Prepared
+Submitter’s Name: Iain Charlton
+Address: Magdalen Centre North
+The Oxford Science Park
+Oxford
+OX4 4GA
+UK
+Phone: +44 1865 900599
+Facsimile: None
+Contact Person: Iain Charlton
+Date Prepared: March 14 2022
+Name of Device and Name/Address of Sponsor:
+Oxehealth Vital Signs
+Oxehealth Limited
+(Address as above)
+Common or Usual Name:
+Vital Signs
+Classification Name: QME, Software for optical camera-basedmeasurement of pulse rate, heart
+rate, breathing rate, and/or respiratory rate.
+Predicate Devices: Oxehealth Vital Signs version 1.47.0( K211906)
+Purpose of the Special 510(k) Notice:
+The Oxehealth Vital Signs medical device is a modification to Oxehealth Vital
+Signs version 1.47.0.
+Indications for Use: The modified Oxehealth VitalSigns is intended to be used for Non-invasive
+spot check measurements of pulse rate and breathing rate (chest wall
+movements).
+Page1of8K220899
+Themodified Oxehealth Vital Signsis indicated for use are as follows:
+“The Oxehealth Vital Signs device is intended for noninvasive spot
+measurement of pulse rate and estimated breathing rate (chest wall
+movements) when the subject is still. It is software assessing video footage
+from a fixed-installation solution for use within single occupancy rooms within
+hospitals, general care and secured environments with professional
+healthcare oversight and where a framework exists which mandates periodic
+checks by a trained professional to ensure subject safety.
+The Oxehealth system is intended for use by appropriately trained staff with a
+duty of care, and should not be used by untrained users.
+The Oxehealth Vital Signs device is indicated for use on humans 18 years of
+age or older who do not require critical care or continuous vital signs
+monitoring.
+The device is not intended to be the sole method of checking the physical
+health of a subject.”
+Device Description: The modified Oxehealth Vital Signsdevice uses custom-designed software to
+read data collected using off-the-shelf cameras. Data collected in this manner
+can be used to act as a non-contact monitor of pulse and breathing rates for
+individuals aged 18 and older in single-subject room environments. Video is
+collected through video cameras installed in each room. When run through
+proprietary software- controlled algorithms, the software will allow a user to
+make spot checks for pulse and breathing rates of the individual in the room.
+Validation testing has demonstrated that the algorithms show pulse and
+breathing rates that are statistically non-inferior when compared to
+conventional methods and technology that determine pulse and breathing
+rates.
+Consideration of Special Controls Guidance:
+The De Novo grant identified several special controls to be applied to
+products submitted under 21 CFR 870.2785. The following information
+assesses the special controls in light of the proposed modifications to the
+Oxehealth Vital Signs device.
+(1) A software description and the results of verification and validation testing
+based on a comprehensive hazard analysis and risk assessment must
+include:
+(i) A full characterization of the software technical parameters, including
+algorithms;
+(ii) If required image acquisition hardware is not included with the device, full
+specifications of the hardware requirements and testing to demonstrate the
+specified hardware ensures adequate data for validated and accurate
+measurements.
+Page2of8K220899
+(iii) A description of the expected impact of all applicable sensor acquisition
+hardware characteristics and associated hardware specifications;
+(iv) A description of all mitigations for user error or failure of any subsystem
+components (including signal detection, signal analysis, data display, and
+storage) on output accuracy; and
+(v) Software documentation must include a cybersecurity vulnerability and
+management process to assure software functionality.
+A complete set of software documentation, demonstrating that the software
+Special Controls are met, is described in section VIII (Software) of this
+submission and objective evidence appended in the identified attachments.
+(2) Clinical data must be provided. This assessment must fulfill the following:
+(i) The clinical data must be representative of the intended use population for
+the device. Any selection criteria or sample limitations must be fully described
+and justified.
+(ii) The assessment must demonstrate output consistency using the expected
+range of data sources and data quality encountered in the intended use
+population and environment.
+(iii) The assessment must compare device output with a clinically accurate
+patient-contacting relevant comparator device in an accurate and
+reproducible manner.
+Clinical evidence was supplied and reviewed in DEN200019. The proposed
+modifications discussed in this Special 510(k) submission do not affect any of
+the fundamental principles of operation or performance of the device in
+measuring pulse rate and estimating breathing rate (chest wall movements).
+In addition, the proposed change to use more than one installation of the
+hardware to apply the software device to two separate, non-overlapping
+areas of a single room is not intended to change the types of rooms or
+patients on which the device is used, with the camera installation intended to
+have the same general positioning and orientation requirements; at a high
+level, with a broad field of view of the area in the patient is expected to
+occupy. The original clinical evidence is still considered applicable now, no
+new clinical evidence is required, and this Special Control is met.
+(3) A human factors and usability engineering assessment must be provided
+that evaluates the risk of improper measurement.
+Human factors and usability engineering assessments were provided and
+reviewed in DEN200019. The proposed modifications discussed in this
+Special 510(k) submission do not affect the manner in which the modified
+Oxehealth Vital Signs device is interfaced with or used, with no new human
+factors or usability concerns introduced by the use of the software to observe
+separate, non-overlapping areas in the same room, therefore no new human
+factors testing is required, and this Special Control is met.
+(4) Labeling must include:
+Page3of8K220899
+(i) A description of what the device measures and outputs to the user;
+(ii) Warnings identifying sensor acquisition factors or subject conditions or
+characteristics (garment types/textures, motion, etc.) that may impact
+measurement results;
+(iii) Guidance for interpretation of the measurements, including a statement
+that the output is adjunctive to other physical vital sign parameters and
+patient information;
+(iv) The expected performance of the device for all intended use populations
+and environments; and
+(v) Robust instructions to ensure correct system setup. In addition, this is a
+prescription device and must comply with 21 CFR 801.109.
+Labeling complying with special controls are described in section V and the
+proposed instructions for use are provided in Attachment 01. Relevant
+information supporting the continued conformance with Special Controls are
+provided in more detail in Section V (labeling) and Section VIII (Software).
+The labelling changes identified in Section V (labeling). include minor
+changes in response to risk analysis of the change to accomodate
+installations that may focus on a single occupancy area of a larger physical
+room. Installation and installation qualification instructions are described in
+Attachment 21, the Vital Signs-INS-Installation Instructions. Relevant
+information supporting the continued conformance with Special Controls are
+provided in more detail in Section V (labeling) and Section VIII (Software).
+Technological Characteristics:
+The technical specifications for the modified Oxehealth Vital Signs device are
+as reviewed in DEN200019 and K211906; Oxehealth Vital Signs is a software
+only medical device, intended to run on standard, off the shelf computing
+hardware with an off the shelf video camera and infrared illuminator. The
+technological characteristics of the software are largely unchanged, with
+details provided in VIII (Software).
+Performance Data: As the modified Oxehealth VitalSigns device is solely software, performance
+testing is demonstrated through software validation. Therefore this Special
+510(k) notice is accompanied by software verification and validation testing
+described further below and provided in Attachment 05.
+The special controls document additionally requires clinical and human
+factors evidence to demonstrate the safety and effectiveness of the device.
+Oxehealth has assessed the changes that are proposed for implementation
+in the US; as none of them affect the algorithm or the functionality of the
+software, the evidence supplied in support of DEN200019 is still applicable
+and does not need to be repeated.
+Page4of8K220899
+Substantial Equivalence:
+The modified Oxehealth Vital Signs device has the same intended use and
+similar indications, principles of operation, and technological characteristics
+as Oxehealth Vital Signs version 1.47.0. The minor differences in the
+modified Oxehealth Vital Signs do not raise any new questions of safety or
+effectiveness as compared to the predicate. Thus, the modified Oxehealth
+Vital Signs device is substantially equivalent to its predicate device.
+Oxehealth Vital Signs Oxehealth Modified Device Equivalence
+Predicate
+Intended Use Non-invasive spot check Non-invasive spot check No change.
+measurements of pulse rate measurements of pulse rate
+and breathing rate (chest and breathing rate (chest
+wall movements). wall movements).
+Indications for The Oxehealth Vital Signs The Oxehealth Vital Signs No change.
+Use device is intended for device is intended for
+noninvasive spot noninvasive spot
+measurement of pulse rate measurement of pulse rate
+and estimated breathing rate and estimated breathing rate
+(chest wall movements) (chest wall movements)
+when the subject is still. It is when the subject is still. It is
+software assessing video software assessing video
+footage from a footage from a
+fixed-installation solution for fixed-installation solution for
+use within single occupancy use within single occupancy
+rooms within hospitals, rooms within hospitals,
+general care and secured general care and secured
+environments with environments with
+professional healthcare professional healthcare
+oversight and where a oversight and where a
+framework exists which framework exists which
+mandates periodic checks by mandates periodic checks by
+a trained professional to a trained professional to
+ensure subject safety. ensure subject safety.
+The Oxehealth system is The Oxehealth system is
+intended for use by intended for use by
+appropriately trained staff appropriately trained staff
+with a duty of care, and with a duty of care, and
+should not be used by should not be used by
+untrained users. untrained users.
+The Oxehealth Vital Signs The Oxehealth Vital Signs
+device is indicated for use on device is indicated for use on
+humans 18 years of age or humans 18 years of age or
+Page5of8K220899
+older who do not require older who do not require
+critical care or continuous critical care or continuous
+vital signs monitoring. vital signs monitoring.
+The device is not intended to The device is not intended to
+be the sole method of be the sole method of
+checking the physical health checking the physical health
+of a subject. of a subject.
+Population Adults not requiring critical Adults not requiring critical No change.
+care care
+Where used Single occupancy rooms Single occupancy areas Substantially equivalent.
+within within
+hospitals, general care and hospitals, general care and
+secured environments. secured environments.
+Single occupancy areas are
+intended to be set up as if
+they are small rooms,
+separated physically within
+larger rooms, with cameras
+continuing to be placed at
+high level and oriented to
+observe a wide area the
+patient may move around
+and rest in. Installation in
+rooms occupied by more
+than one patient is controlled
+by Oxehealth, ensuring that
+setup is as originally
+intended, and without
+occupied areas overlapping.
+Human Factors Operation of a software user Operation of a software user No change.
+interface. interface.
+Design Software medical device Software medical device No change.
+designed to extract signals designed to extract signals
+from video to and measure from video to and measure
+pulse rate and breathing rate pulse rate and breathing rate
+from a patient. from a patient.
+Software user interface Software user interface
+designed to allow users to designed to allow users to
+take a spot check take a spot check
+measurement of pulse rate measurement of pulse rate
+and breathing rate, and to and breathing rate, and to
+see previously obtained see previously obtained
+measurements. measurements.
+Page6of8K220899
+Performance Pulse rate measurement 50 Pulse rate measurement 50 No change.
+to 130 ± 3 beats per minute*, to 130 ± 3 beats per minute*,
+9 second measurement 9 second measurement
+window. window.
+Estimated breathing rate Estimated breathing rate
+(chest wall movements) (chest wall movements)
+measurement measurement
+8 to 31 ± 2 breaths per 8 to 31 ± 2 breaths per
+minute*, 30 second minute*, 30 second
+measurement window. measurement window.
+* Accuracy uses the RMSE * Accuracy uses the RMSE
+criterion criterion
+Pulse rate accuracy may be Pulse rate accuracy may be
+reduced when the subject reduced when the subject
+has a pulse rate greater than has a pulse rate greater than
+110 beats per minute. 110 beats per minute.
+User Interface Web-based user interface Web-based user interface No change.
+accessed by touch screen accessed by touch screen
+monitor or mobile device monitor or mobile device
+provided and installed by provided and installed by
+Oxehealth, exclusively Oxehealth, exclusively
+serving the Oxehealth serving the Oxehealth
+software. software.
+Compatibility Standard, off the shelf Standard, off the shelf No change.
+with Hardware – computers and mobile computers and mobile
+computing devices, specified and devices, specified and
+installed by Oxehealth, and installed by Oxehealth, and
+validated during installation. validated during installation.
+Newer makes and models
+included according to
+specified minimum
+performance requirements.
+Compatibility Standard, off the shelf Standard, off the shelf No change.
+with Hardware – machine vision camera and machine vision camera and
+camera & infrared illuminators, exact infrared illuminators, exact
+accessories specification determined by specification determined by
+Oxehealth and validated Oxehealth and validated
+during installation. during installation.
+Software C++ and Node.js; use of C++, Python and Node.js; Substantially equivalent.
+third party libraries. use of third party libraries.
+Conclusions: In summary, the company’s modified Oxehealthsystem has the same
+intended use as the previously cleared predicate device. In addition, the
+modified Oxehealth system has very similar technological characteristics,
+Page7of8K220899
+and principles of operation as its predicates. Although there are minor
+differences between the modified Oxehealth system and its predicate devices
+as described above, those differences do not raise new questions of safety or
+effectiveness as compared to the predicate. Thus, the modified Oxehealth system is
+substantially equivalent.
+Page8of8

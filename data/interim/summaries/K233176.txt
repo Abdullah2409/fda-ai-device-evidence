@@ -1,0 +1,609 @@
+December 20, 2023
+Shanghai United Imaging Healthcare Co., Ltd.
+Gao Xin
+Official Correspondent
+No.2258 Chengbei Road, Jiading District
+Shanghai, Shanghai 201807
+China
+Re: K233176
+Trade/Device Name: uOmnispace.MI
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: September 26, 2023
+Received: September 28, 2023
+Dear Gao Xin:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.06
+Silver Spring, MD 20993
+www.fda.govK233176 - Gao Xin Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D.
+Assistant Director
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureI
+DEPARTMENT OF HEAL TH AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+===================
+Submission Number (if known)
+k233176
+Device Name
+uOmnispace.MI
+I
+Indications for Use (Describe}
+uOmnispace.MI is a software solution intended to be used for viewing, processing, evaluating and
+analyzing of PET, CT, MR, SPECT images. It supports interpretation and evaluation of examinations
+within healthcare institutions. It has the following additional indications:
+■ uOmnispace.MI MM Fusion application is intended to provide tools for viewing, analyzing and
+reporting PET, CT, MR, SPECT data with its flexible workflow and optimized layout protocols for
+dedicated reporting purposes on oncology, neurology, cardiology.
+■ uOmnispace.MI MM Oncology application is intended to provide tools to display and analyze the
+follow-up PET, CT, MR data, with which users can do image registration, lesion segmentation, and
+statistical analysis.
+■ uOmnispace.MI Dynamic Analysis application is intended to display PET data and anatomical data
+such as CT or MR, and supports to do lesion segmentation and output associated time activity
+curve.
+■ uOmnispace.MI NeuroQ application is intended to analyze the brain PET scan, give quantitative
+results of the relative activity of different brain regions, and make comparison of activity of normal
+brain regions in AC database or between two studies from the same patient, as well as provide
+analysis of amyloid uptake levels in the brain.
+■ uOmnispace.MI Emory Cardiac Toolbox application is intended to provide cardiac short axis
+reconstruction, browsing function. And it also performs perfusion analysis, activity analysis and
+Tycpaer dofi aUcse f u(Snecletciot onn ea onra bloytsh,i sa so afp tphlieca bclae)r diac short axis.
+D
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+lZ]
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+''.An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+510 (k) SUMMARY
+K233176
+1. Date of Preparation:
+September 26, 2023
+2. Sponsor Identification
+Shanghai United Imaging Healthcare Co.,Ltd.
+No.2258 Chengbei Rd. Jiading District, 201807, Shanghai, China
+Establishment Registration Number: 3011015597
+Contact Person: Xin GAO
+Position: Regulatory Affairs Specialist
+Tel: +86-021-67076888-5386
+Fax: +86-021-67076889
+Email: xin.gao@united-imaging.com
+3. Identification of Proposed Device
+Trade Name: Medical Image Post-processing Software
+Common Name: Medical image management and processing system
+Model(s): uOmnispace.MI
+Regulatory Information
+Classification Name: Medical image management and processing system
+Classification: II
+Product Code: LLZ
+Regulation Number: 21 CFR 892.2050
+Review Panel: Radiology
+4. Identification of Predicate Device(s)
+Predicate Device
+510(k) Number: K192630
+Device Name: uWS-MI
+Reference Device#1
+510(k) Number: K173897
+Page 1 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Device Name: syngo.via MI Workflows
+Reference Device#2
+510(k) Number: K183170
+Device Name: uWS-CT
+5. Device Description
+The uOmnispace.MI is a post-processing software based on the uOmnispace platform
+(cleared in K230039) for viewing, manipulating, evaluating and analyzing PET, CT, MR,
+SPECT images, can run alone or with other advanced commercially cleared applications.
+This proposed device contains the following applications:
+ uOmnispace.MI MM Fusion
+ uOmnispace.MI MM Oncology
+ uOmnispace.MI Dynamic Analysis
+Additionally, uOmnispace.MI offers the users the options to run the following third-party
+applications in uOmnispace.MI:
+ uOmnispace.MI NeuroQ
+ uOmnispace.MI Emory Cardiac Toolbox
+6. Indications for use
+uOmnispace.MI is a software solution intended to be used for viewing, processing,
+evaluating and analyzing of PET, CT, MR, SPECT images. It supports interpretation and
+evaluation of examinations within healthcare institutions. It has the following additional
+indications:
+ uOmnispace.MI MM Fusion is intended to provide tools for viewing, analyzing and
+reporting PET, CT, MR, SPECT data with its flexible workflow and optimized layout
+protocols for dedicated reporting purposes on oncology, neurology, and cardiology.
+ uOmnispace.MI MM Oncology application is intended to provide tools to display and
+analyze the follow-up PET, CT, and MR data, with which users can do image
+registration, lesion segmentation, and statistical analysis.
+ uOmnispace.MI Dynamic Analysis application is intended to display PET data and
+anatomical data such as CT or MR, and supports to do lesion segmentation and output
+associated time activity curve.
+ uOmnispace.MI NeuroQ application is intended to analyze the brain PET scan, give
+quantitative results of the relative activity of different brain regions, and make
+comparison of activity of normal brain regions in AC database or between two studies
+from the same patient, as well as provide analysis of amyloid uptake levels in the brain.
+Page 2 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+ uOmnispace.MI Emory Cardiac Toolbox application is intended to provide cardiac
+short axis reconstruction, browsing function. And it also performs perfusion analysis,
+activity analysis and cardiac function analysis of the cardiac short axis.
+7. Summary of Technological Characteristics
+The technology characteristics of the uOmnispace.MI, reflected in this 510(k) submission
+are substantially equivalent to those of the predicate devices.
+The following tables compare the features, principles of operation, fundamental scientific
+technology and intended use of uOmnispace.MI when compared to the predicate devices.
+Page 3 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Table 1 Substantial equivalent discussion for basic functions
+Item Proposed Device Predicate Device Remark
+uOmnispace.MI uWS-MI (K192630)
+General
+Device Classification Medical image management and processing Medical image management and processing Same
+Name system system
+Same
+Product Code LLZ LLZ
+Regulation Number 21 CFR 892.2050 21 CFR 892.2050 Same
+Device Class II II Same
+Classification Panel Radiology Radiology Same
+Advanced
+Yes Yes Same
+Application
+uOmnispace.MI is a software solution intended to uWS-MI is a software solution intended to be used
+be used for viewing, processing, evaluating and for viewing, manipulation, communication, and
+analyzing of PET, CT, MR, SPECT images. It storage of medical images. It supports The indication for use of the
+supports interpretation and evaluation of interpretation and evaluation of examinations proposed device is expanded
+examinations within healthcare institutions. It has within healthcare institutions. It has the following and replenished. The proposed
+the following additional indications: additional indications: device includes more
+uOmnispace.MI MM Fusion application is intended The Oncology application is intended to provide applications and functions,
+Indications for use
+to provide tools for viewing, analyzing and tools to display and analyze the follow-up which are discussed in the
+reporting PET, CT, MR, SPECT data with its PET/CT data, with which users can do image following chapters. The
+flexible workflow and optimized layout protocols registration, lesion segmentation, and statistical difference will not impact the
+for dedicated reporting purposes on oncology, analysis. safety and effectiveness of the
+neurology, cardiology. device.
+The Dynamic Analysis application is intended to
+uOmnispace.MI The MM Oncology application is display PET data and anatomical data such as CT
+intended to provide tools to display and analyze the or MR, and supports to do lesion segmentation
+Page 4 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Item Proposed Device Predicate Device Remark
+uOmnispace.MI uWS-MI (K192630)
+follow-up PET, CT, MR data, with which users can and output associated time-activity curve.
+do image registration, lesion segmentation, and
+NeuroQ application is intended to analyze the
+statistical analysis.
+brain PET scan, give quantitative results of the
+uOmnispace.MI Dynamic Analysis application is relative activity of 240 different brain regions, and
+intended to display PET data and anatomical data make comparison of activity of normal brain
+such as CT or MR, and supports to do lesion regions in AC database or between two studies
+segmentation and output associated time activity from the same patient, as well as provide analysis
+curve. of amyloid uptake levels in the brain.
+uOmnispace.MI NeuroQ application is intended to Emory Cardiac Toolbox application is intended to
+analyze the brain PET scan, give quantitative results provide cardiac short axis reconstruction,
+of the relative activity of different brain regions, and browsing function. And it also performs perfusion
+make comparison of activity of normal brain analysis, activity analysis and cardiac function
+regions in AC database or between two studies from analysis of the cardiac short axis.
+the same patient, as well as provide analysis of
+amyloid uptake levels in the brain.
+uOmnispace.MI Emory Cardiac Toolbox
+application is intended to provide cardiac short axis
+reconstruction, browsing function. And it also
+performs perfusion analysis, activity analysis and
+cardiac function analysis of the cardiac short axis.
+Table 2 Substantial equivalent discussion for MM Fusion
+Application Function name Proposed device Predicate Reference Remark
+uOmnispace.MI device device#2:
+Page 5 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+uWS-MI uWS-CT
+(K192630) (K183170)
+MM Fusion Image Fusion Yes Yes / Same
+Study Comparison Yes Yes / Same
+3D Visualization Yes Yes / Same
+Manual Registration Yes Yes / Same
+Registration Dot Registration Yes Yes / Same
+Auto Registration Yes Yes / Same
+Default Layout and Customized Layout Yes Yes / Functional Substantial Equivalent
+Note1
+Position Correction Yes Yes / Same
+Fix threshold segmentation Yes Yes / Same
+Percentage threshold Yes Yes / Same
+Lesion
+segmentation
+Segmentation
+Adaptive threshold Yes Yes / Same
+segmentation
+CT Liver Segmentation Yes / Yes Same
+CT Lung Segmentation Yes / Yes Same
+Yes / Yes Functional Substantially Equivalent
+Rib Labeling
+Note 2
+Yes / Yes Functional Substantially Equivalent
+Spine Labeling
+Note 3
+Save/Film/Report Yes Yes / Same
+Page 6 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Table 3 Substantial equivalent discussion for MM Oncology
+Application Function name Proposed device Predicate Reference Reference Remark
+uOmnispace.MI device device#2: device#3:
+uWS-MI uWS-CT syngo.via MI
+(K192630) (K183170) Workflows
+(K173897)
+MM Manual Registration Yes Yes / / Same
+Registration
+Oncology Auto Registration Yes Yes / / Same
+One-Step Evaluation Yes Yes / / Same
+Fix threshold Yes Yes / / Same
+segmentation
+Percentage threshold Yes Yes / / Same
+segmentation
+Adaptive threshold Yes Yes / / Same
+Lesion segmentation
+Segmentation Lung nodule Yes Yes / / Same
+segmentation
+Liver tumor Yes Yes / / Same
+segmentation
+Lymph node Yes Yes / / Same
+segmentation
+Spread Yes Yes / / Same
+CT liver Segmentation Yes / Yes / Same
+CT lung Segmentation Yes / Yes / Same
+Yes / Yes / Functional Substantial
+Rib Labeling Equivalent.
+Note 4
+Yes / Yes / Functional Substantial
+Spine Labeling
+Equivalent.
+Page 7 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Note 5
+Statistical Analysis Yes Yes / / Same
+Reference VOI Yes Yes / / Same
+PERCIST Yes Yes / / Same
+Response RECIST1.0 Yes Yes / / Same
+Assessment RECIST1.1 Yes / Yes / Same
+Deauville Score Yes / / Yes Same
+Save Yes Yes / / Same
+Table 4 Substantial equivalent discussion for Dynamic Analysis
+Application Function name Proposed device Predicate device Remark
+uOmnispace.MI uWS-MI (K192630)
+Dynamic Analysis Automatic cine Yes Yes Same
+ROI Drawing Yes Yes Same
+Data Recombination Yes Yes Same
+Curve Analysis Yes Yes Same
+Table Quantization Statistics Yes Yes Same
+Save Yes Yes Same
+Print (Filming) Yes Yes Same
+Manual Registration Yes Yes Same
+Registration Dot Registration Yes Yes Same
+Auto Registration Yes Yes Same
+Fix threshold segmentation Yes Yes Same
+Percentage threshold Yes Yes Same
+Lesion
+segmentation
+Segmentation
+Adaptive threshold Yes Yes Same
+segmentation
+Page 8 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Note 1: Compared to predicate device, the proposed device optimizes image layout that adds more default layout and adjusts the interaction of
+customized layout. This difference between the proposed device and the reference device doesn’t impact the safety and effectiveness of the
+subject device.
+Note 2: Compared to predicate device, the proposed device optimizes a new algorithm based on deep learning. This algorithm supports the same
+function as uWS-CT (K183170 cleared). This difference between the proposed device and the reference device doesn’t impact the safety and
+effectiveness of the subject device.
+Note 3: Compared to predicate device, the proposed device optimizes a new algorithm based on deep learning. This algorithm supports the same
+function as uWS-CT (K183170 cleared). This difference between the proposed device and the reference device doesn’t impact the safety and
+effectiveness of the subject device.
+Note 4: Compared to predicate device, the proposed device optimizes a new algorithm based on deep learning. This algorithm supports the same
+function as uWS-CT (K183170 cleared). This difference between the proposed device and the reference device doesn’t impact the safety and
+effectiveness of the subject device.
+Note 5: Compared to predicate device, the proposed device optimizes a new algorithm based on deep learning This algorithm supports the same
+function as uWS-CT (K183170 cleared). This difference between the proposed device and the reference device doesn’t impact the safety and
+effectiveness of the subject device.
+Page 9 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+8. Performance Data
+The following performance data were provided in support of the substantial
+equivalence determination.
+Biocompatibility
+Not Applicable to the proposed device, because the device is stand-alone software.
+Electrical Safety and Electromagnetic Compatibility (EMC)
+Not Applicable to the proposed device, because the device is stand-alone software.
+Software Verification and Validation
+Software verification and validation testing was provided to demonstrate safety and
+efficacy of the proposed device. This includes a hazard analysis, and the potential
+hazards have been classified as a moderate level of concern (LOC). Those
+documentations include:
+• Software Description
+• Device Hazard Analysis
+• Software Requirements Specification (SRS)
+• Software Architecture Design Chart
+• Software Development Environment Description
+• Software Verification and Validation
+• Cybersecurity Documents
+Animal Study
+No animal study was required.
+Clinical Studies
+No clinical study was required.
+Performance Verification
+ Design of the performance verification test
+The identification rate is a commonly used evaluation metric to evaluate the
+labelling performance [1-3], which is defined as the ratio of correctly identified
+vertebrae/rib to the total number of vertebrae/rib.
+As for spine labeling, the mean identification rate of the five top-performing
+algorithms are 83.3% [2]. For rib labeling, the mean identification rate (label-
+accuracy) of a SOTA algorithm is 91.5% [3]. If the proposed device algorithm can
+Page 10 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+achieve comparable performance, it is considered that the proposed device algorithm
+meets the clinical requirements.
+We set a 5-point scoring criteria, and the acceptance criteria was that the average
+score of the proposed device results is higher than 4 points. 4 points is equivalent to
+the mean identification rate of spine labeling is greater than 92% (>83.3%, correctly
+labeled vertebrae number ≥23, total vertebrae number=25, 23/25=92%), and the
+mean identification rate of rib labeling is greater than 91.7%(>91.5% ，correctly
+labeled rib number ≥22, total rib number=24, 22/24≈91.7%). So, the setting of
+evaluation criteria in this way can meet clinical requirements.
+Moreover, scoring according to the number of incorrect label is a common way to
+evaluate the labeling algorithm [1]. The number of incorrect label is directly related
+to the extra workload of the doctor, e.g. manual correction. While the purpose of the
+labeling algorithm is to improve the work efficiency of doctors, a more intuitive way
+is to score according to the number of errors in automatic label
+To validate the uOmnispace.MI software from a clinical perspective, the deep
+learning-based spine labeling algorithm and rib labeling algorithm contained in the
+product underwent a scientific evaluation. The validation results for the proposed
+device demonstrated the good performance, the robustness and good generalization
+ability among different subgroups.
+1. Spine labeling Algorithm
+The performance testing for deep learning-based spine labeling algorithm was
+performed on 286 CT scans (data shown in Table 8-2) during the product development.
+ Acceptance Criteria
+The validation type and acceptance criteria is shown in the Table 8-1 below:
+Table 8-1. Validation type and acceptance criteria
+Validation Type Acceptance Criteria
+Score based on gold standard The average score of the proposed device
+results is higher than 4 points.
+ Testing Data Information
+1) Equipments and Protocols
+CT data were acquired with different multidetector (16, 64, 160, 256, 320-slice) CT
+scanners from five major manufacturers (GE, Phillips, Siemens, Toshiba, UIH), and
+with tube voltage of 110 - 140 kVp, tube current of 275-1000mA, slice thickness of
+0.625-2.0 mm, in-plane spacing of 0.656 - 1.172 mm.
+2) Sample Size
+Dataset Patients Number Samples Number
+Testing Dataset 267 286
+Page 11 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+(Note: One patient may have multiple samples, because of the differences in
+scanning protocols, such as slice thickness, in-plane spacing)
+3) Clinical Subgroup Information
+The testing data information is summarized below.
+Table 8-2. Testing data information
+Information of data 286 spine CTs
+Gender Male: 68
+Female: 55
+Unknown: 163
+Age (10, 25]: 4
+(25, 40]: 16
+(40, 60]: 45
+(60, 75]: 47
+(75, 100]: 14
+Unknown: 160
+Ethnicity Asian(Chinese) data: 106
+European data: 160
+The United States data: 20
+ Performance Testing Summary
+For testing dataset, the average score of the proposed device results to be validated is
+4.951 points and greater than 4 points. Meanwhile, the subgroup analysis shows that
+(Table 8-3) the proposed device algorithm has good generalization in different
+subgroups.
+Table 8-3. Subgroup performance test
+Age Average score of the proposed device
+(10, 25] 5.000
+(25, 40] 5.000
+(40, 60] 5.000
+(60, 75] 5.000
+(75, 100] 5.000
+Unknown 4.914
+Gender Average score of the proposed device
+Female 5.000
+Male 5.000
+Unknown 4.913
+Ethnicity Average score of the proposed device
+Asian(Chinese) data 5.000
+European data 4.913
+The United States data 5.000
+ Standard Annotation Process
+Page 12 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+For ground truth annotations, all ground truth are annotated by well-trained annotators.
+The annotators use an interactive tool to observe the image, and then set annotation
+points near the center of vertebral body and assign anatomical labels. Finally, a senior
+clinical specialist will check and modify annotations to make sure the ground truth
+correct.
+ Testing & Training Data Independence
+The training data used for the training of the spine labeling algorithm is independent
+of the data used to test the algorithm.
+Confounders
+There are no confounders exist for the training methodology.
+2. Rib labeling Algorithm
+The performance testing for deep learning-based rib labeling algorithm was performed
+on 160 CT scans (data shown in Table 8-6) during the product development.
+ Acceptance Criteria
+The validation type and acceptance criteria is shown in the Table 8-4 below:
+Table8-4. Validation type and acceptance criteria
+Validation Type Acceptance Criteria
+Score based on gold standard The average score of the proposed device
+results is higher than 4 points.
+ Testing Data Information
+1) Equipments and Protocols
+CT data were acquired with different multidetector (16, 64, 160, 256, 320-slice) CT
+scanners from five major manufacturers (GE, Phillips, Siemens, Toshiba, UIH), and
+with tube voltage of 100-140 kVp, tube current of 275-1000 mA, slice thickness of
+0.625-3.0 mm, in-plane spacing of 0.531-1.955 mm.
+2) Sample Size
+Table 8-5. Sample size information of testing data
+Dataset Patients Number Samples Number
+Testing Dataset 156 160
+(Note: One patient may have multiple samples, because of the differences in scanning
+protocols, such as slice thickness, in-plane spacing.)
+3) Clinical subgroups
+The clinical subgroups information of the testing data is summarized below.
+Table 8-6. Testing data information
+Information of data 160 CTs
+Gender Male: 110
+Female: 39
+Page 13 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Unknown: 11
+Age (10, 25]: 2
+(25, 40]: 14
+(40, 60]: 51
+(60, 75]: 69
+(75, 100]: 24
+Ethnicity Asian(Chinese) data: 80
+The United States data: 80
+ Performance Testing Summary
+For the testing dataset, the average score of the proposed device results to be validated
+is 5 points and greater than 4 points. Meanwhile, the subgroup analysis shows that
+(Table 8-12) the proposed device algorithm has good generalization in different
+subgroups.
+Table 8-7. Subgroup performance test
+Age Average score of the proposed device
+(10, 25] 5.00
+(25, 40] 5.00
+(40, 60] 5.00
+(60, 75] 5.00
+(75, 100] 5.00
+Gender Average score of the proposed device
+Female 5.00
+Male 5.00
+Unknown 5.00
+Ethnicity Average score of the proposed device
+Asian(Chinese) data 5.00
+The United States data 5.00
+ Standard Annotation Process
+For ground truth annotations, all ground truth are annotated by well-trained annotators.
+A threshold based interactive tool is used to generate initial rib mask, then annotators
+will refine the rib mask and assign anatomical labels. After the first round annotation,
+they will check each other’s annotation. At last, a senior clinical specialist will check
+and modify annotations to make sure the ground truth correct.
+ Testing & Training Data Independence
+The training data used for the training of the rib labeling algorithm is independent of
+the data used to test the algorithm.
+Confounders
+There are no confounders exist for the training methodology.
+References:
+Page 14 of 15Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+[1]Major, David , et al. "Automated landmarking and labeling of fully and partially scanned
+spinal columns in CT images." Medical Image Analysis 17.8(2013):1151-1163.
+[2]C, Anjany Sekuboyina A B , et al. "VerSe : A Vertebrae Labelling and Segmentation Benchmark
+for Multi-detector CT Images." Medical Image Analysis (2021).
+[3]Jin L, Gu S, Wei D, et al. "RibSeg v2: A Large-scale Benchmark for Rib Labeling and
+Anatomical Centerline Extraction". IEEE Transactions on Medical Imaging, 2023. DOI:
+10.1109/TMI.2023.3313627.
+Other Standards and Guidance
+ NEMA PS 3.1 - 3.20 Digital Imaging and Communications in Medicine
+(DICOM) Set (2016).
+ ISO 14971 Medical devices - Application of risk management to medical
+devices (Edition 2.0, corrected version, 2007).
+ IEC 62304 Medical device software - Software life cycle processes (Edition 1.1,
+2015).
+Summary
+The features described in this premarket submission are supported with the results of
+the testing mentioned above; the uOmnispace.MI was found to have a safety and
+effectiveness profile that is similar to the predicate device and reference devices.
+9. Substantially Equivalent (SE) Conclusion
+The proposed device is equivalent to the predicate device with regard to safety and
+efficacy. This conclusion is based upon a comparison of intended use, technological
+characteristics, performance specification, device hazards as well as verification and
+validation results.
+In summary, the proposed device is determined to be Substantially Equivalent (SE) to
+the predicate device and reference devices.
+Page 15 of 15

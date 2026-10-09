@@ -1,0 +1,443 @@
+December 19, 2025
+HeartLung Corporation
+Mark Scott
+Official Applicant
+2450 Holcombe Blvd
+Houston, Texas 77021
+Re: K252029
+Trade/Device Name: AI-CVD®
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH, KGI
+Dated: November 24, 2025
+Received: November 24, 2025
+Dear Mark Scott:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.08.02
+Silver Spring, MD 20993
+www.fda.govK252029 - Mark Scott Page 2
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K252029 - Mark Scott Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director, Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K252029
+Device Name
+AI-CVD®
+Indications for Use (Describe)
+AI-CVD® is an opportunistic AI-powered quantitative imaging tool that provides automated CT-derived anatomical and
+density-based measurements for clinician review. The device does not provide diagnostic interpretation or risk prediction.
+It is solely intended to aid physicians and other healthcare providers in determining whether additional diagnostic tests are
+appropriate for implementing preventive healthcare plans. AI-CVD® has a modular structure where each module is
+intended to report quantitative imaging measurements for each specific component of the CT scan. AI-CVD® quantitative
+imaging measurement modules include coronary artery calcium (CAC) score, aortic wall calcium score, aortic valve
+calcium score, mitral valve calcium score, cardiac chambers volumetry, epicardial fat volumetry, aorta and pulmonary
+artery sizing, lung density, liver density, bone mineral density, and muscle & fat composition.
+Using AI-CVD® quantitative imaging measurements and their clinical evaluation, healthcare providers can investigate
+patients who are unaware of their risk of coronary heart disease, heart failure, atrial fibrillation, stroke, osteoporosis, liver
+steatosis, diabetes, and other adverse health conditions that may warrant additional risk assessment, monitoring or follow-
+up. AI-CVD® quantitative imaging measurements are to be reviewed by radiologists or other medical professionals and
+should only be used by healthcare providers in conjunction with clinical evaluation.
+AI-CVD® is not intended to rule out the risk of cardiovascular diseases. AI-CVD® opportunistic screening software can
+be applied to non-contrast thoracic CT scans such as those obtained for CAC scans, lung cancer screening scans, and other
+chest diagnostic CT scans. Similarly, AI-CVD® opportunistic screening software can be applied to contrast-enhanced CT
+scans such as coronary CT angiography (CCTA) and CT pulmonary angiography (CTPA) scans. AI-CVD® opportunistic
+bone density module and liver density module can be applied to CT scans of the abdomen and pelvis. All volumetric
+quantitative imaging measurements from the AI-CVD® opportunistic screening software are adjusted by body surface
+area (BSA) and reported both in cubic centimeter volume (cc) and percentiles by gender reference data from people who
+participated in the Multi-Ethnic Study of Atherosclerosis (MESA) and Framingham Heart Study (FHS). Except for
+coronary artery calcium scoring, other AI-CVD® modules should not be ordered as a standalone CT scan but instead
+should be used as an opportunistic add-on to existing and new CT scans.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFHeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+K252029
+510(K) Summary
+This summary of 510(k) safety and effectiveness information is submitted in accordance with
+the requirements of 21 CFR 807.92:
+1. Submitter
+HeartLung Corporation
+2450 Holcombe Blvd, Houston, TX 77021
+Tel: (650) 448-8089
+Contact: Dr. Morteza Naghavi
+Date Prepared: Monday, June 9, 2025
+2. Device
+Subject Device: AI-CVD®
+Trade Name: AI-CVD®
+Common Name: AI-CVD®
+Classification: Class II, 21 CFR 892.2050
+Product Code: QIH, KGI
+3. Predicate Device
+Manufacturer: HeartLung Corporation
+Trade Name: AutoChamber®
+Reference 510(k): K240786
+4. Reference Device
+Manufacturer: HeartLung Corporation
+Trade Name: ABMD Software
+Predicate 510(k): K213760
+5. Device Description
+General Description
+AI-CVD® is an opportunistic AI-powered modular tool that provides automated quantitative imaging
+reports on CT scans and outputs the following measurements:
+• Coronary Artery Calcium Score
+• Aortic Wall and Valves Calcium Scores
+• Mitral Valve Calcium Score
+• Cardiac Chambers Volume
+• Epicardial Fat Volume
+• Aorta and Main Pulmonary Artery Volume and Diameters
+• Liver Attenuation Index
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 1 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+• Lung Attenuation Index
+• Muscle and Visceral Fat
+• Bone Mineral Density
+The above quantitative imaging measurements enable care providers to take necessary actions to
+prevent adverse health outcomes.
+Intended Patient Population
+Patients who underwent a CT scan of chest or abdomen.
+Principles of Ops
+AI-CVD® modules are installed by trained personnel only. AI-CVD® is executed via parent software
+which provides the necessary inputs and receives the outputs. The software itself does not offer user
+controls or access.
+AI-CVD® reads a CT scan (in DICOM format) and extracts scan specific information like
+acquisition time, pixel size, scanner type, etc. AI-CVD® uses trained AI models that
+automatically segment and report quantitative imaging measurements specific to each AI-CVD®
+module. The output of each AI-CVD® module is inputted into the parent software which exports
+the results for review and confirmation by a human expert.
+AI-CVD® is a post-processing tool that works on existing and new CT scans.
+AI-CVD® passes if the human expert approves the segmentation highlighted by the AI-CVD®
+module is correctly placed on the target anatomical region. For example, Software passes if the
+human expert sees the AI-CVD® cardiac chamber volumetry module highlighted the heart
+anatomy.
+AI-CVD® fails if the human expert sees the segmentation highlighted by the AI-CVD® module
+is not correctly placed on the target anatomical region. For example, Software fails if the human
+expert sees the AI-CVD® cardiac chamber volumetry module highlighted the lungs anatomy or a
+portion of the sternum or any adjacent organs. Furthermore, Software fails if the human expert
+sees that the quality of the CT scan is compromised by image artifacts, severe motion, or
+excessive noise.
+The user cannot change or edit the segmentation or results of the device. The user must accept or
+reject the segmentation where the AI-CVD® quantitative imaging measurements are performed.
+Conditions of Use:
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 2 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+AI-CVD® is an AI-powered post-processing tool that works on non-contrast and contrast-
+enhanced CT scans of chest and abdomen.
+Software and Model Detailed Description
+AI-CVD® is a multi-module deep learning-based software platform developed to automatically
+segment and quantify a broad range of cardiovascular, pulmonary, musculoskeletal, and
+metabolic biomarkers from standard chest or whole-body CT scans. AI-CVD® system builds
+upon the open-source TotalSegmentator as its foundational segmentation framework,
+incorporating additional supervised learning and model training layers specific to each module’s
+clinical task.
+The original TotalSegmentator architecture utilizes a self-configuring neural network known as
+nnU-Net³, which was trained on 1,139 total body CT cases for general anatomical segmentation
+and 447 coronary CT angiography (CCTA) scans for high-resolution cardiac structure
+segmentation. Input data included both contrast-enhanced and non-contrast ECG-gated CT scans
+with 1.0 mm slice thickness, enabling robust cross-modality performance. Where available,
+matched contrast and non-contrast scans from the same subjects were registered and aligned to
+optimize anatomical consistency during training. Each module within AI-CVD® was further
+refined based on human expert knowledge for each particular measurement. Custom datasets
+were constructed for coronary artery calcium scoring, aortic and valvular calcifications, cardiac
+chamber volumetry, epicardial and visceral fat quantification, bone mineral density assessment,
+liver fat estimation, muscle mass and quality, and lung attenuation analysis. For each module,
+iterative model enhancement was applied: human reviewers evaluated model-generated
+segmentations and corrected any inaccuracies, and these corrections were looped back into the
+training process to improve performance and generalizability.
+6. Indications for Use
+AI-CVD® is an opportunistic AI-powered quantitative imaging tool that provides automated
+CT-derived anatomical and density-based measurements for clinician review. The device does
+not provide diagnostic interpretation or risk prediction. It is solely intended to aid physicians and
+other healthcare providers in determining whether additional diagnostic tests are appropriate for
+implementing preventive healthcare plans. AI-CVD® has a modular structure where each
+module is intended to report quantitative imaging measurements for each specific component of
+the CT scan. AI-CVD® quantitative imaging measurement modules include coronary artery
+calcium (CAC) score, aortic wall calcium score, aortic valve calcium score, mitral valve calcium
+score, cardiac chambers volumetry, epicardial fat volumetry, aorta and pulmonary artery sizing,
+lung density, liver density, bone mineral density, and muscle & fat composition.
+Using AI-CVD® quantitative imaging measurements and their clinical evaluation, healthcare
+providers can investigate patients who are unaware of their risk of coronary heart disease, heart
+failure, atrial fibrillation, stroke, osteoporosis, liver steatosis, diabetes, and other adverse health
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 3 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+conditions that may warrant additional risk assessment, monitoring or follow-up. AI-CVD®
+quantitative imaging measurements are to be reviewed by radiologists or other medical
+professionals and should only be used by healthcare providers in conjunction with clinical
+evaluation.
+AI-CVD® is not intended to rule out the risk of cardiovascular diseases. AI-CVD® opportunistic
+screening software can be applied to non-contrast thoracic CT scans such as those obtained for
+CAC scans, lung cancer screening scans, and other chest diagnostic CT scans. Similarly, AI-
+CVD® opportunistic screening software can be applied to contrast-enhanced CT scans such as
+coronary CT angiography (CCTA) and CT pulmonary angiography (CTPA) scans. AI-CVD®
+opportunistic bone density module and liver density module can be applied to CT scans of the
+abdomen and pelvis. All volumetric quantitative imaging measurements from the AI-CVD®
+opportunistic screening software are adjusted by body surface area (BSA) and reported both in
+cubic centimeter volume (cc) and percentiles by gender reference data from people who
+participated in the Multi-Ethnic Study of Atherosclerosis (MESA) and Framingham Heart Study
+(FHS). Except for coronary artery calcium scoring, other AI-CVD® modules should not be
+ordered as a standalone CT scan but instead should be used as an opportunistic add-on to existing
+and new CT scans.
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 4 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+Comparison of Technological Characteristics & Intended Use to Predicate Device
+The table below provides a summary of the technological characteristics of AI-CVD® in comparison to the predicate device. The indications for
+use for the predicate device are similar to the indications for the use of AI-CVD®. There are no major technological differences between the two
+systems that raise new issues of safety and/or effectiveness. Thus, AI-CVD® is substantially equivalent to the predicate and reference devices.
+Feature Subject Device Predicate 1 Predicate 2 Reference 1 Reference 2 Reference 3
+AI-CVD® AutoChamber Auto-BMD AI-Rad Imbio Imbio
+K240786 K213760 K183268 K230112 K141069
+Indication for Estimate the volume of Estimate the volume Estimate bone Estimate the Estimate Estimate
+cardiac chambers, of cardiac chambers mineral density volume of the coronary artery pulmonary tissue
+Use
+epicardial fat, aortic in non-contrast and within the spine heart calcium score density within
+/Intended Use valves, ascending aorta, contrast-enhanced the lungs
+and pulmonary artery in CT scan images
+non-contrast and contrast- Estimate the
+enhanced CT scan images total volume of
+calcium in
+coronary
+Estimate the percentage arteries
+of liver voxels below
+40HU in non-contrast CT
+scan images Estimate the
+maximum
+diameter of the
+Estimate the percentage aorta at typical
+of lung voxels below -950 landmarks
+and above -250 in non-
+contrast CT scan images
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 5 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+Estimate the volume of
+skeletal muscle,
+subcutaneous fat, and
+visceral fat in non-
+contrast CT scan images
+Estimate coronary artery
+calcium score, aortic wall
+and valve calcium scores,
+and mitral valve calcium
+score in non-contrast
+ECG-gate and non-gated
+chest CT scan images
+Modality CT scan images CT scan images CT scan images CT scan images CT scan images CT scan images
+(DICOM) (DICOM) (DICOM) (DICOM) (DICOM) (DICOM)
+Body Part Chest / Abdomen Chest Chest / Chest Chest Chest
+Abdomen
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 6 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+Automatic Yes, Deep Learning Yes, Deep Learning Yes, Deep Yes, Deep Yes, Deep Yes, Deep
+definition of Learning Learning Learning Learning
+ROIs
+Device Yes Yes Yes Yes Yes Yes
+measures
+volume within
+the Region of
+Interest (ROI).
+Device Yes Yes Yes Yes Yes Yes
+measures
+densities
+within the
+Region of
+Interest (ROI).
+User Healthcare Provider Healthcare Provider Healthcare Healthcare Healthcare Healthcare
+Provider Provider Provider Provider
+Operating Linux Linux Linux Windows Windows Windows
+System
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 7 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+Retrospective Yes Yes Yes Yes Yes Yes
+measurements
+from CT scans.
+7. Performance Data
+The following performance data were provided in support of the substantial equivalence determination.
+Sterilization & Shelf-Life Testing
+Not applicable for this software as a medical device.
+Biocompatibility Testing
+Not applicable for this software as a medical device.
+Electrical Safety and Electromagnetic Compatibility (EMC)
+Not applicable for this software as a medical device.
+Software Verification and Validation Testing
+Software Verification and Validation testing was completed to demonstrate the safety and effectiveness of the device. Testing demonstrates AI-
+CVD® meets all its functional requirements and performance specifications.
+Mechanical and Acoustic Testing
+Not applicable for this software as a medical device.
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 8 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+Animal Study
+Animal performance testing was not required to demonstrate safety and effectiveness of the device.
+Clinical Studies
+Prospective clinical studies were not required to demonstrate the safety and effectiveness of the device. Instead, clinical validation studies were
+performed based upon retrospective analyses of AI-CVD® measurements performed on large population cohorts such as the Multi-Ethnic Study
+of Atherosclerosis (MESA) and Framingham Heart Study (FHS). All AI-CVD® quantitative imaging measurements were compared with
+measurements made manually by human experts or by gold standard reference tests to demonstrate the comparative safety and effectiveness of the
+device.
+Coronary Artery Calcium Score
+The AI-CVD® Coronary Artery Calcium (CAC) module provides fully automated Agatston CAC scoring, as well as an AI-derived
+calcium score based on relative density using an internal calibration reference. This approach enables detection of small and low-
+density calcified plaques that may not be captured by conventional fixed-threshold methods. Performance was evaluated outside of the
+MESA and FHS cohorts against manually measured Agatston scores using 913 consecutive, real-world coronary calcium screening
+CT scans acquired across three community imaging centers. The results demonstrated comparative safety and effectiveness between
+expert manual measurements and both the automated Agatston CAC scores and the AI-derived relative density-based calcium scores.
+Aortic Wall and Aortic Valve Calcium Scores
+The AI-CVD® Aortic Wall and Aortic Valve Calcification module provides automated quantification of calcified plaque within the
+thoracic aorta and calcification of the aortic valve from chest CT scans. Technical performance was evaluated through comparison
+with manual reference standards, with Bland–Altman agreement analyses demonstrating acceptable bias and reproducibility across
+imaging protocols.
+Mitral Valve Calcium Score
+The AI-CVD® Mitral Valve Calcification module provides automated quantification of calcification of the mitral valve from chest CT
+scans. Technical performance was evaluated through comparison with manual measurements, with agreement analyses demonstrating
+reproducible mitral valve calcium quantification across imaging protocols.
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 9 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+Cardiac Chambers Volume
+The AI-CVD® Cardiac Chamber Volumetry module is based on previously FDA-cleared technology and utilizes established quantitative imaging
+measurement principles. The cardiac chamber volumetry module is AutoChamber™ (K240786), which has been reviewed and cleared by the
+FDA, and its inclusion within AI-CVD® does not raise new questions of effectiveness.
+Epicardial Fat Volume
+The AI-CVD® Epicardial Fat module provides automated volumetric quantification of epicardial adipose tissue from chest CT scans.
+Technical performance was further evaluated through agreement studies comparing AI-derived epicardial fat volumes with manual
+measurements and across non-contrast and contrast-enhanced CT acquisitions, demonstrating acceptable agreement and
+reproducibility.
+Aorta and Main Pulmonary Artery Volume and Diameters
+The AI-CVD® Aortic and Pulmonary Artery Size module provides automated measurements of thoracic aortic diameters and main
+pulmonary artery diameter from chest and abdominal CT scans. Agreement studies comparing AI-derived measurements of aortic and
+pulmonary artery measurements with manual reference measurements demonstrated low bias and comparable performance across
+gated and non-gated CT acquisitions. These findings support the reliability of AI-CVD® Aorta and Main Pulmonary Artery Volume
+and Diameter measurements.
+Liver Attenuation Index
+The AI-CVD® Liver Density module provides automated quantification of hepatic attenuation from chest CT scans. Agreement
+analysis comparing AI-derived liver attenuation measurements across imaging protocols demonstrated acceptable reproducibility.
+Lung Attenuation Index
+The AI-CVD® Lung Density module provides quantitative analysis of lung parenchymal attenuation from chest CT scans and within
+the field of view of cardiac CT scans. Agreement studies demonstrated reproducible lung density measurements across gated and non-
+gated CT acquisitions.
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 10 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.HeartLung Corporation
+2450 Holcombe Blvd
+Houston, TX 77021
+Muscle and Visceral Fat
+The AI-CVD® Thoracic Muscle and Fat Composition module provides quantitative assessment of skeletal muscle attenuation and
+adipose tissue composition from chest CT scans. Agreement analyses between AI-derived fat and muscle measurements demonstrated
+acceptable reproducibility across imaging protocols.
+Bone Mineral Density
+The AI-CVD® Bone Mineral Density module is based on previously FDA-cleared technology and utilizes established quantitative
+imaging measurement principles. The bone mineral density module is AutoBMD (K213760), which has been reviewed and cleared by
+the FDA, and its inclusion within AI-CVD® does not raise new questions of effectiveness.
+8. Conclusions
+The testing results demonstrate that AI-CVD® is as safe and effective as the predicate and reference devices. No new safety or effectiveness issues
+are raised by AI-CVD®.
+AI-CVD® is a registered trademark of the HeartLung Corporation. THIS DOCUMENT IS THE PROPERTY OF Pg. 11 of 11
+HEARTLUNG CORPORATION.
+© HEARTLUNG CORPORATION. ALL RIGHTS RESERVED.

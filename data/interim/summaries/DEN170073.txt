@@ -1,0 +1,609 @@
+EVALUATION OF AUTOMATIC CLASS III DESIGNATION FOR
+CONTACT
+DECISION SUMMARY
+A. De Novo Number:
+DEN170073
+B. Purpose for Submission:
+De novo request for evaluation of automatic class III designation for Viz.AI, ContaCT
+C. Applicant:
+Viz.AI
+D. Proprietary and Established Names:
+ContaCT
+E. Regulatory Information:
+1. Regulation section:
+CFR 892.2080
+2. Classification:
+Class II Special Controls
+3 Product code:
+QAS
+4. Panel:
+90 (Radiology)
+F. Indications for Use:
+1. Indications for Use:
+ContaCT is a notification-only, parallel workflow tool for use by hospital networks and
+trained clinicians to identify and communicate images of specific patients to a specialist,
+1independent of standard of care workflow.
+ContaCT uses an artificial intelligence algorithm to analyze images for findings
+suggestive of a pre-specified clinical condition and to notify an appropriate medical
+specialist of these findings in parallel to standard of care image interpretation.
+Identification of suspected findings is not for diagnostic use beyond notification.
+Specifically, the device analyzes CT angiogram images of the brain acquired in the acute
+setting, and sends notifications to a neurovascular specialist that a suspected large vessel
+occlusion has been identified and recommends review of those images. Images can be
+previewed through a mobile application.
+Images that are previewed through the mobile application are compressed and are for
+informational purposes only and not intended for diagnostic use beyond notification.
+Notified clinicians are responsible for viewing non-compressed images on a diagnostic
+viewer and engaging in appropriate patient evaluation and relevant discussion with a
+treating physician before making care-related decisions or requests. ContaCT is limited to
+analysis of imaging data and should not be used in-lieu of full patient evaluation or relied
+upon to make or confirm diagnosis.
+2. Special Conditions for Use Statement(s):
+For prescription use only
+3. Warnings, precautions, and limitations:
+Identification of suspected findings is not for diagnostic use beyond notification.
+Images that are previewed through the mobile application are compressed and are for
+informational purposes only and not intended for diagnostic use beyond notification.
+Notified clinicians are responsible for viewing non-compressed images on a diagnostic
+viewer and engaging in appropriate patient evaluation and relevant discussion with a
+treating physician before making care-related decisions or requests.
+ContaCT is limited to analysis of imaging data and should not be used in-lieu of full
+patient evaluation or relied upon to make or confirm diagnosis.
+G. Device Description:
+ContaCT is a notification only, parallel workflow tool installed across the stroke network in
+healthcare facilities to identify and communicate images and information of specific patients
+(b) (4)
+to a neurovascular specialist patients’ CT
+scan. As discussed below, the device facilitates a workflow parallel to the standard of care
+workflow, and, in the case of a true positive study, results in a notified specialist entering the
+standard of care workflow earlier (see Figure 1 below).
+2(o) (4)
+The device works in parallel to the standard of care workflow. After a CTA has been
+peifonned, a copy of the study is automatically sent to and processed by ContaCT. ContaCT
+peifonns vessel segmentation and quantifies image characteristics consistent with a Large
+Vessel Occlusion (LVO) in a large cerebral vessel, and sends a notification based on a fixed
+threshold to a neurovascular specialist, recommending review of these images. Notifications
+provide links to preview a compressed version of the identified study on a mobile
+application.
+1. Description of triage and notification effects (Special Control I .iii.)
+Depending on the results of image processing, the parallel workflow created by the
+device via a notification has the potential to positively impact the standard of care.
+Specifically, in the event of a Trne Positive (TP) study identified by the device, ContaCT
+parallel workflow allows a neurovascular specialist to become involved sooner in the
+workflow.
+ill the event that the device identifies a False Negative (FN) case and improperly
+concludes a study does not contain a suspected LVO, no notification is sent and the case
+will be identified through the standard of care workflow without intenuption.
+ill the event that the device identifies a False Positive (FP), the specialist receiving the
+notification would preview the images and fmiher evaluate the provided imaging on a
+diagnostic imaging system prior to disregarding the study, leaving the standard of care
+unintenupted. The small amount of disrnption to the specialist's time does not affect the
+patient.
+Similarly, if the device identifies a Trne Negative (TN) case, no notification is sent and
+the standard of care is uninte1n1pted. ill all scenarios, trained radiologists read all images
+per standard of care, regardless of the perfo1mance of the ContaCT Device.
+ill sum and as noted above, the device is intended to send notifications and non-
+3diagnostic images from DICOM studies so as to alert a specialist as to the timely
+existence of a case that may potentially benefit from that specialist’s attention, who
+would have reviewed them at a later time, had the device not been available.
+2. Technological Characteristics
+ContaCT is a software only device that can be segmented into three components: (1)
+Image Forwarding Software, (2) Image Processing and Analysis Software, and (3) Image
+Viewing Software.
+(1) The Image Forwarding Software is configured by the hospital to interact with a
+healthcare facility’s scanner, PACS or local DICOM router and is responsible for
+automatically transmitting a copy of DICOM files from the local router through a
+secured channel to the Image Processing and Analysis Software based on DICOM
+metadata.
+(2) The Image Processing and Analysis Software component of the device is hosted on a
+server and is responsible for receiving, assembling, processing, analyzing and storing
+DICOM images. This software component includes the software algorithm that is
+responsible for automatic filtering and excluding studies that are incomplete, of
+unacceptable technical quality, or inappropriate physiology, and identifying and
+quantifying image characteristics that are consistent with an LVO in acceptable
+studies. When the software algorithm detects imaging characteristics suggestive of a
+LVO, the Image Processing and Analysis Software component sends a notification to
+the specialist identifying the study of interest. While the software algorithm informs
+the notification process, no other diagnostic information is generated from the
+algorithm or available to the user beyond the notification.
+(3) The Image Viewing Software component is a non-diagnostic DICOM viewing mobile
+application, allowing a trained clinician to view original non-contrast CT and CTA
+studies with basic viewing functions (scroll through a cine, adjust window level and
+window width, adjust MIP thickness, pan, and zoom) prior to definitive review of
+images on a diagnostic workstation.
+3. Software Algorithm Summary (Special Control 1.i.)
+The ContaCT algorithm identifies applicable CTA series and verifies that contrast is
+visible in the soft matter of the brain and that no metallic artifacts such as aneurism clips
+are present in the soft matter of the brain. Skull stripping and registration steps are
+performed. The large vessels are identified and segmented, and the amount of extension
+of the contrast filled segments is compared to a pre-defined threshold. If the threshold
+exceeds the magnitude of the contrast filled segment, a notification is generated.
+Training CTA studies were used from multiple facilities to develop and train the
+algorithm. Three algorithm training phases included: initial development and training;
+pre- and post- processing fine-tuning; and threshold optimization. The training cases are
+4(b) (4)
+The following figure presents the ROC and performance curves of the algorithm in the
+standalone performance dataset. The estimated area under the curve (AUC) is .91; the
+fixed optimum threshold, 60mm, is marked with the vertical dashed line:
+,
+,
+,
+,
+,
+,'
+0.8 ,
+,
+,
+.l!,! ,
+a.:,
+0.6 ,
+.~ , ,
+·~
+0..,.
+,
+f; 0.4 , ,
+0.2
+=
+ROC curve (area 0.91)
+Threshold=60mm
+0.0
+0.0 0.4 0.6 0.8
+False Positive Rate
+H. Standard/Guidance Document Referenced
+NEMA PS 3.1 - 3.20 (2016), Digital Imaging and Communications in Medicine (DICOM)
+set. FDA recognition number 12-300.
+Guidance for Industry and FDA Staff: Guidance for the Content of Premarket Submissions
+for Software Contained in Medical Devices (issued May 11, 2005)
+Guidance for Industry and Food and Drug Administration Staff: Computer -Assisted
+Detection Devices Applied to Radiology Images and Radiology Device Data – Premarket
+Notification [510(k)] Submissions (issued July 3, 2012)
+5I. Performance Characteristics:
+The device is a software-only device. Some common performance characteristics for other
+device types are included below with a note that these characteristics are not applicable to
+this type of software-only device.
+1. Biocompatibility/Materials
+Not applicable
+2. Shelf Life/Sterility
+Not applicable
+3. Electromagnetic Compatibility and Electrical Safety
+Not applicable
+4. Magnetic Resonance (MR) Compatibility
+Not applicable
+Nonclinical performance data were provided to address the following areas:
+5. Software (Special Control 1.v.)
+The device is a software only device.
+Viz.AI provided software documentation at a Moderate Level of Concern according to
+the “Guidance for the Content of Premarket Submissions for Software Contained in
+Medical Devices (May 11, 2005).
+Version: 1.0
+Level of Concern: Moderate
+Software Description: Viz.AI provided a general description of the features in the
+software documentation and in the device description. The device includes three
+components including image forwarding software, cloud analysis software, and
+mobile device notification software. The description of the software is consistent with
+the device functionality described in the device description.
+Device Hazard Analysis: Viz.AI provided separate analyses for the backend, cloud,
+and mobile application. The content of the hazard analysis is sufficient and assesses
+pre- and post- mitigation risks. The device hazard analysis includes:
+• identification of the hazardous event
+• severity of the hazard
+6• probability of the hazard
+• cause(s) of the hazard
+• method of control or mitigation
+• corrective measures taken, including an explanation of the aspects of the
+device design/requirements, that eliminate, reduce, or warn of a hazardous
+event
+• verification of the control implementation is traceable through the enumerated
+traceability matrix
+Software Requirement Specifications (SRS): The SRS includes documents for the
+backend and mobile platforms. Each document includes user, engineering,
+algorithmic, cybersecurity, and various other types of requirements that give a full
+description of the functionality of the device. The SRS is consistent with the device
+description and software description.
+Architecture Design Chart: The architecture design chart provides the software
+overview and includes flow diagrams representative of process flow for various
+features of the ContaCT software.
+Software Design Specification: Page 43 Section E. The SDS is traceable to the SRS
+and demonstrates how individual requirements are implemented in the software design
+and includes appropriate linkages to predefined verification testing.
+Traceability Analysis/Matrix: Viz.AI provided traceability between all documents
+including the SRS, SDS, and subsequent Verification and Validation. Hazards
+Mitigations are traceable throughout all documents.
+Software Development Environment: Viz.AI outlined the software development
+environment and the processes/procedures used for medical device software
+development. The content is consistent with expected quality system norms.
+Verification and Validation Testing: The validation and system level verifications
+procedures are based upon the requirements with clearly defined test procedures and
+pass/fail criteria. All tests passed. Unit level test procedures, actual, and expected
+results are included for all design specifications. V&V testing included systems to
+ensure that input images meet input specification ranges.
+Revision Level History: This is the initial version 1.0 for the device. The standalone
+testing study was completed with this version of the device.
+Unresolved Anomalies: Viz.AI stated that there are no unresolved anomalies.
+Cybersecurity: The cybersecurity documentation is consistent with the
+recommendations for information that should be included in premarket submissions
+outlined in the FDA guidance document Content of Premarket Submissions for
+Management of Cybersecurity in Medical Devices: Guidance for Industry and Food
+and Drug Administration Staff (issued October 2, 2014). Information related to
+cybersecurity reviewed included: Hazard analysis related to cybersecurity risks,
+traceability documentation linking cybersecurity controls to risks considered,
+summary plan for validating software updates and patches throughout the lifecycle of
+the medical device, summary describing controls in place to ensure that the medical
+device will maintain its integrity, and device instructions for use and product
+specifications related to recommended cybersecurity controls appropriate for the
+intended use of the device.
+76. Standalone Performance Testing Protocols and Results (Special Control 1.iv.)
+Viz.AI conducted a retrospective study to assess the sensitivity and specificity of the
+image analysis algorithm and notification functionality of ContaCT against a ground truth
+as established by trained neuro-radiologists in the detection of large vessel occlusions
+(LVO) in the brain, and to compare the Standard of Care with ContaCT on CTA-to-
+notification time.
+a. Data Characteristics (Special Control 1.ii.)
+Three hundred (300) CT angiogram (CTA) images (studies) were obtained from two
+clinical sites in the U.S. There were approximately equal numbers of positive and
+negative cases (images with LVO and without LVO, respectively) included in the
+analysis.
+Inclusion Criteria:
+• The patient is older than 22 years of age when presenting to the healthcare
+facility;
+• The images were from patients who underwent a stroke protocol assessment;
+and
+• Received a head and neck CTA.
+Exclusion Criteria:
+Series used to identify potential LVOs were axial thin slice CTAs. CTA series may
+have been excluded because of insufficient technical quality. Exclusion criteria
+included:
+• Series containing metal artifacts in the soft matter of the brain;
+• Series that are non-axial;
+• Series containing missing slices;
+• Series displaying no visible contrast due to bad bolus timing during the series
+acquisition process;
+• Series containing inconsistent pixel spacing;
+• Series containing slices thicker than 0.625mm;
+• Series containing improperly ordered slices (e.g. as a result of manual
+correction by an Imaging technician); and
+• Series containing an incomplete skull.
+b. Test Protocol
+All 300 studies were reviewed by neuro-radiologists to establish the Ground Truth;
+each study was reviewed to determine if the image contained image features
+consistent with an LVO, and thus required further review. In cases where the neuro-
+radiologists did not agree on whether a study required further review, an additional
+8neuro-radiologist provided an additional opinion and established a ground truth by
+majority consensus.
+Each study was forwarded to the ContaCT device, and then processed and analyzed.
+When ContaCT identified a suspected LVO in a test study, it sent a notification to the
+mobile application component recommending further review of the study. A log of
+notifications was maintained by the testing facility and compared with respect to the
+Ground Truth for each case. Each case was classified based on the following table:
+Output
+(Recommends Urgent Review)
+Yes No
+Ground Trutlh Yes True Positive (TP) False Negative (FN)
+(Emergent Review
+Recommended) No False Positive (FP) True Negative (TN)
+c. Endpoints
+Primary Analysis: Sensitivity and Specificity
+The sensitivity and specificity of the device performance were calculated using two-
+sided 95% Clopper-Pearson confidence intervals and compared to pre-defined
+performance goals.
+Sensitivity was calculated as follows: TP / (TP+FN)
+Specificity was calculated as follows: TN / (TN+FP)
+Study endpoints and performance goals:
+(b) (4)
+Secondary Analysis: CTA-to-Notification Time
+As a secondary analysis, the company compared the Standard of Care CTA-to-
+notification time with the equivalent metric observed for ContaCT.
+In standard clinical practice, a final radiology report is produced following dictation,
+review, and signoff of that report by the attending radiologist responsible for
+reviewing the study. Then, the referring physician or a neuro-interventional specialist
+is typically verbally notified by the attending radiologist of findings that require
+urgent review. Following this verbal notification, the radiologist completes his or her
+review of the images and completes a full radiologist report, in which they document
+the time that they notified the responsible doctor. The time of the specialist
+notification was used as the Standard of Care time-to-notification in this analysis.
+9ContaCT' s time-to-notification of potentially concerning findings is directly
+analogous to this Standard of Care meti·ic.
+d. Test Results
+Sensitivity and Specificity
+Sensitivity and specificity were calculated comparing the ContaCT's output to the
+Ground Trnth as established by ti·ained neuro-radiologists. Sensitivity and specificity
+were 87.8% (95% CI: 81.2% -92.5% and 89.6% 95% CI: 83.7% - 93.9%
+res ectivel . (b) (4 )
+Fmthennore, the area under the receiver operating characteristic curve (ROC) was
+0.91, demonsu-ating the clinical utility and ability of the device to effectively ti·iage
+based on the imaging study results.
+Time-to-Notification
+The ContaCT CTA-to-notification time was documented for all 300 cases. The
+Standard of Care CTA-to-notification time was available in 85 repo1ts of these 300
+cases. Of these 85 cases, 44 were hue positives, i.e. identified by both ContaCT and
+the ground tiuth as L VO positive. The Standard of Care times, ContaCT notification
+times, and differences on those 44 cases that were also identified by ContaCT are
+repo1ted below.
+As shown in the table below, in these reports, the average and median CTA-to­
+notification times were 58.72 minutes and 51.50 minutes, respectively, for the
+Standard of Care (two-sided 95% confidence interval for the mean: [46.21, 71.23].
+The average and median CTA-to-notification times were 7.32 minutes and 5.60
+minutes, respectively, for ContaCT (two-sided 95% confidence interval for the mean:
+[5.51, 9.13]). The mean and median difference in repo1ting times was 51.40 minutes
+and 44.78 minutes, respectively (two sided 95% confidence interval of the mean
+difference [36.32, 58.72]). In 42 of the 44 studies (95.5%), the notification from
+ContaCT an-ived earlier than the Standard of Care [r ange: 6.1 - 206.4 minutes earlier].
+The total range of observed per-study differences was -12.7 minutes to 206.4 minutes.
+Thus, ContaCT tends to substantially sho1ten the time to notifying the specialist for
+L VO cases as compared with the Standard of Care.
+The ContaCT time-to-notification consists almost entirely of the time the device takes
+to process the data and produce a result. Notifying the specialist of the device result
+takes mere seconds. Standard of Care time-to-notification consisted of the time from
+the initial scan of the patient to when the radiologist reviews the images, identifies the
+urgent finding, in this case a LVO, and pages or phones the responsible specialist to
+relate the findings verbally prior to generating a study repo11.
+10Standard of Care Time to Notification of
+Specialist for LVO cases (mins)
+(N=44)
+Average [95%CI] 58.72 [46.21, 71.23]
+Median 51.50
+Standard 41.14
+Deviation
+Standard of Care Time to Notification for LVO cases: This Standard of Care
+real-world data was collected from radiology reports that documented the time
+the radiologist notified the specialist of a critical finding (an LVO) during a wet
+read and compared to the timestamp from when the CTA was completed to
+generate a standard of care Time to Notification of Specialist.
+Viz ContaCT Time to Notification of
+Specialist for LVO cases (mins)
+(N=44)
+Average [95%CI] 7.32 [5.51, 9.13]
+Median 5.60
+Standard 5.95
+Deviation
+Viz ContaCT Time to Notification of Specialist for LVO cases: This data was
+collected during the standalone performance testing of the ContaCT device.
+Real World Evidence
+Real world evidence from literature suggests that there is a patient benefit associated
+with earlier involvement of the neurovascular specialist in the treatment of LVOs.(1)
+Endovascular therapy is highly time-critical,(2) with each minute saved in onset-to-
+treatment time resulting in an average 4.2 days of extra healthy life.(3) Meretoja et al.
+notes that small reductions in endovascular delays lead to marked health benefits over
+patients’ lifetimes and that services should be optimized to reduce delays to
+endovascular therapy.(3) It is well known that the neurovascular specialist plays a
+critical role in the management of LVO patients and that earlier involvement of the
+neurovascular specialist clearly benefits LVO patients.
+11ContaCT is designed to facilitate the involvement of a neurovascular specialist sooner
+in the process of reviewing images for suspected LVOs. Literature suggests that the
+time from initial presentation to eventual reperfusion is lengthy. Specifically, median
+onset-to-revascularization time has been repo1ied as 202.0 minutes for direct to
+interventional centers, and 311.5 minutes for patients that initially presented to a non­
+interventional center_C4 Paii of that time is the time-from-initial-CTA -scan to the
+)
+time-that-the-neurovasculai·-specialist-is-notified-of-a-possible-LV O (the CTA to­
+notification time), which is the paii of the workflow where the Viz.ai softwai·e would
+be utilized. Sun CH et al. break down the relevant time periods demonstrating an
+initial CT to CSC (Comprehensive Stroke Center) notification time per standard of
+care of>60 minutes.C5 )
+This is sirnilai· to Time to Notification ofS pecialist for LVO cases (mins) reported
+above.
+1) Goyal, M., Menon, B. K., van Zwam, W. H., Dippel, D. W. J., Mitchell, P. J., Demchuk, A. M., ...
+Jovin, T. G. (2017). Endovascular thrombectomy after large-vessel ischaemic stroke: a meta-analysis of
+individual patient data from five randomised trials. The Lancet, 387(10029), 1723-1731.
+2) Fransen PS, Berkhemer OA, Lingsma HF, et al. Time to reperfusion and treatment effect for acute
+ischemic stroke: a randomized clinical trial. JAMA Neurol 2016;73:190-196.
+3) Meretoja, A., Keshtkaran, M., Tatlisumak, T., Dollllan, G. A., & Cluu-ilov, L. (2017).
+Endovascular therapy for ischemic stroke. Neurology, 88(22), 2123 LP-2127.
+4) Froehler, M. T., Saver, J. L., Zaidat, 0 . 0 ., Jahan, R., Aziz-Sultan, M. A., Klucznick, R. P., Mueller­
+Kronast, N. H. (2017). Interhospital Transfer Prior to Thrombectomy is Associated with Delayed
+Treatment and Worse Outcome in the STRATIS Registry. Circulation.
+5) Sun, C.-H. J., Nogueirn, R. G., Glellll, B. A, Collllelly, K., Zinunennann, S., Anda, K., et al. (2013).
+"Picture to Puncnu·e" Circulation.
+Conclusion (Special Control I .iii.)
+The Qrimary endQoints of sensitivity and SQecificity exceeded {t>) (4)
+,!.--.,----,-,,-,.-
+. Specifically, sensitivity was
+ooserved to oe 87.8% wi1li 95% confidence mterval C 81.2-92.5%. S ecificity was
+observed to be 89.6% with 95% CI 83.7-93.9%. (5) (4)
+In addition, the seconda1y time-to-notification analysis demonstrated that CTA-to­
+notification time was longer for the Standai·d of Care than ContaCT. The mean
+difference of 51.40 minutes was statistically significant and quantifies effective triage
+for tme positive L VO positive cases for this device. The difference in any individual
+will vaiy. The mean difference in this study may involve some bias because the
+analysis could only be done on the subset of tme positive LV O cases with Standard of
+Cai·e notification times. However, the large mean difference of 51.40 minutes in this
+subset can be assumed to ove1whelm any such bias such that statistical significance
+would likely be retained were an analysis of all hue positive LVO cases been
+possible.
+12These data and real world evidence, in combination, establish effective triage for the
+image analysis algorithm and notification functionality of the ContaCT device as
+compared to the Standard of Care. The evidence demonstrates that specialists may
+have the opportunity to become involved in the clinical workflow substantially earlier
+with notifications from the ContaCT software.
+7. Animal and/or Cadaver Testing
+None provided.
+J. Summary of Clinical Information
+Viz.AI didn’t conduct a clinical reader study for the underlying CAD as the device doesn’t
+have diagnostic outputs other than the notification. Please refer to the standalone
+performance testing above for Clinical Information.
+K. Proposed Labeling:
+The labeling is sufficient and it satisfies the requirements of 21 CFR Part 801, including 21
+CFR Part 801.109 for prescription devices, and the special controls for this device type. The
+ContaCT User Manual provides the detailed instructions for use (Special Control 2) Other
+elements of the labeling for ContaCT related to the special controls for this device type are
+noted below.
+1. Indicated patient population (Special Control 2.i.)
+ContaCT is indicated for patients older than 22 years of age. Additionally, the patient
+should have undergone a stroke protocol assessment after presenting to the Healthcare
+Facility and receive a head and neck CT angiogram (CTA) during their stroke protocol
+assessment.
+2. Indicated User population (Special Control 2.ii.)
+The ContaCT mobile application is intended to be used by neurovascular specialists, such
+as vascular neurologists, neuro-interventional specialists, or users with similar training
+who have been pre-authorized by their Healthcare Organization or Facility.
+3. Device Limitations (Special Control 2.iii.)
+Identification of suspected findings is not for diagnostic use beyond notification. Images
+that are previewed through the mobile application are compressed and are for
+informational purposes only and not intended for diagnostic use beyond notification.
+Notified clinicians are responsible for viewing non-compressed images on a diagnostic
+viewer and engaging in appropriate patient evaluation and relevant discussion with a
+treating physician before making care-related decisions or requests. ContaCT is limited to
+analysis of imaging data and should not be used in-lieu of full patient evaluation or relied
+13upon to make or confom diagnosis.
+4. Compatible Hardware (Special Contrnl 2.iv.)
+Recommended CTA acquisition parameters and exclusion parameters are included in the
+labeling.
+5. Device Instrnctions (Special Control 2.v.)
+Adequate instrnctions for use are provided in the user's manual for ContaCT.
+6. Perfo1mance Testing Summaiy (Special Control 2.vi.)
+Standalone perfo1mance testing protocols, device peifonnance, algorithm summaiy, and
+algorithm perfo1mance are included in Appendices in the user manual. The algorithm
+peifonnance is repo1ied along with the ROC cmve.
+L. Identified Risks to Health and Mitigation Measures
+Identified Risks Mitieation Measures
+Failure to prioritize images for Ce1iain design verification and validation
+review with positive findings may activities identified in special control (1)
+result in incon ect and/or delayed Ce1iain labeling info1mation identified in
+patient management special control (2)
+Positive notifications may result in Ce1iain design verification and validation
+deprioritization of review of activities identified in special control (1)
+images from other patients. Ce1iain labeling info1mation identified in
+special control (2)
+The device could be misused to Ce1iain design verification and validation
+analyze images from an unintended activities identified in special control (1)
+patient population or on images Ce1iain labeling info1mation identified in
+acquired with incompatible special control (2)
+imaging hai·dwai·e or incompatible
+image acquisition pai·ameters,
+leading to inappropriate
+notifications being displayed to the
+user.
+Device failure could lead to the Ce1iain design verification and validation
+absence of results, delay of results activities identified in special control (1)
+or inconect results, which could Ce1iain labeling info1mation identified in
+likewise lead to inaccurate patient special control (2)
+assessment.
+The triage and notification outputs Ce1iain design verification and validation
+of the device ai·e inappropriately activities identified in special control (1)
+used for primary interpretation or
+14as an adjunct for diagnosis outside Certain labeling infonnation identified in
+the intended use of the device. special contrnl (2)
+M. Benefit/Risk Determination
+Summary
+Summary of the In Viz.Al's study the average and median CTA -to-notification times were 58.72
+Benefit(s) minutes and 51.50 minutes, respectively, for the Standard of Care (two-sided
+95% confidence interval for the mean: [46.21, 71 .23]. The average and median
+CTA-to-notification times were 7.32 minutes and 5.60 minutes, respectively, for
+ContaCT (two-sided 95% confidence interval for the mean: [5.51, 9.131). This is
+also lower than the average time to notification of 66 minutes reported in
+literature for LVO's diagnosed with CT Angiogram. The notification is informed
+by the software algorithm with a sensitivity and specificity are 87.8% (81.2% -
+92.5%) and 89.6% (83.7% - 93.9%), respectively.
+The clinical benefit is that the device identifies patients who may benefit from
+rapid intervention by a neurovascular specialist. The clinical benefit is that a
+patient may be eligible for use of mechanical thrombectomy and/or tPA
+administration. By using one or both of these techniques, a substantial relative
+volume of brain may be able to be saved by timely intervention.
+From an overall US public health perspective, by treating ischemic stroke of
+large vessels more aggressively, as is now done for acute coronary artery
+occlusion, the resulting amount of disability from ischemic stroke, which
+remains a major cause of US disability in both men and women can potentially
+be significantly decreased.
+Summary of the There are no major risks for the device because the device operates in parallel
+Risk(s) to the current usual standard of care.
+Minor risks include:
+• Failure to prioritize images for review with positive findings may result
+in incorrect and/or delayed patient management.
+• Positive notifications may result in deprioritisation of review of images
+from other patients.
+• The device could be misused to analyse images from an unintended
+patient population or on images acquired with incompatible imaging
+hardware or incompatible image acquisition parameters, leading to
+inappropriate notifications being displayed to the user.
+• Device failure could lead to the absence of results, delay of results or
+incorrect results, which could likewise lead to inaccurate patient
+assessment.
+• The triage and notification outputs of the device are inappropriately
+used for primary interpretation or as an adjunct for diagnosis outside
+the intended use of the device.
+15Summary of Other The device only notifies the neurovascular specialist. Beyond that it is up the
+Factors regional healthcare delivery system to get the patient the neurovascular
+specialist in the neurovascular interventional suite/operating room.
+If adequately treated in time the patient will have no residual neurological
+deficit. In some cases there may be a small residual neurological deficit. If the
+disease is untreated, there may be loss of speech, recognition of words,
+movement of the arms and/or legs, normal bowel and bladder control, or other
+neurologic functions resulting potentially in long term disability.
+Conclusions Yes. The benefit of ContaCT, namely, early identification and notification of a
+Do the probable specialist significantly outweighs the minimal risk of a small amount of the
+benefits outweigh the specialists time needed to review and disregard a false positive. In the case of
+probable risks? a false negative, the standard of care workflow prevails, so there is no risk
+compared to standard of care for the patient. In general, there is no direct risk
+to the patient as this is a notification only, software only device. There are no
+significant risks which have not been mitigated via clinical testing and labelling.
+Therefore, given the available information concerning the benefits, risks, and
+supporting data, the probable benefits for the device outweighs the probable
+risks, given the combination of general controls and special controls established
+for this device.
+Patient Perspectives
+This submission did not include specific infonnation on patient perspectives for this device.
+N. Conclusion
+The info1mation provided in this de novo submission is sufficient to classify this device into
+class II under regulation 21 CFR 892.2080. FDA believes that the stated special controls, in
+combination with the applicable general controls, provide reasonable assurance of the safety
+and effectiveness of the device type. The device is classified under the following:
+Product Code: QAS
+Device Type: Radiological computer aided triage and notification software.
+Class: II (special controls)
+Regulation: 21 CFR 892.2080
+(a) Identification. Radiological computer aided triage and notification software is an
+image processing prescription device intended to aid in prioritization and triage of
+radiological medical images. The device notifies a designated list of clinicians of the
+availability of time sensitive radiological medical images for review based on
+computer aided image analysis of those images perfo1med by the device. The device
+does not mark, highlight, or direct users' attention to a specific location in the
+16original image. The device does not remove cases from a reading queue. The device
+operates in parallel with the standard of care, which remains the default option for all
+cases.
+(b) Classification. Class II (Special Controls). Radiological computer aided triage and
+notification software must comply with the following special controls:
+1. Design verification and validation must include:
+i. A detailed description of the notification and triage algorithms and all
+underlying image analysis algorithms including, but not limited to, a
+detailed description of the algorithm inputs and outputs, each major
+component or block, how the algorithm affects or relates to clinical
+practice or patient care, and any algorithm limitations.
+ii. A detailed description of pre-specified performance testing protocols and
+dataset(s) used to assess whether the device will provide effective triage
+(e.g., improved time to review of prioritized images for pre-specified
+clinicians).
+iii. Results from performance testing that demonstrate that the device will
+provide effective triage. The performance assessment must be based on an
+appropriate measure to estimate the clinical effectiveness. The test dataset
+must contain sufficient numbers of cases from important cohorts (e.g.,
+subsets defined by clinically relevant confounders, effect modifiers,
+associated diseases, and subsets defined by image acquisition
+characteristics) such that the performance estimates and confidence
+intervals for these individual subsets can be characterized with the device
+for the intended use population and imaging equipment.
+iv. Standalone performance testing protocols and results of the device.
+v. Appropriate software documentation (e.g., device hazard analysis;
+software requirements specification document; software design
+specification document; traceability analysis; description of verification
+and validation activities including system level test protocol, pass/fail
+criteria, and results).
+2. Labeling must include the following:
+i. A detailed description of the patient population for which the device is
+indicated for use.
+ii. A detailed description of the intended user and user training that addresses
+appropriate use protocols for the device.
+17iii. Discussion of warnings, precautions, and limitations must include
+situations in which the device may fail or may not operate at its expected
+performance level (e.g., poor image quality for certain subpopulations), as
+applicable
+iv. A detailed description of compatible imaging hardware, imaging
+protocols, and requirements for input images.
+v. Device operating instructions.
+vi. A detailed summary of the performance testing, including: test methods,
+dataset characteristics, triage effectiveness (e.g., improved time to review
+of prioritized images for pre-specified clinicians), diagnostic accuracy of
+algorithms informing triage decision, and results with associated statistical
+uncertainty (e.g., confidence intervals), including a summary of sub-
+analyses on case distributions stratified by relevant confounders, such as
+lesion and organ characteristics, disease stages, and imaging equipment.
+18

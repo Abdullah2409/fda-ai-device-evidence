@@ -1,0 +1,203 @@
+Imbio, LLC March 9, 2021
+℅ Mr. William McLain
+Manager, RA/QA
+1015 Glenwood Avenue, Floor 4
+MINNEAPOLIS MN 55405
+Re: K203256
+Trade/Device Name: Imbio RV/LV Software
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: February 4, 2021
+Received: February 5, 2021
+Dear Mr. McLain:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)K203256 - Mr. William McLain Page 2
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureSECTION 4. INDICATIONS FOR USE STATEMENT 20
+K203256
+RV/LV Software
+The Imbio RV/LV Software device is designed to measure the maximal diameters of the right
+and left ventricles of the heart from a volumetric CTPA acquisition and report the ratio of those
+measurements. RV/LVanalyzescasesusinganartificialintelligencealgorithmtoidentifythelocation
+and measurements of the ventricles. The RV/LV software provides the user with annotated images
+showing ventricular measurements. Its results are not intended to be used on a stand-alone basis
+for clinical decision-making or otherwise preclude clinical assessment of CTPA cases.I. 510(K) SUMMARY - K203256 182
+I 510(k) Summary - K203256
+I.1 Submission Owner and Correspondent
+Imbio, LLC
+1015 Glenwood Avenue
+Floor 4
+Minneapolis, MN 55405
+Contact: William McLain
+Phone: 717-656-9656
+E-Mail: billmclain@imbio.com
+Other submissions correspondents:
+Lauren Keith, Director of Engineering, and
+Hatice Akakin, Machine Learning Specialist
+I.2 Date Summary Prepared
+February 1, 2021
+I.3 Device Trade Name
+RV/LV Software
+I.4 Device Common Name
+Automated Radiological Image Processing Software
+I.5 Device Classification Name
+Picture archiving and communications system. Classified as Class 2 at 21 CFR 892.2050,
+product code QIH.
+I.6 Legally Marketed Device To Which The Device Is
+Substantially Equivalent
+TheRV/LVSoftwareissubstantiallyequivalenttothect42 CardiacComputedTomography
+Software cleared under K111373.
+I.7 Description of the Device
+The Imbio CT RV/LV Software is a set of medical image post-processing computer algo-
+rithms that together perform automated image segmentation and diameter measurements
+on computed tomography pulmonary angiography (CTPA) images. The device then re-
+ports the ratio of those diameter measurements. The Imbio CT RV/LV Software is a singleI. 510(K) SUMMARY - K203256 183
+command-line executable program that may be run directly from the command-line or
+through scripting and thus the user interface is minimal.
+Imbio RV/LV Software is a Software and Medical Device (SaMD) intended to provide
+annotatedimagesandaPDFreportthatwillbereadmosttypicallyataPACSworkstation.
+Imbio RV/LV Software is an aid only used to support a physician in the analysis of CTPA
+images.
+The Imbio RV/LV Software program reads in DICOM CPTA image datasets, processes
+the data, then writes output DICOM files and summary reports to a specified directory.
+Imbio RV/LV Software outputs DICOMs of the original input DICOM CPTA images over-
+laid with color-codings representing the results of RV/LV computer caliper measurement.
+Additionally, a summary PDF report is output.
+ImbioRV/LVSoftwaredoesnotinterfacedirectlywithanyCTscannerordatacollection
+equipment; instead the software imports data files previously generated by such equipment
+and is integrated as part of the radiological work-flow, reducing the risk of use errors.
+I.8 Indications for Use
+TheImbioRV/LVSoftwaredeviceisdesignedtomeasurethemaximaldiametersoftheright
+and left ventricles of the heart from a volumetric CTPA acquisition and report the ratio
+of those measurements. RV/LV analyzes cases using an artificial intelligence algorithm to
+identify the location and measurements of the ventricles. The RV/LV software provides the
+user with annotated images showing ventricular measurements. Its results are not intended
+to be used on a stand-alone basis for clinical decision-making or otherwise preclude clinical
+assessment of CTPA cases.
+I.9 Technological Characteristics
+Table 5 compares the technological characteristics between the proposed RV/LV Software
+and the predicate ct42 Cardiac Computed Tomography Software.I. 510(K) SUMMARY - K203256 184
+Table 5: Technological Characteristics Comparison
+Feature Proposed Device - Predicate Device - ct42 Cardiac
+RV/LV Software Computed Tomography Software
+(K111373)
+510(k) # TBD K111373
+Device Class 2 2
+Product Code QIH LLZ
+Regulation Picture Archiving and Picture Archiving and communications
+Name communications systems
+systems
+Regulation 21 CFR 892.2050 21 CFR 892.2050
+Number
+Indication for Due to the length of Due to the length of the statement, see
+Use the statement, see below.
+below.
+Input Data Non-gated, CT EKG-gated Cardiac CT images
+Requirements Pulmonary
+Angiography images
+DICOM Yes Yes
+Compliant
+LV Yes Yes
+Segmentation
+RV Yes Yes
+Segmentation
+Diameter Yes - Automated Yes - Manual
+Measurements
+Fully-automated Yes No
+segmentation
+Interface Command-Line Graphical user interface
+Outputs Reports, DICOM Report, DICOM Secondary Capture
+Secondary Capture Series.
+series
+Proposed RV/LV Software Indication for Use: TheImbioRV/LVSoftwaredeviceis
+designedtomeasurethemaximaldiametersoftherightandleftventriclesoftheheartfroma
+volumetric CTPA acquisition and report the ratio of those measurements. RV/LV analyzes
+cases using an artificial intelligence algorithm to identify the location and measurements
+of the ventricles. The RV/LV software provides the user with annotated images showingI. 510(K) SUMMARY - K203256 185
+ventricular measurements. Its results are not intended to be used on astand-alone basis for
+clinical decision-making or otherwise preclude clinical assessment of CTPA cases.
+Predicate ct42 Cardiac Computed Tomography Software Indications for Use:
+ct42 is intended to be used for viewing, post-processing and quantitative evaluation of car-
+diovascular computed tomography (CT) images in a Digital Imaging and Communications
+in Medicine (DICOM) Standard format. It enables:
+• Importing Cardiac CT Images in DICOM format
+• Supporting clinical diagnostics by qualitative analysis of the cardiac CT images us-
+ing display functionality such as panning, windowing, zooming, navigation through
+series/slices and phases, 3D reconstruction of images including multi-planner recon-
+structions of the images.
+• Supportingclinicaldiagnosticsbyquantitativemeasurementoftheheartandadjacent
+vessels in cardiac CT images
+• Supporting clinical diagnostics by quantitative measurements of calcified plaques in
+the coronary arteries (calcium scoring), specifically Agatston and volume and mass
+calcium scores
+It shall be used by qualified medical professionals, experienced in examining and evalu-
+atingcardiovascularCTimages, forthepurposeofobtainingdiagnosticinformationaspart
+of a comprehensive diagnostic decision-making process. ct42 is a software application that
+can be used as a stand-alone product or in a networked environment.
+The target population for the ct42 is not restricted, however the image acquisition by a
+cardiac CT scanner may limit the use of the device for certain sectors of the general public.
+ct42 shall not be used to view or analyze images of any part of the body except the
+cardiac CT images acquired from a cardiovascular CT scanner.
+I.10 Non-Clinical Testing
+Non-clinical testing was conducted in the form of a software validation.
+I.11 Biocompatibility
+Biocompatibility testing is not applicable for the RV/LV Software.
+I.12 Clinical Testing
+Clinical performance testing was conducted in the form of a reader study. In order to
+assess the software’s clinical performance, two different evaluations were carried out. The
+first test plan (Reader Study-I) demonstrated the improvement of the agreement among
+generalradiologistwiththeassistanceoftheRVLVoutputreport. Thesecondtest(Reader
+Study-II)willdemonstratedtheaccuracyofRVLVdiameterratioscomparedtoradiologist’s
+measurement of the RVLV diameter ratio. Anonymized CTPA datasets were utilized in the
+reader study.I. 510(K) SUMMARY - K203256 186
+I.13 Conclusions
+The results of the comparison of design, intended use and technological characteristics
+demonstratethatthedeviceisassafeandeffectiveasthelegallymarketedpredicatedevice.

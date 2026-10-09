@@ -1,0 +1,443 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+CAPTION GUIDANCE
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Radiological acquisition and/or optimization guidance system. A radiological
+acquisition and/or optimization guidance system is a device that is intended to aid in the
+acquisition and/or optimization of images and/or diagnostic signals. The device
+interfaces with the acquisition system, analyzes its output, and provides guidance and/or
+feedback to the operator for improving image and/or signal quality.
+NEW REGULATION NUMBER: 21 CFR 892.2100
+CLASSIFICATION: Class II
+PRODUCT CODE: QJU
+BACKGROUND
+DEVICE NAME: Caption Guidance
+SUBMISSION NUMBER: DEN190040
+DATE OF DE NOVO: August 27, 2019
+CONTACT: Caption Health, Inc.
+2000 Sierra Point Pkwy, 8th Floor
+Brisbane, CA 94005
+INDICATIONS FOR USE
+The Caption Guidance software is intended to assist medical professionals in the
+acquisition of cardiac ultrasound images. Caption Guidance software is an accessory to
+compatible general purpose diagnostic ultrasound systems.
+Caption Guidance software is indicated for use in two-dimensional transthoracic
+echocardiography (2D-TTE) for adult patients, specifically in the acquisition of the
+following standard views: Parasternal Long-Axis (PLAX), Parasternal Short-Axis at the
+Aortic Valve (PSAX-AV), Parasternal Short-Axis at the Mitral Valve (PSAX-MV),
+Parasternal Short-Axis at the Papillary Muscle (PSAX-PM), Apical 4-Chamber (AP4),
+Apical 5-Chamber (AP5), Apical 2-Chamber (AP2), Apical 3-Chamber (AP3), Subcostal
+4-Chamber (SubC4), and Subcostal Inferior Vena Cava (SC-IVC).LIMITATIONS:
+Prescription Use only: Federal (USA) law restricts this device for sale by or on the order
+of a physician.
+Warnings:
+ Product users are responsible for image quality and diagnosis. The images
+acquired using Caption Guidance are to be interpreted only by qualified medical
+professionals. A qualified medical professional must inspect the data being used
+for analysis and diagnosis, and ensure that the data is sufficient and appropriate in
+anatomical correctness and both spatial and temporal resolution for the
+measurement being employed.
+ Caption Guidance is not intended for transesophageal echocardiography or any
+other type of ultrasound exam not listed under “Intended Use/Indications for use.”
+ Caption Guidance operates with the 3200t-compatible Terason 4V2A linear
+phased array probe (called a “transducer” in the Terason manual). Do not operate
+Caption Guidance with any other probe.
+ The uSmart 3200t Plus ultrasound system, with which Caption Guidance
+functions as a software accessory, complies with the Standard for Real-Time
+Display of Thermal and Mechanical Acoustic Output Indices on Diagnostic
+Ultrasound Equipment (UD3-2004).
+It is important to observe the MI and TI values that are displayed during scanning.
+Follow the ALARA principle—exposure of the patient to ultrasound energy at a
+level that is As Low as Reasonably Achievable—when conducting ultrasound
+exams in order.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The Caption Guidance software is a radiological acquisition and/or optimization guidance
+system that provides real-time guidance to the users during acquisition of echocardiography to
+assist them in obtaining anatomically correct images that represent standard 2D
+echocardiographic diagnostic views and orientations. Caption Guidance is a software-only
+device that uses artificial intelligence to emulate the expertise of sonographers.
+Caption Guidance is comprised of several different features that, combined, provide expert
+guidance to the user. These include:
+1. Quality Meter: The real-time feedback from the Quality Meter advises the user on the
+expected diagnostic quality of the resulting clip, such that the user can make decisions to
+De Novo Summary (DEN190040) Page 2 of 12further optimize the quality, for example by following the prescriptive guidance feature
+below.
+2. Prescriptive Guidance: The prescriptive guidance feature in Caption Guidance provides
+direction to the user to emulate how a sonographer would manipulate the transducer to
+acquire the optimal view.
+3. Auto-Capture: The Caption Guidance Auto-Capture feature triggers an automatic
+capture of a clip when the quality is predicted to be diagnostic, emulating the way in
+which a sonographer knows when an image is of sufficient quality to be diagnostic and
+records it.
+4. Save Best Clip: This feature continually assesses clip quality while the user is scanning
+and, in the event that the user is not able to obtain a clip sufficient for Auto-Capture, the
+software allows the user to retrospectively record the highest quality clip obtained so far,
+mimicking the choice a sonographer might make when recording an exam.
+The Caption Guidance software was trained using echocardiographic clips from studies
+performed by trained sonographers. The ideal probe pose for each cardiac view was used to
+determine the Prescriptive Guidance for maneuvering the probe to the ideal pose.
+The Caption Guidance software is labeled for use with the Terason uSmart 3200t Plus, an FDA
+510(k) cleared (K150533) ultrasound system. Caption Guidance is installed on the third-party
+ultrasound system. The user has access to both the Terason user interface (UI) and the Caption
+Guidance UI and will be able to switch between the two.
+SUMMARY OF NON-CLINICAL/BENCH STUDIES
+Software
+Caption Guidance was identified as having a moderate level of concern as defined in the
+FDA guidance document “Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices.” The software documentation included:
+1. Software/Firmware Description
+2. Device Hazard Analysis
+3. Software Requirement Specifications
+4. Architecture Design Chart
+5. Software Design Specifications
+6. Traceability
+7. Software Development Environment Description
+8. Verification and Validation Documentation
+9. Revision Level History
+10. Unresolved Anomalies
+11. Cybersecurity
+De Novo Summary (DEN190040) Page 3 of 12Risk analysis was provided for the software with detailed description of the hazards, their
+causes and severity as well as acceptable methods for control of the identified risks.
+Caption Health provided a description, with test protocols including pass/fail criteria and
+report of results, of acceptable verification and validation activities at the unit, integration
+and system level.
+Algorithm Performance Testing
+Non-clinical performance testing of the deep learning algorithms used in the device was
+provided to further support their effectiveness.
+The Caption Guidance algorithm was tested for the performance of the supported
+features: Quality Meter, Auto-Capture, and Save Best Clip. The following specific tasks
+of the algorithm were used as metrics of performance:
+1. Frame-level prediction of the current pose of the probe, as compared to the ideal
+pose for a specific view of the heart.
+2. Relative image quality predication of the current pose of the probe, as compared
+to the ideal pose for a specific view of the heart.
+3. Auto-Capture of clinically-acceptable images and clips.
+Furthermore, the subject device’s algorithm was tested for the performance of providing
+Prescriptive Guidance (PG), using the following tasks:
+1. Frame-level PG prediction of the probe maneuver needed to acquire an
+image/frame of heart, for a specific view.
+2. Clip-level PG prediction of the probe maneuver needed to acquire a diagnostic-
+quality clip for a specific view.
+Overall, the non-clinical performance testing results provide evidence in support of the
+functionality of Caption Guidance fundamental algorithms. Caption Health demonstrated
+a low-level verification of the algorithms, which was not powered with a p-value
+significance for all tested PG actions. Importantly, the effectiveness of the subject device
+was assessed by taking into consideration the evidence from both bench testing and
+clinical testing.
+SUMMARY OF CLINICAL INFORMATION
+Specialist (Sonographer) Study
+Caption Guidance is designed for use both as an assistive tool for trained sonographers as
+well as medical professionals without specialized echocardiography training. Use by
+specialist users was evaluated in a prospective clinical study, in which 50 patients were
+scanned by sonographers with the Caption Guidance system (study exam), followed by a
+reference scan (control exam) on the same patient using the same ultrasound equipment,
+but unassisted by Caption Guidance. Study and control exams were assessed by three (3)
+De Novo Summary (DEN190040) Page 4 of 12expert cardiologists who graded each clip using the American College of Emergency
+Physicians (ACEP) scale for echocardiography quality. The data from this study was
+used to provide descriptive supportive evidence of the use of Caption Guidance by users
+with specialized echocardiography training.
+In this particular descriptive (non-pivotal) study, the results indicated that sonographers
+obtained diagnostic quality images in a high proportion of clips from both study and
+control exams, demonstrating comparable image quality in clips acquired using Caption
+Guidance compared to unassisted acquisition. Importantly, the high specificity of the
+auto-capture feature (97.85% of auto-captured clips were diagnostic) demonstrated that a
+registered sonographer can rely on the auto-capture feature when using Caption
+Guidance.
+Pivotal (Nurse) Study
+Caption Guidance is designed for as an assistive tool for trained sonographers as well as
+medical professionals without specialized echocardiography training. Use by sonographer
+users was evaluated in the specialist study described above. A prospective pivotal clinical
+study was subsequently conducted to evaluate use by medical professionals without
+specialized echocardiography training.
+Study Design
+A minimum of eight (8) RNs were trained and evaluated on their performance to acquire
+a 10-view 2D-TTE protocol. Participants were scanned by the RN (study exam) and 10
+standard views were obtained using a Terason ultrasound system with Caption Guidance:
+PLAX, PSAX-AV, PSAX-MV, PSAX-PM, AP4, AP5, AP2, AP3, SubC4, and SC-IVC.
+In the event that an RN exited the study prior to completing their planned 30 scans, an
+additional nurse was trained to participate in the study. The study continued enrollment
+until eight RNs had completed scans of 30 patients each. For the sake of comparison,
+participants were also scanned by a trained sonographer without Caption Guidance and
+the same 10 views were obtained (control exam) using the same Terason ultrasound
+system.
+Following the study and control exams, a panel of five (5) expert cardiologist readers
+independently provided assessments of whether the patient study, in its totality, provided
+sufficient information to assess ten clinical parameters. In addition, a panel of five (5)
+expert cardiologists also independently provided assessments of diagnostic image quality
+per clip using the ACEP scale. In addition, each of the cardiologist readers were asked to
+provide a repeat assessment on a certain percentage of the exams or clips they reviewed
+in order to assess intra-grader variability. To reduce possible sources of bias in the
+design, the RNs, sonographers, and cardiologists were all blinded to results determined
+by others.
+Four (4) prospectively defined primary endpoints were evaluated for the study, all of
+which assessed whether the patient study exam conducted by the RN, taken as a whole,
+was of sufficient image quality to make these clinical assessments. Specifically, the
+endpoints assessed whether, in the judgment of expert cardiologists, the studies permitted
+De Novo Summary (DEN190040) Page 5 of 12qualitative visual assessment of left ventricular (L V) size, L V function, right ventricular
+(RV) size, and non-ti·ivial pericardia! effusion.
+Results
+The four prima1y endpoints were satisfied and demonsti·ated the clinical utility of Caption
+Guidance for users without specialized echocardiography ti·aining. Specifically, the eight
+(8) RNs acquired echocardiographic exams of sufficient image quality to make clinical
+assessments in the following proportion of study exams conducted:
+% of Scans of Sufficit>nt
+# Clinical Paramt>tt>r Quality
+(MRMC CI)
+1 Qualitative Visual Assessment of Left Ventricular Size 98.8%
+(96.7%, 100%)
+2 Qualitative Visual Assessment of Global Left Ventricular 98.8%
+Ftmction (96.7%, 100%)
+3 Qualitative Visual Assessment of Right Ventricular Size 92.5%
+(88.1%, 96.9%)
+4 Qualitative Visual Assessment of Non-Trivial Pericardia! 98.8%
+Effusion (96.7%, 100%)
+The results of the prima1y analyses met the predetennined criteria for study success.
+Additional secondaiy endpoints were evaluated. The secondaiy endpoints provide
+descriptive clinical assessments, as no hypothesis testing was perfo1med for the
+assessment of these endpoints.
+Specifically, the eight (8) RNs acquired echocai·diographic exams of sufficient image
+quality to make clinical assessments in the following proportion of study exams
+conducted:
+% of Scans of Sufficient
+# Clinical Paramt>ter Quality
+(MRMC 95% CI)
+57.5%
+1 Qualitative visual assessment of inferior vena cava size
+(41.5%, 73.5%)
+91.3%
+2 Qualitative visual assessment of right ventricular ftmction
+(85.7%, 96.8%)
+94.6%
+3 Qualitative visual assessment of left atrial size
+(90.7%, 98.5%)
+91.7%
+4 Qualitative visual assessment of ao1t ic valve
+(88.0%, 95.3%)
+96.3%
+5 Qualitative visual assessment of mitral valve
+(93.9%, 98.6%)
+83.3%
+6 Qualitative visual assessment of tricuspid valve
+(77.0%, 89.7%)
+De Novo Summa,y (DENI 90040) Page 6 of 12In addition to assessing if image quality was sufficient to make assessments, cardiologists
+also made specific qualitative visual assessments based on the study and contrnl exams
+(e.g., presence or absence of non-ti·ivial pericardia! effusion). The propo1tion of scans in
+which the diagnostic decision was the same between study and conti·ol exams was ve1y
+high, fuither demonsu-ating the usability of Caption Guidance. For primaiy clinical
+pai·ameters, the range of agreement in qualitative visual assessment was 92.5% to 99.6%.
+Siinilai·ly, for secondaiy clinical pai·ameters, the range was 83.2% to 95.2%.
+Fmthe1m ore, it was evaluated whether the RN users were able to obtain a high propo1t ion
+of clips that were considered of diagnostic quality. Specifically, the eight (8) RNs
+acquired echocai·diographic clips of diagnostic image quality for each of the standai·d
+views in the following proportion of study exams conducted:
+% of Clips of Diagnostic Quality
+# View
+[MRMCCI]
+92.1%
+1 PLAX
+(87.9%, 96.3%)
+66.3%
+2 PSAX-AV
+(59.0%, 73.5%)
+75.8%
+3 PSAX-MV
+(70.7%, 80.9%)
+92.9%
+4 PSAX-PM
+(89.1%, 96.7%)
+88.8%
+5 AP4
+(81.5%, 96.0%)
+78.8%
+6 AP5
+(66.9%, 90.6%)
+80.0%
+7 AP3
+(70.4%, 89.7%)
+71.3%
+8 AP2
+(61 .6%, 80.9%)
+76.3%
+9 SubC4
+(70.2%, 82.3%)
+59.2%
+10 SC-IVC
+(43.1%, 75.2%)
+The Auto-Captme feature was utilized in 46.2% of the clips acquired by the RNs. In
+addition, 93.8% of clips acquired via the Auto-Capture featme were rated diagnostic by
+the panel of cai·diologists, indicating high effectiveness of the feature.
+The study also demonsu-ated the safety profile of Caption Guidance. One adverse event
+was repo1ted (pain at skin site due to elevated temperatme of the u-ansducer), but
+dete1mined to be unrelated to the guidance software.
+Objective Quantitative Metrics
+De Novo Summa,y (DENI 90040) Page 7 of 12Two analyses were performed on the Pivotal Study data in order to assess the
+performance of Caption Guidance using objective quantitative metrics:
+● AutoEF: The exams acquired in the pivotal study were processed by the 510(k)
+cleared Bay Labs AutoEF software (K173780). AutoEF provides an automated
+estimation of left ventricular ejection fraction, and requires an AP4 and AP2 clip
+of sufficient quality (automatically selected by AutoEF) in order to return an
+estimate. AutoEF returned an EF estimate in 65.5% of study exams and 85.1% of
+control exams. The panel of cardiologists rated 70.4% of study exams as having a
+diagnostic quality AP2 and AP4 clips, indicating close agreement between the
+panel and the AutoEF in assessing echocardiographic image quality. Mean
+absolute deviation between AutoEF estimates from nurse- and sonographer-
+acquired exams was 3.96 EF%, which is well within the inter-physician
+variability for calculation of EF observed in the literature. The results indicate that
+when EF is computed, AutoEF performs similarly on nurse- and sonographer-
+acquired exams.
+● PLAX Sonographer Measurements: Three (3) registered cardiac diagnostic
+sonographers independently provided measurements for each of the PLAX clips
+acquired in the pivotal study: septal wall thickness (diastole), posterior wall
+thickness (diastole), left ventricular internal diameter (diastole), left ventricular
+internal diameter (systole), and aortic root. The sonographers were blinded from
+the measurements of the other registered cardiac diagnostic sonographers. The
+purpose of the test was to assess the measurability of the study exam clips and to
+compare the similarity of linear measurements of the study and control exam
+clips. Measurability of study exam clips (defined as a majority of the three (3)
+sonographers assessing a clip to be suitable for measurement) ranged from
+89.17% (aortic root) to 92.08% (the remaining four measurements). In analyzing
+the correspondence of actual measurements, the results demonstrated that
+variability (RMSD) between study and control clip measurements was
+comparable to the observed inter-sonographer measurement variability. The
+results demonstrate that PLAX clips acquired by nurses were highly suitable for
+linear measurements in clinical use.
+In sum, the pivotal (nurse) clinical study validated clinical use of the Caption Guidance
+software by users with no prior scanning experience to acquire limited (10-view) two-
+dimensional, point-of-care echocardiograms. The study demonstrated that Caption
+Guidance confers a clinically meaningful benefit and is safe for use as intended.
+Human Factors Validation Testing Study
+A Human Factors Validation Study was performed to demonstrate the usability of the
+device. The Caption Guidance user interface and training materials were developed
+through a series of preliminary human factors analyses. The device and training were
+then implemented and tested during the Human Factors Validation Study, which was
+conducted in a clinical setting at Northwestern Memorial Hospital.
+De Novo Summary (DEN190040) Page 8 of 12The study enrolled five (5) user groups:
+● Physicians (Hospitalists)
+● Nurse Practitioners and Physician Assistants
+● Registered Nurses (RNs)
+● Medical Residents
+● Certified Medical Assistants
+Non-RN users had a one-day training session consisting of 1.5 hours of didactic/hands-on
+practice prior to the human factors evaluation. In contrast, the RNs had two days of
+training consisting of 5-6 hours of didactic/hands-on practice prior to the human factors
+evaluation, which took place on Day 3 for the RN users. There were differences in
+training and evaluation between the RNs and the other user types, because the RNs were
+participating in the Pivotal Study, and were required to follow the corresponding training
+as described in the study protocol. Following training, the users were asked to begin a
+new study and complete all 10 views independently on a model. Auto-capture rates were
+documented, and critical tasks understanding were assessed on Pass/Fail (“pass” was
+defined as being able to auto-capture at least one view). The users had access to all
+training materials and product labeling, including the Operator’s Manual, during the
+training and independent scanning.
+The human factors usability validation testing demonstrated 100% of critical tasks passed
+across all user types. No use errors were found that could cause harm for the scanner or
+patient. In addition, non-critical tasks that are essential for skills assessment and scanning
+ability were tested and evaluated, including the Auto-Capture rate across 10 views. An
+average of 76% of views were auto-captured per user across all 5 user groups. The results
+did not indicate significant differences in performance amongst user types. Given the
+same level of training, medical professionals across the backgrounds that were tested
+from certified medical assistants to hospitalists performed consistently during
+independent scans with Caption Guidance on a patient model.
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+PREDETERMINED CHANGE CONTROL PLAN
+The Caption Guidance device is powered by deep learning image analysis algorithms that
+assist medical professionals in the acquisition of echocardiograms. Caption Health will
+make future algorithm improvements under a Predetermined Change Control Plan
+(PCCP). In the plan, a protocol was provided to mitigate the risk of algorithm changes
+leading to changes in the device’s technical specifications or negatively affecting clinical
+functionality or performance specifications directly associated with the intended use of
+the device.
+De Novo Summary (DEN190040) Page 9 of 12The test methods for the proposed changes consist of non-clinical, and limited,
+feasibility-level clinical testing of the algorithm for its basic functionalities of predicting
+the PG for maneuvering the probe to an ideal pose. Assessment metrics, acceptance
+criteria, and statistical methods have been described for the performance testing of the
+proposed changes.
+TRAINING
+Caption Guidance provided the following training to the users in the pivotal study.
+The training program includes:
+1. A didactic and hands-on guided training, provided by a Caption Health representative.
+This component included both classroom instruction, and guided hands-on scanning
+while the representative provided verbal instructions.
+2. An independent hands-on practice, where the Caption Health representative did not
+provide verbal instructions. Feedback on areas of improvement was provided by the
+company representative between the exams of the volunteers.
+The training materials, developed for the users of the device, include a slide presentation, and a
+training handbook to provide an introduction to technical foundations of basic ultrasound
+principles, a discussion on ergonomics of scanning, basic techniques of probe positioning,
+cardiac anatomy, scanning protocols, and the actual ultrasound scanning of the heart.
+At the end of the training, the trainees undergo a user readiness evaluation to determine if they
+had the appropriate skills for scanning, and if the acquired images were of sufficient diagnostic
+quality.
+LABELING
+The labeling supports the decision, including information on all required and/or compatible parts,
+to grant the De Novo request for this device. The labeling includes a detailed description of the
+device, description of the patient population for which the device is indicated for use, a
+description of the intended user population and the recommended user training, and instructions
+for use.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of a Radiological
+acquisition and/or optimization guidance system and the measures necessary to mitigate these
+risks.
+Identified Risks to Health Mitigation Measures
+De Novo Summary (DEN190040) Page 10 of 12Device Error – Failure to provide guidance on  Design verification and validation
+acquiring diagnostic-quality images or signals,  Labeling
+leading to delay, prolonged examination, or
+additional unnecessary procedures, due to:
+ Algorithm failure
+ Hardware or software failure
+User Error – Operator failure to follow the  Design verification and validation
+guidance provided by the device to acquire  Labeling
+diagnostic-quality images or signals, leading to
+delay, prolonged examination, or additional
+unnecessary procedures, due to human error
+BENEFIT/RISK DETERMINATION
+Benefit/Risk Summary
+Summary of Benefits  Echocardiography is a highly valuable method for assessment of
+various structural and functional characteristics of the heart.
+Additionally, with the development of point-of-care ultrasound
+imaging, echocardiography at the bedside could provide a valuable
+first line of cardiac assessment in settings outside of a traditional
+cardiology department, or hospitals. Caption Guidance is a tool to
+fulfill this important clinical need.
+ Echocardiography is highly operator-dependent, and the training for
+echocardiography takes a significant amount of time, leading to a
+shortage of skilled cardiac sonographers. Caption Guidance
+provides a tool to enable non-cardiac sonographers to acquire
+standard echocardiography images that can be later reviewed by an
+expert cardiac healthcare professional. The pivotal study for non-
+users of cardiac ultrasound was significant and clinically
+meaningful.
+ Echocardiography is a highly operator-dependent imaging
+modality, and there is variation of echocardiograms’ quality.
+Caption Guidance is a tool to address the variability of
+echocardiograms’ quality by providing a quantitative image quality
+metric.
+Summary of Risks Low-quality images from software/algorithm error, hardware error, or
+user error, leading to additional unnecessary examinations, and/or delay
+of diagnosis.
+De Novo Summary (DEN190040) Page 11 of 12Summary of Other As a Breakthrough-designated device, no other devices address the
+Factors medical need being met by Caption Guidance.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, the data support that for the intended use
+and indications for use statements above, the probable benefits outweigh the probable risks for
+the Caption Guidance device. The benefits outweigh the risks given the mitigations employed,
+including the special controls in combination with the general controls, as the subject device
+provides a tool to acquire echocardiography images and video clips, with a quantified image
+quality metric, to allow for acquisition of such images in settings not possible currently. The
+patients would have faster access, along with less inconvenience, to echocardiography, with a
+relatively-standardized image quality.
+CONCLUSION
+The De Novo request for the Caption Guidance device is granted and the device is classified
+under the following and subject to the special controls identified in the letter granting the De
+Novo request:
+Product Code: QJU
+Device Type: Radiological acquisition and/or optimization guidance system
+Class: II
+Regulation: 21 CFR 892.2100
+De Novo Summary (DEN190040) Page 12 of 12

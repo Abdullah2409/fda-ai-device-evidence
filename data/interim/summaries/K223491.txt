@@ -1,0 +1,315 @@
+GE Medical Systems, LLC
+℅ Chris Paulik
+Regulatory Affairs Manager
+3000 N. Grandview Blvd.
+WAUKESHA WI 53188
+May 25, 2023
+Re: K223491
+Trade/Device Name: Critical Care Suite with Pneumothorax Detection AI Algorithm
+Regulation Number: 21 CFR 892.2090
+Regulation Name: Radiological computer assisted detection and diagnosis software
+Regulatory Class: Class II
+Product Code: QBS
+Dated: April 26, 2023
+Received: April 27, 2023
+Dear Chris Paulik:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.02
+Silver Spring, MD 20993
+www.fda.govK223491 - Chris Paulik Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK223491GE HealthCare
+510(k) Premarket Notification Submission
+K223491
+510(k) Summary
+In accordance with 21 CFR 807.92 the following summary of information is provided:
+Date: May 25, 2023
+Submitter: GE HealthCare, (GE Medical Systems, LLC)
+3000 N. Grandview Blvd
+Waukesha, WI 53188 USA
+Primary Chris Paulik
+Contact
+Senior Regulatory Affairs Manager
+Person:
+GE HealthCare
+262-894-5415
+Christopher.A.Paulik@ge.com
+Secondary Gregory Pessato
+Contact
+Regulatory Affairs Director
+Person:
+GE HealthCare
++33 (6) 34423240
+GregoryPessato@ge.com
+Device Trade Critical Care Suite with Pneumothorax Detection AI Algorithm
+Name:
+Common / Radiological computer assisted detection and diagnosis software
+Usual Name:
+Classification Regulation Name: Radiological computer assisted detection and diagnosis software
+Names and
+Regulation: 21 CFR 892.2090
+Product Code:
+Classification: Class II
+Product Codes: QBS
+Predicate BoneView (K212365)
+Device:
+Regulation Name: Radiological computer assisted detection and diagnosis software
+Regulation: 21 CFR 892.2090
+Classification: Class II
+5-1GE HealthCare
+510(k) Premarket Notification Submission
+Product Codes: QBS
+Reference Critical Care Suite (K183182)
+Device:
+Regulation Name: Radiological computer aided triage and notification software
+Regulation: 21 CFR 892.2080
+Classification: Class II
+Product Codes: QFM
+Critical Care Suite is a suite of AI algorithms for the automated image analysis of frontal
+Device
+chest X-rays acquired on a digital x-ray system for the presence of critical findings.
+Description:
+Critical Care Suite with Pneumothorax Detection AI Algorithm is indicated for adults and
+transitional adolescents (18 to <22 years old but treated like adults) and is intended to
+be used by licensed qualified healthcare professionals (HCPs) trained to independently
+assess the presence of pneumothoraxes in radiographic images and radiologists. Critical
+Care Suite is a software module that can be deployed on several computing platforms
+such as PACS, On Premise, On Cloud or X-ray Imaging Systems.
+Today’s clinical workflow, hospitals are overburdened by large volume of orders and long
+turnaround times for radiologist reports. Critical Care Suite with the Pneumothorax
+Detection AI Algorithm enables effective prioritization and assists in the detection /
+diagnosis of pneumothoraxes for radiologists and HCPs that have been trained to
+independently assess the presence of pneumothoraxes in radiographic images. It
+performs this task by flagging images with a suspicious finding and providing a
+localization overlay of the suspected pneumothorax as well as a graphical representation
+of the algorithm’s confidence in the resultant finding. These outputs can be displayed
+wherever the reviewing physician normally conducts their reads per their standard of
+care, including PACS, On Premise, On Cloud and Digital Projection Radiographic Systems.
+Intended Use: Critical Care Suite with Pneumothorax Detection AI Algorithm is intended to aide a
+clinician in the detection and localization of a pneumothorax on frontal chest
+radiographic images.
+Indications for Critical Care Suite with Pneumothorax Detection AI Algorithm is a computer-aided triage,
+Use: notification, and diagnostic device that analyzes frontal chest X-ray images for the
+presence of a pneumothorax. Critical Care Suite identifies and highlights images with a
+pneumothorax to enable case prioritization or triage and assist as a concurrent reading
+aid during interpretation of radiographs.
+Intended users include qualified independently licensed healthcare professionals (HCPs)
+trained to independently assess the presence of pneumothoraxes in radiographic images
+and radiologists.
+Critical Care Suite should not be used in-lieu of full patient evaluation or solely relied
+upon to make or confirm a diagnosis. It is not intended to replace the review of the X-ray
+5-2GE HealthCare
+510(k) Premarket Notification Submission
+image by a qualified physician. Critical Care Suite is indicated for adults and Transitional
+Adolescents (18 to <22 years old but treated like adults).
+Technology: Critical Care Suite with Pneumothorax Detection AI Algorithm employs the same
+fundamental scientific technology as its predicate and reference devices. They are all
+deep learning locked AI algorithms that can be deployed on several computing platforms
+such as PACS, On Premise, On Cloud or X-ray Imaging Systems. The patient and user
+populations are equivalent to what was provided with Critical Care Suite with
+Pneumothorax Detection AI Algorithm. The output is equivalent since both predicate
+and proposed devices produce a result if a suspicious finding is detected, provide a
+localization overlay of the suspected pathology within the image and a representation of
+the algorithm’s confidence in the resultant finding. The intended use has been expanded
+from the original release of Critical Care Suite (K183182) to display an overlay to the
+reviewing physician that helps localize a detected pneumothorax. It also provides a
+confidence level to the reviewing physician that provides contextual information in the
+algorithm’s confidence for its pneumothorax detection output.
+The differences between Critical Care Suite with Pneumothorax Detection AI Algorithm
+and BoneView are the specific pathologies that are being detected. Critical Care Suite
+with Pneumothorax Detection AI Algorithm analyzes frontal chest radiographic images
+for the presence of a suspected pneumothorax where BoneView analyzes radiographic
+images for the presence of suspected fractures. This difference does not impact the
+safety or efficacy of Critical Care Suite with Pneumothorax Detection AI Algorithm since
+both devices analyze images using deep learning AI technology to detect pathologies
+producing an output that can aide clinicians and radiologists with their diagnosis.
+Product Device Critical Care Suite with Pneumothorax
+BoneView (K212365)
+Comparison Detection AI Algorithm
+Device Radiological computer assisted detection and Radiological computer assisted detection and
+Classification diagnosis software diagnosis software
+Class II, QBS Class II, QBS
+Targeted clinical Pneumothorax Fracture
+condition,
+Chest/Lung Ankle, Foot, Knee, Femur, Wrist, Hand, Elbow,
+anatomy, and
+Forearm, Humerus, Shoulder, Clavicle, Pelvis, Hip,
+imaging modality AP/PA Chest X-Ray Imaging
+Ribs, Thoracic Spine, Lumbar Spine
+2D Radiographic Images
+Algorithm AI deep learning algorithms designed to detect AI supervised deep learning algorithm designed to
+Inferencing pneumothorax in frontal chest X-ray images to aide aide in identifying and highlighting fractures during
+Mechanism in identifying and highlighting pneumothoraxes the review of radiographs.
+during the review of radiographs.
+Computational Critical Care Suite is designed as a self-contained Deployment on-premises or on cloud and connection
+Platform software module deployable on various to several computing platforms and X-ray imaging
+computational and x-ray imaging system platforms
+5-3GE HealthCare
+510(k) Premarket Notification Submission
+Product Device Critical Care Suite with Pneumothorax
+BoneView (K212365)
+Comparison Detection AI Algorithm
+such as Digital Projection Radiographic Systems, platforms such as X-ray radiographic systems, or
+PACS, On Premise or On Cloud. PACS
+Algorithm Outputs 1. Configurable DICOM tag that identifies if a 1. Optional Summary Table with the results of the
+suspected pneumothorax was detected. overall study
+2. Image annotations that contain: 2. Results Image that contains
+ Flag if a suspected pneumothorax was  Region of Interest that is a solid or dotted
+detected rectangle based on confidence of the
+algorithm
+ Graphical representation of the
+algorithms confidence in the algorithms  Summary including the number of regions
+result of interest that are displayed and a caution
+message if it was identified that the image
+ Overlay (color or grayscale) that localizes
+was not part of the indications for use of
+the pneumothorax within the image
+BoneView.
+Destination for Image annotation on a secondary DICOM image and Image annotations made on copy of original image or
+Viewing Algorithm a DICOM message that identifies if a suspected image annotations toggled on/off.
+Results pneumothorax was detected within the study.
+The output can be immediately used to visualize the
+The output can be immediately used to visualize the result on any DICOM destination such as a user’s
+results on any DICOM destination such as a user’s images storage system (PACS) or other radiological
+images storage system (PACS) or the x-ray system. equipment (X-Ray System)
+Clinical and Summary of Non-Clinical Tests:
+Non-Clinical
+The following quality assurance measures were applied to the development of Critical
+Tests:
+Care Suite with Pneumothorax Detection AI Algorithm and deployment onto the AMX
+Navigate system:
+1. Risk Analysis
+2. Requirements Reviews
+3. Design Reviews
+4. Testing on unit level (Module verification)
+5. Integration testing (System verification)
+6. Performance testing (Verification)
+7. Safety testing (Verification)
+8. Simulated use testing (Validation)
+Critical Care Suite with Pneumothorax Detection AI Algorithm specific verification was
+conducted to demonstrate proper implementation of Critical Care Suite software design
+requirements.
+5-4GE HealthCare
+510(k) Premarket Notification Submission
+Regression testing on the AMX Navigate feature functionality was conducted to verify
+proper integration of Critical Care Suite with Pneumothorax Detection AI Algorithm into
+the AMX Navigate software and device. Validation was performed on AMX Navigate
+with integrated Critical Care Suite with Pneumothorax Detection AI Algorithm.
+Design verification and validation testing was performed to confirm that the safety and
+effectiveness of the device has not been affected. The test plans and results have been
+executed with acceptable results.
+Summary of Clinical Tests:
+The Pneumothorax Detection AI Algorithm was developed using over 12,000 images
+from six sources, including the National Institute of Health and sites within the United
+States, Canada, and India. This data was then segregated into training, verification, and
+validation datasets. The final validation ground truth dataset included 804 images from
+two North American sites that were not used in the training process of the algorithm. A
+mix of cases with low, moderate, and high complexity were included in the dataset. 544
+images were acquired on GE HealthCare scanners and 264 images acquired on non-GE
+Healthcare scanners. Only one site was able to provide age and gender demographics
+which included a distribution of 51.2% males and 48.8% females, with a median age of
+68 (min 18, max 90+). The reference standard was established by three blinded
+radiologists. The standalone performance of the Pneumothorax Detection AI Algorithm
+was tested against this dataset establishing that the algorithm can detect a
+pneumothorax within a frontal chest x-ray image and that the Pneumothorax Overlay
+can localize a suspected pneumothorax. The ground truth dataset adequately analyzed
+all the primary and secondary endpoints and the results met the defined passing criteria.
+The Pneumothorax Detection AI Algorithm achieved an AUC of 96.1% (94.9%, 97.2%), a
+sensitivity of 84.3% (80.6%, 88.0%) and a specificity of 93.2% (90.8%, 95.6%) for
+detection of pneumothoraxes on both anteroposterior and posteroanterior frontal chest
+x-ray images. The algorithm also had high sensitivity for detecting large pneumothoraxes
+with a sensitivity of 96.3% (93.1%, 99.2%) and small pneumothorax with a sensitivity of
+75.0% (69.2%, 80.8%). Additionally, the Pneumothorax Overlay was assessed on the true
+positive cases identified above, and it partially localized 98.1% (96.6%, 99.6%) of the
+actual pneumothorax within an image between the apical, lateral, and inferior regions of
+a lung. It performed with full agreement between these regions 67.8% (62.7%, 73.0%).
+It also performed with a DICE Similarity Coefficient of 0.705 (0.683, 0.724) indicating that
+on average 70.5% of the Pneumothorax Overlay area and the true area of a
+pneumothorax within an image overlap.
+A multi-reader multi-case study was conducted to assess that the use of the Critical Care
+Suite with Pneumothorax Detection AI Algorithm improves reader performance within
+the intended use population in detecting / diagnosing a pneumothorax in a frontal chest
+x-ray image. This study consisted of 10 independent readers to adequately analyze all
+the primary and secondary endpoints of varied experiences levels representing the
+5-5GE HealthCare
+510(k) Premarket Notification Submission
+clinical users who would interact with the Critical Care Suite with Pneumothorax
+Detection AI Algorithm: radiologists (Rad.), internal medicine (IM) physicians, emergency
+medicine (ER) physicians, and nurse practitioners. This study contained 400 images from
+the original validation ground truth dataset used to determine the standalone
+performance of the algorithm, and adequately analyzed that all the primary and
+secondary endpoints met the defined passing criteria.
+Critical Care Suite with Pneumothorax Detection AI Algorithm improved reader
+performance for detection of pneumothorax, measured by mean AUC, by 14.5%
+(7.0%,22.0%; p=.002), from 76.8% non-aided to 91.3% aided. Reader sensitivity
+increased by 16.3% (13.1%, 19.5%; p<.001) from 67.4% non-aided to 83.7% aided.
+Reader specificity increased by 12.4% (9.6%, 15.1%; p<.001) from 76.6% non-aided to
+89.0% aided. The overall performance by size was also improved. The readers showed
+an improvement for detection of large pneumothorax measured by mean AUC 10.5%
+(3.2%, 17.8%, p=0.009) and sensitivity 13.4% (10.0%, 16.9%, p<.001). The readers
+showed an improvement for detection of small pneumothorax measured by mean AUC
+17.6% (9.3%, 25.9%, p<0.001) and sensitivity 18.7% (13.8%, 23.6%, p<.001). The
+different clinical user’s improvements in mean AUC were assessed, and it was noted that
+all physicians (Rad, IM, ER) improved 10.4% (2.8%, 17.9%, p=0.015), nurse practitioners
+improved 24.1% (1.2%, 47.0%, p=0.045), radiologists improved 2.4% (-1.0%, 5.7%,
+p=0.095), and non-radiologists (ER, IM, NP) improved 17.5% (9.6%, 25.4%, p<0.001).
+Determination The introduction of Critical Care Suite with Pneumothorax Detection AI Algorithm does
+of Substantial not result in any new potential safety risks and uses the same fundamental deep learning
+Equivalence: based technology to detect pathological finding on 2D X-ray images. Technological
+differences were assessed through bench testing and clinical validation. Like its predicate
+the device has been shown to improve intended user accuracy at detecting the targeted
+pathological finding by licensed healthcare professionals, thus demonstrating that the
+proposed device is substantially equivalent to its predicate.
+After analyzing design verification and validation testing on the bench and the clinical
+testing results it is the conclusion of GE HealthCare that the Critical Care Suite with
+Pneumothorax Detection AI Algorithm software to be as safe, as effective, and
+performance is substantially equivalent to the predicate device.
+5-6

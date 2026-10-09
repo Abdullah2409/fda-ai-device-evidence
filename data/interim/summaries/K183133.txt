@@ -1,0 +1,542 @@
+Perspectum Diagnostics Ltd January 9, 2019
+Jaco Jacobs
+Chief Quality and Regulatory Compliance Officer
+23-38 Hythe Bridge Street
+OXFORD, OX1 2ET OXFORDSHIRE
+UNITED KINGDOM
+Re: K183133
+Trade/Device Name: MRCP+ v1.0
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture Archiving And Communications System
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: November 9, 2018
+Received: November 13, 2018
+Dear Jaco Jacobs:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.03.03
+SilverSpring, MD 20993
+www.fda.govK183133 - Jaco Jacobs Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Robert A. Ochs, Ph.D.
+Director
+Division of Radiological Health
+Office of In Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+EnclosureMRCP+v1 510(k) Summary
+RA317
+Date Prepared: 7th of January 2019
+1. Submitter Details
+Address: Perspectum Diagnostics Ltd
+23-38 Hythe Bridge Street
+Oxford,
+Oxfordshire,
+OX1 2ET.
+United Kingdom
+Owner/Operator Number: 10056574
+Establishment Registration Number: 3014232555
+Contact Person: Dr Jaco Jacobs
+jaco.jacobs@perspectum-diagnostics.com
++44 (0) 1865 655329
+2. Subject Device
+Legal manufacturer: Perspectum Diagnostics Ltd
+Common name: MRCP+, MRCP+v1
+Device name/Trade name: MRCP+ 1.0
+510(k) Number: K183133
+Classification Regulation: 21 CFR 892.2050
+Regulation Name: Radiological Image Processing System
+Device Classification: Class II
+Device Panel: Radiology
+Device Product Code: LLZ
+3. Predicate Details
+Legal Manufacturer: EDDA Technology Inc.
+Common name: IQQA-Liver
+Device name/Trade name: IQQA-Liver Multimodality Software
+510(k) Number: K131498
+Classification Regulation: 21 CFR 892.2050
+Regulation Name: Radiological Image Processing System
+Device Classification: Class II
+Device Panel: Radiology
+Device Product Code: LLZ
+No reference devices were used to support this submission.
+4. Device Description
+4.1. General
+MRCP+v1 is a standalone software device. The purpose of the MRCP+v1 device is to assist the trained operator with
+the evaluation of information from Magnetic Resonance (MR) images from a single time-point (patient visit). A trained
+operator, typically a radiographer or technician trained in radiological anatomy, loads as input into the MRCP+v1
+Page 1 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+device previously acquired MRCP data. The device is intended to be used by a trained operator to generate metrics in
+the form of a summary report to enable reporting by a radiologist for subsequent interpretation and diagnosis by a
+clinician.
+MRCP+v1 is designed to utilize DICOM 3.0 compliant MRCP datasets, acquired on supported MR scanners, to
+display -filled tubular structures in the abdomen, including the intra-
+tree,
+Analysis and evaluation tools include:
+Segmentation of structures utilising user input of seeding points
+Interactive labelling of segmented areas
+Quantitative measurement derived from segmentation and labelling results.
+MRCP+v1 calculates quantitative three-dimensional biliary system models that enable measurement of bile duct
+widths and automatic detection of regions of variation (ROV) of tubular structures. MRCP+v1 includes tools for
+interactive segmentation and labelling of the biliary system and tubular structures. MRCP+v1 allows for regional
+volumetric analysis of segmented tree-like, tubular structures and the gallbladder.
+The radiologist may use existing radiological tools to report on the structure of the biliary tree. The reviewing
+radiologist needs to take into consideration the devi limitations and accuracy during review. The MRCP+v1 report
+is intended to supplement a conventional radiology report, for interpretation by a clinician.
+MRCP+v1 does not replace the usual procedures for assessment of the biliary system by a reviewing radiologist or
+interpreting clinician, providing many opportunities for competent human intervention in the interpretation of images
+and information displayed.
+The metrics are intended to be used as an additional input to provide information to radiologists and clinicians in
+addition to that provided by conventional MRCP.
+In consequence, the product is considered to have no adverse effect on health since the results only serve to augment
+the information that the radiologists and clinicians will utilize for final review and/or interpretation. In this regard,
+MRCP+v1 presents a low level of concern with respect to patient safety.
+MRCP+v1 is suitable for all patients not contra-indicated for MRI.
+4.2. Sterilization and Shelf Life
+MRCP+ is a standalone software device thus it is non-contact, non-invasive and non-sterile. The shelf life of MRCP+ is
+indefinite as long as the manufacturer continues to support the device. Both sterilization and shelf life characteristics
+are equivalent of the predicate device.
+4.3. Biocompatibility
+MRCP+v1 is a standalone software device thus it is non-contact and non-invasive. No biocompatibility testing was
+deemed necessary to demonstrate the safety and effectiveness of MRCP+v1. MRCP+v1 does not does not consists of
+materials that differ from the predicate device.
+4.4. Software
+MRCP+v1 was successfully validated and verified against the . The
+results from the validation and verification activities, documented in this submission, corroborate that MRCP+v1
+Page 2 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+meets the product requirement specifications and intended use, which is deemed to be substantially equivalent to the
+predicate (see section below).
+Validation and verification activities were conducted in a controlled environment and in compliance with IEC 62304,
+ISO 13485:2016 and 21 CFR 820. MRCP+v1 is in compliance with the DICOM standard and is issued with a DICOM
+conformance statement.
+The verification and validation activities conducted demonstrate that MRCP+v1 is at least as safe and effective as the
+predicate device and does not introduce any new risks.
+4.5. Electromagnetic and Electrical Safety
+MRCP+v1 is a standalone software device. There are no electromagnetic or electrical safety risks associated with the
+direct use of the MRCP+v1 device. No electromagnetic or electrical safety testing was deemed necessary to
+demonstrate the safety and effectiveness of MRCP+v1.
+5. Intended Use
+Intended Use
+MRCP+v1 is indicated for use as a software-based image processing system for non-invasive, quantitative assessment
+of biliary system structures by facilitating the generation, visualisation and review of three-dimensional quantitative
+biliary system models and anatomical image data.
+MRCP+v1 calculates quantitative three-dimensional biliary system models that enable measurement of bile duct
+widths and automatic detection of regions of variation (ROV) of tubular structures. MRCP+v1 includes tools for
+interactive segmentation and labelling of the biliary system and tubular structures. MRCP+v1 allows for regional
+volumetric analysis of segmented tree-like, tubular structures and the gallbladder.
+Combining image viewing, processing and reporting tools, the metrics provided is designed to support physicians in
+the visualization, evaluation and reporting of hepatobiliary structures. These models and the physical parameters
+derived from the models, when interpreted by a trained physician, yield information that may assist in biliary system
+assessment.
+MRCP+v1 is designed to utilize DICOM compliant MRCP datasets, acquired on supported MR scanners using
+supported MRCP acquisition protocols.
+MRCP+v1 is suitable for all patients not contra-indicated for MRI.
+Subject and Predicate Device Comparison
+The following characteristics were compared between the subject device and the predicate device in order to
+demonstrate substantial equivalence.
+Similarities Comparison
+Characteristic MRCP+v1 (Subject) IQQA-Liver (Predicate)
+Intended Use and MRCP+v1 is indicated for use as a software- IQQA-Liver Multimodality is a PC-based, self-
+Indications for Use based image processing system for non- contained, non-invasive image analysis
+invasive, quantitative assessment of biliary software application for reviewing multiphase
+system structures by facilitating the images derived from CT scanners and MR
+generation, visualisation and review of scanners. Combining image viewing,
+three-dimensional quantitative biliary processing and reporting tools, the software is
+system models and anatomical image data. designed to support the visualization,
+Page 3 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+Similarities Comparison
+Characteristic MRCP+v1 (Subject) IQQA-Liver (Predicate)
+evaluation and reporting of liver and
+MRCP+v1 calculates quantitative three- physician-identified lesions.
+dimensional biliary system models that
+enable measurement of bile duct widths and The software supports a workflow based on
+automatic detection of regions of variation automated image registration for viewing and
+(ROV) of tubular structures. MRCP+v1 analysing multiphase volume datasets. It
+includes tools for interactive segmentation includes tools for interactive segmentation
+and labelling of the biliary system and and labelling of liver segments and vascular
+tubular structures. MRCP+v1 allows for structures.
+regional volumetric analysis of segmented
+tree-like, tubular structures and the The software provides functionalities for
+gallbladder. manual or interactive segmentation of
+physician-identified lesions, interactive
+Combining image viewing, processing and definition of virtual resection plane, and
+reporting tools, the metrics provided is allows for regional volumetric analysis of such
+designed to support physicians in the lesions in terms of size, position, margin and
+visualization, evaluation and reporting of enhancement pattern, providing information
+hepatobiliary structures. These models and for physician's evaluation and treatment
+the physical parameters derived from the planning.
+models, when interpreted by a trained
+physician, yield information that may assist The software is designed for use by trained
+in biliary system assessment. professionals, including physicians and
+technicians.
+MRCP+v1 is designed to utilize DICOM
+compliant MRCP datasets, acquired on Image source: DICOM.
+supported MR scanners using supported
+MRCP acquisition protocols.
+MRCP+v1 is suitable for all patients not
+contra-indicated for MRI.
+Target Population Patients suitable to undergo an MRI scan and Patients suitable to undergo an MRI/CT scan
+not contra-indicated for MRI. and not contra-indicated for MRI/CT.
+Device User Trained operator with a background in Trained professionals, including physicians
+radiological anatomy, such as an MR and technicians.
+radiographer/ MR technician.
+Report User Interpreting clinician, reporting radiologist N/A
+Device Use Installation of MRCP+v1 is controlled and IQQA-Liver is accessed from a cloud-based
+Environment installed on general purpose workstations. In server.
+the context of use, MRCP+v1 reports are
+made available through existing MDDS
+software devices.
+Anatomical Abdomen, liver, biliary tree, gallbladder Abdomen, Liver, Gallbladder
+Location
+Energy Software only application. The device, a Software only application. The device, a
+Considerations standalone software application, does not standalone software application, does not
+deliver or depend on energy delivered to or deliver or depend on energy delivered to or
+from patients. from patients.
+Page 4 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+Similarities Comparison
+Characteristic MRCP+v1 (Subject) IQQA-Liver (Predicate)
+Design: Purpose Standalone software application to facilitate Standalone software application to facilitate
+the import and visualization of MR data sets the import and visualization of MR and CT
+encompassing the abdomen, including the data sets encompassing the abdomen,
+liver with functionality independent of the including the liver with functionality
+MRI equipment vendor. independent of the OEM equipment vendor.
+Combining image viewing, processing and Combining image processing, viewing and
+reporting tools, the metrics provided are reporting tools, the software supports the
+designed to support physicians in the visualization, evaluation and reporting of body
+visualization, evaluation and reporting of imaging scans and physician identified lesions.
+hepatobiliary structures.
+Design: Tools MRCP+v1 calculates quantitative three- Manual or interactive segmentation of
+dimensional biliary system models that physician-identified lesions and allows for
+enable measurement of bile duct widths and regional volumetric analysis of such lesions in
+automatic detection of regions of variation terms of size, position, margin and
+(ROV) of tubular structures. MRCP+v1 enhancement pattern.
+includes tools for interactive segmentation
+and labelling of the biliary system and
+tubular structures. MRCP+v1 allows for
+regional volumetric analysis of segmented
+tree-like, tubular structures and the
+gallbladder.
+Design: Supported DICOM 3.0 compliant MR data. DICOM 3.0 compliant MR data from CT/ MRI
+Modalities scanners.
+Compatibility with Installation of MRCP+v1 is controlled and is Cloud -based server access requiring a
+the environment installed on general purpose workstations networked computer with the hospital
+within a controlled networked environment. intranet.
+MRCP+v1 reads in local files compliant with Reads in DICOM 3.0 compliant MR data from
+DICOM 3.0. CT/ MRI scanners.
+Performance Validated with digital synthetic Experimental results on simulated images
+phantoms/raw data, phantom scans, and in- containing structures of interest. Phantom
+vivo scans. data. Retrospective in-vivo data.
+Supported Systems Validated across all supported Supported MR/CT systems.
+manufacturers.
+Standards IEC 62304, IEC 62366-1, DICOM 3.0, ISO DICOM
+14971, ISO 13485
+System/Operating Apple/Mac OS Standard PC hardware
+System
+Materials Not applicable, standalone software. Not applicable, standalone software.
+Biocompatibility Not applicable, standalone software. Not applicable, standalone software.
+Sterility Not applicable, standalone software. Not applicable, standalone software.
+Electrical Safety Not applicable, standalone software. Not applicable, standalone software.
+Mechanical Safety Not applicable, standalone software. Not applicable, standalone software.
+Chemical Safety Not applicable, standalone software. Not applicable, standalone software.
+Thermal Safety Not applicable, standalone software. Not applicable, standalone software.
+Radiation Safety Not applicable, standalone software. Not applicable, standalone software.
+Page 5 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+The major differences between the predicate and subject devices are listed, along with a justification statement as to
+why the differences do not impact safety and effectiveness.
+Differences Comparison
+Characteristic MRCP+v1 (Subject) IQQA-Liver (Predicate)
+Manufacturer Perspectum Diagnostics Ltd EDDA Technologies
+No new concerns with regards to safety and effectiveness are raised due to different manufacturer. Perspectum
+Diagnostics Ltd designed and manufactured MRCP+v1 under a QSR complaint quality management system using
+appropriate design controls and an ISO 14971 compliant risk management process. MRCP+v1 underwent a
+substantive performance evaluation.
+Intended Use and MRCP+v1 is indicated for use as a software- IQQA-Liver Multimodality is a PC-based, self-
+Indications for Use based image processing system for non- contained, non-invasive image analysis
+invasive, quantitative assessment of biliary software application for reviewing multiphase
+system structures by facilitating the images derived from CT scanners and MR
+generation, visualisation and review of scanners. Combining image viewing,
+three-dimensional quantitative biliary processing and reporting tools, the software is
+system models and anatomical image data. designed to support the visualization,
+evaluation and reporting of liver and
+MRCP+v1 calculates quantitative three- physician-identified lesions.
+dimensional biliary system models that
+enable measurement of bile duct widths and The software supports a workflow based on
+automatic detection of regions of variation automated image registration for viewing and
+(ROV) of tubular structures. MRCP+v1 analysing multiphase volume datasets. It
+includes tools for interactive segmentation includes tools for interactive segmentation
+and labelling of the biliary system and and labelling of liver segments and vascular
+tubular structures. MRCP+v1 allows for structures.
+regional volumetric analysis of segmented
+tree-like, tubular structures and the The software provides functionalities for
+gallbladder. manual or interactive segmentation of
+physician-identified lesions, interactive
+Combining image viewing, processing and definition of virtual resection plane, and
+reporting tools, the metrics provided is allows for regional volumetric analysis of such
+designed to support physicians in the lesions in terms of size, position, margin and
+visualization, evaluation and reporting of enhancement pattern, providing information
+hepatobiliary structures. These models and for physician's evaluation and treatment
+the physical parameters derived from the planning.
+models, when interpreted by a trained
+physician, yield information that may assist The software is designed for use by trained
+in biliary system assessment. professionals, including physicians and
+technicians.
+MRCP+v1 is designed to utilize DICOM
+compliant MRCP datasets, acquired on Image source: DICOM.
+supported MR scanners using supported .
+MRCP acquisition protocols.
+MRCP+v1 is suitable for all patients not
+contra-indicated for MRI.
+Similar intended use and therefore does not raise any new concerns with regards to safety and effectiveness.
+Target Population Indicted for use in the general population for Indicted for use in the general population for
+any patients that are not contra-indicated any patients that are not contra-indicated for
+for MRI. MRI and CT.
+Page 6 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+Differences Comparison
+Characteristic MRCP+v1 (Subject) IQQA-Liver (Predicate)
+No new risks are associated with the difference in imaging modalities between the subject and predicate device,
+both subject and predicate device utilise DICOM 3.0 compliant files as an input. DICOM is the most common format
+for storing and transmitting medical images and is used by most manufactures of radiological imaging devices
+including MRI and CT.
+Device User Trained operator with a background in Trained professionals, including physicians
+radiological anatomy, such as an MR and technicians
+radiographer/ MR technician
+Operators are trained and the effectiveness of the training is evaluated on an ongoing basis. Inter- and intra-reader
+assessments are performed periodically and as part of training to maintain the quality of reporting and to limit
+variability and bias.
+Device Use Installation of MRCP+v1 is controlled and IQQA-Liver is accessed from a cloud-based
+Environment installed on general purpose workstations at server.
+use, MRCP+v1 reports are made available
+through QAS.
+The medium which through data is accessed is primarily based on business operational needs. Transfer of data
+through a cloud-based portal represent similar risks. Both are standalone software devices, MRCP+ does not have
+any network functionality and merely processes DICOM 3.0 compliant datasets.
+The difference in the use environment does not pose any new risks and the performance and safety characteristics
+of the subject device and the chosen predicate can be considered equivalent with regard to the device use
+environment.
+Design: Supported DICOM 3.0 compliant MR data. DICOM 3.0 compliant MR data from CT/ MRI
+Modalities scanners.
+Does not raise any new concerns with regards to safety and effectiveness. MRI is a non-ionising radiation imaging
+modality.
+Performance Validated with digital synthetic Experimental results on simulated images
+phantoms/raw data, phantom scans, and in- containing structures of interest. Phantom
+vivo (healthy volunteer and patients with data. Retrospective in-vivo data.
+suspected hepatobiliary disease) scans.
+MRCP+v1 underwent substantive validation. Does not raise any new concerns with regards to safety and
+effectiveness.
+Supported Systems Validated across all supported MR Supported MR/CT systems.
+manufacturers.
+Does not raise any new concerns with regards to safety and effectiveness.
+Standards IEC 62304, IEC 62366-1, DICOM 3.0, ISO DICOM
+14971, ISO 13485
+Does not raise any new concerns with regards to safety and effectiveness.
+System/Operating Apple/Mac OS Standard PC hardware
+System
+Does not raise any new concerns with regards to safety and effectiveness.
+Discussion
+A comparison between the subject and predicate devices is summarised above.
+The subject device is substantially equivalent to the predicate device, both regulated under regulation 21 CFR
+892.2050. Substantial equivalence is based on the following observations:
+Page 7 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+The indications for use and intended uses of both the subject device and predicate device are, for the
+purpose of substantial equivalence determination, equivalent.
+The subject and predicate devices include software applications which utilise MR data to visualise and
+enable quantification of physiological characteristics in the abdomen.
+The subject and predicate devices are both standalone software applications to facilitate the import and
+visualization of MR data sets.
+Both the subject and predicate devices are designed to run on general-purpose computing hardware.
+Both the subject device and the predicate device include tools to facilitate the import and visualization of
+data sets and include tools to enable the manipulation of the views and to enable the quantification and
+analysis of segmented structures.
+Both the subject device and the predicate device include tools for interactive segmentation and labelling of
+abdominal structures and allow for regional volumetric analysis of segmented abdominal structures.
+Performance testing demonstrates that the subject device performs at least as safely and effectively as the
+proposed predicate.
+In conclusion, the subject device does not present any new potential safety risk when compared to the chosen
+predicate device and performs in accordance with its use characteristics and intended use.
+6. Performance Testing
+MRCP+v1 underwent full performance testing under controlled conditions to corroborate that it is safe and effective
+to use. The performance testing conducted demonstrates that MRCP+v1 is at least as safe and effective as the
+predicate device and does not introduce any new risks.
+6.1. Performance Testing Bench
+Validated MR Systems
+MRCP+v1 underwent bench performance testing on the following MR Systems:
+Manufacturer Model Field Strength
+Siemens MAGNETOM Prisma 3T
+Siemens MAGNETOM Avantofit 1.5T
+GE Discovery MR750 3T
+GE Optima MR450w 1.5T
+Philips Achieva 3T
+Philips Achieva 1.5T
+Algorithmic Accuracy
+The accuracy of the MRCP+v1 algorithm was assessed against the duct file specification of the physically printed
+phantoms, a dataset of digital synthetic data. The results of which are summarized below:
+Algorithmic Accuracy Digital Synthetic Data
+95% CI Upper Limit of Agreement 95% CI Lower Limit of Agreement
+Clinical Phantom 0.9mm -0.9mm
+Tube Width Phantom 1.3mm -0.6mm
+Page 8 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+It can be said that the algorithmic accuracy of MRCP+v1 when used to quantify tubular structures from acquired
+MRCP data is high when not presented with the variability introduced by phantom or in-vivo scanning.
+Device Accuracy
+The accuracy of the MRCP+v1 device was assessed using two different phantoms. The results of the analysis over both
+are summarized below:
+Algorithmic Accuracy Physical Phantoms
+95% CI Upper Limit of Agreement 95% CI Lower Limit of Agreement
+Clinical Phantom 1.0 mm -1.1mm
+Tube Width Phantom 0.7mm -0.9mm
+Two different types of phantom, a clinical and tubewidth, were used in the bench performance testing. It can be seen
+that the variability introduced due to the acquisition of phantom data is limited and MRCP+v1 is highly accurate when
+quantifying tubular structures.
+Precision
+Precision of the MRCP+v1 device was assessed using two different phantoms. The results of the analysis over both are
+summarized below:
+Repeatability Reproducibility
+Phantom Type Upper Limit of Lower Limit of Upper Limit of Lower Limit of
+Agreement (mm) Agreement (mm) Agreement (mm) Agreement (mm)
+Clinical Phantom 0.4 -0.4 0.5 -1.1
+Tube Width Phantom 0.3 -0.3 0.7 -0.8
+As demonstrated in the table above, the variation introduced by repeated acquisitions and different scanners does
+not significantly affect the performance of MRCP+v1. It can be stated that MRCP+v1 is highly repeatable and
+reproducible.
+6.2. Performance Testing In-vivo
+Validated MR Systems
+MRCP+v1 underwent in-vivo performance testing on the following MR Systems:
+Manufacturer Model Field Strength
+Siemens MAGNETOM Prisma 3T
+Siemens MAGNETOM Avantofit 1.5T
+GE Discovery MR750 3T
+GE Optima MR450w 1.5T
+Precision
+The precision of MRCP+v1 was assessed using in-vivo data acquired from volunteers. The results of which are
+summarized below and demonstrate that across the metrics reported, MRCP+v1 is highly repeatable and reproducible
+across field strengths and manufacturers when quantifying hepatobiliary structures from in-vivo acquired datasets.
+Page 9 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+Repeatability
+Measure 95% CI Upper Limit of 95% CI Lower Limit of
+Agreement Agreement
+Tree Volume (ml) 3.4 -3.5
+Gallbladder Volume (ml) 4.4 -9.4
+3-5mm (%) 17.7 -19.2
+5-7mm (%) 8.5 -8.0
+Greater than 7mm (%) 1.6 -1.8
+Less than 3mm (%) 20.2 -19.2
+Repeatability
+Measure 95% CI Upper Limit of 95% CI Lower Limit of
+Agreement Agreement
+Duct Median (mm) 1.7 -2.0
+Duct Minimum (mm) 1.9 -2.2
+Duct Maximum (mm) 3.2 -2.9
+Duct IQR (mm) 1.8 -1.7
+Reproducibility
+Measure 95% CI Upper Limit of 95% CI Lower Limit of
+Agreement Agreement
+Tree Volume (ml) 4.7 -6.9
+Gallbladder Volume (ml) 13.8 -18.4
+3-5mm (%) 27.8 -15.8
+5-7mm (%) 10.8 -11.8
+Greater than 7mm (%) 2.6 -3.1
+Less than 3mm (%) 30.8 -23.4
+Reproducibility
+Measure 95% CI Upper Limit of 95% CI Lower Limit of
+Agreement Agreement
+Duct Median (mm) 2.6 -2.8
+Duct Minimum (mm) 2.6 -2.8
+Duct Maximum (mm) 4.0 -3.5
+Duct IQR (mm) 1.9 -2.3
+Intra- and Inter- Operator
+As demonstrated below the variation introduced by operator analysis is well within the prescribed acceptance criteria
+set for performance testing with only a slightly larger variation introduced by having two readers read the same study
+compared to the same reader performing a second analysis blinded.
+Page 10 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printedMRCP+v1 510(k) Summary
+RA317
+Intra-Operator Inter-Operator
+Measure 95% CI Upper Limit of 95% CI Lower Limit of 95% CI Upper Limit 95% CI Lower Limit of
+Agreement Agreement of Agreement Agreement
+Tree Volume (ml) 0.9 -0.6 3.6 -6.8
+Gallbladder Volume 0.0 0.0 0.6 -0.7
+3-5mm (%) 7.4 -7.7 16.8 -11.1
+5-7mm (%) 5.0 -5.1 6.3 -6.3
+Greater than 7mm 3.9 -4.7 1.4 -1.7
+Less than 3mm (%) 11.7 -10.7 12.3 -17.4
+Duct Median (mm) 0.4 -0.4 1.1 -1.8
+Duct Minimum (mm) 0.5 -0.4 1.0 -1.3
+Duct Maximum (mm) 2.0 -1.6 2.0 -3.2
+Duct IQR (mm) 0.5 -0.4 1.6 -1.9
+7. Conclusion
+In summary, Perspectum Diagnostics conclude and are satisfied that MRCP+v1 is:
+MRCP+v1 is substantially equivalent to IQQA-Liver
+MRCP+v1 does not raise any new concerns with regards to safety and efficacy
+The differences between MRCP+v1 and IQQA-Liver do not impact safety and effectiveness
+The intended use/indications for use of the subject device and predicate device are substantially equivalent
+The technological characteristics of the subject device and predicate device are substantially equivalent
+Page 11 of 11
+MRCP+v1 (K183133)
+Uncontrolled if printed

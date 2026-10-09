@@ -1,0 +1,342 @@
+EVALUATION OF AUTOMATIC CLASS III DESIGNATION FOR
+Paige Prostate
+DECISION SUMMARY
+A. DEN Number:
+DEN200080
+B. Purpose for Submission:
+De Novo request for evaluation of automatic class III designation for the Paige Prostate
+C. Measurands:
+Not applicable
+D. Type of Test:
+Software device to identify digital histopathology images of prostate needle biopsies that are
+suspicious for cancer and to localize a focus with the highest probability for cancer
+E. Applicant:
+Paige.AI, Inc.
+F. Proprietary and Established Names:
+Paige Prostate
+G. Regulatory Information:
+1. Regulation section:
+21 CFR 864.3750
+2. Classification:
+Class II
+3. Product code:
+QPN
+4. Panel:
+88 – PATHOLOGYH. Indications for use:
+1. Indications for use:
+Paige Prostate is a software only device intended to assist pathologists in the detection of
+foci that are suspicious for cancer during the review of scanned whole slide images (WSI)
+from prostate needle biopsies prepared from hematoxylin & eosin (H&E) stained formalin-
+fixed paraffin embedded (FFPE) tissue. After initial diagnostic review of the WSI by the
+pathologist, if Paige Prostate detects tissue morphology suspicious for cancer, it provides
+coordinates (X,Y) on a single location on the image with the highest likelihood of having
+cancer for further review by the pathologist.
+Paige Prostate is intended to be used with slide images digitized with Philips Ultra Fast
+Scanner and visualized with Paige FullFocus WSI viewing software.
+Paige Prostate is an adjunctive computer-assisted methodology and its output should not be
+used as the primary diagnosis. Pathologists should only use Paige Prostate in conjunction
+with their complete standard of care evaluation of the slide image.
+2. Special conditions for use statement(s):
+For prescription use only
+For in vitro diagnostic (IVD) use only
+3. Special instrument requirements:
+Philips IntelliSite Ultra Fast Scanner
+FullFocus image viewing software
+I. Device Description:
+Paige Prostate is an in vitro diagnostic medical device software, derived from a deterministic
+deep learning system that has been developed with digitized WSIs of H&E stained prostate
+needle biopsy slides.
+Paige Prostate utilizes several accessory devices as shown in Figure 1 below, for automated
+ingestion of the input. The device identifies areas suspicious for cancer on the input WSIs. For
+each input WSI, Paige Prostate automatically analyzes the WSI and outputs the following:
+• Binary classification of suspicious or not suspicious for cancer based on a pre-defined
+threshold on the neural network output.
+• If the slide is classified as suspicious for cancer, a single coordinate (X,Y) of the location
+with the highest probability of cancer on an image determined to be suspicious for cancer.
+De Novo Summary (DEN200080) Page 2• If the slide is classified as not suspicious for cancer, no additional output will be available
+by Paige Prostate. The Paige FullFocus WSI viewer will display “Not Suspicious for Cancer
+– Area of Interest Not Available”.
+Figure 1: Dataflow and Input/Output Devices for Paige Prostate: (Lock icon refers to the
+transport layer security (TLS) encryption used for all data transfer between services within the
+Paige Ecosystem. Data storage is encrypted at rest as indicated by the locked green storage icon).
+Figure 2: Paige Prostate Pathologist Workflow
+Algorithm development: Paige Prostate algorithm development was performed on training, tuning,
+and test datasets. Each dataset contained slides from unique patients ensuring that training, tuning,
+De Novo Summary (DEN200080) Page 3• Acceptance of Clinical Data to Support Medical Device Applications and Submissions
+Frequently Asked Questions; February 2018
+• Guidance for Industry and Food and Drug Administration Staff - Factors to Consider When
+Making Benefit-Risk Determinations in Medical Device Premarket Approval and De Novo
+Classifications; August 30, 2019
+• Guidance for Off-the-Shelf Software Use in Medical Devices; September 2019
+K. Test Principle:
+Paige Prostate is operated as follows:
+1. Scanned digital images of prostate needle biopsies are acquired using the designated digital
+pathology scanner. Image and other related quality control steps are performed per the scanner
+instructions for use and any additional user site specifications. The scanned digital images are
+immediately processed by Paige Prostate in the background.
+2. The pathologist selects a patient case and opens the whole slide image for review in the
+designated digital pathology viewing software.
+3. After the pathologist has fully reviewed all areas on the digital image of a prostate core biopsy
+slide, and has decided upon a diagnosis of “cancer”, “no cancer”, or “defer”, the pathologist
+must “activate the Paige Prostate” to view its output.
+4. If Paige Prostate detects a region on the digital slide suggestive of carcinoma, it identifies the
+region with greatest likelihood of being cancer and overlays a mark on that region indicated by
+its coordinate (X,Y). This is a statistical determination and is not linked to other clinical
+assessments, such as Gleason score.
+5. The pathologist can toggle Paige Prostate outputs on and off to allow unobstructed re-
+examination of any suspicious regions.
+6. If the pathologist has already recognized cancer on the slide, no additional action is required. If
+the pathologist has indicated a diagnosis of “no cancer” or “defer” and the algorithm indicates a
+region suspicious for cancer, the pathologist is prompted to re-examine that slide image,
+focusing initially on the region indicated by the algorithm.
+7. If the pathologist determines that the histologic findings warrant a change in diagnosis from “no
+cancer” to “cancer” or “defer”, or from “defer” to “cancer”, they then modify the original
+diagnosis to reflect the additional findings.
+8. The final diagnosis of cancer is made by the pathologist based upon the histologic findings and
+should not be solely based on the algorithm’s output.
+9. Pathologists should follow standard of care to obtain any additional stains, other pathologists’
+opinions, and/or additional information, if needed, to render a final diagnosis.
+10. The Paige Prostate device does not provide assistance with measuring or grading foci of
+cancer, whether detected initially by the pathologist or recognized after deployment of the
+algorithm.
+The clinical workflow per prostate biopsy slide (WSI) is shown in Figure 3 below.
+De Novo Summary (DEN200080) Page 5Figure 3: Clinical Workflow per Slide
+L. Software:
+The Paige Prostate device was identified to have a moderate level of concern as described in the
+FDA guidance document “Guidance for the Content of Premarket Submissions for Software
+Contained in Medical Devices.” (May 11, 2005).
+a. Software Description: Paige.AI provided a general description of the features in the
+software documentation and in the device description. The description of the software is
+consistent with the device functionality described in the device description.
+b. Device Hazard Analysis: Paige.AI provided separate analyses of the device and
+cybersecurity concerns. The content of the hazard analysis is sufficient and assesses pre- and
+post-mitigation risks. The device hazard analysis includes:
+• identification of the hazard
+• cause of the hazard (hazardous situation)
+• probability of the hazard
+• severity of the hazard
+• method of control or mitigation
+• corrective measures taken, including an explanation of the aspects of the device
+design/requirements, that eliminate, reduce, or warn of a hazardous event
+verification of the control implementation, which is traceable through the
+enumerated traceability matrix.
+c. Software Requirement Specifications (SRS): The SRS includes user, engineering,
+algorithmic, cybersecurity, and various other types of requirements that give a full
+description of the functionality of the device. The SRS is consistent with the device
+description and software description.
+De Novo Summary (DEN200080) Page 6d. Architecture Design Chart: Paige.AI provided the software overview and included flow
+diagrams representative of process flow for various features of the Paige Prostate device.
+e. Software Design Specification (SDS): The SDS is traceable to the SRS and demonstrates
+how individual requirements are implemented in the software design and includes
+appropriate linkages to predefined verification testing.
+f. Traceability Analysis/Matrix: Paige.AI Prostate provided traceability between all documents
+including the SRS, SDS, and subsequent verification and validation. Hazard mitigations are
+traceable throughout all documents.
+g. Software Development Environment: Paige outlined the software development environment
+and the processes/procedures used for medical device software development. The content is
+consistent with expected quality system norms.
+h. Verification and Validation Testing: The validation and system level verifications
+procedures are based upon the requirements with clearly defined test procedures and
+pass/fail criteria. All tests passed. Unit level test procedures, actual, and expected results are
+included for all design specifications.
+i. Revision Level History: Version (v) 2.1.501 was released prior to its use in all the
+performance studies, including analytical (standalone and precision) and clinical reader
+study. Software v2.1.501 will remain locked for use with the authorized device and will not
+be continually trained and improved with each cohort analyzed in clinical practice, after
+marketing authorization.
+j. Unresolved Anomalies: All identified anomalies were resolved prior to verification and
+validation of the software. There are no unresolved anomalies.
+k. Cybersecurity: The cybersecurity documentation is consistent with the recommendations for
+information that should be included in premarket submissions outlined in the FDA guidance
+document “Content of Premarket Submissions for Management of Cybersecurity in Medical
+Devices: Guidance for Industry and Food and Drug Administration Staff” (issued October 2,
+2014). Information related to cybersecurity reviewed included:
+• Hazard analysis related to cybersecurity risks,
+• Traceability documentation linking cybersecurity controls to risks considered,
+• Summary plan for validating software updates and patches throughout the lifecycle
+of the medical device,
+• Summary describing controls in place to ensure that the medical device will maintain
+its integrity, and
+• Device instructions for use and product specifications related to recommended
+cybersecurity controls appropriate for the intended use of the device.
+De Novo Summary (DEN200080) Page 7M. Performance Characteristics
+1. Analytical Performance
+The sponsor provided data from the following two studies to support the analytical performance of
+the device:
+a. Algorithm Localization (X,Y Coordinate) and Accuracy Study
+b. Precision Study
+a. Algorithm Localization (X,Y Coordinate) and Accuracy Study:
+The performance of Paige Prostate in identifying digital histopathology images of prostate needle
+biopsies that are suspicious for cancer and localizing one specific focus (X,Y) coordinate) with the
+highest suspicion for cancer was evaluated. The (X,Y) coordinates identified by Paige Prostate were
+evaluated against manual annotations of regions drawn by 3 study pathologists who were blinded to
+the Paige Prostate results. These study pathologists did not participate in the clinical reader study.
+The study sample set originally consisted of 847 scanned digital WSIs of prostate needle biopsy
+slides (353 cancer and 494 benign) stained with hematoxylin and eosin (H&E). The scanned images
+were obtained using the previously FDA-cleared Phillips UFS scanner. Out of 847 WSIs, 42 WSIs
+with cancer and 77 WSIs that were benign did not represent unique patients, i.e., WSIs from
+multiple different cases but from the same patient. In order to avoid any bias due to case-level
+overlap in slides, only unique patient level cases were used in the data analysis, i.e., all slides were
+unique at patient-level compared to the development dataset. Therefore, the final sample set
+consisted of 728 WSIs (311 WSIs from cancer slides and 417 WSIs from benign slides). There
+were 3 study pathologists that annotated the image crops as described below in the localization
+assessment procedure section.
+The distribution of the slide images by diagnosis, source of slides and race is provided in Table 3
+below.
+De Novo Summary (DEN200080) Page 8enriched with 50% challenging cancer slides, which were defined as slides with minimal tumor
+burden (≤0.5mm). Benign parts were from cases that included cancer parts and represented unique
+patients in the dataset.
+Exclusion Criterion: Slides used during development (algorithm training, tuning and testing) of the
+Paige Prostate were not used in this study.
+Study set of slide images included representation from various races. Table 3 above shows the
+distribution of slides by race.
+Slide-Level Cancer Ground Truth Determination: The synoptic pathology diagnostic reports from
+the internal site were used to generate the ground truth label for each slide as either cancer or no
+cancer.
+Localization Ground Truth: The (X,Y) coordinates identified by Paige Prostate were evaluated
+against manual annotations of regions drawn by pathologists that were blinded to the device results.
+Localization ground truths were determined by 3 US board-certified pathologists (2 completed
+anatomic pathology fellowship and 1 sub-specialized genitourinary pathologist) annotated image
+patches.
+Localization Assessment Procedure:
+1. Images used in this study were generated by scanning slides with a single Philips Ultra Fast
+scanner.
+2. Crops (regions) were generated from:
+• WSIs in which Paige Prostate predicted suspicion for cancer and the ground truth
+was cancer, and
+• WSIs in which Paige Prostate predicted no suspicion for cancer and the ground
+truth was no cancer. These slides (20% of the entire set)were included in the study for
+unbiased estimation of accuracy, but were not considered in the final analysis.
+3. All image crops (mix of cancer and benign) of WSIs were reviewed by all 3 study
+pathologists independently and annotations were provided for image crops that were
+identified as having cancer. The study pathologists were blinded to each other’s annotations
+and to the results provided by Paige Prostate, during their assessments.
+5. All Pathologists were provided the following instructions before annotating the crops:
+a. The drawn boundary of the annotation must be reasonably tight such that it will be of
+minimal size to enclose the cancerous regions.
+b. Benign cells can be mixed in with cancerous cells since the purpose of the (X,Y)
+coordinate is to draw the Pathologist’s attention to a focus in the region of interest.
+6. The union of annotations between at least 2 of the 3 annotating pathologists was used as the
+localization ground truth.
+Primary Endpoints: The following definitions were used to classify the algorithm outcome based
+on the type of slide:
+• True Positive (TP): the algorithm correctly classified that a slide is suspicious for cancer and
+the (X,Y) coordinate is within a prespecified distance of annotated pixels.
+• True Negative (TN): the algorithm correctly classified that the slide is not suspicious for
+cancer.
+De Novo Summary (DEN200080) Page 10Results were displayed and pathologists conducted their assessments with an FDA-cleared whole
+slide image viewer (FullFocusTM).
+Each pathologist performed the following procedural steps on an individual basis.
+a. Pathologists were trained to use the FDA-cleared digital pathology image review
+system and the Paige Prostate device.
+b. WSIs of scanned prostate biopsy slides were displayed on an FDA-cleared monitor to each
+pathologist one at a time in a randomized order.
+c. The pathologists completed an unassisted read directly followed by an assisted read for
+every WSI.
+• Unassisted Read: The pathologists reviewed the image, without Paige Prostate
+assistance, with the FDA-cleared pathology viewer.
+• Assisted Read: The pathologists reviewed the image with Paige Prostate result
+coordinate (X,Y) overlaid on the same image. The result included:
+• Paige Prostate slide level binary classification: suspicious for cancer or not suspicious
+for cancer.
+• Coordinate (X, Y): If the slide was predicted to be suspicious for cancer, the algorithm
+identifies a coordinate (X, Y) of the region on the slide as having the highest
+likelihood for harboring cancer.
+d. Pathologists were instructed that they could choose to “defer for more information” during
+the study if they were unable to render a definitive diagnosis as either “cancer” or “no
+cancer.”
+e. Classifications for each image were made without information from
+immunohistochemistry (IHC) stains. The pathologists performed a complete review of
+each WSI and recorded their classifications directly into the electronic database case
+report form (CRF):
+(i) The pathologists classified each slide as:
+• cancer,
+• no cancer, or
+• defer for more information.
+(ii) For the deferral classification, the pathologists selected why they would defer, from
+the following options, which were all methods currently used in clinical practice
+today when a pathologist is not able to determine a diagnosis from an H&E slide:
+• Additional stains
+• Additional levels
+• Seek another opinion
+• Other: If the pathologists selected “Other” they would elaborate via a free
+text box in the CRF.
+For each slide, sixteen pathologists completed an unassisted read directly followed by
+an assisted read with Paige Prostate for every image.
+Study Sample Characteristics:
+a. The sample set originally consisted of 610 whole slide images of prostate needle
+biopsy slides (190 cancer and 420 benign) stained with hematoxylin and eosin (H&E)
+that were scanned using a single unit of the FDA-cleared Phillips Ultra Fast Scanner
+with Philips Image Management System (IMS) to upload the scanned images. Out of
+610 WSIs, 19 WSIs from prostate cancer slides and 64 WSIs from benign slides from
+De Novo Summary (DEN200080) Page 17O. Patient perspectives
+This submission did not include specific information on patient perspectives for this device.
+P. Identified Risks to Health and Identified Mitigations
+Identified Risks to Health Mitigation Measures
+False negative classification (loss of Certain design verification and validation,
+accuracy) including certain device descriptions, certain
+analytical studies, and clinical studies.
+Certain labeling information, including certain
+device descriptions, certain performance
+information, and certain limitations.
+False positive classification (loss of Certain design verification and validation,
+accuracy) including certain device descriptions, certain
+analytical studies, and clinical studies.
+Certain labeling information, including certain
+device descriptions, certain performance
+information, and certain limitations.
+Q. Benefit-Risk Determination
+Summary of Benefits
+The use of this device for the proposed IU population according to the proposed instructions for use
+is expected to benefit a small proportion of men who have undergone prostate biopsy in receiving a
+correct pathologic diagnosis of that biopsy. Although standard of care is expected to yield the
+correct diagnosis in the vast majority of such biopsies, there appears to be a small proportion of
+cases for which a small focus of carcinoma may be overlooked and consequently identified with the
+use of the device. In the pivotal clinical study, for 171 slides with cancer, the change from
+“unassisted benign” to “assisted defer” was 6.2%, and the change from “unassisted benign” to
+“assisted cancer” was 1.6%. Also, for 171 slides with cancer, the change from "unassisted defer" to
+"assisted benign" was 0.3% and the change from "unassisted cancer" to "assisted benign" was 0.1%.
+Therefore, in 7.3% of individual biopsy specimens with cancer, there is expected patient benefit in
+terms of an improvement in sensitivity ((6.2% + 1.6%) - (0.3% + 0.1%)). On average, improvement
+in specificity was 1.1% (specificity assisted = 89.50% minus specificity unassisted = 88.45%). It
+should be noted that this analysis is on a per-biopsy basis, not on a per patient basis. Since in a
+typical patient undergoing prostatic needle biopsy for evaluation of possible cancer, multiple core
+biopsies are obtained, and many patients with prostate biopsies have cancer in multiple biopsies,
+this expected benefit in practice would likely be substantially lower than 7.3% when evaluated on a
+per-patient basis. There is also some limited expected benefit in terms of time savings for the
+pathologist reviewing these biopsies.
+De Novo Summary (DEN200080) Page 24Summary of Risks
+The risk of use of this device for the proposed IU population according to the proposed instructions
+for use is the loss of accuracy leading to an incorrect diagnosis (false positive or false negative).
+Incorrect diagnosis is clearly harmful. This could be in the form of an incorrect diagnosis of cancer
+for which the patient may receive unnecessary treatment and psychologically harmful
+misinformation. An incorrect rendering of a benign diagnosis would likely cause a delay in the
+treatment of a cancer and would likely in some cases lead to increased morbidity and mortality.
+Benefit/Risk Conclusion
+Paige Prostate appears to provide a reasonable assurance of safety and effectiveness for diagnostic
+use by its intended users after taking into consideration the special controls. The clinical and
+analytical studies have shown that the risk of accuracy loss resulting in a false positive or false
+negative diagnosis, is minimal relative to the patient safety benefits, including new findings that
+would contribute to the correct diagnosis. This is contingent on the device being used according to
+the approved labeling, particularly that the end user must be fully aware of how to interpret and
+apply the device output.
+The potential for false negative and false positive results is mitigated by special controls. Labeling
+requirements, which include certain device description information as well as certain limitations,
+ensure that users will employ all appropriate procedures and safeguards as specified, including use
+of the device as an adjunct rather than as the sole basis of making the diagnosis.
+In addition, design verification and validation includes data on software performance as supported
+by the underlying software design, as well as software algorithm training and validation within the
+limits of the specified intended use. This also includes analytical validation (including precision
+studies) and clinical validation (including user validation studies and performance studies) studies.
+The probable clinical benefits outweigh the potential risks when the standard of care is followed by
+qualified users, and appropriate mitigation of the risks is provided for through implementation of
+and adherence to the special controls. The combination of the general controls and established
+special controls support the assertion that the probable benefits outweigh the probable risks.
+R. Conclusion
+The De Novo request is granted, and the device is classified under the following and subject to the
+special controls identified in the letter granting the De Novo request:
+Product Code: QPN
+Device type: Software algorithm device to assist users in digital pathology
+Class: II
+Regulation: 21 CFR 864.3750
+De Novo Summary (DEN200080) Page 25

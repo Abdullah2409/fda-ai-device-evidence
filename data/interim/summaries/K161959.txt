@@ -1,0 +1,210 @@
+DEPARTMENT OF HEALTH& HUMAN SERVICES
+Public Health Service
+__________________________________________________________________________________________________________________________
+Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Center –WO66-G609
+Silver Spring, MD 20993-0002
+ClearView Diagnostics, Inc. December 28, 2016
+(cid:399)(cid:3)(cid:48)(cid:86)(cid:17)(cid:3)(cid:38)(cid:75)(cid:85)(cid:76)(cid:86)(cid:87)(cid:76)(cid:81)(cid:72)(cid:3)(cid:51)(cid:82)(cid:71)(cid:76)(cid:79)(cid:70)(cid:75)(cid:88)(cid:78)
+CEO
+371 Hoes Lane, Suite 205
+PISCATAWAY NJ 08854
+Re: K161959
+Trade/Device Name: ClearView cCAD
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: II
+Product Code: LLZ
+Dated: November 23, 2016
+Received: November 28, 2016
+Dear Ms. Podilchuk:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.Page 2—Ms. Christine Podilchuk
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Industry and Consumer Educationat its toll-free number (800) 638 2041
+or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note
+the regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301)
+796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+Sincerely yours,
+For
+Robert Ochs, Ph.D.
+Director
+Division of Radiological Health
+Office of In Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+Enclosure4-15. 510(k) Summary of Safety and Effectiveness
+This 510(k) summary of safety and effectiveness information is submitted as part of the
+Premarket Notification in accordance with the requirements of 21 CFR Part 807, Subpart
+E and Section 807.92.
+1. Identification of Submitter:
+Submitter: ClearView Diagnostics Inc.
+Address: 371 Hoes Lane Suite 205
+Piscataway, NJ 08854
+Phone: 732-529-5755
+Fax: 732-529-5757
+Contact: Christine Podilchuk
+Title: CEO
+Phone: 908-616-1945
+Fax: 732-529-5757
+Summary Date: October 21, 2016
+2. Identification of Product:
+Device Name: ClearView cCAD, Version 1.1.0
+Device Common Name: Image Analysis Software
+Device Classification: 21 CFR 892.2050, Class II, LLZ (90)
+Classification Name: Image Processing System
+Manufacturer: ClearView Diagnostics Inc.
+3. Marketed Devices
+The ClearView cCAD system provides an automated analysis of lesion characteristics in
+order to facilitate the proper assessment of lesion characteristics and compliance with the
+ACR BI-RADS® ultrasound lexicon classification form. In terms of safety and
+performance, this software medical device is substantially equivalent to the device listed
+below:
+Model: B-CAD System, Version 1.0
+Manufacturer: The Medipattern Corporation
+510(k) Numbers: K050846
+510(k) Summary ClearView Diagnostics, Inc. 5-14. Device Description
+ClearView cCAD is a software application designed to assist skilled physicians in
+analyzing breast ultrasound images. ClearView cCAD automatically classifies shape and
+orientation characteristics of user-selected regions of interest (ROIs). The device uses
+multivariate pattern recognition methods to perform characterization and classification of
+images.
+For breast ultrasound, these pattern recognition and classification methods are used by a
+radiologist to analyze such features as shape, orientation, and putative BI-RADS®
+category which can then be used to describe the lesion in the ACR BI-RADS® breast
+ultrasound lexicon as well as assigning an ACR BI-RADS® categorization which is
+intended to support compliance with the ACR BI-RADS® ultrasound lexicon
+classification form. Similarly, this process can be used to assist in training, evaluation,
+and tracking of physician performance.
+The cCAD software can be run on any Windows 7 or higher or Windows Embedded
+platform that has network, Microsoft IIS, and Microsoft SQL support and is cleared for
+use in medical imaging. The software does not require any specialized hardware, but the
+time to process ROIs will vary depending on the hardware specifications. ClearView
+cCAD is based on core BI-RADS models and lesion characteristic extraction algorithms
+that can use novel statistical, texture, shape, orientation descriptors, and physician input
+to help with proper ACR BI-RADS® assessment.
+The ClearView cCAD processing software is a platform agnostic web service that queries
+and accepts DICOM compliant digital medical files from an ultrasound device, another
+DICOM source, or PACS server. To initiate analysis and processing, images are queried
+from a compatible location and loaded for display within the application. The user then
+selects an ROI to analyze by clicking and dragging a bounding box around the region
+requiring analysis. Once selected, the user then clicks the processing button which
+initiates the analysis and processing sequence. The results are displayed to the user on the
+monitor and can then be selected for automated reporting, storage, or modification. The
+output of this system will be a DICOM compatible overlay (e.g. grayscale softcopy
+presentation state (GSPS)) and/or PDF report that can be sent along with the original
+image to standard film or paper printers or sent electronically to an intranet webserver or
+other DICOM compatible devices distributed by various OEM vendors. All fields may be
+modified by the user at any time during the analysis and prior to archiving.
+510(k) Summary ClearView Diagnostics, Inc. 5-25. Indications for Use
+ClearView cCAD is a software application designed to assist skilled physicians in
+analyzing breast ultrasound images. ClearView cCAD automatically classifies shape and
+orientation characteristics of user-selected regions of interest (ROIs).
+The software allows the user to annotate, tag, measure, and automatically record and/or
+store selected views. The software also automatically generates reports from user inputs
+annotated during the image analysis process as well as the automatically generated
+characteristics. The output of this system will be a DICOM compatible (e.g. grayscale
+softcopy presentation state (GSPS)) and/or PDF report that can be sent along with the
+original image to standard film or paper printers or sent electronically to an intranet
+webserver or other DICOM compatible device.
+cCAD includes options to annotate and describe the image based on the ACR BI-
+RADS® Breast Imaging Atlas. In addition, the report form has been designed to support
+compliance with the ACR BI-RADS ® Ultrasound Lexicon Classification Form.
+When interpreted by a skilled physician, this device provides information that may be
+useful in screening and diagnosis. Patient management decision should not be made
+solely on the results of the cCAD analysis. The ultrasound images displayed on cCAD
+must not be used for primary diagnostic interpretation.
+6. Substantial Equivalence Chart
+Product BCAD (K050846) ClearView cCAD
+Characteristics Software for automated analysis of Software for automated analysis of
+breast ultrasound lesions. breast ultrasound lesions.
+Intended Use Computer aided analysis tool Computer aided analysis tool
+intended to assist skilled physicians intended to assist skilled physicians
+in screening and diagnosis as well as in screening and diagnosis as well as
+compliance with ACR BI-RADS® compliance with ACR BI-RADS®
+ultrasound lexicon form. ultrasound lexicon form.
+Physical Software Package Software Package
+Characteristics Operates on off-the-shelf hardware Operates on off-the-shelf hardware
+Computer PC compatible PC compatible
+Operating Windows XP, Windows 2000 Windows 7, and higher, Windows
+System Embedded
+Storage Storage not supported Storage not supported
+Image Input DICOM DICOM
+510(k) Summary ClearView Diagnostics, Inc. 5-3For further discussion, please see sections 7 and 8.
+7. Indications for Use Comparison
+The indications for use for ClearView cCAD are substantially equivalent to those from
+the predicate device BCAD with one minor exception. In the BCAD indications for use
+they indicate their software automatically segments lesions whereas the cCAD software
+does not automatically segment lesions. The segmentation is not needed in the
+ClearView cCAD automatic classification of shape and orientation characteristics. The
+performance of the cCAD system has been shown to be just as effective as a radiologist’s
+performance without the additional segmentation step. This performance is comparable
+to the BCAD predicate device and as such, the omission of the automatic segmentation
+step does not impact the safety and effectiveness of the device when used as labeled.
+In addition, patient management decisions are not being made solely based on the results
+from either the cCAD analysis or the BCAD output.
+8. Features and Principles of Operation Comparison
+ClearView cCAD is similar to predicate devices BCAD (K050846) as a software
+package that operates on standard off-the-shelf hardware and supports automated analysis
+of lesion shape and orientation in DICOM format. ClearView cCAD contains novel
+shape and orientation algorithms that likely differ from the algorithms used in the BCAD
+product. Since ClearView does not have access to the data BCAD was evaluated on,
+these algorithms have been tested for agreement against MQSA certified radiologists as
+described in section 18.
+The cCAD software platform also does not perform segmentation of the lesions at any
+point in its pipeline for characteristics analysis and as such does not display segmentation
+results in contrast to the BCAD product. This difference also does not impact overall
+performance as assessed and described in section 18.
+The cCAD client is web based, whereas the BCAD product was a standalone application.
+This raises the question of equivalence which is addressed by Software Requirements 120
+and 122, specific mitigations were taken to ensure that all image analysis was performed
+on the original full resolution images and is agnostic to the display and/or hardware
+accessing the client. In addition, as per the IFU of both cCAD and its predicate devices,
+the cCAD software is not to be used as the primary diagnostic interpretation platform.
+510(k) Summary ClearView Diagnostics, Inc. 5-49. Non-Clinical Performance Data
+Bench testing was performed to ascertain the degree of concordance with skilled
+physicians. Ground truth for shape and orientation supplied by three MQSA certified
+skilled physicians, each with over 20 years of experience and at least 3000 images read
+per year evaluated this dataset on the aforementioned parameters. The system was
+analyzed on 1204 cases which had majority decision on shape and 1227 lesions which
+had majority decision on orientation. The Clearview cCAD system was able to achieve
+overall accuracy that fell within the 95% confidence interval of the radiologist
+performance, rendering them statistically equivalent. Based on these metrics, the ability
+of ClearView’s cCAD system to discern BI-RADS® based shape and orientation
+parameters was confirmed.
+10. Conclusion
+After analyzing bench testing data, it is the conclusion of ClearView Diagnostics that the
+ClearView cCAD System is as safe and effective as the predicate devices, has few
+technological differences, only a minor change to the indications for use, and only minor
+interface changes, thus rendering it substantially equivalent to the predicate device.
+510(k) Summary ClearView Diagnostics, Inc. 5-5

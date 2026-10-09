@@ -1,0 +1,275 @@
+Nines, Inc. April 21, 2020
+℅ John J. Smith, M.D., J.D.
+Regulatory Counsel
+Hogan Lovells US LLP
+555 13th Street, NW
+WASHINGTON DC 20004
+Re: K193351
+Trade/Device Name: NinesAI
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: March 30, 2020
+Received: March 30, 2020
+Dear Dr. Smith:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-K193351 - John J. Smith, M.D., J.D. Page 2
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 06/30/2020
+Indications for Use See PRA Statement below
+510(k) Number
+K193351
+Device Name
+NinesAI
+Indications for Use (Describe)
+NinesAI is a parallel workflow tool indicated for use by hospital networks and trained clinicians to identify images of
+specific patients to a radiologist, independent of standard of care workflow, to aid in prioritizing and performing the
+radiological review. NinesAI uses artificial intelligence algorithms to analyze head CT images for findings suggestive of a
+pre-specified emergent clinical condition.
+The software automatically analyzes Digital Imaging and Communications in Medicine (DICOM) images as they arrive in
+the Picture Archive and Communication System (PACS) using machine learning algorithms. Identification of suspected
+findings is not for diagnostic use beyond notification. Specifically, the software analyzes head CT images of the brain to
+assess the suspected presence of intracranial hemorrhage and/or mass effect and identifies images with potential
+emergent findings in a radiologist’s worklist.
+NinesAI is intended to be used as a triage tool limited to analysis of imaging data and should not be used in-lieu of full
+patient evaluation or relied upon to make or confirm a diagnosis. Additionally, preview images displayed to the radiologist
+outside of the DICOM viewer are non-diagnostic quality and should only be used for informational purposes.
+Type of Use (Select one or both, as applicable)
+X Prescription Use (Part 21 CFR 801 Subpart D) ☐ Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including
+the time to review instructions, search existing data sources, gather and maintain the data needed and
+complete and review the collection of information. Send comments regarding this burden estimate or any
+other aspect of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human
+Services Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.
+FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(k) SUMMARY
+Nines, Inc.’s NinesAI
+K193351
+Submitter:
+Nines, Inc.
+329 Alma Street
+Palo Alto, CA 94301
+Contact Person:
+Dr. Russell Stewart
+Phone: 650 924 6159
+russell@ninesai.com
+Date Prepared: April 17, 2020
+Name of Device: NinesAI
+Classification Name: Radiological Computer-Assisted Triage and Notification Software
+Regulatory Class: Class II
+Product Code: QAS
+Predicate Device: Aidoc Medical’s BriefCase (K180647)
+Device Description
+NinesAl notifies a radiologist of the presence of a suspected critical abnormality in a radiological
+image. The software system is a complete package comprised of image analysis software and a
+workstation module that is used to alert the radiologist. The image analysis can also be configured to
+send HL7 messages and DICOM secondary series.
+The image analysis uses Artificial Intelligence (AI) technology to analyze non contrast CT Head
+scans for the presence of Intracranial Hemorrhage and/or Mass Effect. More specifically, the device
+utilizes two machine learning (ML) algorithms to detect each finding respectively.
+NinesAI is a software device and does not come into contact with patients. All radiological studies
+are still reviewed by trained radiologists. NinesAI is meant to be used as an aid for case
+prioritization.Intended Use / Indications for Use
+NinesAI is a parallel workflow tool indicated for use by hospital networks and trained clinicians to
+identify images of specific patients to a radiologist, independent of standard of care workflow, to aid
+in prioritizing and performing the radiological review. NinesAI uses artificial intelligence algorithms to
+analyze head CT images for findings suggestive of a pre-specified emergent clinical condition.
+The software automatically analyzes Digital Imaging and Communications in Medicine (DICOM)
+images as they arrive in the Picture Archive and Communication System (PACS) using machine
+learning algorithms. Identification of suspected findings is not for diagnostic use beyond notification.
+Specifically, the software analyzes head CT images of the brain to assess the suspected presence
+of intracranial hemorrhage and/or mass effect and identifies images with potential emergent findings
+in a radiologist’s worklist.
+NinesAI is intended to be used as a triage tool limited to analysis of imaging data and should not be
+used in-lieu of full patient evaluation or relied upon to make or confirm a diagnosis. Additionally,
+preview images displayed to the radiologist outside of the DICOM viewer are non-diagnostic quality
+and should only be used for informational purposes.
+Summary of Technological Characteristics
+The NinesAI indications for use differ slightly from the predicate, but the minor differences do not
+negatively impact the safety and effectiveness of the subject device. In sum, the predicate is
+indicated for use to analyze images for the presence of ICH. NinesAI is indicated for use to analyze
+ICH, as well as Mass Effect. The additional potential finding of Mass Effect can be seen
+concomitantly with ICH cases and the detection of such potential pathology is supported by
+performance testing. All potential findings covered by the predicate and NinesAI are emergent
+findings in the head.
+Artificial intelligence algorithms are the technological principle for both the subject and predicate
+devices. The algorithms are trained using a database of radiological images. At a high level, the
+subject and predicate devices are based on the following same technological elements:
+● Artificial Intelligence Algorithm(s);
+● Notification Technology.
+A table comparing the key features of the subject and predicate devices is provided below.
+NinesAI (K193351) AIDoc’s BriefCase (K180647)
+Indications for Use NinesAI is a parallel workflow tool BriefCase is a radiological computer
+indicated for use by hospital networks aided triage and notification software
+and trained clinicians to identify indicated for use in the analysis of
+images of specific patients to a non-enhanced head CT images.
+radiologist, independent of standard The device is intended to assist
+of care workflow, to aid in prioritizing hospital networks and trained
+and performing the radiological radiologists in workflow triage by
+review. NinesAI uses artificial flagging and communication of
+intelligence algorithms to analyze suspected positive findings of
+head CT images for findings pathologies in head CT images,NinesAI (K193351) AIDoc’s BriefCase (K180647)
+suggestive of a pre-specified namely Intracranial Hemorrhage
+emergent clinical condition. (ICH).
+BriefCase uses an artificial
+The software automatically analyzes intelligence algorithm to analyze
+Digital Imaging and Communications images and highlight cases with
+in Medicine (DICOM) images as they detected ICH on a standalone
+arrive in the Picture Archive and desktop application in parallel to the
+Communication System (PACS) ongoing standard of care image
+using machine learning algorithms. interpretation. The user is presented
+Identification of suspected findings is with notifications for cases with
+not for diagnostic use beyond suspected ICH findings. Notifications
+notification. Specifically, the software include compressed preview images
+analyzes head CT images of the that are meant for informational
+brain to assess the suspected purposes only and not intended for
+presence of intracranial hemorrhage diagnostic use beyond notification.
+and/or mass effect and identifies The device does not alter the original
+images with potential emergent medical image and is not intended to
+findings in a radiologist’s worklist. be used as a diagnostic device.
+The results of BriefCase are intended
+NinesAI is intended to be used as a to be used in conjunction with other
+triage tool limited to analysis of patient information and based on
+imaging data and should not be used professional judgment, to assist with
+in-lieu of full patient evaluation or triage/prioritization of medical images.
+relied upon to make or confirm a Notified clinicians are responsible for
+diagnosis. Additionally, preview viewing full images per the standard
+images displayed to the radiologist of care.
+outside of the DICOM viewer are non-
+diagnostic quality and should only be
+used for informational purposes.
+User Population Radiologists Radiologists
+Technological Artificial Intelligence algorithms Artificial Intelligence algorithms
+Characteristics detecting emergent findings sending detecting emergent findings sending
+notifications to the workstation. notifications to the workstation.
+Components - Artificial Intelligence - Artificial Intelligence
+Algorithm Algorithm
+- Notification Technology - Notification Technology
+Anatomical Region Head Head
+of Interest
+Findings Covered Intracranial Hemorrhage and Mass Intracranial Hemorrhage
+Effect
+Data Acquisition Non contrast CT scan of the head Non contrast CT scan of the head or
+Protocol neck
+View DICOM Data DICOM information about the patient, DICOM information about the patient,
+study and current image study and current image
+Preview Images Presentation of notification and Presentation of notification and
+preview of the study for initial preview of the study for initial
+assessment not meant for diagnostic assessment not meant for diagnostic
+purposes. This is done via desktop purposes. This is done via desktop
+notification or via DICOM series. notification.
+The device operates in parallel with The device operates in parallel with
+the standard of care, which remains the standard of care, which remainsNinesAI (K193351) AIDoc’s BriefCase (K180647)
+the default option for all cases the default option for all cases
+Alteration of No No
+Original Image
+Removal of Cases No No
+from Worklist
+Queue
+Triage Notification Workstation Application Notification, Workstation Application Notification
+Types HL7
+Performance Testing
+Nines performed software verification and validation testing that covers the performance of the
+algorithms, as well as the performance of the software and its components. In all instances, NinesAI
+functioned as intended and expected.
+The NinesAI device underwent performance testing to verify the efficacy and safety of the machine
+learning algorithms. Both of the algorithms used in NinesAI were evaluated independently from each
+other to allow for an individual understanding of each algorithm’s respective performance. Each
+algorithm was tested in a retrospective performance trial, with the primary endpoints of each trial
+being the respective sensitivity and specificity of the algorithm in question. Other endpoints included:
+Positive Predictive Value, Negative Predictive Value, ROC AUC, time savings relative to standard of
+care, and agreement rate between labelers who determined ground truth for the test dataset studies.
+Head CT studies included in each of the test datasets were obtained from over 20 clinical sites and
+included a minimum of 3 scanner manufacturers and over 20 scanner models, and also reflected
+broad patient demographics.
+The primary endpoints for each algorithm are listed below:
+Finding Sensitivity [95% confidence Specificity [95% confidence
+intervals] intervals]
+Intracranial Hemorrhage 0.899 0.974
+[0.837, 0.940] [0.994, 0.992]
+Mass Effect 0.964 0.911
+[0.916, 0.987] [0.856, 0.948]
+A time benefit analysis was performed for each algorithm and showed a time-to-notification that is
+faster than the similar standard of care metric of time-to-open-dictation. These results are
+summarized below for each algorithm.
+The time-savings data for Intracranial Hemorrhage is listed below:
+Metric Mean (min) Median (min)
+Time-to-open-dictation 159.4 [67.07, 251.7] 6.0
+standard of careMetric Mean (min) Median (min)
+Time-notification of 0.23 [0.23, 0.24] 0.24
+NinesAI
+The time-savings data for Mass Effect is listed below:
+Metric Mean (min) Median (min)
+Time-to-open-dictation 28.5 [14.1, 42.8] 7.5
+standard of care
+Time-notification of 0.23 [0.23, 0.24] 0.24
+NinesAI
+The Intracranial Hemorrhage and Mass Effect algorithms met the performance goal outlined by the
+predicate device of .80 for both sensitivity and specificity. Additionally, the performance for each
+algorithm is comparable to the observed performance reported for the predicate device: 93.6% (95%
+CI: 86.6%-97.6%) sensitivity and 92.3% (95% CI: 85.4%-96.6%) specificity.
+Based on the clinical performance as documented in the pivotal clinical study, the subject software
+has a safety and effectiveness profile that is similar to the predicate device.
+Conclusions
+NinesAI has the same intended uses and similar indications, technological characteristics, and
+principles of operation as its predicate device. The minor differences in indication do not alter the
+intended use of the device and do not affect its safety and effectiveness when used as labeled. In
+addition, the minor technological differences between the NinesAI and its predicate devices raise no
+new issues of safety or effectiveness. Performance data demonstrate that NinesAI performs as
+intended. Thus, NinesAI is substantially equivalent.

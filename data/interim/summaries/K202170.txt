@@ -1,0 +1,455 @@
+Perspectum LTD October 2, 2020
+Jaco Jacobs
+Chief Compliance Officer
+Gemini One, 5520 John Smith Drive
+Oxford, Oxfordshire OX4 2LL
+UNITED KINGDOM
+Re: K202170
+Trade/Device Name: LiverMultiScan (LMSv4)
+Regulation Number: 21 CFR 892.1000
+Regulation Name: Magnetic resonance diagnostic device
+Regulatory Class: Class II
+Product Code: LNH
+Dated: March 13, 2020
+Received: August 3, 2020
+Dear Jaco Jacobs:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.18
+SilverSpring, MD 20993
+www.fda.govK202170 - Jaco Jacobs Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureLMSv4 510(k) Summary
+Date Prepared: 21st of July 2020
+1. Submitter Details
+Owner Address: Perspectum Ltd
+Gemini One,
+5520 John Smith Drive,
+Oxford Business Park,
+Oxford,
+OX4 2LL
+Owner/Operator Number: 10056574
+Establishment Registration Number: 3014232555
+Contact Person: Dr Jaco Jacobs
+jaco.jacobs@perspectum.com
++44 (0) 1865 655329
+2. Subject and Predicate Device
+Subject Device Predicate Device
+510(k) number Not known K190017
+Legal Manufacturer Perspectum Ltd. Perspectum Diagnostics Ltd.
+Owner/Owner Operator 10056574 10056574
+NDeuvmicbee Nr ame LiverMultiScan (LMSv4) LiverMultiScan (LMSv3)
+Proprietary/Common LiverMultiScan LiverMultiScan
+nPaanmeel Radiology Radiology
+Regulation 892.1000 892.1000
+Risk Class Class II Class II
+Product Class code LNH LNH
+Classification System, Nuclear Magnetic System, Nuclear Magnetic
+Resonance Imaging Resonance Imaging
+3. Subject Device Description
+3.1. General
+LiverMultiScan is a standalone software device. The purpose of the LiverMultiScan device is to assist a trained
+operator with the evaluation of information from Magnetic Resonance (MR) images from a single time-point (a
+patient visit). LiverMultiScan is a post-processing software device, a trained operator uses tools such as automatic liver
+segmentation and region of interest placement upon previously acquired MR images, from which a summary report is
+generated. The summary report is subsequently sent to an interpreting clinician at the acquiring site.
+LiverMultiScan is not intended to replace the established procedures for the assessment of a patient’s liver health by
+an interpreting clinician, providing many opportunities for competent human intervention in the interpretation of
+images and information displayed.
+Page 1 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printedLMSv4 510(k) Summary
+The metrics are intended to be used as an additional diagnostic input to provide information to clinicians as part of a
+wider diagnostic process. It is expected that in the normal course of liver disease diagnosis, patients will present with
+clinical symptoms or risk factors which may indicate liver disease. The interpreting clinician needs to take into
+consideration the device’s limitations and accuracy during clinical interpretation.
+Liver function tests, blood tests, ultrasound scanning as well as liver biopsy are all expected to be used at the
+discretion of a qualified clinician in addition to information obtained from the use of LiverMultiScan metrics. The
+purpose of LiverMultiScan metrics is to provide imaging information to assist in characterizing tissue in the liver, in
+addition to existing methods for obtaining information relating to the liver. LiverMultiScan metrics are not intended to
+replace any existing diagnostic source of information but can be used to identify patients who may benefit most from
+further evaluation, including biopsy.
+Information gathered through existing diagnostic tests and clinical evaluation of the patient, as well as information
+obtained from LiverMultiScan metrics, may contribute to a diagnostic decision.
+LiverMultiScan is not a computer-aided diagnostic device and can only present imaging information which must be
+interpreted by a qualified clinician. LiverMultiScan is an aid to diagnosis; and diagnosis and treatment decisions
+remains the responsibility of the clinician.
+In consequence, the product is considered to have no adverse effect on health since the results represent only a part
+of the information that the user will utilize for final interpretation. In this regard, LiverMultiScan presents a moderate
+level of concern with respect to patient safety.
+3.2. Sterilization and Shelf Life
+LMSv4 is a standalone software device thus it is non-contact, non-invasive and non-sterile. The shelf life of LMSv4 is
+indefinite as long as the manufacturer continues to support the device. Both sterilization and shelf life characteristics
+are equivalent of the predicate device.
+3.3. Biocompatibility
+LMSv4 is a standalone software device thus it is non-contact and non-invasive. No biocompatibility testing was
+deemed necessary to demonstrate the safety and effectiveness of LMSv4. LMSv4 does not consists of materials that
+differ from the predicate device.
+3.4. Software
+LMSv4 was successfully validated and verified against the requirements specification and its intended use. The results
+from the validation and verification activities, documented in this submission, corroborate that LMSv4 meets the
+product requirement specifications and intended use, which is deemed to be substantially equivalent to the predicate
+(see section below).
+Validation and verification activities were conducted in a controlled environment and in compliance with IEC
+62304:2006, ISO 13485:2016 and 21 CFR 820. LMSv4 is also in compliance with the DICOM standard.
+3.5. Electromagnetic and Electrical Safety
+LMSv4 is a standalone software device, there are no electromagnetic or electrical safety risks associated with the
+direct use of the LMSv4 device. No electromagnetic or electrical safety testing was deemed necessary to demonstrate
+the safety and effectiveness of LMSv4.
+Page 2 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printedLMSv4 510(k) Summary
+4. Subject and Predicate Comparison
+4.1. Subject and Predicate Device Comparison
+The following characteristics were compared between the subject device and the predicate device in order to
+demonstrate substantial equivalence.
+Comparison of Subject and Predicate Device
+Characteristic LMSv4 (Subject device) LMSv3 (Predicate device)
+Intended Use “LiverMultiScan (LMSv4) is indicated for use as “LiverMultiScan (LMSv3) is indicated for use as
+and Indications a magnetic resonance diagnostic device a magnetic resonance diagnostic device
+for Use software application for non-invasive liver software application for non-invasive liver
+evaluation that enables the generation, display evaluation that enables the generation, display
+and review of 2D magnetic resonance medical and review of 2D magnetic resonance medical
+image data and pixel maps for MR relaxation image data and pixel maps for MR relaxation
+times. times.
+LiverMultiScan (LMSv4) is designed to utilize LiverMultiScan (LMSv3) is designed to utilize
+DICOM 3.0 compliant magnetic resonance DICOM 3.0 compliant magnetic resonance
+image datasets, acquired from compatible MR image datasets, acquired from compatible MR
+systems, to display the internal structure of the systems, to display the internal structure of
+abdomen including the liver. Other physical the abdomen including the liver. Other
+parameters derived from the images may also physical parameters derived from the images
+be produced. may also be produced.
+LiverMultiScan (LMSv4) provides a number of LiverMultiScan (LMSv3) provides a number of
+tools, such as automated liver segmentation tools, such as automated liver segmentation
+and region of interest (ROI) placements, to be and region of interest (ROI) placements, to be
+used for the assessment of selected regions of used for the assessment of selected regions of
+an image. Quantitative assessments of an image. Quantitative assessments of
+selected regions include the determination of selected regions include the determination of
+triglyceride fat fraction in the liver (PDFF), T2* triglyceride fat fraction in the liver (PDFF), T2*
+and iron-corrected T1 (cT1) measurements. and iron-corrected T1 (cT1) measurements.
+T2* may be optionally computed using the PDFF may optionally be computed using the
+DIXON or LMS MOST methods. LMS IDEAL or three-point DIXON
+methodology.
+These images and the physical parameters
+derived from the images, when interpreted by These images and the physical parameters
+a trained clinician, yield information that may derived from the images, when interpreted by
+assist in diagnosis.” a trained clinician, yield information that may
+assist in diagnosis.”
+Target Patients suitable to undergo an MRI scan and Patients suitable to undergo an MRI scan and
+Population not contra-indicated for MRI. not contra-indicated for MRI.
+Device User Trained Perspectum operator Trained Perspectum operator
+Report User An interpreting clinician or healthcare An interpreting clinician or healthcare
+practitioner. practitioner.
+Device Use Installation of LMSv4 is controlled and installed Installation of LMSv3 is controlled and
+Environment on general purpose workstations at installed on general purpose workstations at
+Perspectum’s image analysis centre, by Perspectum’s image analysis centre by
+specialist members of staff. specialist members of staff.
+Page 3 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printedLMSv4 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic LMSv4 (Subject device) LMSv3 (Predicate device)
+Clinical Setting LMSv4 is a standalone software device that is LMSv3 is a standalone software device that is
+intended to be installed on general use intended to be installed on general use
+workstations at Perspectum’s image analysis workstations at Perspectum’s image analysis
+centre. The intended device users will log on to centre. The intended device users will log on
+the workstations, access the device, and use to the workstations, access the device, and
+the device on general-use HD monitors. use the device on general-use HD monitors.
+LMSv4 is a post-processing software, the LMSv3 is a post-processing software, the
+intended device users are trained internal intended device users are trained internal
+Perspectum operators. Operators use LMS to Perspectum operators. Operators use LMS to
+conduct quantitative analysis of liver tissue conduct quantitative analysis of liver tissue
+characteristics to produce a report. characteristics to produce a report.
+The end-users for the output from the device, The end-users for the output from the device,
+the pdf report, are clinicians who receive and the pdf report, are clinicians who receive and
+interpret LMSv4 reports through the QAS. interpret LMSv3 reports through the QAS.
+Anatomical Abdomen, Liver Abdomen, Liver
+Location
+Energy Software only application. The device, a Software only application. The device, a
+Considerations standalone software application, does not standalone software application, does not
+deliver, monitor or depend on energy deliver, monitor or depend on energy
+delivered to or from patients. delivered to or from patients.
+Design: Purpose LMS is a standalone software application that LMS is a standalone software application that
+imports MR data sets encompassing the imports MR data sets encompassing the
+abdomen, including the liver. Visualisation and abdomen, including the liver. Visualisation
+display of 2D multi-slice, spin-echo MR data and display of 2D multi-slice, spin-echo MR
+can be analysed, and quantitative metrics of data can be analysed, and quantitative
+tissue characteristics are then reported. metrics of tissue characteristics are then
+reported.
+Datasets imported into LMS are DICOM 3.0
+compliant, reported metrics are independent Datasets imported into LMS are DICOM 3.0
+of the MRI equipment vendor. compliant, reported metrics are independent
+of the MRI equipment vendor.
+Design: Tools Allows for the visualisation via parametric Allows for the visualisation via parametric
+maps and quantification of metrics (cT1, T2* maps and quantification of metrics (cT1, T2*
+and PDFF) from liver tissue and exportation of
+and PDFF) from liver tissue and exportation of
+results & images to a deliverable report.
+results & images to a deliverable report.
+LMSv3 allows for:
+LMSv4 allows for:
+cT1 cT1
+• Full segmentation of the outer liver • Full segmentation of the outer liver
+contour and liver vasculature of the cT1 contour and liver vasculature of the cT1
+parametric map. Interquartile Range (IQR) parametric map.
+Interquartile Range (IQR) and median
+and median metrics are reported from the
+metrics are reported from the
+segmentation.
+segmentation.
+Page 4 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printedLMSv4 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic LMSv4 (Subject device) LMSv3 (Predicate device)
+• ROI placed method on the cT1 map with • ROI placed method on the cT1 map with
+IQR and median metrics from the placed IQR and median metrics from the placed
+ROI’s potentially across multiple acquired
+ROI’s potentially across multiple acquired
+slices.
+slices.
+T2* T2*
+• ROI placed method on the T2* map with • ROI placed method on the T2* map with
+IQR and median metrics from the placed IQR and median metrics from the placed
+ROI’s potentially across multiple acquired ROI’s potentially across multiple acquired
+slices.
+slices.
+• T2* parametric maps are calculated from
+• T2* parametric maps are calculated from
+the three-point DIXON method.
+the MOST method or the three-point
+DIXON method.
+PDFF PDFF
+• Full liver segmentation of the PDFF • Full liver segmentation of the PDFF
+parametric map where IQR and median
+parametric map where IQR and median
+metrics are reported from the
+metrics are reported from the
+segmentation.
+segmentation.
+• ROI placed method on the PDFF map with
+• ROI placed method on the PDFF map with
+IQR and median metrics from the placed
+IQR and median metrics from the placed ROI’s potentially across multiple acquired
+ROI’s potentially across multiple acquired slices.
+slices. • PDFF parametric maps can be calculated
+using either the LMS IDEAL method 1 or
+• PDFF parametric maps are calculated
+the three-point DIXON method 2
+using the LMS IDEAL method 1
+Design: MR T1, iron-corrected T1 (cT1) and T2* mapping. T1, iron-corrected T1 (cT1) and T2* mapping.
+Relaxometry
+Design: Liver Fat Utilizes MR images that exploit the difference Utilizes MR images that exploit the difference
+Quantification in resonance frequencies between hydrogen in resonance frequencies between hydrogen
+nuclei in water and triglyceride fat using the nuclei in water and triglyceride fat using either
+LMS IDEAL method. the LMS IDEAL method or three-point DIXON
+method.
+Design: Liver LMSv4 supports automatic multi-slice full liver LMSv3 supports automatic multi-slice full liver
+Segmentation segmentation of the cT1 and PDFF parametric segmentation of the cT1 and PDFF parametric
+map, use of this functionality is at the map, use of this functionality is at the
+discretion of the operator instead or in discretion of the operator instead or in
+combination with the ROI based method. combination with the ROI based method.
+The cT1 segmented liver is presented in colour The cT1 segmented liver is presented in colour
+level window, while the rest of the cT1 image level window, while the rest of the cT1 image
+is presented in greyscale level window with is presented in greyscale level window with
+ducts and liver vasculature excluded from the ducts and liver vasculature excluded from the
+segmented volume. segmented volume.
+Page 5 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printedLMSv4 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic LMSv4 (Subject device) LMSv3 (Predicate device)
+Design: Regions Median and interquartile range measurements Median and interquartile range measurements
+of Interest (ROI) created from a cross sectional slice of liver created from a cross sectional slice of liver
+tissue. For each parametric map, statistics tissue. For each parametric map, statistics
+from multiple Regions of Interest (ROIs) – from multiple Regions of Interest (ROIs) –
+potentially placed across multiple slices – are potentially placed across multiple slices – are
+summarised. summarised.
+Design: Iron corrected T1 (cT1), T2* and Proton Iron corrected T1 (cT1), T2* and Proton
+Parametric Density Fat Fraction (PDFF) parametric maps Density Fat Fraction (PDFF) parametric maps
+Maps
+can be created from all supported scanners. can be created from all supported scanners.
+PDFF is quantified using the LMS IDEAL PDFF is quantified using the LMS IDEAL
+method. Parametric maps of T2* may be method or the three-point DIXON method.
+optionally be computed using either the
+three-point DIXON method or the LMS MOST
+method.
+Design: Numerous views within the LMSv4 interface Numerous views within the LMSv4 interface
+Visualisation can be used to assist in analysis, Iron- can be used to assist in analysis, iron
+corrected T1 (cT1), T2* and triglyceride fat
+corrected T1 (cT1), T2* and triglyceride fat
+(also known as Proton Density Fat Fraction
+(also known as Proton Density Fat Fraction
+(PDFF)) parametric maps can be created from
+(PDFF)) parametric maps can be created from
+all supported scanners.
+all supported scanners. R2 maps can also be
+utilised to assess the quality of the map fitting. Iron corrected T1 (cT1) displayed using the
+LMSv3 colourmap, designed to have maximum
+Iron- corrected T1 (cT1) displayed using LMSv4
+contrast on liver parenchymal tissue.
+colourmap, designed to have maximum
+contrast on liver parenchymal tissue.
+Design: DICOM 3.0 compliant MR data from supported DICOM 3.0 compliant MR data from supported
+Supported MRI scanners. MRI scanners.
+Modalities
+Design: Report Quantified metrics and images derived from Quantified metrics and images derived from
+the analysis conducted of liver tissue the analysis conducted of liver tissue
+characteristic on parametric maps are collated characteristic on parametric maps are
+into a report for evaluation and interpretation collated into a report for evaluation and
+by a clinician. interpretation by a clinician.
+Compatibility Installation of LMSv4 is controlled and is Installation of LMSv3 is controlled and is
+with the installed on general purpose workstations that installed on general purpose workstations
+environment meet the minimum technical requirements at that meet the minimum technical
+Perspectum’s image analysis centre by requirements at PD’s image analysis centre by
+specialist members of staff. specialist members of staff.
+Performance Device performance was assessed with Device performance was assessed with
+purpose-built phantoms and in-vivo acquired purpose-built phantoms and in-vivo acquired
+data from volunteers covering a range of data from volunteers covering a range of
+physiological values for cT1, T2* and PDFF. physiological values for cT1, T2* and PDFF.
+Supported MRI Validated across all listed supported Validated across all listed supported
+Systems manufacturers and field strengths. manufacturers and field strengths.
+Standards IEC 62304, IEC 62366, DICOM 3.0, ISO 14971, IEC 62304, IEC 62366, DICOM 3.0, ISO 14971,
+ISO 13485 ISO 13485
+Page 6 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printedLMSv4 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic LMSv4 (Subject device) LMSv3 (Predicate device)
+System/Operati Mac OS Mac OS
+ng System
+Materials Not applicable, standalone software. Not applicable, standalone software.
+Biocompatibility Not applicable, standalone software. Not applicable, standalone software.
+Sterility Not applicable, standalone software. Not applicable, standalone software.
+Electrical Safety Not applicable, standalone software. Not applicable, standalone software.
+Mechanical Not applicable, standalone software. Not applicable, standalone software.
+Safety
+Chemical Safety Not applicable, standalone software. Not applicable, standalone software.
+Thermal Safety Not applicable, standalone software. Not applicable, standalone software.
+Radiation Safety Not applicable, standalone software. Not applicable, standalone software.
+Table 1. Comparison of similar characteristics between the subject and predicate device.
+In conclusion, the subject device does not result in any new potential safety risk when compared to the chosen
+predicate device and performs in accordance with its use characteristics and intended use.
+5. Performance Testing
+LMSv4 underwent performance testing under controlled conditions to corroborate that it is safe and effective when
+used as intended. The performance testing conducted demonstrates that LMSv4 is at least as safe and effective as the
+predicate device and does not introduce any new risks.
+5.1. Performance Testing - Bench
+The accuracy and precision of device measurements was assessed using purpose-built phantoms containing vials with
+different relaxation times corresponding to the physiological range of liver tissue values expected to be seen in-vivo.
+Accuracy was measured by the proximity of quantified LMSv4 values to the gold standard. The results of which are
+summarized below:
+Accuracy
+Metric
+1.5T 3T
+Limits of Agreement
+cT1 -189.5 to -35.11 ms -187.0 to -19.12 ms
+T2* -0.68 to 0.64 ms -0.30 to 0.39 ms
+IDEAL PDFF (lowe-r3 t.h8a0n t og r6o.u08n%d truth lower-1 t.h3a9n t ogr 5o.u5n8d% t ruth
+Table 2. Pooled performance testing - bench
+• The MOLLI-based T1 measurement produced by LMSv4 is consistent with the literature-reported
+underestimation of ground truth T1 using MOLLI techniques 34
+• LMSv4 measurement of T2* is accurate over the expected physiological range of values
+• LMSv4 measurement of PDFF is accurate over the expected physiological range of values
+5.2. Performance Testing - Clinical
+To assess the precision of LMSv4 measurements across supported scanners in-vivo acquired volunteer data was used,
+volunteers participating in the performance testing were representative of the intended patient population. Inter and
+intra operator variability was also assessed. The results of which are summarized below:
+Page 7 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printedLMSv4 510(k) Summary
+Repeatability Reproducibility
+Metric
+Limits of Agreement Limits of Agreement
+cT1 (ROI) - 43.25 to 26.77 ms -103 to 91.8 ms
+cT1 (Segmentation) - 40.75 to 25.02 ms -102.3 to 93.69 ms
+T2* (DIXON) - 5.21 to 6.01 ms -1.74 to 0.35 ms
+T2* (MOST) - 3.17 to 3.25 ms -2.40 to 2.15 ms
+IDEAL PDFF (ROI) -1.48 to 1.42% -2.88 to 2.53%
+IDEAL PDFF (Segmentation) -1.31 to 1.34 % -2.94 to 2.53%
+Table 3. Pooled performance testing - clinical
+• LMSv4 measurements of cT1, T2* and PDFF are highly repeatable
+• LMSv4 measurements of cT1, T2* and PDFF are reproducible between scanners and field strengths
+• The variation introduced by operator measurements with both ROI placement and segmentation method is well
+within the prescribed acceptance criteria.
+5.3. Clinical Investigation
+No clinical investigations or studies were conducted during performance testing of LMSv4.
+6. Conclusion
+The subject device is substantially equivalent to the predicate device, both regulated under regulation 21 CFR
+892.1000. Substantial equivalence is based on the following observations:
+• The indications for use and intended uses of both the subject device and predicate device are substantially
+equivalent.
+• The subject and predicate devices are both software applications which facilitate the import and visualization of
+MR data sets to visualise and enable quantification of physiological characteristics in the liver to provide
+measurements.
+• The subject and predicate devices both support tools and features to derive measurements from MR images
+and parametric maps of tissue characteristics.
+• The subject and predicate device facilitate the creation of a medical report containing the images and analysis
+output derived from quantification of liver tissue parameters intended to be interpreted by a trained clinician.
+• Both the subject and predicate devices are designed to run on general-purpose computing hardware and
+intended to be used in the same environment.
+• Performance testing and risk management demonstrates that the subject device performs at least as safely and
+effectively as the proposed predicate device and supports the determination of substantial equivalence.
+In conclusion, the subject device does not result in any new potential safety risks when compared to the chosen
+predicate device and performs in accordance with its use characteristics and intended use.
+Page 8 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printedLMSv4 510(k) Summary
+References
+1. Reeder, S. B. et al. Iterative decomposition of water and fat with echo asymmetry and least-squares estimation
+(IDEAL): Application with fast spin-echo imaging. Magn. Reson. Med. 54, 636–644 (2005).
+2. Dixon, W. T. Simple proton spectroscopic imaging. Radiology 153, 189–194 (1984).
+3. Piechnik, S. K. et al. Shortened Modified Look-Locker Inversion recovery (ShMOLLI) for clinical myocardial T1-
+mapping at 1.5 and 3 T within a 9 heartbeat breathhold. J. Cardiovasc. Magn. Reson. 12, 69 (2010).
+4. Puntmann, V. O. et al. Are T1 values to characterize myocardial tissue equivalent between various sequences:
+comparison of MOLLI, shMOLLI, 3’5-MOLLI and SASHA. J. Cardiovasc. Magn. Reson. 15, E18 (2013).
+Page 9 of 9
+LMSv4 510(k) Summary
+Uncontrolled if printed

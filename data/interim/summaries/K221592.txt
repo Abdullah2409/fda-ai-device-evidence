@@ -1,0 +1,490 @@
+February 24, 2023
+Coreline Soft Co.,Ltd.
+℅ Hyeyi Park
+RA Manager
+4,5F(Yeonnam-dong), 49, World Cup buk-ro 6-gil, Mapo-gu
+Seoul, 03991
+SOUTH KOREA
+Re: K221592
+Trade/Device Name: AVIEW Lung Nodule CAD
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: OEB, LLZ
+Dated: January 25, 2023
+Received: January 26, 2023
+Dear Hyeyi Park:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.govK221592 - Hyeyi Park Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lu Jiang
+Lu Jiang, Ph.D.
+Assistant Director
+Diagnostic X-Ray Systems Team
+DHT8B: Division of Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure2510(k) Summary K221592
+1 SUBMITTER
+Coreline Soft Co., Ltd.
+4,5F (Yeonnam-dong), 49 World Cup buk-ro 6-gil, Mapo-gu, Seoul, 03991, Republic of Korea.
+Phone: 82.2.517.7321
+Fax: 82.2.571.7324
+Contact Person: Hyeyi. Park
+Date Prepared: 05.31.2022
+2 DEVICE
+Name of Device: AVIEW Lung Nodule CAD
+Classification Name: Medical Image Management and Processing System.
+Classification Panel: Radiology
+CFR Section: (21CFR 892.2050)
+Regulatory Class: II
+Product Code: OEB, LLZ
+3 PREDICATE DEVICE
+Syngo.CT Lung CAD(VD20) by Siemens Healthcare GmbH (K203258)
+Name of Device: syngo. CT Lung CAD (VD20)
+Classification Name: Medical Image Management and Processing System.
+Classification Panel: Radiology
+CFR Section: (21CFR 892.2050)
+Regulatory Class: II
+Product Code: OEB
+This predicate has not been subject to a design-related recall.
+4 REFERENCE DEVICE
+InferRead Lung CT.AI by Beijing Infervision Technology Co., Ltd. (K192880)
+Name of Device: InferRead Lung CT.AI
+Classification Name: Medical Image Management and Processing System
+Classification Panel: Radiology
+CFR Section: (21CFR 892.2050)
+Regulatory Class: II
+1Product Code: OEB, LLZ
+AVIEW by Coreline Soft Co., Ltd. (K200714)
+Name of Device: AVIEW
+Classification Name: Medical Image Management and Processing System
+Classification Panel: Radiology
+CFR Section: (21CFR 892.2050)
+Regulatory Class: II
+Product Code: LLZ, JAK
+All reference devices have not been subject to a design-related recall.
+5 DEVICE DESCRIPTION
+The AVIEW Lung Nodule CAD is a software product that detects nodules in the lung. The lung nodule detection model
+was trained by Deep Convolution Neural Network (CNN) based algorithm from the chest CT image. Automatic
+detection of lung nodules of 3 to 20mm in chest CT images. By complying with DICOM standards, this product can be
+linked with the Picture Archiving and Communication System (PACS) and provides a separate user interface to provide
+functions such as analyzing, identifying, storing, and transmitting quantified values related to lung nodules. The CAD’s
+results could be displayed after the user’s first read, and the user could select or de-select the mark provided by the CAD.
+The device’s performance was validated with SIEMENS’ SOMATOM series manufacturing. The device is intended to
+be used with a cleared AVIEW platform.
+6 INDICATIONS FOR USE
+AVIEW Lung Nodule CAD is a Computer-Aided Detection (CAD) software designed to assist radiologists in the
+detection of pulmonary nodules (with diameter 3-20 mm) during the review of CT examinations of the chest for
+asymptomatic populations. AVIEW Lung Nodule CAD provides adjunctive information to alert the radiologists to
+regions of interest with suspected lung nodules that may otherwise be overlooked. AVIEW Lung Nodule CAD may be
+used as a second reader after the radiologist has completed their initial read. The algorithm has been validated using
+non-contrast CT images, the majority of which were acquired on Siemens SOMATOM CT series scanners; therefore,
+limiting device use to use with Siemens SOMATOM CT series is recommended.
+7 COMPARISION OF TECHNOLOGICAL CHARACTERISTICS WITH
+THE PREDICATE DEVICE
+AVIEW Lung Nodule CAD has the same intended use and the principle of operation and has similar features
+to the predicate devices. Snygo.CT Lung CAD (VD20) (K203258). There might be slight differences in
+features and menu, but these differences between the predicate device and the proposed device are not so
+significant since they do not raise any new or potential safety risks to the user or patient and questions of
+safety or effectiveness. Based on the results of software validation and verification tests, we conclude that the
+proposed device is substantially equivalent to the predicate devices.
+2Characteristic Subject Device Predicate Device Reference Device Reference Device
+Device Name AVIEW Lung syngo. CT Lung InferRead
+AVIEW
+Nodule CAD CAD (VD20) Lung CT.AI
+Classification Medical Image Medical Image Medical Image Medical Image
+Name Management and Management and Management and Management and
+Processing System Processing System Processing System Processing System
+Regulatory 21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.2050
+Number
+Product Code OEB, LLZ OEB OEB, LLZ LLZ, JAK
+Review Panel Radiology Radiology Radiology Radiology
+510k Number K221592 K203258 K192880 K200714
+AVIEW Lung Nodule CAD
+AVIEW Lung Nodule CAD is a Computer-Aided Detection (CAD) software designed to assist
+radiologists in the detection of pulmonary nodules (with diameter 3-20 mm) during the review of
+CT examinations of the chest for asymptomatic populations. AVIEW Lung Nodule CAD provides
+adjunctive information to alert the radiologists to regions of interest with suspected lung nodules
+that may otherwise be overlooked. AVIEW Lung Nodule CAD may be used as a second reader
+after the radiologist has completed their initial read. The algorithm has been validated using non-
+contrast CT images, the majority of which were acquired on Siemens SOMATOM CT series
+scanners; therefore, limiting device use to use with Siemens SOMATOM CT series is
+recommended.
+syngo. CT Lung CAD (VD20)
+The syngo. CT Lung CAD device is a Computer-Aided Detection (CAD) tool designed to assist
+radiologists in the detection of solid and subsolid (part-solid and ground glass) pulmonary nodules
+during review of multi-detector computed tomography (MDCT) from multivendor examinations
+of the chest. The software is an adjunctive tool to alert the radiologist to regions of interest (ROI)
+that may otherwise be overlooked.
+The syngo. CT Lung CAD device may be used as a concurrent first reader followed by a full
+review of the case by the radiologist or as second reader after the radiologist has completed his/her
+initial read.
+Indications for The software device is an algorithm which does not have its own user interface component for
+use displaying of CAD marks.
+The Hosting Application incorporating syngo. CT Lung CAD is responsible for implementing a
+user interface.
+InferRead Lung CT.AI
+lnferRead Lung CT.AI is comprised of computer-assisted reading tools designed to aid the
+radiologist in the detection of pulmonary nodules during the review of CT examinations of the
+chest on an asymptomatic population. Infer Read Lung CT.AI requires that both lungs be in the
+field of view. lnferRead Lung CT.AI provides adjunctive information and is not intended to be
+used without the original CT series.
+AVIEW
+AVIEW provides CT values for pulmonary tissue from CT thoracic and cardiac datasets. This
+software could be used to support the physician quantitatively in the diagnosis, follow up
+evaluation and documentation of CT lung tissue images by providing image segmentation of sub-
+structures in lung, lobe, airways and cardiac, registration of inspiration and expiration which could
+analyze quantitative information such as air trapping volume, air trapped index, and
+inspiration/expiration ratio. And, volumetric and structure analysis, density evaluation and
+reporting tools. AVIEW is also used to store, transfer, inquire and display CT data set on premise
+and as cloud environment as well to allow users to connect by various environment such as mobile
+devices and chrome browser. Characterizing nodules in the lung in a single study, or over the time
+course of several thoracic studies. Characterizations include nodule type, location of the nodule
+3and measurements such as size (major axis, minor axis), estimated effective diameter from the
+volume of the nodule, volume of the nodule, Mean HU(the average value of the CT pixel inside
+the nodule in HU), Minimum HU, Max HU, mass(mass calculated from the CT pixel value), and
+volumetric measures(Solid major; length of the longest diameter measured in 3D for solid portion
+of the nodule, Solid 2nd Major: The length of the longest diameter of the solid part, measured in
+sections perpendicular to the Major axis of the solid portion of the nodule), VDT (Volume doubling
+time), and Lung-RADS (classification proposed to aid with findings). The system automatically
+performs the measurement, allowing lung nodules and measurements to be displayed and, integrate
+with FDA certified Mevis CAD (Computer aided detection) (K043617). It also provides CAC
+analysis by segmentation of four main artery (right coronary artery, left main coronary, left anterior
+descending and left circumflex artery then extracts calcium on coronary artery to provide Agatston
+score, volume score and mass score by whole and each segmented artery type. Based on the score,
+provides CAC risk based on age and gender.
+AVIEW Lung Nodule CAD
+The AVIEW Lung Nodule CAD is a software product that detects nodules in the lung. The lung
+nodule detection model was trained by Deep Convolution Neural Network (CNN) based algorithm
+from the chest CT image. Automatic detection of lung nodules of 3 to 20mm in chest CT images.
+By complying with DICOM standards, this product can be linked with the Picture Archiving and
+Communication System (PACS) and provides a separate user interface to provide functions such
+as analyzing, identifying, storing, and transmitting quantified values related to lung nodules. The
+CAD’s results could be displayed after the user’s first read, and the user could select or de-select
+the mark provided by the CAD. The device’s performance was validated with SIEMENS’
+SOMATOM series manufacturing. The device is intended to be used with a cleared AVIEW
+platform.
+syngo. CT Lung CAD (VD20)
+Simens Healthcare GmbH intends to market the syngo. CT Lung CAD which is a medical device
+that is designed to perform CAD processing in thoracic CT examinations for the detection of solid
+pulmonary nodules (between 3.0 mm and 30.0mm) and subsolid (part-solid and ground glass)
+nodules (between 5.0mm and 30.0mm) in average diameter. The device processes image acquired
+with multi-detector CT scanners with 16 or more detector rows.
+The syngo. CT Lung CAD device supports the full range of nodule locations (central, pe-ripheral)
+and contours (round, irregular).
+General
+The syngo. CT Lung CAD sends a list of nodule candidate locations to a visualization application,
+Description
+such as syngo MM Oncology, or a visualization rendering component, which
+generates output images series with the CAD marks superimposed on the input thoracic CT images
+to enable the radiologist’s review. syngo MM Oncology (FDA clearance k191309) is deployed on
+the syngo.via platform (FDA clearance k191040), which provides a common framework for
+various other applications implementing specific clinical workflows (but are not part of this
+clearance) to display the CAD marks. The syngo. CT Lung CAD device may be used either as a
+concurrent first reader, followed by a review of the case, or as a second reader only after the initial
+read is completed
+The subject device and predicate device have the same basic technical characteristics. This does
+not introduce new types of safety or effectiveness concerns as demonstrated by the statistical
+analyses and results of the reader study and additional evaluations results documented in the
+Statistical Analysis.
+InferRead Lung CT.AI
+InferRead Lung CT.AI uses the Browser/Server architecture and is provided as Software as a
+Service (SaaS) via a URL. The system integrates algorithm logic and database in the same server
+to ensure the simplicity of the system and the convenience of system maintenance. The server is
+able to accept chest CT images from a PACS system, Radiological Information System (RIS
+system) or directly from a CT scanner, analyze the images and provide output annotations
+regarding lung nodules. Users are then able to use an existing PACS system to view the annotations
+4on their workstations. Dedicated servers can be located at hospitals and are directly.
+connected to the hospital networks. The software consists of 4 modules which are Image reception
+(Docking Toolbox), Image predictive processing (DLServer), Image storage (RePACS) and Image
+display (NeoViewer).
+AVIEW
+The AVIEW is a software product which can be installed on a PC. It shows images taken with the
+interface from various storage devices using DICOM 3.0 which is the digital image and
+communication standard in medicine. It also offers functions such as reading, manipulation,
+analyzing, post-processing, saving, and sending images by using the software tools. And is
+intended for use as diagnostic patient imaging which is intended for the review and analysis of CT
+scanning. Provides following features as semi-automatic nodule management, maximal plane
+measure, 3D measures and columetric measures, automatic nodule detection by integration with
+3rd party CAD. Also provides Brocks model which calculated the malignancy score based on
+numerical or Boolean inputs. Follow up support with automated nodule matching and
+automatically categorize Lung-RADS score which is a quality assurance tool designed to
+standardize lung cancer screening CT reporting and management recommendations that is based
+on type, size, size change and other findings that is reported. It also automatically analyzes
+coronary artery calcification which support user to detect cardiovascular disease in early stage and
+reduce the burden of medical.
+Solid and subsolid
+(part-solid and
+pulmonary nodules in ground-glass) solid pulmonary
+Detection
+non-contrast chest CT pulmonary nodules in nodules in diagnostic -
+target(s)
+acquisitions screening and chest CT acquistions
+diagnostic chest CT
+acquisitions.
+Diameter:
+ solid ≥ 3mm and
+Diameter:
+≤30mm
+ Pulmanoary
+ Subsolid (part-
+nodules ≥ 3 mm Solid nodules ≥
+solid and ground
+and <20 mm 3mm and 10mm and
+Nodule
+Locations: glass) ≥ 5mm and ≤ full rande, central, -
+Characteristics
+ Full range: central, 30mm peripheral round.
+peripheral Locations: irregular
+Contours:  Full range: central,
+ round, irregular
+peripheral
+Contours:
+round, irregular
+Image format DICOM DICOM DICOM DICOM
+Hosting
+AVIEW syngo.via - -
+Platform
+Hosting
+AVIEW LCS Syngo MM Oncology - -
+Application
+5DICOM GSPS
+Generates output
+(Grayscale Softcopy
+images series with the
+Presentation State)
+CAD makrs
+XML (Coordinate of
+Outputs superimposed. - -
+detected nodules)
+Able to view results
+Able to view results
+syngo MM Oncology
+on AVIEW, AVIEW
+viewer page.
+LCS viewer page
+Type of Scans CT CT CT CT
+Scanners Scanners
+Siemens SOMATOM Multi-vendor and
+CT Scanners multi-detector CT
+- -
+(MDCT) scanners
+(Siemens, GE, Philips,
+and Toshiba)
+Detector rows Detector rows
+16 or more detector 16 or more detector
+rows rows
+Voltage Voltage
+100~140 kVp 100~140 kVp
+Exposure Exposure
+None None
+Input scanning
+Collimation Collimation
+parameters
+1mm or less 1mm or less
+Slice Thickness Slice Thickness
+Up to and including Up to and including
+2.5mm, it is 2.5mm, it is
+recommended that recommended that
+<=1.25mm be used <=1.25mm be used for
+for the detection of the detection of
+smaller nodules (e.g., smaller nodules (e.g.,
+4.0mm) 3.0mm)
+Slice Overlap Slice Overlap
+0~50% 0~50%
+Note: Reconstruction Note: Reconstruction
+overlap is allowed, overlap is allowed,
+but gaps are not but gaps are not
+permitted permitted
+Number of images Number of images
+None None
+6Kernel Kernel
+Consistent with Consistent with
+thoracic CT protocols thoracic CT protocols
+and in line with patient and in line with patient
+safety guidelines. safety guidelines.
+Kernels were grouped Kernels were grouped
+as to their profile. as to their profile.
+Typical kernels Typical kernels
+validated by the reader validated by the reader
+study were: study were:
+Smooth: B, B30f, Smooth: B, B30f,
+Standard, FC10 Standard, FC10.
+Medium: C, B45f, Medium: C B45f,
+Br49d, B50f, I50f, B50f, Lung, FC50,
+Br60f, Lung, FC50, FC51, Bv49d_2,
+FC51 I50f_2, B60f.
+Sharp: D, B70f, I70f, Sharp: D, B70f, Bone,
+B80s, I80s, Bone FC52
+Contrast Contrast
+None None
+Dose
+Dose
+Consistent with
+Consistent with
+thoracic CT protocols
+thoracic CT protocols
+and in line with patient
+and in line with patient
+safety guidelines.
+safety guidelines.
+Typical values are:
+Typical values are:
+CTDIvol < 8.0 mGy
+CTDIvol < 8.0 mGy
+(milligray) in
+(milligray) in
+diagnostic protocols
+diagnostic protocols
+and
+and
+CTDIvol of = 3.0
+CTDIvol of = 3.0 mGy
+mGy in screening
+in screening protocols.
+protocols.
+These values are
+These values are
+defined for standard
+defined for standard
+sized patient—5 ft 7
+sized patient—5 ft 7
+in., 154 lb (170
+in., 154 lb (170
+cm, 70 kg)—based on
+cm, 70 kg)—based on
+a 32-cm reference
+a 32-cm reference
+phantom with
+phantom with
+appropriate reductions
+appropriate reductions
+in
+in
+CTDIvol for smaller
+CTDIvol for smaller
+patients and
+patients and
+appropriate
+appropriate
+increases in CTDIvol
+increases in CTDIvol
+for larger patients.
+for larger patients.
+78 PERFORMANCE DATA
+8.1 Clinical performance evaluation
+A HIPAA-compliant multi-case, multi-reader, retrospective study design was utilized. An image viewer without or with
+AI algorithms, AVIEW Lung Nodule CAD program, for lung nodule detection and measurement were used for chest
+CT reads. Three dedicated chest radiologists with at least ten years of experience determined the ground truth using a
+dataset of 151 Chest CTs with 103 negative controls and 48 cases with one or more lung nodules. All lung nodules were
+segmented in 3D. In a blinded fashion, eleven board-certified radiologists interpreted the same cases unassisted,
+followed by AI assistance after randomization and a 4-week washout period. Data were analyzed in a random reader,
+random case context, and one-sided tests at the 5% significance level, and 95% confidence intervals were constructed
+for all estimates. Reading time analyses were performed with mixed-effect Gaussian regression with a fixed effect for
+AI assistance and with clustering at the reader level. Post estimation marginal estimates were calculated for unassisted
+versus assisted read times.
+The multi-reader multi-case demonstrated that aided radiologist performance for lung nodule detection was improved
+with statistical significance compared to unaided. Reading time was decreased when AVIEW Lung Nodule CAD aided
+radiologists. Also, both incidental and screening populations was included on the test dataset. We have performed
+subgroup analyses for several key subgroups to demonstrate generalizability. This includes assessment of performance
+for challenging and/or confounding cases.
+◼ Performance Testing Results
+1. Overall unaided/aider reader performacne comparison
+Unaided Aided Difference in point estimate
+AUC 0.73 (0.66 – 0.79) 0.92 (0.89 – 0.95) 0.19
+Sensitivity 0.68 (0.62 – 0.73) 0.91 (0.89 – 0.94) 0.23
+FP/scan 0.48 (0.28 – 0.69) 0.28 (0.15 – 0.42) 0.24
+8.1.1 Test Report
+• Clinical Study Report for AVIEW Lung Nodule CAD
+8.2 Software Verification and Validation
+Verification, validation, and testing activities were conducted to establish the performance, functionality and
+reliability characteristics of the modified devices. The device passed all of the tests based on pre-determined
+Pass/Fail criteria.
+8.2.1 System Test
+In accordance with the document ‘integration Test Cases’ discussed in advance by the software development
+team and test team, the test is conducted by installing software to hardware with recommended system
+specifications. Despite the Test case recognized in advance was not in existence. New software error discovered
+by the ‘Exploratory Test’ conducted by the test team will be registered and managed as a new test case after
+discussion between the development team and test team.
+Discovered software errors will be classified into 3 categories as severity and managed.
+✓ Major defects are impacting the product’s intended use and no workaround is available.
+8✓ Moderate defects, which are typically related to user interface or general quality of product, while
+workaround is available.
+✓ Minor defects, which are not impacting the product’s intended use. Not significant.
+Success standard of System Test is not finding ‘Major’, ‘Moderate’ defect.
+8.2.2 Performance Test
+• DICOM Test Report
+• Performance Test Report
+• DICOM Conformance Statement
+• Thin Cient Server Compatibility Test Report
+• AVIEW Lung Nodule CAD Integration Test Report
+• Standalone study for AVIEW Lung Nodule CAD
+➢ The standalone study of AI-based lung nodule detection software compared to ground truth was evaluated
+with sensitivity, specificity, ROC, and FROC. We consider that the software performs successfully when
+the sensitivity for lung nodule detection performance at the patient level and nodule level exceeds 0.8 and
+the specificity exceeds 0.6, the ROC AUC for lung nodule detection performance exceeds 0.8 and the
+sensitivity for lung nodule detection performance exceeds 0.8 in false positive (FP)/scan < 2. Dataset are
+collected from three geographically distinct US clinical sites. The total number of data is 282 (140 cases
+with nodule data and 142 cases without nodule data). All datasets were built with images of U.S, and by
+gender, there were 132 males and 150 females. We validated this test by purchasing anonymized medical
+data. So, any data used for AI training or internal validation was not used for this test. Also, both incidental
+and screening populations was included on the test dataset. We have performed subgroup analyses for
+several key subgroups to demonstrate generalizability. This includes assessment of performance for
+challenging and/or confounding cases.
+ Performance Testing Results
+1. Overall AUC (with CI): 0.961(0.939-0.983)
+2. Overall Sensitivity (with CI): 0.907(0.846-0.95)
+3. Overall Specificity (with CI): 0.704(0.622-0.778)
+4. Overall sensitivity (with CI) at FP/scan<2: 0.889(0.849-0.93) at FP/scan=0.504
+9 CONCLUSIONS
+The new device and predicate device are substantially equivalent in the areas of technical characteristics,
+general functions, application, and intended use. The new device does not introduce a fundamentally new
+scientific technology, and the clinical tests demonstrate that the device is safe and effective. Therefore, it is
+our opinion that the AVIEW Lung Nodule CAD described in this submission is substantially equivalent to the
+predicate device.
+9

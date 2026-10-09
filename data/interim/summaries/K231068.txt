@@ -1,0 +1,963 @@
+January 7, 2024
+Holberg EEG AS
+Smriti Franklin
+QA/RA Manager
+Fjøsangerveien 70A
+5068 Bergen, Norway
+Re: K231068
+Trade/Device Name: autoSCORE
+Regulation Number: 21 CFR 882.1400
+Regulation Name: Electroencephalograph
+Regulatory Class: Class II
+Product Code: OMB
+Dated: December 8, 2023
+Received: December 8, 2023
+Dear Smriti Franklin:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.06
+Silver Spring, MD 20993
+www.fda.govK231068 - Smriti Franklin Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jay R. Gupta -S
+Jay Gupta
+Assistant Director
+DHT5A: Division of Neurosurgical,
+Neurointerventional
+and Neurodiagnostic Devices
+OHT5: Office of Neurological
+and Physical Medicine DevicesK231068 - Smriti Franklin Page 3
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K231068
+Device Name
+autoSCORE
+Indications for Use (Describe)
+1. autoSCORE is intended for the review, monitoring and analysis of EEG recordings made by electroencephalogram
+(EEG) devices using scalp electrodes and to aid neurologists in the assessment of EEG. This device is intended to be used
+by qualified medical practitioners who will exercise professional judgment in using the information.
+2. The spike detection component of autoSCORE is intended to mark previously acquired sections of the patient’s EEG
+recordings that may correspond to spikes, in order to assist qualified clinical practitioners in the assessment of EEG traces.
+The spike detection component is intended to be used in patients at least three months old. The autoSCORE component
+has not been assessed for intracranial recordings.
+3. autoSCORE is intended to assess the probability that previously acquired sections of EEG recordings contain
+abnormalities, and classifies these into pre-defined types of abnormalities, including epileptiform and non-epileptiform
+abnormalities. autoSCORE does not have a user interface. autoSCORE sends this information to the EEG reviewing
+software to indicate where markers indicating abnormality are to be placed in the EEG. autoSCORE also provides the
+probability that EEG recordings include abnormalities and the type of abnormalities. The user is required to review the
+EEG and exercise their clinical judgement to independently make a conclusion supporting or not supporting brain disease.
+4. This device does not provide any diagnostic conclusion about the patient's condition to the user. The device is not
+intended to detect or classify seizures.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK231068 - Page 1 of 20
+510(K) Summary
+1. SUBMITTER
+Holberg EEG AS
+Fjøsangerveien 70A
+5068 Bergen, Norway
+Phone: +47 926 44 261
+Contact Person: Smriti Franklin
+Date Prepared: March 23rd, 2023
+2. DEVICE IDENTIFICATION
+Trade Name: autoSCORE
+Common Name: Automatic event detection software for full-montage electroencephalograph
+Classification Name and Regulation Number: Electroencephalograph, 21 CFR 882.1400
+Regulatory Class: II
+Product Code: OMB
+3. PREDICATE DEVICES
+Primary Predicate Device
+Trade/Device Name: encevis, K171720
+Additional Predicate Device
+Trade/Device Name: Persyst 13, K151929
+Page 5 - 1K231068 - Page 2 of 20
+4. DEVICE DESCRIPTION
+autoSCORE is a software-only decision support product intended to be used with compatible
+electroencephalography (EEG) review software. It is intended to assist the user when
+reviewing EEG recordings, by assessing the probability that previously acquired sections of
+EEG recordings contain abnormalities, and classifying these into pre-defined types of
+abnormality. autoSCORE sends this information to the EEG software to indicate where
+markers indicating abnormality are to be placed in the EEG. autoSCORE uses an algorithm that
+has been trained with standard deep learning principles using a large training dataset.
+autoSCORE also provides an overview of the probability that EEG recordings and sections of
+EEG recordings include abnormalities, and which type(s) of abnormality they include. This is
+performed by identifying spikes of epileptiform abnormalities (Focal epileptiform and
+Generalized epileptiform) as well identifying non-epileptiform abnormalities (Focal Non-
+epileptiform and Diffuse Non-epileptiform).
+The user is required to review the EEG and exercise their clinical judgement to independently
+make a conclusion supporting or not supporting brain disease.
+autoSCORE cannot detect or classify seizures. The recorded EEG activity is not altered by the
+information provided by autoSCORE. autoSCORE is not intended to provide information for
+diagnosis but to assist clinical workflow when using the EEG software.
+5. INDICATIONS FOR USE/ INTENDED USE
+5.1 INDICATIONS FOR USE STATEMENT
+1. autoSCORE is intended for the review, monitoring and analysis of EEG recordings
+made by electroencephalogram (EEG) devices using scalp electrodes and to aid
+neurologists in the assessment of EEG. This device is intended to be used by qualified
+medical practitioners who will exercise professional judgment in using the
+information.
+2. The spike detection component of autoSCORE is intended to mark previously
+acquired sections of the patient’s EEG recordings that may correspond to spikes, in
+order to assist qualified clinical practitioners in the assessment of EEG traces. The
+spike detection component is intended to be used in patients at least three months
+old. The autoSCORE component has not been assessed for intracranial recordings.
+3. autoSCORE is intended to assess the probability that previously acquired sections of
+EEG recordings contain abnormalities and classifies these into pre-defined types of
+Page 5 - 2K231068 - Page 3 of 20
+abnormalities, including epileptiform and non-epileptiform abnormalities.
+autoSCORE does not have a user interface. autoSCORE sends this information to the
+EEG reviewing software to indicate where markers indicating abnormality are to be
+placed in the EEG. autoSCORE also provides the probability that EEG recordings
+include abnormalities, and the type of abnormalities. The user is required to review
+the EEG and exercise their clinical judgement to independently make a conclusion
+supporting or not supporting brain disease.
+4. This device does not provide any diagnostic conclusion about the patient's condition
+to the user. The device is not intended to detect or classify seizures.
+5.2 INTENDED USE ENVIRONMENT
+autoSCORE is intended to be used in environments where clinical EEGs are acquired or
+reviewed by suitably trained and qualified professionals.
+autoSCORE is intended to be used for the analysis of EEG that has been recorded in
+environments suitable for adult and pediatric routine EEG acquisition according to best
+clinical practice, excluding acquisition environments for ICU and neonatal recordings.
+autoSCORE is not validated for EEG recorded in a home/ambulatory environment or any
+non-hospital/EEG laboratory setting.
+5.3 INTENDED PATIENT POPULATION
+autoSCORE use is restricted to EEG recordings from patients over 3 months of age.
+autoSCORE cannot be used for EEG recordings from neonatal patients. This restriction
+applies to all features of autoSCORE. There are no other restrictions regarding the patient
+population.
+6. SUBSTANTIAL EQUIVALENCE DISCUSSION
+The following table 1 compares autoSCORE to the predicate device with respect to intended
+use, technological characteristics and operating principles. The comments section provides
+further information on the determination of substantial equivalence.
+Table 1: Comparison of autoSCORE against predicate devices.
+autoSCORE encevis Persyst 13 Comments
+Page 5 - 3
+sliated
+rosnops
+dna
+noitaluger
+,eciveD
+510k Reference Subject device K171720 K151929 N/A
+Product Code OMB OMB OMB Identical
+Class II II II Identical
+Regulation
+21 CFR 882.1400 21 CFR 882.1400 21 CFR 882.1400 Identical
+Number
+Electroencephalograph Electroencephalograph Electroencephalograph Identical
+Regulation
+NameK231068 - Page 4 of 20
+autoSCORE encevis Persyst 13 Comments
+Holberg EEG AS AIT Austrian Institute of Persyst Development
+Manufacturer
+Technology GmbH Corporation N/A
+Device Type Software-only Device Software-only Device Software-only Device Identical
+General Device EEG Review and Analysis EEG Review and Analysis EEG Review and Identical
+Description Software Software Analysis Software
+Page 5 - 4
+serutaeF
+dna
+noitpircseD
+eciveD
+Identifies
+Yes Yes Yes Identical
+Spikes
+Assessment
+and
+categorization
+of
+abnormalities Yes No No Different
+including
+probability in
+previously
+acquired
+sections of EEG
+Type of EEG Scalp EEG Scalp EEG Scalp EEG Identical
+Intended Use autoSCORE is intended to encevis is intended to be Persyst 13 is intended Similar. See
+Environments be used in environments used in environments to be used in Patient age for
+where clinical EEGs are where clinical EEGs are environments where intended
+acquired or reviewed by acquired or reviewed by clinical EEGs are population
+suitably trained and suitably trained and acquired or reviewed by comparison.
+qualified professionals. qualified professionals. suitably trained and
+qualified professionals.
+autoSCORE is intended to encevis Spike Detection
+be used for the analysis of component is intended to The Spike Detection
+EEG that has been be used in adult patients component is intended
+recorded in environments greater than or equal to to be used in patients at
+suitable for adult and 18 years. encevis Spike least one month old.
+pediatric routine EEG Detection performance Persyst 13 Spike
+acquisition according to has not been assessed for Detection performance
+best clinical practice, intracranial recordings. has not been assessed
+excluding acquisition for intracranial
+environments for ICU and recordings.
+neonatal recordings.
+autoSCORE is not
+validated for EEG
+recorded in a
+home/ambulatory
+environment or any non-
+hospital/EEG laboratory
+setting.
+Minimum
+patient age
+more than
+Population age > 3 months Adults (age > 18 years) > 1 month
+the predicate
+device.K231068 - Page 5 of 20
+autoSCORE encevis Persyst 13 Comments
+Design Input Raw EEG Signal Raw EEG signal - Identical
+Page 5 - 5
+noitarepO
+eciveD
+Calculation is based on Calculation is based on Calculation is based
+EEG data recorded by EEG data recorded by on EEG data
+external EEG systems. external EEG systems. recorded by external
+They are read from the They are either read EEG systems. They
+Design EEG data provided by from the EEG file are read from the Identical
+Input files the EEG system provided by the EEG EEG file provided by (No AIT
+system or can be sent the EEG system interface)
+to encevis using the
+interface provided by
+AIT (AITInterfaceDLL)
+Convolutional Neural Convolutional Neural
+Algorithm Neural Network Identical
+Network Network
+No parameters in spike No parameters in spike Similar
+User-defined detection algorithm can detection algorithm
+-
+parameters be changed by the user can be changed by the
+user
+Type of EEG-
+Analysis Post-hoc analysis Post-hoc analysis Post-hoc analysis Identical
+Spike Detection Spike Detection Spike Detection
+component makes the component makes the component makes the
+Design Output results available to the results available to the results available to the Identical
+user in form of user in form of markers user in form of markers
+markers
+Device Outputs Identification and Identification of Identification of Some predicate
+categorization of epileptiform epileptiform device features
+epileptiform and non- abnormalities (spikes). abnormalities (spikes). are not
+epileptiform These outputs are These outputs are included in
+abnormalities given at marker level. given at marker level. autoSCORE.
+including probability These include
+that EEG recordings seizure
+include abnormalities, detection,
+and the type of burst
+abnormalities. These suppression,
+outputs are given at aEEG, rhythmic
+both recording Level and periodic
+and marker Level. patterns and
+frequency
+bands.
+Results are returned Results are stored in a Results are stored in
+back to the host database and/or sent additional files in the
+software after analysis. over the interface file system placed in
+AITInterfaceDLL to an the same folder as the
+Output Files
+external EEG system. EEG file. User output is Similar
+User output is given by given by graphical
+graphical user user interfaces.
+interfaces.K231068 - Page 6 of 20
+This device does not This device does not This device does not
+provide any diagnostic provide any diagnostic provide any diagnostic
+Diagnostic
+conclusion about the conclusion about the conclusion about the Identical
+conclusion
+patient's condition to patient's condition to patient's condition to
+the user. the user. the user.
+autoSCORE encevis Persyst 13 Comments
+This device is intended This device is intended This device is intended
+to be used by qualified to be used by qualified to be used by qualified
+medical practitioners medical practitioners medical practitioners
+User who will exercise who will exercise who will exercise Identical
+professional judgment professional judgment professional judgment
+in using the in using the in using the
+information. information. information.
+autoSCORE can read encevis can read and Persyst 13 can read
+and process EEG data process EEG data from and process EEG data
+from Natus® several EEG vendors. A from several EEG
+Compatible NeuroWorks® list of compatible EEG vendors. A list of
+and software systems can be found compatible EEG
+Similar
+interoperable on systems can be found
+Equipment http://www.encevis.co on
+and software m http://www.persyst.co
+m/suppo
+rt/supported-
+formats/
+Color Key
+Identical/Similar Characteristics Different or N/A Characteristics
+Comparison of Intended Use/ Indications for Use
+The Indications for Use statement for autoSCORE is similar to the predicate devices.
+However, autoSCORE does not contain certain predicate device features including seizure
+detection, burst suppression, and other quantitative measures. Indications for use
+statement point 1, 2, and 4 are identical to the respective parts of predicate devices
+indications for use statement. Point 3 of the indications for use statement describes
+autoSCORE’s technological characteristics, including additional outputs that are different
+from the predicate devices.
+These differences do not alter the intended use of the device, nor do they affect the safety
+and effectiveness of the device relative to the predicates. Both the subject and predicate
+devices have the same intended use for analyzing electroencephalograph data, identifying
+events including spike detection and producing outputs based on analysis of EEG for
+interpretation by a qualified user.
+Comparison of Technological Characteristics
+Technological differences between the subject and predicate devices have been highlighted
+in Table 1 above. There are additional features in the predicate devices, including seizure
+detection, analysis of additional quantitative features, and a different user interface, which
+Page 5 - 6K231068 - Page 7 of 20
+are outside the intended use of the subject device. These features are completely
+independent functions and do not affect the abnormality detection features of the subject
+device.
+Both the predicate devices and subject device detect features related to epileptiform
+abnormalities (e.g. spikes). In addition to detecting epileptiform abnormalities, the subject
+device also detects non-epileptiform abnormalities. The subject device also provides the
+probability of the detected abnormality being an epileptiform abnormality, such as a focal
+epileptiform or generalized epileptiform abnormality, or a non-epileptiform abnormality,
+such as a focal non-epileptiform or diffuse non-epileptiform abnormality. The identification
+of additional abnormalities and categorization of these abnormalities does not affect the
+intended use of the device and does not pose any additional risks as compared to the
+predicate devices as evidenced through performance validation.
+7. Performance Validation
+Performance validation to evaluate autoSCORE performance was conducted in two parts:
+- Non-Clinical Validation – To validate autoSCORE outputs against defined autoSCORE
+design inputs and user requirements.
+- Clinical Validation – To validate autoSCORE performance against independent
+human experts and predicate devices.
+These validations have been summarized below.
+7.1 Non-clinical Performance Validation
+Software verification and validation testing was conducted and documented in accordance
+with 2005 FDA Guidance, Guidance for the Content of Premarket Submissions for Software
+Contained in Medical Devices.
+Product Design and Software Requirements Traceability has been documented and verified
+against verification and validation test results.
+Software verification and validation testing included:
+1. Code Review
+2. Unit level testing
+3. System level testing
+4. Integration level testing
+The software for this device is determined as a “moderate” level of concern because a
+failure or latent flaw could indirectly result in minor injury to the patient or operator
+through incorrect information or through the action of a care provider.
+Software verification and validation activities demonstrated that the device software meets
+Page 5 - 7K231068 - Page 8 of 20
+all software requirements.
+7.2 Clinical Performance Validation
+7.2.1 Clinical Performance Evaluation
+A retrospective non-interventional comprehensive clinical validation was performed using
+de-identified data to evaluate performance of all autoSCORE features against Human
+Experts and predicate devices to establish substantial equivalence.
+The following performance data have been provided in support of the substantial
+equivalence determination.
+Table 2: Type of software performance test per feature. autoSCORE indicates the EEG as normal if it
+does not contain epileptiform or non-epileptiform abnormalities, and abnormal if it contains one or
+both of these abnormalities. Part 1, Part 2, and Part 5 of the clinical study show comparable results
+against Human experts where an EEG is marked as ‘normal’ or ‘abnormal’ by autoSCORE. Part 3 and 4
+of the study include the assessment of presence and absence of epileptiform abnormalities in
+predicate devices and autoSCORE that feeds into the assessment of a normal or abnormal EEG.
+autoSCORE Features - Identification and categorization of following
+abnormalities
+Validation Spike Detection - Non-epileptiform
+Tests epileptiform abnormalities abnormalities
+Performed
+Normal
+Generalized
+EEG Focal Focal non- Diffuse non-
+epileptiform
+epileptiform epileptiform epileptiform
+Direct
+Comparison Not available Not available
+x x x
+against in predicate in predicate
+predicate device
+Benchmarking
+against both
+predicate Not available Not available
+x x x
+devices with in predicate in predicate
+external gold
+standard EEGs
+Comparison
+with Human
+x x x x x
+Expert
+Evaluation
+Page 5 - 8K231068 - Page 9 of 20
+Clinical Performance Evaluations
+For the performance evaluation of the autoSCORE spike detection device, the study was
+conducted to measure outputs of autoSCORE against the assessments from independent
+human experts as well as the spike detection from the predicate devices – encevis and
+Persyst 13.
+Further, for the autoSCORE performance evaluation of additional technological features (not
+in the predicate device), the study was conducted to measure autoSCORE results of non-
+epileptiform abnormalities detection and categorization of abnormalities against Human
+Experts (HE).
+The clinical validation study was carried out in five parts to compare the performance of
+autoSCORE with the human experts as well as with the predicate devices:
+1. Performance evaluation against human experts (single-Center):
+A single-center dataset of 4,850 EEGs assessed by 9 human experts assessing more
+than 1% of the EEGs each.
+2. Performance evaluation against human experts (multi-center):
+A multi-center dataset of 100 EEGs were assessed by 11 independent human
+experts.
+3. Direct comparison against primary predicate device (encevis):
+The same dataset of 100 EEGs used in Part 2 were used to evaluate performance
+against the primary predicate device, encevis.
+4. Benchmarking against primary and secondary predicate device (encevis and
+Persyst 13):
+A dataset of 58 EEGs was used to benchmark performance of both the primary
+predicate device encevis, the predicate device Persyst 13, and autoSCORE against
+human expert consensus.
+5. Performance evaluation against human experts (two centers):
+A hold-out dataset of 1315 EEGs not used for training of the AI model acquired from
+two centers were assessed by 15 human experts assessing more than 1% of the
+EEGs each.
+The validation study was performed across five separate datasets with the following
+characteristics:
+Table 3. Summary of study parts used for validation of autoSCORE.
+Patient Pediatric
+EEG
+Number Sample Number of Patient age min- (P) vs Adult
+Validation Parts Duration
+of sites size reviewers gender max (A)*
+min-max
+(median)
+Page 5 - 9K231068 - Page 10 of 20
+1. Performance
+evaluation against
+2527 (M) 3 months
+HE
+2248 (F) 14 – 120 – 106 P – 1490
+a. Recording 1 4850 9
+75 minutes years (39 A – 3360
+level
+(unknown) years)
+b. Marker
+Level
+2. Performance
+evaluation against 9 months P – 43
+39 (M) 20 – 240
+HE 14 – 95 A – 57
+16 100 61 (F) minutes
+3. Direct years
+comparison against (26 years)
+predicate device
+4. Benchmarking
+against predicate
+devices and marker
+validation against 20 – 30 2 – 77
+27 (M) P – 13
+HE consensus 4 58 3 minutes years (36
+31 (F) A – 45
+a. Recording years)
+level
+b. Marker
+Level
+5. Performance
+evaluation against P – 467
+636 (M) 3 months
+HE A – 848
+642 (F) 14 - 240 – 99
+a. Recording 2 1315 15
+37 minutes years
+level
+(unknown) (38 years)
+b. Marker
+Level
+*Pediatric - <22 years; Adults -> 22 years
+7.2.2 Study Population and Refence Standards
+None of the EEGs used in the validation were used in the development of the AI model. The
+HEs providing the reference standards in the validation phase of Study 1, 2, 3, and 4 were
+different from those who participated in the development portion of the process.
+Study 1 – The reference standard was based on 4850 EEGs described by multiple HEs, but a
+single HE reviewer per EEG. The HEs inserted markers in the EEGs defining if the EEG was
+abnormal or normal, and if abnormal, the abnormality categories, and served as reference
+standard both on recording level and marker level. The HE assessments were part of the
+routine EEG assessment in their respective hospitals, and the HEs had all relevant patient
+clinical information. Apart from age and gender, all clinical data was removed for this clinical
+validation to avoid any associated bias.
+Study 2 – The reference standard was based on HE consensus of 11 HEs reviewing 100 EEGs.
+The HEs assessed if the EEGs on recording level were normal or abnormal, and if abnormal if
+the EEGs contained one or more of the abnormality categories Focal Epi, Gen Epi, Focal Non-
+Epi, and Diffuse Non-Epi. The HEs were blinded to all patient data except age and gender.
+Page 5 - 10K231068 - Page 11 of 20
+Study 3 – This study uses the same dataset as for study 2, and thus also the same HE
+consensus reference standard.
+Study 4 – The reference standard was obtained by visual assessment of 58 EEGs by 3 HEs.
+Marker time points for the IEDs were recorded for each EEG and each HE. The reference
+standard was the majority consensus scoring of the HEs. This served as reference standard
+both on recording level and marker level for the IEDs. HEs were blinded to all patient data
+except age and gender.
+Study 5 – The reference standard was based on 1315 EEGs described by multiple HEs, but a
+single HE reviewer per EEG. The HEs inserted markers in the EEGs defining if the EEG was
+abnormal or normal and, if abnormal, the abnormality categories, and served as reference
+standard both on recording level and marker level. The HE assessments were part of the
+routine EEG assessment in their respective hospitals, and the HEs had all relevant patient
+clinical information. Apart from age and gender, all clinical data was removed for this clinical
+validation to avoid any associated bias.
+All relevant autoSCORE outputs were covered in the above studies.
+7.2.3 Analytical Methods
+The analytical methods used in this validation have been described in 7.2.3.1 and 7.2.3.2.
+The figure 1 below shows a hierarchical representation of autoSCORE recording- and marker outputs
+and the conditions under which these outputs are presented in the Natus® NeuroWorks® user
+interface.
+Page 5 - 11K231068 - Page 12 of 20
+autoSCORE recording result
+Recording probability Recording output
+Abnormal probability 0.0% - 11.5% Normal
+11.5% - 50.9% Probable Normal
+50.9% - 73.5% Probable Abnormal
+73.5% - 100.0% Abnormal
+autoSCORE marker result
+Focal Epi probability 0.0% - 53.4% Marker probability Marker output
+53.4% - 85.8% Probable Focal Epi
+85.8% - 100.0% Focal Epi Focal Epi Probability 0.0% - 46.5%
+46.5% - 100.0% Focal Epi Marker(s)
+Gen Epi probability 0.0% - 49.2%
+49.2% - 90.2% Probable Gen Epi
+90.2% - 100.0% Gen Epi Gen Epi Probability 0.0% - 50.7%
+50.7% - 100.0% Gen Epi Marker(s)
+Focal Non-Epi probability 0.0% - 52.4%
+52.4% - 75.1% Probable Focal Non-Epi
+75.1% - 100.0% Focal Non-Epi Focal Non-epi Probability 0.0% - 49.4%
+49.4% - 100.0% Focal Non-Epi Marker(s)
+Diffuse Non-Epi probability 0.0% - 48.9%
+48.9% - 88.5% Probable Diffuse Non-Epi
+88.5% - 100.0% Diffuse Non-Epi Diffuse Non-epi Probability 0.0% - 47.7%
+47.7% - 100.0% Diffuse Non-Epi Marker(s)
+Figure 1: Hierarchical representation of autoSCORE recording and marker level outputs.
+7.2.3.1 Comparison of performance with HEs
+Binary Metrics
+The binary metrics given in Table 4, Table 5 and Table 6 (sensitivity, specificity, PPV and NPV)
+in results section were computed independently for each study part and each feature
+(Normal/Abnormal, Focal Epi, Gen Epi, Focal Non-Epi, Diffuse Non-Epi) with 95% symmetric
+confidence intervals obtained using bootstrap resampling (n ≥ 10000).
+The following definitions were used for the binary metrics for the recording level outputs
+(where HE was used in study 1 and 5 and HE consensus in study 2):
+TP – HE or HE consensus indicated that the condition is present and autoSCORE also indicates
+that the condition is present.
+FP - HE or HE consensus indicated that the condition is not present but autoSCORE indicates
+that the condition is present.
+TN - HE or HE consensus indicated that the condition is not present and autoSCORE also
+indicates that the condition is not present.
+FN - HE or HE consensus indicated that the condition is present but autoSCORE indicates that
+the condition is not present.
+For the marker level outputs the following definitions were used for study 1 and 5:
+TP - A 16 second window where HE has indicated that an abnormality is present and
+autoSCORE also would place a marker for the same type of abnormality.
+FP - A 16 second window where autoSCORE would place a marker for a specific type of
+abnormality and this window is either: 1) randomly extracted from an EEG that HE has
+Page 5 - 12K231068 - Page 13 of 20
+assessed as normal or 2) a 16 second window which the HE has assessed as not containing
+this type of abnormality.
+FN- A 16 second window which HE has assessed as containing a specific type of abnormality
+where autoSCORE would not place a marker for this type of abnormality.
+TN- A 16 second window where autoSCORE would not place a marker of a specific type of
+abnormality and this window is either: 1) randomly extracted from an EEG that the HE has
+assessed as normal or 2) a 16 second window which the HE has assessed as not containing
+this type of abnormality.
+For the marker level outputs for study 4, validation was based on areas in the EEGs marked by
+autoSCORE and HE consensus markers. TP, TN, FP, and FN were derived from the resulting
+segmentation of the recording into areas marked only by autoSCORE, areas marked only by
+HE consensus and areas marked by both autoSCORE and HE consensus.
+In the next step, values from the contingency matrices were used to calculate:
+• Sensitivity, also referred to as True Positive Rate or TPR = TP/(TP+FN)
+• Specificity, also referred to as True Negative Rate or TNR = TN/(TN + FP)
+• PPV = TP/(TP + FP)
+• NPV = TN/(TN + FN)
+• Prevalence = (TP + FN)/(TP + FP + TN + FN) = (number of true condition
+positive)/(number of samples).
+Probability
+To validate the probability output given by autoSCORE, several HE outputs were averaged in
+order to obtain a probability reference for the HEs. This grouping was done in different ways
+for study part 1/5 and for study part 2:
+• Study part 1 and 5: The large number of EEG recordings allowed their grouping
+depending on autoSCORE probability values, applicable both for recording level and marker
+level. The grouping was uniform with 10 bins from 0% to 100%, each of 10 percent-points.
+• Study part 2: The large number of HEs involved in the study allowed grouping EEGs
+depending on probability based on the number of HEs “voting” for the presence of the
+respective abnormalities, applicable only for recording level. Since each EEG was rated by 11
+HEs, the granularity of this grouping was 9 percent-points.
+The correlation coefficients given in Table 4, Table 5 and Table 6 and associated p values are
+Pearsons Correlation calculated using the python scipy stats package with the mean
+autoSCORE output and mean HE assessments in each bin as described above.
+In study part 4, a similar discretization was performed on the markers placed. The ranges
+were here 100-90%, 90-80%, 80-70%, 70-60%, 60-50% and 50-0%. Only markers above
+threshold for user output were included, and a qualitative analysis of the number of
+overlapping markers with reference (HE consensus or primary predicate device) for each
+probability range.
+Levels of abnormalities
+Figure 2 below presents the strategy employed to validate categorical outputs. Categories in
+grey indicate areas that were not considered for determining TP, TN, FP and FN, and
+consequently, were not used for calculation performance parameters.
+Page 5 - 13K231068 - Page 14 of 20
+High probability thresholds vs
+Normal Probable Normal ↔ Probable Abnormal Abnormal
+Normal Probable Normal ↔ Probable Abnormal Abnormal
+not Epi Focal ↔ Probable Epi Focal Epi Focal
+not Epi Generalized ↔ Probable Epi Generalized Epi Generalized
+not Non-Epi Diffuse ↔ Probable Non-Epi Diffuse Non-Epi Diffuse
+not Non-Epi Focal ↔ Probable Non-Epi Focal Non-Epi Focal
+Low probability thresholds vs
+Normal Probable Normal ↔ Probable Abnormal Abnormal
+Normal Probable Normal ↔ Probable Abnormal Abnormal
+not Epi Focal ↔ Probable Epi Focal Epi Focal
+not Epi Generalized ↔ Probable Epi Generalized Epi Generalized
+not Non-Epi Diffuse ↔ Probable Non-Epi Diffuse Non-Epi Diffuse
+not Non-Epi Focal ↔ Probable Non-Epi Focal Non-Epi Focal
+Figure 2: Schematic representation of strategy employed to validate the levels of abnormalities.
+7.2.3.2 Comparison of performance with predicate devices
+Binary Metrics – recording level
+The binary metrics given in Table 7 (accuracy, sensitivity, specificity, PPV and NPV) in the
+results section were computed in the same way as described above in the comparison with
+HE section. To allow comparison with predicate devices encevis (study part 3 and 4) and
+Persyst (study part 4), a number of assumptions and limitations had to be addressed:
+- Only the epileptiform activity abnormalities can be validated against the predicate
+device. Focal Epi and Gen Epi parts of the autoSCORE output were merged.
+- Since predicate devices are not designed to give recording level output, rules of
+interpretation had to be applied. If at least one spike is generated by the predicate
+device, the EEG recording is classified as Abnormal.
+Probability level of abnormality – marker level
+Only Focal Epi and Gen Epi markers placed by autoSCORE could be compared with the
+placement of the encevis spikes in study part 4.
+Page 5 - 14K231068 - Page 15 of 20
+7.2.4 Results of Performance Evaluation
+7.2.4.1 Comparison of performance with HEs
+Summary results obtained by the abovementioned methods are presented in Table 4 below.
+Tveit et al. [1] describes in detail the agreement between HEs and autoSCORE in comparison
+to HE-HE agreement.
+Table 4: Performance results for autoSCORE classification of Abnormal EEG at recording-level based on
+comparison with HE assessment. Reference standards for each study part are discussed in a previous
+section of this document.
+Age Study Sensitivity Correlation
+Specificity (%) PPV (%) NPV (%)
+Group Part (%) coefficient (p-value)
+Part 2 100 [100, 88.4 [77.8, 92.0 100 [100.0,
+0.96 (p < 10⁻⁵)
+(n=100) 100] 97.4] [84.5,98.3] 100.0]
+All ages Part 1 83.1 [81.3, 91.8 [90.8, 84.9 [83.2, 90.8 [89.8,
+0.99 (p < 10⁻⁵)
+(n=4850) 84.8] 92.8] 86.6] 91.8]
+Part 5 87.8 [85.0, 89.4 [87.2, 86.0 [83.0, 90.9 [88.8,
+0.99 (p < 10⁻⁵)
+(n=1315) 90.5] 91.6] 88.8] 92.9]
+Part 2 100.0 [100.0, 84.0 [68.0, 88.9 [77.5, 100.0 [100.0,
+0.95 (p < 10⁻⁵)
+(n=57) 100.0] 96.4] 97.4] 100.0]
+Adult Part 1 85.0 [83.1, 89.2 [87.8, 86.2 [84.4, 88.2 [86.7,
+0.98 (p < 10⁻⁵)
+(n=3360) 86.8] 90.6] 88.0] 89.6]
+Part 5 90.5 [87.6, 84.6 [81.1, 85.2 [81.9, 90.1 [87.0,
+0.99 (p < 10⁻⁵)
+(n=848) 93.2] 87.9] 88.4] 92.9]
+Part 2 100.0 [100.0, 94.4 [81.2, 96.1 [87.1, 100.0 [100.0,
+0.94 (p < 10⁻⁵)
+(n=43) 100.0] 100.0] 100.0] 100.0]
+Part 1
+Pediatric 71.6 [65.9, 95.8 [94.6, 76.3 [70.6, 94.6 [93.4,
+(n=1490) 0.96 (p < 10⁻⁵)
+77.1] 96.8] 81.8] 95.8]
+A
+Part 5 79.7 [72.8, 95.7 [93.4, 88.7 [82.7, 91.8 [88.9,
+0.95 (p < 10⁻⁵)
+(n=467) B 86.2] 97.8] 94.0] 94.6]
+A results can be affected by low prevalence of 16%
+B results can be affected by low prevalence of 29.6%
+In addition to performance metrics results reported in Table 4, similar results were
+obtained to validate all categorical outputs (Normal vs Probable Normal vs Probable
+Abnormal vs Abnormal). The definition of the thresholds can be found in Figure 1 and the
+logic followed during validation of each category is presented in Figure 2 in 7.2.3
+Performance evaluation measures. The categories shown in light grey in Figure 2 were
+omitted during validation of the respective performance metrics. It was shown that most
+of the autoSCORE results will be defined by the most confident Abnormal or Normal
+classification with PPV for all age groups in all studies equal to or higher than 90%. For the
+lower confidence levels Probable Abnormal and Probable Normal corresponding PPV are
+lower or equal, ranging from 80.3% to 100%.
+Types of abnormality – Recording level
+Page 5 - 15K231068 - Page 16 of 20
+Summary results for the four types of abnormalities obtained by the abovementioned
+methods are presented in Table 5 below. Table 5 does not include results of the different
+age groups, but rather focuses on reporting the overall results (adult and pediatric
+patients combined) for each study part as no significant age-related differences were
+found. Tveit et al. [1] describes in detail the agreement between HE assessment and
+autoSCORE results in comparison to HE-HE agreement.
+Table 5: Performance results for autoSCORE classification of abnormality types at recording-level based
+on comparison with HE assessment. Reference standards for each study part are discussed in a previous
+section of this document.
+Correlation
+Abnormality Study Sensitivity Specificity
+PPV (%) NPV (%) Prevalence coefficient (p-
+Type Part (%) (%)
+value)
+Part 2 73.9 [54.5, 88.3 [80.8, 65.4 [45.8, 91.9 [85.1, 0.85
+23.0%
+(n=100) 91.3] 94.9] 83.3] 97.4] (p = 0.00091)
+Focal Epi
+Part 1 62.5 [55.9, 95.0 [94.3, 35.8 [30.9, 98.3 [97.9, 0.88
+4.3 %
+(n=4850) 69.0] 95.6] 40.8] 98.6] (p = 0.00089)
+Part 5 66.5 [59.8, 93.9 [92.5, 64.8 [58.1, 94.3 [92.9, 0.96
+14.5 %
+(n=1315) 73.1] 95.2] 71.4] 95.6] (p < 10⁻⁵)
+Part 2 100.0 [100.0, 94.1 [88.6, 75.1 [54.5, 100.0 [100.0, 0.83
+15,0 %
+(n=100) 100.0] 98.8] 93.8] 100.0] (p = 0.003)
+Gen Epi
+Part 1 71.2 [62.3, 98.3 [97.9, 47.4 [39.7, 99.4 [99.1, 0.88
+2.1 %
+(n=4850) 79.8] 98.6] 55.2] 99.6] (p = 0.00067)
+Part 5 72.3 [62.0, 96.1 [95.0, 53.4 [43.8, 98.3 [97.5, 0.79
+5.8 %
+(n=848) 82.2] 97.2] 63.2] 98.9] (p = 0.0066)
+Part 2 87.5 [72.7, 82.8 [74.0, 61.7 [44.8, 95.5 [89.7, 0.93
+24.0 %
+(n=100) 100.0] 90.9] 78.0] 100.0] (p < 10⁻⁵)
+Diff Non-Epi
+Part 1 65.2 [62.5, 94.5 [93.7, 79.1 [76.5, 89.4 [88.4, 0.98
+24.3 %
+(n=4850) 67.9] 95.2] 81.6] 90.4] (p < 10⁻⁵)
+Part 5 79.4 [74.5, 94.0 [92.6, 77.9 [73.0, 94.5 [93.1, 0.97
+21.0 %
+(n=467) 84.0] 95.4] 82.7] 95.8] (p < 10⁻⁵)
+Part 2 61.5 [42.1, 93.2 [86.8, 76.1 [56.2, 87.4 [79.5, 0.84
+26.0 %
+Focal Non- (n=100) 80.0] 98.6] 94.1] 94.1] (p = 0.00056)
+Epi Part 1 65.2 [60.9, 88.4 [87.4, 38.3 [35.0, 95.8 [95.2, 0.97
+10.0 %
+(n=4850) 69.5] 89.3] 41.7] 96.4] (p < 10⁻⁵)
+Part 5 73.1 [67.4, 89.6 [87.7, 61.2 [55.6, 93.7 [92.1, 0.98
+18.4 %
+(n=467) 78.6] 91.4] 66.9] 95.1] (p < 10⁻⁵)
+In addition to performance metrics results reported in Table 5, similar results were
+obtained to validate all categorical outputs (abnormality type vs Probable abnormality
+type). The definition of thresholds can be found in Figure 1, and the logic followed during
+validation of each category is presented in Figure 2 in 7.2.3 Performance evaluation
+measures. The categories shown in light grey in Figure 2 were omitted during validation of
+the respective performance metrices. It was shown that most of the autoSCORE results
+will be defined by the most confident categories (Focal Epi, Generalized Epi, Diffuse Non-
+Epi and Focal Non-Epi) with similar or greater PPV than for the less confident categories.
+Types of abnormality – Marker level
+Marker placement and correct type assignment were evaluated as part of Studies 1, 4,
+and 5. In study part 4, overlap of autoSCORE markers with areas indicated by HE
+Page 5 - 16K231068 - Page 17 of 20
+consensus as epileptiform discharges was validated. In study parts 1 and 5 it was validated
+if autoSCORE places markers in the same areas of EEG where previously HEs did. HEs also
+provided information about the type of abnormality assigned to the marker. Performance
+metrics calculated based on these results are provided in Table 6 together with the
+prevalence and correlation coefficient. autoSCORE places more markers in EEG recordings
+(declared as Abnormal on the recording level) than HEs, who typically select the most
+representative examples instead of all abnormality examples present in the recording.
+Consequently, the correlation coefficients and performance metrics values are lower for
+marker level abnormalities than recording level abnormalities leading to lower agreement
+between HEs and autoSCORE markers with assigned probability values below 90%.
+autoSCORE markers with high probability values indicate high agreement with markers
+inserted by HEs. Therefore, markers assigned with the highest level of confidence are
+most likely to indicate presence of each type of abnormality.
+Table 6: Performance results for autoSCORE classification of abnormality types at the marker level
+based on comparison with HE assessment. Reference standards for each study part are discussed in
+a previous section of this document.
+Correlation
+Abnormality Sensitivity Specificity
+Study Part PPV (%) NPV (%) Prevalence coefficient
+Type (%) (%)
+(p-value)
+Focal Epi + Qualitative
+Part 4 87.3 [80.4, 61.3 [56.1, 38.9 [28.1, 94.6 [92.1,
+Generalized 22.0% not
+(n=509) 92.7] 67.2] 50.4] 96.7]
+Epi quantitative
+Part 1 58.0 [57.0, 98.0 [98.0, 62.6 [61.6, 97.6 [97.6, 0.88
+5.40%
+(n=179700) 59.0] 98.1] 63.7] 97.7] (p = 0.0018)
+Focal Epi
+Part 5 62.7 [61.1, 96.6 [96.4, 71.6 [70.1, 95.1 [94.8, 0.95 (p <
+11.90%
+(n=29989) 64.3] 96.9] 73.2] 95.3] 10⁻⁵)
+Part 1 50.4 [49.2, 99.6 [99.6, 81.5 [80.2, 98.3 [98.2, 0.81 (p =
+3.30%
+Generalized (n=168441) 51.8] 99.6] 82.8] 98.4] 0.0049)
+Epi Part 5 68.0 [65.3, 99.4 [99.3, 82.5 [79.9, 98.7 [98.5, 0.92 (p =
+4.00%
+(n=27521) 70.8] 99.5] 84.9] 98.8] 0.00016)
+Part 1 52.7 [52.2, 94.2 [94.1, 69.6 [69.1, 88.7 [88.5, 0.95 (p <
+20.20%
+Diffuse Non- (n=204119) 53.2] 94.3] 70.2] 88.8] 10⁻⁵)
+Epi Part 5 68.3 [66.5, 94.3 [94.0, 53.7 [52.0, 96.8 [96.6, 0.89 (p =
+8.80%
+(n=28986) 70.1] 94.6] 55.4] 97.1] 0.0005)
+Part 1 63.0 [62.3, 93.8 [93.7, 51.3 [50.6, 96.1 [96.0, 0.99 (p <
+9.40%
+Focal Non- (n=179700) 63.8] 93.9] 52.0] 96.2] 10⁻⁵)
+Epi Part 5 70.0 [68.5, 92.5 [92.2, 57.0 [55.6, 95.6 [95.3, 0.93 (p =
+12.40%
+(n=30168) 71.4] 92.8] 58.5] 95.8] 0.00012)
+7.2.4.2 Comparison of performance with predicate devices
+Recording level
+Summary results for study part 3 and 4 where autoSCORE’s performance was compared with
+predicate devices are presented below in Table 7.
+Table 7: Performance results for autoSCORE classification of Focal Epi and Gen Epi EEG at the
+recording-level and predicate devices based on comparison with HE assessment. Reference standards
+Page 5 - 17K231068 - Page 18 of 20
+for each study part are discussed in a previous section of this document.
+Age Study Device Accuracy Sensitivity Specificity NPV (%) PPV (%)
+Group part (%) (%) (%)
+All ages Part autoSCORE 88.0 [81.0, 90.0 [77.8, 87.1 [78.8, 95.3 [89.5, 75.0 [60.0,
+3 94.0] 100.0] 94.4] 100.0] 88.9]
+encevis 48.0 [38.0, 96.7 [88.9, 27.2 [17.1, 95.0 [83.3, 36.3 [25.9,
+58.0] 100.0] 37.9] 100.0] 46.9
+Part autoSCORE 94.8 [87.9, 93.3 [83.3, 96.4 [88.0, 93.1 [82.6, 96.6 [88.5,
+4 100.0] 100.0] 100.0] 100.0] 100.0]
+encevis 56.9 [44.8, 100.0 10.7 [0.0, 100.0 54.5 [41.1,
+69.0] [100.0, 23.3] [100.0, 67.9]
+100.0] 100.0]
+Persyst 53.5 [41.4, 100.0 3.6 [0.0, 100.0 52.6 [39.7,
+65.5] [100.0, 12.0] [100.0, 65.5]
+100.0] 100.0]
+Adult Part autoSCORE 86.0 [77.2, 84.6 [61.5, 86.4 [75.6, 95.0 [87.2, 64.7 [40.0,
+3 94.7] 100.0] 95.6] 100.0] 87.0]
+encevis 40.4 [28.1, 92.3 [75.0, 25.0 [12.8, 91.6 [72.7, 26.7 [14.3,
+52.6] 100.0] 38.5] 100.0] 40.0]
+Part autoSCORE 93.3 [84.4, 92.6 [81.5, 94.4 [81.2, 89.5 [73.7, 96.1 [87.5,
+4 100.0] 100.0] 100.0] 100.0] 100.0]
+encevis 66.7 [53.3, 100.0 16.7 [0.0, 100.0 64.3 [50.0,
+80.0] [100.0, 35.7] [100.0, 78.6]
+100.0] 100.0]
+Pediatric Part autoSCORE 90.7 [81.4, 94.1 [80.0, 88.5 [75.0, 95.8 [86.2, 84.2 [66.7,
+3 97.7] 100.0] 100.0] 100.0] 100.0]
+encevis 58.2 [44.2, 100.0 30.8 [13.6, 100.0 48.6 [32.3,
+72.1] [100.0, 50.0] [100.0, 65.0]
+100.0] 100.0]
+Part autoSCORE 100.0 100.0 100.0 100.0 100.0 [100.0,
+4 [100.0, [100.0, [100.0, [100.0, 100.0]
+100.0] 100.0] 100.0] 100.0]
+encevis 23.1 [0.0, 100.0 0.0 [0.0, 23.1 [0.0,
+46.2] [100.0, 0.0] 46.2]
+100.0]
+Marker level
+Overview of overlap of autoSCORE’s Focal Epi and Gen Epi markers with encevis spikes dependent on
+probability assigned to the autoSCORE marker is presented below in Table 8. The highest agreement
+between both devices was obtained for markers with assigned higher probability. Therefore,
+markers assigned with the highest level of confidence are most likely to indicate presence of
+abnormality.
+Table 8: autoSCORE markers classified as Focal Epi and Gen Epi in study 4 and their overlap with
+spikes generated by encevis.
+Probability Procentage of
+Number of Number of autoSCORE
+Age range of autoSCORE markers
+autoSCORE markers overlapping
+group autoSCORE overlapping with encevis
+markers with encevis spikes
+markers spikes
+All 0 -50 15 2 13%
+Page 5 - 18K231068 - Page 19 of 20
+ages 50-60 57 11 19%
+60-70 59 19 32%
+70-80 112 37 33%
+80-90 93 50 54%
+90-100 173 149 86%
+0 -50 11 1 9%
+50-60 46 8 17%
+60-70 47 17 36%
+Adult
+70-80 79 29 37%
+80-90 72 38 53%
+90-100 150 128 85%
+0 -50 4 1 25%
+50-60 11 3 27%
+60-70 12 2 17%
+All
+ages 70-80 33 8 24%
+80-90 21 12 57%
+91%
+90-100 23 21
+8. Biocompatibility, Electrical Safety, Electromagnetic Compatibility
+(EMC), and Mechanical Safety
+autoSCORE is a software-only device. Biocompatibility, electrical safety, electromagnetic
+compatibility, and mechanical safety are not applicable to this device.
+9. Statement of Substantial Equivalence
+Since the predicate devices were cleared based in part on the results of clinical studies, and
+given the differences in device outputs, clinical testing was required to support substantial
+equivalence.
+The non-clinical data support the safety of the device and the software verification and
+validation demonstrate that the autoSCORE device should perform as intended in the
+specified use conditions. The clinical data demonstrate that the subject device (autoSCORE)
+performs as well as the predicate devices that are currently marketed for the same intended
+use.
+Therefore, autoSCORE is substantially equivalent to predicate devices in intended use.
+autoSCORE has some technological features that differ from predicate devices. Any
+differences between the subject and predicate device have no significant influence on
+safety or effectiveness. autoSCORE is at least as safe and effective as the legally marketed
+predicate devices, as established through performance testing. Therefore, the evidence
+provided demonstrates that autoSCORE is substantially equivalent to the predicate devices.
+10. References
+Page 5 - 19K231068 - Page 20 of 20
+1. Tveit, J., et al., Automated Interpretation of Clinical Electroencephalograms Using Artificial
+Intelligence. JAMA Neurology, 2023.
+Page 5 - 20

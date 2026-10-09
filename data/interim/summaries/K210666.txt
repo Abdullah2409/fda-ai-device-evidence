@@ -1,0 +1,329 @@
+Imagen Technologies, Inc July 20, 2021
+℅ Robert Lindsey, Ph.D.
+Chief Science Officer
+151 West 26th Street, 10th Floor
+NEW YORK NY 10001
+Re: K210666
+Trade/Device Name: Chest-CAD
+Regulation Number: 21 CFR 892.2070
+Regulation Name: Medical image analyzer
+Regulatory Class: Class II
+Product Code: MYN
+Dated: June 9, 2021
+Received: June 10, 2021
+Dear Dr. Lindsey:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.27
+Silver Spring, MD 20993
+www.fda.govK210666 - Robert Lindsey, Ph.D. Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK210666
+510(k) Summary Page 1 of 9
+In accordance with 21 CFR 807.87(h) (and 21 CFR 807.92) the 510(k) Summary for Chest-CAD
+is provided below.
+1. SUBMITTER
+Applicant: Imagen Technologies, Inc.
+151 West 26th Street, Suite 1001
+New York, NY 10001
+Contact and Primary Robert Lindsey, Ph.D.
+Correspondent: Chief Science Officer
+Imagen Technologies, Inc.
+151 West 26th Street, Suite 1001
+New York, NY 10001
+917-830-4721
+rob@imagen.ai
+Secondary Correspondent: Becky Ditty
+Consultant
+Biologics Consulting
+1555 King St., Suite 300
+Alexandria, VA 22314
+269-888-2516
+bditty@biologicsconsulting.com
+Date Prepared: July 12th, 2021
+2. DEVICE
+Device Trade Name: Chest-CAD
+Device Common Name or Medical Image Analyzer
+Classification Name:
+Regulation 21 CFR 892.2070
+Regulatory Class: II
+Product Code: MYN510(k) Summary Page 2 of 9
+3. PREDICATE DEVICE
+On January 22, 2020, FDA published the final rule down-classifying medical image analyzers
+(product code MYN) from Class III to Class II. Therefore, Riverain Technologies’
+RapidScreen™ RS-2000 (P000041) has been identified as the predicate device for Chest-CAD.
+4. DEVICE DESCRIPTION
+Chest-CAD is a computer-assisted detection (CADe) software device designed to assist
+physicians in identifying suspicious regions of interest (ROIs) in adult chest X-rays. Suspicious
+ROIs identified by Chest-CAD are assigned to one of the following categories: Cardiac,
+Mediastinum/Hila, Lungs, Pleura, Bones, Soft Tissues, Hardware, or Other. Chest-CAD detects
+suspicious ROIs by analyzing radiographs using deep learning algorithms for computer vision
+and provides relevant annotations to assist physicians with their interpretations.
+For each image within a study, Chest-CAD generates a DICOM Presentation State file (output
+overlay). If any suspicious ROI is detected by Chest-CAD in the study, the output overlay for all
+images includes the text “ROI(s) Detected:” followed by a list of the category/categories for
+which suspicious ROI(s) were found, such as “Lungs, Bones”. In addition, if suspicious ROI(s)
+are detected in the image, bounding boxes surrounding each detected suspicious ROI are
+included in the output overlay. If no suspicious ROI is detected by Chest-CAD in the study, the
+output overlay for each image will include the text “No ROI(s) Detected” and no bounding boxes
+will be included. Regardless of whether a suspicious ROI is detected, the overlay includes text
+identifying the X-ray study as analyzed by Chest-CAD and a customer configurable message
+containing a link to or instructions for users to access labeling. The Chest-CAD overlay can be
+toggled on or off by the physician within their Picture Archiving and Communication System
+(PACS) viewer, allowing for concurrent review of the X-ray study.
+5. INTENDED USE/INDICATIONS FOR USE
+Chest-CAD is a computer-assisted detection (CADe) software device that analyzes chest
+radiograph studies using machine learning techniques to identify, categorize, and highlight
+suspicious regions of interest (ROI). Any suspicious ROI identified by Chest-CAD is assigned to
+one of the following categories: Cardiac, Mediastinum/Hila, Lungs, Pleura, Bones, Soft Tissues,
+Hardware, or Other. The device is intended for use as a concurrent reading aid for physicians.
+Chest-CAD is indicated for adults only.
+6. SUBSTANTIAL EQUIVALENCE
+Comparison of Indications
+The predicate device for Chest-CAD (Riverain Technologies’ RapidScreen™ RS-2000) has the
+following FDA-approved Indications for Use:
+The RapidScreen™ RS-2000 is a computer-aided detection (CAD) system intended to identify
+and mark regions of interest (ROIs) on digitized frontal chest radiographs. It identifies510(k) Summary Page 3 of 9
+features associated with solitary pulmonary nodules from 9 to 30 mm in size, which could
+represent early-stage lung cancer. The device is intended for use as an aid only after the
+physician has performed an initial interpretation of the radiograph.
+RapidScreen™ RS-2000 and Chest-CAD both analyze chest radiographs, and both identify
+regions of interest (ROI) in the chest. Chest-CAD detects ROIs and assigns each ROI to one of
+eight categories compared to RapidScreen™ RS-2000 that detects ROIs and assigns ROIs to a
+single category (i.e., features associated with pulmonary nodules). RapidScreen™ RS-2000 is
+indicated for use as a second read, while Chest-CAD is indicated for use as a concurrent read.
+However, both devices are only intended as an aid to the physician and not intended to replace
+the diagnosis by the physician. The differences in Indications for Use do not constitute a new
+intended use, as both devices are intended to assist physicians by identifying and marking ROIs
+in chest radiographs.
+Technological Comparisons
+Table 1 provides a comparison of the Technological Characteristics of Chest-CAD to the
+predicate RapidScreen™ RS-2000.
+Table 1: Technological Comparison
+Proposed Device Predicate
+Number K210666 P000041
+Applicant Imagen Technologies Riverain Medical Group
+Device Name Chest-CAD RapidScreen™ RS-2000
+Classification Regulation 892.2070 892.2070
+Product Code MYN MYN
+Image Modality X-ray X-ray
+Study Type Chest Chest
+Clinical Output Identify and mark regions of Identify and mark regions of
+interest (ROIs) on chest interest (ROIs) on chest
+radiographs radiographs
+Clinical Finding Identified ROIs are assigned to Identified ROIs are assigned to a
+one of the following categories: single category (i.e., features
+Cardiac, Mediastinum/Hila, associated with solitary
+Lungs, Pleura, Bones, Soft pulmonary nodules from 9 to 30
+Tissues, Hardware, or Other mm in size)
+Intended Users Physician Physician
+Intended User Workflow Device intended for use as a Device intended for use as a
+reading aid for physicians reading aid for physicians
+interpreting chest radiographs interpreting chest radiographs
+Patient Population Adults with Chest Radiographs Adults with Chest Radiographs
+Algorithm Methodology Artificial Neural Networks Artificial Neural Networks510(k) Summary Page 4 of 9
+Proposed Device Predicate
+Platform Secure cloud-based processing Secure on-premise processing
+and delivery of chest radiographs and delivery of chest radiographs
+Image Source Digital X-ray Film X-ray
+Image Viewing Image displayed on PACS system Image displayed on video
+monitor
+Chest-CAD’s intended end-users, imaging modality, output display on X-ray studies, and
+assistive functionality during chest radiograph interpretation workflows are similar to those of
+RapidScreenTM RS-2000. Chest-CAD differs from RapidScreenTM RS-2000 in that Chest-CAD
+detects ROIs and assigns each ROI to one of eight categories compared to RapidScreenTM RS-
+2000 that detects ROIs and assigns ROIs to a single category (i.e., features associated with
+pulmonary nodules). Chest-CAD operates on digital X-rays from a DICOM node, whereas
+RapidScreenTM RS-2000 operates on digitized X-ray films. RapidScreenTM RS-2000 was
+approved when digital X-rays were not standard of care, however, the Riverain device was
+approved by FDA to process digital X-rays in P000041/S001. The fundamental purpose of both
+devices is to identify ROIs on chest X-rays for further consideration by the physician, and these
+differences in technological characteristics do not raise different concerns of safety and
+effectiveness.
+7. PERFORMANCE DATA
+Biocompatibility Testing
+There are no direct or indirect patient-contacting components of the subject device. Therefore,
+patient contact information is not needed for this device.
+Electrical Safety and Electromagnetic Compatibility (EMC)
+The subject device is a software-only device. Therefore, electrical safety and EMC testing was
+not necessary to establish the substantial equivalence of this device.
+Software Verification and Validation Testing
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software level of
+concern for Chest-CAD is Moderate, since a malfunction of, or a latent design flaw in, the
+software device may lead to an erroneous diagnosis or a delay in delivery of appropriate medical
+care that would likely lead to Minor Injury.
+Bench Testing
+Imagen conducted a standalone performance assessment on 20,000 chest radiograph cases from
+12 hospitals, outpatient centers, and specialty centers in the United States representative of the510(k) Summary Page 5 of 9
+intended use population. The results of the standalone testing demonstrated that Chest-CAD
+detects suspicious ROIs with high sensitivity (0.908; 95% Wilson’s Confidence Interval: 0.905,
+0.911), high specificity (0.887; 95% Wilson’s Confidence Interval: 0.885, 0.889), and high Area
+Under the Curve (AUC) of the Receiver Operating Characteristic (ROC) curve (0.976, 95%
+Bootstrap Confidence Interval: 0.975, 0.976).
+The AUC of the ROC curve was also estimated for each Chest-CAD category and Figure 1
+shows AUCs remained high across the eight categories (further detail described in Table 2). The
+highest AUCs of the ROC curve were for Hardware (0.994) and the lowest were for
+Mediastinum/Hila (0.921). Sensitivity and specificity were calculated for each of the Chest-CAD
+categories. As shown in Table 3, sensitivity was highest for Hardware (0.967) and was lowest for
+Bones (0.854). Specificity was highest for Hardware (0.960) and lowest for Mediastinum/Hila
+(0.830). The Free-Response ROC (FROC) curve was also estimated for each Chest-CAD
+category and Figure 2 shows the box-level sensitivity versus the false positives per image. The
+FROC curves terminate at the device’s box-level sensitivity for each category due to the
+cascaded nature of the Chest-CAD predictions.
+Figure 1: Chest-CAD ROC Curve by Category510(k) Summary Page 6 of 9
+Table 2: AUC of the ROC Curve for Chest-CAD Model Predictions by Category
+Category AUC 95% Bootstrap CI
+Cardiac 0.961 0.959, 0.963
+Mediastinum/Hila 0.921 0.918, 0.924
+Lungs 0.967 0.966, 0.969
+Pleura 0.973 0.972, 0.975
+Bones 0.930 0.926, 0.934
+Soft Tissues 0.981 0.977, 0.985
+Hardware 0.994 0.994, 0.995
+Other 0.953 0.950, 0.957
+Abbreviations: AUC= Area Under the Curve; CI= Confidence Interval.
+Table 3: Sensitivity and Specificity for Chest-CAD Model Predictions by Category
+Sensitivity Specificity
+Category
+95% 95%
+Wilson's CI Wilson's CI
+Cardiac 0.889 0.892
+(0.881, 0.897) (0.887, 0.897)
+Mediastinum/Hila 0.856 0.830
+(0.844, 0.867) (0.824, 0.835)
+Lungs 0.888 0.915
+(0.882, 0.893) (0.908, 0.921)
+Pleura 0.919 0.899
+(0.912, 0.925) (0.894, 0.904)
+Bones 0.854 0.856
+(0.838, 0.868) (0.850, 0.861)
+Soft Tissues 0.938 0.919
+(0.916, 0.955) (0.916, 0.923)
+Hardware 0.967 0.960
+(0.963, 0.970) (0.956, 0.964)
+Other 0.906 0.872
+(0.889, 0.920) (0.867, 0.877)
+Abbreviations: CI= Confidence Interval.510(k) Summary Page 7 of 9
+Figure 2: Chest-CAD Free-Response ROC (FROC) Curve by Category
+Animal Testing
+Not applicable. Animal studies are not necessary to establish the substantial equivalence of this
+device.
+Clinical Data
+Imagen conducted a fully-crossed multiple reader, multiple case (MRMC) retrospective reader
+study to determine the impact of Chest-CAD on reader performance in detecting suspicious ROIs
+in chest radiograph cases. The primary objective of this study was to determine whether the
+accuracy of readers aided by Chest-CAD (“Aided”) was superior to the accuracy of readers when
+unaided by Chest-CAD (“Unaided”) as determined by the case-level, across-category aggregate
+Area Under the Curve (AUC) of the Receiver Operating Characteristic (ROC) curve.
+24 clinical readers each evaluated 238 cases in Chest-CAD’s Indications for Use under both
+Aided and Unaided conditions. The cases were from 9 hospitals, outpatient centers, and specialty
+centers in the United States. Each case was previously evaluated by a panel of U.S. board-
+certified radiologists who assigned a ground truth binary label indicating the presence or absence
+of a suspicious ROI for each Chest-CAD category. The MRMC study consisted of two
+independent reading sessions separated by a washout period of at least 28 days in order to avoid
+memory bias. For each case, each reader was required to provide a binary determination of the
+presence or absence of a suspicious ROI for each category and to provide a confidence score
+representing their certainty.
+ytivitisneS
+leveL-xoB
+0
+0
+0
+0
+0
+.8
+.6
+.4
+.2
+.0
+0 .0 0 .2
+F a ls e P o s
+0 .4
+itiv e s p e r Im a g e
+0 .6
+HLCMSPOB a rd w a re
+u n g s
+a rd ia c
+e d ia s tin
+o ft T is s u
+le u ra
+th e r
+o n e s
+ue ms /H ila
+0 .8510(k) Summary Page 8 of 9
+The results of the study found that the accuracy of readers in the intended use population was
+superior when Aided by Chest-CAD than when Unaided by Chest-CAD, as measured by the task
+of suspicious ROI detection using the AUC of the ROC curve as calculated by the Dorfman,
+Berbaum, and Metz (DBM) modeling approach.
+Figure 3: Clinical Reader Study Results - Aided and Unaided ROC Curves
+In particular, the study results demonstrated improvements when Aided versus Unaided:
+• When calculated using Wilcoxon rank-sum scores with bootstrap confidence intervals as
+outlined in Beiden et al. 20001, reader AUC estimates improved from 0.836 (95%
+Bootstrap CI: 0.816, 0.856) to 0.894 (95% Bootstrap CI: 0.879, 0.909).
+• Reader sensitivity improved from 0.757 (95% Wilson’s CI: 0.750, 0.764) to 0.856 (95%
+Wilson’s CI: 0.850, 0.862).
+• Reader specificity improved from 0.843 (95% Wilson’s CI: 0.839, 0.847) to 0.870 (95%
+Wilson’s CI: 0.866, 0.873).
+1Beiden, S.V., Wagner, R.F., & Campbell, G. (2000). Components-of-variance models and multiple-bootstrap experiments: An
+alternative method for random-effects, receiver operating characteristic analysis. Academic Radiology, 7, p.341-p.349.510(k) Summary Page 9 of 9
+8. CONCLUSION
+The conclusions drawn from the standalone and clinical studies demonstrate that Chest-CAD is
+as safe, as effective, and performs as well as RapidScreen™ RS-2000. The special controls for
+the Medical Image Analyzer (CADe) 21 CFR 892.2070 regulation are satisfied by demonstrating
+effectiveness of the device in both the standalone testing and the clinical testing, showing
+superiority of Aided versus Unaided reads in the clinical testing, and communicating testing
+results in the labeling. Chest-CAD’s intended end-users, imaging modality, output display on X-
+ray studies, and assistive functionality during chest radiograph interpretation workflows are
+similar to those of RapidScreen™ RS-2000. The technological differences identified and
+discussed in Section 6 do not raise different concerns of safety and effectiveness. Thus, Chest-
+CAD is substantially equivalent to RapidScreen™ RS-2000 for the intended use of computer-
+assisted detection.

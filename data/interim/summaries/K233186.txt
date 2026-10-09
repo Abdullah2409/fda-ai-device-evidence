@@ -1,0 +1,706 @@
+Shanghai United Imaging Healthcare Co., Ltd. April 17th, 2024
+Gao Xin
+Official Correspondent
+No. 2258 Chengbei Road. Jiading District
+Shanghai, 201807
+China
+Re: K233186
+Trade/Device Name: uOmnispace.MR
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: March 7, 2024
+Received: March 7, 2024
+Dear Gao Xin:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.09
+Silver Spring, MD 20993
+www.fda.govK233186 - Gao Xin Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Ningzhi Li -S
+for
+Daniel M. Krainak, Ph.D.
+Assistant Director
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K233186
+I
+Device Name
+uOmnispace.MR
+Indications for Use (Describe)
+uOmnispace.MR is a software solution intended to be used for viewing, manipulating, evaluating and
+analyzing medical images. It supports interpretation and evaluation of examinations within
+healthcare institutions. It has the following additional indications:
+* The uOmnispace.MR Stitching is intended to create full-format images from overlapping MR
+volume data sets acquired at multiple stages.
+w The uOmnispace.MR Dynamic application is intended to provide a general postprocessing tool for
+time course studies.
+w The uOmnispace.MR MRS (MR Spectroscopy) is intended to evaluate the molecule constitution
+and spatial distribution of cell metabolism. It provides a set of tools to view, process, and analyze the
+complex MRS data. This application supports the analysis for both SVS (Single Voxel Spectroscopy)
+and CSI (Chemical Shift Imaging) data.
+w The uOmnispace.MR MAPs application is intended to provide a number of arithmetic and
+statistical functions for evaluating dynamic processes and images. These functions are applied to
+the grayscale values of medical images.
+w The uOmnispace.MR Breast Evaluation application provides the user a tool to calculate parameter
+maps from contrast-enhanced time-course images.
+w The uOmnispace.MR Brain Perfusion application is intended to allow the visualization of temporal
+variations in the dynamic susceptibility time series of MR datasets.
+w MR uOmnispace.MR Vessel Analysis is intended to provide a tool for viewing, manipulating, and
+evaluating MR vascular images.
+w The uOmnispace.MR DCE analysis is intended to view, manipulate, and evaluate dynamic
+contrast-enhanced MRI images.
+w The uOmnispace.MR United Neuro is intended to view, manipulate, and evaluate MR neurological
+images.
+w The uOmnispace.MR Cardiac Function is intended to view, evaluate functional analysis of cardiac
+MR images.
+w The uOmnispace.MR Flow Analysis is intended to view, evaluate flow analysis of flow MR images.
+Type of Use (Select one or both, as applicable)
+[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+510 (k) SUMMARY K233186
+1. Date of Preparation:
+September 26, 2023
+2. Sponsor Identification
+Shanghai United Imaging Healthcare Co.,Ltd.
+No.2258 Chengbei Rd. Jiading District, 201807, Shanghai, China
+Establishment Registration Number: 3011015597
+Contact Person: Xin GAO
+Position: Regulatory Affairs Specialist
+Tel: +86-021-67076888-5386
+Fax: +86-021-67076889
+Email: xin.gao@united-imaging.com
+3. Identification of Proposed Device
+Trade Name: Medical Image Post-processing Software
+Common Name: Medical image management and processing system
+Model(s): uOmnispace.MR
+Regulatory Information
+Classification Name: Medical image management and processing system
+Classification: II
+Product Code: QIH
+Regulation Number: 21 CFR 892.2050
+Review Panel: Radiology
+4. Identification of Predicate Device(s)
+Predicate Device
+Device Classification Name Medical image management and processing system
+510(K) Number K192601
+Device Name uWS-MR
+Manufacturer Shanghai United Imaging Healthcare Co., Ltd.
+Regulation Number 21 CFR 892.2050
+Page 1 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Classification Product Code QIH
+Device Classification Class II
+Classification Panel Radiology
+Intended use uWS-MR is a software solution intended to be used for
+viewing, manipulation, communication, and storage of
+medical images. It supports interpretation and
+evaluation of examinations within healthcare
+institutions.
+Reference Device #1
+Device Classification Name Magnetic resonance diagnostic device
+510(K) Number K220332
+Device Name uMR Omega with uWS-MR-MRS
+Manufacturer Shanghai United Imaging Healthcare Co., Ltd.
+Regulation Number 21 CFR 892.1000
+Classification Product Code LNH
+Device Classification Class II
+Classification Panel Radiology
+Intended use uWS-MR is a software solution intended to be used for
+viewing, manipulation, communication, and storage of
+medical images. It supports interpretation and
+evaluation of examinations within healthcare
+institutions.
+Reference Device #2
+Device Classification Name Picture Archiving and Communications System
+510(K) Number K141480
+Device Name cvi42
+Manufacturer Circle Cardiovascular Imaging Inc
+Regulation Number 21 CFR 892.2050
+Classification Product Code LLZ
+Device Classification Class II
+Classification Panel Radiology
+Intended use cvi 42 vascular add-on is software application for
+evaluating cardiovascular images in a DICOM Standard
+format. cvi 42 has a graphical user interface which
+allows users to qualitatively and quantitatively analyze
+cardiac CT & MR images.
+Page 2 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Reference Device #3
+Device Classification Name Magnetic resonance diagnostic device
+510(K) Number K230152
+Device Name uMR Omega
+Manufacturer Shanghai United Imaging Healthcare Co., Ltd.
+Regulation Number 21 CFR 892.1000
+Classification Product Code LNH
+Device Classification Class II
+Classification Panel Radiology
+Intended use The uMR Omega system is indicated for use as a
+magnetic resonance diagnostic device (MRDD) that
+produces sagittal, transverse, coronal, and oblique cross
+sectional images, and spectroscopic images, and that
+display internal anatomical structure and/or function of
+the head, body and extremities.
+Reference Device #4
+Device Classification Name Picture archiving and communication system
+510(K) Number K113456
+Device Name READY View
+Manufacturer GE Healthcare
+Regulation Number 21 CFR 892.2050
+Classification Product Code LLZ
+Device Classification Class II
+Classification Panel Radiology
+Intended use READY View is a image analysis software that allows
+the user to process dynamic or functional volumetric
+data and to generate maps that display changes in image
+intensity aver time, echo time, lb-vague (Diffusion
+imaging) and frequency (Spectroscopy). The
+combination of acquired images, reconstructed images,
+calculated parametric images, tissue segmentation,
+annotations and measurement performed by the clinician
+allows multi-parametric analysis and may provide
+clinically relevant information for diagnosis.
+Page 3 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+5. Device Description
+The uOmnispace.MR is a post-processing software based on the uOmnispace platform
+(cleared in K230039) for viewing, manipulating, evaluating and analyzing MR images,
+can run alone or with other advanced commercially cleared applications.
+This proposed device contains the following applications:
+ uOmnispace.MR Stitching
+ uOmnispace.MR Dynamic
+ uOmnispace.MR MRS
+ uOmnispace.MR MAPs
+ uOmnispace.MR Breast Evaluation
+ uOmnispace.MR Brain Perfusion
+ uOmnispace.MR Vessel Analysis
+ uOmnispace.MR DCE Analysis
+ uOmnispace.MR United Neuro
+ uOmnispace.MR Cardiac Analysis
+ uOmnispace.MR Flow Analysis
+6. Indications for use
+uOmnispace.MR is a software solution intended to be used for viewing, manipulating,
+evaluating and analyzing medical images. It supports interpretation and evaluation of
+examinations within healthcare institutions. It has the following additional indications:
+ The uOmnispace.MR Stitching is intended to create full-format images from
+overlapping MR volume data sets acquired at multiple stages.
+ The uOmnispace.MR Dynamic application is intended to provide a general post-
+processing tool for time course studies.
+ The uOmnispace.MR MRS (MR Spectroscopy) is intended to evaluate the molecule
+constitution and spatial distribution of cell metabolism. It provides a set of tools to
+view, process, and analyze the complex MRS data. This application supports the
+analysis for both SVS (Single Voxel Spectroscopy) and CSI (Chemical Shift Imaging)
+data.
+ The uOmnispace.MR MAPs application is intended to provide a number of arithmetic
+and statistical functions for evaluating dynamic processes and images. These functions
+are applied to the grayscale values of medical images.
+Page 4 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+ The uOmnispace.MR Breast Evaluation application provides the user a tool to
+calculate parameter maps from contrast-enhanced time-course images.
+ The uOmnispace.MR Brain Perfusion application is intended to allow the visualization
+of temporal variations in the dynamic susceptibility time series of MR datasets.
+ The uOmnispace.MR Vessel Analysis is intended to provide a tool for viewing,
+manipulating, and evaluating MR vascular images.
+ The uOmnispace.MR DCE analysis is intended to view, manipulate, and evaluate
+dynamic contrast-enhanced MRI images.
+ The uOmnispace.MR United Neuro is intended to view, manipulate, and evaluate MR
+neurological images.
+ The uOmnispace.MR Cardiac Function is intended to view, evaluate functional
+analysis of cardiac MR images.
+ The uOmnispace.MR Flow Analysis is intended to view, evaluate flow analysis of flow
+MR images
+7. Summary of Technological Characteristics
+The technology characteristics of uOmnispace.MR, reflected in this 510(k) submission
+are substantially equivalent to those of the predicate devices.
+The following tables compare the main features, principles of operation, fundamental
+scientific technology and intended use of uOmnispace.MR when compared to the
+predicate devices.
+Page 5 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Table 1 Substantial equivalent discussion for basic functions
+Item Proposed Device Predicate Device Remark
+uOmnispace.MR uWS-MR (K192601)
+General
+Device Classification Medical image management and Medical image management and Same
+Name processing system processing system
+Product Code QIH QIH Same
+Regulation Number 21 CFR 892.2050 21 CFR 892.2050 Same
+Device Class II II Same
+Classification Panel Radiology Radiology Same
+Advanced Application Yes Yes Same
+uOmnispace.MR is a software solution uWS-MR is a software solution intended
+intended to be used for viewing, to be used for viewing, manipulation,
+manipulating, evaluating and analyzing communication, and storage of medical
+medical images. It supports interpretation images. It supports interpretation and
+and evaluation of examinations within evaluation of examinations within
+healthcare institutions. It has the following healthcare institutions. It has the following Substantial Equivalent
+Indications for use
+additional indications: additional indications: Note 1
+ The uOmnispace.MR Stitching is  The MR Stitching is intended to create
+intended to create full-format images from full-format images from overlapping
+overlapping MR volume data sets acquired MR volume data sets acquired at
+at multiple stages. multiple stages.
+Page 6 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Item Proposed Device Predicate Device Remark
+uOmnispace.MR uWS-MR (K192601)
+ The uOmnispace.MR Dynamic  The Dynamic application is intended
+application is intended to provide a general to provide a general post-processing
+post-processing tool for time course tool for time course studies.
+studies.
+ MRS (MR Spectroscopy) is intended
+ The uOmnispace.MR MRS (MR to evaluate the molecule constitution
+Spectroscopy) is intended to evaluate the and spatial distribution of cell
+molecule constitution and spatial metabolism. It provides a set of tools
+distribution of cell metabolism. It provides to view, process, and analyze the
+a set of tools to view, process, and analyze complex MRS data. This application
+the complex MRS data. This application supports the analysis for both SVS
+supports the analysis for both SVS (Single (Single Voxel Spectroscopy) and CSI
+Voxel Spectroscopy) and CSI (Chemical (Chemical Shift Imaging) data.
+Shift Imaging) data.
+ The MAPs application is intended to
+ The uOmnispace.MR MAPs provide a number of arithmetic and
+application is intended to provide a number statistical functions for evaluating
+of arithmetic and statistical functions for dynamic processes and images. These
+evaluating dynamic processes and images. functions are applied to the grayscale
+These functions are applied to the grayscale values of medical images.
+values of medical images.
+ The MR Breast Evaluation application
+ The uOmnispace.MR Breast provides the user a tool to calculate
+Evaluation application provides the user a
+Page 7 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Item Proposed Device Predicate Device Remark
+uOmnispace.MR uWS-MR (K192601)
+tool to calculate parameter maps from parameter maps from contrast-
+contrast-enhanced time-course images. enhanced time-course images.
+ The uOmnispace.MR Brain  The Brain Perfusion application is
+Perfusion application is intended to allow intended to allow the visualization of
+the visualization of temporal variations in temporal variations in the dynamic
+the dynamic susceptibility time series of susceptibility time series of MR
+MR datasets. datasets.
+ The uOmnispace.MR Vessel  MR Vessel Analysis is intended to
+Analysis is intended to provide a tool for provide a tool for viewing,
+viewing, manipulating, and evaluating MR manipulating, and evaluating MR
+vascular images. vascular images.
+ The uOmnispace.MR DCE analysis  The DCE analysis is intended to view,
+is intended to view, manipulate, and manipulate, and evaluate dynamic
+evaluate dynamic contrast-enhanced MRI contrast-enhanced MRI images.
+images.
+ The United Neuro is intended to view,
+ The uOmnispace.MR United Neuro manipulate, and evaluate MR
+is intended to view, manipulate, and neurological images.
+evaluate MR neurological images.
+ The MR Cardiac Analysis application
+ The uOmnispace.MR Cardiac is intended to be used for viewing,
+Function is intended to view, evaluate post-processing and quantitative
+functional analysis of cardiac MR images.
+Page 8 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Item Proposed Device Predicate Device Remark
+uOmnispace.MR uWS-MR (K192601)
+ The uOmnispace.MR Flow evaluation of cardiac magnetic
+Analysis is intended to view, evaluate flow resonance data.
+analysis of flow MR images.
+Table 2 Substantial equivalent discussion for Advanced Applications
+Application Function name Proposed Predicate Reference Reference Reference Reference Remark
+device Device Device#1 Device#2 Device#3 Device#4
+uOmnispace.MR uWS-MR uMR cvi42 uMR READY
+(K192601) Omega (K141480) Omega View
+with uWS- (K230152) (K113456)
+MR-MRS
+(K220332)
+MR DCE Motion Correction Yes Yes / / / / Same
+Analysis Series Registration Yes Yes / / / / Same
+Parametric Maps Yes Yes / / / / Same
+ROI Analysis Yes Yes / / / / Same
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR Brain Motion Correction Yes Yes / / / / Same
+Perfusion Background Same
+Yes Yes / / / /
+Removal
+Page 9 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Define Arterial Same
+Input Function Yes Yes / / / /
+(AIF)
+Parametric Same
+Mapping Yes Yes / / / /
+Calculation
+TIC Analysis Yes Yes / / / / Same
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR Breast Automatic Same
+Yes Yes / / / /
+Evaluation Subtraction
+Motion Correction Yes Yes / / / / Same
+TIC Analysis Yes Yes / / / / Same
+Background Same
+Yes Yes / / / /
+Removal
+Parameter Map Same
+Calculation:WO,
+Yes Yes / / / /
+WI, TTP, PEI and
+MSI
+Parameter Map Same
+Yes / / / / Yes
+Calculation: SER
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR Automatic Same
+Yes Yes / / / /
+Stitching Stitching
+Page 10 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Manual Stitching Yes Yes / / / / Same
+Normalization Yes Yes / / / / Same
+Sharp/Smooth Yes Yes / / / / Same
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR Vessel Automatic Same
+Analysis Centerline Yes Yes / / / /
+Extraction
+Vascular Stenosis Same
+Yes Yes / / / /
+Analysis
+Optimized Same
+Vascular Yes Yes / / / /
+Displaying
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR Background Same
+Yes Yes / / / /
+Dynamic Removal
+Motion Correction Yes Yes / / / / Same
+TIC Analysis Yes Yes / / / / Same
+Statistic Table Yes Yes / / / / Same
+DCE and DSC Same
+Yes Yes / / / /
+Analysis
+Save, Filming and Same
+Yes Yes / / / /
+Report
+Page 11 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+MR MAPs Background Same
+Yes Yes / / / /
+Removal
+T1, T2/R2,
+Yes Yes / / Yes / Same
+T2*/R2*
+T1rho Calculation Yes / / / Yes / Same
+ADC and eADC Same
+Yes Yes / / / /
+Calculation
+TIC Analysis Yes Yes / / / / Same
+Statistic Table Yes Yes / / / / Same
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR United Motion Correction Yes Yes / / / / Same
+Neuro Functional Same
+Activation Yes Yes / / / /
+Calculation
+Diffusion Same
+Parameter Yes Yes / / / /
+Analysis
+Adjust Display Same
+Yes Yes / / / /
+Parameter
+Fusion Yes Yes / / / / Same
+Fiber Tracking Yes Yes / / / / Same
+Time-Intensity Same
+Yes Yes / / / /
+Curve
+Page 12 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+ROI Analysis Yes Yes / / / / Same
+MR Segmentation Yes Yes / / / / Same
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR Cardiac LV&RV Contour Same
+Yes Yes / / / /
+Function Segmentation
+LAX Extent Same
+Yes Yes / / / /
+Definition
+Parameter
+Yes Yes / / / / Same
+Calculation
+BSA Standardized Yes Yes / / / / Same
+Polar Maps Yes Yes / / / / Same
+Volume Curve Yes Yes / / / / Same
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR Flow Substantial
+Contour
+Analysis Yes Yes / Yes / / equivalent
+Segmentation
+Note 2
+Propagate Contour Yes Yes / / / / Same
+Doppler Map Yes Yes / / / / Same
+Substantial
+Parameters
+Yes Yes / / / / equivalent
+Calculation
+Note 3
+Flow Curve Yes Yes / / / / Same
+Page 13 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Save, Filming and Same
+Yes Yes / / / /
+Report
+MR MRS Single-Voxel Same
+Spectrum Data Yes / Yes / / /
+Analysis
+Chemical Shift Same
+Imaging Data Yes / Yes / / /
+Analysis
+Protocol Same
+Yes / Yes / / /
+Management
+Protocol Editing Yes / Yes / / / Same
+Save, Filming and Same
+Yes / Yes / / /
+Report
+Note 1: Compared with the predicate device, Cardiac Function and Flow Analysis are stated separately in this submission rather than as a whole
+Cardiac Analysis package. There is no impact on the safety and this change is considered minor and will only improve the workflow of
+uOmnispace.MR. Therefore, there would be no clinically significant difference in the safety and clinical performance of the device.
+Note 2: For Flow Analysis, user can perform semi-automatic contour segmentation in addition to only manual segmentation in K192601. There
+is no impact on the safety and this change in algorithm is considered minor and will only improve the function of uOmnispace.MR, therefore
+there would be no clinically significant difference in the safety and clinical performance of the device.
+Note 3: For Flow Analysis, there are two more output parameters (mean pressure gradient and peak pressure gradient). There is no impact on the
+safety and this change is considered minor and will only improve the function of uOmnispace.MR, therefore there would be no clinically
+significant difference in the safety and clinical performance of the device.
+Page 14 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+8. Performance Data
+The following performance data were provided in support of the substantial
+equivalence determination.
+Biocompatibility
+Not Applicable to the proposed device, because the device is stand-alone software.
+Electrical Safety and Electromagnetic Compatibility (EMC)
+Not Applicable to the proposed device, because the device is stand-alone software.
+Software Verification and Validation
+Software verification and validation testing was provided to demonstrate safety and
+efficacy of the proposed device. This includes a hazard analysis, and the potential
+hazards to satisfy the recommended documentation for basic documentation. These
+documentations include:
+• Software Description
+• Device Hazard Analysis
+• Software Requirements Specification (SRS)
+• Software Architecture Design Chart
+• Software Development Environment Description
+• Software Verification and Validation
+• Cybersecurity Documents
+Animal Study
+No animal study was required.
+Clinical Studies
+No clinical study was required.
+Performance Verification
+ Performance Evaluation Report for applications
+Performance tests were conducted to assess the algorithms of the uOmnispace.MR.
+These tests have been performed to assess the algorithms of the Subject Device. The
+results of all conducted testing were found acceptable and do not raise any new issues of
+safety or effectiveness. All testing data demonstrates that the Subject Device is as safe
+and effective when compared to the Predicate Device that is currently marketed for the
+same intended use.
+Page 15 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+The performance functionality of new parameters or algorithms for uOmnispace.MR has
+been tested and validated, including SER (signal enhancement ratio) parameter in MR
+Breast Evaluation, T1rho parameter in MR MAPs, as well as semi-automatic contour
+segmentation for Contour Segmentation function, mean pressure gradient and peak
+pressure gradient parameters for Parameters Calculation function in MR Flow Analysis.
+In this submission, LV&RV Contour Segmentation is an AI algorithm, which is cleared
+in K192601.
+To validate the uOmnispace.MR software from a clinical perspective, the deep
+learning-based Automatic ventricular segmentation Algorithm for the LV&RV
+Contour Segmentation feature in MR Cardiac Function contained in the product
+underwent a scientific evaluation. The results of clinical data-based software
+validation for the proposed device demonstrated high consistency in comparison to
+the predicate device.
+1. Automatic ventricular segmentation Algorithm
+The performance testing for deep learning-based Automatic ventricular
+segmentation Algorithm was performed on 114 subjects (data shown in the Table 1
+below) during the product development.
+ Acceptance Criteria
+The validation type and acceptance criteria is shown in the Table 1 below:
+Validation Type Acceptance Criteria
+Dice To evaluate the proposed device of automatic ventricular
+segmentation, we compared the results with those of the
+cardiac function application of predicate device. The
+Sørensen–Dice coefficient is used to evaluate consistency.
+If dice>0.95, it is considered consistent between the two
+devices.
+ Testing Data Information
+Table 1 Testing data information
+Information of data 114 samples from 114 different
+patients
+Gender Male: 35
+Female:20
+Unknown: 59
+Age [14, 25]: 5
+(25, 40]: 12
+(40, 60]: 22
+(60, 79]: 13
+Unknown: 62
+Page 16 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+Ethnicity Europe: 50
+Asia: 53
+USA: 11
+Manufacturer UIH: 58
+GE: 2
+Philips: 2
+Siemens: 52
+Magnetic Field 1.5T: 23
+3.0T: 41
+Unknown: 50
+ Performance Testing Summary
+The dice between the proposed and predicate device is 1.00 and shows the high
+consistency between the two devices.
+Gender Average dice
+Female 1.00
+Male 1.00
+Unknown 1.00
+Age Average dice
+[14, 25] 1.00
+(25, 40] 1.00
+(40, 60] 1.00
+(60, 79] 1.00
+Ethnicity Average dice
+Europe 1.00
+Asia 1.00
+USA 1.00
+Manufacturer Average dice
+UIH 1.00
+GE 1.00
+Philips 1.00
+Siemens 1.00
+Magnetic Average dice
+Field
+1.5T 1.00
+3.0T 1.00
+Unknown 1.00
+ Standard Annotation Process
+As for the training ground truth, it was manually drawn on short axis slices in
+diastole and systole by two cardiologists with more than 10 years of experience
+each.
+In details, manual tracing of the cardiac was performed by an experienced user. The
+validation of these contours was done by two independent expert (more than 10
+Page 17 of 18Shanghai United Imaging Healthcare Co., Ltd.
+Tel: +86 (21) 67076888 Fax：+86 (21) 67076889
+www.united-imaging.com
+years) in this domain. If there is a disagreement, a consensus between the experts
+was done.
+ Testing & Training Data Independence
+The training data used for the training of the cardiac ventricular segmentation
+algorithm is independent of the data used to test the algorithm.
+Other Standards and Guidance
+ NEMA PS 3.1 - 3.20 Digital Imaging and Communications in Medicine
+(DICOM) Set (2016).
+ ISO 14971 Medical devices - Application of risk management to medical
+devices (Edition 2.0, corrected version, 2007).
+ IEC 62304 Medical device software - Software life cycle processes (Edition 1.1,
+2015).
+Summary
+The features described in this premarket submission are supported with the results of
+the testing mentioned above; the uOmnispace.MR was found to have a safety and
+effectiveness profile that is similar to the predicate device and reference devices.
+9. Substantially Equivalent (SE) Conclusion
+The proposed device is equivalent to the predicate device with regard to safety and
+efficacy. This conclusion is based upon a comparison of intended use, technological
+characteristics, performance specification, device hazards as well as verification and
+validation results.
+In summary, the proposed device is determined to be Substantially Equivalent (SE) to
+the predicate device and reference devices.
+Page 18 of 18

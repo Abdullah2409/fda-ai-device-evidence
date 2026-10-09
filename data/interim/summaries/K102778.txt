@@ -1,0 +1,217 @@
+K 0X773
+1 5 10(k) Summary
+Submitter: CeliaVision AB
+Ideon Science Park SEP 1 6 2011
+SE-223 70 Lund
+Sweden
+Phone: +46 46 286 44 00
+Fax: +46 46 286 44 70
+Contact C. G. Bundy Associates, Inc.
+Information: 435 Rice Creek Terrace NE
+Fridley, M 55432
+USA
+Phone: 763-574-1976
+Fax: 763-571-2437
+Submission Date: September 20, 2010
+Device Name: Proprietary name: CeliaVision® DM1200 with the body fluid
+application
+Common/Classification name: Automated cell-locating device
+Classification 21 CFR 864.5220 and 21 CFR 864.5260 Class 11 medical devices.
+Regulation:
+Equivalent Device CellaVision AB believes that CeliaVision DM 1200 with the body fluid
+Identification: application is substantially equivalent to the legally marketed
+CellaVision DM96 with the body fluid application (K080595).
+Device CellaVision DM 1200 with the body fluid application automatically
+Description: locates and presents images of nucleated cells on cytocentrifuged body
+fluid preparations. The system suggests a classification for each cell
+and the operator verifies the classification and has the opportunity to
+change the suggested classification of any cell.
+The system preclassifies to the following WBC classes: Unidentifed,
+Neutrophils, Eosinophils, Lymphocytes, Macrophages (including
+Monocytes) and Other. Cells preclassified as Basophils, Lymphoma
+cells, Atypical lymphocytes, Blasts and Tumor cells are
+automatically forwarded to the cell class Other.
+Unidentifed is a class for cells and objects which the system has pre-
+classified with a low confidence level.
+Intended Use: DM 1200 is an automated system intended for in vitro diagnostic use.
+The body fluid application is intended for differential count of white
+blood cells. The system automatically locates and presents images of
+cells on cytocentrifuged body fluid preparations. The operator identifiesand verifies the suggested classification of each cell according to type.
+DM 1200 is intended to be used by skilled operators, trained in the use
+of the device and in recognition of blood cells.Table 3.1: Comparative features of CeliaVision DM1200 with the body fluid application
+and the predicate device
+Characteristic DM96 with the body fluid with the body, Equivalent,
+.DM1200
+application (predicate- - fluid application
+device)
+Intended use Automated cell-locating Automated cell-locating
+device for cell-location and device for cell-location and
+identification of white blood identification of white blood
+cells in cytocentrifuged body cells in cytocentrifuged body
+fluid preparations, for in-vitro fluid preparations, for in-
+diagnostic use. vitro diagnostic use.
+Verification of results by Verification of results by
+skilled human operator. skilled human operator.
+Specimen type Body fluids. Body fluids.
+Sample Body fluid samples are Body fluid samples are
+preparation prepared using a prepared using a
+cytocentrifuge and stained cytocentrifuge and stained
+with Romanowsky stain, with Romanowsky stain.
+Analysis White blood cells: White blood cells:
+technique Nucleated cells are Nucleated cells are
+located/counted by moving located/counted by moving
+according to the battlement according to the battlement
+track pattern. Cell images are track pattern. Cell images are
+analyzed using standard analyzed using standard
+mathematical methods, mathematical methods,
+including deterministic including deterministic
+artificial neural networks artificial neural networks
+(ANN's) trained to (ANN's) trained to
+distinguish between classes distinguish between classes
+of white blood cells, of white blood cells.
+The cell images are The cell images are
+preclassified by the system preclassified by the system
+and the operator verifies the and the operator verifies the
+suggested classification by suggested classification by
+either accepting or either accepting or
+reclassifying, reclassifying.
+Overview The device presents an The device presents an/
+image overview image. The image overview image. The image
+gives the operator gives the operator
+possibilities to get an possibilities to get an
+overview on parts of or the overview on parts of or the
+whole slide in different whole slide in different
+magnifications. magnifications.Performance characteristics:
+A method comparison was conducted to compare CeliaVision DM1200 with the body fluid
+application (Test Method) to CeliaVision DM96 with the body fluid application (Reference
+Method).
+Body fluid samples were collected from two sites. All samples were initially analyzed on a cell
+counter or counted in a hemocytometer to get the leukocyte concentration. From each sample
+two cytocentrifuged preparations were made. A 200-cell differential count was performed for
+each slide (400 cells/sample) with both the test method and the reference method. The results
+were then verified by skilled human operators. The comparison was based on the approved
+guideline, CLSI document EP9-A2.
+Accuracy:
+The accuracy was tested through scatter plots for each cell class.
+Table 3.2: Samples included in the study.
+Type Number of samples
+CSF 62
+Serous fluid 151
+Synovial fluid 47
+Total 260
+Accuracy results for all samples included were as follows:
+Table 3.3: Accuracy results. All sample included (ooled data).
+Cell class Accuracy 95% CI Slope 95% CI Intercept Number of
+Neutrophils y = 0.9969x + 0.0050 0.9868-1.0070 0.0004-0.0096 260
+R'= 0.9932
+Lymphocytes y = 0.9815x + 0.0016 0.9656-0.9973 -0.0049-0.0081 260
+R 2= 0.9829
+Eosinophils y = 1. 1048x - 0.0002 1.0782-1.1314 -0.0007-0.0003 260
+R'= 0.9629
+Macrophages y 1.0067x 0.0050 0.9901-1.0232 -0.0125-0.0024 260
+= -
+R2= 0.9823
+Other cells y =0.9534 + 0.0032 0.9207-0.9861 -0.0002-0.0065 260
+R2= 0.9273
+____________R ________________Precision/Reproducibility:
+The table below shows the shodt-term imprecision results found for all 260 samples included in
+the clinical evaluation. The short-term imprecision was found to be equivalent for the test
+method and the reference method.
+Table 3.4: Short-term imprecision (pooled data):
+Test Method Reference Method
+Mean%* SD % Mean%* SD%
+~Neutrophils 32.0 3.2 31.6 3.4
+[Lymphocytes 30.1 5.6 30.5 5.7
+ELosinophils 0.6 0.7 0.5 0.6
+~Macrophages 35.3 5.8 35.5 6.2
+~Other cells 2.1 1.7 1.9 2.5
+* Mean% = '=' (mean of all results per cell type).
+Conclusion:
+The body fluid application is a modification of the intended use of CellaVision DM1 200
+Automated Hematology Analyzer, cleared by FDA in 2009 (K092868). The intended use has
+been modified to also include presentation of white blood cells on cytocentrifuged body fluid
+preparations.
+Based on extensive performance testing, including comparison to the predicate device, it is the
+conclusion of CellaVision AB that CeliaVision DM 1200 with the body fluid application is
+substantially equivalent to devices already on the market (cleared by the 5 10(k) process) and
+presents no new concerns regarding safety and effectiveness.DEPARTMENT OF HIEALTH & HUMAN SERVICES Public Health Service
+Food and Druig Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+CellaVision AB
+c/o Ms. Constance G. Bull([y SEP 16 2011
+C. G. [3undy Associates, Inli.
+435 Rice Creek Terrace NE7
+Fridlev. MN 55432)
+Re: k102778
+1'rade/Devi cc Name: Ccl laVisiolt IM 1200 w*i th body fluid application
+Regu1-lation Number: 2 1 CFR 864.5260
+Regu1-lation Name: Automated eel 1-locating device
+Regulatory Class: Class 11
+Product Code: JOY
+Dated: September 7, 2011
+Received: September 9, 2011
+Dear- Ms. B~undy,
+We have reviewed Your Section 5 10(k) premarket notification of intent to market the device
+referenced above and have determined thre device is Substantially eqluivalent (For' thle indications
+for Luse stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior 10 May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance xvith the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (P1MA).
+'You may, therefore, market the device, subject to the general controls provisions of the Act. Thle
+general controls provisions of the Act i tl tlde requirements For annual registration, Iis tirn of
+devices. Lood manufaEeUring practice, labeling, and prohibitions against misbranding and
+adulteration.
+If your device is classified (see above) into class [I (Special Controls), it may be subject to SuIC1
+add iional controls. E-xisting miajOr regulations affecting your device can be fon nTitle 21
+Code of Federal Regulations (CER), Parts 800 to 895. In addition, FDA mayU puLIblIishI further
+anI-nunents Conrcrn1ing your device in the Federal Register
+Please be advised that FDA's issulance ofa substantial equ-ivalence determination (does not mean
+that FDA has made a determination that your device complies with other requirements of.the Act
+or any, Federal statultes and reglulations admii istered by other Federal auenc ie s. YulI t
+comnp ly with all the Act's requirements, including, but nlot iliited to: regi strati on and li sting (2 1
+CFR part 807); labelin (2 1 CFR Parts 80 1 and 809); medical (device reporting (iepor ting of'
+medical device-I-elated adverse events) (21 CFR 803); and good IviaufactUringl practice
+req ti ements as set forth in the qua! itv sy~tetvis (QS) reg'luat ionl (2 1 C FR flat L820). This letterllmt~e 2 - Mis. Constance G. 3LI1nClV
+Wi al loxx VOL to beg in mar keting your de vice as descriibed inl \'O L Sctionl 51 0 (k) preniket
+notificeation. The FDA findingu of substantial equivalence of yatir device to a legally marketed
+predicate device resullts in a classification for your device and thuLs, permIlits yIour device to
+pioceed to the market.
+If you desire Specific advice for yOur device onl ourI labeling regu lationl (2I C FR Parts 801 and
+809), please contact the Office ofhI nViro Dlaunostic Device Evaluation and Safety at (30 1) 796-
+5450. Also, please no0te the regu1-lation enltitled., "Nis bianding by reference to premarket
+notifIication" (21 CF R P)art 807.97). For queIstionIs regarding the reporting of>ad verse events
+tinder the NMDR regulation (21 CFR Part 803), please go to
+htt://ww~da~ov/cdial~vics/Sfet/Reort Ro I m/d Fi It hmo the C DRI-Is Office
+of'S tIrVeill ance and Biometrics/Division of' Postmarket SurveHilace.
+You may obtain other generalI information onl \'Ori esponlsibilities underCI the Act From the
+Division of Small Nlanul factul-rs, Internatioanal anld ConIsumer Assistance at its toll- flee nul-mber
+(800) 638-2041 or (301) 796-7100 or at its Internet address
+lhttP://%vw.fIdla. gov/cdrh'l/induILstr-V/supIor)Clt/ine ht[m1.lC.1
+Sincca elyI yIowIS.
+p~NMaria N/l. Chan. Ph.D).
+Director
+Division of' Imm111nolo01gy and Hematology Devices
+Office of /In Viro Diagnostic Device Evaluiation and Safety
+Center for Devices and Radiological Heal th
+EnIclosure-1 Indications for Use Statement
+ktic zY1S'
+5 10(k) Numiber (if known):
+Device Name: CeliaVision® DM 1200 with the body fluid application
+Indications for Use:
+DM 1200 is an automated system intended for in-vitro diagnostic use.
+The body fluid application is intended for differential count of white blood cells. The system
+automatically locates and presents images of cells on cytocentrifuged body fluid preparations.
+The operator identifies and verifies the suggested classification of each cell according to type.
+DM1200 is intended to be used by skilled operators, trained in the use of the device and in
+recognition of blood cells.
+Prescription Use -X OR Over the Counter Use____
+(Part 21 CFR 8O1.109)
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+Concurrence of CDRH, Office of Device Evaluation (ODE)
+Page _1_ of _1_
+Oivi1SiOfl sign-Off
+office of In vitro Diagnostic
+Device Evaluation and SafetY
+510K k' z~

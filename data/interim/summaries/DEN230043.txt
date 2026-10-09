@@ -1,0 +1,916 @@
+DE Novo CLASSIFICATION REQUEST FOR
+NOTAL VISION HOME OPTICAL COHERENCE TOMOGRAPHY (OCT) SYSTEM
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Home monitoring ophthalmic imaging device. A home monitoring ophthalmic
+imaging device is a prescription self-imaging device that incorporates imaging system
+hardware and automated image processing and analysis to enable patients at home to
+provide measurements that are intended for use by a physician for monitoring ophthalmic
+diseases or conditions in between regularly scheduled assessments.
+NEW REGULATION NUMBER: 21 CFR 886.1600
+CLASSIFICATION: Class II
+PRODUCT CODE: SAX
+BACKGROUND
+DEVICE NAME: Notal Vision Home Optical Coherence Tomography (OCT) System
+SUBMISSION NUMBER: DEN230043
+DATE DE NOVO RECEIVED: June 7, 2023
+SPONSOR INFORMATION:
+Notal Vision, Inc.
+7717 Coppermine Drive
+Manassas, VA 20109
+INDICATIONS FOR USE
+The Notal Vision Home Optical Coherence Tomography (OCT) System is indicated as follows:
+The Notal Vision Home Optical Coherence Tomography (OCT) System is an Artificial
+Intelligence (AI)-based Home Use device indicated for visualization of intraretinal and
+subretinal hypo-reflective spaces in a 10 by 10-degrees area centered on the point of
+fixation of eyes diagnosed with neovascular age-related macular degeneration (NV-
+AMD). In addition, it provides segmentation and an estimation of the volume of hypo-
+reflective spaces. The Notal Home OCT device is intended for imaging at home between
+regularly scheduled clinic assessments and not intended to be used to make treatment
+decisions or replace standard-of care regularly scheduled examinations and clinicaltesting as needed, including in-office imaging and assessments for changes in vision, by
+an ophthalmologist.
+LIMITATIONS
+The sale, distribution, and use of the Notal Vision Home Optical Coherence Tomography
+(NVHO) System are restricted to prescription use in accordance with 21 CFR 801.109.
+The Notal Home OCT System and Web Viewer results should not be used for diagnosis of any
+condition.
+The NVHO device should not be used to delay in-office follow-up or to prolong the interim
+period between in-office follow-up visits.
+The NVHO device should not be used on patients with nonneoyascular AMD ("dry" AMD) to
+detect conversion from "dry" to "wet" AMD.
+Patients should continue self-monitoring for visual changes (e.g., continue self-administration of
+Amsler grid testing) while using the NVHO device.
+The Notal Home OCT device shall not be used by patients with Visual Acuity of worse than
+20/320.
+Scans with poor image quality, e.g., below Manufacturer Signal quality Index (MSI) of <2, may
+be unreliable. MSI values with color indicator are presented under the Web Viewer OCT B-
+scans. The following conditions may increase the likelihood of poor-quality scans:
+• Inability to maintain steady fixation
+• Unclear ocular media
+• Dementia
+NOA estimations should be considered in the context of the variability observed across the range
+of estimations (i.e. larger percent variability for NOA quantification of smaller hypo-reflective
+spaces); lower notification thresholds in the presence of smaller hypo-reflective spaces will be
+inherently less reliable.
+Data on the clinical performance of Notal Home OCT System was limited in the following
+populations:
+• Patients with vision worse than 20/80
+• Patients of African and Asian descent and Hispanic/Latino patients
+De Novo Summary (DEN230043) Page 2 of 25Caution should be exercised when evaluating scans from these patient populations. In addition,
+the ability of patients with vision worse than 20/80 to successfully self-image and to generate
+consistently reliable images with the Notal Home OCT System is not well characterized.
+Participants of the "006" clinical study comprised 21.5% of the safety cohort but 40.3% of those
+who failed to successfully self-calibrate.
+Regular and frequent review of all available B-scans, regardless of TRO level, is recommended
+to evaluate for appropriate scan centration and quality, for the presence of confounding
+pathologies, and for the presence of hypo-reflective spaces abutting or spanning the edge of the
+scan area. Regular review of B-scans is also recommended to evaluate for hyper-reflective
+lesions such as hemorrhage. It is recommended to review and consider the information available
+over several (at least three) days in the trajectory. No single NOA estimation should be relied
+upon in making decisions about prompt patient follow-up.
+Please refer to the "Notal Home Optical Coherence Tomography Instructions for Use" and
+"Notal Home OCT Web Viewer Instructions for Use" for a complete list of WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS, as well as a description of CLINICAL
+STUDY OUTCOMES ("Notal Home OCT Web Viewer Instructions for Use" only).
+DEVICE DESCRIPTION
+The NVHO System is a device that consists of two elements:
+• Notal Home OCT device: patients use this to self-image their eyes using Spectral-
+Domain OCT; At the end of each scanning session the data is transmitted via a secured
+wireless communication to the Notal Health Cloud.
+• Notal Health Cloud: cluster of servers and analysis units on which the Notal OCT
+Analyzer (NOA) analyzes the scans received from the Notal Home OCT device.
+Processed data are presented on a dedicated interactive web-application, the Notal Home
+OCT Web Viewer.
+Figure 1: Notal Home OCT Device
+De Novo Summary (DEN230043) Page 3 of 25Notal Home OCT Device Notal Health Cloud
+at patient's home
+Notal Home OCT Web Viewer
+Secured Internet 0
+Secui rd mternet
+connection
+1 connection
+OCT Image Volume
+Database NOA Online
+Data upload
+Generator review
+8
+Figure 2: Notal Vision Home OCT System Overview
+The system overview in Figure 2 shows the overall workflow. Images are captured by the patient
+at home. An application icon-based Graphical User Interface (GUI) enables NV-AMD patients
+to self-image. The GUI, presented on an external touch screen, takes the patient step-by-step
+through the scanning flow. The device contains an internal mini-display that presents an
+interactive fixation target to the subject. Upon self-imaging, images are automatically and
+securely transmitted to the Notal Health Cloud for viewing by the prescribing user. Raw data are
+fed into a Volume Generator (VG) module for OCT B-scan reconstruction, Manufacturer Signal
+Quality Index (MSI) calculation, segmentation, registration, volume scan reconstruction and
+alignment. Images are fed into the Notal Home OCT Web-viewer for display, and into NOA for
+analysis.
+NOA is an artificial intelligence (Al) algorithmic module. NOA runs on the Notal Health Cloud
+and processes the volume scans generated by the VG. Its purpose is to segment the subretinal
+hypo-reflective spaces (SRO) and intraretinal hypo-reflective spaces (IRO) in the 2D B-scans.
+From this, the IRO and SRO volumes in the macular volume scan are calculated.
+Total retinal hypo-reflective space (TRO) volume information, which is the sum of SRO and
+IRO, is displayed on the Notal Home OCT Web Viewer, NOA tab (see Figure 4), along with
+projections of SRO and IRO information. The Notal Home OCT Web Viewer and OCT images
+are not accessible to patient users.
+Figure 3: Patient Using the Notal Home OCT Device
+De Novo Summary (DEN230043) Page 4 of 254 12 13 14
+10 11
+1. Hypo-reflective Spaces 2. NOA Movies —111 11 3. Timeline 4. Event Indicators
+Volume Trajectories
+5. Hypo-reflective Spaces 6. Scan Player 7. Al Segmentation Overlay 8. Manufacturer Signal
+Thickness Maps Quality Index (MSI)
+9. B- Scan 10. Lock Images ii. Present Time Points 12. Date Selector(s)
+13. Time Range Display 14. Export Button
+Figure 4: Eyecare Provider's Interactive Viewer
+Figure 4 shows the Notal Home OCT Web Viewer NOA tab display, which includes an output of
+TRO volume over time, along with projections and B-scan overlay. An image quality indicator,
+Manufacturer Signal quality Index (MSI) is displayed, with acceptable scan quality of MSI > 2
+indicated by a green color and an unacceptable scan quality MSI <2 indicated in red. The
+prescribing user can compare two scans from two different dates, side-by-side. Prescribing-user
+set notifications are available, based on two notification categories (multi-selection is allowed):
+1.TRO — if TRO reaches the threshold, a notification is generated
+2.Time — if the selected number of days has elapsed, a notification is generated
+Table 1: Notal Home OCT System Technical Specifications
+De Novo Summary (DEN230043) Page 5 of 25DESIGN CONFIGURATION NOTAL HOME OCT DEVICE
+Methodology Spectral Domain OCT
+Field of view 10°X10° measured from the cornea surface
+Scan speed 10.000 A-scans / sec
+Lateral number of pixels 500 A-scans / B-scan
+Light source Super luminescent diode (SLD)
+Center waveleiigth 830 ± 10 nm
+Optical resolution Better than Axial 19 pm (in tissue), transverse
+35 pm (in tissue)
+Capture rate Max: 20 B-scan/sec
+Scan pattern 88 B-scans over the scanned area of 10°X10°
+Maximal power on the cornea 710 tW
+Maximal daily exposure 120 sec
+Shut off optical power 800 tNAT
+SPECTROMETER SPECIFICATIONS
+1
+Number of pixels in image plane 512
+Digital resolution (in tissue) Better than 4.5 pm (in tissue)
+PERFORMANCE MEASURE 1
+Sensitivity (in air) >100 dB
+ELECTRICAL ' 1T 0,
+Voltage range 110-240 V
+Frequency range 50-60 Hz
+Power consumption Up to 100 Watts
+Power supply 90W single output external power medical
+le, E-Cap Life of >7 years
+Computer/OS IMX6 quad core/Linux embedded
+Input device External touch screen
+External screen LCD 7"
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+Non-clinical testing for the NVHO device included device benchtop performance testing, optical
+radiation safety, software and cybersecurity, electromagnetic compatibility (EMC) testing,
+wireless testing, electrical safety testing, biological safety evaluation, and human factors
+validation testing.
+BENCH PERFORMANCE TESTING
+Non-clinical performance testing was conducted to verify the technical specifications, spatial
+characteristics, device sensitivity and diopter range for the NVHO device on three identical
+devices.
+Table 2: Verification of NVHO bench performance
+Test Purpose Method Acceptance Criteria Results
+Optical Coherence Tomography Bench Performance Verification
+Axial resolution To verify axial Passed
+resolution
+De Novo Summary (DEN230043) Page 6 of 254,
+Lateral resolution To verify lateral Passed
+resolution
+Axial range To verify axial range Passed
+and axial distance
+calibration
+Lateral range To verify the lateral Passed
+range and lateral
+distance calibration for
+each scan pattern
+Device sensitivity To characterize Passed
+testing instrument signal-to-
+noise ratio (SNR) and
+instrument depth
+attenuation
+Diopter range To measure the device Passed
+diopter range for
+compensating for
+refractive error of the
+patient.
+OPTICAL RADIATION SAFETY
+Optical radiation safety testing was provided to ensure the NVHO device provides acceptable
+light hazard protection, in accordance with the applicable parts of the following standard:
+• ANSI Z80.36:2021: American National Standard for Ophthalmics — Light hazard
+protection for ophthalmic instruments
+De Novo Summary (DEN230043) Page 7 of 25The test report for ANSI Z80.36:2021 included descriptions of all the light sources and their
+optical paths along with functions and technical specifications of these light sources.
+Measurement procedures, equipment used for measurements, raw data and formulas used for
+calculations were provided and were found to be acceptable. A justification was provided to
+explain why the worst-case scenarios were considered in the assessment of optical radiation
+safety.
+SOFTWARE & CYBERSECURITY
+The NVHO system is a cyber device per 524B(c) of the Food, Drug & Cosmetic Act. Notal
+Vision has followed the recommendations in the Cybersecurity in Medical Devices: Quality
+System Considerations and Content of Premarket Submissions (fda.gov)
+(https://www.fda.gov/media/119933/download) guidance document (September 27, 2023).
+The NVHO System is comprised of the Notal Vision Home OCT device and the Notal Health
+Cloud. The device allows the patients to self-image their eyes, and have images securely
+transmitted from the device to the Notal Health Cloud. The images are then reconstructed on the
+cloud and made available to the patient's health care provider.
+A detailed description of all software inputs and outputs was provided, along with description of
+all software modules and interactions with device hardware. All components of the device are
+controlled/monitored by software, which is responsible for the functionality, user interface,
+hardware start-up checks, and head position, pupil detection performance accuracy. A detailed
+description of data used to train and test the algorithms was provided, including cases, sources,
+demographics and reference standards. The software was developed and tested according to the
+following FDA guidance documents and recognized consensus standards:
+• FDA Guidance, General Principles of Software Validation (January 11, 2002)
+• FDA Guidance, Off-the-Shelf Software Use in Medical Devices (September 27, 2019)
+• FDA Guidance, Guidance for the Content of Premarket Submission for Software
+Contained in Medical Devices (May 11, 2005)
+• IEC 62304: 2006 /A1:2016 Medical device software - Software life-cycle processes
+• ISO 14971:2019 Medical devices - Application of risk management to medical devices
+Software documentation and testing, including cybersecurity information, demonstrates that the
+software will operate in a manner described in the specifications. The hazard analysis
+characterized software and cybersecurity risks, including device malfunction, measurement-
+related errors, head/pupil position sensors, power/internet/network connectivity and other
+hardware failures, and unauthorized access by malicious end users. The submission describes
+verification and validation testing to address the potential hazards with satisfactory results. The
+cybersecurity documentation included a cybersecurity hazard analysis and mitigation
+information, an upgrade and maintenance plan, other information for safeguarding the device
+during manufacturing and upon commercial distribution, and warning and precaution
+information in the product labeling.
+De Novo Summary (DEN230043) Page 8 of 25Overall, the software documentation contains sufficient detail to provide reasonable assurance
+that the software will operate in a manner described in the specifications. Software security
+information demonstrated the device is protected from cyber vulnerability threats. All testing and
+results were considered to be adequate and met the above standards.
+ELECTROMAGNETIC COMPATIBILITY, WIRELESS COEXISTENCE AND ELECTRICAL
+SAFETY
+Electrical Safety and Electromagnetic Compatibility (EMC) testing has been performed as per
+the following recognized consensus standards and the results support electrical safety and
+electromagnetic compatibility
+• IEC 60601-1: 2005, A1:2012, A2: 2020 Medical electrical equipment — Part 1: General
+requirements for basic safety and essential performance, including US National
+Deviations.
+• IEC 60601-1-11:2015AMD1:2020: Medical electrical equipment — Part 1-11: General
+requirements for basic safety and essential performance-Collateral Standard:
+Requirements for medical electrical equipment and medical electrical systems used in the
+home healthcare environment.
+• IEC 60601-1-2:2020: Medical electrical equipment-Part 1-2: General requirements for
+basic safety and essential performance-Collateral standard: Electromagnetic disturbances-
+Requirements and tests
+BIOCOMPATIBILITY/MATERIALS
+The NVHO includes five components that are in contact with intact skin: an enclosure
+(polyurethane), face rest (polyurethane (b)(4) ), handles (thermoplastic polymer), touch
+screen (silicone dioxide) and volume and height control (polyurethane). A biocompatibility
+evaluation for each of the five patient-contacting components was conducted according to
+International Standard Organization (ISO) 10993-1:2018 Biological evaluation of medical
+devices-Part 1: Evaluation and testing within a risk management process and following FDA
+Guidance: Use of International Standard ISO 10993-1, "Biological evaluation of medical devices
+- Part 1: Evaluation and testing within a risk management process" - Guidance for Industry and
+Food and Drug Administration Staff (fda.gov). This evaluation was found to be acceptable.
+HUMAN FACTORS VALIDATION TESTING
+Two Human Factors Summative Studies were conducted following the FDA guidance:
+"Applying Human Factors and Usability Engineering to Medical Devices" to evaluate the
+usability of the Notal Home OCT device and the Notal Home OCT Web Viewer.
+A NVHO Human Factors Validation Study was conducted for subjects with NV-AMD and their
+caregivers to establish that the NVHO System patient user interface (NVHO device, and
+associated labeling) was safe and effective for intended users, uses and use environments by
+showing that use-related hazards associated with the NVHO System have been adequately
+De Novo Summary (DEN230043) Page 9 of 25mitigated and instructional information for the user (Instructions for User, Packaging Set-up
+instructions) can be used effectively by representative users under simulated use conditions
+without producing patterns that could result in harm to patients, caregivers or providers. A total
+of 54 individuals representing two distinct user groups participated in this human factors
+validation test; 20 individual patients and 17 pairs of patient and caregivers (34 individuals).
+Patients went through a built-in, on-screen tutorial session, which provided training on how to
+self-image; this was provided along with on-package setup instructions and instructions for use.
+Critical tasks were identified that were related to the use of NVHO device. The testing
+determined that the Notal Home OCT patient interface and its associated labeling and packaging
+components are safe and effective for the intended user population in their intended use
+environment. Human factors validation testing did not yield any results that indicate use errors or
+patterns of use errors that could result in user harm. No use errors were observed on critical
+tasks, therefore, the results of the study demonstrate that the device user-interface supports the
+use-safety and effectiveness of use for the intended use. No additional modifications to the user
+interface were needed to lower the residual risk of the user interface.
+A second Human Factors Validation Study was conducted for eyecare providers to establish that
+the NVHO System physician user interface (Web Viewer and associated labeling) was safe and
+effective for intended users, uses and use environments by showing that use-related hazards
+associated with the Notal Home OCT Web Viewer have been adequately mitigated and that
+instructional information for the user (user manual) can be used effectively by representative
+users under simulated use conditions without producing patterns of failures that could result in
+harm to users. A total of 15 eyecare providers participated in the human factors testing for the
+OCT Web Viewer. Critical tasks were identified that were related to reviewing of patient scans
+and use of features in the Web Viewer. The testing determined that the Notal Home OCT Web
+Viewer and its associated labeling are safe and effective for the intended user population in their
+intended use environment. Human factors validation testing did not yield any results that indicate
+use errors or patterns of use errors that could result in user harm. No use errors were observed on
+critical tasks, therefore, the results of the study demonstrate that the device user-interface
+supports the use-safety and effectiveness of use for the intended use. No additional modifications
+to the user interface were needed to lower the residual risk of the user interface.
+SUMMARY OF CLINICAL INFORMATION
+Clinical performance data were collected from two pivotal clinical studies: 1) the C2021.001
+study ("001 Study"): A 5-Week "Home OCT Fluid Visualization Agreement Study"; 2) the
+C2012.006 study ("006 Study"): A cross-sectional in-office study for "The Evaluation of the
+Agreement and Precision of the Notal Vision Home OCT in the Automatic Fluid Quantification
+in Patients with NV-AMD."
+Note: The protocols for these studies used the term "retinal fluid" (e.g., total, sub-retinal and
+intra-retinal fluid [TRF, SRF, IRF]) to refer to hypo-reflective spaces (HRS; or TRO, SRO, and
+IRO). However, not all hypo-reflective spaces on macular OCT imaging are retinal fluid, and not
+all exudative fluids will necessarily be hypo-reflective; therefore, the terms TRF, SRF, and IRF
+are not synonymous or interchangeable with the terms TRO, SRO, and IRO.
+De Novo Summary (DEN230043) Page 10 of 25Summary of the 001 Clinical Study
+Overview:
+The "001 Study" was a prospective, longitudinal study conducted at seven sites in the United
+States. Adults aged 55 years or older with diagnosed NV-AMD in at least one eligible eye and
+best-corrected visual acuity of 20/320 or better were enrolled 1 week prior to a previously
+scheduled, routine clinic visit. Those who required anti-VEGF treatment for NV-AMD in the
+study eye at the screening visit, those who had any other retinal disease requiring steroidal or
+anti-'VEGF treatment, or those with prior NVHO device use experience were excluded. One NV-
+AMD eye was determined to be the study eye.
+The purpose of the study was the following: 1) to evaluate the agreement between in-office OCT
+macular scans versus the NVHO scans in the visualization of retinal fluid in the central 10
+degrees of the macula, as determined by expert graders at a third-party reading center (RC); and
+2) to evaluate the ability of participants to successfully self-image with the NVHO device. RC
+graders were masked to each other's determinations, to the source device, and to the participant
+ID number. Ordering of the scans was randomized. Disagreements between graders were
+adjudicated. IRF and SRF were graded as present when definite hypo-reflective space is
+observed in OCT B-scan images. IRF is anterior to the photoreceptor layer and SRF is posterior
+to the photoreceptor layer and anterior to the retinal pigment epithelium (RPE). The presence of
+confounding lesions (epiretinal membrane [ERM], macular hole, pseudocysts, outer retinal
+tubulations, hemorrhage, pigment epithelial detachments, subretinal hyper-reflective material
+[SHRM], geographic atrophy [GA], and hyper-reflective retinal spots or foci) was also assessed
+by the RC.
+During the enrollment visit, participants underwent imaging with a clinic-based, spectral-domain
+OCT imaging system (CIRRUS HD-OCT) to establish a "baseline" status of the macula. After
+verification of eligibility during screening, participants were assigned an NVHO device. The
+assigned NVHO device was delivered to participants' homes. Participants set up the NVHO
+device using the onscreen tutorial. To continue in the study, participants must be able to achieve
+successful initial NVHO calibration. Continuing participants were instructed to self-image at
+home with the NVHO every day for five consecutive weeks, including on the days of scheduled
+office visits. Remote telephone technical support ("Notal Vision Diagnostic Clinic," NVDC) was
+available to participants. In-clinic visits were scheduled at Week 1 and Week 5. At these
+scheduled visits, CIRRUS HD-OCT imaging was performed and best-corrected visual acuity
+(BCVA), subjective symptoms, and adverse events were assessed. The daily NVHO scans of
+participants designated as without retinal fluid at baseline were reviewed by the reading center
+(RC). The RC triggered an alert for an interim clinic visit if fluid was identified on two
+consecutive NVHO scans from two consecutive days. CIRRUS HD-OCT images, BCVA, and
+any symptoms or adverse event information were also collected at these interim visits.
+The primary effectiveness endpoints were positive and negative percent agreements (PPA, NPA)
+of central macular (central 3x3-mm area) fluid status between NVHO and RC-graded CIRRUS
+HD-OCT scans, success rate of initial NVHO setup, and success rate for NVHO self-imaging
+De Novo Summary (DEN230043) Page 11 of 25attempts. The primary analysis of the PPA and NPA of visualizing Total Retinal Fluid (TRF) on
+NVHO volume scans was based on repeated measurements of the primary eyes using the optimal
+weighting method (Jung et al.) to test Ho: p < 0.8 vs. Ha: p> 0.8 with normal approximation and
+a two-sided significance level of 0.05. The secondary endpoints were the success rates of total
+(completed plus incomplete) and completed self-imaging transmission to the Notal Health Cloud.
+The safety outcomes of interest were any adverse events occurring during the conduct of the
+study.
+Results:
+198 participants were enrolled. Of these, seven (3.5%) were screen failures, eight withdrew
+consent prior to initiating participation (4.0%), two (1.0%) were exited due to inability to scan,
+and one (0.51%) was exited because of inability to return for follow-up. Therefore, 180
+participants (90.9%) comprise the safety cohort. From the safety cohort, an additional 12
+participants were excluded (10 due to device-use: inadequate image quality, self-calibration,
+and/or self-imaging problems; two who withdrew consent) to form the 168 participants (84.8%)
+in the "Visualization Analysis Population" (VAP) cohort (those who underwent clinic-based and
+NVHO imaging at Week-1, interim, or Week-5 visits). From the VAP cohort, another eight
+participants were excluded (seven due to not having NVHO scans with MSI score >2 and clinic-
+based OCT scans paired within 24 hours at Week-1, interim and Week-5 visits; one exited early
+due to difficulty with self-imaging) to form 160 participants (80.8%) in the "Modified
+Visualization Analysis Population" (mVAP) cohort. Primary analyses were based on the mVAP
+cohort.
+Demographics, and relevant baseline clinical characteristics are shown in Tables 3 and 4. The
+majority of participants were White and not Hispanic or Latino.
+Table 3: Demo ra hics of Safety Po ulation and mVAP — 001 Stud
+Safety Modified
+Population Visualization
+Analysis
+Population
+Demographics N = 180 N = 160
+Age N 180 160
+Mean ± SD 77.1 ± 7.2 76.8 ± 7.2
+Median 77.5 77.0
+Min, Max 55,92 55,92
+Gender Male 78 (43.3%) 70 (43.8%)
+Female 102 (56.7%) 90 (56.3%)
+Race Asian 1 (0.6%) 1 (0.6%)
+Black or African American 4 (2.2%) 3 (1.9%)
+White 174 (96.7%) 155 (96.9%)
+Not Reported 1 (0.6%) 1 (0.6%)
+Ethnicity Not Hispanic or Latino 178 (98.9%) 158 (98.8%)
+Not Reported 2(1.1%) 2(1.3%)
+Education Less than High School Degree 8 (4.4%) 7 (4.4%)
+High School Degree 43 (23.9%) 38 (23.8%)
+De Novo Summary (DEN230043) Page 12 of 25Some college (no degree) 47 (26.1%) 44 (27.5%)
+College Degree (Associate or Bachelor's Degree) 51(28.3%) 45 (28.1%)
+Graduate Degree 25 (13.9%) 21(13.1%)
+Other' 6(3.3%) 5(3.1%)
+Study Eye OD 93 (51.7%) 82 (51.3%)
+OS 87 (48.3%) 78 (48.8%)
+%=n /N x 100%.
+Including some graduate school, trade school, and tech school
+Table 4: Baseline Characteristics of Safety Po ulation and mVAP - 001 Stud
+Safety Population Modified Visualization
+Analysis Population
+Primary Eye' Secondary Primary Eye Secondary
+Eyes Eye
+Baseline Characteristics N = 180 N = 137 N = 160 N = 123
+AMD diagnostic2 AMD - Early AMD 0 (0.0%) 10 (7.3%) 0 (0.0%) 9 (7.3%)
+NV-AMD - non active 92 (51.1%) 35 (25.5%) 84 (52.5%) 27 (22.0%)
+(no fluid present)
+AMD - Intermediate 0 (0.0%) 61(44.5%) 0 (0.0%) 58 (47.2%)
+AMD
+NV-AMD - active 88 (48.9%) 31(22.6%) 76 (47.5%) 29 (23.6%)
+(fluid present)
+Lens status Phakia (cataract 65 (36.1%) 47 (34.3%) 61(38.1%) 46 (37.4%)
+present)
+Pseudophakia 115 (63.9%) 90 (65.7%) 99 (61.9%) 77 (62.6%)
+Ocular Media Main vessels and the 179 (99.4%) 136 (99.3%) 159 (99.4%) 122 (99.2%)
+Assessment small vessels are
+clearly seen
+Both main and small 1 (0.6%) 1 (0.7%) 1 (0.6%) 1 (0.8%)
+vessels cannot be seen
+Visual Distortions Present 17 (9.4%) 7 (5.1%) 15 (9.4%) 7 (5.7%)
+Absent 163 (90.6%) 130 (94.9%) 145 (90.6%) 116 (94.3%)
+Blurry Vision Present 57 (31.7%) 28 (20.4%) 54(33.8%) 26 (21.1%)
+Absent 123 (68.3%) 109 (79.6%) 106 (66.3%) 97 (78.9%)
+Scotoma Present 57 (31.7%) 28 (20.4%) 54(33.8%) 26 (21.1%)
+Absent 123 (68.3%) 109 (79.6%) 106 (66.3%) 97 (78.9%)
+Prior total # of N 180 137 160 123
+Injections Mean SD 26.4±26.5 12.1 ± 21.4 25.3 ±26.6 12.0±21.9
+Median 17.0 0.0 16.0 0.0
+Min, Max 0, 128 0, 125 0, 128 0, 125
+Manifest N 151 113 137 104
+Refraction
+Spherical Mean 1 SD 0.066± 1.924 0.044± 1.810 0.109 1 1.881 0.135 -t- 1.672
+Equivalent
+Median 0.000 0.000 0.000 0.000
+Min, Max -8.000, 5.000 -8.000, 5.000 -7.000, 5.000 -7.000, 5.000
+Best Corrected N 180 137 160 123
+De Novo Summary (DEN230043) Page 13 of 25Visual Acuity Mean logMAR 0.301 0.234 0.281 0.211
+(Snellen) (20/40.0) (20/34.3) (20/38.2) (20/32.5)
+SD logMAR 0.251 0.324 0.226 0.309
+Median logMAR 0.220 0.120 0.220 0.120
+(Snellen) (20/33.2) (20/26.4) (20/33.2) (20/26.4)
+Min logMAR -0.10 -0.10 -0.10 -0.10
+(Snellen) (20/16.0) (20/16.0) (20/16.0) (20/16.0)
+Max logMAR 1.20 1.90 (CF) 1.04 1.90 (CF)
+(Snellen) (20/320.0) (20/219.3)
+Best Corrected 20/40 or Better 110 (61.1%) 106(77.4%) 102(63.8%) 100(81.3%)
+Visual Acuity 20/41 to 20/80 50(27.8%) 20(14.6%) 44(27.5%) 16(13.0%)
+category 20/81 to 20/200 14 (7.8%) 9 (6.6%) 12 (7.5%) 6 (4.9%)
+20/201 to 20/320 6 (3.3%) 1(0.7%) 2 (1.3%) 1(0.8%)
+Worse than 20/320 0 0.0% 1 0.7% 0 0.0% 0 0.0%
+Principal Both IRF and SRF 10 (5.6%) 3 (2.2%) 8 (5.0%) 3 (2.4%)
+Investigator's
+retinal fluid SRF only 40 (22.2%) 13 (9.5%) 36 (22.5%) 13 (10.6%)
+assessment based IRF only 25 (13.9%) 14 (10.2%) 20 (12.5%) 11(8.9%)
+on
+commercial OCT2 No IRF nor SRF 105 (58.3%) 107 (78.1%) 96 (60.0%) 96 (78.0%)
+% = n / N x 100%. Manifest refraction was not recorded at the initial phase of the study.
+Primary Eye = study eye. Secondary Eye = the AMD or NV-AMD fellow eye of the study eye
+1
+2 AMD diagnostic findings were collected from participants' medical record. OCT fluid status is based
+upon review by PI of the OCT taken during the enrollment visit.
+For the safety cohort (N=180), the success rate of initial NVHO setup with completion of the
+non-qualifying tutorial was 86.7% (95% CI 80.8% - 91.3%; 156/180). 24 participants (13.3%)
+who still performed NVHO self-imaging did not successfully complete tutorials for either the
+primary or secondary eyes. The success rate of NVHO self-imaging (i.e., completing the self-
+imaging regardless of completing imaging data transmission to Notal Health Cloud) was 96.1%
+(95% CI 92.2% - 98.4%). Seven participants (3.9%) did not self-image successfully. The rate of
+successful transmission of any self-imaging being transmitted to the Notal Health Cloud was
+97.2% (95% CI, 93.6% - 99.1%) in study eyes and 94.9% (95% CI, 89.8% - 97.9%) in fellow
+eyes. The rate of successful transmission of completed self-imaging to the Notal Health Cloud
+was 96.7% (95% CI, 92.9% - 98.8%) in study eyes and 94.2% (95% CI, 88.8% - 97.4%) in
+fellow eyes. 31 of 180 participants (17.2%) encountered device errors and/or malfunctions that
+precluded self-imaging and necessitated a device exchange. 120 of 180 participants (66.7%)
+contacted the NVDC for technical support. The NVDC contacted 47 of 180 participants (26.1%)
+with low adherence to device use to remind them to perform self-imaging and 84 of 180 (46.7%)
+for technical support. The NVDC also contacted 173 of 180 participants (96.1%) to remind
+participants of an upcoming scheduled in-clinic study visit.
+Of those in the safety cohort who did not discontinue after completion of the initial tutorial and
+device calibration and performed self-imaging (N=165), the mean MSI score of the first-
+completed, study-eye self-images ranged from 4.388 to 4.557 during the first week (study days 1
+to 7), 4.47 to 4.57 during the second week (study days 8 to 14), 4.28 to 4.49 during the third
+week (study days 15 to 21), 4.32 to 4.45 during the fourth week (study days 22 to 28), and 3.64
+to 4.35 during the fifth week (days 29 to 35). The proportion of participants who obtained a first-
+De Novo Summary (DEN230043) Page 14 of 25completed NVHO study-eye scan with MSI <2 ranged from 0.6% to 4.3% during the first week
+(study days 1 to 7), zero to 3.7% during the second week (study days 8 to 14), zero to 6.4%
+during the third week (study days 15 to 21), 0.8% to 4.0% during the fourth week (study days 22
+to 28), and 2.1% to 6.5% during the fifth week (days 29 to 35).
+The following table (Table 5) shows the primary analysis of NVHO Positive Percent Agreement
+(PPA) and Negative Percent Agreement (NPA) for Retinal Hypo-reflective Spaces Visualization
+based on Retinal Hypo-reflective Spaces Visualized on the Cirrus 3mmx3mm Area Modified
+Visualization Analysis Population (including subjects with NVHO and Cirrus scans within 24
+Hours apart).
+The PPA was 0.864 (95% CI 0.802, 0.926; p=0.043) and NPA was 0.849 (95% Cl 0.792, 0.907;
+p=0.094).
+Table 5: Primary Analysis of NVHO PPA and NPA for Retinal Hypo-reflective Spaces
+Visualization
+Positive Percent Agreement Negative Percent Agreement
+(PPA) (NPA)
+Total Retinal Hypo-reflective spaces Rate Two-sided Rate Two-sided
+(TRO) (95% Cl) p-value for (95% CI) p-value for
+110: Pp 0.8 HO: PN 0.8
+vs. vs.
+Ha: Pp > 0.8 Ha: PN > 0.8
+# pairs of scans of # subjects 163 pairs of scans of 105 eyes 146 pairs of scans of 95 eyes
+with Cirrus = TRO with Cirrus = no TRO
+# NVHO scans with TRO 143 20
+# NVHO scans without TRO 19 124
+# NVHO scans not gradable 1 2
+Pragmatic estimation per repeated 0.864 0.043 0.849 0.094
+measurements using optimal weighting (0.802, (0.792,
+pw 1,2
+method, 0.926) 0.907)
+Point estimates and 95% CIs per 2000 0.877 [143/163] 0.849 [124/146]
+Cluster Bootstrap resampling* for PPA (95% CI, 0.819 — 0.929) (95% CI, 0.802 — 0.894)
+and NPA
+The NVHO and Cirrus scan pairs with a scan time difference of > 24 hours were excluded from the
+analysis.
+The mean and (2.5th, 97.5'h) percentiles of 2000 Cluster Bootstrap samples with re-sampling of
+participants.
+Article, Sin-Ho Jung, Seung-Ho Kang and Chul Ahn (2001), Sample size calculations for clustered
+binary data, Statist. Med. 2001; 20:1971-1982
+2 Pragmatic estimation: PPA is based on all pairs of Cirrus and NVHO scans with Cirrus graded as
+with fluid (i.e., + or present) regardless of whether NVHO cannot be graded; NPA is based on all
+pairs of Cirrus and NVHO with Cirrus graded as without fluid (i.e., - or absent) regardless of
+whether NVHO cannot be graded. Colin B. Begg, Robert A. Greenest, and Boris Iglewicz (1986),
+De Novo Summary (DEN230043) Page 15 of 25The Influence of Uninterpretability on the Assessment of Diagnostic Tests, J Chron Dis Vol. 39, No.
+8, pp. 575-584.
+51 interim visits for 51 of 180 participants (28.3%) were conducted in response to the daily RC
+review. An NV-AMD treatment was administered at 26 of the 51 interim visits (51.0%). (Note:
+The "001 Study" was not designed to demonstrate the ability of the NVHO device to serve as an
+"early detection tool.")
+10 adverse events (AEs) were reported for six participants. Of these 10, four were considered
+serious (SAEs). All SAEs were non-ocular in nature (myocardial infarction, pulmonary edema,
+fall, COVID-19 infection). Two AEs in two participants were ocular in nature (ocular pain and
+redness at the site of an intravitreal injection; eyelid stye). No ocular AEs involving vision loss
+were reported. None of the AEs were considered related to the NVHO device, and all AEs
+resolved prior to study termination.
+As noted above, the presence of confounding lesions was assessed by the RC.
+Summary of the 006 Clinical Study
+Overview:
+The "006 Study" was a prospective, cross-sectional, observational, single-visit study conducted
+at six sites in the United States. Participants with diagnosed NV-AMD in at least one eligible eye
+and best-corrected visual acuity of 20/320 or better in the study eye were enrolled. There was no
+minimum or maximum age requirement for eligibility. Those who had any other retinal disease
+requiring steroidal or anti-VEGF treatment, CIRRUS HD-OCT scan on screening visit with a
+signal strength <6, or those with non-neovascular (i.e., "dry") AMD in the study eye were
+excluded. The presence of confounding lesions (epiretinal membrane [ERM], macular hole,
+pseudocysts, outer retinal tubulations, hemorrhage, pigment epithelial detachments, subretinal
+hyper-reflective material [SHRM], geographic atrophy [GA], and hyper-reflective retinal spots
+or foci) was not exclusionary. One NV-AMD eye was determined to be the study eye. The
+purpose of the study was the following: 1) to evaluate the agreement in estimated retinal fluid
+volume between manually segmented CIRRUS HD-OCT macular scans versus the Notal OCT
+Analyzer (NOA) algorithm analyzing NVHO scans; 2) to estimate the repeatability and
+reproducibility of the TRO parameter; 3) to evaluate the amount of overlap in segmentation of
+IRF and SRF between NOA and manual graders.
+Demographic information and medical history were collected from enrolled participants.
+Manifest refraction, best-corrected Snellen visual acuity (BCVA) assessment, and assessment of
+media opacity were performed. Initial macular scanning with the CIRRUS HD-OCT was
+performed. One study eye per participant was selected. Participants then received a general
+overview on how to self-operate the NVHO device. Imaging without pharmacologic pupil
+dilation using CIRRUS HD-OCT and two NVHO devices was performed. The order of CIRRUS
+vs. NVHO imaging for each participant and the order of NVHO device use were randomized.
+Independent, masked graders from a third-party reading center (RC) performed manual
+segmentation of hypo-reflective spaces on the central 3x3-mm area of acceptable CIRRUS
+macular scans. Graders were masked to each others' determinations and to the participant ID
+De Novo Summary (DEN230043) Page 16 of 25number. Ordering of the scans was randomized. SRF was defined as a hypo-reflective space
+located beneath the retina between the ISE (integrity of the inner segment ellipsoid band, or inner
+segment/outer segment [IS/OS] border) and RPE layers and IRF was defined as a hypo-reflective
+space located in the retina between the internal limiting membrane (ILM) and ISE layers.
+The measurement variability of NOA-based volume estimates under repeatability conditions
+(i.e., within the same person using/operating the same NVHO device repeatedly) and
+reproducibility conditions (i.e., the same person using/operating different NVHO devices
+repeatedly) were determined using a random-effects analysis of variance (ANOVA) model. The
+agreement between NOA-based and CIRRUS-based volume estimates was calculated using
+Bland-Altman 95% limits of agreement (LOAs) and Deming regression analyses. The
+segmentation overlap analysis included calculation of the device-grader Dice coefficient for each
+grader averaged over cases and the calculation of the grader-grader Dice coefficient for each pair
+of graders averaged over cases. Since the Dice coefficient is undefined when both methods in the
+comparison do not provide a segmentation, those cases were excluded from the calculation of the
+average of Dice coefficients. To account for these excluded cases, the device-grader negative
+percent agreement (NPA) was calculated for each expert. Uncertainty of results was
+characterized by 95% confidence intervals representing case variability.
+Results:
+398 participants were enrolled. 11(2.8%) were screen failures; therefore, the safety cohort (all
+eligible participants who underwent CIRRUS or NVHO scanning) is comprised of 387
+participants. 78 (19.6%) exited from the study early (due mainly to inability to successfully
+calibrate the NVHO [N=57]). Participants who could not successfully complete either NVHO or
+CIRRUS imaging (or both) or whose scans did not have eligible fluid measurements were
+excluded from precision, agreement, and Dice coefficient analysis cohorts. The "Fluid Precision
+Analysis Population" and "Fluid Agreement Analysis Population" cohorts were comprised of
+331 participants and the "Dice Analysis Population" was comprised of 336 participants.
+Demographics, and relevant baseline clinical characteristics are shown in Tables 6 and 7. The
+majority of the participants were White and not Hispanic or Latino.
+Table 6: Demographics of Safety Population and mVAP — 006 Study
+Safety Fluid Fluid
+Population Marking Agreement
+(DICE) Analysis
+Analysis Population'
+Population
+Demographics N = 387 N = 336 N = 331
+Age N 387 336 331
+Mean ± SD 76.2 1 7.5 75.4 1 7.4 75.5 ± 7.3
+Median 77.0 76.0 76.0
+Min, Max 53,91 53,91 53,91
+Gender Male 158 (40.8%) 140 (41.7%) 137 (41.4%)
+Female 229 (59.2%) 196 (58.3%) 194 (58.6%)
+Race American Indian or Alaska Native 2 (0.5%) 1 (0.3%) 1 (0.3%)
+De Novo Summary (DEN230043) Page 17 of 25Asian 2 (0.5%) 1 (0.3%) 1 (0.3%)
+Black or African American 6(1.6%) 5(1.5%) 5(1.5%)
+Native Hawaiian or Other Pacific Islander 1 (0.3%) 1 (0.3%) 1 (0.3%)
+White 370 (95.6%) 322 (95.8%) 317 (95.8%)
+Not Reported 6 (1.6%) 6 (1.8%) 6 (1.8%)
+Ethnicity Hispanic or Latino 9 (2.3%) 9 (2.7%) 9 (2.7%)
+Not Hispanic or Latino 375 (96.9%) 324(96.4%) 319 (96.4%)
+Not Reported 3 (0.8%) 3 (0.9%) 3 (0.9%)
+Education Less than High School Degree 13 (3.4%) 11(3.3%) 11(3.3%)
+High School Degree 109 (28.2%) 87 (25.9%) 85 (25.7%)
+Some college (no degree) 80(20.7%) 71(21.1%) 70(21.1%)
+College Degree (Associate or Bachelor's 125 (32.3%) 112 (33.3%) 111(33.5%)
+Degree)
+Graduate Degree 52 (13.4%) 49 (14.6%) 48 (14.5%)
+Trade School 6 (1.6%) 5 (1.5%) 5 (1.5%)
+Other2 2 (0.5%) 1 (0.3%) 1 (0.3%)
+Study Eye OD 181 (46.8%) 160 (47.6%) 157 (47.4%)
+OS 206 (53.2%) 176 (52.4%) 174 (52.6%)
+%=n/Nx 100%.
+Fluid Agreement Analysis Population = Fluid Precision Analysis Population for this study
+1
+Including some graduate school, trade school, and tech school
+2
+Table 7: Baseline Characteristics Safety, Fluid Marking and Fluid Agreement
+Analysis Populations
+Safety Fluid Fluid
+Population Marking Agreement
+(DICE) Analysis
+Analysis Population'
+Population
+Baseline Characteristics N = 387 N = 336 N = 331
+AMD Diagnosis AMD - Early AMD I 1 0.3%) I 1 0.3% 1 0.3%
+Based on AMD - Intermediate AMD 6 (1.6%) 4(1.2%) 4 (1.2%)
+Participants'
+Medical Record NV-AMD - active (fluid present) 372(96.1%) 323 (96.1%) 319 (96.4%)
+NV-AMD - non active (no fluid 8 (2.1%) 8 (2.4%) 7 (2.1%)
+present)
+Lens Phakia (cataract absent) 6 (1.6%) 5 (1.5%) 5 (1.5%)
+Status Phakia (cataract present) 123 (31.8%) 119 (35.4%) 116 (35.0%)
+Pseudop hal 1%)
+.
+Ocular Media Main vessels and the small vessels 357(92.2%) 307 (91.4%) 305 (92.1%)
+Assessment are clearly seen.
+Small vessels are invisible while 30 (7.8%) 29 (8.6%) 26 (7.9%)
+main vessels can be seen.
+Prior N 359 313 310
+Total # of Mean SD 25.9 ± 25.6 25.7 ± 25.2 26.0 ± 25.2
+Injections Median 17.0 18.0 18.0
+De Novo Summary (DEN230043) Page 18 01'25Min, Max 1, 142 1, 134 1, 134
+N (Unavailable) 28 23 21
+Medication Aflibercept (Eylea) 190 (49.1%) 167 (49.7%) 166 (50.2%)
+Most Bevacizumab Avastin 97 25.1% 85 25.3% 84 25.4%
+Recently Brolucizumab (Beovu) 5 (1.3%) 4 (1.2%) 4 (1.2%)
+Administered Other Investigational Drug 13 (3.4%) 12 (3.6%) 11(3.3%)
+Ranibizumab (Lucentis) 47 (12.1%) 39 (11.6%) 39 (11.8%)
+Vabysmo (Faricimab-svoa) 7 (1.8%) 6 (1.8%) 6 (1.8%)
+Unavailable 28 (7.2%) 23 (6.8%) 21(6.3%)
+Spherical N 387 336 331
+Equivalent Mean ± SD -0.131 ± 1.686 -0.166 ± 1.745 -0.172 ± 1.749
+Median 0.000 0.000 0.000
+Min, Max -7.500, 4.750 -7.500, 4.750 -7.500, 4.750
+Best N 387 336 331
+Corrected Mean logMAR (Snellen) 0.370 0.350 0.344
+Visual (20/46.9) (20/44.8) (20/44.2)
+Activity SD logMAR 0.293 0.283 0.277
+Median logMAR (Snellen) 0.300 0.300 0.300
+(20/39.9) (20/39.9) (20/39.9)
+Min logMAR (Snellen) -0.10 -0.10 -0.10
+(20/16.0) (20/16.0) (20/16.0)
+Max logMAR (Snellen) 1.20 1.20 1.20
+(20/320.0) (20/320.0) (20/320.0)
+,
+Best 20/40 or Better 194(50.1%) 178 (53.0%) 177 (53.5%)
+Corrected 20/41 to 20/80 110 (28.4%) 92 (27.4%) 92 (27.8%)
+Visual 20/81 to 20/200 68 (17.6%) 55 (16.4%) 52 (15.7%)
+Activity 20/201 to 20/320 15 (3.9%) 11(3.3%) 10 (3.0%)
+Principal Both IRF and SRF 82 (21.2%) 73 (21.7%) 73 (22.1%)
+Investigator's
+Retinal Fluid SRF only 123 (31.8%) 108 (32.1%) 109 (32.9%)
+Assessment Based IRF only 142 (36.7%) 121 (36.0%) 120 (36.3%)
+on
+Commercial OCT No IRF nor SRF 35 (9.0%) 29 (8.6%) 28 (8.5%)
+Unavailable 5 (1.3%) 5 (1.5%) 1 (0.3%)
+%=n/Nx 100%.
+1 Fluid Agreement Analysis Population = Fluid Precision Analysis Population for this study
+The repeatability and reproducibility percent coefficient of variation (%CV) ranged from 24.6%
+to 436.4% and from 26.2% to 475.2%, respectively, for TRO <10 VU. For TRO >10 VU,
+repeatability %CVs ranged from 5.9% to 25.0%, and reproducibility %CVs ranged from 11.4%
+to 33.4%.
+The following table (Table 8) show the device-grader Dice coefficient and NPA for each grader
+acting as the "reference standard".
+Table 8: Descriptive Statistics of Eye-Level DICE Between NOA versus Graders and
+Graders versus Graders
+De Novo Summary (DEN230043) Page 19 of 25NOA vs. NOA vs. NOA vs. Grader 1 vs. Grader 1 vs. Grader 2 vs.
+Statistics Grader 1 Grader 2 Grader 3 Grader 2 Grader 3 Grader 3
+Comparing NOA-Grader TRO DICE to Grader-Grader TRO DICE
+N* 278 289 299 279 297 298
+Dice Mean ± SD 0.5819± 0.5655± 0.5196± 0.6222± 0.5453± 0.6000±
+0.2958 0.3203 0.3182 0.2754 0.3018 0.2918
+95% CI of DICE 0.5470, 0.5284, 0.4834, 0.5897, 0.5108, 0.5668,
+Mean 0.6168 0.6026 0.5558 0.6546 0.5797 0.6333
+Dice Median 0.6802 0.6844 0.6123 0.7221 0.6274 0.6964
+NPA 0.734 0.746 0.787 0.722 0.494 0.603
+(58/79) (47/63) (37/47) (57/79) (39/79) (38/63)
+95% CI of NPA' 0.623, 0.621, 0.643, 0.609, 0.817 0.379, 0.609 0.472, 0.724
+0.827 0.847 0.893
+Comparing NOA-Grader SRO DICE to Grader-Grader SRO DICE
+N ' 213 223 241 205 232 235
+Dice Mean ± SD 0.5379 ± 0.5394 ± 0.4951 ± 0.5670 ± 0.4934 ± 0.5558 ±
+0.3495 0.3550 0.3612 0.3283 0.3530 0.3403
+95% CI of DICE 0.4907, 0.4925, 0.4492, 0.5218, 0.4477, 0.5120,
+Mean 0.5852 0.5862 0.5409 0.6122 0.5390 0.5995
+Dice Median 0.6811 0.6799 0.6536 0.7161 0.6129 0.6956
+NPA 0.764 0.801 0.856 0.814 0.646 0.716
+(123/161) (113/141) (95/111) (131/161) (104/161) (101/141)
+95% CI of NPA' 0.691, 0.726, 0.776, 0.745, 0.871 0.567, 0.720 0.634, 0.789
+0.827 0.864 0.915
+Comparing NOA-Grader IRO DICE to Grader-Grader IRO DICE
+N' 160 172 224 180 231 229
+Dice Mean ± SD 0.4594 ± 0.4316 ± 0.2972 ± 0.5100 ± 0.3631 ± 0.4227 ±
+0.3139 0.3263 0.3107 0.3312 0.3358 0.3444
+95% CI of DICE 0.4104, 0.3825, 0.2563, 0.4613, 0.3196, 0.3779,
+Mean 0.5084 0.4807 0.3381 0.5587 0.4067 0.4676
+Dice Median 0.5429 0.5133 0.1970 0.6519 0.4059 0.5467
+NPA 0.946 0.965 0.966 0.839 0.565 0.629
+(176/186) (164/170) (112/116) (156/186) (105/186) (107/170)
+95% CI of NPA' 0.903, 0.925, 0.914, 0.778, 0.888 0.490, 0.637 0.552, 0.702
+0.974 0.987 0.991
+N* is the number of cases that have a segmentation from NOA or the Grader
+Exact CI per binomial distribution
+1
+The following table (Table 9) shows the device-grader and grader-grader PPA for each grader
+acting as the "reference standard."
+Table Error! No text of specified style in document.9: Descriptive Statistics of Pixel-level
+Positive Percent Agreement of Study Eyes on NVHO Scan
+De Novo Summary (DEN230043) Page 20 of 25"True" Grader 1 Grader 2 Grader 3
+"Test" NOA Grader Grader NOA Grader Grader NOA Grader Grader
+2 3 1 3 1 2
+TRO NI 273 273 273 257 257 257 289 289 289
+Mean ± 0.5315 0.6147 0.7007 0.5919 0.7511 0.7262 0.4832 0.6278 0.5356
+SD ± ± ± ± ± ± ± ± ±
+0.2958 0.2676 0.2346 0.2686 0.2197 0.2140 0.3162 0.2989 0.3054
+95% CI of 0.4963, 0.5828, 0.6727, 0.5589, 0.7241, 0.6999, 0.4466, 0.5932, 0.5002,
+Mean 0.5668 0.6466 0.7286 0.6249 0.7781 0.7525 0.5198 0.6624 0.5709
+Median 0.6011 0.7049 0.7793 0.6600 0.8158 0.7926 0.5143 0.7207 0.6262
+SRO N 195 195 195 175 175 175 225 225 225
+Mean ± 0.5584 0.5640 0.6727 0.6462 0.7580 0.7133 0.5011 0.6277 0.5019
+SD ± ± ± ± ± ± ± ± ±
+0.3147 0.3066 0.2478 0.2853 0.2502 0.2287 0.3615 0.3544 0.3567
+95% CI of 0.5139, 0.5207, 0.6377, 0.6036, 0.7207, 0.6792, 0.4536, 0.5811, 0.4551,
+Mean 0.6028 0.6073 0.7077 0.6887 0.7954 0.7474 0.5486 0.6742 0.5488
+Median 0.6667 0.6849 0.7639 0.7311 0.8478 0.7944 0.5875 0.7802 0.6400
+IR() N' 166 166 166 150 150 150 220 220 220
+Mean ± 0.3789 0.5606 0.7010 0.4209 0.6510 0.6799 0.2466 0.4187 0.3555
+SD ± ± ± ± ± ± ± ± ±
+0.2931 0.3186 0.2694 0.2812 0.2911 0.2694 0.2710 0.3408 0.3271
+95% CI of 0.3340, 0.5117, 0.6597, 0.3755, 0.6040, 0.6365, 0.2106, 0.3735, 0.3120,
+Mean 0.4239 0.6094 0.7422 0.4663 0.6979 0.7234 0.2826 0.4640 0.3989
+Median 0.4054 0.6793 0.8168 0.4616 0.7601 0.7533 0.1429 0.4770 0.3483
+I Excluding eyes with 0 "True" segmentations
+TRAINING
+Upon first usage, the NVHO device runs a built-in tutorial. The tutorial consists of video clips
+which show the patient how to self-image followed by a practice phase in which the patient
+performs these tasks. The device subsequently performs a calibration for each eye to personalize
+the refractive error correction of the patient. Following the calibration, the patient is able to self-
+image.
+LABELING
+Device instructions for use were provided for patient and prescribing users of the device
+separately. The Notal Home OCT User Manual (patient user manual) included instructions for
+home use, including system unpacking and set up. It also included instructions for interacting
+with the device, including accessing an on-device tutorial and calibration procedure, regular
+image capture, and wireless transmission of images to the Notal Home OCT Web Viewer.
+The Notal Home OCT Web Viewer User Manual (prescriber user manual) included information
+regarding the Notal OCT Analyzer (NOA) AI-based software application. This included a
+description of how to interact with the Web Viewer user interface, including Manufacturer
+Signal quality Index (MSI), notifications, device outputs, and information regarding accessing
+individual patient OCT data for review.
+De Novo Summary (DEN230043) Page 21 of 25Several product warnings were included in labeling that carefully specify the intended patient
+population, that the device is intended for use by a single patient, that scans with poor image
+quality may be unreliable, and that the device cannot be used to replace or delay in-office
+assessment.
+The labeling also included a summary of the clinical trial procedures, patient population,
+environment in which it was evaluated, and results.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of a home
+monitoring ophthalmic imaging device.
+Risks to Health Mitigation Measures
+Inaccurate results related to false negative Clinical performance testing
+findings, leading to missed clinician alerts and Non-clinical performance testing
+delayed disease management Software description, verification, validation
+and hazard analysis
+Human factors validation testing
+Labeling
+Inaccurate results related to false positive Clinical performance testing
+findings, leading to unnecessary medical Non-clinical performance testing
+procedures Software description, verification, validation
+and hazard analysis
+Human factors validation testing
+Labeling
+Operator failure to self-image and obtain Training
+images that meet input quality specifications, Human factors validation testing
+resulting in failure to monitor disease Labeling
+progression
+Ocular light toxicity Non-clinical performance testing
+Equipment malfunction leading to user injury Electromagnetic compatibility (EMC) testing
+(e.g., shock, burn, interference) Electrical safety testing
+Labelin•
+Adverse tissue reaction Biocompatibility evaluation
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the home monitoring ophthalmic
+imaging device is subject to the following special controls:
+(1) Clinical performance testing must demonstrate that the device performs as intended for
+the stated indications for use under anticipated conditions of use. Testing must:
+(i) Evaluate accuracy of measurements and image annotations;
+De Novo Summary (DEN230043) Page 22 of 25(ii) Evaluate the variability in output performance due to the end user and the device
+used; and
+(iii) Evaluate the device at clinical sites that are independent of the sites used to train
+the software.
+(2) Non-clinical performance testing must demonstrate that the device performs as
+intended under anticipated conditions of use. Testing must include:
+(i) Verification of image quality, field of view, and resolution; and
+(ii) Optical radiation safety evaluation (including a description of the optical path
+and light sources).
+(3) Performance testing must demonstrate the electromagnetic compatibility (EMC) and
+electrical, thermal, and mechanical safety of the device in the intended use
+environment.
+(4) Software verification, validation and hazard analysis must be performed. Software
+documentation must include the following:
+(i) A description of interactions between software and hardware;
+(ii) A description of all inputs and outputs of the algorithm(s);
+(iii) A description of software modules that score, label, detect, quantitate,
+characterize, or otherwise analyze and report results, both separately and as a
+total system;
+(iv) A description of the data used to train and test software modules, including
+number of cases, sources (sites and data acquisition devices), demographics, and
+reference standard;
+(v) A description of the expected impact of applicable image acquisition hardware
+characteristics on performance and associated minimum specifications; and
+(vi) Mitigation measures to manage failure of any subsystem components with
+respect to incorrect patient reports and operator failures.
+(5) Patient-contacting components of the device must be demonstrated to be
+biocompatible.
+(6) A training program must be included with sufficient educational elements so that upon
+completion of the training program, the user can operate the device in the indicated
+environment of use.
+(7) Human factors testing must demonstrate that the intended users can correctly use the
+device.
+(8) Labeling must include:
+(i) Instructions for home use, including instructions on how the home user obtains
+quality self-images, and an explanation of how the device performance is
+affected by user interaction;
+(ii) Physician instructions for use, including a description of the outputs and all user-
+interface components;
+(iii) Warnings regarding image acquisition factors that affect image quality;
+(iv) A warning that the device should not be used to replace or delay in-office
+assessment; and
+(v) A summary of the clinical performance testing conducted with the device,
+including a description of the patient population and environment in which it was
+evaluated.
+De Novo Summary (DEN230043) Page 23 of 25BENEFIT-RISK DETERMINATION
+The risks of the device are based on data collected in the clinical studies described above. They
+include false positives, false negatives, and failure to provide outputs. False positives may lead to
+unnecessary medical visits and/or procedures. False negatives and/or failure to provide outputs
+may lead to missed or delayed opportunities for disease monitoring and/or intervention.
+The probable benefits of the device are also based on data collected in the clinical studies as
+described above. They include the ability to visualize the central macula in a home setting at a
+higher frequency than with currently available, in-clinic OCT imaging systems and the ability to
+identify, at home, hypo-reflective spaces that may be associated with worsening of neovascular
+age-related macular degeneration. It has not been demonstrated whether these benefits will result
+in improved visual outcomes.
+Additional factors considered in determining probable risks and benefits for the Notal Vision
+Home Optical Coherence Tomography (OCT) System included: uncertainty, risk mitigation, and
+novelty of technology.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+The Notal Vision Home Optical Coherence Tomography (OCT) System is an Artificial
+Intelligence (AI)-based Home Use device indicated for visualization of intraretinal and
+subretinal hypo-reflective spaces in a 10 by 10-degrees area centered on the point of
+fixation of eyes diagnosed with neovascular age-related macular degeneration (NV-
+AMD). In addition, it provides segmentation and an estimation of the volume of hypo-
+reflective spaces. The Notal Home OCT device is intended for imaging at home between
+regularly scheduled clinic assessments and not intended to be used to make treatment
+decisions or replace standard-of care regularly scheduled examinations and clinical
+testing as needed, including in-office imaging and assessments for changes in vision, by
+an ophthalmologist.
+The probable benefits outweigh the probable risks for the Notal Vision Home Optical Coherence
+Tomography (OCT) System. The device provides benefits and the risks can be mitigated by the
+use of general controls and the identified special controls.
+CONCLUSION
+The De Novo request for the Notal Vision Home Optical Coherence Tomography (OCT) System
+is granted and the device is classified as follows:
+De Novo Summary (DEN230043) Page 24 of 25Product Code: SAX
+Device Type: Home monitoring ophthalmic imaging device
+Regulation Number: 21 CFR 886.1600
+Class: II
+De Novo Summary (DEN230043) Page 25 of 25

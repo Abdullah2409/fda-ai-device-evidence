@@ -1,0 +1,477 @@
+Clarius Mobile Health Corp.
+Agatha Szeliga
+Director, Regulatory Affairs
+130-2985 Virtual Way
+Vancouver, British Columbia V5M 4X7
+Canada
+January 23, 2023
+Re: K222406
+Trade/Device Name: Clarius AI
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: December 16, 2022
+Received: December 21, 2022
+Dear Agatha Szeliga:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.gov2K 222406 - Agatha Szeliga Page
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices and
+Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK222406K222406
+510(k) Summary
+This 510(k) summary of safety and effectiveness information is submitted in accordance with the
+requirements of 21 CFR § 807.92.
+Subject Device Trade Name: Clarius AI
+Subject Device Model: MSK
+Device Classification Name: Automated Radiological Image Processing Software
+Regulation Number, Name and Product Code:
+Regulation Number Regulation Name Product Code
+21 CFR § 892.2050 Medical Image Management and Processing System QIH
+FDA 510(k) Review Panel: Radiology
+Classification: Class II
+Manufacturer: Clarius Mobile Health Corp.
+130-2985 Virtual Way
+Vancouver, BC V5M 4X7 Canada
+Contact Name: Agatha Szeliga
+Director, Regulatory Affairs
+agatha.szeliga@clarius.com
+Date 510(k) Summary Prepared: December 15, 2022
+Predicate Device Information:
+Device Trade Name: LVivo Software Application
+510(k) Reference: K200232
+Manufacturer Name: DiA Imaging Analysis Ltd
+Regulation Name: Medical Image Management and Processing System
+Device Classification Name: Automated Radiological Image Processing Software
+Product Code(s): QIH
+Regulation Number: 21 CFR § 892.2050
+Regulatory Class: Class II
+Note: The predicate device has not been subject to a design-related recall.
+Page 1 of 12Reference Device #1 Information:
+Device Trade Name: CoLumbo
+510(k) Reference: K220497
+Manufacturer Name: Smart Soft Healthcare AD
+Regulation Name: Medical Image Management and Processing System
+Device Classification Name: Automated Radiological Image Processing Software
+Product Code(s): QIH
+Regulation Number: 21 CFR § 892.2050
+Regulatory Class: Class II
+Reference Device #2 Information:
+Device Trade Name: AI-Rad Companion (Musculoskeletal)
+510(k) Reference: K193267
+Manufacturer Name: Siemens Medical Solutions USA, Inc.
+Regulation Name: Computed tomography x-ray system
+Device Classification Name: Computed tomography x-ray system
+Product Code(s): JAK
+Regulation Number: 21 CFR § 892.1750
+Regulatory Class: Class II
+Device Description
+Clarius AI is a radiological (ultrasound) image processing software application which implements
+artificial intelligence (AI), including non-adaptive machine learning algorithms, and is incorporated
+into the Clarius App software for use as part of the complete Clarius Ultrasound Scanner system
+product offering in musculoskeletal (MSK) ultrasound imaging applications. Clarius AI (MSK model) is
+intended for use by trained healthcare practitioners for non-invasive measurements of ultrasound
+data from musculoskeletal (MSK) ultrasound imaging acquired by the Clarius Ultrasound Scanner
+system using an artificial intelligence (AI) image segmentation algorithm. Clarius AI (MSK model) is
+intended to semi-automatically place adjustable calipers and provide supplementary information to
+the user regarding tendon thickness measurements (i.e., foot/plantar fascia, ankle/Achilles’ tendon,
+knee/patellar tendon). Clarius AI is intended to inform clinical management and is not intended to
+replace clinical decision-making. The clinician retains the ultimate responsibility of ascertaining the
+measurements based on standard practices and clinical judgment. Clarius AI is indicated for use in
+adult patients only.
+During the ultrasound imaging procedure, the anatomical site is selected through a preset software
+selection (e.g., foot, ankle, knee), in which the Clarius AI will engage to segment the correlating tendon.
+Clarius AI analyzes ultrasound images in real-time and outputs probabilities for each pixel within the image
+for determination of the particular tendon thickness.
+The combination of all the pixels meeting a programmed threshold will render an overlay being displayed
+on top of the ultrasound image with a pre-programmed transparency so that the ultrasound greyscale is
+still visible. Once the user has obtained the best view, imaging can be manually paused, in which the
+Clarius AI will further analyze the tendon segmentation to determine the greatest thickness, in number of
+Page 2 of 12pixels, and subsequently place two measurement calipers that correspond to the top and bottom of the
+tendon at its thickest region, outputting a value in millimeters. The user can then manually alter the
+measurement calipers to make any necessary adjustments if desired. Clarius AI does not perform any
+functions that could not be accomplished manually by a trained and qualified user.
+Clarius AI (MSK model) is incorporated into the Clarius App software and is intended for use with the
+following Clarius Ultrasound Scanner system transducers (previously 510(k)-cleared in K180799, K192107,
+and K213436):
+Clarius Ultrasound Transducers L7 and L15
+Clarius Ultrasound App (Clarius App) for iOS;
+Clarius App Software
+Clarius Ultrasound App (Clarius App) for Android
+Indications for Use for Clarius AI (MSK)
+Clarius AI is intended to semi-automatically place calipers for non-invasive measurements of
+musculoskeletal structures (e.g., Achilles’ tendon, plantar fascia, patellar tendon) on ultrasound data
+acquired by the Clarius Ultrasound Scanner (i.e., L7 and L15). The user shall be a healthcare
+professional trained and qualified in MSK (musculoskeletal) ultrasound. The user shall retain the
+ultimate responsibility of ascertaining the measurements based on standard practices and clinical
+judgment.
+Comparison of the Subject Device and Legally Marketed Devices for Demonstration of Substantial
+Equivalence
+The following table provides a comparison of the subject device, Clarius AI, to the predicate device and
+reference devices. A comparison of the subject device to the predicate and reference devices shows that
+the subject device has similar indications for use, is based on a similar AI algorithm, and provides
+automated radiological image processing with segmentation and measurement of anatomical structures,
+comparable to the legally marketed devices referenced herein.
+Page 3 of 12Table 1 - Comparison of the Subject Device to the Legally Marketed Devices
+Criteria SUBJECT DEVICE PREDICATE DEVICE REFERENCE DEVICE #1 REFERENCE DEVICE #2 RATIONALE
+(if subject device
+LVivo Software CoLumbo AI-Rad Companion differs from predicate
+Clarius AI
+Application (Musculoskeletal) device)
+510(k) Holder/ Clarius Mobile Health DiA Imaging Analysis Smart Soft Healthcare Siemens Medical Not applicable
+Manufacturer Corp. Ltd AD Solutions USA, Inc.
+Submission Reference Current Submission K200232 K220497 K193267 Not applicable
+Product Code(s) QIH QIH QIH JAK Same as predicate
+device and reference
+device #1
+Device Classification Automated Automated Automated Computed Same as predicate
+Name Radiological Image Radiological Image Radiological Image tomography x-ray device and reference
+Processing Software Processing Software Processing Software system device #1
+Regulation Number 21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.1750 Same as predicate
+device and reference
+device #1
+Regulation Name Medical Image Medical Image Medical Image Computed Same as predicate
+Management and Management and Management and tomography x-ray device and reference
+Processing System Processing System Processing System system device #1
+Intended Use Non-invasive Non-invasive Non-invasive Non-invasive Same as predicate
+processing of processing of processing of MR processing of CT device and similar to
+ultrasound images ultrasound images images using images using reference devices
+using automatic image using automatic image automatic image automatic image
+segmentation and segmentation and segmentation and segmentation and
+measurement of measurement of measurement of measurement of
+anatomical structures anatomical structures anatomical structures anatomical structures
+utilizing artificial utilizing artificial utilizing artificial utilizing artificial
+intelligence intelligence intelligence intelligence
+algorithms. algorithms. algorithms. algorithms.
+Indications for Use Clarius AI is intended LVivo platform is CoLumbo is an image AI-Rad Companion Clarius AI indications
+for use by trained intended for non- post-processing and (Musculoskeletal) is an for use are similar to
+healthcare invasive processing of measurement image processing the predicate device’s
+professionals to semi- ultrasound images to software tool that software that provides indications for use as
+automatically place detect, measure, and provides quantitative quantitative and both devices are
+Page 4 of 12Criteria SUBJECT DEVICE PREDICATE DEVICE REFERENCE DEVICE #1 REFERENCE DEVICE #2 RATIONALE
+(if subject device
+LVivo Software CoLumbo AI-Rad Companion differs from predicate
+Clarius AI
+Application (Musculoskeletal) device)
+calipers for non- calculate relevant spine measurements qualitative analysis indicated for non-
+invasive anatomical medical parameters of from previously- from previously invasive processing of
+measurements on structures and acquired DICOM acquired Computed ultrasound data/
+ultrasound data function of patients lumbar spine Magnetic Tomography DICOM images for
+acquired by the Clarius with suspected Resonance (MR) images to support measurements of
+Ultrasound Scanner. disease. images for users’ radiologists and anatomical structures.
+review, analysis, and physicians from
+interpretation. It emergency medicine,
+provides the following specialty care, urgent
+functionality to assist care, and general
+users in visualizing, practice in the
+measuring and evaluation and
+documenting out-of- assessment of
+range measurements: musculoskeletal
+-Feature disease. It provides
+segmentation; the following
+-Feature functionality:
+measurement; -Segmentation of
+Threshold based vertebras
+labeling of out of -Labelling of vertebras
+range measurement; -Measurements of
+and heights in each
+-Export of vertebra and
+measurement results indication if they are
+to a written report for critically different
+user’s review, revise -Measurement of
+and approval. mean Hounsfield value
+CoLumbo does not in volume of interest
+produce or within vertebra.
+recommend any type Only DICOM images of
+of medical diagnosis or adult patients are
+treatment. Instead, it considered to be valid
+simply helps users to input.
+Page 5 of 12Criteria SUBJECT DEVICE PREDICATE DEVICE REFERENCE DEVICE #1 REFERENCE DEVICE #2 RATIONALE
+(if subject device
+LVivo Software CoLumbo AI-Rad Companion differs from predicate
+Clarius AI
+Application (Musculoskeletal) device)
+more easily identify
+and classify features in
+lumbar MR images and
+compile a report. The
+user is responsible for
+confirming/ modifying
+settings, reviewing and
+verifying the software-
+generated
+measurements,
+inspecting out-of-
+range measurements,
+and approving draft
+report content using
+their medical
+judgment and
+discretion.
+The device is intended
+to be used only by
+hospitals and other
+medical institutions.
+Only DICOM images of
+MRI acquired from
+lumbar spine exams of
+patients aged 18 and
+above are considered
+to be valid input.
+CoLumbo does not
+support DICOM images
+of patients that are
+pregnant, undergo
+MRI scan with contrast
+media, or have post-
+Page 6 of 12Criteria SUBJECT DEVICE PREDICATE DEVICE REFERENCE DEVICE #1 REFERENCE DEVICE #2 RATIONALE
+(if subject device
+LVivo Software CoLumbo AI-Rad Companion differs from predicate
+Clarius AI
+Application (Musculoskeletal) device)
+operational
+complications,
+scoliosis, tumors,
+infections, fractures.
+Radiological Ultrasound Ultrasound MR CT Same as predicate
+application/ Supported device
+modality
+Principle of Operation/ Ultrasound image Ultrasound image Radiological image Radiological image Same as predicate
+Technology processing software processing software processing software processing software device
+implementing artificial implementing artificial implementing artificial implementing artificial
+intelligence including intelligence including intelligence including intelligence including
+non-adaptive machine non-adaptive machine non-adaptive machine non-adaptive machine
+learning algorithms learning algorithms learning algorithms learning algorithms
+trained with clinical trained with clinical trained with clinical trained with clinical
+and/or artificial data and/or artificial data and/or artificial data and/or artificial data
+intended for non- intended for non- intended for non- intended for non-
+invasive segmentation invasive segmentation invasive segmentation invasive segmentation
+and measurements of and measurements of and measurements of and measurements of
+ultrasound data. ultrasound data. MR data CT data
+Segmentation Yes – Segmentation of Yes – Segmentation of Yes – Segmentation of Yes – Segmentation of Similar to predicate
+anatomical structures anatomical structures anatomical structures anatomical structures device and reference
+(tendons) (LV, RV, bladder) (spinal vertebrae) (spinal vertebrae) devices
+Measurement Yes – Measurement of Yes – Measurement of Yes – Measurement of Yes – Measurement of Similar to predicate
+anatomical structures anatomical structures anatomical structures anatomical structures device and reference
+(tendons) (LV, RV, bladder) (spinal vertebrae) (spinal vertebrae) devices
+AI Algorithm Image segmentation, Image segmentation Deep Convolutional 3D Deep Image-to- Similar to predicate
+anatomical for border detection. Image-to-Image Neural Image Network device and reference
+identification, and Algorithm combines Network devices
+measurement utilizing image processing and
+the machine learning- Deep Learning Neural
+based algorithm Network for analysis.
+Exception U-Net
+Page 7 of 12Criteria SUBJECT DEVICE PREDICATE DEVICE REFERENCE DEVICE #1 REFERENCE DEVICE #2 RATIONALE
+(if subject device
+LVivo Software CoLumbo AI-Rad Companion differs from predicate
+Clarius AI
+Application (Musculoskeletal) device)
+Automation Yes Yes Yes Yes Same as predicate
+(Yes or No) device and reference
+devices
+Display Calipers Yes Yes Yes Yes Same as predicate
+device and reference
+devices
+Manual adjustment/ Yes Yes Yes Yes Same as predicate
+Manual editing by user device and reference
+capability devices
+(Yes or No)
+Anatomical Site Foot, Ankle, Knee Bladder, Heart Lumbar Spine Thoracic Spine Although the
+anatomical sites/
+structures for use of
+the predicate device
+(bladder, heart) are
+different from the
+subject device (foot,
+ankle, knee), the
+predicate device and
+subject device share a
+very similar intended
+use in terms of
+identifying/ viewing,
+measuring/
+quantifying and
+reporting results
+acquired by ultrasound
+devices for non-
+invasive
+measurements of
+anatomical structures
+utilizing artificial
+Page 8 of 12Criteria SUBJECT DEVICE PREDICATE DEVICE REFERENCE DEVICE #1 REFERENCE DEVICE #2 RATIONALE
+(if subject device
+LVivo Software CoLumbo AI-Rad Companion differs from predicate
+Clarius AI
+Application (Musculoskeletal) device)
+intelligence
+algorithms.
+Environment of Use Healthcare setting Healthcare setting Healthcare setting Healthcare setting Same as predicate
+(e.g., hospital, clinic) (e.g., hospital, clinic) (e.g., hospital, clinic) (e.g., hospital, clinic) device and reference
+devices
+Intended Users Licensed healthcare Licensed healthcare Licensed healthcare Licensed healthcare Same as predicate
+professionals professionals professionals professionals device and reference
+devices
+Patient Population Adults Adults Adults Adults Same as predicate
+device and reference
+devices
+Page 9 of 12Non-Clinical Performance Testing Summary
+Clarius AI (MSK) was designed and developed by Clarius Mobile Health Corp. in accordance with the
+applicable requirements, design controls, and standards to establish safety and effectiveness of the
+device.
+Non-clinical performance testing has demonstrated that Clarius AI (MSK) complies with the following FDA-
+recognized consensus standards:
+Standard Title of Standard
+Recognition
+Number
+13-79 IEC 62304:2006 + A1:2015 - Medical device software — Software life cycle processes
+5-40 ISO 14971:2019 Medical devices — Application of risk management to medical devices
+12-300 NEMA PS 3.1 - 3.20 (2016) Digital Imaging and Communications in Medicine (DICOM) Set
+5-114 IEC 62366-1:2015 + A1:2020 Medical devices — Part 1: Application of usability engineering to
+medical devices
+5-117 ISO 15223-1:2016 Medical devices — Symbols to be used with medical device labels, labelling
+and information to be supplied
+Safety and performance of Clarius AI (MSK) has been evaluated through verification and validation testing
+in accordance with software specifications and applicable performance standards. The traceability
+analysis provides traceability between requirements, design specifications, risks, and verification testing
+of the subject device. All software requirements and risk analysis have been successfully verified and
+traced. Software verification and validation activities were conducted per IEC 62304:2006 + AMD1:2015
+– Medical device software – Software lifecycle processes and ISO 14971:2019 Medical devices – Application
+of risk management to medical devices, and in accordance with FDA guidance documents, General
+Principles of Software Validation, Final Guidance for Industry and FDA Staff (issued January 11, 2002),
+Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices (issued
+May 11, 2005), and Content of Premarket Submissions for Management of Cybersecurity in Medical
+Devices (issued October 2, 2014).
+Applicable software documentation for a Moderate Level of Concern software, per FDA Guidance for the
+Content of Premarket Submissions for Software Contained in Medical Devices (May 11, 2005) has been
+provided.
+A comprehensive risk analysis was performed for the subject device and appropriate risk controls have
+been implemented to mitigate hazards.
+Clarius conforms to the cybersecurity requirements by implementing a process of preventing
+unauthorized access, modifications, misuse or denial of use, or the unauthorized use of information that
+is stored, accessed or transferred from a medical device to an external recipient.
+Clarius AI (MSK) was tested and found to be safe and effective for the intended users, uses, and use
+environments, as demonstrated through verification and validation testing. Validation testing was
+performed to ensure that the final product is capable of meeting the requirements for the specified clinical
+application and performs as intended to meet users’ needs, while demonstrating substantial equivalence
+to the predicate device.
+Page 10 of 12Clinical Performance Testing Summary
+Clarius performed AI model training to create a documented baseline of the AI model. Training consisted
+of a basic hyperparameter exploration over a static dataset optimizing towards a static validation set
+sampled from the training data. U-net with MobileNetV2 backbone was used as the model architecture
+for Clarius AI.
+Three datasets of ultrasound images of Achilles’ Tendons, Plantar Fascia and Patellar Tendons, were used
+in the study. All the images had segmentation ground truth. The images in the dataset were classified into
+tendon and background. Images were captured in-house from volunteer subjects and by clinical partners
+in outpatient clinics mainly located in the USA. The data was anonymized and queried from Clarius Cloud
+storage. Ultrasound recordings were acquired with the subjects in various positions depending on
+preference. Tendons were imaged in longitudinal views. The plantar fascia was imaged in dorsiflexion,
+plantar flexion, and neutral positions. The Achilles’ tendon was imaged with the ankle at 90 degrees. The
+knee was imaged in 30 degrees flexion. Images with and without the structures of interest were collected
+to create a dataset that was large and heterogeneous. Images were acquired in different depths to
+mitigate different use cases for users. The data were acquired using two Clarius ultrasound linear probes
+with a frequency of 5 - 15 MHz and 4 - 13 MHz. A total of 20,287 images were acquired. For the training
+phase, the tendon regions in the images were annotated by a clinical scientist as the ground truth.
+A total of 73 subjects were used to evaluate the performance of the AI model in the validation phase. Each
+subject had multiple studies of the above-mentioned tendons, resulting in a total of 2,503 ultrasound
+images/frames. The reported average Dice score was 96% and the mean IoU was 94% for tendon
+segmentation.
+Verification testing was performed to verify if Clarius AI auto-measurements are non-inferior to manual
+measurements performed by licensed clinicians with relevant (i.e., musculoskeletal) ultrasound
+experience. Verification testing of Clarius AI was performed through a retrospective analysis of
+anonymized ultrasound images. The objective was to determine whether the Clarius AI (MSK model)
+software measurement output adequately aligned with expert clinicians’ manual caliper placement. The
+features tested during the verification study were tendon thickness measurement and segmentation
+mask. The difference between auto-measurements and mean manual measurements was found to be no
+greater than the mean difference between manual measurements within the clinically significant margin
+and with a statistical significance level of 0.05.
+Measurement Accuracy:
+The absolute percent (%) difference between reviewer pairs was calculated and compared to the absolute
+percent (%) difference between the automatic thickness measurement and mean reviewer measurement
+using a one-sided t-test and an equivalence margin of 20%. The automatic thickness measurement was
+found to be non-inferior (p value of 9.0 x 10-7). The mean difference between differences was 0.03% (95%
+CI (-0.05)-(-0.01)).
+A difference of >20% constitutes a clinically significant difference for all structures, which corresponds to
+the following differences based on normal thickness measurements: 0.6 mm for plantar fascia; 1 mm for
+patellar tendon; 1.2 mm for Achilles’ tendon.
+Page 11 of 12Verification testing of Clarius AI was successfully completed with the results demonstrating that Clarius AI
+(MSK model) software measurement output adequately aligned with expert clinicians’ manual caliper
+placement. As such, Clarius AI has been verified for tendon thickness measurement and segmentation
+mask for use in musculoskeletal ultrasound applications.
+A design validation study was performed to validate the essential functionality of Clarius AI as
+incorporated into the Clarius App software for the specified application and intended use in automatic
+segmentation highlight, semi-automatic caliper placement with manual caliper adjustment, and
+persistent storage, to determine if Clarius AI is clinically usable and meets user needs in musculoskeletal
+ultrasound applications. The results of the validation study demonstrated that Clarius AI performs as
+intended and meets user needs in musculoskeletal ultrasound applications for use in automatic
+segmentation highlight, semi-automatic caliper placement with manual caliper adjustment, and
+persistent storage.
+Conclusion & Summary of Substantial Equivalence
+Based on the information presented in this Traditional 510(k) premarket notification and based on the
+fundamental scientific technology utilizing artificial intelligence algorithms, technological characteristics,
+principle of operation, intended use, environment of use, and indications for use, Clarius AI has been
+determined to be substantially equivalent in terms of safety and effectiveness to the legally marketed
+predicate/reference devices.
+Performance testing of Clarius AI, including results from verification and validation studies, has
+demonstrated that Clarius AI software measurement output adequately aligns with expert clinicians’
+manual measurements, and thereby performs as intended for automatic segmentation with semi-
+automatic caliper placement with manual caliper adjustment in musculoskeletal ultrasound applications,
+meeting user needs.
+The subject device and the predicate device are both radiological (ultrasound) image processing software
+applications which implement artificial intelligence (AI) including non-adaptive machine learning
+algorithms trained with clinical and/or artificial data intended for non-invasive measurements of
+ultrasound data, utilizing similar machine-learning based algorithms to detect, measure, and calculate
+relevant medical parameters of structures with manual adjustment capability by the user.
+Any minor differences in the indications for use/anatomical structures between the subject device and
+the legally marketed devices do not raise any issues related to safety or effectiveness, thereby
+demonstrating that Clarius AI is as safe and effective as the legally marketed devices, and therefore
+substantially equivalent.
+Page 12 of 12

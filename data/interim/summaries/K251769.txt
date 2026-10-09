@@ -1,0 +1,887 @@
+January 30, 2026
+Precision Medical Ventures, Inc. dba RevealDx
+℅ Michael Calhoun
+Chief Technology Officer
+1800 Westlake Ave. N., Ste 140
+SEATTLE, WA 98109
+Re: K251769
+Trade/Device Name: RevealAI-Lung
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological Computer-Assisted Diagnostic Software For Lesions Suspicious Of
+Cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: June 10, 2025
+Received: January 2, 2026
+Dear Michael Calhoun:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.08.02
+Silver Spring, MD 20993
+www.fda.govK251769 - Michael Calhoun Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K251769 - Michael Calhoun Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lu Jiang
+Lu Jiang, Ph.D.
+Assistant Director
+Diagnostic X-Ray Systems Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K251769
+Device Name
+RevealAI-Lung
+Indications for Use (Describe)
+RevealAI-Lung Software is a computer aided diagnostic (CADx) software application intended for the characterization of
+incidentally-detected lung nodules on computed tomography (CT) scans. When a nodule is identified, the Software
+automatically compares the nodule characteristics with a clinically established database of lung nodules and provides a
+similarity score to assist clinicians’ assessment of patients’ cancer risk.
+The mSI score is indicated for the evaluation of incidentally-detected pulmonary nodules of diameter 6-15mm in patients
+aged 18 years or above. In cases where multiple abnormalities are present, the mSI score can be used to assess each
+abnormality independently. Risk should be interpreted on an individual patient level and mSI is a relative risk score, not a
+percentage cancer risk.
+Note that mSI is not indicated for lung cancer screening. The validation data excluded CT images with missing slices.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(k) Summary
+This 510(k) summary of safety and effectiveness information is submitted as part of the Pre-Market
+Notification in accordance with the requirements of 21 CFR Part 807, Subpart E, Section 807.92.
+Date prepared: January 28, 2026
+Submitter organization: Precision Medical Ventures, Inc. dba RevealDx
+Submitter address: 1800 Westlake Ave. N., Ste 104
+Seattle, WA 98109
+United States
+Submitter telephone: +1 425.409.9579
+Correspondence contact: Michael Calhoun, PhD
+michael@reveal-dx.com
+510(k) number: K251769
+Device trade name: RevealAI-Lung
+Device common name: Computer-aided diagnosis (CADx) software
+Regulation name: Computer-Assisted Diagnostic Software For Lesions
+Suspicious For Cancer
+Regulatory class Class II
+Regulation number 21 CFR 892.2060
+Product code POK
+1. Predicate Device
+This section identifies the legally marketed device (predicate) to which Precision Medical Ventures
+claims equivalence.
+Trade name: Optellum™ Software
+Manufacturer: Optellum Ltd.
+510(k) number: K202300
+Device common name: Computer-aided diagnosis (CADx) software
+Regulation name: Computer-Assisted Diagnostic Software For
+Lesions Suspicious For Cancer
+Regulatory class Class II
+Regulation number 21 CFR 892.2060
+Product code POK
+Page 12. Device description
+2.1. Device characteristics
+The RevealAI-Lung device is a post-processing software program that analyzes patient lung
+computed tomography (CT) images and is designed to provide computer-aided diagnostic (CADx)
+information about lung nodules to radiologists.
+The user opens the patient’s lung CT image from a third-party acquisition device in an existing
+medical device viewing system and scrolls through the image slices as in their normal workflow. The
+user identifies a lung nodule on the CT image, and evaluates that nodule for cancer risk and the
+potential need for follow-up using existing known risk factors, clinical management guidelines and
+the Reveal-AI-Lung provided mSI score. In cases where multiple nodules are present,
+RevealAI-Lung can be used to assess each nodule independently.
+2.2. Use environment
+The Software is used in hospitals and healthcare provider office settings.
+2.3. Device features and usage
+RevealAI-Lung compares features from the selected nodule to a reference image database derived
+from National Lung Cancer Screening Trial (NLST) patient cases. Once the analysis is complete,
+the software opens a separate integrated frame in the MIMPS viewer which displays analytics for
+the selected nodule.
+The software provides a similarity score (malignancy similarity index, or mSI) for each user-selected
+nodule based on extracted image characteristics from the nodule region and the degree of similarity
+between the user-selected nodule and known lung nodules from the NLST image database. The
+mSI value is expressed as a numeric value from 0 to 1 based on a machine learning algorithm
+trained on features calculated from nodules in the NLST database where diagnoses were
+confirmed.
+RevealAI-Lung provides comparative analysis for the mSI to nodules with known ground truth using
+a histogram display (showing mSI score and the number of truthed cases in the NLST database
+that are benign vs. malignant at a particular score level). A user experienced with the significance of
+such data will be able to view and interpret this additional information during interpretation of lung
+nodules.
+The mSI score, in combination with other information, may be used in the characterization of
+incidentally detected pulmonary nodules and may be used as one input to clinical decision making
+when following published clinical guidelines.
+The RevealAI-Lung user interface includes the mSI score and a histogram of case distributions for
+benign and malignant lung nodules within the training dataset. Information on the intended use,
+regulatory background information and manufacturer labeling is available within the interface.
+Page 22.4. Materials of use
+● RevealAI-Lung is a software only device.
+2.5. Key performance characteristics
+RevealAI-Lung is a software only device, so design, validation and verification were planned,
+executed and documented according to FDA guidance, including the following:
+1. FDA’s Guidance for the Content of Premarket Submissions for Software Contained in
+Medical Devices.
+2. 21 CFR §892.2060 special controls.
+3. FDA’s Guidance for Applying Human Factors and Usability Engineering to Medical Devices.
+4. FDA’s Guidance for Content of Premarket Submissions for Management of Cybersecurity in
+Medical Devices.
+3. Intended use
+This section describes RevealAI-Lung’s intended use, including a general description of the
+diseases or conditions that the device will diagnose and of the patient population for which the
+device is intended. It also compares RevealAI-Lung’s intended use to that of the predicate device.
+3.1. Indications for Use statement
+RevealAI-Lung Software is a computer aided diagnostic (CADx) software application intended for
+the characterization of incidentally-detected lung nodules on computed tomography (CT) scans.
+When a nodule is identified, the Software automatically compares the nodule characteristics with a
+clinically established database of lung nodules and provides a similarity score to assist clinicians’
+assessment of patients’ cancer risk.
+The mSI score is indicated for the evaluation of incidentally-detected pulmonary nodules of
+diameter 6-15mm in patients aged 18 years or above. In cases where multiple abnormalities are
+present, the mSI score can be used to assess each abnormality independently. Risk should be
+interpreted on an individual patient level and mSI is a relative risk score, not a percentage cancer
+risk.
+Note that mSI is not indicated for lung cancer screening. The validation data excluded CT images
+with missing slices.
+3.2. Intended patient population
+The targeted population inclusion criteria are based on those where lung nodules are found on CT
+scans in clinical practice, and where product validation has occurred, specifically where lung
+nodules have been identified incidentally on CT.
+3.3. Contraindications
+● Not indicated for use on modalities other than lung CT images
+● Not indicated for use on non-lung-nodule image locations
+● Not indicated for unassisted reads (device output requires practitioner review)
+Page 3● Not indicated for use where image quality or the presence of surgical or implanted artifacts
+obscures the lung nodule
+● Not indicated for use when CT images were acquired at a slice spacing exceeding 5mm
+3.4. Intended users
+RevealAI-Lung Software is designed to be used by radiologists who are licensed to make diagnostic
+or other follow-up decisions using radiological imagery and/or radiology reports. The information
+provided by RevealAI-Lung should only be used in conjunction with other clinically accepted
+information to guide medical decision-making at the discretion of the clinician.
+3.5. Comparison with predicate device
+This subsection explains the similarities with and differences between RevealAI-Lung and the
+predicate device in relation to intended use, including their respective Indications for Use, and
+explains why the differences do not raise new types of questions related to device safety or
+effectiveness.
+3.5.1. Similarities
+Both RevealAI-Lung and Optellum Software are computer aided diagnostic (CADx) software
+devices used in the assessment of pulmonary nodules visible on computed tomography (CT) scans,
+as a subset of the broader POK product code for “Computer-Assisted Diagnostic Software for
+Lesions Suspicious for Cancer”.
+Both RevealAI-Lung and Optellum Software are computer-aided diagnosis (CADx) software devices
+used to assist clinicians in the assessment and characterization of abnormalities using image data.
+Both devices extract image data from user-confirmed lung nodules to provide volumetric and
+computer analysis based on morphological characteristics. Both devices use an artificial intelligence
+algorithm to synthesize these imaging (or radiomic) features into a single value represented as a
+score which is analyzed relative to scores generated on a database of known cases.
+Optellum Software patient population is limited to patients presenting with between one and five
+incidentally detected solid and/or semi-solid pulmonary nodules. RevealAI-Lung includes use on
+these same types of nodules.
+For both devices, device failure could lead to an absence of results, delay in scan interpretation, or
+incorrect risk scores.
+Similar to the RevealAI-Lung device, efficacy of Optellum Software is determined following the
+same special controls for design, validation, verification and labeling; both use reader studies to
+validate the impact on reader performance.
+Both devices provide the user with information to aid in the interpretation of medical images and
+both devices provide a machine learning based score derived from the patient’s image to aid the
+reader in interpreting the image and making recommendations and patient decisions. The
+RevealAI-Lung device provides an mSI score whereas the Optellum Software device provides an
+Page 4LCP-CNN score. In both cases, the score is not a probability of malignancy but provides a
+likelihood function, to be interpreted using a display of information derived from a database of
+cases with known ground-truth.
+In cases where multiple abnormalities are present, both devices can be used to assess each
+abnormality independently.
+Both devices provide a histogram of the score distribution over malignant and benign cases from
+a database where the ground-truth is known. In both devices, the histogram is provided as a
+reference to aid in the use of the score in image interpretation.
+In both devices, the user makes the final determination and decision on patient management.
+3.5.2. Differences
+The following features of the Optellum Software are not included with RevealAI-Lung (note that
+these are non-CADx functions):
+● View CT images and reports
+● Organize patient management workflow
+● Track patients
+● Record management decisions
+● Organize nodule clinics
+RevealAI-Lung is not indicated for use by pulmonologists, and does not have the above-described
+features of the Optellum Software intended for other practitioners (e.g., clinicians, nurses).
+RevealAI-Lung is only intended for use by radiologists.
+RevealAI-Lung does not include screen-detected nodules in the intended use.
+Compared to the predicate, RevealAI-Lung is intended for use with validation demonstrated for:
+● Contrast-enhanced CT scans,
+● Pure ground glass opacities, and,
+● Nodules 6 - 15mm in diameter.
+Patients with recent cancer diagnoses were not excluded from RevealAI-Lung validation data.
+RevealAI-Lung does not display DICOM images. RevealAI-Lung does not provide information
+regarding the patient demographics.
+3.5.3. Comparison of Key Features of RevealAI-Lung and the Predicate Device
+Clinical aspects of the RevealDx RevealAI-Lung device were assessed and compared to the Optellum
+predicate device. The table below summarizes and compares each device.
+Page 5Table 1 Predicate Comparison Chart - Clinical Aspects
+Submitted Device Primary Predicate Device
+RevealDx Optellum Ltd.
+RevealAI-Lung Optellum™ Software
+Clinical Aspect (This Submission) (K202300)
+§892.2060 Radiological §892.2060 Radiological
+computer-assisted diagnostic software computer-assisted diagnostic
+for lesions suspicious of cancer. software for lesions suspicious of
+cancer.
+A radiological computer-assisted
+diagnostic software for lesions A radiological computer-assisted
+suspicious of cancer is an image diagnostic software for lesions
+processing prescription device intended suspicious of cancer is an image
+to aid in the characterization of lesions processing prescription device
+as suspicious for cancer identified on intended to aid in the
+acquired medical images such as characterization of lesions as
+Intended Use magnetic resonance, mammography, suspicious for cancer identified on
+radiography, or computed tomography. acquired medical images such as
+The device characterizes lesions based magnetic resonance,
+on features or information extracted from mammography, radiography, or
+the images and provides information computed tomography. The device
+about the lesion(s) to the user. characterizes lesions based on
+Diagnostic and patient management features or information extracted
+decisions are made by the clinical user. from the images and provides
+information about the lesion(s) to
+the user. Diagnostic and patient
+management decisions are made
+by the clinical user.
+Indications for Use RevealAI-Lung Software is a computer Virtual Nodule Clinic (VNC) is a
+aided diagnostic (CADx) software software device used in the
+application intended for the tracking, assessment and
+characterization of incidentally-detected characterization of incidentally
+lung nodules on computed tomography detected pulmonary nodules.
+(CT) scans. When a nodule is identified,
+the Software automatically compares the VNC includes a computer-aided
+nodule characteristics with a clinically diagnosis (CADx) function,
+established database of lung nodules available only to pulmonologists
+and provides a similarity score to assist and radiologists. This automatically
+clinicians’ assessment of patients’ analyzes user-selected regions of
+cancer risk. interest (ROI) within lung CT data
+to provide volumetric and computer
+The mSI score is indicated for the analysis based on morphological
+evaluation of incidentally-detected characteristics. Using only imaging
+pulmonary nodules of diameter 6-15mm features extracted from the CT
+in patients aged 18 years or above. In image data, an artificial intelligence
+cases where multiple abnormalities are algorithm calculates a single value,
+present, the mSI score can be used to the LCP-CNN score, which is
+assess each abnormality independently. displayed to the user. The
+Risk should be interpreted on an LCP-CNN score is analyzed
+individual patient level and mSI is a relative to LCP-CNN scores
+generated on a database of cases
+Page 6Submitted Device Primary Predicate Device
+RevealDx Optellum Ltd.
+RevealAI-Lung Optellum™ Software
+Clinical Aspect (This Submission) (K202300)
+relative risk score, not a percentage with known ground-truth using a
+cancer risk. histogram display format. The
+LCP-CNN score may be useful in
+Note that mSI is not indicated for lung the characterization of pulmonary
+cancer screening. The validation data nodules during image interpretation
+excluded CT images with missing slices. and may be used as one input to
+clinical decision making when
+following published clinical
+guidelines.
+VNC’s LCP-CNN score is indicated
+for the evaluation of incidentally
+detected solid and semi-solid
+pulmonary nodules of diameter
+5-30mm in patients aged 35 years
+or above. In cases where multiple
+abnormalities are present, VNC’s
+LCP-CNN score can be used to
+assess each abnormality
+independently.
+Note that LCP-CNN is not
+indicated for lung cancer screening
+nor is it indicated for nodules of
+pure ground glass opacity. In
+addition, high contrast CT images
+were not used in clinical validation
+(as measured as >300HU median
+attenuation in the aortic arch) and
+the validation data also excluded
+CT images with only calcified
+nodules (since these are typically
+considered to be benign), with
+implants, motion artifacts, missing
+slices, or cases with greater than 5
+nodules. Finally, the validation data
+excluded patients with history of
+cancer of less than 5 years to
+avoid the presence of metastatic
+lesions.
+Users other than radiologists and
+pulmonologists, e.g. clinicians,
+nurses, nurse practitioners and
+navigators, may use VNC to view
+CT images and reports, organize
+patient management workflow,
+track patients, record management
+Page 7Submitted Device Primary Predicate Device
+RevealDx Optellum Ltd.
+RevealAI-Lung Optellum™ Software
+Clinical Aspect (This Submission) (K202300)
+decisions and organize nodule
+clinics. For these users, the LCP-
+CNN score is unavailable.
+Intended Patient The targeted population inclusion criteria Optellum Software is a software
+Population are based on those where lung nodules device used in the tracking,
+are found on CT scans in clinical assessment, and characterization
+practice, and where product validation of incidentally detected pulmonary
+has occurred, specifically where lung nodules.
+nodules have been identified incidentally
+on CT.
+Contraindications ● Not indicated for use on modalities ● The Optellum LCP Score is not
+other than lung CT images indicated for pure
+● Not indicated for use on Ground-Glass Opacities
+non-lung-nodule image locations (GGO) or for calcified nodules.
+● Not indicated for unassisted reads ● The Optellum LCP Score is not
+(device output requires practitioner indicated for patients with a
+review) history of cancer less than 5
+● Not indicated for use where image years. The Optellum LCP
+quality or the presence of surgical Score is not indicated for
+or implanted artifacts obscures the nodules detected by lung
+lung nodule cancer screening studies. The
+● Not indicated for use when CT Optellum LCP Score is not
+images were acquired at a slice indicated for patients with more
+spacing exceeding 5mm than five pulmonary nodules.
+● The Optellum LCP Score is not
+indicated for patients with
+thoracic implants that impact
+the image appearance of the
+nodule.
+● The Optellum LCP Score is not
+indicated for patients younger
+than 35 years.
+Intended Users RevealAI-Lung Software is designed to A nodule clinic is typically led by a
+be used by radiologists who are licensed pulmonologist and includes a
+to make diagnostic or other follow-up multi-disciplinary team of
+decisions using radiological imagery radiologists, thoracic surgeon and
+and/or radiology reports. The information sometimes pathologist and
+provided by RevealAI-Lung should only oncologist.
+be used in conjunction with other
+clinically accepted information to guide
+medical decision-making at the
+discretion of the clinician.
+Virtual Nodule Clinic is intended for
+Intended Use The Software is used in hospitals and
+use in hospitals to support these
+Environment healthcare provider office settings.
+clinics.
+Page 8Technical characteristics for the RevealDx RevealAI-Lung device were assessed and compared to
+the Optellum predicate device. The table below summarizes the assessment made.
+Table 2 Predicate Comparison Chart - Technical Features
+Submitted Device Primary Predicate Device
+RevealDx Optellum Ltd.
+RevealAI-Lung Optellum™ Software
+Technical Features (This Submission) (K202300)
+Regulation: 21 CFR 892.2060 Regulation: 21 CFR 892.2060
+Product Code: POK Product Code: POK
+Device Classification Name: Device Classification Name:
+Regulatory Classification
+Computer-Assisted Diagnostic Computer-Assisted Diagnostic
+Software for Lesions Suspicious for Software for Lesions Suspicious for
+Cancer Cancer
+Assists in malignancy assessment Increases the accuracy of malignancy
+Product Features
+assessment
+Reduces variations between Reduces variations between individual
+individual physicians physicians
+Improves clinical decision making Improves clinical decision making
+Has been independently clinically Has been independently clinically
+validated in multi-center studies validated in multi-center studies
+Diagnostic Workflow Patient scan: The CT data and any Patient scan: The CT and any prior
+prior scans are automatically scans are automatically uploaded into
+uploaded into the RevealAI-Lung the Optellum Software.
+software.
+Identify nodule: Easily review any Identify nodule: Easily review any
+available CT and mark the nodule(s) available CT and mark the nodule(s) of
+of interest. interest.
+RevealAI-Lung mSI score: Within Optellum Lung Cancer Prediction
+seconds, RevealAI-Lung analyzes score: Within seconds, the Optellum
+the CT image data to compute the Lung Cancer Prediction analyzes the
+score. 3D image region around the nodule to
+compute the score.
+Optimal clinical decisions: With Optimal clinical decisions: With the
+the support of the RevealAI-Lung support of the Optellum LCP score,
+mSI score, make the optimal clinical make the optimal clinical management
+management decision for the decision for the patient.
+patient.
+None. No patient contact None. No patient contact
+Patient Contact Materials
+Provides a computer-aided diagnosis
+Provides a computer-aided (CADx) function to assist
+diagnosis (CADx) function to assist pulmonologists and radiologists in the
+Device Characteristics
+radiologists who are familiar with assessment and characterization of
+lung nodule management in the incidentally detected pulmonary
+assessment and characterization of nodules using CT image data.
+Page 9Submitted Device Primary Predicate Device
+RevealDx Optellum Ltd.
+RevealAI-Lung Optellum™ Software
+Technical Features (This Submission) (K202300)
+pulmonary nodules using CT image
+data.
+Provides a score using machine
+Provides a score using machine learning referred to as LCP-CNN
+learning referred to as mSI or algorithm, or Lung Cancer Prediction
+malignancy similarity index. Convolutional Neural Network.
+The RevealAI-Lung software is
+deployed on a server on-premise at
+the healthcare facility or within The LCP-CNN module is deployed on
+cloud-based systems securely a GPU-equipped server on hospital
+connected to the facility network. premises or in the cloud.
+Connected to two other IT systems
+in the hospital: a DICOM-compatible Connected to two other IT systems in
+Picture Archiving and the hospital: a DICOM-compatible
+Communication System (MIMPS) for Picture Archiving and Communication
+accessing images and to the System (MIMPS) for accessing images
+Radiology Information System (RIS) and to the Radiology Information
+or reporting system for accessing System (RIS) or reporting system for
+the clinical reports. accessing the clinical reports.
+RevealAI-Lung is used in hospitals, Pulmonary nodule clinics are typically
+imaging centers and other set up in hospitals, so that nodules can
+radiologist reader settings where be followed up or clinical investigations
+diagnostic evaluation of CT images can be prescribed to confirm the
+occur. diagnosis associated with the
+presence of pulmonary nodules. A
+Use Environment nodule clinic is typically led by a
+pulmonologist and includes a
+multi-disciplinary team of radiologists,
+thoracic surgeon and sometimes
+pathologist and oncologist. Virtual
+Nodule Clinic is intended for use in
+hospitals to support these clinics.
+The CADx function automatically The CADx function automatically
+analyzes user-selected lung nodules analyzes user-selected regions of
+from lung CT data. This function interest (ROI) from lung CT data. This
+extracts image data from the nodule function extracts image data from the
+to provide 3D analysis and computer ROI to provide 3D analysis and
+analytics based on morphological computer analytics based on
+characteristics. These imaging (or morphological characteristics. These
+Computer-Aided radiomic) features are computed imaging (or radiomic) features are
+Diagnosis solely from the image extract and computed solely from the image
+then synthesized by an artificial extract and then synthesized by an
+intelligence algorithm into a single artificial intelligence algorithm into a
+value, the mSI score, which is single value, the LCP- CNN score,
+displayed to the user. The score which is displayed to the user. The
+displayed is an integer between 0 score displayed is an integer between
+and 1 where 0 means very likely 1 and 10 where 1 means very likely
+benign and 1 means very likely benign and 10 means very likely
+Page 10Submitted Device Primary Predicate Device
+RevealDx Optellum Ltd.
+RevealAI-Lung Optellum™ Software
+Technical Features (This Submission) (K202300)
+malignant. The mSI score is not a malignant. The LCP-CNN score is not
+probability of malignancy but is a probability of malignancy but is
+intended to be analyzed relative to intended to be analyzed relative to
+mSI scores generated on a LCP-CNN scores generated on a
+database of cases with known database of cases with known
+ground-truth, using a histogram ground-truth, using a histogram
+display format. display format.
+The mSI score, in combination with The LCP-CNN score, in combination
+other information may be used in the with other information may be used in
+characterization of pulmonary the characterization of incidentally
+nodules and may be used as one detected pulmonary nodules and may
+input to clinical decision making be used as one input to clinical
+when following published clinical decision making when following
+guidelines. published clinical guidelines.
+Optellum Software is accessed via a
+RevealAI-Lung is accessed via web browser on any PC or Apple
+integration with a MIMPS system for workstation in the hospital. The
+Principles of Operation radiologist use. Once generated, software is validated with web
+results may be incorporated in browsers Google Chrome, Mozilla
+reporting at the discretion of the Firefox, Microsoft Edge, Microsoft
+radiologist. Internet Explorer and Apple Safari.
+Input to RevealAI-Lung is a DICOM
+CT image and a spatial coordinate CNN and input: The LCP-CNN
+centered on a lung nodule. system is based on the Dense
+Internally RevealAI-Lung creates 3D Convolutional Network, a widely used
+views of the nodule location and type of deep learning CNN
+Image Analysis whole CT slice, and extracts architecture that was designed for
+Algorithm: thousands of machine vision computer vision tasks. LCP-CNN’s
+Input features including layers of ensemble of convolutional neural
+transformations into frequency and network models ends with a fully
+other signal processing domains. connected binary classification layer
+Machine learning relates these (malignant or benign). Input to
+features to confirmed diagnoses of LCP-CNN is a 3-dimensional crop of a
+input nodules. CT image, centered on a lung nodule.
+Training dataset: RevealAI-Lung
+Training dataset: The LCP-CNN
+was trained on radiologist-identified
+network was trained using solid and
+lung nodules from 4-30mm in
+semi-solid nodules of at least 5mm in
+diameter, with data augmentation to
+diameter. The training data consisted
+vary the spatial coordinate. The
+Image Analysis of 8% malignant nodules and 92%
+median age of the subjects was 63
+Algorithm: benign nodules and included both
+(55-74), with 43% of the subjects
+Training Dataset female. screening (95%) and incidentally
+detected (5%) nodules. The median
+age of the subjects was 62 (20-90)
+Only nodules that were confidently and included a mix of US (95%) and
+matched to a definitive diagnosis EU data (5%). The data included
+were used for training, including females (38%) and males (62%). Only
+Page 11Submitted Device Primary Predicate Device
+RevealDx Optellum Ltd.
+RevealAI-Lung Optellum™ Software
+Technical Features (This Submission) (K202300)
+following the patients for at least 5 nodules that were confidently matched
+years. to a definitive diagnosis, as provided
+with the data, were used for training.
+RevealAI-Lung provides an mSI CNN output: LCP-CNN’s output is a
+score for relative malignancy risk continuous value between 0 and 1;
+with a scale of 0 to 1, with 0 this is mapped to an integer score
+representing lowest risk and 1 between 1 and 10. This mapping was
+highest risk. The score is shown with constructed by computing the raw LCP
+contextual information to relate mSI score on a dataset consisting of
+Image Analysis to the training population’s confirmed malignant (10%) and benign nodules
+Algorithm: nodule diagnoses and risk levels (90%) but which were not used during
+across the scale. the model training. The mapped
+Output
+integer score is shown to the user
+alongside a plot detailing the cancer
+prevalence in each of 10 bins for a
+population with a 30% cancer
+prevalence.
+Standalone testing of RevealAI-Lung Standalone testing of the LCP-CNN
+demonstrated that it performed as model demonstrated that it performed
+Design Verification & expected in discriminating between as expected in discriminating between
+Validation: Nonclinical benign and malignant nodules. benign and malignant nodules,
+Performance Testing Technical validation is also
+described for variation in nodule
+coordinate and acquisition dose.
+Concurrent use of RevealAI-Lung ● Concurrent use of the LCP-CNN
+improved radiologists accuracy for feature in Optellum Virtual Nodule
+the diagnosis of pulmonary nodules Clinic software to read CT exams
+by an average of 18 points, from improves radiologists’ and
+0.54 to 0.72 (p < 0.001) pulmonologists’ accuracy for the
+Design Verification & Every radiologist improved their diagnosis of pulmonary nodules by
+Validation: Clinical performance when using an average of 6.85 AUC points (p
+Performance Testing RevealAI-Lung, and performance < .001) (from 81.9 to 88.8 AUC)
+was consistent across patient, ● Every radiologist and
+nodule and technical parameters. pulmonologist improved their
+accuracy when using the Optellum
+LCP- CNN feature to assist their
+read.
+4. Technological Characteristics
+This section summarizes RevealAI-Lung’s technological characteristics and explains the similarities
+and differences with those of the predicate device, and explains why the differences do not raise
+new types of questions related to device safety or effectiveness.
+Page 124.1. Principles of operation
+Both devices are software only (software as a medical device). Both devices have a graphical user
+interface. Both can import DICOM images from connected third party DICOM-compatible devices.
+RevealAI-Lung interfaces with an existing MIMPS system (Medical Image Processing and
+Management System) to provide the lung nodule characterization in a familiar, secure environment
+characteristic of radiology diagnostic workflows.
+While the predicate states that it is “accessed via a web browser on any PC or Apple workstation in
+the hospital”, RevealAI-Lung is accessed only via connections to established MIMPS.
+RevealAI-Lung is installed on server(s) that are common in a variety of healthcare settings, while
+Optellum Software, as described, requires servers with specialty GPU capabilities. Both use
+Linux-based operating systems with a high level of security, safety and functionality supporting
+device installation and use.
+4.2. Image analysis algorithm
+Image analysis algorithms behind RevealAI-Lung’s CADx function, are described in detail in this
+submission, according to 21 CFR §892.2060 special control 1(i), and summarized here:
+Inputs: Input to RevealAI-Lung is a DICOM CT image and a spatial coordinate centered on a lung
+nodule.
+Internally RevealAI-Lung extracts thousands of machine vision features from the CT, and machine
+learning techniques were used to relate these features to confirmed diagnoses within the reference
+dataset.
+Training dataset: RevealAI-Lung was trained on radiologist-identified lung nodules from 4-30mm in
+diameter. The only augmentation to this dataset was to vary the spatial coordinate corresponding to
+the nodule center. The median age of the subjects was 63 (55-74), with 43% of the subjects female.
+Only nodules that were confidently matched to a definitive diagnosis were used for training,
+including following the patients for at least 5 years.
+Outputs: RevealAI-Lung provides an mSI score for relative malignancy risk with a scale of 0 to 1,
+with 0 representing lowest risk and 1 highest risk. The score is shown with contextual information to
+relate mSI to the training population’s confirmed nodule diagnoses and risk levels across the scale.
+4.3. MIMPS connectivity
+Integration with MIMPS allows the RevealAI-Lung mSI results and user interface described within to
+be displayed in the typical radiology workflow when provided with a CT series and nodule
+coordinate.
+4.4. Reporting archive connectivity
+The predicate’s software includes reporting capabilities not provided with RevealAI-Lung.
+Reporting of mSI results is at the discretion of the reading radiologist using existing systems and
+methods based on their reading environment.
+Page 135. Nonclinical performance
+This section includes discussion of the nonclinical tests used to establish substantial equivalence of
+RevealAI-Lung to the predicate device.
+5.1. Design, verification and validation
+Like the predicate device, RevealAI-Lung is a software only device, so design, validation and
+verification were planned, executed and documented according to the following, and summarized in
+the rest of this subsection:
+1. FDA’s Guidance for the Content of Premarket Submissions for Software Contained in
+Medical Devices. Based on this guidance, RevealAI-Lung was assessed to represent a
+Moderate Level of Concern, the same as the predicate device.
+2. 21 CFR §892.2060 special control 1(v) Appropriate software documentation.
+As a software-only device, all requirements are software requirements. User requirements (those
+relating directly to the intended users) and product requirements (e.g. environmental and regulatory
+requirements) were identified without reference to design; they are design inputs.
+Device hazard analysis and risk management, based on ISO 14971:2019 Application of Risk
+Management to Medical Devices, was used to identify and control hazards associated with the
+device. This consists of:
+1. Device Characteristics Analysis, including intended use, reasonably foreseeable misuse,
+identification of characteristics related to safety.
+2. Risk analysis, including identification of hazards and estimation of the associated risks.
+3. Risk control, including identification and analysis of risk control measures (design
+specifications and architectural design), implementation and verification of risk control
+measures; traceability; residual risk analysis to determine acceptability.
+4. Risk review, including the overall residual risk compared to benefits of using the device.
+Implementation of requirements is documented in detailed architectural design and design
+specifications, including acceptance criteria.
+5.2. Planned and pre-defined testing included:
+1. Validation that RevealAI-Lung’s user and product requirements are met (acceptance
+testing) – test results are included in this submission.
+2. Verification of correct implementation of design specifications, including risk control
+measures (system testing) – test results are included in this submission.
+3. Verification of correct implementation of architectural and detailed software design (unit
+and integration testing).
+A series of traceability tables link enumerated requirements, risks, design specifications and tests.
+Unresolved software anomalies known at the time of manufacture are listed in this submission.
+No remaining risks affect or create any identified hazards, nor do they affect the device’s safety and
+effectiveness.
+Page 14In summary, RevealAI-Lung is successfully validated against user and product requirements and
+successfully verified against design specifications. All risk control measures, including those related
+to usability, are verified to be performing as designed.
+5.3. Usability evaluation
+Usability evaluations were performed as part of validation and verification, using FDA guidance
+Applying Human Factors and Usability Engineering to Medical Devices. This evaluation confirmed
+that RevealAI-Lung is safe and effective for the intended users, uses and use environments.
+5.4. Cybersecurity
+Cybersecurity activities were performed using FDA’s “Cybersecurity in Medical Devices: Quality
+System Considerations and Content of Premarket Submissions; Guidance for Industry and Food
+and Drug Administration Staff” (Document issued on September 27, 2023)
+The following activities were performed:
+● Identification of assets, threats, and vulnerabilities
+● For each threat and vulnerability, assessment of:
+o the impact on device functionality and end users/patients
+o the likelihood of a threat and of a vulnerability being exploited
+o risk levels and suitable mitigation strategies
+o residual risk and risk acceptance criteria.
+● Planning activities for post-market surveillance of cybersecurity.
+Identified cybersecurity risks, their control measures and verifications were managed along with
+other device risks. RevealAI-Lung’s technical manual includes description of requirements and
+activities related to cybersecurity at installation locations.
+5.5. Validation testing on external populations
+Validation of RevealAI-Lung was performed to determine device performance against the ground
+truth using pre-established acceptance criteria. The device was subsequently tested on incidental
+nodules from three additional populations (one each US, Canada, and the UK). Each of these
+studies produced performance with an AUC > 0.8, and demonstrated follow-up decisions would be
+improved compared to clinical guidelines. Together these studies validated performance on 675
+patients with incidental lung nodules (276 with cancer).
+All of these studies were performed on a population basis without exclusion criteria other than a
+strict requirement for diagnostic certainty (either pathologic confirmation or two-years radiologic
+monitoring to confirm benign nodules). They included broad patient demographics (age, sex, race/
+ethnicity), scan characteristics (contrast, scan date, manufacturer), and nodule parameters
+(size, lobe, opacity).
+Page 156. Clinical performance
+6.1. Summary
+Like the predicate device, clinical performance of RevealAI-Lung’s CADx function was assessed
+and documented according to 21 CFR §892.2060 special controls 1(ii) and 1(iii).
+Clinical performance of the mSI feature in the RevealAI-Lung software was evaluated in a
+fully-crossed, multiple-reader multiple-case (MRMC) study. Radiologists were asked to evaluate the
+malignancy risk of incidental lung nodules identified on CT. These CT were displayed in a familiar
+radiologist reading environment, and lung nodules were evaluated without RevealAI-Lung or with
+concurrent use of RevealAI-Lung, alternating between these case types. Each case was read twice
+separated by a 28-day washout period, with use of RevealAI-Lung randomized between the two
+reads for each reader. The study focused on size-matched benign and malignant nodules with 10
+readers, 108 cases.
+This study demonstrated the safety and effectiveness of RevealAI-Lung. The size-matching
+removed nodule size as a covariate from the analysis, allowing comparison of the challenge facing
+radiologists when assessing similar nodules.
+6.2. Clinical endpoints
+6.2.1. Primary:
+The primary endpoint compares the ability of the readers to discriminate between malignant and
+benign pulmonary nodules from CT images only, with and without the aid of the mSI. For a given
+reader, discrimination was measured using the area under the receiver operating characteristic
+curve (AUC) across all cases. The effect size of the mSI intervention was measured as the
+difference in AUC before and after consulting the malignancy score provided by the mSI (i.e.
+unaided and aided reads). Statistics used the stringent random-reader, random-case paradigm to
+account for potential variance with intended users and patients.
+Sub-analyses:
+● Patient sex, race, age
+● Scan contrast, year, manufacturer
+● Nodule size, lobe, attenuation (solid, non-solid)
+● Radiologist training and experience levels
+● Radiologist accuracy in indicating nodule center
+6.2.2. Secondary:
+Secondary endpoints were also evaluated including consistency of device performance and reader
+interpretation, and sensitivity and specificity measures.
+6.3. Test methods
+6.3.1. Reader selection
+Ten radiologists from a variety of experience levels and practice backgrounds participated in the
+Page 16reader studies. All were board certified with an active medical license.
+6.3.2. Reader training
+Prior to performing study reads, readers were trained on RevealAI-Lung operating principles and
+the clinical background (literature review), then asked to perform a small set of training cases
+(n=18). After these reads, the reader was provided feedback based on the literature for malignancy
+likelihood of nodules with that type/size. While malignancy likelihood estimation is specific to the
+clinical evaluation, the training was typical for radiologists before clinical use of the device.
+6.3.3. Study Workflow
+Readers used a radiology viewer to load CT series containing the lung nodule. Readers were free
+to evaluate the case as in practice for unassisted reads. For assisted reads, only the image data
+and the mSI score were used to assess the study. For each of the cases, the reader clicked on the
+nodule center, and was presented with the RevealAI-Lung output with a user-interface requesting
+entry of the malignancy likelihood.
+6.3.4. Datasets Used
+CT Series were used from patients in routine practice where lung nodules had been noted
+incidentally on the original radiology report. The data was sourced from 3 US sites and 1 in Canada,
+and did not filter by reason for scan, the use of contrast material, or any other patient, clinical or
+technical characteristics. This produced sample sets representing the intended use population.
+For statistical purposes, the samples were enriched to have matching numbers of patients with
+malignant vs. benign nodules. Sampling used an algorithm to produce size-paired nodules such that
+radiologists would be ‘challenged’ in distinguishing nodules that would be treated similarly based on
+this variable.
+The following are the summary characteristics of the patients, scans and nodules used:
+Page 17The above parameters were broadly similar in the control versus cancer groups. Note that Ethnicity
+data was only available for US-based subjects (Not Applicable means not disclosed).
+Nodule sizes were closely matched between malignant (mean: 9.2mm) and benign nodules
+(9.1mm).
+6.3.5. Clinical Study Results
+The analysis for reader LOM, comparing results with/without the device using AUC are shown in
+Figure 1.
+Page 18Figure 1. AUC across all readers without the device (Unassisted, blue) or with the device (RevealAI-Lung,
+green), with the ROC curve shown with 95% confidence intervals across readers (left), and the reader means
+(right; with median and IQR (Tukey plot)).
+Note that baseline AUC statistics confirm the challenging nature of this size-matched dataset with
+low baseline radiologist performance (chance is 0.5 AUC).
+Every reader improved when using the device (range 0.11 - 0.26):
+AUC
+Reader # without with ∆
+1 0.639 0.773 0.134
+2 0.437 0.695 0.258
+3 0.502 0.714 0.212
+4 0.612 0.717 0.106
+5 0.601 0.736 0.136
+6 0.477 0.709 0.232
+7 0.553 0.697 0.143
+8 0.549 0.682 0.134
+9 0.491 0.719 0.229
+10 0.517 0.745 0.228
+Mean: 0.538 0.719 0.181
+This difference was statistically significant (p < 0.0001; Dorfman-Berbaum-Metz ANOVA
+random-reader random-case (RRRC) with jackknife (Wilcoxon)).
+Sensitivity/Specificity
+Page 19We pre-specified an example 5% likelihood of malignancy threshold for this sample. Use of
+RevealAI-Lung increased sensitivity by 14 points (0.68 ± 0.039 to 0.82 ± 0.036) and specificity by
+12 points (0.344 ± 0.041 to 0.467 ± 0.043).
+Note: These values should not be interpreted as population statistics as they are dependent on the included
+sample.
+6.3.6. Summary of sub-analyses
+Results were independent of radiologist experience, patient demographics (age, sex,
+race/ethnicity), scan characteristics (contrast, scan date, manufacturer), and nodule parameters
+(size, lobe, opacity). Each subgroup for all of the categories had an improved AUC when using the
+device (range of improvement in subgroups: 0.12 - 0.30).
+6.4. Conclusions
+6.4.1. Nonclinical performance testing
+RevealAI-Lung was successfully validated against user and product requirements and successfully
+verified against design specifications. All risk control measures, including those related to usability,
+were verified to be performing as designed.
+Results across populations demonstrated consistent device performance and met requirements for
+characterizing benign versus malignant lung nodules. These results were independent of patient
+population, and differences in clinical care and scan technical characteristics.
+6.4.2. Clinical performance testing
+The described clinical performance studies validated:
+● Usability: consistent device performance with radiologist use
+● Generalizability: consistent device performance across populations, nodule & scan types
+● Safety: Performance improvements consistent across readers
+● Clinical benefit: Readers appropriately increase/decrease malignancy likelihood
+6.4.3. Benefit-risk assessment
+Risk management based on ISO 14971:2019-12 was performed in the design and development of
+this device. These assessments have determined that based upon the residual risk acceptability
+criteria and the residual risk documented, the overall residual risk and risk/benefit of RevealAI-Lung
+is as low as possible and acceptable.
+The studies summarized herein are part of the Clinical Evaluation Procedure that includes formal
+assessment of the device risks and benefits. As described above, when used as intended by
+radiologists on patients accurately representing the intended use population, the device has
+significant clinical benefit.
+Together, the reduction of all categories of risks documented in these procedures, and the clinical
+benefits described herein, present an acceptable risk/benefit profile. The intended use, indications
+for use, risk assessment, instructions, claims that are contained herein and supported by the clinical
+study outcomes, all align with the safety and efficacy of the product.
+Page 206.5. Substantial Equivalence Statement
+RevealAI-Lung has the same or similar indications for use, intended use and technological
+characteristics to the predicate device. The non-clinical and clinical performance described herein
+demonstrate that ReveaAI-Lung performs at least as safely and effectively as the predicate device
+in the context of its intended use and with the proposed labeling. RevealAI-Lung meets the
+requirements for safety and effectiveness and does not introduce any new potential safety risks.
+The information provided in this submission supports our claim that RevealAI-Lung is as safe, as
+effective, and performs as well as or better than the legally marketed predicate device.
+Page 21

@@ -1,0 +1,546 @@
+Gleamer
+℅ Antoine Tournier
+Head of Quality & Regulatory March 1, 2022
+5 avenue du Général de Gaulle
+Saint Mandé, 94160
+FRANCE
+Re: K212365
+Trade/Device Name: BoneView
+Regulation Number: 21 CFR 892.2090
+Regulation Name: Radiological computer assisted detection and diagnosis software
+Regulatory Class: Class II
+Product Code: QBS
+Dated: January 28, 2022
+Received: January 31, 2022
+Dear Antoine Tournier:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.32
+Silver Spring, MD 20993
+www.fda.govK212365 - Antoine Tournier Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Mammography Ultrasound and Imaging Software Branch
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK212365
+BoneView
+BoneView is intended to analyze radiographs using machine learning techniques to identify and highlight
+fractures during the review of radiographs of:
+StudyType(AnatomicalAreaofInterest) CompatibleRadiographicView(s)
+Ankle Frontal,Lateral,Oblique
+Foot Frontal,Lateral,Oblique
+Knee Frontal,Lateral
+Tibia/Fibula Frontal,Lateral
+Femur Frontal,Lateral
+Wrist Frontal,Lateral,Oblique
+Hand Frontal,Oblique
+Elbow Frontal,Lateral
+Forearm Frontal,Lateral
+Humerus Frontal,Lateral
+Shoulder Frontal,Lateral,Axillary
+Clavicle Frontal
+Pelvis Frontal
+Hip Frontal,FrogLegLateral
+Ribs FrontalChest,Ribseries
+ThoracicSpine Frontal,Lateral
+LumbosacralSpine Frontal,Lateral
+BoneView is intended for use as a concurrent reading aid during the interpretations of radiographs. BoneView is
+for prescription use onlyand is indicated for adults only.
+XBoneView® 510(k) Summary
+Page 1
+K212365
+Date prepared: 01st, March 2022
+In accordance with 21 CFR 807.87(h) and (21 CFR 807.92) the 510(k) Summary for BoneView is
+provided below.
+1. Submitter
+Submitter GLEAMER SAS
+5, avenue du Général de Gaulle
+94160 Saint-Mandé - FRANCE
+Primary Contact Antoine Tournier
+Person Head of Quality & Regulatory Affairs
+Tel: 0033 6 15 81 23 45
+Email: antoine.tournier@gleamer.ai
+Secondary Contact Christian Allouche
+Person CEO
+Tel: 0033 6 58 53 70 46
+Email: christian@gleamer.ai
+2. Device
+Trade Name BoneView
+510(k) reference K212365
+Common Name Radiological computer assisted detection/diagnosis software for
+fracture
+Regulation 21 CFR 892.2090
+Product Code QBS
+Classification Class II
+3. Predicate Device
+Predicate Device Imagen Technologies, Inc - FractureDetect
+510(k) reference K193417
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 2
+4. Device Description
+BoneView is intended to analyze radiographs using machine learning techniques to identify
+and highlight fractures during the review of radiographs.
+BoneView can be deployed on-premises or on cloud and be connected to several computing
+platforms and X-ray imaging platforms such as X-ray radiographic systems, or PACS. More
+precisely, BoneView can be deployed:
+● In the cloud with a PACS as the DICOM Source
+● On-premises with a PACS as the DICOM Source
+● On-premises with an X-ray system as the DICOM Source
+It is important to note that no matter the deployment mode that is chosen for BoneView, the
+overall principle of use of BoneView and its user interface remain the same; only the place
+where BoneView is housed, and the DICOM Source/DICOM Destination with which BoneView
+communicates, may vary. Below is a description of the data flow.
+After the acquisition of the radiographs on the patient and their storage in the DICOM Source,
+the radiographs are automatically received by BoneView from the user’s DICOM Source
+through an intermediate DICOM node (for example, a specific Gateway, or a dedicated API). The
+DICOM Source can be the user’s image storage system (for example, the Picture Archiving and
+Communication System, or PACS), or other radiological equipment (for example X-ray
+systems).
+Once received by BoneView, the radiographs are automatically processed by the AI algorithm
+to identify regions of interest. Based on the processing result, BoneView generates result files
+in DICOM format. These result files consist of a summary table and result images (annotations
+on a copy of the original images or annotations to be toggled on/off). BoneView does not alter
+the original images, nor does it change the order of original images or delete any image from
+the DICOM Source.
+Once available, the result files are sent by BoneView to the DICOM Destination through the
+same intermediate DICOM node. Similar to the DICOM Source, the DICOM Destination can be
+the user’s image storage system (for example, the Picture Archiving and Communication
+System, or PACS), or other radiological equipment (for example X-ray systems). The DICOM
+Source and the DICOM Destination are not necessarily identical.
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 3
+The DICOM Destination can be used to visualize the result files provided by BoneView or to
+transfer the results to another DICOM host for visualization. The users are then able to use them
+as a concurrent reading aid to provide their diagnosis.
+The general layout of images processed by BoneView is comprising:
+① The “summary table” – it is a first image that is derived from the detected regions of interest
+in the following result images and that displays the results of the overall study along with the
+Gleamer – BoneView logo. This summary can be configured to be present or not.
+② The result images – they are provided for all the images that were processed by BoneView
+and contain:
+• Around the Regions of Interest (if any), a rectangle with a solid or dotted line depending
+on the confidence of the algorithm (see below)
+• Around the entire image, a white frame showing that the images were processed by
+BoneView
+• Below the image:
+o The Gleamer – BoneView logo
+o The number of Regions of interest that are displayed in the result image
+o (if any) The caution message if it was identified that the image was not part of
+the indication for use of BoneView
+The training of BoneView was performed on a training dataset of 44,649 radiographs,
+representing 151,096 images (52.4% of males, with age: range [0 – 109]; mean 42.4 +/- 24.6) for
+all anatomical areas of interest in the Indications for Use and from various manufacturers.
+BoneView has been designed to solve the problem of missed fractures including subtle
+fractures, and thus detects fractures with a high sensitivity. In this regard, the display of
+findings is triggered by a “high-sensitivity operating point” (DOUBT FRACT) that will enable the
+display of a dotted-line bounding box around the region of interest. Additionally, the users
+need to be confident that when BoneView identifies a fracture, it is actually a fracture. In this
+regard, an additional information is introduced to the user with a “high-specificity operating
+point” (FRACT).
+These two operating points are implemented in the User Interface as follow:
+• Dotted-line Bounding Box: suspicious area / subtle fracture (when the level of
+confidence of the AI algorithm associated with the finding is above “high-sensitivity
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 4
+operating point” and below “high-specificity operating point”) displayed as a dotted
+bounding box around the area of interest
+• Solid-line Bounding Box: definite or unequivocal fractures (when the level of
+confidence of the AI algorithm associated with the finding is above “high-specificity
+operating point”) displayed as a solid bounding box around the area of interest
+BoneView can provide 4 levels of results:
+• FRACT: BoneView identified at least one solid-line bounding box on the result images,
+• DOUBT FRACT: BoneView did not identify any solid-line bounding box on the result
+images but it identified at least one dotted-line bounding box in the result images,
+• NO FRACT: BoneView did not identify any bounding box at all in the result images,
+• NOT AVAILABLE: BoneView identified that the original images are out of its Indications
+for Use
+5. Intended use/Indications for use
+BoneView is intended to analyze radiographs using machine learning techniques to identify
+and highlight fractures during the review of radiographs of:
+Study Type (Anatomical Area of Interest) Compatible Radiographic View(s)
+Ankle Frontal, Lateral, Oblique
+Foot Frontal, Lateral, Oblique
+Knee Frontal, Lateral
+Tibia/Fibula Frontal, Lateral
+Femur Frontal, Lateral
+Wrist Frontal, Lateral, Oblique
+Hand Frontal, Oblique
+Elbow Frontal, Lateral
+Forearm Frontal, Lateral
+Humerus Frontal, Lateral
+Shoulder Frontal, Lateral, Axillary
+Clavicle Frontal
+Pelvis Frontal
+Hip Frontal, Frog Leg Lateral
+Ribs Frontal Chest, Rib series
+Thoracic Spine Frontal, Lateral
+Lumbosacral Spine Frontal, Lateral
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 5
+BoneView is intended for use as a concurrent reading aid during the interpretations of
+radiographs. BoneView is for prescription use only and is indicated for adults only.
+6. Substantial equivalence
+Features and Subject Device Predicate Device
+Characteristics Gleamer Imagen Technologies
+BoneView Inc.
+FractureDetect
+Regulation Information
+Regulation 21 CFR 892.2090 / Radiological Computer Same
+Number/Name Assisted Detection and Diagnosis Software for
+Fracture
+Regulation Description A radiological computer assisted detection Same
+and diagnostic software for suspected
+fracture is an image processing device
+intended to aid in the detection, localization,
+and/or characterization of fracture on
+acquired medical images (e.g. radiography,
+MR, CT). The device detects, identifies, and/or
+characterizes fracture based on features or
+information extracted from images, and may
+provide information about the presence,
+location, and/or characteristics of the fracture
+to the user. Primary diagnostic and patient
+management decisions are made by the
+clinical user.
+Intended Use The device is intended to aid in the detection, Same
+localization, and characterization of fractures
+on acquired medical images (per 21 CFR
+892.2090 Radiological Computer Assisted
+Detection and Diagnosis Software For
+Fracture).
+Indications for Use
+Image Modality 2D Xray Images Same
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 6
+Features and Subject Device Predicate Device
+Characteristics Gleamer Imagen Technologies
+BoneView Inc.
+FractureDetect
+Clinical Finding and Fracture Same
+Clinical Output
+To inform the primary diagnostic and patient
+management decisions that are made by the
+clinical user.
+Mode of action Image processing software using machine Same
+learning to aid in identifying and highlighting
+fractures during the review of radiographs.
+Anatomic Areas of For adults (greater than 21 years of age): For adults (greater than
+Interest and Patient • Ankle 21 years of age):
+Population • Foot • Ankle
+• Knee • Clavicle
+• Tibia/Fibula • Elbow
+• Femur • Femur
+• Wrist • Forearm
+• Hand • Hip
+• Elbow • Humerus
+• Forearm • Knee
+• Humerus • Pelvis
+• Shoulder • Shoulder
+• Clavicle • Tibia / Fibula
+• Pelvis • Wrist
+• Hip
+• Ribs
+• Thoracic Spine
+• Lumbosacral Spine
+Intended Users The intended users of BoneView are clinicians Same
+with the authority to diagnose fractures in
+various settings including primary care (e. g.,
+family practice, internal medicine), emergency
+medicine, urgent care, and specialty care (e. g.
+orthopedics), as well as radiologists who
+review radiographs across settings.
+Software and Technical Information
+Machine Learning Supervised Deep Learning Same
+Methodology
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 7
+Features and Subject Device Predicate Device
+Characteristics Gleamer Imagen Technologies
+BoneView Inc.
+FractureDetect
+Image Source DICOM Source (e.g., imaging device, Same
+intermediate DICOM node, PACS system, etc.)
+Image Viewing PACS system PACS system
+Image annotations made on copy of original Image annotations
+image or image annotations toggled on/off toggled on/off
+Deployment Platform Deployment on-premises or on cloud and Secure local processing
+connection to several computing platforms and delivery of DICOM
+and X-ray imaging platforms such as X-ray images
+radiographic systems, or PACS
+Privacy HIPAA Compliant Same
+Software Level of Moderate Same
+Concern
+7. Performance data
+7.1. Biocompatibility Testing
+As a standalone software, BoneView has no direct or indirect patient or user contacting
+components. Therefore, biocompatibility information is not required for this device.
+7.2. Software Verification and Validation Testing
+BoneView is a standalone software that is considered a moderate level of concern as per the
+guidance document from the FDA: “Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices”. Indeed, a failure or latent design flaw of BoneView
+could directly result in minor injury to the patient or operator.
+Consequently, software verification and validation testing were conducted and documented
+as per the requirements of the abovementioned FDA guidance document for a moderate level
+of concern device.
+7.3. Electrical safety and Electromagnetic compatibility Testing
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 8
+As a standalone software, BoneView is not subject to electromagnetic compatibility or
+electrical safety testing activities. Therefore, Electrical safety and Electromagnetic
+compatibility information is not required for this device.
+7.4. Bench Testing
+Gleamer performed a standalone performance testing on a dataset of 8,918 radiographs
+(47.2% of males, with age: range [21 – 113]; mean 52.5 +/- 19.8) for all anatomical areas of
+interest in the Indications for Use and from various manufacturers (Agfa, Fujifilm, GE
+Healthcare, Kodak, Konica Minolta, Philips, Primax, Samsung, Siemens). This dataset was
+independent of the data used for model training, tuning, and establishment of device
+operating points.
+The results of the standalone testing demonstrated that BoneView detects fractures in
+radiographs with high sensitivity and high specificity:
+Specificity (with 95% Clopper-Pearson CI) and Sensitivity (with 95% Clopper-Pearson CI) of BoneView at
+the examination-level at the high-sensitivity operating point and high-specificity operating point on the
+merged datasets
+High-sensitivity operating point High-specificity operating point
+Standalone Specificity – 95% Sensitivity – 95% Specificity – 95% Sensitivity – 95%
+Performance Clopper-Pearson CI Clopper-Pearson CI Clopper-Pearson CI Clopper-Pearson CI
+Global
+n(positive)= 3,886 0.811 [0.8 - 0.821] 0.928 [0.919 - 0.936] 0.932 [0.925 - 0.939] 0.841 [0.829 - 0.853]
+n(negative)= 5,032
+Specificity (with 95% Clopper-Pearson CI) and Sensitivity (with 95% Clopper-Pearson CI) of BoneView at
+the examination-level for the subgroup analysis of anatomical areas of interest at the high-sensitivity
+operating point and high-specificity operating point on the merged datasets
+High-sensitivity operating point High-specificity operating point
+DOUBT FRACT FRACT
+Anatomical Specificity – 95% Sensitivity – Specificity – 95% Sensitivity –
+Areas of Clopper-Pearson 95% Clopper- Clopper-Pearson 95% Clopper-
+Interest CI Pearson CI CI Pearson CI
+Ankle
+0.784 [0.754 - 0.897 [0.874 - 0.899 [0.865 -
+n(positive)= 378 0.95 [0.923 - 0.969]
+0.812] 0.917] 0.928]
+n(negative)= 805
+Clavicle
+0.757 [0.699 - 0.905 [0.845 - 0.929 [0.891 -
+n(positive)= 147 0.83 [0.759 - 0.887]
+0.808] 0.947] 0.958]
+n(negative)= 255
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 9
+High-sensitivity operating point High-specificity operating point
+DOUBT FRACT FRACT
+Anatomical Specificity – 95% Sensitivity – Specificity – 95% Sensitivity –
+Areas of Clopper-Pearson 95% Clopper- Clopper-Pearson 95% Clopper-
+Interest CI Pearson CI CI Pearson CI
+Elbow
+0.718 [0.655 - 0.924 [0.868 - 0.899 [0.852 - 0.531 [0.446 -
+n(positive)= 145
+0.776] 0.962] 0.935] 0.614]
+n(negative)= 227
+Femur
+0.733 [0.658 - 0.937 [0.845 - 0.944 [0.897 - 0.825 [0.709 -
+n(positive)= 63
+0.799] 0.982] 0.974] 0.909]
+n(negative)= 161
+Foot
+0.793 [0.768 - 0.934 [0.917 - 0.924 [0.907 - 0.874 [0.852 -
+n(positive)= 985
+0.817] 0.949] 0.939] 0.894]
+n(negative)= 1,097
+Forearm
+0.676 [0.577 - 0.912 [0.839 - 0.851 [0.763 -
+n(positive)= 94 0.989 [0.942 - 1.0]
+0.766] 0.959] 0.916]
+n(negative)= 102
+Hand
+0.809 [0.783 - 0.966 [0.954 - 0.917 [0.898 - 0.915 [0.898 -
+n(positive)= 1,168
+0.832] 0.975] 0.934] 0.931]
+n(negative)= 1,003
+Hip
+0.938 [0.885 - 0.953 [0.918 - 0.793 [0.718 -
+n(positive)= 145 0.77 [0.711 - 0.822]
+0.971] 0.976] 0.856]
+n(negative)= 235
+Humerus
+0.731 [0.659 - 0.904 [0.834 - 0.833 [0.752 -
+n(positive)= 114 0.92 [0.869 - 0.956]
+0.796] 0.951] 0.897]
+n(negative)= 175
+Knee
+0.889 [0.868 - 0.891 [0.823 - 0.975 [0.964 - 0.797 [0.717 -
+n(positive)= 128
+0.907] 0.939] 0.984] 0.863]
+n(negative)= 1,045
+Lumbosacral
+Spine 0.737 [0.672 - 0.776 [0.693 - 0.947 [0.908 -
+0.6 [0.509 - 0.687]
+0.795] 0.846] 0.973]
+n(positive)= 125
+n(negative)= 209
+Pelvis
+0.745 [0.704 - 0.887 [0.839 - 0.939 [0.914 - 0.743 [0.682 -
+n(positive)= 230
+0.784] 0.925] 0.959] 0.799]
+n(negative)= 479
+Ribs
+0.684 [0.581 - 0.488 [0.425 -
+n(positive)= 252 0.753 [0.7 - 0.802] 0.926 [0.854 - 0.97]
+0.776] 0.552]
+n(negative)= 95
+Shoulder
+0.782 [0.746 - 0.929 [0.891 - 0.947 [0.926 - 0.851 [0.801 -
+n(positive)= 255
+0.814] 0.958] 0.964] 0.892]
+n(negative)= 586
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 10
+High-sensitivity operating point High-specificity operating point
+DOUBT FRACT FRACT
+Anatomical Specificity – 95% Sensitivity – Specificity – 95% Sensitivity –
+Areas of Clopper-Pearson 95% Clopper- Clopper-Pearson 95% Clopper-
+Interest CI Pearson CI CI Pearson CI
+Thoracic Spine
+0.676 [0.578 - 0.878 [0.782 - 0.905 [0.832 - 0.689 [0.571 -
+n(positive)= 74
+0.764] 0.943] 0.953] 0.792]
+n(negative)= 105
+Tibia/Fibula
+0.712 [0.641 - 0.972 [0.903 - 0.815 [0.751 - 0.931 [0.845 -
+n(positive)= 72
+0.776] 0.997] 0.869] 0.977]
+n(negative)= 184
+Wrist
+0.771 [0.732 - 0.892 [0.862 -
+n(positive)= 573 0.97 [0.953 - 0.983] 0.934 [0.91 - 0.953]
+0.807] 0.918]
+n(negative)= 502
+Additionally, the performance of BoneView was validated for potential confounders including
+weight-bearing and non-weight bearing bone fractures and different X-ray system
+manufacturers.
+7.5. Animal Studies
+No animal studies were conducted in support of the 510(k) submission of BoneView.
+7.6. Clinical studies
+Gleamer conducted a fully-crossed multiple reader, multiple case (MRMC) retrospective reader
+study to determine the impact of BoneView on reader performance in diagnosing fractures.
+The primary objective of the study was to determine whether the diagnostic accuracy of
+readers aided by BoneView is superior to the diagnostic accuracy of readers unaided by
+BoneView as determined by the Specificity/Sensitivity pair (primary endpoint).
+The clinical validation study design was the following:
+• 24 clinical readers each evaluated a dataset of 480 cases (31.9% of males, with age:
+range [21 – 93]; mean 59.2 +/- 16.4) in BoneView’s Indications for Use and from various
+manufacturers (GE Healthcare, Kodak, Konica Minolta, Philips, Samsung) under both
+Aided and Unaided conditions.
+• This dataset was independent of the data used for model training, tuning, and
+establishment of device operating points.
+• Each case had been previously evaluated by a panel of three U.S. board-certified
+radiologists who assigned a ground truth label indicating the presence or absence of a
+fracture and its location.
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.aiBoneView® 510(k) Summary
+Page 11
+• Cases are from all the anatomical areas of interest included in BoneView’s Indications
+for Use.
+• The MRMC study consisted of two independent reading sessions separated by a
+washout period of at least one month in order to avoid memory bias.
+• For each case, each reader was required to provide a determination of the presence or
+absence of a fracture and provide its location.
+The results of the study found that the diagnostic accuracy of readers in the intended use
+population is superior when aided by BoneView than when unaided by BoneView, as measured
+at the task of fracture detection using the Specificity/Sensitivity pair.
+In particular, the study results demonstrated:
+• Reader specificity improved significantly from 0.906 (95% bootstrap CI: 0.898-0.913) to
+0.956 (95% bootstrap CI: 0.951-0.960): +5% increase of the Specificity
+• Reader sensitivity improved significantly from 0.648 (95% bootstrap CI: 0.640-0.656) to
+0.752 (95% bootstrap CI: 0.745-0.759): +10.4% increase of the Sensitivity
+Additionally, subgroup analysis was carried out by anatomical areas of interest, listed in the
+Indications for Use. The subgroup analysis found that the Sensitivity and Specificity were
+higher for Aided reads versus Unaided reads for all of the anatomical areas of interest.
+8. Conclusion
+BoneView is as safe and effective as the predicate device.
+BoneView and the predicate device are both computer-assisted detection and diagnostic
+devices that take radiographs in DICOM format and use machine learning techniques to
+identify and highlight fractures.
+The overall design of the software and the basic functionality that it provides to the end user
+are the same. The minor differences between subject and predicate device in indications do
+not alter the intended use of the device and do not raise new or different questions regarding
+its safety and effectiveness when used as labeled.
+The results of performance and clinical studies demonstrate that the subject device performs
+in accordance with specifications and meets user needs and intended use and that BoneView
+can be found to be substantially equivalent to the predicate device.
+GLEAMER
+5 avenue du Général de Gaulle, 94160 Saint-Mandé - FRANCE
+SAS au capital de 115 372 euros – RCS Créteil 834 105 470
+SIRET : 834 105 470 00027 – admin@gleamer.ai

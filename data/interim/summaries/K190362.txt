@@ -1,0 +1,264 @@
+Zebra Medical Vision Ltd. May 6, 2019
+℅ Flair Bar
+VP Operations
+Shefayim Commercial Center, PO Box 25
+Shefayim, 6099000
+ISRAEL
+Re: K190362
+Trade/Device Name: HealthPNX
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer-aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: April 2, 2019
+Received: April 5, 2019
+Dear Flair Bar:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.03.08
+Silver Spring, MD 20993
+www.fda.govK190362 - Flair Bar Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+Office of In Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+Enclosure510 (k) Summary
+510(K) Summary - HealthPNX
+Zebra Medical Vision Ltd.
+510(k) Number – K190362
+I. Applicant’s Name: Zebra Medical Vision Ltd.
+Flair Bar
+Shefayim Commercial Center
+PO Box 25
+Shefayim, 6099000
+ISRAEL
+Telephone: +972-9-8827795
+Fax: +972-9-8827795
+Date Prepared: April 28, 2019
+II. Device
+Trade Name: HealthPNX
+Classification Name:
+Radiological Computer Aided Triage and Notification Software
+Regulation Number:
+21 CFR 892.2080
+Classification:
+Class II, Radiology
+Product Code:
+QFM
+III. Predicate Device
+The HealthPNX device is substantially equivalent to the following device:
+Proprietary Name cmTriage
+Premarket Notification K183285
+Classification Name Radiological Computer-Assisted Prioritization Software
+Regulation Number 21 CFR 892.2080
+Product Code QFM
+Regulatory Class II
+1
+Zebra Medical Vision Ltd. CONFIDENTIALIV. Device Description:
+Zebra’s HealthPNX is a radiological computer-assisted triage and notification software system.
+The software automatically analyzes PA/AP chest x-rays and alerts the PACS/workstation once
+findings suspicious of pneumothorax are identified.
+The following modules compose the HealthPNX software system:
+Data input and validation: After a chest x-ray has been performed, a copy of the study is
+automatically retrieved and processed by the HealthPNX device. Following retrieval of a study,
+the validation feature assesses the input data (i.e. age, modality, view) to ensure compatibility for
+processing by the algorithm.
+HealthPNX algorithm: Once a study has been validated, the algorithm analyzes the frontal chest
+x-ray for detection of suspected findings suggestive of pneumothorax.
+IMA Integration feature: The study analysis and the results of a successful study analysis is
+provided to IMA, that notifies the PACS/workstation for prioritization through the worklist
+interface.
+Error codes feature: In the case of a study failure during data validation or the analysis by the
+algorithm, an error is provided to the system.
+The radiologist is then able to review the study earlier than in standard of care workflow.
+In summary, the HealthPNX device is intended to provide a passive notification through the
+PACS/workstation to the radiologists indicating the existence of a case that may potentially benefit
+from the prioritization. It doesn't output an image and therefore it does not mark, highlight, or
+direct users’ attention to a specific location on the original chest X ray.
+The device aim is to aid in prioritization and triage of radiological medical images only.
+V. Intended Use/Indication for Use
+The Zebra Pneumothorax device is a software workflow tool designed to aid the clinical
+assessment of adult Chest X-Ray cases with features suggestive of Pneumothorax in the medical
+care environment. HealthPNX analyzes cases using an artificial intelligence algorithm to identify
+suspected findings. It makes case-level output available to a PACS/workstation for
+worklist prioritization or triage. HealthPNX is not intended to direct attention to specific
+portions or anomalies of an image. Its results are not intended to be used on a stand-alone basis
+for clinical decision-making nor is it intended to rule out Pneumothorax or otherwise preclude
+clinical assessment of X-Ray cases.
+VI. Comparison of Technological Characteristics with the Predicate Device
+The technological characteristics are compared below.
+2
+Zebra Medical Vision Ltd. CONFIDENTIALTechnological HealthPNX Predicate: cmTriage Similarities or
+Characteristics (K183285) Differences
+Indication for use The Zebra Pneumothorax cmTriage is a passive notification Similar except to
+device is a software for prioritization-only, parallel- anatomy, imaging
+workflow tool designed to workflow software tool used by modality and lesion
+type
+aid the clinical assessment radiologists to prioritize specific
+of adult Chest X-Ray cases patients within the standard-of-care
+with features suggestive of image worklist for 2D FFDM
+Pneumothorax in the screening mammograms.
+medical care environment. cmTriage uses an artificial
+HealthPNX analyzes cases intelligence algorithm to analyze
+using an artificial 2D FFDM screening mammograms
+intelligence algorithm to and flags those that are suggestive
+identify suspected findings. of the presence of at least one
+It makes case-level output suspicious finding at the exam
+available to a level.
+PACS/workstation for These flags are viewed by the
+worklist prioritization or radiologist via their Picture
+triage. HealthPNX is not Archiving and Communication
+intended to direct attention System (PACS) worklist. The
+to specific portions of an decision to use cmTriage codes and
+image or to anomalies other how to use cmTriage codes is
+than Pneumothorax. Its ultimately up to the radiologist.
+cmTriage does not send a proactive
+results are not intended to
+alert directly to the radiologist.
+be used on a stand-alone
+Radiologists are responsible for
+basis for clinical decision-
+reviewing each exam on a diagnostic
+making nor is it intended to
+viewer according to the current
+rule out Pneumothorax or
+standard of care. cmTriage is limited to
+otherwise preclude clinical
+the categorization of exams, does not
+assessment of X-Ray cases provide any diagnostic information
+beyond triage and prioritization, does
+not remove images from the
+radiologist’s worklist, and should not
+be used in lieu of full patient
+evaluation, or relied upon to make or
+confirm diagnosis.
+cmTriage is for prescription use only.
+Notification-only, Yes Yes Same
+parallel workflow
+tool
+User Radiologist Radiologist Same
+Radiological DICOM DICOM Same
+images format
+3
+Zebra Medical Vision Ltd. CONFIDENTIALIdentify patients Yes Yes Same
+with prespecified
+clinical condition
+Clinical condition Pneumothorax Breast Cancer Different but are
+“time sensitive
+imaging” per 21CFR
+892.2080
+Alert to finding Passive notification flagged for Passive notification flagged for review Same
+review
+Independent of Yes; No cases are removed Yes; No cases are removed Same
+standard of care from worklist from worklist
+workflow
+Modality X-Ray FFDM screening mammograms Different but both run
+on “radiological
+medical images” per
+21 CFR 892.2080
+Body part Chest Breast Different anatomical
+sites but both
+“operates on
+radiological images of
+the human body” per
+21 CFR 892.2080
+Artificial Yes Yes Same
+Intelligence
+algorithm
+Limited to Yes Yes Same
+analysis of
+imaging data
+Aids prompt Yes Yes Same
+identification of
+cases with
+indicated findings
+Where results are PACS / Workstation PACS / Workstation Same
+received
+VII. Performance Data
+The HealthPNX has been evaluated and verified in accordance with software specifications and
+applicable performance standards through Software Development and Validation & Verification
+Process to ensure performance according to specifications, User Requirements and Federal
+Regulations and Guidance documents, “Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices”.
+The performance of the HealthPNX device has been validated in a pivotal performance study that
+was carried out in the USA with simulated synthetic work-flow consisting of a truthed validation
+data-set. The data included a retrospective cohort of 588 anonymized Chest X-Ray cases from the
+USA and Israel, including pneumothorax positive (n=146) and negative cases (n=442), as well as
+4
+Zebra Medical Vision Ltd. CONFIDENTIALconfounding imaging factors. The validation data set was truthed (ground truth) by three US Board
+Certified Radiologists (truthers). The stand-alone detection accuracy was measured on this cohort
+respective to ground truth. The triage effectiveness was evaluated by three different US Board
+Certified Radiologists (readers) that read these cases prospectively in real time with the
+HealthPNX device (HealthPNX prioritized work-list) and without (standard of care, “First-in-
+First-out” or “FIFO” queue) with a washout period separating between the two read periods with
+and without the HealthPNX device.
+The detection accuracy met the a-priori performance goal (above 80% level of accuracy compared
+with ground truth). Overall, the HealthPNX was able to demonstrate an area under the curve
+(AUC) of 98.3% (95% CI: [97.40%, 99.02%]), which is substantially equivalent to the predicate
+device, and meets the required performance goal for QFM product code. Additionally, the overall
+agreement between HealthPNX device and ground truth was 93.03% (95% CI: [90.66%, 94.95%]).
+The sensitivity and specificity of the HealthPNX was 93.15% (95% CI: [87.76%, 96.67%]) and
+92.99% (95% CI: [90.19%, 95.19%])(n=588), respectively.
+The HealthPNX reduced triage time as compared to the standard of care (mean time 8.05 minutes
+(95% CI: [5.93, 10.16] minutes) vs. 68.98 minutes (95% CI: [60.53, 77.43] minutes)(n=588), with
+the HealthPNX compare to standard of care, respectively). This is a statistically significant
+reduction of triage time of time sensitive images. This establishes that the HealthPNX meets its
+intended use statement and is substantially equivalent to the predicate device.
+In addition, we assessed the performance time of the HealthPNX that reflects the time it takes for
+the device to analyze the study and send a notification to the PACS worklist. The average
+performance time of the HealthPNX was 22.1 seconds, a timing performance that is substantially
+equivalent to the predicate (3.35 minutes).
+VIII. Conclusion
+The subject HealthPNX device and the cmTriage predicate device are both software-only devices
+intended to aid in triage of radiological images, independent of standard of care workflow. The
+labeling of both devices are limited to the categorization of exams and are not to be used in-lieu
+of full patient evaluation or relied upon to make or confirm diagnosis.
+Both devices operate in parallel to the standard of care workflow in the sense that they do not
+change the original image, do not provide any marking, and do not remove cases from the standard
+of care. The minor differences between the subject device and the predicate raise no new issues of
+safety or effectiveness. In addition, performance testing demonstrates that the HealthPNX
+performs as intended . The HealthPNX device is therefore substantially equivalent to the cmTriage
+predicate.
+5
+Zebra Medical Vision Ltd. CONFIDENTIAL

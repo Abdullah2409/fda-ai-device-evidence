@@ -1,0 +1,506 @@
+October 30, 2024
+Remedy Logic Inc.
+℅ Yu Zhao
+Principal Advisor
+Bridging Consulting LLC
+2108 N St., Suite N
+Sacramento, CA 95816
+Re: K241108
+Trade/Device Name: RemedyLogic AI MRI Lumbar Spine Reader
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: September 30, 2024
+Received: September 30, 2024
+Dear Yu Zhao:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.04
+Silver Spring, MD 20993
+www.fda.govK241108 - Yu Zhao Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. SeeK241108 - Yu Zhao Page 3
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K241108
+Device Name
+RemedyLogic AI MRI Lumbar Spine Reader
+Indications for Use (Describe)
+RemedyLogic AI MRI Lumbar Spine Reader (“RAI”) is an image post-processing and measurement software tool that
+provides quantitative spine measurements from previously-acquired DICOM lumbar spine Magnetic Resonance (MR)
+images for users’ review, analysis, and interpretation. It provides the following functionality to assist users in visualizing,
+measuring and documenting measurements:
+• Feature segmentation;
+• Feature measurement; and
+• Exportation of measurement results in DICOM Structured Report and a downloadable .docx file for users to review and
+to use full or partial list of software-generated measurements to prepare their own radiology report.
+RAI does not produce or recommend any type of medical diagnosis or treatment. Instead, it simply helps users to more
+easily identify and measure features in lumbar MR images and compile their own reports. The user is responsible for
+reviewing, verifying, and correcting, if necessary, the software-generated segmentations and measurements, leveraging
+useful software output and using their medical judgment and discretion to make diagnostic or treatment decisions.
+The device is intended to be used only by radiologists, neuro- and spine-surgeons in hospitals and other medical
+institutions.
+Only T2 MRI images in DICOM format, acquired from lumbar spine exams of patients aged 18 and older, are considered
+to be valid input. RAI does not support DICOM images of patients that are pregnant, undergo MRI scan with contrast
+media, or have post-operational complications, scoliosis, tumors, infections, and/or fractures.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK241108
+510(k) Summary
+1. Submitter
+Remedy Logic Inc.
+1177 Avenue of the Americas, 5th Floor
+New York, NY 10036
+USA
+Contact Person: Andrej Rusakov
+Date Prepared: March 30, 2024
+2. Device
+Name of Device: RemedyLogic AI MRI Lumbar Spine Reader
+Common or Usual Name: RemedyLogic AI MRI Lumbar Spine Reader
+Classification Name: Medical image management and processing system (21 CFR 892.2050)
+Product Code: QIH
+Regulatory Class: II
+3. Predicate Devices
+Device Name: CoLumbo
+Manufacturer: Smart Soft Healthcare AD
+Classification Panel: Radiology
+Classification Name: Medical image management and processing system (21 CFR 892.2050)
+Product Code: QIH
+Device Class: Class II
+510(k) Number: K220497 (cleared on June 23, 2022)
+4. Device Description
+The RemedyLogic AI MRI Lumbar Spine Reader (RAI) is an MR image post-processing and
+measurement software tool that provides quantitative spine measurements from previously acquired
+DICOM lumbar spine Magnetic Resonance (MR) images for qualified users' review, analysis, and
+interpretation. The qualified users (i.e., radiologists, spine- and neuro-surgeons) are physicians qualified
+to read and interpret spine MRI exams in a manner consistent with American College of Radiology
+(ACR) recommendations.
+The RAI analyzes the user-uploaded lumbar spine images and provides the following functionalities to
+assist qualified users in visualizing images, and measuring images, and generating reports:
+(cid:404) Feature segmentation: the software automatically detects the borders of anatomical objects of
+interest and generates the corresponding contours for these objects.
+P a g e | 1RAI 510(k) Premarket Notification Remedy Logic Inc.
+(cid:404) Feature measurement: the software automatically generates common measurements for
+segmented objects.
+(cid:404) Measurement export: a DICOM Structured Report or a .docx file containing the measurement
+results can be exported for users to review and to use the full or a partial list of the software-
+generated measurements to prepare their own radiology reports.
+The RAI software does not interface directly with any MR scanner or data collection equipment. Rather, a
+qualified user must upload a previously acquired MR study in DICOM format into the RAI software via
+their Picture Archiving and Communication System (PACS). The PACS serves as the RAI user interface.
+After less than two minutes of processing, the RAI software automatically generates and uploads back to
+PACS the DICOM with segmentations of regions of interest along with corresponding measurements.
+These measurements are also presented in a DICOM Structured Report and a downloadable .docx file,
+which is accessible for download from the PACS from PACS system. The user reviews the software-
+generated measurement list, studies the software-annotated images and/or the original unannotated images
+when necessary, and reviews other pertinent medical information about the patient. The user can manually
+segment anatomical objects and mark their own measurements using the DICOM viewer tools. The user
+can also edit measurements in the downloaded .docx file. The user then writes their own radiology report,
+incorporating some or all verified or corrected measurements, with diagnosis and/or treatment
+recommendations.
+The purpose of the RAI software is to save time by automating tedious, time-consuming, and potentially
+error-prone manual tasks. The software does not perform any functions that could not be accomplished by
+a qualified user. The outputs of the software, i.e. feature segmentations and quantitative measurements, are
+reviewed, analyzed, confirmed or corrected by the user before any such content is included in the user’s
+final report.
+The RAI consists of a cloud-based machine learning (ML) analytical algorithm deployed on a GPU cloud
+service and an API to integrate directly with the client’s PACS system.
+5. Indications for Use
+RemedyLogic AI MRI Lumbar Spine Reader (“RAI”) is an image post-processing and measurement
+software tool that provides quantitative spine measurements from previously-acquired DICOM lumbar
+spine Magnetic Resonance (MR) images for users’ review, analysis, and interpretation. It provides the
+following functionality to assist users in visualizing, measuring and documenting measurements:
+• Feature segmentation;
+• Feature measurement; and
+• Exportation of measurement results in a DICOM Structured Report and a downloadable .docx
+file for users to review and to use full or partial list of software-generated measurements to
+prepare their own radiology report.
+RAI does not produce or recommend any type of medical diagnosis or treatment. Instead, it simply helps
+users to more easily identify and measure features in lumbar MR images and compile their own reports.
+The user is responsible for reviewing, verifying and correcting, if necessary, the software-generated
+segmentations and measurements, leveraging useful software output and using their medical judgment
+and discretion to make diagnostic or treatment decisions.
+The device is intended to be used only by radiologists, neuro- and spine-surgeons in hospitals and other
+medical institutions.
+Only T2 MRI images in DICOM format, acquired from lumbar spine exams of patients aged 18 and
+older, are considered to be valid input. RAI does not support DICOM images of patients that are pregnant,
+P a g e | 2RAI 510(k) Premarket Notification Remedy Logic Inc.
+undergo MRI scan with contrast media, or have post-operational complications, scoliosis, tumors,
+infections, and/or fractures.
+6. Comparison of the Technological Characteristics with the Predicate
+Devices
+In comparison to the Predicate Device and the Reference Devices, the Subject Device provides
+comparable outputs in terms of segmentation, measurement and reporting. A tabular high-level
+comparison of the Subject Device and the Predicate Device is provided in the table below.
+P a g e | 3RAI 510(k) Premarket Notification Remedy Logic Inc.
+Comparison of Technological Characteristics with Predicate Device
+Predicate Device Subject Device
+CoLumbo (K220497) RAI
+Intended User Radiologist and neuro- and spine- Radiologist and neuro- and spine-
+surgeons surgeons
+Intended Patient Patients aged 18 years or older, Patients aged 18 years or older,
+Population undergoing clinical lumbar spine MR undergoing clinical lumbar spine MR
+exams. exams.
+CoLumbo does not support DICOM RAI does not support DICOM images
+images of patients that are pregnant, of patients that are pregnant, undergo
+undergo MRI scan with contrast media, MRI scan with contrast media, or have
+or have post-operational complications, post-operational complications,
+scoliosis, tumors, infections, fractures. scoliosis, tumors, infections, fractures.
+Supported Body Lumbar spine Lumbar spine
+Part
+Segmentation Software automatically generates Software automatically generates
+segmentations of anatomical features of segmentations of anatomical features of
+interest interest
+Measurement Software automatically generates Software automatically generates
+measurements of interest measurements of interest
+Threshold-Based Software automatically highlights and Software does not automatically
+Out-of-Range reports out-of-range measurements highlight or report any out-of-range
+Measurements based on predetermined thresholds measurements
+Reporting Exportation of measurement results to a Exportation of measurement results in
+written report for user's review, revise both a DICOM Structured Report and
+and approval a .docx file for users to review and to
+use full or partial list of software-
+generated measurements to prepare
+their own radiology report.
+SaMD Yes Yes
+Deep Convolutional Image-to-Image
+Algorithm Convolutional Neural Network
+Neural Network
+Supported MR MR
+Modality
+The Subject Device is substantially equivalent in comparison to the Predicate Device. The information
+regarding the Subject Device does not raise new questions about safety and effectiveness and demonstrates
+that RAI is at least as safe and effective as the legally marketed devices.
+7. Performance Data
+7.1. Biocompatibility Testing
+Not applicable.
+7.2. Electrical Safety and Electromagnetic Compatibility (EMC)
+P a g e | 4RAI 510(k) Premarket Notification Remedy Logic Inc.
+Not applicable.
+7.3. Animal Study
+Not applicable.
+7.4. Voluntary Conformance Standards
+(cid:53)(cid:36)(cid:44)(cid:3)(cid:75)(cid:68)(cid:86)(cid:3)(cid:69)(cid:72)(cid:72)(cid:81)(cid:3)(cid:87)(cid:72)(cid:86)(cid:87)(cid:72)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:80)(cid:72)(cid:72)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:70)(cid:82)(cid:81)(cid:73)(cid:82)(cid:85)(cid:80)(cid:76)(cid:87)(cid:92)(cid:3)(cid:87)(cid:82)(cid:3)(cid:80)(cid:88)(cid:79)(cid:87)(cid:76)(cid:83)(cid:79)(cid:72)(cid:3)(cid:76)(cid:81)(cid:71)(cid:88)(cid:86)(cid:87)(cid:85)(cid:92)(cid:3)(cid:86)(cid:87)(cid:68)(cid:81)(cid:71)(cid:68)(cid:85)(cid:71)(cid:86)(cid:17)(cid:3)(cid:49)(cid:82)(cid:81)(cid:4136)(cid:70)(cid:79)(cid:76)(cid:81)(cid:76)(cid:70)(cid:68)(cid:79)(cid:3)
+performance testing demonstrated that RAI complies with the following voluntary FDA recognized
+Consensus Standards listed in the table below.
+Voluntary Conformance Standards
+Recognition Standard
+#
+13-79 IEC 62304 Edition 1.1 2015-06 CONSOLIDATED VERSION, Medical device software
+— Software life cycle processes
+5-125 ISO 14971 Third Edition 2019-12, Medical devices — Application of risk management
+to medical devices
+5-129 IEC 62366-1 Edition 1.1 2020-06 CONSOLIDATED VERSION, Medical devices —
+Part 1: Application of usability engineering to medical devices
+5-134 ISO 15223-1 Fourth edition 2021-07, Medical devices – Symbols to be used with
+information to be supplied by the manufacturer – Part 1: General requirements
+12-349 NEMA PS 3.1 – 3.20 2022d, Digital Imaging and Communications in Medicine
+(DICOM) Set
+7.5. Nonclinical Tests
+Remedy Logic has performed software design verification testing and a standalone performance
+assessment study, in accordance with the FDA guidance, General Principles of Software Validation;
+Final Guidance for Industry and FDA Staff, issued on January 11, 2002. All software requirements and
+risk analysis have been successfully verified and traced. The performance data demonstrates continued
+conformance with special controls for medical devices containing software.
+Software documentation for Basic Documentation level, per FDA Guidance for Industry and Food and
+Drug Administration Staff, Content of Premarket Submissions for Device Software Functions, issued on
+June 14, 2023, were provided.
+Remedy Logic conforms to the cybersecurity requirements by implementing a process of preventing
+unauthorized access, modifications, misuse or denial of use, or the unauthorized use of information that
+is stored, accessed or transferred from a medical device to an external recipient, per FDA Guidance for
+Industry and Food and Drug Administration Staff, Cybersecurity in Medical Devices: Quality System
+Considerations and Content of Premarket Submissions, issued on September 27, 2023, as well as FDA
+Guidance for Industry and Food and Drug Administration Staff, Postmarket Management of
+Cybersecurity in Medical Devices, issued on December 28, 2016. The vulnerability assessment and
+penetration testing demonstrated satisfactory security performance.
+The nonclinical test data demonstrated conformance with special controls and substantial equivalence to
+predicate devices’ performance.
+Standalone Software Performance Study
+To validate the RAI software from a clinical perspective, a clinical data based standalone software
+P a g e | 5RAI 510(k) Premarket Notification Remedy Logic Inc.
+performance study was conducted in the U.S. The standalone software performance study included 200
+MR image studies for 200 patients of different ages and racial groups, collected from three (3)
+geographically diverse sites across the U.S. The standalone software performance study compared the
+RAI software outputs to the ground truth defined by five (5) radiologists on segmentations and
+measurements.
+Study Subjects
+Number of subjects Percent of total
+Total number of subjects 200 100%
+Gender, Male 92 46%
+Gender, Female 108 54%
+Age, 18 - 21 43 21.5%
+Age, 22 - 50 89 44.5%
+Age, 51 - 100 68 34%
+Racial, Caucasian 107 53.5%
+Racial, Black/African American 16 8%
+Racial, Hispanic 58 29%
+Racial, Asian or other 19 9.5%
+Imaging Systems
+The 200 MR studies were acquired on MRI imaging systems made by five (5) manufacturers.
+Number of
+Manufacturer Model name Tesla MRIs Percent
+GENESIS SIGNA 1.5 5 2.5%
+SIGNA Creator 1.5 1 0.5%
+GE Medical
+Systems
+SIGNA EXCITE 1.5 10 5%
+Signa HDxt 1.5 21 10.5%
+P a g e | 6RAI 510(k) Premarket Notification Remedy Logic Inc.
+Philips
+Prodiva CS 1.5 5 2.5%
+Achieva 1.5 1 0.5%
+Philips Medical
+Ingenia 1.5 11 5.5%
+Systems
+Panorama 0.23 T
+Power 0.23 21 10.5%
+Espree 1.5 25 12.5%
+MAGNETOM Altea 1.5 21 10.5%
+SIEMENS
+Skyra 3 21 10.5%
+Symphony 1.5 7 3.5%
+TOSHIBA MEC
+MRT200PP2 1.5 51 25.5%
+Ground Truth
+The ground truths for the segmentation of anatomical structures and the measurements were
+independently established by five (5) U.S. radiologists without using the RAI software.
+For the segmentation, each radiologist used a specialized pixel labeling tool to independently label the
+pixels of the tissues at the predetermined levels of the preselected axial and sagittal slices. The per-pixel
+majority opinion of the five (5) radiologists established the ground truth for each anatomical structure.
+Specially, if at least 3 of the 5 radiologists labeled a pixel as belonging to a particular anatomical
+structure, the pixel was included. Otherwise, the pixel was excluded.
+For the measurement, each radiologist used a commercial software tool to produce a standard set of
+areal, angular and linear measurements. The ground truth was established by taking the mean of the five
+(5) radiologists’ measurements.
+Acceptance Criteria and Study Results
+Primary Endpoints:
+- For 4 measurements, the maximum Mean Absolute Error (MAE) as defined as the upper limit of
+the 95% confidence interval for MAE is below a predetermined allowable error limit (MAE
+limit) for each measurement listed below.
+Measurement MAE limit
+Dural Sac Area (Axial) 20 mm2
+Spinal Canal Area (Axial) 30 mm2
+P a g e | 7RAI 510(k) Premarket Notification Remedy Logic Inc.
+Lordotic Angle (Sagittal) 6 °
+Vertebral Body Slippage (Sagittal) 2 mm
+Secondary Endpoints:
+- For segmentations of 14 anatomical structures: the minimum Mean Dice Coefficient, defined as
+the lower limit of the 95% confidence interval for MDC, is above a predetermined allowable
+limit (MDC Limit) for each segmentation listed below.
+Anatomical structure MDC limit
+Artery (Axial) 0.8
+Disc (Axial) 0.7
+Disc (Sagittal) 0.7
+Disc Material Outside IV Space (Axial) 0.7
+Dural Sac (Axial) 0.8
+Kidney (Axial) 0.8
+Ligamentum Flavum (Axial) 0.7
+Muscle (Axial) 0.8
+Sacrum (Sagittal) 0.8
+Spinal Canal (Axial) 0.8
+Spinal Canal (Sagittal) 0.8
+Vein (Axial) 0.8
+Vertebral Arch (Axial) 0.8
+Vertebral Body (Sagittal) 0.8
+- For 10 measurements: the maximum Mean Absolute Error (MAE) as defined as the upper limit of the
+95% confidence interval for MAE is below a predetermined allowable error limit (MAE limit) for
+each measurement listed below.
+Measurement MAE limit
+Anterior Disc Height (Sagittal) 2 mm
+Anterior Vertebral Body Height (Sagittal) 2 mm
+Dural Sac Anterior-Posterior Diameter 2 mm
+(Axial)
+Dural Sac Transverse Diameter (Axial) 2 mm
+Middle Disc Height (Sagittal) 2 mm
+Middle Vertebral Body Height (Sagittal) 2 mm
+Posterior Disc Height (Sagittal) 2 mm
+Posterior Vertebral Body Height (Sagittal) 2 mm
+Spinal Canal Anterior-Posterior Diameter 2 mm
+(Axial)
+P a g e | 8RAI 510(k) Premarket Notification Remedy Logic Inc.
+Spinal Canal Transverse Diameter (Axial) 2 mm
+Primary Endpoints Results:
+95%
+95% Confidence Confidence
+Mean Absolute Interval Interval MAE
+Measurement Error (MAE) Lower Bound Upper Bound Limit Success
+Dural Sac Area
+(Axial) 17.2 mm2 16.5 mm2 17.9 mm2 20 mm2 Yes
+Spinal Canal
+Area (Axial) 23.3 mm2 22.3 mm2 24.3 mm2 30 mm2 Yes
+Lordotic Angle
+(Sagittal) 3.4 ° 2,9 ° 3,9 ° 6 ° Yes
+Vertebral Body
+Slippage
+(Sagittal) 0.6 mm 0,5 mm 0,8 mm 2 mm Yes
+Secondary Endpoints Results:
+Anatomical 95% Confidence 95% Confidence
+Structure Mean Dice Interval Interval MDC
+Segmentation Coefficient (MDC) Lower Bound Upper Bound Limit Success
+Artery (Axial) 0.866 0.861 0.871 0.8 Yes
+Disc (Axial) 0.806 0.796 0.815 0.7 Yes
+Disc (Sagittal) 0.914 0.910 0.918 0.7 Yes
+Disc Material
+Outside IV
+Space (Axial) 0.803 0.793 0.812 0.7 Yes
+Dural Sac
+(Axial) 0.926 0.924 0.929 0.8 Yes
+Kidney (Axial) 0.879 0.872 0.886 0.8 Yes
+Ligamentum
+Flavum (Axial) 0.740 0.736 0.744 0.7 Yes
+Muscle (Axial) 0.946 0.945 0.947 0.8 Yes
+Sacrum
+(Sagittal) 0.925 0.923 0.928 0.8 Yes
+Spinal Canal
+(Axial) 0.942 0.941 0.944 0.8 Yes
+Spinal Canal
+(Sagittal) 0.871 0.865 0.877 0.8 Yes
+Vein (Axial) 0.821 0.815 0.827 0.8 Yes
+Vertebral Arch 0.846 0.843 0.850 0.8 Yes
+P a g e | 9RAI 510(k) Premarket Notification Remedy Logic Inc.
+(Axial)
+Vertebral Body
+(Sagittal) 0.900 0.894 0.905 0.8 Yes
+95% confidence 95% confidence
+Mean Absolute interval interval MAE
+Measurement Error (MAE) Lower bound Upper bound limit Success
+Anterior Disc
+Height (Sagittal) 1.3 mm 1.18 mm 1.32 mm 2 mm Yes
+Anterior
+Vertebral Body
+Height (Sagittal) 1.6 mm 1.48 mm 1.81 mm 2 mm Yes
+Dural Sac
+Anterior-
+Posterior
+Diameter
+(Axial) 1.49 mm 1.46 mm 1.52 mm 2 mm Yes
+Dural Sac
+Transverse
+Diameter
+(Axial) 1.15 mm 1.09 mm 1.22 mm 2 mm Yes
+Middle Disc
+Height (Sagittal) 1 mm 0.95 mm 1.04 mm 2 mm Yes
+Middle
+Vertebral Body
+Height (Sagittal) 1.3 mm 1.21 mm 1.33 mm 2 mm Yes
+Posterior Disc
+Height (Sagittal) 1 mm 0.95 mm 1.07 mm 2 mm Yes
+Posterior
+Vertebral Body
+Height (Sagittal) 1.6 mm 1.44 mm 1.72 mm 2 mm Yes
+Spinal Canal
+Anterior-
+Posterior
+Diameter
+(Axial) 0.81 mm 1.78 mm 0.83 mm 2 mm Yes
+Spinal Canal
+Transverse
+Diameter
+(Axial) 1.74 mm 1.64 mm 1.85 mm 2 mm Yes
+The RAI software was shown to produce segmentations and measurements accurate to within a
+prospectively-defined margin of error around the Ground Truth. This accuracy was preserved for all
+critical subgroups, including MRI scanner manufacturer, patient age, gender and race, except for the
+dural sac area measurement from MR studies conducted using Philips MR equipment and for patients in
+over 51 year-old age group.
+P a g e | 10RAI 510(k) Premarket Notification Remedy Logic Inc.
+Training, Testing and Validation Data Independence:
+The RAI software machine learning algorithm training and testing data used during the algorithm
+development, as well as validation data used in the U.S. standalone software performance assessment
+study were all independent data sets.
+7.6. Clinical Validation Study
+No human clinical study was conducted to support the pre-market clearance.
+8. Conclusions
+The RemedyLogic AI MRI Lumbar Spine Reader (“RAI”) software is as safe and effective as the predicate
+device. The subject device has the same intended uses and similar indications, technological characteristics,
+and principles of operation as its predicate device. The minor differences between subject and predicate
+device in indications do not alter the intended use of the device and do not raise new or different questions
+regarding its safety and effectiveness when used as labeled.
+The software verification and validation testing data, including the standalone software performance
+assessment study data, support the safety of the devices and demonstrate that the RAI software performs as
+intended in the specified use conditions.
+Therefore, the RAI software is substantially equivalent.
+P a g e | 11

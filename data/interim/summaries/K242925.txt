@@ -1,0 +1,551 @@
+April 1, 2025
+GE Healthcare
+Allena Holzworth
+Regulatory Affairs Leader
+500 W. Monroe Street
+Chicago, Illinois 60661
+Re: K242925
+Trade/Device Name: MR Contour DL
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QKB
+Dated: February 27, 2025
+Received: February 27, 2025
+Dear Allena Holzworth:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.05
+Silver Spring, MD 20993
+www.fda.govK242925 - Allena Holzworth Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. SeeK242925 - Allena Holzworth Page 3
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological
+Imaging and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K242925
+I
+Device Name
+I MR Contour DL
+Indications for Use (Describe)
+MR Contour DL generates a Radiotherapy Structure Set (RTSS) DICOM with segmented organs at
+risk which can be used by trained medical professionals. It is intended to aid in radiation therapy
+planning by generating initial contours to accelerate workflow for radiation therapy planning. It is the
+responsibility of the user to verify the processed output contours and user-defined labels for each
+organ at risk and correct the contours/labels as needed. MR Contour DL is intended to be used with
+images acquired on MR scanners, in adult patients.
+Type of Use (Select one or both, as applicable)
+ZPrescription ]
+Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."K242925
+GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+510(k) SUMMARY
+This 510(k) summary of Safety and Effectiveness information is submitted in accordance with the
+requirement of 21 CFR Part 807.92:
+Date: February 19, 2025
+GE HealthCare
+Submitter:
+500 W. Monroe Street
+Chicago, IL 60661
+Allena Holzworth
+Primary Contact:
+Regulatory Affairs Leader
+GE HealthCare
+Phone: +1 (414) 208-5162
+Email: allena.holzworth@gehealthcare.com
+Secondary Contacts: Michelle Huettner
+Director Regulatory Affairs
+GE HealthCare
+Phone: +1 (901) 558-8035
+Email: michelle.huettner@gehealthcare.com
+Subject Device Name: MR Contour DL
+Device Classification Class II
+Regulation Number: 21 CFR 892.2050 Medical image management and processing system
+Product Code: QKB
+Predicate Device Information
+Device Name: Auto Segmentation
+Manufacturer: GE Medical Systems, LLC
+510(k) Number: K230082
+Regulation Number: 21 CFR 892.2050 Medical image management and processing system
+Product Code: QKB
+Reference Device 1 Information
+Device Name: AutoContour Model RADAC V2
+Manufacturer: Radformation, Inc.
+510(k) Number: K220598
+Regulation Number: 21 CFR 892.2050 Medical image management and processing system
+Produce Code: QKB
+Page 1 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+Reference Device 2 Information
+Device Name: Contour ProtégéAI
+Manufacturer: MIM Software Inc.
+510(k) Number: K213976
+Regulation Number: 21 CFR 892.2050 Medical image management and processing system
+Product Code: QKB
+Device Description
+MR Contour DL is a post processing application intended to assist a clinician by generating contours of organ
+at risk (OAR) from MR images in the form of a DICOM Radiotherapy Structure Set (RTSS) series. MR Contour
+DL is designed to automatically contour the organs in the head/neck, and in the pelvis for Radiation Therapy
+(RT) planning of adult cases. The output of the MR Contour DL is intended to be used by radiotherapy (RT)
+practitioners after review and editing, if necessary, and confirming the accuracy of the contours for use in
+radiation therapy planning.
+MR Contour DL uses customizable input parameters that define RTSS description, RTSS labeling, organ
+naming and coloring. MR Contour DL does not have a user interface of its own and can be integrated with
+other software and hardware platforms. MR Contour DL has the capability to transfer the input and output
+series to the customer desired DICOM destination(s) for review.
+MR Contour DL uses deep learning segmentation algorithms that have been designed and trained specifically
+for the task of generating organ at risk contours from MR images. MR Contour DL is designed to contour 37
+different organs or structures using the deep learning algorithms in the application processing workflow.
+The input of the application is MR DICOM images in adult patients acquired from compatible MR scanners.
+In the user-configured profile, the user has the flexibility to choose both the covered anatomy of input scan
+and the specific organs for segmentation. The proposed device has been tested on GE HealthCare MR data.
+Intended Use
+MR Contour DL is intended to be used as a workflow tool for initial anatomy segmentation of organs at risk on MR
+images as an aid in radiation therapy planning after user confirmation.
+Indications for Use
+MR Contour DL generates a Radiotherapy Structure Set (RTSS) DICOM with segmented organs at risk which can be
+used by trained medical professionals. It is intended to aid in radiation therapy planning by generating initial
+contours to accelerate workflow for radiation therapy planning. It is the responsibility of the user to verify the
+processed output contours and user-defined labels for each organ at risk and correct the contours/labels as
+needed. MR Contour DL is intended to be used with images acquired on MR scanners, in adult patients.
+Technology:
+The proposed device, MR Contour DL, employs similar fundamental scientific technology as its predicate
+device. Both the proposed device and the predicate device use deep learning algorithms to segment organs
+at risk.
+Page 2 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+Comparisons
+MR Contour DL software is substantially equivalent to the predicate device, Auto Segmentation
+(K230082). The proposed device is based on the same fundamental technology as the predicate device
+using deep learning algorithms for organ at risk segmentation. The comparisons of the intended use,
+indications for use, and devices technical characteristics demonstrate that the proposed device, MR
+Contour DL, is as safe and effective and substantially equivalent to that of the predicate device. MR
+Contour DL did not introduce any new questions of safety and effectiveness.
+The tables below summarize the substantive feature/technological similarities and differences between
+the proposed device, predicate device and reference devices.
+Table 1: Comparison of Intended Use between Proposed Device and Predicate Device
+Items Proposed MR Contour DL Predicate: Auto Comparison
+Segmentation (K230082)
+Intended Use MR Contour DL is intended Auto Segmentation is Both the proposed device and the
+to be used as a workflow intended to be used as a predicate device are intended to be
+tool for initial anatomy workflow tool for initial used as a workflow tool for initial
+segmentation of organs at anatomy segmentation of anatomy segmentation of organs at risk
+organs at risk on CT images
+risk on MR images as an aid as an aid in radiation therapy planning
+as an aid in radiation
+in radiation therapy after user confirmation. The proposed
+therapy planning after
+planning after user device is intended for post-processing
+user confirmation.
+confirmation. MR images, whereas the predicate is
+intended for post-processing of CT
+images. All features and performance of
+the proposed device have been verified
+and validated per GE HealthCare’s
+quality system. No safety and
+effectiveness issues were raised. In
+addition, the performance testing
+conducted on MR Contour DL
+successfully demonstrate the devices
+performance, particularly the anatomy
+segmentation of organs at risk on MR
+images. The intended use of the
+proposed device falls within the general
+intended use of the predicate device
+and do not create a new Intended Use.
+Table 2: Comparison of Indications for Use between Proposed Device and Predicate Device
+Items Proposed MR Contour DL Predicate: Auto Comparison
+Segmentation (K230082)
+Indications MR Contour DL generates a Auto Segmentation Substantially Equivalent – Both the
+for Use Radiotherapy Structure Set generates a Radiotherapy proposed device and the predicate
+(RTSS) DICOM with Structure Set (RTSS) device are indicated to generate a
+segmented organs at risk DICOM with segmented Radiotherapy Structure Set (RTSS)
+which can be used by organs at risk which can DICOM with segmented organs at risk.
+be used by dosimetrists,
+trained medical Both the proposed device and the
+medical physicists, and
+professionals. It is intended predicate device are:
+radiation oncologists as
+to aid in radiation therapy • Used by trained medical
+Page 3 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+Items Proposed MR Contour DL Predicate: Auto Comparison
+Segmentation (K230082)
+planning by generating initial contours to professionals, including the
+initial contours to accelerate workflow for professions listed by the
+accelerate workflow for radiation therapy predicate device.
+radiation therapy planning. planning. It is the • Intended to aid in radiation
+It is the responsibility of responsibility of the user therapy planning by generating
+to verify the processed
+the user to verify the initial contours to accelerate
+output contours and user-
+processed output contours workflow for radiation therapy
+defined labels for each
+and user-defined labels for planning.
+organ at risk and correct
+each organ at risk and
+the contours/labels as
+correct the contours/labels • Declare that it is the
+needed. Auto
+as needed. MR Contour DL responsibility of the user to
+Segmentation may be
+is intended to be used with verify the processed output
+used with images acquired
+images acquired on MR contours and user-defined
+on CT scanners, in adult
+scanners, in adult patients. patients. labels for each organ at risk and
+to correct the contours/labels
+as needed.
+MR Contour DL is intended to be used
+with images acquired on MR scanners in
+adult patients while the predicate
+device is intended to be used on images
+acquired on CT scanners in adult
+patients.
+All features and performance of the
+proposed device have been verified and
+validated per GEHC’s quality system. No
+safety and effectiveness issues were
+raised. Additionally, the testing
+performed on MR Contour DL
+demonstrates the devices performance,
+particularly the anatomy segmentation
+of organs at risk on MR images. The
+indications for use for the proposed
+device is substantially equivalent to that
+of the predicate.
+Table 3: Comparison of technical characteristics between proposed device, predicate device, and reference
+devices
+Items Proposed MR Predicate: Reference 1: Reference 2: Comparison
+Contour DL Auto AutoContour Contour
+Segmentation Model RADAC ProtégéAI
+(K230082) V2 (K220598) (K213976)
+Product QKB QKB QKB QKB Identical
+Code
+Patient Adult only Adult only Adult only Adult only Identical
+Population
+Page 4 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+Items Proposed MR Predicate: Reference 1: Reference 2: Comparison
+Contour DL Auto AutoContour Contour
+Segmentation Model RADAC ProtégéAI
+(K230082) V2 (K220598) (K213976)
+Intended Radiologists, Radiation Medical Trained Substantially Equivalent – both the
+Users Radiation Oncologists, Professionals Medical proposed device and the predicate
+oncologists, Dosimetrists, who do Professionals device are intended for trained
+Dosimetrists, and Medical radiation medical professionals in the
+and Medical Physicists therapy radiation oncology field
+Physicists treatment
+planning
+Algorithm Deep Learning Deep Learning Machine Machine Substantially Equivalent – both the
+Learning/Dee Learning proposed device and the predicate
+p Learning device contain deep learning auto
+segmentation algorithms
+Compatible MR images CT images CT images and CT images and Substantially Equivalent – While the
+Modality MR images MR images predicate device is only intended to
+segment CT Images, both reference
+devices are intended to segment
+both CT and MR images. Reference 1
+uses DICOM-compliant image data
+(CT or MR) to automatically contour
+various structures of interest for RT
+planning. Reference device 2 is
+intended to assist in the automated
+processing of digital medical images
+of modalities CT and MR to create
+contours using machine learning
+algorithms. The proposed device
+aligns with the performance of
+commercially available products on
+the market, specifically Reference
+Devices 1 and 2.
+OAR Head/neck Head/neck Head/neck Head/neck Substantially Equivalent – Both the
+Segmentati Pelvis Thorax Thorax Prostate predicate and proposed device cover
+on Abdomen Abdomen Thorax the Head/neck and Pelvis regions.
+Anatomic Pelvis pelvis Abdomen
+Regions Lungs and
+Liver
+Workflow Automated Automated Manual and Automated Identical
+Automated
+User Automated Automated Contains both Designed for Identical
+Interface execution of execution of an automated use in the
+the software the software processing processing of
+with no user with no user component, medical
+interaction, interaction, Data images and
+Visualization,
+other than other than operates on
+and Graphical
+configuration configuration Windows,
+User Interface
+settings. settings. Mac, and
+Generated Generated Linux
+Page 5 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+Items Proposed MR Predicate: Reference 1: Reference 2: Comparison
+Contour DL Auto AutoContour Contour
+Segmentation Model RADAC ProtégéAI
+(K230082) V2 (K220598) (K213976)
+contours are contours are computer
+automatically automatically systems.
+transmitted to transmitted to Deployed on a
+review review remote server
+workstation(s) workstation(s) using the
+supporting supporting MIMcloud
+RTSS objects RTSS objects service for
+for review and for review and data
+editing, as editing, as management
+needed. needed. and transfer;
+or locally on
+the
+workstation or
+server running
+MIM software.
+Compatible Compatible No limitation No limitation No limitation Substantially Equivalent – The
+Scanner on MR on scanner on scanner on scanner proposed device is compatible with
+Models Scanners, model, model, model, MR scanner models and DICOM
+DICOM DICOM DICOM DICOM compliance is required. The
+compliance compliance compliance compliance proposed device has only been
+required. required. required required tested on GEHC data. If a non-GEHC
+MR image is sent to MR Contour DL,
+a notice message will display after
+contouring.
+The predicate device has no
+limitation on scanner models and
+DICOM compliance is also required.
+This difference does not raise any
+new safety or effectiveness
+concerns.
+Deployment Server-based Server-based Cloud and Cloud-based Identical – Both the proposed
+Platform deployment deployment server-based deployment device and the predicate device
+deployment and locally are deployed on Edison HealthLink
+deployed (or (EHL), GE Healthcare’s
+installed) computational platform providing
+hosting infrastructure and services.
+Page 6 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+Determination of Substantial Equivalence
+Summary of Non-Clinical Testing
+MR Contour DL has successfully completed the design control testing per GE HealthCare’s quality system.
+It was designed under the Quality System Regulations of 21CFR 820 and ISO 13485. No new questions of
+safety and effectiveness and no unexpected test results were observed.
+The following quality assurance measures have been applied to the development of the system:
+• Requirement Definition
+• Risk Analysis and Control
+• Technical Design Reviews
+• Formal Design Reviews
+• Software Development Lifecycle
+• Safety Testing (Verification)
+• Performance Testing (Verification, Validation)
+• Software Release
+MR Contour DL has been successfully verified. The testing and results did not raise any new concerns of
+safety and effectiveness. Software documentation provided is for Enhanced Documentation.
+The bench testing assessed the performance of MR Contour DL using the DICE score as a primary metric
+by comparing the segmentation accuracy of the proposed device to that of the predicate and reference
+devices for supported organs at risk. The MR Contour DL algorithm’s capability was validated using a
+database of 105 retrospectively collected exams with a total of 1350 MR Contour DL generated contours
+for head/neck and 510 MR Contour DL generated contours for pelvis that were compared to ground truth
+contours generated by qualified radiotherapy practitioners. The result of the algorithm bench testing
+showed that MR Contour DL performs as expected.
+The test data included (23 head/neck, 32 pelvis) cases from data cohorts which were collected
+independently from the development data and cases (27 head/neck, 23 pelvis) which were separated
+from the development data cohorts before the models were trained. Therefore in total test data included
+50 head/neck and 55 pelvis cases.
+Table 4 demonstrates the performance metrics (DSC, HD95) measured with ground-truth (see column
+ground-truth). The acceptance criterion was defined with DSC for each individual organ, based on the size
+of the organ (small 50%, medium 65%, large 80%). The HD95 metric was compared to the predicate device
+by evaluating the Lower Bound (LBCI95) and Upper Bound (UBCI95) of the 95% Confidence Interval
+against the mean HD95 of the predicate device for each organ. MR Contour DL’s performance was
+considered improved from the predicate if UBCI95 was less than the HD95 mean of the predicate device,
+and performance was considered equivalent to the predicate if the HD95 mean of the predicate device
+was between LBCI95 and UBCI95. In summary, MR Contour DL had an improved or equivalent HD95 value
+in 24/28 of the organs analyzed and an average HD95 performance of 4.7 mm, which is smaller than the
+average corresponding HD95 values of the predicate device (for the Hausdorff Distance metric a smaller
+HD95 value signifies better segmentation). Therefore, the performance of the proposed device is
+substantially equivalent to that of the cleared predicate device.
+Page 7 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+The evaluation for ground-truth involved 50 head/neck cases (of 50 subjects). The test data was collected
+from USA (72%) and European (NL, 28%) clinical sites, acquired with GEHC (76%) and other MR scanners,
+using standard 2-dimensional T2 (FRFSE, TSE) imaging protocol. The test data was collected from male
+(64%) and female subjects (36%), with average age 58.9 years (SD 14.2) and weight 78.2kg (SD 16.3). The
+test data included healthy subjects (42%) and patients (58%) with different types of Squamous Cell
+Carcinoma (Oropharynx, Hypopharynx, Larynx, Salivary gland).
+The evaluation with ground-truth involved 55 pelvis cases of (55 subjects). The test data was collected
+from USA (58%) and UK (42%) clinical sites, acquired with GEHC (100%) MR scanners, using standard 3-
+dimensional T2 CUBE imaging protocol. The test data was collected from male (81%) and female (19%)
+subjects, with average age 64.4 years (SD 13.1) and weight 82.3kg (SD 20.0). The test data included
+healthy subject (31%) and patients (69%) with different types of pelvis cancer (prostate, rectal, anal).
+Ground-truth was created following: 1) manual contour was delineated by GEHC operators trained using
+international guidelines (DAHANCA, RTOG), 2) manual contours were revised (corrected and approved)
+by three (2 USA, 1 EUR) board certified radiation oncologists, 3) all (3) independently validated ground-
+truth contours were incorporated in the performance evaluation. The test set and the ground-truth were
+stored separately form the development data.
+The performance was evaluated on the whole test set, as well as on the following 6 sub-cohorts: 1) region
+(USA, Europe), 2) subject (patient, healthy), and 3) gender (male, female). The mean DSC accuracy
+(incorporating all 37 organs) was 81.1% for all, 81.3% for male, 83.4% for female, 82.7% for USA, 80.4%
+for Europe, 81.6% for patient, and 80.5% for healthy cases, which demonstrate the overall model
+performance was similar in all sub-cohorts.
+Summary of Clinical Testing
+A reader study evaluation was conducted using a database of sample clinical MR images to demonstrate
+that the contours generated by the MR Contour DL application are adequate for radiotherapy planning
+use. Each contour used in the evaluation was generated using the MR Contour DL application, and
+reviewed by three qualified radiotherapy practitioners, who provided an assessment of the adequacy of
+the subject device generated contours. The readers completed their assessments independently and
+were blinded to the results of the other readers’ assessments. The results of the algorithm clinical testing
+shows that the MR Contour DL generated organ contours are adequate for use in radiotherapy planning.
+Table 4 demonstrates the performance metric (Likert score) measured in the clinical testing (see column
+Reader-study). The predefined acceptance criterion was the mean Likert Score for each organ shall be
+greater than or equal to 3.0, with the following interpretation of the Likert Score: 1 – unacceptable
+(recontouring is needed), 2 – poor (significant correction is needed), 3 – good (some correction is needed),
+4 – very good (minor correction is needed), 5 – excellent (no correction is needed).
+The clinical testing was performed on a subset of the data used for non-clinical (bench) testing. The 30
+head/neck and 40 pelvis cases were randomly selected from the original set of 50 head/neck and 55 pelvis
+cases by ensuring that all clinical sites, scan types, and subject cohorts are represented in the test set.
+The clinical testing was performed as follows: 1) The auto-contour was generated with MR Contour DL for
+the selected test cases, 2) the auto-contours were reviewed and scored by three (2 USA, 1 Europe)
+certified radiation oncologists and, 3) all (3) independently provided Likert Scores were incorporated in
+the performance evaluation.
+Page 8 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+Table 4: Performance metrics for all organs (L – left, R – right, G – glottic, SG – supraglottic, PCM-
+Pharyngeal Constrictor Muscle, DSC – DICE Similarity Coefficient, HD95 – 95th percentile Hausdorff
+Distance).
+Ground-truth Reader-study
+DSC Likert
+Anatomy Number DSC HD95 HD95 value Number
+Organ Acceptance score
+region of cases MEAN MEAN compared of cases
+criteria MEAN
+to predicate
+device
+bladder pelvis 53 80% 92.4% 4.7 Improved 40 3.7
+bowel-bag pelvis 40 80% 90.3% 13.3 N/A 40 3.3
+brainstem head/neck 50 65% 94.3% 2.1 Improved 30 4.0
+chiasm head/neck 50 50% 72.7% 2.5 Improved 30 3.5
+eye-L head/neck 50 65% 95.5% 1.4 Improved 30 4.3
+eye-R head/neck 50 65% 95.4% 1.4 Improved 30 4.3
+femoral-head-L pelvis 53 80% 93.7% 4.5 Not-Improved 40 4.2
+femoral-head-R pelvis 51 80% 93.5% 5.3 Not-Improved 40 4.1
+head-body head/neck 50 80% 99.3% 1.6 Improved 30 3.8
+inner-ear-L head/neck 50 50% 88.4% 1.4 N/A 30 4.5
+inner-ear-R head/neck 50 50% 88.3% 1.3 N/A 30 4.4
+lacrimal-L head/neck 50 50% 67.4% 4.2 Equivalent 30 4.0
+lacrimal-R head/neck 50 50% 65.6% 4.4 Equivalent 30 4.0
+larynx-G head/neck 49 50% 67.1% 3.9 N/A 30 3.5
+larynx-SG head/neck 50 65% 85.3% 4.9 N/A 30 3.8
+lens-L head/neck 50 50% 86.7% 1.2 Improved 30 4.4
+lens-R head/neck 50 50% 86.1% 1.3 Improved 30 4.5
+mandible head/neck 50 65% 89.8% 2.8 Equivalent 30 3.6
+optic-nerve-L head/neck 50 50% 73.4% 2.9 Equivalent 30 3.7
+optic-nerve-R head/neck 50 50% 72.3% 2.6 Improved 30 3.7
+oral-cavity head/neck 50 65% 92.5% 3.7 Improved 30 3.7
+parotid-L head/neck 50 65% 85.9% 4.9 Improved 30 3.8
+parotid-R head/neck 50 65% 84.6% 6.0 Improved 30 3.7
+PCM-inf head/neck 44 50% 53.6% 7.0 Not-Improved 30 3.5
+PCM-mid head/neck 50 50% 60.1% 6.1 Equivalent 30 3.8
+PCM-sup head/neck 50 50% 57.6% 6.8 Improved 30 3.4
+pelvis-body pelvis 50 80% 97.5% 10.0 Not-Improved 40 4.1
+penile-bulb pelvis 39 50% 67.5% 7.3 N/A 30 3.3
+pituitary head/neck 50 50% 73.7% 2.5 Equivalent 30 3.6
+prostate pelvis 43 65% 83.0% 5.6 Equivalent 30 3.0
+rectum pelvis 53 65% 79.6% 19.8 N/A 40 3.6
+seminal-vesicles pelvis 43 65% 69.2% 7.3 N/A 30 3.3
+spinal-cord head/neck 50 65% 90.3% 2.2 Improved 30 4.1
+submandibular-L head/neck 49 65% 86.4% 3.4 Equivalent 30 3.9
+submandibular-R head/neck 49 65% 85.4% 3.3 Equivalent 30 3.9
+urethra pelvis 43 50% 35.8% 9.5 N/A 30 3.4
+whole-brain head/neck 50 80% 98.8% 1.8 Improved 30 3.7
+Page 9 of 10GE HealthCare
+510(k) Premarket Notification Submission – MR Contour DL
+Substantial Equivalence Conclusion
+MR Contour DL and the predicate device have substantially equivalent indications for use, and represent
+equivalent technological characteristics, including the use of deep learning algorithms.
+MR Contour DL was developed under GE HealthCare’s quality system. Design verification and validation,
+along with bench testing and the clinical reader study provided in this submission demonstrate that the MR
+Contour DL software is substantially equivalent and, hence, as safe and effective as the legally marketed
+predicate device. GE HealthCare’s quality system design, verification, and risk management processes did
+not identify any unexpected results or new questions of safety and effectiveness.
+GE HealthCare believes that MR Contour DL is substantially equivalent to the predicate device and, hence,
+is safe and effective for its intended use.
+Page 10 of 10

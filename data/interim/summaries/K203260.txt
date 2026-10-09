@@ -1,0 +1,207 @@
+Siemens Medical Solutions USA, Inc.
+℅ Tabitha Estes
+Regulatory Affairs Specialist
+810 Innovation Drive
+KNOXVILLE TN 37932
+January 28, 2022
+Re: K203260
+Trade/Device Name: syngo.CT Brain Hemorrhage
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: December 15, 2021
+Received: December 17, 2021
+Dear Tabitha Estes:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.31
+Silver Spring, MD 20993
+www.fda.govK203260 - Tabitha Estes Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureG0001510(K) SUMMARY
+FOR
+SYNGO.CT BRAIN HEMORRHAGE
+K203260
+Date Prepared: January 26th, 2022
+Identification of the Submitter
+Importer/Distributor
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19355
+Establishment Registration Number
+2240869
+Manufacturing Site
+Siemens Healthcare GmbH
+Siemensstr 1
+D-91301 Forchheim, Germany
+Establishment Registration Number
+3004977335
+Submitter Contact Person:
+Tabitha Estes
+Regulatory Affairs Specialist
+Siemens Medical Solutions, Inc. USA
+810 Innovation Drive
+Knoxville, TN 37932
+Phone: (865) 804-4553
+Email: tabitha.estes@siemens-healthineers.com
+Alternate Contact:
+Alaine Medio
+I. Device Name and Classification
+Product Name: syngo.CT Brain Hemorrhage
+Propriety Trade Name: syngo.CT Brain Hemorrhage
+Classification Name: Radiological Computer-Assisted Triage and Notification Software
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.2080
+Device Class: Class II
+Product Code: QASII. Predicate Device
+Trade Name: Accipiolx
+510(k) Number: K182177
+Clearance Date: 07/26/2019
+Classification Name: Radiological Computer-Assisted Triage and Notification Software
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.2080
+Device Class: Class II
+Product Code: QAS
+III. Device Description
+The subject device syngo.CT Brain Hemorrhage is an image processing software that utilizes artificial
+intelligence learning algorithms to support qualified clinicians in analysis and prioritization of non-
+contrast head CT DICOM images by algorithmically identifying findings suspicious of acute intracranial
+hemorrhage. The subject device provides a pipeline for the analysis and identification of potential ICH
+as well as a finding notification mechanism.
+IV. Indications for Use
+syngo.CT Brain Hemorrhage is designed to assist the radiologist in prioritizing cases of suspected
+intracranial hemorrhage on non-contrast CT examinations of the head. It makes case-level output
+available to a CT scanner or other PACS system for worklist prioritization. The output is intended for
+informational purposes only and is not intended for diagnostic use. The device does not alter the original
+medical image and is not intended to be used as a stand-alone diagnostic device.
+V. Comparison of Technological Characteristics with the Predicate Device
+The differences and similarities between the above referenced predicate device are listed at a high-level
+in the following table:
+Feature Subject Device Predicate Device Comparison
+Table
+syngo.CT Brain Hemorrhage MaxQ-AI AccipioIx
+Notification-only, parallel Yes Yes Same
+workflow tool
+Intended User Hospital networks and qualified Hospital networks and qualified Same
+clinicians clinicians
+Setting Acute Care Acute Care Same
+Identify patients with a Yes Yes Same
+prespecified clinical
+condition
+Clinical condition Intracranial hemorrhage Intracranial hemorrhage Same
+Alert to finding Yes; flagged for review Yes; flagged for review Same
+Independent of standard Yes; No cases are removed from Yes; No cases are removed from Same
+of care workflow worklist worklist
+Modality Non-contrast CT Non-contrast CT Same
+Body Part Head Head Same
+Artificial Intelligence Yes Yes Same
+algorithm
+Limited to analysis of Yes Yes Same
+imaging dataFeature Subject Device Predicate Device Comparison
+Table
+syngo.CT Brain Hemorrhage MaxQ-AI AccipioIx
+Output Suspected hemorrhage / No suspected Suspected hemorrhage / No suspected Same
+hemorrhage hemorrhage
+The subject device syngo.CT Brain Hemorrhage does not have changes in fundamental scientific
+technology compared to the predicate device. The post-processing software functionality remains
+unchanged from the subject device and the predicate device. The operating principle and the scientific
+technology are the same; therefore, Siemens believes that syngo.CT Brain Hemorrhage application is
+substantially equivalent to the predicate device.
+VI. Performance Data
+The following performance data were provided in support of the substantial equivalence determination.
+Non-Clinical Testing
+Non-clinical tests (integration and functional) were conducted for syngo.CT Brain Hemorrhage during
+product development. These tests have been performed to test the ability of the included features of the
+subject device. The results of these tests demonstrate that the subject device performs as intended. The
+results of all conducted testing were found acceptable to support the claim of substantial equivalence.
+Performance Evaluation of the Algorithm
+The performance of the syngo.CT Brain Hemorrhage device has been validated in a retrospective stand-
+alone performance study. Sensitivity and specificity of syngo.CT Brain Hemorrhage in processing of
+non-contrast head CT have been analyzed by comparison to a ground truth established by majority read
+of 3 US board certified neuroradiologists with more than 10 years of experience. The data cohort
+consisted of 600 anonymized head CT cases from 5 sites in US and Europe with approximately equal
+distribution of positive (case with ICH) and negative (case without ICH) cases.
+Sensitivity was observed to be 92.8% (95% CI: 89.3%-95.2%). Specificity was observed to be 94.5%
+(95% CI: 91.3%-96.5%). Thus, sensitivity and specificity exceeded the 80% performance goal.
+The average per-case processing time was 13.67 seconds (95% CI: 7.48-19.86 seconds). This is
+comparable to the predicate device.
+To conclude, syngo.CT Brain Hemorrhage is a safe and effective triage and notification device for
+intracranial hemorrhages which is substantially equivalent to the predicate device.
+Siemens hereby certifies that syngo.CT Brain Hemorrhage will meet the following voluntary standards
+covering electrical and mechanical safety listed below, prior to introduction into interstate commerce:
+Standards
+Recognition Product Date of
+Title of Standard Development
+Number Area Recognition
+Organization
+Digital Imaging and Communications in
+12-300 Radiology 06/27/2016 NEMA
+Medicine (DICOM) Set; PS 3.1 – 3.20
+Medical Device Software –Software Life Cycle AAMI, ANSI,
+13-79 Software 01/14/2019
+Processes; 62304:2006 (1st Edition) IEC
+Medical devices – Application of risk
+Software/
+5-40 management to medical devices; 14971 Second 06/27/2016 ISO
+Informatics
+Edition 2007-03-01
+Medical devices - Part 1: Application of
+General I
+5-114 usability engineering to medical devices 12/23/2016 IEC
+(QS/RM)
+IEC 62366-1:2015VII. Conclusion
+syngo.CT Brain Hemorrhage has the same intended use and similar indication for use as the predicate
+device. The result of all testing conducted was found acceptable to support the claim of substantial
+equivalence. The comparison of technological characteristics, clinical and non-clinical performance
+data, and software validation demonstrates that the subject device is as safe and effective when compared
+to the predicate device that is currently marketed for the same intended use. Siemens considers syngo.CT
+Brain Hemorrhage to be as safe, as effective and with performance substantially equivalent to the
+commercially available predicate device.

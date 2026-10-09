@@ -1,0 +1,201 @@
+January 14, 2022
+Carestream Health, Inc.
+℅ Gina Maiolo
+Regulatory Affairs Manager
+150 Verona St
+ROCHESTER NY 14608
+Re: K213307
+Trade/Device Name: Eclipse II with Smart Noise Cancellation
+Regulation Number: 21 CFR 892.1680
+Regulation Name: Stationary x-ray system
+Regulatory Class: Class II
+Product Code: MQB
+Dated: December 10, 2021
+Received: December 13, 2021
+Dear Gina Maiolo:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.26
+Silver Spring, MD 20993
+www.fda.govK213307 - Gina Maiolo Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Laurel Burk
+Assistant Director
+Diagnostic X-ray Systems Team
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary K213307
+510(k) Owner Name Carestream Health, Inc.
+510(k) Owner Address 150 Verona Street
+Rochester, New York 14608
+510(k) Owner Contact Information Gina Maiolo
+Regulatory Affairs Manager
+Phone (Work) 585.627.6543
+Phone (Mobile) 516.395.0597
+Date Summary Prepared Sept 30 2021
+Device Trade Name Eclipse II with Smart Noise Cancellation
+Device Common Name Solid State X-Ray Imager
+Classification Name Stationary X-ray system
+Device Class Class II
+Device Code MQB
+Regulation Number 21 CFR 892.1680
+Predicate Device Eclipse II 510(k) K202441
+Indications for Use
+"The software performs digital enhancement of a radiographic image generated by an x-ray device. The software
+can be used to process adult and pediatric x-ray images. This excludes mammography applications.”
+Device Description
+Eclipse software runs inside the ImageView product application software (not considered stand-alone software).
+Smart Noise Cancellation is an optional feature (module) that enhances projection radiography acquisitions
+captured from digital radiography imaging receptors (Computed Radiography (CR) and Digital Radiography
+(DR). Eclipse II with Smart Noise Cancellation supports the Carestream DRX family of detectors which includes
+all CR and DR detectors.
+The Smart Noise Cancellation module consists of a Convolutional Neural Network (CNN) trained using clinical
+images with added simulated noise to represent reduced signal-to-noise acquisitions.
+Eclipse II with Smart Noise Cancellation incorporates enhanced noise reduction prior to executing Eclipse image
+processing software. The software has the capability to lower dose up to 50% when processed through the Eclipse
+II software with SNC, resulting in improved image quality. A 50% dose reduction for CsI panel images and 40%
+Page 1 of 4dose reduction for GOS panel images when processed with Eclipse II and SNC results in image quality as good
+as or better than nominal dose images
+Technological Characteristics
+The technological characteristics of the Eclipse II with Smart Noise Cancellation remain the same.
+Reference the Comparison Table for a summary of changes.
+Eclipse II software enhances projection radiography acquisitions captured from digital radiography imaging
+receptors (Computed Radiography (CR) and Digital Radiography (DR) which is the same as the predicate software
+K202441. The software was modified to include the support for Smart Noise Cancellation. This Smart Noise
+Cancellation module consists of a Convolutional Neural Network (CNN), trained using clinical images with added
+simulated noise to represent reduced signal-to-noise acquisitions. The main difference between the modified and
+predicate device is the Smart Noise Cancellation module only. The comparison chart below demonstrates the
+similarities to further support that the overall image processing architecture is the same between predicate and
+modified.
+• Both the predicate and modified device is software designed for the enhancement of the raw images
+captured from the digital flat panel detectors (detectors have obtained separate clearances). The
+enhancement image processing intends to present an image with proper image quality attributes
+(brightness, latitude, overall contrast and detail, sharpness, and noise appearance) for the purpose of
+helping radiologists and physicians to make a diagnosis (same as the predicate).
+• The difference in the modified software is the implementation of noise suppression prior to enhancement
+processing. The Smart Noise Cancellation operation passes the acquired preprocessed image through a
+specially trained Convolutional Neural Network (CNN) based on a U-Net architecture to generate a 2D
+map of the estimated noise found in the image, identified in the document as a “Noise Field.” This
+change does not raise new questions regarding safety and effectiveness.
+Risks were assessed in accordance to ISO 14971 and evaluated and reduced as far as possible with risk
+mitigations and mitigation evidence.
+• The modifications to the ImageView software, (acquisition software for digital radiography systems) has
+been modified to enable/disable the Eclipse II with Smart Noise Cancellation. These user interface
+changes are described in detail in the Substantial Equivalence discussion and do not introduce new risks
+or raise new questions pertaining to safety and effectiveness.
+• The difference in image processing paths between the predicate and modified device demonstrate that the
+noise level in images processed thru the modified software (Eclipse II with Smart Noise Cancellation) is
+greatly reduced when compared with the image processed thru the predicate software, Eclipse II.
+Page 2 of 4Summary of Non-Clinical Testing
+No additional non-clinical testing was required to demonstrate substantial equivalence between the predicate
+device labeling and the modified labeling.
+Summary of Clinical Testing
+A concurrence study was performed by board certified radiologists in accordance with FDA “Guidance for
+the Submission of 510(k)s for Solid State X-ray Imaging Devices" and Carestream standard procedure for
+concurrence studies and Carestream standard procedure for concurrence studies.
+The images were evaluated using a 5-point visual difference preference scale (-2 to +2) tied to diagnostic
+confidence. Additionally, the overall diagnostic capability of each image was evaluated using the 4-point
+RadLex scale. The statistical test results and graphical summaries demonstrate that the software delivers
+diagnostic quality images at 50% dose reduction for CsI panel images and 40% dose reduction for GOS panel
+reduced radiation doses that are equivalent to or exceed the quality of nominal dose images over a range of
+exams, detector types and exposure levels.
+Conclusion of Testing
+Clinical testing validates the modifications to the device description.
+A comparison chart provides similarities and differences between the modified and predicate device.
+Predicate Subject Device
+(K202441)
+Trade Name Eclipse II with Smart Noise Cancellation
+same
+Manufacturer Carestream Health same
+Indications for Use "The software performs digital enhancement of a
+adiographic image generated by an x-ray device.
+The software can be used to process adult and same
+pediatric x-ray images. This excludes
+mammography applications."
+Grid Suppression Removes grid frequencies from the image.
+same
+Image Segmentation Image analysis that identifies the anatomy of
+interest by detecting direct exposure and
+same
+collimator blades.
+Page 3 of 4Recognition Optional tech assist features on chest exams that
+provide auto-orientation (head-up), identify
+same
+clipped lung bases and provide a CNR image
+quality metric.
+Parameter Prediction Automatic determination of rendering parameters
+based upon features extracted from histograms of
+same
+the image in support of (4) to (10) frequency
+bands.
+Enhanced Noise Yes
+same
+Reduction Support
+Eclipse software runs inside the ImageView
+Device Description
+product application software (not considered
+stand-alone software). Smart Noise Cancellation is
+an optional feature (module) that enhances
+projection radiography acquisitions captured from
+digital radiography imaging receptors (Computed
+Radiography (CR) and Digital Radiography (DR).
+Eclipse II with Smart Noise Cancellation supports
+the Carestream DRX family of detectors which
+Addition:
+includes all CR and DR detectors.
+The software has the capability to lower
+The Smart Noise Cancellation module consists of
+dose up to 50% when processed
+a Convolutional Neural Network (CNN) trained
+through Eclipse II SNC, resulting in
+using clinical images with added simulated noise
+improved image quality. A 50% dose
+to represent reduced signal-to-noise acquisitions.
+reduction for CsI panel images and 40%
+Eclipse II with Smart Noise Cancellation dose reduction for GOS panel images
+incorporates enhanced noise reduction prior to when processed with Eclipse II and
+executing Eclipse image processing software. SNC results in image quality as good as
+or better than nominal dose images
+Page 4 of 4

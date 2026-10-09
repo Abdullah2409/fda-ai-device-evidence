@@ -1,0 +1,312 @@
+December 3, 2021
+Fifth Eye Inc.
+℅ Donna-Bea Tillman
+Senior Consultant
+Biologics Consulting Group
+1555 King Street, Suite 300
+Alexandria, Virginia 22314
+Re: K212219
+Trade/Device Name: AHI System
+Regulation Number: 21 CFR 870.2220
+Regulation Name: Adjunctive hemodynamic indicator with decision point
+Regulatory Class: Class II
+Product Code: QNV, QNL
+Dated: November 3, 2021
+Received: November 4, 2021
+Dear Donna-Bea Tillman:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK212219 - Donna-Bea Tillman Page 2
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+LCDR Stephen Browning
+Assistant Director
+Division of Cardiac Electrophysiology,
+Diagnostics, and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary K212219 Page 1 of 7
+In accordance with 21 CFR 807.87(h) and 21 CFR 807.92 the 510(k) Summary for the AHI
+System is provided below.
+1. SUBMITTER
+Applicant: Fifth Eye Inc.
+110 Miller Avenue, Suite 300
+Ann Arbor, MI 48104
+Contact: Jen Baird
+Chief Executive Officer
+Fifth Eye Inc.
+734.260.4800
+jbaird@fiftheye.com
+Submission Correspondent: Donna-Bea Tillman, Ph.D.
+Senior Consultant
+Biologics Consulting
+1555 King St, Suite 300
+Alexandria, VA 22314
+410.531.6542
+dtillman@biologicsconsulting.com
+Date Prepared: November 2, 2021
+2. DEVICE
+Device Trade Name: AHI System
+Device Common Name: Hemodynamic Indicator
+Classification Name 21 CFR 870.2220 Adjunctive Hemodynamic
+Indicator with Decision Point
+Regulatory Class: II
+Primary Product Code: QNV
+Subsequent Product Code: QNL
+3. PREDICATE DEVICE
+Predicate Device: Analytic for Hemodynamic Instability (AHI) - DEN200022
+Secondary Predicate Device: CLEWICU System (ClewICUServer And ClewICUnitor) –
+K200717510(k) Summary K212219 Page 2 of 7
+4. DEVICE DESCRIPTION
+The AHI System is a multiparameter system designed to meet clinicians’ need to identify patient
+hemodynamic status and predict patient hemodynamic instability episodes using two analytics:
+1. Analytic for Hemodynamic Instability (AHI) (as granted in DEN200022): Utilizing data
+from a single existing lead of a non-invasive electrocardiograph (ECG), AHI analyzes heart rate
+variability (HRV) and ECG morphology features to rapidly detect signs of hemodynamic
+stability or instability and categorize each window of data as either “AHI Stable” or “AHI
+Unstable.” Time trending of AHI outputs is also provided.
+2. Analytic for Hemodynamic Instability Predictive Indicator (AHI-PI): Utilizing AHI outputs
+from up to the most recent 30 minutes of ECG data, AHI-PI indicates the likelihood of a future
+episode of hemodynamic instability, defined as ten continuous minutes or more where signs of
+hemodynamic instability are present.
+5. INTENDED USE/INDICATIONS FOR USE
+The AHI System is intended for use by healthcare professionals managing patients 18 years or
+older who are receiving continuous physiological monitoring with electrocardiography (ECG) in
+hospitals.
+AHI provides a frequently updated binary output over time based on pattern analysis of a lead-II
+ECG waveform intended to describe a patient's hemodynamic status and indicate if a patient is
+showing signs of hemodynamic stability or instability. Signs of hemodynamic instability (HI) are
+defined as hypotension (systolic blood pressure <90 mmHg or mean arterial pressure (MAP) <70
+mmHg) combined with tachycardia (heart rate ≥ 100 bpm).
+AHI-PI provides the clinician with physiological insight into a patient’s likelihood of a future
+episode of HI. An episode of HI is defined as 10 continuous minutes or more where HI is
+present.
+The goal of this adjunctive monitoring method is to enable identification of patients who are
+showing HI or are likely to experience a future episode of HI, and to allow clinicians an
+opportunity to increase vigilance. This device is intended for adjunctive use with other physical
+vital sign parameters and patient information and is not intended to independently direct therapy.
+6. SUBSTANTIAL EQUIVALENCE
+Comparison of Indications
+The subject device and both of the predicate devices are all software decision support systems
+that receive patient data, process it, and display calculated insights into patient hemodynamic and
+cardiovascular status to support meaningful clinical decisions.
+The subject and both predicate devices are all prescription devices intended for use by healthcare
+professionals. They are intended for use in adult patients 18 years and older and are intended for
+adjunctive use with other monitoring and patient information and are not intended to510(k) Summary K212219 Page 3 of 7
+independently direct therapy. The subject device and primary predicate device are both intended
+for use on patients in hospitalized settings who are receiving continuous physiological
+monitoring with electrocardiography (ECG). The subject device and secondary predicate device
+both are intended to provide physiological insight into a patient’s likelihood of future
+hemodynamic instability.
+Technological Comparisons
+The table below compares the key technological feature of the subject devices to the predicate
+devices.
+Table 1: Technological Comparison
+AHI System Primary Predicate Secondary Predicate
+510(k) DEN200022 K200717
+Number
+Applicant Fifth Eye Inc. Fifth Eye Inc. CLEW Medical Ltd.
+Device Name AHI System Analytic for CLEWICU System
+Hemodynamic Instability (ClewICUServer And
+(AHI) ClewICUnitor)
+Classification 860.2220. Adjunctive 860.2220. Adjunctive 870.2210. Medium-Term
+Regulation Hemodynamic Indicator Hemodynamic Indicator Adjunctive Predictive
+With Decision Point With Decision Point Cardiovascular Indicator
+870.2210. Medium-Term
+Adjunctive Predictive
+Cardiovascular Indicator
+Product QNV, QNL QNV QNL
+Code
+Type of Software-as-a-medical- Software-as-a-medical- Software-as-a-medical-
+Device device device device
+Timing of Near-real-time patient Near-real-time patient Near-real-time patient
+Analytic health data health data health data
+Inputs
+Analytic Inputs are based on signals Inputs are based on signals Inputs are based on signals
+Inputs received from FDA- received from FDA- received from FDA-
+cleared patient monitoring cleared patient monitoring cleared patient monitoring
+systems, specifically: systems, specifically: systems and other values
+For AHI: ECG-II ECG-II stored in the electronic
+health record (EHR)
+For AHI-PI: AHI Outputs
+system, specifically:
+Up to 80 EHR inputs
+including vital signs,
+nursing assessments,510(k) Summary K212219 Page 4 of 7
+AHI System Primary Predicate Secondary Predicate
+flowsheet data,
+medications, and lab data
+Technical Uses analysis of patient Uses pattern analysis of Combines patient data
+Method data (ECG-II) to detect patient data (ECG-II) to collected from patient
+current signs of a detect current signs of a monitors and/or electronic
+hemodynamic condition hemodynamic condition health records to produce a
+(AHI) and combines single value that estimates
+patient data from patient the likelihood of a future
+monitors to produce a adverse cardiovascular
+single value (AHI-PI) that event or condition using
+estimates the likelihood of two models, a high risk
+a future adverse model and a low risk
+cardiovascular event or model.
+condition from a single
+model mathematically
+derived from AHI inputs.
+Analytic AHI: A frequently updated AHI: A frequently updated Single CLEWICU
+Outputs binary output over time binary output over time indicator that estimates the
+likelihood of a future
+AHI-PI: A single indicator adverse cardiovascular
+that estimates the event (hemodynamic
+likelihood of a future instability)
+adverse cardiovascular
+event (hemodynamic
+instability episode)
+Visual Alerts AHI: Signs of AHI: Signs of CLEWICU: Risk of
+hemodynamic status hemodynamic status hemodynamic instability
+provided by red and green provided by red and green provided by red, yellow,
+color-coded indicators color-coded indicators and green color-coded
+indicators
+AHI-PI: Risk of future
+hemodynamic episode
+provided by red, yellow,
+and green color-coded
+indicators
+In conclusion, the differences in the intended use and technological characteristics do not raise
+new questions of safety and effectiveness. Based on the detailed comparison between the
+predicate devices and the subject device, the performance testing, and conformance with
+applicable standards, the AHI System can be found substantially equivalent to the predicate
+devices.510(k) Summary K212219 Page 5 of 7
+7. PERFORMANCE DATA
+Biocompatibility Testing
+The AHI System is a software only device. There are no direct or indirect patient-contacting
+components of the subject device; therefore, patient contact information is not needed for this
+device.
+Electrical safety and electromagnetic compatibility (EMC)
+Not applicable. The AHI System is a software-only device. It contains no electric components,
+generates no electrical emissions, and uses no electrical energy of any type.
+Software Verification and Validation Testing
+Software verification and validation testing were conducted and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this
+device was considered as a moderate level of concern. Testing was conducted to ensure the AHI
+System works as designed.
+Bench Testing
+Fifth Eye conducted a summative usability study according to the FDA’s guidance on Applying
+Human Factors and Usability Engineering to Medical Devices. Fifth Eye recruited 30 users to
+participate in the study. The results of the human factors validation study were positive and
+demonstrated that mitigations addressing use-related risk made during device development were
+effective.
+Animal Testing
+Not applicable. Animal studies are not necessary to establish the substantial equivalence of this
+device.
+Clinical Data
+The clinical data to support AHI was provided in DEN200022. There have been no changes to
+AHI since that submission.
+To validate that AHI-PI predicts a patient’s likelihood of a future hemodynamic instability
+episode, defined as 10 continuous minutes or more where signs of hemodynamic instability are
+present, we compared AHI-PI outputs to episodes of hemodynamic instability as observed using
+a hemodynamic vital signs reference standard – Hypotension (systolic blood pressure <90mmHg
+or mean arterial pressure (MAP) <70 mmHg) combined with tachycardia (heart rate ≥100 bpm).
+The targeted patient population for the AHI System is hospitalized patients 18 years or older who
+are receiving continuous physiological monitoring with electrocardiography (ECG) and are not
+contraindicated. While ideally the clinical study would reflect the full spectrum of levels of care
+for ECG-monitored patients, study design considerations required limiting the primary study
+population to only patients who were invasively monitored with an arterial line. Therefore,510(k) Summary K212219 Page 6 of 7
+beginning at the study start date, data were prospectively collected from consecutive patients in
+equipped beds (those that could store continuous measures of ECG, arterial line numeric data,
+and other vital signs) at Michigan Medicine.
+As requested by FDA, and using bootstrapping to account for multiple measurements per
+subject, Fifth Eye has demonstrated that AHI-PI can distinguish the risk of developing
+hemodynamic instability for patients in different risk groups, i.e., those that are at low risk
+(green), moderate risk (yellow), and high risk (red).
+Table 2: Probability estimates of the occurrence of an episode of hemodynamic instability in
+the prediction window for each of the AHI-PI indicators (Study Population).
+AHI-PI Indicator Windows in Probability of an Episode of Likelihood Ratio
+Primary Analysis Hemodynamic Instability in
+Set (total 65,969 the next 1 hour measured
+windows) n (%) using continuous vital signs [1]
+[2] (Observed [95% confidence
+interval])
+AHI-PI Low Risk N/A
+Indicator 43,443 0.7%
+(Green) (65.8%) [0.4%, 1.3%]
+AHI-PI Moderate Risk An AHI-PI Moderate Risk
+Indicator (Yellow) indication is 9x more likely to
+4,999 6.5% have an episode of
+(7.6%) [3.7%, 10.3%] hemodynamic instability in the
+next 1 hour than an AHI-PI
+Low Risk Indicator.
+AHI-PI High Risk An AHI-PI High Risk
+Indicator (Red) indication is 51x more likely
+17,527 35.9% to have an episode of
+(26.6%) [28.1%, 44.0%] hemodynamic instability in the
+next 1 hour than an AHI-PI
+Low Risk Indicator.
+[1]The unit of analysis here is at the windows level and not the patient level.
+[2]Windows included in the analysis total 65,969 to ensure that a full one hour is available for each AHI-PI in order to determine
+whether an episode of hemodynamic instability is present or not.
+As seen in Table 2, with the prevalence of 10.5% seen in the Primary Analysis Set population
+using the continuous vital signs reference standard, the probability of an episode of
+hemodynamic instability in the next 1 hour measured using continuous vital signs was 0.7%,
+6.5%, and 35.9% for green, yellow, and red AHI-PI indicators respectively. An AHI-PI High
+Risk (red) indication is 51 times more likely and an AHI-PI Moderate Risk (yellow) indication is
+9 times more likely to have an episode of hemodynamic instability in the next hour as compared
+to an AHI-PI Low Risk (green) indication. Thus, the risk predication and likelihood performance
+data show significant discrimination between the risk of future hemodynamic instability events
+between the different AHI-PI indications, demonstrating a clinical benefit by providing510(k) Summary K212219 Page 7 of 7
+adjunctive information to the clinician to facilitate fewer missed diagnoses of emerging
+hemodynamic instability/patient deterioration.
+The other relevant metric is lead time. Of those patients who had an episode of hemodynamic
+instability, AHI-PI High Risk predicted patient deterioration in 89% of cases. The median lead
+time was calculated as 48 minutes. Although this lead time is less that the 3 hours reported for
+CLEWICU, it still provides an advance warning to clinicians that the patient is at risk of future
+hemodynamic instability. The differences in the performance do not impact the safety or
+effectiveness, as neither device is intended to be the sole factor upon which a patient’s clinical
+care is based.
+8. CONCLUSION
+The subject AHI System and the predicate devices have equivalent intended uses. The
+differences in technological characteristics do not raise different questions of safety and
+effectiveness, and the results of software verification, human factors and clinical validation
+demonstrate that the subject device performs in accordance with specifications and meets user
+needs and intended uses. Therefore, the AHI System has been demonstrated to be substantially
+equivalent to the predicate devices.

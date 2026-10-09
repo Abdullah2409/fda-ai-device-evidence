@@ -1,0 +1,363 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+COGNOA ASD DIAGNOSIS AID
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Pediatric Autism Spectrum Disorder diagnosis aid. A pediatric Autism Spectrum
+Disorder diagnosis aid is a prescription device that is intended for use as an aid in the
+diagnosis of Autism Spectrum Disorder in pediatric patients.
+NEW REGULATION NUMBER: 21 CFR 882.1491
+CLASSIFICATION: Class II
+PRODUCT CODE: QPF
+BACKGROUND
+DEVICE NAME: Cognoa ASD Diagnosis Aid
+SUBMISSION NUMBER: DEN200069
+DATE DE NOVO RECEIVED: November 3, 2020
+SPONSOR INFORMATION:
+Cognoa, Inc.
+2185 Park Blvd.
+Palo Alto, California 94306
+INDICATIONS FOR USE
+The Cognoa ASD Diagnosis Aid is intended for use by healthcare providers as an aid in the
+diagnosis of Autism Spectrum Disorder (ASD) for patients ages 18 months through 72 months
+who are at risk for developmental delay based on concerns of a parent, caregiver, or healthcare
+provider.
+The device is not intended for use as a stand-alone diagnostic device but as an adjunct to the
+diagnostic process.
+LIMITATIONS
+The sale, distribution, and use of the device are restricted to prescription use in
+accordance with 21 CFR 801.109.The device is not intended for use as a stand-alone diagnostic device but as an adjunct to
+the diagnostic process.
+The device is intended for use in conjunction with patient history, clinical observations,
+and other clinical evidence the healthcare provider determines are necessary before
+making clinical decisions. For instance, additional standardized testing may be sought to
+confirm the device output, especially when the device result is not Positive or Negative
+for ASD.
+The device may give unreliable results if used in patients with other conditions that
+would have excluded them from the clinical study. Among those conditions are the
+following:
+• Suspected auditory or visual hallucinations or with prior diagnosis of childhood
+onset schizophrenia.
+• Known deafness or blindness.
+• Known physical impairment affecting their ability to use their hands.
+• Major dysmorphic features or prenatal exposure to teratogens such as fetal
+alcohol syndrome.
+• History or diagnosis of genetic conditions (such as Rett’s syndrome or fragile X).
+• Microcephaly.
+• History or prior diagnosis of epilepsy or seizures.
+• History of or suspected neglect.
+• History of brain defect injury or insult requiring interventions such as surgery or
+chronic medication.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The Cognoa ASD Diagnosis Aid is a software as a medical device (SaMD) that utilizes a
+machine-learning algorithm that receives independent information from caregivers or parents,
+trained analysts, and healthcare professionals (HCPs) to aid in the diagnosis of ASD. It consists
+of multiple software applications and hardware platforms. Input data is acquired via a Mobile
+App, a Video Analyst Portal, and a HCP Portal.
+• Mobile App: User interface (UI) for the caregiver or parent to upload videos of the
+patient via Wi-Fi connection and answer questions about key developmental behaviors.
+Interfaces with Application Programming Interface (API) server for transmission and
+management of patient data. Compatible with both iOS (versions 12 and 13) and Android
+platforms (versions 9 and 10).
+• Video Analyst Portal: UI for trained analysts to review uploaded patient videos
+remotely and answer questions about the patients’ behaviors observed in the videos.
+De Novo Summary (DEN200069) Page 2 of 10• HCP Portal: UI for the HCP to answer questions about key developmental behaviors for
+the patient’s age group, view device output and access the interactive dashboard to view
+all patient results, patient videos, answers to questionnaires administered and device
+performance data. Compatible with computer operating systems macOS (Catalina or
+Mojave) and Windows 10, and browsers Safari (versions 12 or 13) and Chrome (versions
+84 or 85).
+Following analysis of the input data, the Cognoa ASD Dia•gn osis Aid machine-learning
+algorithm produces a single scalar value between ■ (b) (4) and (b) (4) which is then compared to preset
+thresholds to determine the classification. If the value is greater than the upper threshold, then
+the device output is ‘Positive for ASD.’ If the value is less than the lower threshold, then the
+device output is ‘Negative for ASD.’ If the available information does not allow the algorithm to
+render a reliable result, the device output is ‘No Result.’
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+The Cognoa ASD Diagnosis Aid is a SaMD implemented on a general purpose computing
+platform. Non-clinical or bench testing was generally not needed to evaluate the hardware that
+the software is intended to be run on. Software documentation and a usability assessment were
+both provided to demonstrate the safety and effectiveness of the device.
+SOFTWARE/CYBERSECURITY
+Software verification and validation testing and documentation was provided according
+to a MODERATE level of concern and FDA’s guidance document, “Guidance for the
+Content of Premarket Submissions for Software Contained in Medical Devices” (May 11,
+2005), to demonstrate that the device software performs as intended. Adequate
+documentation describing the software, firmware, software specifications, architecture
+design, software development environment, traceability, revision level history, and
+unresolved anomalies conclude that the software will operate in the manner described in
+the specifications. Hazard analysis characterized software and cybersecurity risks,
+including device malfunction, measurement-related errors, protection of patient data
+when stored or in transit (including data encryption), and unauthorized access by
+malicious end users. The submission describes verification and validation testing to
+address the potential hazards with satisfactory results. The device algorithm was provided
+describing how the data are collected and analyzed by the underlying model that is
+applied to produce the final device outputs.
+Regarding the cybersecurity, the documentation included all the recommended
+information from the FDA guidance document, “Content of Premarket Submissions for
+Management of Cybersecurity in Medical Devices.” This includes a threat model,
+cybersecurity mitigation information, an upgrade and maintenance plan, and other
+information for safeguarding the device algorithms.
+HUMAN FACTORS-USABILITY
+An observational, simulated use study was performed in order to evaluate HCP
+completion of critical tasks associated with use of the HCP Portal component of the
+De Novo Summary (DEN200069) Page 3 of 10I(b) ( 4)
+Cognoa ASD Diagnosis Aid. A total of primary care providers who completed
+residency training in Pediatrics, Medicine/Pediatrics, or Family Practice and who see
+pediatric patients were tested. Participants performed critical tasks across anticipated use
+scenarios, including (1) login per the instructions in the labeling to ensure access to the
+HCP Portal using user-specific account information and ability to locate the indications
+for use, precautions and warnings in the HCP Portal Instructions for Use; (2) ensure
+access to the patient dashboard for viewing patient data, labeling, and HCP Portal log-
+out; (3) ensure completion of the patient questionnaire; and (4) to ensure the patient’s
+results can be viewed and querying how the HCP interpreted the results provided for each
+available device output (Positive for ASD, Negative for ASD, No Result).
+A test moderator facilitated the testing, provided information regarding the test
+procedures beforehand, and asked questions specific to each use scenario
+evaluated. Specific to scenarios testing the use and interpretation of the device outputs,
+participants were asked to access patient records, discuss their clinical interpretation of
+each device output, and discuss how they would proceed with clinical decision making,
+both in the event that the device output affirmed or differed from how the patient
+presented clinically. Following completion of testing, post-evaluation interviews were
+conducted using 10 open-ended, neutrally worded questions to evaluate clinical end user
+perspectives of any use difficulties experienced during the testing.
+Study results indicated that participants were able to complete identified critical tasks
+associated with use of the device. All participants understood and were able to navigate
+the labeling and recite or affirm understanding of the content. All participants were able
+to access patient records, complete the questionnaire and submit responses. All
+participants were able to access and review results, with 100% of participants reporting
+being able to communicate an accurate understanding of each type of device output. In
+response to probative inquiry, all clinical end users were able to communicate adequate
+understanding of use of the device as an aid in diagnosis of ASD and that the device does
+not provide a stand-alone diagnosis.
+SUMMARY OF CLINICAL INFORMATION
+Study Design
+The clinical validation study was a prospective, double-blinded, single-arm study conducted at
+14 sites in the United States [“Cognoa ASD Diagnosis Aid Validation Study”] to evaluate the
+safety and effectiveness of the Cognoa ASD Diagnosis Aid to aid in the diagnosis of ASD, with
+the comparator being the clinical reference standard. Both parents or caregivers and HCPs were
+blinded to the results as provided by the device. Additionally, the parents or caregivers, trained
+video analysts, and HCPs providing inputs to the device algorithm were blinded to data inputs
+provided by each other.
+Clinical Reference Standard
+The clinical reference standard is the determination of clinical diagnosis based on the majority
+assessment of up to three specialists. This involved diagnosis by a site-specific specialist using
+the DSM-5 criteria, followed by validation via independent review by one or two central
+specialist clinicians. After the diagnosing clinician on-site completed the patient assessment, the
+De Novo Summary (DEN200069) Page 4 of 10patient case was reviewed by one central off-site reviewing specialist clinician who was provided
+with the standardized medical history and physical form, and a video of the diagnostic encounter.
+The diagnosing clinician was instructed to not state any diagnostic conclusion, decision on any
+particular component of DSM-5 criteria, or diagnostic observation during the video of the
+assessment. If the assessment of the reviewing specialist clinician agreed with that of the
+diagnosing clinician, the diagnosis was considered validated and no further validation was
+conducted. If the reviewing specialist clinician disagreed with the diagnosing clinician, then the
+case was referred to a second reviewing specialist clinician. Majority rule was used to resolve
+discrepancies between the two central reviewers and the site diagnosing specialist who all
+evaluated the same subjects.
+Inclusion Criteria
+• Caregiver must be able to read, understand and sign the Informed Consent Form (ICF).
+• Caregiver or HCP concern for developmental delay.
+• Female or Male, ≥ 18 to < 72 months of age.
+• Functional English capability in the home environment.
+• Caregiver must have smartphone capabilities for downloading the Cognoa Research App.
+• Participants must be willing to be videotaped as part of the diagnostic assessment by the
+specialist clinician.
+Exclusion Criteria
+• Subjects with a prior diagnosis of ASD rendered by a healthcare professional.
+• Subjects with suspected auditory or visual hallucinations or with prior diagnosis of
+childhood onset schizophrenia.
+• Subjects with deafness or blindness.
+• Subjects with known physical impairments affecting their ability to use their hands.
+• Subjects with major dysmorphic features or prenatal exposure to teratogens (such as fetal
+alcohol syndrome).
+• Subjects with history, suspicion, or diagnosis of genetic conditions (such as Rett’s
+Syndrome or Fragile X).
+• Subjects with microcephaly.
+• Subjects with history or prior diagnosis of epilepsy or seizures.
+• Subjects with a history of neglect.
+• Subjects with a history of brain malformation, injury or insult requiring interventions
+such as surgery or chronic medication.
+• Subjects whose age on the date of enrollment is outside the target age range.
+• Subjects or caregivers who have been previously enrolled in any Cognoa clinical study or
+survey.
+• Subjects whose medical records had been included in any internal Cognoa training or
+validation sets.
+Objectives
+Primary Effectiveness Objective
+De Novo Summary (DEN200069) Page 5 of 10• Achieve a composite of positive predictive value (PPV) greater than 65% and negative
+predictive value (NPV) greater than 85% for the device in relation to the clinical
+reference standard in the overall study population; and
+• Measurement of the proportion of all patients for whom the device provides no result.
+Secondary Effectiveness Objective
+• Evaluate sensitivity of the device in relation to the clinical reference standard in the
+overall study population; and
+• Evaluate specificity of the device in relation to the clinical reference standard in the
+overall study population.
+Safety Objective
+Adverse events (AEs) and serious adverse events (SAEs) were collected and reported from
+enrollment through completion of the reference diagnosis clinic visit.
+Results
+Enrollment: A total of 711 subjects were enrolled who signed the ICF, with 585 subjects having
+completed all inputs to the device assessment. Of these 585 subjects, 425 subjects were
+considered study completers (i.e., subjects who completed both the device assessment as well as
+the specialist assessment per the clinical reference standard) (see Figure 1). The 425 subjects
+who completed all study assessments per protocol was used as the analysis population for the
+assessment of the study endpoints.
+Subj~eor,.,,.mtcd
+lt4=711)
+\.
+I
+,I 1
+-,,,
+s.ubjects who completed all SUbfecls who did not complete
+inp,ut:s to tile Cognaa Device all I puts to the Cognoa Device
+(Nt58'51 ( •126]
+~ ~
+I
+, l J.
+"Swdy compl~ '\ r ~
+.M
+5ul)feicl!i who ,completed all SubJecb who did !IQ! co lete
+'lnpuu to the CQgnoe tie.ice the speda Isl eval uatlon
+<! Dd ~ spe-tli.!~~t e','<!lu.itlQn lrf~L~OI
+(N:425]
+_J
+Figure 1. Study Subject Diagram
+Effectiveness: Of the 425 subjects who completed both the device assessment as well as the
+specialist assessment per the clinical reference standard, the device rendered either a positive or
+negative diagnostic output in 135 subjects (32%). This corresponds to a ‘No Result’ device
+output rate of 68% (64%, 73%).
+Measures of PPV, NPV, sensitivity, and specificity with associated 95% confidence intervals
+were calculated for the subset of patients for whom the device rendered a diagnostic output of
+De Novo Summary (DEN200069) Page 6 of 10'Positive for ASD' or 'Negative for ASD ', resulting in: PPV of 81% (70%, 89%), NPV of 98%
+(91% , 100%), sensitivity of 98% (92%, 100%), and specificity of 79% (68%, 88%) (see Tables 1
+and 2).
+Table 1. Resu Its Companng D ev1 . ce to er 1 m · c a1 Re £erence Stan dard
+Clinical Reference Standard
+ASD Positive ASD Ne!!ative Total
+Cognoa ASD Positive 63 15 78
+Device ASD Ne!!ative 1 56 57
+Output No Response 58 232 290
+Total 122 303 425
+T ab le 2 . St a f1 s f1 ca1 Es fr mat es o fDev1.c e P er£ 0 1mance Observe d m. t.h e St U d ly
+Metric Point Estimate 95% Confidence Interval
+PPV 80.77% (63/78) 70.27% 88.82%
+NPV 98.25% (56/57) 90.61%, 99.96%
+Sensitivity 98.44% (63/64) 91.6% 99.96%
+Specificity 78.87% (56/71) 67.56%, 87.67%
+No Response Rate 68.24% (290/425) 63.58%, 72.64%
+Safety: No adverse events were repo1i ed during the study.
+L ABELING
+The labeling is sufficient and satisfies the requirements of 21 CFR 801.109 for prescription
+devices.
+The labeling includes a detailed description of the device with images and computing
+requirements that must be met by any general computing hardware to run the software device, a
+description of the patient population for which the device is indicated for use, warnings,
+precautions, and instructions for use. The labeling also includes summaiy info1m ation about the
+clinical validation study perfonned with the device. These discussions have been provided in
+both a user manual for physicians and a user manual for patients, parents, and cai·egivers.
+The labeling includes wainings that the device is intended for use by healthcai·e professionals
+tr·ained and qualified to inte1pret the results of a behavioral assessment examination and to
+diagnose ASD, and that it should be used in conjunction with patient histo1y , clinical
+observations, and other clinical evidence the healthcare professional detennines are necessa1y
+before making clinical decisions. For instance, additional standardized testing may be sought to
+confinn the device output, or especially for fmiher evaluation when the device provides 'No
+Result' .
+RISKS TO H EALTH
+The table below identifies the risks to health that may be associated with use of a pediatric
+Autism Spectrum Disorder diagnosis aid and the measures necessa1y to mitigate these risks.
+De Novo Summary (DEN200069) Page 7 of 10Identified Risks to Health Mitigation Measures
+Device failure or incorrect analysis Clinical performance testing
+leading to: Software verification, validation, and hazard analysis
+• False positives resulting in Labeling
+inappropriate patient treatment
+and potentially delayed diagnosis
+of a non-ASD condition
+• False negatives resulting in
+delayed diagnosis and patient
+treatment
+Use error or misinterpretation of results Usability assessment
+resulting in a false positive or false Labeling
+negative
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the pediatric Autism Spectrum
+Disorder diagnosis aid is subject to the following special controls:
+(1) Clinical performance testing must demonstrate that the device performs as intended under
+anticipated conditions of use, including an evaluation of sensitivity, specificity, positive
+predictive value, and negative predictive value using a reference method of diagnosis and
+assessment of patient behavioral symptomology.
+(2) Software verification, validation, and hazard analysis must be provided. Software
+documentation must include a detailed, technical description of the algorithm(s) used to
+generate device output(s), and a cybersecurity assessment of the impact of threats and
+vulnerabilities on device functionality and user(s).
+(3) Usability assessment must demonstrate that the intended user(s) can safely and correctly
+use the device.
+(4) Labeling must include:
+(i) Instructions for use, including a detailed description of the device, compatibility
+information, and information to facilitate clinical interpretation of all device
+outputs;
+(ii) A summary of any clinical testing conducted to demonstrate how the device
+functions as an interpretation of patient behavioral symptomology associated with
+Autism Spectrum Disorder. The summary must include the following:
+(A) A description of each device output and clinical interpretation;
+(B) Any performance measures, including sensitivity, specificity, positive
+predictive value (PPV) and negative predictive value (NPV);
+(C) A description of how the cut-off values used for categorical classification
+of diagnoses were determined; and
+(D) Any expected or observed adverse events and complications.
+De Novo Summary (DEN200069) Page 8 of 10(iii)A statement that the device is not intended for use as a stand-alone diagnostic.
+BENEFIT-RISK DETERMINATION
+The risks of the device are based on software verification and validation, and human factors-
+usability test data, as well as data collected in a clinical study described above.
+The number of patients in the study who received a false negative device output was low (n=1).
+Risks associated with patients who receive a false negative result are mitigated by the device
+labeling, which states that a negative result does not ensure that the patient will not develop ASD
+in the future, and that performance of additional confirmatory assessment or testing among
+individuals with a negative result is at the discretion of the clinician. Similarly, the number of
+patients in the study who received a false positive was moderately low (n=15). Risks associated
+with patients who receive a false positive are mitigated by the device labeling, which reminds
+clinicians to always consider clinical presentation when making a diagnosis for ASD, and that
+such a diagnosis is based upon defined clinical characteristics outlined in the DSM-5.
+Furthermore, since the patients being evaluated by the device are already presenting with
+concerns of potential developmental delay as identified by either their parent, caregiver, or
+healthcare provider, patients who are incorrectly treated for ASD may still receive some benefit
+from these interventions, despite potentially delaying a correct diagnosis.
+The probable benefits of the device are also based on software verification and validation and
+human factors-usability test data, as well as data collected in a clinical study described above.
+Patients with true positive (n=63) or false positive results are likely to benefit from interventions
+for ASD. For true positive cases, getting a definite diagnosis can result in earlier confirmatory
+testing or assessment, in addition to earlier access to intervention. Currently, the average age of
+diagnosis for ASD in the United States is 4.3 years, as compared to 2.8 years observed in the
+pivotal trial of the Cognoa ASD Diagnosis Aid. Earlier confirmation of diagnosis can enable
+ASD patients to gain access to necessary intervention and optimize skill development at an
+earlier point in the neurodevelopmental window. Longitudinally, early intervention between 2
+and 3 years of age has shown to result in positive outcomes upon reaching adulthood.
+For patients who received a device output of ‘No Result’ (68.24% of subjects, or 290/425),
+additional standardized testing is recommended in order to drive clinical decision making. For
+patients who may be included that are ASD positive (n=58 in the study performed), the result
+may drive subsequent standardized testing and appropriate referrals, also in a more expeditious
+manner.
+For the reasons described above, the probable benefits of the Cognoa ASD Diagnosis Aid
+outweigh the probable risks considering the listed special controls and general controls.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+De Novo Summary (DEN200069) Page 9 of 10Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+The Cognoa ASD Diagnosis Aid is intended for use by healthcare providers as an aid in
+the diagnosis of Autism Spectrum Disorder (ASD) for patients ages 18 months through
+72 months who are at risk for developmental delay based on concerns of a parent,
+caregiver, or healthcare provider.
+The device is not intended for use as a stand-alone diagnostic device but as an adjunct to
+the diagnostic process.
+The probable benefits outweigh the probable risks for the Cognoa ASD Diagnosis Aid. The
+device provides benefits and the risks can be mitigated by the use of general controls and the
+identified special controls.
+CONCLUSION
+The De Novo request for the Cognoa ASD Diagnosis Aid is granted and the device is classified
+as follows:
+Product Code: QPF
+Device Type: Pediatric Autism Spectrum Disorder diagnosis aid
+Regulation Number: 21 CFR 882.1491
+Class: II
+De Novo Summary (DEN200069) Page 10 of 10

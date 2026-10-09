@@ -1,0 +1,436 @@
+Envisionit DeepAI Ltd
+℅ Michael Pogose
+Director of Quality Assurance and Regulatory Affairs
+Hardian Ltd t/a Hardian Health
+c/o Galloways, 3rd Floor 21 Perrymount Road
+Haywards Heath, West Sussex RH16 3TP
+United Kingdom
+Re: K231871 January 17, 2024
+Trade/Device Name: Radify® Triage
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: December 19, 2023
+Received: December 19, 2023
+Dear Michael Pogose:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.08
+Silver Spring, MD 20993
+www.fda.govK231871 - Michael Pogose Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEAL TH AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+===============
+IS ubmission Number (if known)
+K231871
+Device Name
+RADIFY® Triage
+I
+Indications for Use (Describe)
+RADIFY® Triage is a radiological computer-assisted triage and notification software that analyzes
+adult chest X-ray images for the presence of pre-specified suspected critical findings (pleural
+effusion and/or pneumothorax).
+RAD I FY® Triage uses an artificial intelligence algorithm to analyze images for features suggestive of
+critical findings and provides case-level output available in the PACS for worklist prioritization or
+triage.
+As a passive notification for prioritization-only software tool within the standard of care workflow,
+RADIFY® Triage does not send a proactive alert directly to the appropriately trained medical
+specialists. The product is not intended to direct attention to specific portions of an image. Its results
+are not intended to be used on a stand-alone basis for clinical decision-making. The device does not
+remove the cases from the queue and does not flag the condition as being absent.
+Type of Use (Select one or both, as applicable)
+D
+IZ] Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+'�n agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."K231871
+510(k) Summary
+K231871
+13th January 2024
+1. SUBMITTER INFORMATION
+Company address:
+Envisionit Deep AI Ltd
+Coveham House,
+Downside Bridge Road,
+Cobham,
+KT11 3 EP,
+United Kingdom
+Contact: Dr Jaishree Naidoo
+Phone: +447440058274
+info@envisionit.ai
+2. DEVICE
+Name of Device: RADIFY® Triage
+Common or Usual name: RADIFY® Triage
+Classification Name: Radiological Computer-Assisted Prioritization Software For Lesions
+Classification Regulation: 21 CFR 892.2080
+Regulatory Class: Class II
+Product Code: QFM
+3. PREDICATE DEVICE
+The Envisionit Deep AI RADIFY® Triage is substantially equivalent to the following devices:
+Primary Predicate:
+Manufacturer Name Lunit Inc
+Device Trade Name Lunit INSIGHT CXR Triage
+510(k) Number K211733
+4. INTENDED USE/INDICATIONS FOR USE
+RADIFY® Triage is a radiological computer-assisted triage and notification software that
+analyzes adult chest X-ray images for the presence of pre-specified suspected critical
+findings (pleural effusion and/or pneumothorax).
+RADIFY® Triage uses an artificial intelligence algorithm to analyze images for features
+suggestive of critical findings and provides case-level output available in the PACS for
+worklist prioritization or triage.As a passive notification for prioritization-only software tool within the standard of care
+workflow, RADIFY® Triage does not send a proactive alert directly to the appropriately
+trained medical specialists. The product is not intended to direct attention to specific
+portions of an image. Its results are not intended to be used on a stand-alone basis for
+clinical decision-making. The device does not remove the cases from the queue and does
+not flag the condition as being absent.
+5. DEVICE DESCRIPTION
+RADIFY® Triage is a radiological computer-assisted prioritization software that utilizes AI-
+based image analysis algorithms to identify pre-specified critical findings (pleural effusion
+and/or pneumothorax) on frontal (AP and PA) views chest X-ray images and flag the images
+in the PACS to enable worklist prioritization by the appropriately trained medical specialists
+who are qualified to interpret chest radiographs. The software does not alter the order or
+remove cases from the reading queue.
+The algorithm was trained on datasets from US and non-USA sources. This training dataset
+consisted of 93.7% of the data from South Africa, and 6.3% of the data from the USA. The
+input for RADIFY® Triage is a frontal chest x-ray (AP and PA view) in digital imaging and
+communications in medicine (DICOM) format.
+Chest X-rays are sent to RADIFY® Triage via PACS (Picture Archiving and Communication
+System (PACS) and processed by the device for analysis. Following receipt of chest x-rays,
+the software device automatically analyses each image to detect features suggestive of
+pneumothorax and/or pleural effusion. Chest x-rays without the suspicious findings are
+placed in the worklist for routine review, which is the standard of care. RADIFY® Triage does
+not provide any proactive alerts and is not intended to direct attention to specific portions
+of the image. The results are not intended to be used on a standalone basis for clinical
+decision-making nor is it intended to rule out the target conditions or otherwise preclude
+clinical assessment of x-ray cases.
+6. COMPARISON OF PREDICATE DEVICES
+RADIFY® Triage and the identified predicate device(s) are software-only devices that use
+Artificial intelligence (AI) algorithms and are intended to aid in triage and prioritization of
+radiological images.
+Both RADIFY® Triage and Lunit Insight (Primary Predicate) have the same principles of
+operation and underlying technological characteristics:
+1. Artificial Intelligence Algorithm(s) – Deep Convolutional Neural Networks (DCNN)
+2. Triage and notification software
+There are no notable technological differences between the subject and the primary
+predicate device. Both Envisionit Deep AI and Lunit INSIGHT CXR Triage analyze chest x-rays
+for the presence of pre-specified target conditions - pleural effusion and pneumothorax.Both devices identify time-sensitive findings and provide passive notification for suspected
+pneumothorax and pleural effusion.
+In terms of establishing substantial equivalence, the subject and predicate device have the
+same intended use, as an image processing tool that triages images for features suggestive
+of critical findings and produces case-level output. The indications for use proposed for the
+subject device are similar to those of the predicate device.
+Comparison of the key features of the subject, and predicate devices is provided in Table 1.Table 1. Summary of Substantial Equivalence to Predicate Device
+Predicate Device Subject Device
+Lunit INSIGHT CXR Triage RADIFY® Triage
+Device Name Lunit INSIGHT CXR Triage RADIFY® Triage
+510 (k) Number K211733 K231871
+Regulation 21 CFR 892.2080 21 CFR 892.2080
+Regulation Description Radiological computer aided Radiological computer aided
+triage and notification triage and notification
+software software
+Product Code QFM QFM
+Device Type Radiological Computer- Radiological Computer-
+Assisted Prioritization Assisted Prioritization
+Software For Lesions Software For Lesions
+Manufacturer Lunit Inc. Envisionit Deep AI
+Intended Use/Indications for Lunit Insight CXR Triage is a RADIFY® Triage is a
+Use radiological computer- radiological computer-
+assisted triage and assisted triage and
+notification software that notification software that
+analyzes adult chest X-ray analyzes adult chest X-ray
+images for the presence of images for the presence of
+pre-specified suspected pre-specified suspected
+critical findings (pleural critical findings (pleural
+effusion and/or effusion and/or
+pneumothorax). Lunit pneumothorax).
+INSIGHT CXR Triage uses an
+artificial intelligence RADIFY® Triage uses an
+algorithm to artificial intelligence
+analyze images for features algorithm to analyze images
+suggestive of critical findings for features suggestive of
+and critical findings and provides
+provides case-level output case-level output available
+available in the PACS for worklist
+in the PACS/workstation for prioritization or triage.
+worklist prioritization or
+triage. As a passive notification for
+prioritization-only software
+As a passive notification for tool within the standard of
+prioritization-only software care workflow, RADIFY®Predicate Device Subject Device
+Lunit INSIGHT CXR Triage RADIFY® Triage
+tool within standard of care Triage does not send a
+workflow, Lunit INSIGHT proactive alert directly to
+CXR Triage does not send a the appropriately trained
+proactive alert directly to medical specialists. The
+the appropriately trained product is not intended to
+medical specialists. Lunit direct attention to specific
+INSIGHT CXR Triage is not portions of an image. Its
+intended to direct attention results are not intended to
+to specific portions of an be used on a stand-alone
+image or to anomalies other basis for clinical decision-
+than pleural effusion and/or making. The device does not
+pneumothorax. Its results remove the cases from the
+are not intended to be used queue and does not flag the
+on a stand-alone basis for condition as being absent.
+clinical decision-making.
+Intended User Appropriately trained Appropriately trained
+medical specialists who are medical specialists who are
+qualified to interpret chest qualified to interpret chest
+radiographs. radiographs.
+Modality Chest X-ray Chest X-ray
+Target Clinical Conditions Pleural effusion, Pleural effusion,
+Pneumothorax on Pneumothorax on
+Chest/Lung Frontal Chest X- Chest/Lung Frontal Chest X-
+ray ray
+Algorithm for pre-specified AI algorithm designed to AI algorithm designed to
+critical findings detection detect pleural effusion and detect pleural effusion and
+pneumothorax in chest X- pneumothorax in chest X-
+ray images. Lunit INSIGHT ray images. RADIFY® Triage
+CXR Triage uses a vendor uses a vendor agnostic
+agnostic algorithm algorithm compatible with
+compatible with DICOM DICOM chest Xray images
+chest Xray images
+Notification only/Parallel Yes Yes
+workflow
+Input format DICOM DICOM
+Device output in case of When deployed on other When deployed on other
+positive detection radiological imaging radiological imagingPredicate Device Subject Device
+Lunit INSIGHT CXR Triage RADIFY® Triage
+equipment, Lunit INSIGHT equipment, RADIFY® Triage
+CXR Triage automatically automatically runs after
+runs after image acquisition image acquisition and
+and prioritizes and displays prioritizes and displays the
+the analysis result through analysis result through the
+the worklist interface of worklist interface of PACS.
+PACS/workstation. No
+markup on original image. No markup on original
+Secondary capture of the image. Secondary capture of
+finding. Upon image the finding.
+acquisition from other
+radiological imaging
+equipment (e.g. X-ray
+systems), an on-device,
+technologist notification
+indicating which cases were
+flagged by Lunit INSIGHT
+CXR Triage in PACS, is
+generated. The on device
+notification is contextual
+and does not provide any
+diagnostic information. It is
+not intended to inform any
+clinical decision,
+prioritization, or action to
+the technologist
+Notification (i.e., recipient, Passive notification. Images Passive notification. Images
+timing and means of with suspicion of pleural with suspicion of pleural
+notification) effusion and/or effusion and/or
+pneumothorax are flagged pneumothorax are flagged
+in PACS/workstation. in PACS/workstation.
+Where generated results PACS/Workstation PACS/Workstation
+(i.e., DICOM files) are stored
+Performance level – Timing The average time taken for The average time taken for
+of notification the notification to travel the notification to travel
+from the Lunit INSIGHT CXR from the RADIFY® Triage to
+Triage to the point at which the point at which the result
+the result is displayed in the is displayed in the
+destination PACS/RIS/EPR destination PACS/RIS/EPR
+worklist is 14.66 seconds. worklist is 3 seconds.Predicate Device Subject Device
+Lunit INSIGHT CXR Triage RADIFY® Triage
+Performance level – Pleural Effusion Pleural Effusion
+accuracy of classification
+ROC AUC > 0.95 ROC AUC > 0.95
+AUC: 0.9686 (95% CI: AUC: 97.61 (95% CI: [97.36,
+[0.9547, 0.9824]) 97.86])
+Sensitivity 89.86% (95% CI: Sensitivity 94.39% (95% CI:
+[86.72, 93.00]) [93.26, 95.51])
+Specificity 93.48% (95% CI: Specificity 96.42% (95% CI:
+[91.06, 95.91]) [95.29, 98.00])
+Pneumothorax Pneumothorax
+ROC AUC > 0.95 ROC AUC > 0.95
+AUC: 0.9630 (95% CI: AUC: 97.43 (95% CI: [97.12,
+[0.9521, 0.9739]) 97.74])
+Sensitivity 88.92% (95% CI: Sensitivity 94.81% (95% CI:
+[85.60, 92.24]) [93.90, 95.73])
+Specificity 90.51% (95% CI: Specificity 97.91% (95% CI:
+[88.18, 92.83]) [97.00, 98.83])
+7. TESTING
+Software
+Software verification and validation testing were conducted, and documentation was
+provided as recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the
+Content of Premarket Submissions for Software Contained in Medical Devices.” The
+software documentation level for this device is Basic Documentation.
+Performance Testing - Clinical
+The performance of RADIFY® Triage was validated by clinical tests. All the safety parameters
+of the device were verified in accordance with the software specifications and applicable
+performance standards and met the acceptance criteria (Device shows > 95% AUC) (passed),
+demonstrating that the software fulfils all its requirement specifications.
+Clinical studies were conducted on retrospectively collected Chest X-rays to evaluate the
+performance of RADIFY® Triage for triaging of pneumothorax and pleural effusion. There
+was total independence between the training and test dataset with a new study of unseen
+images from an independent dataset from 2 sites in the US being used to present the
+performance testing results as follows.
+PneumothoraxThe study dataset included a total of 1229 scans (270 scans with pneumothorax and 959
+scans without pneumothorax) from various parts of the US.
+The dataset was obtained from three hospitals across the US in order to generate evidence
+on the device function in various subgroups. A data collection protocol was set in place to
+ensure that there were sufficient numbers of important subgroups. The protocol specifies
+the inclusion and exclusion criteria and the expected numbers of cases and controls to be
+included.
+The dataset consisted of 670 males and 559 females. The cases were aged from 22 years to
+above 85 years. To assess safety and performance of RADIFY® Triage device, a total of 1229
+images were obtained from a large urban hospital in New York City and 3 different private
+clinics in urban and suburban areas in Texas state, in order to generate evidence on the
+device function in various subgroups. The dataset consisted of clinical confounders that
+included cardiomegaly, consolidation, infiltrates, opacities, and nodules. The dataset was
+also obtained from various X-ray device manufacturers to ensure consistent performance.
+The algorithm was trained on training data from across the world, consisting of 93.9% of the
+data from South Africa and 6.1% of the data from the USA.
+The external validation test set was obtained from sites that were different from the
+training data sites and therefore this ensured the independence of the test data from
+training data.
+The ground truth was established by 3 board-certified ABR (USA) radiologists with a
+minimum of 11 years of experience.
+The AUC of the device in triaging scans with findings suspicious of pneumothorax exceeded
+the acceptance criteria with AUC: 97.43 (95% CI: [97.12, 97.74]), Sensitivity 94.81% (95% CI:
+[93.90, 95.73]) and Specificity 97.91% (95% CI: [97.00, 98.83]).
+The predicate Lunit INSIGHT CXR Triage’s performance was ROC AUC 96.30 (95% CI: 95.21 -
+97.39), Sensitivity 88.92% (95% CI: 85.60 - 92.24) and Specificity 90.51% (95% CI: 88.18 -
+92.83).
+The device’s generalizability was ensured by performing subgroup analyses. The results for
+pneumothorax were consistent in both genders and the AUC was 97.23 (96.83, 97.64),
+Sensitivity 95.45, 95% (CI 94.17, 96.74) and Specificity 97.57, 95% CI (96.28, 98.86) in male,
+and AUC 97.52 (97.03, 98.02), Sensitivity 93.62, 95% CI (92.32, 94.91), and Specificity 98.28,
+95% CI (96.98, 99.57) in female.
+The device’s results were also found to be consistent in a wide range of ages: with AUC of
+97.95 95% CI (97.26, 98.64) in the 22-44 age group, 98.70 95% CI (98.30, 99.10) in the 45-64
+age group, 96.72 95% CI (96.18, 97.26) in the 65-84 age group and 95.64 95% CI (94.41,
+96.87) in the 85 or greater age group. The device’s results were also consistent across image
+acquisition devices.
+In the 88 scans that had both pleural effusion and pneumothorax co-existing, performance
+accuracy of detecting Pneumothorax was maintained at: AUC of 96.36% (95% CI [95.78,
+96.93]).Pleural Effusion
+The study dataset included a total 1229 scans (392 scans with pleural effusion and 837 scans
+without pleural effusion) from a large urban hospital in New York City and 3 different
+private clinics in urban and suburban areas in Texas state. A data collection protocol was set
+in place to ensure that there were sufficient numbers of important subgroups. There were
+559 scans from females and 670 from males. The ages ranged from 22 years to greater than
+85 years.
+The ground truth was established by 3 board-certified ABR (USA) radiologists with a
+minimum of 11 years of experience.
+The AUC of the device in triaging scans with findings suspicious of pleural effusion exceeded
+the acceptance criteria with AUC: 97.61 (95% CI: [97.36, 97.86]), Sensitivity 94.39% (95% CI:
+[93.26, 95.51]) and Specificity 96.42% (95% CI: [95.29, 98.00]).
+The predicate, Lunit INSIGHT CXR Triage, reported a performance of ROC AUC 0.9686 (95%
+CI: 0.9547 - 0.9824), sensitivity 89.86% (95% CI: 86.72 - 93.00) and specificity 93.48% (95%
+CI: 91.06 - 95.91).
+The device’s generalizability for triaging scans with pleural effusion was ensured by
+performing subgroup analyses.
+The results for pleural effusion were consistent in both genders and the AUC was 97.62, 95%
+CI (97.24,97.99), Sensitivity 92.44, 95% CI (90.83, 94.05) and Specificity 97.67, 95% CI (96.06,
+99.29) in female, and AUC 97.61, 95% CI (97.28, 97.94), Sensitivity 95.91, 95% CI (94.34,
+97.48) and Specificity 95.33, 95% CI (93.77, 96.90) in male.
+The device’s results were also found to be consistent in a wide range of ages: with AUC of
+97.36,95% CI (96.61, 98.11) in the 22-44 age group, 96.32 95% CI (95.76, 96.88) in the 45-64
+age group, 97.94 95% CI (97.57, 98.32) in the 65-84 age group and 98.73, 95% CI (98.33,
+99.14) in the 85 or greater age group. The device’s results were also consistent across image
+acquisition devices.
+In the 88 scans that had both pleural effusion and pneumothorax co-existing, performance
+accuracy of detecting Pleural effusion was maintained at: AUC of 98.20% (95% CI [97.82,
+98.58]).
+The device’s performance time was also assessed for RADIFY® Triage. This is the time to
+analyze the study and send the notification to the worklist. The performance time averaged
+at 3s. This is comparable to the performance of the predicate performance of 14.66s. Table
+2 below shows overall performance results.Table 2 Overall results of Accuracy testing for RADIFY® Triage
+Sensitivity (%) Specificity (%) AUC (%) (95% CI)
+Pneumothorax 94.81 97.91 97.43
+95% CI (93.90, 95.73) 95% CI (97.00, 98.83) 95% CI (97.12 97.74)
+Pleural Effusion 94.39 0.9642 97.61
+95% CI (93.26, 0.955) 95% CI(95.29, 97.54) 95% CI (97.36, 97.86)
+All 94.26 97.27 97.62
+95% CI (93.53, 94.99) 95% CI (96.54, 98.00) 95% CI (97.43 97.81)
+8. CONCLUSION
+The comparison of devices in Table 1 and the software and performance testing presented
+above demonstrate that the RADIFY® Triage device is substantially equivalent to the
+predicate device. The RADIFY® Triage is a software-only device, similar to the predicate
+(Lunit INSIGHT CXR Triage). It is as safe and effective as the predicate device. It has the same
+intended users and similar indications, technological characteristics, and principles of
+operation as the predicate device.
+There are no differences in the indications, therefore there is no risk of its safety and
+effectiveness being affected when used as labelled. Both devices operate in parallel to the
+standard of care workflow. The performance testing demonstrates that the RADIFY® Triage
+performs as intended and is therefore substantially equivalent to the predicate. Software
+and Clinical testing support that the device performs in accordance with the device
+requirements.

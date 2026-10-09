@@ -1,0 +1,227 @@
+Combinostics Oy
+Lennart Thurfjell
+CEO
+Hatanpään valtatie 24
+Tampere FI 33100
+FINLAND
+Re: K171328
+Trade/Device Name: cNeuro cMRI
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: II
+Product Code: LLZ
+Dated: December 6, 2017
+Received: December 8, 2017
+Dear Lennart Thurfjell:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding
+and adulteration. Please note: CDRH does not evaluate information related to contract liability warranties.
+We remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820);Page 2 - Lennart Thurfjell K171328
+and if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR
+1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's
+Office of Surveillance and Biometrics/Division of Postmarket Surveillance.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+RRoobbeerrtt OOcchhss,, PPhh..DD..
+Director
+Division of Radiological Health
+Office of In Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+EnclosureCombinostics Oy
+Hatanpään valtatie 24
+33 100 Tampere
+Finland
+Section 5. 510(k) Summary
+5.1 Submitter
+Name: Combinostics OY
+Address: Hatanpään valtatie 24, FI 33 100 Tampere,
+Finland
+Contact Person: Lennart Thurfjell
+Telephone number: +46 730 699057
+Fax Number: N.A.
+E-mail: lennart.thurfjell@combinostics.com
+Consultant: Allison Komiyama, PhD, RAC
+Date prepared: January 2, 2018
+5.2 Device
+Trade Name: cNeuro cMRI
+Common Name Medical Image Processing Software
+Classification Name System, Image processing, Radiological
+Regulation Number 892.2050
+Product Code LLZ
+Classification Panel Radiology
+Page 1 of 65.3 Predicate Device
+Primary predicate device
+Device NeuroQuant
+510(k) # K061855
+Manufacturer CorTechs Labs, Inc. 4690 Executive Drive, Suite
+250 San Diego, CA 92121 USA
+Secondary predicate device
+Device icobrain
+510(k) # K161148
+Manufacturer Icometrix, Kolonel Begaultlaan 1b / 12
+3012 Leuven, Belgium
+5.4 Device Description
+cNeuro cMRI is intended for automatic labeling, quantification and visualization of segmentable brain
+structures from a set of MR images. The software is intended to automate the current manual
+process of identifying, labeling and quantifying the segmentable brain structures identified on MR
+images.
+The flowchart below outlines the workflow and main steps in the usage of cNeuro cMRI.
+As input, cNeuro cMRI uses T1-weighted (T1) and fluid-attenuated inversion recovery (FLAIR) DICOM
+MR images from a single time point. The T1 image is mandatory but the FLAIR image is optional. The
+user selects images through connection with a Picture Archiving and Communication System (PACS)
+or by selecting DICOM files from a folder. cNeuro cMRI displays the selected images together with
+information extracted from the DICOM headers.
+Image processing starts with a pre-processing stage with bias-field correction and brain extraction
+before the actual segmentation and calculation of MRI biomarkers begins. When the processing has
+completed, the user can review the images with brain segmentations displayed as an overlay. cNeuro
+cMRI presents computed biomarkers corresponding to volumes of structures and FLAIR white matter
+and are compared to corresponding biomarkers from a healthy reference population using a
+statistical model.
+Page 2 of 65.5 Indications for Use
+cNeuro cMRI is intended for automatic labeling, quantification and visualization of segmentable brain
+structures from a set of MR images. The software is intended to automate the current manual
+process of identifying, labeling and quantifying the segmentable brain structures identified on MR
+images.
+The intended user profile covers medical professionals who work with medical imaging. The intended
+operational environment is an office-like environment with a computer.
+5.6 Comparison and substantial equivalence statement
+cNeuro cMRI is substantially equivalent to the NeuroQuant device by Cortechs Labs, cleared in
+K061855 with regards to processing of T1 images and it is substantially equivalent to the icobrain
+device by icometrix, cleared in K161148 with regards to processing of FLAIR images. K061855 is the
+primary predicate and K161148 is the secondary predicate.
+A comparison of the subject device and predicate devices (K061855 and K161148) is provided below.
+SUBJECT DEVICE Primary Predicate Secondary Predicate Conclusion/
+Device Device Comparison
+Device cNeuro cMRI NeuroQuant icobrain ---
+510(k) Number K171328 K061855 K161148
+Manufacturer Combinostics OY CorTechs Labs, Inc icometrix ---
+Device Picture archiving and Picture archiving and Picture archiving and Identical
+Classification communication system communication system communication system
+Name
+Deployment Cloud based Cloud based or installed Cloud based cNeuro cMRI and icobrain are
+identical. NeuroQuant is
+available either cloud based
+or installed.
+Page 3 of 6SUBJECT DEVICE Primary Predicate Secondary Predicate Conclusion/
+Device Device Comparison
+Device cNeuro cMRI NeuroQuant icobrain ---
+510(k) Number K171328 K061855 K161148
+Manufacturer Combinostics OY CorTechs Labs, Inc icometrix ---
+Indications for cNeuro cMRI is NeuroQuantTM is icobrain is intended for Functionally identical.
+Use intended for automatic intended for automatic automatic labeling,
+labeling, quantification labeling, visualization and visualization and volumetric cNeuro cMRI lists
+and visualization of volumetric quantification quantification of segmentable
+segmentable brain of segmentable brain brain structures from a set of
+structures from a set of structures from a set of MR images. This software is
+MR images. The MR images. This software intended to automate the cMRI makes a volumetric
+software is intended to is intended to automate current manual process of quantification, these
+automate the current the current manual identifying, labeling and expressions can be considered
+manual process of process of identifying, quantifying the volume of identical.
+identifying, labeling and labeling and quantifying segmentable brain structures
+Furthermore, icobrain has the
+quantifying the volume of identified on MR images.
+added description of two
+segmentable brain segmentable brain
+structures identified on structures identified on icobrain consists of two distinct processing pipelines:
+MR images. MR images. distinct image processing icobrain cross and icobrain
+pipelines: icobrain cross and long. Results of icobrain cross
+The users are trained icobrain long. icobrain cross cannot be compared with the
+healthcare is intended to provide results of icobrain long.
+professionals who work volumes from images cNeuro cMRI and NeuroQuant
+with medical imaging. acquired at a single timepoint provides only one processing
+icobrain long is intended to pipeline.
+The product is used in provide changes in volumes
+an office-like between two images that Finally, cNeuro cMRI lists
+environment. were acquired on the same intended users and intended
+use environment whereas
+scanner, with the same image
+NeuroQuant and icobrain
+acquisition protocol and with
+does not.
+same contrast at two different
+timepoints The results of
+icobrain cross cannot be
+compared with the results of
+icobrain long.
+Subject device and predicate devices are software for automatically identifying and quantifying
+volumes of brain structures, labeling and visualization. Both subject and predicate devices take 3D
+MR images of the brain as input and generate an electronic report with similar quantitative
+information. The output values are for all devices compared to a normative data based on MRI data
+from healthy control subjects.
+Subject device and the primary predicate device segments cortical and subcortical structures from
+MRI T1 images based on a similar principle, where the quantification relies on pre-processing with
+skull stripping (brain extraction) followed by multi-atlas segmentation. The main difference is that
+different atlases are used. The subject device uses atlases with 133 brain structures, while the
+primary predicate uses atlases with 34 brain structures. Similarly, the subject device and the
+secondary predicate device segments white matter hyperintensities from FLAIR MR images based on
+a similar principle. Furthermore, for volumes derived from T1 images, the subject device and the
+predicate devices provide statistical comparison of normalized values with a normative dataset from
+a healthy reference population. In addition, subject device compares normalized volumes of FLAIR
+white matter hyperintensities to a normative dataset from a reference population. The secondary
+predicate device does not provide such a comparison.
+Page 4 of 6The primary predicate device uses an index computed based on the deviation of the image volumes
+from normal atlas space as a quality control measure. The subject device does not employ such an
+index, but provides functionality where the user interactively can review the quality of the
+segmentations by checking color coded overlays on the original MR slices.
+Subject device provides a gray matter concentration map, i.e., an overlay on MR T1 images
+highlighting regions where the local gray matter concentration of the patient is smaller than the gray
+matter concentration in the reference population normalized for age, sex and head size. This overlay,
+which can be toggled on and off, provides a means for the user to locate regions that are atypical
+compared to the reference population. The predicate devices do not provide such a gray matter
+concentration map. gray matter concentration map provides a visual complement to
+the quantitative volume measurements and it does not affect safety and effectiveness of the device.
+5.7 Performance testing
+Support for the substantial equivalence of cNeuro cMRI to the predicate devices was provided as a
+result of risk management and testing. The design verification activities consist of code review and
+static code analysis, unit tests, integration tests, system tests (including safety related tests from risk
+analysis) and regression testing after modifications
+To demonstrate the performance of cNeuro cMRI, the computed volumes of brains structures were
+validated for accuracy and reproducibility. Test data included data from healthy subjects, and
+fronto-temporal lobe degeneration, vascular dementia as well as Multiple Sclerosis patients. In the
+accuracy experiments, cNeuro cMRI fully automated brain segmentation was compared to manually
+labeled ground truth data. In the reproducibility experiments, the volumes were compared using
+test-retest data. The experiments included data from 1399 subjects in total.
+A literature review was performed to set relevant acceptance criteria for each type of experiment. All
+experiments passed the acceptance criteria. Averaged over all experiments, the similarity index (or
+Dice index) were 0.88 for the hippocampus, 0.91 for the thalamus and 0.88 for the whole cortex.
+Furthermore, intraclass correlation coefficient for the test-retest reproducibility measurements
+averaged over all 133 structures was 0.96 and the correlation coefficient between the computed
+FLAIR white matter hyperintensities and the manually labelled data was 0.97.
+The verification and performance testing demonstrate that cNeuro cMRI is safe and effective to use.
+5.8 Conclusion
+Combinostics OY believes that cNeuro cMRI has the identical indication for use and that there are no
+new types of questions regarding safety and effectiveness for cNeuro cMRI as compared to the
+cleared predicate devices. Combinostics OY has conducted the risk analysis and performed the
+necessary verification and validation activities to demonstrate that the design outputs meet the
+design inputs and the applicable process standards. Combinostics OY has concluded that the
+performance data for the cNeuro cMRI shows that it is substantially equivalent to the primary
+predicate device, NeuroQuant (K061855), for processing of MRI T1 images and to the secondary
+predicate device, icobrain (K161148), for processing of MRI FLAIR images.
+Page 5 of 6This document is reviewed and approved by Lennart Thurfjell, CEO of Combinostics.
+Page 6 of 6

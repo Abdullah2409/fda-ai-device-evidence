@@ -1,0 +1,262 @@
+Quantitative Radiology Solutions, LLC April 20, 2021
+℅ Mary Vater
+510(k) Consultant
+Medical Device Academy
+345 Lincoln Hill Rd.
+SHREWSBURY, VT 05738
+Re: K203610
+Trade/Device Name: Automatic Anatomy Recognition (AAR)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture Archiving And Communications System
+Regulatory Class: Class II
+Product Code: QKB
+Dated: March 22, 2021
+Received: March 23, 2021
+Dear Mary Vater:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.24
+Silver Spring, MD 20993
+www.fda.govK203610 - Mary Vater Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureQuantitative Radiology Solutions, LLC Automatic Anatomy Recognition 510(k) Submission
+510(k) SUMMARY
+This summary of 510(k) safety and effectiveness information is submitted in accordance
+with the requirements of 21 CFR §807.92:
+1. SUBMITTER
+Quantitative Radiology Solutions, LLC
+3675 Market Street, Suite 200
+Philadelphia, PA 19104 | USA
+Tel: +1.973.590.8574
+Contact Person: Steve Owens
+Date Prepared: December 9, 2020
+II. DEVICE
+Name of Device: Automatic Anatomy Recognition
+Classification Name: Picture Archiving And Communications System
+Regulation: 21 CFR §892.2050
+Regulatory Class: Class II
+Product Classification Code: QKB
+Ill. PREDICATE DEVICE
+Predicate Manufacturer: Xiamen Manteia Technology LTD.
+Predicate Trade Name: AccuContourm
+Predicate 510(k): K191928
+No reference devices were used in this submission.
+IV. DEVICE DESCRIPTION
+Automatic Anatomy Recognition product for radiation therapy planning (AAR) is a software-only medical
+device and is deployed on a cloud-based platform. AAR is intended to be used on adults undergoing
+treatment that requires the identification of anatomical structures in the body considered to be "organs at
+risk" (OAR). AAR is intended to be used in the head and neck and thoracic body regions.
+AAR operates independently from the treatment plan that is subsequently created based on AAR-
+generated contours. Therefore, AAR is agnostic to the method of radiation treatment delivery such as
+photons, protons, or other, to the modality of radiation treatment such as three-dimensional conformal
+radiation therapy (3D-CRT), intensity modulated radiation therapy (IMRT), or other, and to the intent of
+radiation treatment such as definitive (curative), neoadjuvant, adjuvant, or palliative.
+AAR is also agnostic to the disease process being treated in the head and neck or thoracic body regions.
+For example, the identification of OARs is required during the treatment of head and neck cancers such as
+squamous cell carcinoma, brain cancer, and lymphoma. The identification ofOARs is also required during
+the treatment of thoracic cancers such as lung cancer, breast cancer, esophageal cancer, lymphoma, and
+thymoma, just to name a few.
+AAR automatically processes computed tomography (CT) studies and produces contours with no human
+intervention. AAR does not provide the capability to modify contours. If adjustments are required, they
+must be performed on another system.
+510(k) Summary Vol 005 Doc 001 Page 1 of 4Quantitative Radiology Solutions, LLC Automatic Anatomy Recognition 510(k) Submission
+V. INDICATIONS FOR USE
+Automatic Anatomy Recognition (AAR) is a software-only medical device intended for use by technicians
+and trained physicians to derive contours of anatomical structures from computed tomography studies for
+input to a radiation treatment planning system. It is only intended to work for anatomical structures in the
+head & neck and thoracic body regions. It is not for use on patients below 18 years of age and it relies on
+third party treatment planning systems to display and edit the contours.
+VI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE
+PREDICATE DEVCE
+The following characteristics were compared between the subject device and the predicate device
+in order to demonstrate substantial equivalence:
+* Indications for Use - The predicate and subject device have identical indications for use.
+* Materials - The predicate and subject device are both software-only medical devices.
+* Design - The predicate and subject device both utilize deep learning contouring to
+automatically contour the organ-at-risk for the head, neck, and thorax.
+* Energy Source - The predicate and subject device both run within the users' existing
+computer system.
+* Other Design Features - The predicate device has additional features such as patient
+management, review of processed images, automatic image registration, manual
+contouring functionality, and segmentation in the abdomen and pelvic regions. This
+additional functionality is not required to achieve the intended use for the subject device.
+* Performance Testing - The predicate and subject device conducted segmentation
+performance tests to evaluate the automated segmentation accuracy using DICE similarity
+coefficients. These tests were further supported by additional tests using a mean 95%
+Hausdorff Distance (HD) calculation.
+Table 1: Proposed Predicate Device
+Subject Device Proposed Predicate Device Rationale for SE
+Device Name Automatic Anatomy Recognition AccuContour T N/A
+(AAR)
+Applicant Quantitative Radiology Solutions Xiamen Manteia Technology LTD. N/A
+510(k) Number TBD Kl91928 N/A
+Decision Date TBD 02/28/2020 N/A
+Regulation 892.2050 892.2050 Same
+Number
+Regulation Name Picture archiving and Picture archiving and communication Same
+communication system system
+Device Radiological Image Processing Radiological Image Processing Same
+Software for Radiation Therapy Software for Radiation Therapy
+Regulatory To provide semi-automatic-or fully- To provide semi-automatic or fully- Both the subject
+Definition automated radiological image automated radiological image device and the
+process and analysis tools for process and analysis tools for predicate fall under
+radiation therapy. Software radiation therapy. Software the regulatory
+implementing artificial intelligence implementing artificial intelligence definition for
+(AI) including non-adaptive (AI) including non-adaptive machine 892.2050, product
+machine learning algorithms trained learning algorithms trained with code QKB.
+with clinical and/or artificial clinical and/or artificial radiological
+radiological images. In these images. In these devices, the
+devices, the algorithm training algorithm training images typically
+images typically impact device impact device performance. Al based
+510(k) Summary Vol 005 Doc 001 Page 2 of 4Quantitative Radiology Solutions, LLC Automatic Anatomy Recognition 510(k) Submission
+performance. Al based radiological radiological image processing
+image processing software is software is intended to be used in the
+intended to be used in the workflow workflow of radiation therapy.
+of radiation therapy. Adaptive Al Adaptive Al algorithms are not
+algorithms are not within the scope within the scope of this product code.
+of this product code. Primary Primary radiation dose calculation or
+radiation dose calculation or plan plan optimization for treatment
+optimization for treatment planning planning are not within scope of the
+are not within scope of the product product code.
+code.
+Product Code QKB QKB Same
+Classification Class II Class II Same
+510(k) Review Radiology Radiology Same
+Panel
+Combination No No Same
+Product?
+Rx or OTC? RX RX Same
+Intended Use It is used by radiation oncology
+department to register multimodality
+images and segment (non-contrast)
+CT images, to generate needed
+information for treating planning,
+treatment evaluation and treatment
+adaptation.
+/ Automatic Anatomy Recognition
+Indications for Use (AAR) is a software-only medical
+device intended for use by
+technicians and trained physicians
+to derive contours of anatomical
+structures from computed
+tomography studies for input to a
+radiation treatment planning system.
+It is only intended to work for
+anatomical structures in the head &
+Same
+neck and thoracic body regions. It is
+not for use on patients below 18
+years of age and it relies on third
+party treatment planning systems to
+display and edit the contours.
+Image process 1) Deep learning contouring: it 1) Deep learning contouring: it can Same. AAR contains
+functions can automatically contour automatically contour the organ- only Deep Learning
+anatomical structures, including at-risk, including head and neck, contouring
+head and neck, thorax (for both thorax, abdomen and pelvis (for
+male and female). both male and female);
+2) Automatic Registration, and
+3) Manual Contour
+General * Receive, add/edit/delete, * Receive, add/edit/delete, Same. AAR only
+Functionalities transmit, input/export, medical transmit, input/export, medical receives,
+images and DICOM data images and DICOM data; adds/edits/deletes,
+* Patient management; transmits,
+* Review of processed images; inputs/exports
+* Open and Save of files. medical images and
+DICOM data
+Operating Systems Linux Windows QRS utilizes Linux as
+this OS is more
+secure as compared
+to Windows
+Segmentation Features
+Algorithm Deep Learning Deep Learning Same
+Compatible Non-Contrast CT Non-Contrast CT
+Same
+Modality
+510(k) Summary Vol 005 Doc 001 Page 3 of 4Quantitative Radiology Solutions, LLC Automatic Anatomy Recognition 510(k) Submission
+Compatible No limitation on scanner model, No limitation on scanner model, Same
+Scanner Models DICOM 3.0 compliance required DICOM 3.0 compliance required
+Compatible No limitation on TPS model, No limitation on TPS model, DICOM Same
+Treatment DICOM 3.0 compliance required. 3.0 compliance required.
+Planning System
+Contraindications AAR is not intended for use on None AAR is intended for
+patients below 18 years of age; use in adults
+Segmentation Features
+Performance * Segmentation Performance Test * Segmentation Performance Test Segmentation
+Testing Evaluated automated Evaluated automated Performance Testing
+segmentation accuracy non- segmentation accuracy non- is equivalent.
+inferiority using DICE inferiority using DICE similarity
+similarity coefficients. coefficients. Registration
+* Software Verification and * Registration Performance Test performance test is
+Validation testing N/A because the
+subject device does
+not do registration.
+VII. PERFORMANCE DATA
+The following performance data were provided in support of the substantial equivalence
+determination.
+Sterilization & Shelf-life Testing
+Not Applicable (Standalone Software)
+Biocompatibility Testing
+Not Applicable (Standalone Software)
+Electrical safety and electromagnetic compatibility (EMC)
+Not Applicable (Passive Device)
+Software Verification and Validation Testing
+Software Verification and Validation Testing included testing at the unit, integration, and system
+level per IEC 62304 standard.
+Mechanical and acoustic Testing
+Not Applicable (Standalone Software)
+Animal Study
+Animal performance testing was not required to demonstrate safety and effectiveness of the
+device.
+Human Clinical Performance Testing
+Clinical testing was not required to demonstrate the safety and effectiveness of the device.
+VIII. CONCLUSIONS
+Based on the comparison and analysis above, the proposed devices are determined to be Substantially
+Equivalent (SE) to the predicate devices.
+510(k) Summary Vol 005 Doc 001 Page 4 of 4

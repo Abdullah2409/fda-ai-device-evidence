@@ -1,0 +1,407 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+MASIMO CORPORATION SAFETYNET OPIOID SYSTEM
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Monitor for opioid induced impairment of oxygenation. A monitor for opioid induced
+impairment of oxygenation is a device that uses sensor hardware and software algorithms
+to detect desaturations of arterial oxygen saturation resulting from opioid overdose.
+NEW REGULATION NUMBER: 21 CF'R 868.2250
+CLASSIFICATION: Class II
+PRODUCT CODE: QVT
+BACKGROUND
+DEVICE NAME: Masimo SafetyNet Opioid System
+SUBMISSION NUMBER: DEN20001 1
+DATE DE NOVO RECEIVED: February 17, 2020
+SPONSOR INFORMATION:
+Masimo Corporation
+52 Discovery
+Irvine, CA 92618
+INDICATIONS FOR USE
+The Masimo SafetyNet Opioid System is intended to monitor and alarm when a patient
+may be experiencing an opioid induced impairment of oxygenation.
+The Masimo SafetyNet Opioid System is indicated for the non-invasive continuous
+monitoring of individuals 15 years and older for the identification of when they may be
+experiencing a substance induced impairment of oxygenation (e.g., opioid induced
+respiratory depression (OIRD) caused by oral or injectable opioids) in hospital and home
+environments.
+LIMITATIONS
+The Masimo SafetyNet Opioid Halo System is contraindicated for the monitoring of
+opioid users on supplemental oxygen greater than 2.0 L/min.Obstructive sleep apnea (OSA) can increase the risk of false OIRD alarms by causing
+oxygenation instability trends that can be mistaken as OIRD.
+The Masimo SafetyNet Opioid System is not designed to detect apnea. Do not use the
+Masimo SafetyNet Opioid System as an apnea monitor.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The Masimo SafetyNet Opioid System (device)
+is a system intended for noninvasively and
+continuously monitoring opioid users 15 years
+and older to identify substance induced
+impairment of oxygenation that can lead to
+opioid induced respiratory depression (OIRD)
+caused by oral or injectable opioids in hospital
+or home use environments. The device functions
+using a pre-determined notification escalation
+policy that provides the ability for the user to
+receive alerts and to establish a network of
+emergency contacts who can be contacted based
+on the level of alert/alarm as determined by the device. These emergency contacts are notified
+after previous notifications sent to the device user do not resolve the desaturation condition. As a
+final action, the device can notify Emergency Medical Service (EMS) dispatch to trigger a
+wellness call. If assistance is needed or the device user does not respond, the dispatch will
+request that EMS (i.e., ambulance service) be sent to the device user's location.
+The device consists of the following components:
+• Bedside Station — Device component that communicates monitoring data wirelessly from
+the medical technologies to provide visual/audible alerts. The Bedside Station is paired
+by Bluetooth (BLE) with the Sensor. It also provides visual indication of its status
+(including connectivity) and audible alarms. The Hub is line powered (AC/DC power
+supply).
+• Masimo Sensor - Wireless wearable pulse oximetry sensor that provides the monitoring
+data. The Sensor is a headless, battery-powered pulse oximeter that is worn on the wrist
+by the device user and transmits photoplethysmogram derived data to the Hub or App by
+BLE for transmission to the SafetyNet Cloud server. The measurements are taken by a
+wire connected, adhesive, wrap-style probe applied to the finger. The Sensor contains the
+oximetry technology (Masimo SET pulse oximetry, K183697) for the device.
+De Novo Summary (DEN200011) Page 2 of 11• Masimo SafetyNet Opioid App - Software application installed on a smart device that
+provides the graphical user interface to display live monitoring data (e.g., pulse rate (PR),
+pulse waveform) and alarm condition status. The App is installed on a smart mobile
+device and wirelessly communicates with the SafetyNet Cloud server (by Wi-Fi or
+Cellular data).
+• Opioid Halo - Software that runs continuously to provide real-time detection of the
+severe OIRD risk based upon changes or patterns in oxygenation biomarker data
+(peripheral oxygen saturation (Sp02), pulse rate (PR), perfusion index (Pi)) found to be
+consistent with published understanding of physiological effects of OIRD.
+• Notification Escalation Policy — Policy that is used to add levels of awareness through the
+notification of the device user, emergency contact, or contracted Emergency Responders.
+The Level 1-3 alarms are triggered on the Bedside Station and App. The Level 2 and 3
+alarms also trigger text notifications to the device user entered emergency contacts and
+the Level 3 alarm will trigger a wellness call to the device user by an Emergency Medical
+Service dispatch.
+Table 1: Summary of Alarm Levels
+Notification Alarm Trigger Visual Audible Emergency Emergency
+Level Alarm Alarm Contact Dispatch
+Level 1 Early signs of unstable oxygen levels or low oxygen Yes Yes No No
+levels.
+Level 2 Medically meaningful or very unusual signs of Yes Yes Yes No
+unstable oxygen levels or sustained low levels of
+oxygen.
+Extremely unusual signs of unstable oxygen levels yes
+Level 3 Yes Yes Yes
+or a long period of low levels of oxygen or an
+extreme drop in your oxygen level.
+• Masimo SafetyNet Cloud - A server accessed over the intemet that gathers and stores
+measured data communicated wirelessly from a Bedside Station. The Cloud software
+processes transmitted data and enforces the notification escalation policy based upon the
+data received.
+SUMMARY OF NONCLINICAUBENCH STUDIES
+BIOCOMPATIBILITY
+The device includes previously cleared components (K183697) that are in direct contact
+with the skin during use. The finger probe and single-use sensor are categorized as
+surface contacting (intact skin) devices with prolonged contact in accordance with ISO
+10993-1 referenced by the FDA guidance document, Use of International Standard ISO
+10993-1, "Biological evaluation of medical devices - Part 1: Evaluation and testing
+within a risk management process". The components were subjected to biocompatibility
+testing in accordance ISO 10993-1. The following tests were conducted to assess
+De Novo Summary (DEN200011) Page 3 of 11biocompatibility of the device for the surface, intact skin contacting components for
+prolonged duration:
+• Cytotoxicity
+• Sensitization
+• Irritation
+All tests passed. The results demonstrated the biocompatibility of the device.
+SHELF LIFE/REPROCESSING/STERILITY
+The device is provided non-sterile and is not intended to be sterilized by the device user.
+The Bedside Station is reusable, and the Sensor includes both reusable (Masimo Chip
+sensor attached to wrist that wirelessly communicates with the Bedside Station) and
+single-use disposable components (finger-wrap sensor that measures blood oxygen
+information). The labeling provides cleaning and low-level disinfection procedures for
+the Bedside Station and reusable Sensor components.
+The Centroid 02 sensor has a shelf life of 1 year based on the adhesive used on the
+sensor. Shelf life was assessed by testing strength of the adhesive over time.
+ELECTRICAL, THERMAL, AND MECHANICAL SAFETY, ELECTROMAGNETIC COMPATIBILITY, &
+WIRELESS COEXISTENCE
+Electrical, thermal, & mechanical safety and electromagnetic compatibility testing has
+been performed and complies with the following standards for use in hospital and home
+healthcare settings:
+• IEC 60601-1-2 4th Edition, Medical Electrical Equipment — Part 1-2: General
+Requirements for Basic Safety and Essential Performance - Collateral Standard:
+Electromagnetic Disturbances - Requirements And Tests
+• IEC 60601 1: 2005 + CORR. 1:2006 + CORR. 2:2007 + AM1:2012: Medical
+electrical equipment, Part 1: General requirements for basic safety and essential
+performance
+• IEC 60601-1-11: 2010 Medical Electrical Equipment — Part 1-11: General
+requirements for basic safety and essential performance - Collateral Standard:
+Requirements for medical electrical equipment and medical electrical systems
+used in a home healthcare environment
+• The Sensor was previously tested for requirements of IEC 60601-1-
+2:2014+AMD1:2020 and AIM 7351731:2017 - Medical Electrical Equipment and
+System Electromagnetic Immunity Test for Exposure to Radio Frequency
+Identification Readers for RFID.
+Wireless co-existence testing has been done to verify that the subject device will not have
+degraded performance that might be associated with wireless coexistence in a shared
+wireless environment in the intended use environment. Testing was conducted to meet
+De Novo Summary (DEN200011) Page 4 of 11recommendations of the FDA Guidance, "Radio-Frequency Wireless Technology in
+Medical Devices (2013)."
+SOFTWARE & CYBERSECURITY
+Software documentation including management of cybersecurity was provided in
+accordance with the FDA Guidance Document, "Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices," (issued May 11, 2005) for a
+Major Level of Concern (LOC). A Major LOC is deemed appropriate as malfunction of
+the device software or a latent design flaw in the device software may lead to erroneous
+information or a delay in the delivery of appropriate medical care, which would likely
+result in serious injury or death.
+HUMAN FACTORS TESTING
+Human factors and usability risks were evaluated and acceptably mitigated in accordance
+with FDA Guidance, "Applying Human Factors and Usability Engineering to Optimize
+Medical Device Design (2016)". The testing included lay persons as well as those who
+engage in illicit opioid use and was conducted to support the acceptability of the human
+factors and usability risks. Testing included a risk-based approach which considered the
+expected intended use of the device and analyzed the tasks to determine those that were
+device use-related. The device use-related tasks were categorized based upon risk to
+establish critical device use-related tasks. Formative activities were conducted in the
+development of the user interfaces of the device to ensure they were effective for the
+intended population, which includes home device users (lay operators). Knowledge Task
+Assessment and Simulate Use testing was conducted to determine the completion of the
+critical device user tasks did not result in any unacceptable human factors and usability
+risks. The results of the human factors and usability testing supported the acceptability of
+the human factors and usability risks. There were no unacceptable residual risks that
+required further modifications of the design or the user interface to mitigate risks to
+acceptable levels.
+PERFORMANCE TESTING - BENCH
+Non-clinical bench testing was performed on the device to provide verification of the
+pulse oximeter monitoring functions and general instrument functions (e.g., input/output
+interfaces). Additionally, bench performance testing using a pulse oximeter simulator was
+completed to demonstrate that the device can communicate through a wireless connection
+to enable communication with the Sensor.
+SUMMARY OF CLINICAL INFORMATION
+Clinical Performance Validation Summary
+Clinical testing was performed to support the clinical benefits of the Masimo SafetyNet
+Opioid System. To support performance in the improved detection of opioid induced
+respiratory depression (OIRD), 40,322 data segments from 641 study participants (opioid
+De Novo Summary (DEN200011) Page 5 of 11use-cases,135 prescription home opioid (i.e., naive, chronic), 242 hospitalized opioid, and
+264 illicit opioid) using Masimo SET pulse oximetry for classification were analyzed.
+The results support the increased specificity in the detection of OIRD as compared to a
+traditional pulse oximeter with a fixed threshold alarm. See summary of the overall
+sensitivity and specificity below.
+Table 2: Summary of the Overall Sensitivity and Specificity
+Subject Data Segments Benchmark Halo - Level 1 Halo - Level 2 Halo - Level 3
+Type Used Cases OIRD Sensitivity Specificity Sensitivity Specificity Sensitivity Specificity Sensitivity Specificity
+Overall 40322 641 130 99.2% 80.6% 100.0% 93.9% 100.0% 97.5% 79.2% 99.5%
+Naive 3640 58 2 100.0% 87.4% 100.0% 97.8% 100.0% 99.3% 100.0% 100.0%
+Chronic 44781 77 13 100.0% 80.2% 100.0% 95.7% 100.0% 98.4% 100.0% 99.6%
+Hospital 319401 241 98 99.0% 79.9% 100.0% 93.2% 100.0% 97.2% 75.5% 99.5%
+Illicit 264 264 17 100.0% 83.4% 100.0% 85.8% 100.0% 93.5% 82.4% 99.6%
+The data from 936 cases that included the same 641 opioid users and an additional 295
+sleeping non-opioid users supported the improved reduction of non-actionable alarm as
+compared to a fixed threshold pulse oximeter (benchmark). See summary of alarm
+reductions below:
+Table 3: Summary of the Alarm Reductions
+Subject Used Benchmark Halo - Level 1 Halo - Level 2 Halo - Level 3
+Type Subjects Alarms Alarms % Reduction Alarms % Reduction Alarms % Reduction
+Overall 936 33415 8366 75.0% 3663 89.0% 1097 96.7%
+Naïve 58 2196 217 90.1% 81 96.3% 5 99.8%
+Chronic 77 4991 756 84.9% 347 93.0% 145 97.1%
+Hospital 242 25928 7212 72.2% 3119 88.0% 923 96.4%
+Micit 264 141 87 38.3% 55 61.0% 15 89.4%
+Sleeping 295 159 94 40.9% 61 61.6% 9 94.3%
+Non-
+opioid
+users
+The dataset collected on 17 illicit opioid rescue cases also supported the responsiveness of
+the Halo alarms, despite their increased specificity. The responsiveness was measured by
+calculating the time from opioid injection to alarm (TFO) and time from alarm to
+intervention (TTI).
+Table 4: Summary of the Timing Data
+Subject Used Benchmark Halo - Level I Halo - LCVC 2 Halo - Level 3
+Type TFO (min.) TTI (min.) TFO (min.) TTI (min.) TFO (min.) TTI (min.) TFO (min.) TTI (min.)
+Illicit 17 3.14 2.69 3.42 2.40 4.60 1.22 4.80 1.06
+To evaluate effect of positive Sp02 bias in detection of OIRD that could be due to dark
+skin pigmentation, data from 264 illicit users were analyzed by comparison of sensitivity
+and specificity between the user's data and modified data with a hypothesized 2%
+positive bias (see summary of sensitivity and specificity below). Results demonstrate no
+De Novo Summary (DEN200011) Page 6 of 11clinically significant effect on performance due to use of Halo software and reliance on
+trends in data.
+Table 5: Sensitivity and Specificity of Illicit users using original and modified datasets
+Level 1 Level 2 Level 3
+Version Sensitivity Specificity Sensitivity Specificity Sensitivity Specificity
+Opioid Halo on
+Illicit Users 100% 85.8% 100% 93.5% 82.4% 99.6%
+data
+Opioid Halo on
+Illicit Users 100% 88.7% 100% 95.1% 82.4% 99.6%
+data with
+additional 2%
+Sp02 bias
+Sp02 Performance Validation Summary
+Sp02 performance validation study was conducted on Masimo Radius PPG sensors by
+enrolling healthy male and female volunteer subjects with varying levels of skin
+pigmentation, characterized by the Massey scale (1-10). Subjects with Massey 1-3 were
+categorized as Light, and Massey 4-10 were categorized as Dark. A total of 26 subjects
+were enrolled in the study and subjected to induced hypoxia to target Sp02 levels down
+to 70%. Data from 13 subjects categorized as Light and 9 subjects categorized as Dark
+were analyzed. Data from 4 subjects were excluded due to incomplete desaturation
+profiles. See summary of results below for subjects overall and comparison between
+subjects categorized as Light and Dark.
+Table 6: Sp02 Performance Summary
+Measurement ARMS Values for Radius PPG Sensors
+Sp02 Accuracy Range CM Aims (A)
+90-100 1.73
+80-90 1.80
+70-80 1.73
+70-100 1.75
+Table 7. Sp02 performance between Light and Dark subjects
+Group No. Subjects Bias MAB Prec. Aims LOA Npairs
+Light 13 0.05 1.48 1.79 1.79 [-3.46 3.56] 449
+Dark 9 0.03 1.34 1.74 1.75 [-3.39 3.45] 313
+Pediatric Extrapolation
+There are differences in respiratory physiology in pre-pubescent children as compared to
+older children and adults, such as differences in respiratory control and lung mechanics as
+well as a higher metabolic requirement of oxygen. An important difference includes
+oxygen carrying capacity and the physiological response to hypoxemia, which can be
+more pronounced in younger children. Therefore, taking these concepts into account
+De Novo Summary (DEN200011) Page 7 of 11along with leveraging clinical data from adult study participants, this device can be
+effectively used in opioid users as young as 15 years of age.
+LABELING
+The labeling (User Manual) provides a complete listing of contraindications, warnings, and
+precautions to help ensure safe and effective use of the device system. There is also a summary
+of the testing, both clinical and non-clinical, to support the performance of the device system in
+the anticipated device use populations and environments to help device users understand
+expected performance.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of a monitor for
+opioid induced impairment of oxygenation and the measures necessary to mitigate the risks
+Identified Risks to Health Mitigation Measures
+False negative leading to delayed Clinical performance data
+treatment Non-clinical performance testing
+Software validation, verification, and hazard analysis
+Labeling
+False positive based on other Clinical performance data
+medical conditions or poor Non-clinical performance testing
+algorithm performance leading to Software validation, verification, and hazard analysis
+unnecessary early intervention or Labeling
+response
+Software malfunction that causes Software validation, verification, and hazard analysis
+an algorithm error
+Delayed or incorrect treatment due Usability assessment
+to use-related error or overreliance Labeling
+on device
+Adverse tissue reaction Biocompatibility evaluation
+Sensor induced injury Electrical, thermal, and mechanical safety testing
+Failure to function as intended due Electromagnetic compatibility testing
+to electromagnetic and wireless Wireless coexistence testing
+radio frequency interference
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the monitor for opioid induced
+impairment of oxygenation is subject to the following special controls:
+(1) Clinical performance data under anticipated conditions of use must demonstrate that the
+device performs as intended and include the following:
+De Novo Summary (DEN200011) Page 8 of 11(i) Comparison to a clinically relevant reference method to demonstrate and support the
+accuracy and level of sensitivity and specificity for detection of opioid induced
+impairment of oxygenation;
+(ii) Demonstration of the consistency of the output and representativeness of the range of
+data sources and data quality likely to be encountered in the intended use population
+and relevant use conditions in the intended use environment;
+(iii) Performance reported in clinically significant and distinct subpopulations and
+intended use environments;
+(iv) For devices using algorithms based on machine learning, the clinical validation must
+be completed using a dataset that is separate from the training dataset; and
+(v) Simulated use testing of hardware and sensors to characterize accuracy and precision
+across the intended use population
+(2) Software description, verification, and validation based on comprehensive hazard analysis
+must be performed. Software documentation must include:
+(i) Full characterization of technical parameters of the software, including any
+algorithm(s);
+(ii) Specification of acceptable incoming sensor data quality control measures; and
+(iii) Justification for the validity of the algorithm(s) (e.g., clinical relevance/importance
+of decision threshold).
+(3) Non-clinical performance data must demonstrate that the device performs as intended
+under anticipated conditions of use. Testing must include:
+(i) Performance testing of sensor hardware to characterize sensor accuracy and
+precision; and
+(ii) Compatibility testing of sensors with other hardware and software components of the
+device.
+(4) Usability assessment must be provided to demonstrate that intended device users can
+safely and correctly use the device.
+(5) All components of the device that contact the skin must be demonstrated to be
+biocompatible.
+(6) Performance testing must demonstrate the electromagnetic compatibility (EMC), wireless
+coexistence, electrical safety, thermal safety, and mechanical safety of any hardware
+components and sensors of the device.
+(7) Labeling must include the following:
+(i) A summary of the clinical validation data, including relevant characteristics of the
+included subpopulations and use environments in the clinical study, and performance
+metrics, including sensitivity, specificity, positive predictive value (PPV), and
+negative predictive value (NPV) for each of the subpopulations, use environments,
+and opioid types;
+De Novo Summary (DEN200011) Page 9 of 11(ii) Principles of sensor operation, including warnings for how to avoid interfering with
+sensor readings;
+(iii) Information for preventing an overdose, recognizing signs of an overdose, and
+treating an overdose;
+(iv) Warnings identifying that the device is not designed to differentiate between the
+target condition (e.g., opioid-induced respiratory depression) and other conditions
+that may cause a false reading (e.g., obstructive sleep apnea);
+(v) Warnings against overreliance on the device; and
+(vi) A warning regarding the need for supervised use with awareness of effective
+countermeasures (e.g., naloxone) in case of an overdose.
+BENEFIT-RISK DETERMINATION
+The risks of the device include frequent unnecessary interventions or delayed treatment due to
+inaccurate detection of opioid induced impaired oxygenation or failure of communication
+between device components. Unnecessary interventions ("false positive") may result in
+desensitization (i.e., alarm fatigue) of device users and caregivers and overburdening of EMS.
+Delayed treatment ("false negative") may result in death. Additional risks include overdose
+through overreliance on the device and injury to the device user at the sensor application site.
+The benefits of the device include reduction in non-actionable alarms compared to monitoring
+with traditional pulse oximetry, more focused and improved detection of oxygen desaturation
+associated with opioid induced respiratory depression, and quicker detection and treatment of an
+opioid overdose. During the clinical validation study, data collected from prescription home (i.e.,
+nave, chronic), hospitalized, and illicit opioid users using Masimo SET pulse oximetry was
+analyzed for improved specificity and reduction in non-actionable alarms. The analysis found
+equivalent sensitivity as a system with a higher specificity in the detection of OIRD as compared
+to a pulse oximeter with a fixed threshold alarm. The analysis of the data also found a significant
+reduction in non-actionable alarms (i.e., 76% for Level 1, 89% for Level 2, and 96.7% for Level
+3) from a standard fixed threshold alarm pulse oximeter. Analysis of study data also found an
+improved PPV with comparable NPV as compared to the benchmark (pulse oximeter) for all
+alarms levels and opioid user groups. The PPV values were higher for the nave and illicit user
+groups, where opioid use may be more directly related to the reason for the instability in their
+biometric data markers. Although the PPV for the hospital and chronic opioid users were
+significantly higher than the benchmark, they were lower than those for the nave and illicit
+opioid user groups. This is likely due to the presence of other health factors that can cause
+instability in the biometric data markers.
+Since end-tidal CO2 monitoring and respiratory rate along with Sp02 thresholds below 90%
+were not included in the clinical studies, there are remaining uncertainties on level of evidence
+available to develop a reference standard that can serve as ground truth to denote severe OIRD,
+though critical data were available to lead to development of a sufficiently rigorous ground truth
+comparator. Furthermore, for in-hospital patients who may be experiencing other physiologic
+perturbations not related to OIRD, it is uncertain what other data was available for the clinical
+experts to lay ground truth of an OIRD event. Finally, the uncertainty related to the benefit of the
+Masimo SafetyNet Opioid system is associated mainly with the device user's willingness to
+De Novo Summary (DEN200011) Page 10 of 11adhere to the use of the device and the responsiveness of those who are notified of an alarmable
+condition. The device user may also misuse the device by increasing their opioid dose resulting
+in an overdose, a concern that labeling mitigations are targeted to address.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+The risks of frequent non-actionable alarms and delayed detection of overdose are mitigated
+based on the performance of the Halo software and notification escalation policy. Though the
+sensitivity of Level 3 alerts (to alert for a wellness call/EMS dispatch) was lower than for the
+comparator (Sp02 alerts set at <90%) for illicit and hospital device users, device performance
+for Level 1 and 2 alerts (100% sensitivity) mitigates the lower performance. Importantly, there
+are no available alternatives to monitor for OIRD, especially for the out-of-hospital populations.
+For in-hospital use, the device will add specificity to the standard of care (Sp02 set to alert
+<90%). Based upon these supporting performance data, the benefit-risk profile of the Masimo
+SafetyNet was found to be favorable, considering the opportunity to detect a life-threatening
+condition and provide alarms and communications targeted at lifesaving measures. While the
+device is not without risks, the inherent risks associated with device operation and performance
+are further mitigated through the special controls found above. The benefit risk profile also takes
+into account the significance of the ongoing opioid epidemic and the increasing numbers of
+overdose related deaths.
+In conclusion, the probable benefits outweigh the probable risks for the Masimo SafetyNet
+Opioid System. The device provides benefits, and the risks can be mitigated by the use of general
+controls and the identified special controls.
+CONCLUSION
+The De Novo request for the Masimo SafetyNet Opioid System is granted and the device is
+classified as follows:
+Product Code: QVT
+Device Type: Monitor for opioid induced impairment of oxygenation
+Regulation Number: 21 CFR 868.2250
+Class: II
+De Novo Summary (DEN200011) Page 11 of 11

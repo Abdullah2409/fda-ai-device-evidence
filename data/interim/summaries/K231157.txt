@@ -1,0 +1,596 @@
+July 19, 2023
+Siemens Healthcare GmbH
+℅ Abhineet Johri
+Regulatory Affairs Manager
+Siemensstr. 1
+Forchheim, 91301
+GERMANY
+Re: K231157
+Trade/Device Name: syngo.CT Lung CAD (Version VD30)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: OEB
+Dated: June 28, 2023
+Received: June 30, 2023
+Dear Abhineet Johri:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK231157 - Abhineet Johri Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lu Jiang
+Lu Jiang, Ph.D.
+Assistant Director
+Diagnostic X-ray Systems Team
+DHT8B: Division of Radialogical Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENTOFHEALTHANDHUMANSERVICES FormApproved:OMBNo.0910-0120
+FoodandDrugAdministration
+ExpirationDate:06/30/2023
+Indications for Use SeePRAStatementbelow.
+510(k)Number(ifknown)
+K231157
+DeviceName
+syngo.CTLung CAD (Version VD30)
+IndicationsforUse(Describe)
+syngo.CTLungCADdeviceisacomputer-aideddetection(CAD)tooldesignedtoassistradiologistsinthedetectionof
+solidandsubsolidpulmonarynodulesduringreviewofmulti-detectorcomputedtomography(MDCT)from multivendor
+examinationsofthechest.Thesoftwareisanadjunctivetooltoalerttheradiologisttoregionsof interest(ROI)thatmay
+beotherwiseoverlooked.
+Thesyngo.CTLungCADdevicemay beusedasaconcurrentfirstreaderfollowed byafullreviewofthecase bythe
+radiologistorassecondreaderaftertheradiologisthascompletedhis/herinitialread.
+Thesyngo.CTLungCADdevicemayalsobe usedin"solid-only"mode,wherepotential(orsuspected)sub-solidand/or
+fullycalcifiedCADfindings arefilteredout.
+Thesoftwaredevice isanalgorithmwhichdoesnothaveitsown userinterfacecomponentfordisplayingofCADmarks.
+TheHostingApplication incorporatingsyngo.CTLungCADisresponsiblefor implementinga userinterface.
+TypeofUse(Selectoneorboth,asapplicable)
+|X| PrescriptionUse(Part21CFR801SubpartD) O Over-The-CounterUse(21CFR801SubpartC)
+CONTINUEONA SEPARATEPAGEIF NEEDED.
+ThissectionappliesonlytorequirementsofthePaperworkReductionActof1995.
+*DONOTSENDYOURCOMPLETEDFORMTOTHEPRASTAFFEMAILADDRESS*.BELOW*
+Theburdentimeforthiscollectionofinformationisestimatedtoaverage79hoursperresponse,includingthe
+timetoreviewinstructions,searchexistingdatasources,gatherandmaintainthedataneededandcomplete
+andreviewthecollectionofinformation.Sendcommentsregardingthisburdenestimateoranyotheraspect
+ofthisinformationcollection,includingsuggestionsforreducingthisburden,to:
+DepartmentofHealth andHumanServices
+FoodandDrugAdministration
+OfficeofChiefInformationOfficer
+PaperworkReductionAct(PRA)Staff
+PRAStaff© fda.hhs.gov
+“Anagencymaynotconductorsponsor,andapersonisnotrequiredtorespondto,acollectionof
+informationunlessitdisplaysacurrentlyvalidOMBnumber.”
+FORMFDA3881(6/20) Page1of1 PSCPublishingSenices(301)443-6740 EF510(k) Summary
+This summary of 510(k) safety and effectiveness information is being submitted in ac-
+cordance with the requirements of SMDA 1990 and 21 CFR §807.92.
+Date prepared: July 18th, 2023
+1. Submitter (Legal Manufacturer):
+Siemens Healthcare GmbH
+Henkestrasse 127
+91052 Erlangen
+Germany
+Establishment Registration Number:
+3004977335
+2. Contact Person:
+Mr. Abhineet Johri
+Regulatory Affairs Manager
+Siemens Healthcare GmbH,
+40 Liberty Blvd
+Malvern, PA 19355.
+U.S.A
+E-mail: abhineet.johri@siemens-healthineers.com
+Telephone: +1 (484) 680-8723
+3. Device Name and Classification:
+Trade Name: syngo.CT Lung CAD (Version VD30)
+Classification Name: Medical image management and processing system
+Classification Panel: Radiology
+Common Name: Lung computed tomography system, computer-aided detection
+CFR Section: 21 CFR §892.2050
+Device Class: Class II
+Product Code: OEB
+4. Legally Marketed Predicate Device:
+Trade Name: syngo.CT Lung CAD (Version VD20)
+510(k) Clearance: K203258
+Clearance Date: March 31, 2021
+Classification Name: Medical image management and processing system
+510(k) for syngo.CT Lung CAD VD30 Page 2Classification Panel: Radiology
+Common Name: Lung computed tomography system, computer-aided detection
+CFR Section: 21 CFR §892.2050
+Device Class: Class II
+Product Code: OEB
+Recall Information: This predicate device has not been the subject of any
+design related recalls.
+5. Device Description:
+Siemens Healthcare GmbH intends to market the syngo.CT Lung CAD which is a medical
+device that is designed to perform CAD processing in thoracic CT examinations for the
+detection of solid pulmonary nodules (between 3.0 mm and 30.0mm) and subsolid nodules
+(between 5.0 mm and 30.0mm) in average diameter. The device processes images acquired
+with multi-detector CT scanners with 16 or more detector rows recommended.
+The syngo.CT Lung CAD device supports the full range of nodule locations (central, pe-
+ripheral) and contours (round, irregular).
+The syngo.CT Lung CAD sends a list of nodule candidate locations to a visualization ap-
+plication, such as syngo MM Oncology, or a visualization rendering component, which
+generates output images series with the CAD marks superimposed on the input thoracic CT
+images to enable the radiologist’s review. syngo MM Oncology (FDA clearanceK211459
+and subsequent versions ) is deployed on the syngo.via platform (FDA clearance k191040
+and subsequent versions), which provides a common framework for various other
+applications implementing specific clinical workflows (but are not part of this clearance)
+to display the CAD marks. The syngo.CT Lung CAD device may be used either as a
+concurrent first reader, followed by a review of the case, or as a second reader only after
+the initial read is completed
+The subject device and predicate device have the same basic technical characteristics. This
+does not introduce new types of safety or effectiveness concerns as demonstrated by the
+statistical analyses and additional evaluations results documented in the Statistical
+Analysis.
+6. Intended Use:
+syngo.CT Lung CAD software device is a Computer-Aided Detection (CAD) tool
+designed to assist radiologists in the detection of pulmonary nodules during review of
+multi-detector computed tomography(MDCT) examinations of the thorax (chest). The
+software is an adjunctive tool to alert the radiologist to regions of interest (ROI) that may
+otherwise be overlooked.
+510(k) for syngo.CT Lung CAD VD30 Page 37. Indications for Use:
+syngo.CT Lung CAD device is a computer-aided detection (CAD) tool designed to assist
+radiologists in the detection of solid and subsolid pulmonary nodules during review of
+multi-detector computed tomography (MDCT) from multivendor examinations of the
+chest. The software is an adjunctive tool to alert the radiologist to regions of interest
+(ROI) that may be otherwise overlooked.
+The syngo.CT Lung CAD device may be used as a concurrent first reader followed by a
+full review of the case by the radiologist, or as a second reader after the radiologist has
+completed his/her initial read.
+The syngo.CT Lung CAD device may also be used in "solid-only" mode, where potential
+(or suspected) sub-solid and/or fully calcified CAD findings are filtered out.
+The software device is an algorithm which does not have its own user interface compo-
+nent for displaying of CAD marks. The Hosting Application incorporating syngo.CT
+Lung CAD is responsible for implementing a user interface.
+Safety and Effectiveness Information
+Software design description, hazard analysis, and technical and safety information have
+also been completed and provided in support of this device. The results of the hazard anal-
+ysis, combined with the appropriate preventive measures taken indicate the device is of
+moderate level of concern, as per Guidance for the Content of Premarket Submission for
+Software Contained in Medical Devices, May 2005.
+The device has no PHI and is utilized only by trained professionals. The output of the device
+is evaluated by trained professionals as a concurrent first reader or as a second reader. Use
+of this device does not impact the quality or status of the original acquired data.
+Substantial Equivalence:
+This premarket notification assesses that while Siemens syngo.CT Lung CAD VD30 in-
+troduces changes to the cleared device (syngo.CT Lung CAD VD20, K203258) in the in-
+dications for use, the technological characteristics for of the product have remained un-
+changed.
+Specifically, both the predicate VD20 and the subject device VD30 share the same algo-
+rithm based on Convolutional Neural Networks (CNN) and the same basic architectural
+workflow. However, VD30 extends the indication for use of VD20 by introducing:
+I. The syngo.CT Lung CAD device may also be used in "solid-only" mode,
+where potential (or suspected) sub-solid and/or fully calcified CAD findings
+are filtered out.
+510(k) for syngo.CT Lung CAD VD30 Page 4This extension does not introduce new types of safety or effectiveness questions. As
+demonstrated by the statistical analysis and the results of the standalone benchmark eval-
+uation:
+I. The standalone accuracy has shown that the sensitivity of VD30 in solid-
+only mode is not inferior to VD20 in standard mode
+II. The mean number of false positives per subject is significantly lower with
+VD30 in solid-only mode
+In summary, Siemens Healthcare GmbH is of the opinion that the syngo.CT Lung CAD
+software, as described within this document, does not pose any unmitigated safety risks and
+is substantially equivalent to the predicate device.
+8. Summary of Differences between the Subject Device and the Predicate Device:
+The differences between the subject device described in this premarket notification and
+the predicate device are summarized in the following comparison Table 1 and Table 2 be-
+low.
+510(k) for syngo.CT Lung CAD VD30 Page 5Current Predicate
+Subject New Device
+Type of Change and
+Device
+Device syngo.CT Lung CAD
+Impact to Safety & Ef-
+syngo.CT Lung CAD
+Characteristic (VD30)
+fectiveness
+(VD20) (K203258)
+Siemens Healthcare Siemens Healthcare [Unchanged]
+Manufacturer
+GmbH GmbH No Impact
+Detection target Solid and subsolid pul- Solid and subsolid [Unchanged]
+monary nodules in pulmonary nodules in No Impact
+screening and diagnos- screening and diag-
+tic chest CT acquisi- nostic chest CT acqui-
+tions sitions
+Intended Use syngo.CT Lung CAD syngo.CT Lung CAD [Unchanged]
+software device is a software device is a
+No impact
+Computer-Aided De- Computer-Aided De-
+tection (CAD) tool de- tection (CAD) tool
+signed to assist radiol- designed to assist ra-
+ogists in the detection diologists in the de-
+of pulmonary nodules tection of pulmonary
+during review of multi- nodules during review
+detector computed to- of multi-detector com-
+mography (MDCT) ex- puted tomography
+aminations of the (MDCT) examina-
+thorax (chest). The tions of the thorax
+software is an adjunc- (chest). The software
+tive tool to alert the ra- is an adjunctive tool
+diologist to regions of to alert the radiologist
+interest (ROI) that may to regions of interest
+otherwise be (ROI) that may other-
+overlooked. wise be overlooked.
+510(k) for syngo.CT Lung CAD VD30 Page 6Indications For Use (cid:120) The syngo.CT (cid:120) syngo.CT Lung [Updated]
+Lung CAD device CAD device is a
+is a computer-aided computer-aided Included a solid only
+detection (CAD) detection (CAD) mode to enable only
+tool designed to as- tool designed to displaying solid nodules
+sist radiologists in assist radiologists (excluding fully calci-
+the detection of in the detection of fied nodules and non-
+solid and subsolid solid and subsolid solid nodules)
+pulmonary nodules pulmonary nod-
+during review of ules during review
+multivendor, multi- of multi-detector
+detector computed computed tomog-
+tomography raphy (MDCT)
+(MDCT) examina- from multivendor
+tions of the chest. examinations of
+(cid:120) The software is an the chest.
+adjunctive tool to (cid:120) The software is an
+alert the radiologist adjunctive tool to
+to regions of inter- alert the radiolo-
+est (ROI) that may gist to regions of
+be otherwise over- interest (ROI) that
+looked. may be otherwise
+(cid:120) The syngo.CT overlooked.
+Lung CAD device (cid:120) The syngo.CT
+is to be used either Lung CAD device
+as a concurrent first may be used as a
+reader, followed by concurrent first
+radiologist review, reader followed by
+or as a second a full review of
+reader after the ra- the case by the ra-
+diologist has com- diologist or as a
+pleted his/her ini- second reader af-
+tial read. ter the radiologist
+(cid:120) The software de- has completed
+vice is an algorithm his/her initial read.
+which does not (cid:120) The syngo.CT
+have its own user Lung CAD device
+interface compo- may also be used
+nent for displaying in "solid-only"
+of CAD marks. The mode, where po-
+hosting Application tential (or sus-
+incorporating pected) sub-solid
+syngo.CT Lung and/or fully calci-
+CAD is responsible fied CAD findings
+for implementing a are filtered out.
+u ser interface. (cid:120) The software de-
+vice is an
+510(k) for syngo.CT Lung CAD VD30 Page 7algorithm which
+does not have its
+own user interface
+component for
+displaying of
+CAD marks. The
+hosting Applica-
+tion incorporating
+syngo.CT Lung
+CAD is responsi-
+ble for implement-
+ing a user inter-
+face.
+Nodule Size Diameter [Unchanged]
+Characteristics (cid:120) Solid ≥ 3 mm and (cid:120) Solid ≥ 3 mm and
+No impact
+< 30mm < 30mm
+(cid:120) Subsolid ≥ 5 mm (cid:120) Subsolid ≥ 5 mm
+and < 30 mm and < 30 mm
+Locations Locations
+(cid:120) full range: central, (cid:120) full range: central,
+peripheral peripheral
+Contours: Contours:
+round, irregular (cid:120) round, irregular
+Reader concurrent first reader concurrent first reader [Unchanged]
+Workflow OR OR No impact
+second reader work- second reader work-
+flow flow
+Input scanning param- Scanners Scanners [Unchanged]
+eters Multi-vendor and Multi-vendor and No Impact
+multi-detector CT multi-detector CT
+(MDCT) scanners. (MDCT) scanners.
+Detector rows Detector rows [Unchanged]
+16 or more detector 16 or more detector No impact
+rows recommended rows recommended
+Scan area Scan area [Unchanged]
+The scan area needs to The scan area needs to No impact
+comprise the entire comprise the entire
+thorax covering the thorax covering the
+lung apices to the bases lung apices to the ba-
+(single breath hold rec- ses (single breath hold
+ommended) recommended)
+Scan direction Scan direction [Unchanged]
+Cranio-caudal or cau- Cranio-caudal or cau- No Impact
+dal-cranial dal-cranial
+510(k) for syngo.CT Lung CAD VD30 Page 8Voltage Voltage [Unchanged]
+100 -140 kVp 100 -140 kVp No impact
+Collimation Collimation [Unchanged]
+1 mm or less 1 mm or less No Impact
+Slice Thickness Slice Thickness [Unchanged]
+Up to and including Up to and including No Impact
+2.5 mm with 2.5 mm with
+1.25 mm preferred 1.25 mm preferred
+Slice overlap Slice Overlap [Unchanged]
+0–50% 0–50% No impact
+Note: Reconstruction Note: Reconstruction
+overlap is allowed, but overlap is allowed,
+gaps are not permitted but gaps are not per-
+mitted
+Kernel Kernel [Unchanged]
+Consistent with tho- Consistent with tho- No impact
+racic CT protocols and racic CT protocols
+in line with patient and in line with pa-
+safety tient safety
+guidelines. Kernels guidelines. Kernels
+were grouped as to were grouped as to
+their profile. Typical their profile. Typical
+kernels kernels
+validated by the reader validated by the
+study were: reader study were:
+Smooth: B, B30f, Smooth: B, B30f,
+Standard, FC10. Standard, FC10.
+Medium: C, B45f, Medium: C, B45f,
+B50f, Lung, FC50, B50f, Lung, FC50,
+FC51, Bv49d_2, FC51, Bv49d_2,
+I50f_2, B60f. I50f_2, B60f.
+Sharp: D, B70f, Bone, Sharp: D, B70f, Bone,
+FC52 . FC52.
+510(k) for syngo.CT Lung CAD VD30 Page 9Dose Dose [Unchanged]
+Consistent with tho- Consistent with tho- No impact
+racic CT protocols and racic CT protocols
+in line with patient and in line with pa-
+safety guidelines. tient safety guidelines.
+Typical values are: Typical values are:
+CTDIvol < 8.0 mGy CTDIvol < 8.0 mGy
+(milligray) in diagnos- (milligray) in diagnos-
+tic protocols and tic protocols and
+CTDIvol of = 3.0 mGy CTDIvol of = 3.0
+in screening protocols. mGy in screening pro-
+These values are de- tocols. These values
+fined for standard sized are defined for stand-
+patient—5 ft 7 in., 154 ard sized patient—5 ft
+lb (170 cm, 70 kg)— 7 in., 154 lb (170 cm,
+based on a 32-cm ref- 70 kg)—based on a
+erence phantom with 32-cm reference phan-
+appropriate reductions tom with appropriate
+in CTDIvol for smaller reductions in CTDIvol
+patients and appropri- for smaller patients
+ate increases in and appropriate in-
+CTDIvol for larger pa- creases in
+tients.None CTDIvol for larger
+patients.None
+Hosting Platform syngo.via syngo.via [Unchanged]
+No impact
+Hosting Application syngo MM Oncology syngo MM Oncology [Unchanged]
+No impact
+Table 1 Summary of Differences between the Subject Device and the Predicate Device
+Functional Compo- LungCAD VD20 LungCAD VD30
+nent
+Preprocessing (a) isotropic volume (a). Isotropic volume resampling and
+Standardization of resampling and image image standardization
+the input images and standardization. (b) lung segmentation is accomplished by
+lung segmentation (b) lung segmentation is ac- computing masks of right upper (RUL),
+complished using a CNN. right middle (RML), right lower (RLL),
+Initially a coarse estimation left upper (LUL), and left lower (LLL)
+of the lung is performed us- lobes for a given CT dataset of chest. The
+ing a V-net process. Using segmentation task is designed as a voxel
+two predefined bounding level classification task for predicting it
+boxes left and right lungs are as one of the lung lobe labels or the
+510(k) for syngo.CT Lung CAD VD30 Page 10initialized. Another V-net is background label. The output is a proba-
+used to segment left and bility map indicating how likely each
+right lungs. This is followed voxel belongs to each lung lobe. The al-
+by up-sampling to the origi- gorithm is trained on lung CT data in-
+nal image resolution. cluding comorbidities for robustness.
+Candidate Genera- (a) isotropic volume is parti- (a) isotropic volume is partitioned into
+tion tioned into subvolumes subvolumes
+The partitioned vol- (b) Each subvolume is fed to (b) Each subvolume is fed to a CNN to
+ume is processed us- a CNN to compute features compute features (“response volume”).
+ing a CNN and fil- (“response volume”). Filter- Filtering and non-maximum suppression
+tered to yield a list of ing and non-maximum sup- yield a list of candidates for each sub-
+candidates for each pression yield a list of candi- volume
+subvolume. dates for each subvolume (c) candidates above a certain threshold
+(c) candidates above a cer- score are passed to the next step.
+tain threshold score are
+passed to the next step.
+Candidate Classifi- CNN is used for feature CNN is used for feature computation for
+cation utilizes a computation for each candi- each candidate.
+CNN-based classifier date. (a) The input image patch is firstly pro-
+to process each can- (a) The input image patch is cessed by batch normalization.
+didate and estimate firstly processed by batch (b) Three group blocks of operations are
+the normalization. computed. In each block, a convolution,
+likelihood of its type (b) Three group blocks of followed by a batch normalization and
+as either “nodule” or operations are computed. In then a ReLU activation are used.
+“non-nodule”. each block, a convolution, Residual blocks and concatenation
+followed by a batch operations are used for robustness.
+normalization and then a (c) Semantic features from image fea-
+ReLU activation are used. tures are computed using two fully con-
+Residual blocks and nected layers.
+concatenation operations are (d) A soft-max function, applied to each
+used for robustness candidate, assigns 2 values correspond-
+(c) Semantic features from ing to the probability of being a nodule or
+image features are computed being a false positive.
+using two fully connected (e) A weighted-sum of the scores from
+layers. this phase and the results of the prior step
+is computed. Candidates above a certain
+(d) A soft-max function, ap-
+threshold score are labeled as nodule can-
+plied to each candidate, as-
+didates.
+signs 2 values corresponding
+to the probability of being a
+nodule or being a false posi-
+tive.
+510(k) for syngo.CT Lung CAD VD30 Page 11(e) A weighted-sum of the
+scores from this phase and
+the results of the prior step
+is computed. Candidates
+above a certain threshold
+score are labeled as nodule
+candidates.
+Postfiltering1 This step includes the appli- This step includes the application of
+cation of two cascaded fil- three cascaded filters. The first one aims
+ters. These two filters aim at at removing false positives originating
+removing false positives from the colon and the second one aims
+originating from the colon at removing false positives from calci-
+and calcified protrusions (for fied protrusions (for example, areas
+example, areas where the where the sternum meets the manubrium,
+sternum meets the spine malformations, and osteophytes,
+manubrium, spine and so on).The third one aims at assign-
+malformations, osteophytes, ing nodule type labels to all findings
+and so on). (solid, nonsolid, fully calcified).
+The first filter is a CNN-
+based classifier that has a The first filter is a CNN-based classifier
+similar structure to that of that has a similar structure to that of the
+the classifier used in the classifier in step 3.
+candidate classification step. The second filter uses three orthogonal
+The second filter uses three slices at the candidate location as input to
+orthogonal slices at the can- three CNN-based classifiers (one per
+didate location as input to slice). The results from the three classifi-
+three CNN-based classifiers ers is then combined by a max-voting
+(one per slice). The results mechanism. Any candidate deemed a
+from the three classifiers are false positive by either filter is thus re-
+then combined by a max- moved.
+voting mechanism. Any can- The third filter has two parts. The first
+didate deemed a false posi- part is a CNN-based classifier that has a
+tive by either filter is thus re- similar structure to that of the classifier
+moved. used in the candidate classification step.,
+which classifies findings into solid and
+1 The third filter was added in VD30.
+510(k) for syngo.CT Lung CAD VD30 Page 12non-solid groups. The second filter is
+constructed by using a set of hand-crafted
+rules based on features extracted from
+Raycast methods. The second filter fur-
+ther labels some of the solid nodules as
+“fully calcified”. User could choose to
+display findings in “solid only” mode so
+that non-solid nodules and fully calcified
+nodules are excluded.
+Final Candidate The location information of The location information of all the nod-
+List all the nodule candidates are ule candidates are collected into a final
+collected into a final candi- candidate list passed to Hosting Applica-
+date list passed to the Host- tion.
+ing Application
+Table 2 Functional Components for syngo.CT Lung CAD VD20 (predicate) and syngo.CT Lung CAD VD30 (Sub-
+ject device)
+9. Statistical Analysis Summary
+The standalone performance analysis was designed to demonstrate the substantial equivalence
+between syngo.CT Lung CAD VD30A (VD30) and the predicate device syngo.CT Lung CAD
+VD20. It included two parts. The first one, focused on demonstrating that
+i) the sensitivity of VD30 in solid-only mode is not inferior to VD20 in standard mode.
+ii) the mean number of false positives per subject is significantly lower with VD30 in
+solid-only mode and
+iii) that the 2 CAD systems overlap in TPs and FPs;
+while the second part focused on comparing the lesion-level sensitivity and mean number of
+FPs/subject of the 2 CAD systems, both in standard mode, for identifying any nodules and
+showing that the sensitivity and mean number of FPs/subject of VD30 in standard mode are
+not inferior to VD20 in standard mode.
+The same retrospectively collected 712 CT thoracic cases, as used in the submission for the pred-
+icate device VD20 (K203258), were included in this evaluation. The data came from 3 sources:
+The UCLA study (232 cases), the original PMA study (145 cases) and some additional cases
+(335 cases). Each CT scan had been performed using a routine clinical protocol that was standard
+for each participating institution. The reference standard for the UCLA data was determined as
+part of the reader study (K203258). For the cases coming from the PMA study, ground truth was
+510(k) for syngo.CT Lung CAD VD30 Page 13established by 18 readers, where 9 of 18 readers are needed for declaring a finding as a true
+nodule. For the addition cases, ground truth was established by 7 readers, where 4 of the 7 readers
+are needed for declaring a finding as a true nodule. There were 929 true nodules from 412 cases.
+Of the 3560 lung lobes, 647 contained at least one true nodule and 2913 contained no true nod-
+ules, as determined by the reference standard.
+All endpoints of the analyses were satisfactorily met.
+The statistical analyses have provided the required evidence to demonstrate that the primary as
+well as the secondary endpoints were met; thus, demonstrating that the new device syngo.CT
+Lung CAD VD30 is substantially equivalent to the predicate syngo.CT Lung CAD VD20.
+Hence, the new device was shown to be: (a) as safe and effective as the legally marketed predicate
+device and (b) not to raise questions of safety and effectiveness compared to the predicate device
+with respect to the extensions of the indication for use.
+10. Non-clinical Performance Testing:
+Non-clinical tests were conducted for the device syngo.CT Lung CAD (during product devel-
+opment. The modifications described in this Premarket Notification were supported with verifi-
+cation and validation testing.
+Siemens Healthcare GmbH claims conformance to the following standards:
+- ISO 14971:2019 Third Edition 2019-12IEC 62304 Edition 1.1 2015-06 Consolidated Ver-
+sion
+- IEC 62366-1 Edition 1.0 2015-02
+11.Software Verification and Validation:
+Software documentation for a Moderate Level of Concern software per FDA’s Guidance Docu-
+ment “Guidance for the Content of Premarket Submissions for Software Contained in Medical
+Devices” issued on May 11, 2005 is also included as part of this submission. The performance
+data demonstrates continued conformance with special controls for medical devices containing
+software. Non-clinical tests were conducted on the device syngo.CT Lung CAD during product
+development.
+The Risk Analysis was completed, and risk control implemented to mitigate identified hazards.
+The testing results support that all the software specifications have met the acceptance criteria.
+Testing for verification and validation for the device was found acceptable to support the claims
+of substantial equivalence.
+510(k) for syngo.CT Lung CAD VD30 Page 14Summary:
+Performance tests were conducted to test the functionality of the device syngo.CT Lung CAD .
+These tests have been performed to assess the functionality of the subject device. Results of all
+conducted testing were found acceptable in supporting the claim of substantial equivalence.
+12. Safety and Effectiveness Information:
+Software specifications, design descriptions, hazard analysis, and labeling information are sub-
+mitted in support of this premarket notification. The device labeling contains instructions for
+use with cautions to provide for safe and effective use of the device.
+The results of the hazard analysis combined with the appropriate preventive measures taken in-
+dicate the device is of moderate level of concern, as per the Guidance for the Content of Pre-
+market Submissions for Software Contained in Medical Devices (May 11, 2005).
+13. Conclusion as to Substantial Equivalence:
+This premarket notification assesses that while Siemens syngo.CT Lung CAD VD30 intro-
+duces change to the cleared device (syngo.CT Lung CAD VD20) in the indication for use, the
+technological characteristics of the product and intended use have remained unchanged.
+Specifically, both the predicate VD20 and VD30 share the same algorithm based on Convolu-
+tional Neural Networks (CNN) and the same basic architectural workflow.
+The bug fixes and addition of the postfiltering do not introduce new types of safety or effec-
+tiveness questions as demonstrated in the statistical analysis.
+The substantial equivalence comparison is performed with the previously cleared VD20 version
+of this device, as reflected in the predicate labeling and provided in the 510(k) cleared in March
+2021 (K203258).
+In summary, Siemens Healthcare GmbH is of the opinion that the syngo.CT Lung CAD software,
+as described within this document, does not pose any unmitigated safety risks and is substantially
+equivalent to the predicate device since its accuracy has been shown to be superior to the predi-
+cate device and the marks are reasonably consistent.
+510(k) for syngo.CT Lung CAD VD30 Page 15

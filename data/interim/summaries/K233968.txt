@@ -1,0 +1,417 @@
+Avicenna.AI
+℅ John Smith
+Partner
+Hogan Lovells US LLP
+555 13th St. NW
+Washington, District of Columbia 20005
+March 13, 2024
+Re: K233968
+Trade/Device Name: CINA-iPE
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: December 15, 2023
+Received: December 15, 2023
+Dear John Smith:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.09
+Silver Spring, MD 20993
+www.fda.govK233968 - John Smith Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Review
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K233968
+Device Name
+CINA-iPE
+Indications for Use (Describe)
+CINA-iPE is a radiological computer-aided triage and notification software indicated for use in patients undergoing
+contrast-enhanced CT scans (not dedicated CTPA protocol) for other clinical indications than pulmonary embolism
+suspicion, including at least a part of the lung. The device is intended to assist hospital networks and appropriately trained
+radiologists in workflow triage by flagging and communicating suspected positive findings for incidental Pulmonary
+Embolism (iPE). The device is indicated for adults and transitional adolescents (18 to 21 years old but treated as adults).
+CINA-iPE uses an artificial intelligence algorithm to analyze images and highlight cases with detected incidental PE on a
+standalone application in parallel to the ongoing standard of care image interpretation. The user is presented with
+notifications for cases with suspected incidental PE findings.The device is not designed to detect PE in subsegmental
+arteries.
+Notifications include compressed preview images that are meant for informational purposes only and are not intended for
+diagnostic use beyond notification. The device does not alter the original medical image, and it is not intended to be used
+as a diagnostic device.
+The results of CINA-iPE are intended to be used in conjunction with other patient information and based on their
+professional judgment, to assist with triage/prioritization of medical images. Notified clinicians are ultimately responsible
+for reviewing full images per the standard of care.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK233968
+510(K) SUMMARY
+AVICENNA.AI’s CINA-IPE
+Submitter
+Applicant:
+AVICENNA.AI
+ZI Athelia, 297 Av. du Mistral Bât. A,
+13600 La Ciotat France
+Contact Person:
+Stephane Berger
+Regulatory Manager
+Phone: +33 6 12 12 28 13
+E-mail: stephane.berger@avicenna.ai
+Date prepared: March 12, 2024
+Device Identification
+Name of Device: CINA-iPE
+Classification Name: Radiological computer aided triage and
+notification software
+Regulation No: 21 CFR § 892.2080
+Product Code: QAS
+Regulatory Class: Class II
+Classification Panel: Radiology
+Predicate Device
+The CINA-iPE device is substantially equivalent to the following predicate device with regard to
+indications for use, performance, and technological characteristics:
+510(k): K213886
+Trade Name: BriefCase
+Manufacturer: Aidoc Medical, Ltd.
+Classification Name: Radiological computer aided triage and notification software
+Regulation No: 21 CFR § 892.2080
+Product Code: QAS
+Regulatory Class: Class IIDevice Description
+CINA-iPE is a radiological computer aided triage and notification software device.
+CINA-iPE runs on a standard “off the shelf” server/workstation and consists of an Image Processing
+Application, which can be integrated, deployed, and used with the CINA Platform (cleared under
+K200855) or other medical image communications devices. CINA-iPE receives contrast-enhanced CT
+scans (not dedicated CTPA protocol) including at least a part of the lung identified by the CINA
+Platform or other medical image communications device, processes them using deep learning
+algorithms involving the execution of multiple computational steps to identify the suspected presence
+of an incidental pulmonary embolism and generates results files to be transferred by CINA Platform or
+a similar medical image communications device for output to a PACS system or workstation for worklist
+prioritization.
+To identify the suspected presence of pulmonary embolisms, the device uses a deep learning model
+trained end-to-end on 5,429 cases acquired from US and France, representing a distribution of PE
+sizes, locations and acquisition protocols, including multiple scanner models from Siemens, Philips,
+GE and Canon/Toshiba. Additional models are used to locate the aorta and main pulmonary artery,
+enabling assessment of the contrast timing. The lung’s parenchyma is segmented to evaluate both
+the presence of the lungs in the field of view and to limit the region of interest for detecting the presence
+of pulmonary embolisms.
+DICOM images are received, recorded and filtered before processing. The series are processed
+chronologically by running algorithms on each series to detect suspected positive findings of an
+incidental Pulmonary Embolism (iPE), then active notifications on the flagged series are sent to the
+Worklist Application.
+The Worklist Application displays the active notification of new studies with suspected findings when
+they come in. All the contrast-enhanced CT studies received by CINA-iPE device are displayed in the
+worklist and those on which the algorithms have detected a suspected finding are marked with an icon
+(i.e., passive notification). In addition, a compressed, grayscale, unannotated image that is marked
+“not for diagnostic use” is displayed as a preview function. This compressed preview is meant for
+informational purposes only, does not contain any marking of the findings, and is not intended for
+diagnostic use beyond notification.
+Presenting the radiologist with notification facilitates earlier triage by allowing prioritization of images
+in the PACS. Thus, the suspect case receives attention earlier than would have been the case in the
+standard of care image interpretation practice alone.
+The CINA platform is an example of medical image communications platform for integrating and
+deploying the CINA-iPE image processing application. The medical image communications device
+(i.e., the technical platform) provides the necessary requirements for interoperability based on the
+standardized DICOM protocol and services to communicate with existing systems in the hospital
+radiology department such as CT modalities or other DICOM nodes (DICOM router or PACS for
+example). It is responsible for transferring, storing, converting formats, notifying of suspected findings
+and displaying medical device data such as radiological data. The medical image communications
+server includes the Worklist client application in which notifications from the CINA-iPE Image
+Processing application are received.Intended Use / Indications for Use
+CINA-iPE is a radiological computer-aided triage and notification software indicated for use in patients
+undergoing contrast-enhanced CT scans (not dedicated CTPA protocol) for other clinical indications
+than pulmonary embolism suspicion, including at least a part of the lung. The device is intended to
+assist hospital networks and trained radiologists in workflow triage by flagging and communicating
+suspected positive findings for incidental Pulmonary Embolism (iPE). The device is indicated for adults
+and transitional adolescents (18 to 21 years old but treated as adults).
+CINA-iPE uses an artificial intelligence algorithm to analyze images and highlight cases with detected
+incidental PE on a standalone application in parallel to the ongoing standard of care image
+interpretation. The user is presented with notifications for cases with suspected incidental PE findings.
+The device is not designed to detect PE in subsegmental arteries.
+Notifications include compressed preview images that are meant for informational purposes only and
+are not intended for diagnostic use beyond notification. The device does not alter the original medical
+image, and it is not intended to be used as a diagnostic device.
+The results of CINA-iPE are intended to be used in conjunction with other patient information and
+based on professional judgment to assist with triage/prioritization of medical images. Notified clinicians
+are ultimately responsible for reviewing full images per the standard of care.
+Summary of Performance Data
+The following performance data were provided in support of the substantial equivalence determination.
+Software Verification and Validation Testing
+CINA-IPE complies with DICOM (Digital Imaging and Communications in Medicine) – Developed by
+the American College of Radiology and the National Electrical Manufacturers Association. NEMA PS
+3.1 - 3.20.
+Avicenna.AI conducted extensive performance validation testing and software verification and
+validation testing of the CINA-IPE device as standalone software. CINA-IPE is tested against its user
+needs and intended use by the successful execution of planned software verification and validation
+testing included in this submission.
+Software performance, validation and verification testing demonstrated that the CINA-IPE met all
+design requirements and specifications associated with the intended use of the software.
+Standalone Performance Testing
+Avicenna.AI conducted a retrospective, multicenter, multinational and blinded study with the CINA-iPE
+application with the primary endpoint to evaluate the software’s performance in identifying incidental
+pulmonary embolisms (iPE) on contrast-enhanced CT images performed for another clinical indication
+than for pulmonary embolism (PE) evaluation (i.e. not dedicated CTPA protocol), in 381 clinical
+anonymized cases. The dataset included 53.5% Male and 46.7% Female. Mean ± SD age of patients
+included in the study was 64.5 ± 15.8 yo (range: 18 - 99 yo).Multiple subgroups of interest were considered in the analysis. In fact, the validation data was acquired
+from different regions across the U.S. to account for race/ethnicity in the intended U.S. patient
+population. Additional scanner parameters considered were slice thickness, number of detector rows,
+and kVp ranges. Detailed subgroup analysis were reported in the labeling.
+The data was provided from multiple U.S. and OUS clinical sites, with 56.4% (215) cases coming from
+U.S. clinical sources. The independence of the standalone validation dataset from the training data
+was ensured using data from independent sites and different time periods. There were 181 (47.5%)
+positive iPE (images with PE) cases and 200 (52.5%) negative iPE cases included in the analyses.
+The data was acquired primarily by 4 different scanner makers (GE-31.5%, Philips-28.3%, Siemens-
+26%, and Canon-13.9%) and 39 different scanner models.
+Device Sensitivity [95% CI] and Specificity [95% CI] were computed against the groundtruth
+established by consensus of three US-board-certified expert radiologists.
+As a primary endpoint, the global Sensitivity and Specificity were found to be 87.8% [95%CI: 82.2% -
+92.2%] and 92.0% [95%CI: 87.3% - 95.4%], respectively. These findings achieved the 80%
+performance goal of the study and are similar to the results reported for the predicate BriefCase device
+(Aidoc Medical) which demonstrated Sensitivity and Specificity of 89.7% [95%CI: 80.8% - 95.5%] and
+90.1% [95%CI: 81.5% - 95.6%], respectively.
+Additionally, subgroup analysis was reported in terms of sensitivity [95%CI] for each lesion location
+(main, interlobar, lobar and segmental) as presented in the following Table:
+Table 1: Stratified statistical analysis (Sensitivity [95%CI]) regarding arterial segments.
+Sensitivity
+Arterial Segment
+[95% CI]
+Main 96.3%
+(N = 55) [87.5% - 99.6%]
+Interlobar 94.5%
+(N = 73) [86.6% - 98.5%]
+Lobar 92.9%
+(N = 127) [87.0% - 96.7%]
+Segmental 88.3%
+(N = 179) [82.6% - 92.6%]
+Please note that cases with more than one PE location were included in more than one category (e.g.,
+a case with a main and a lobar PE was included in the “main” category and in the “lobar” category)
+Finally, the CINA-iPE prioritization and triage effectiveness were evaluated by the standalone per-
+case processing time of the device (time-to-notification). The results are presented in Table 2 below:Table 2: Time-to-Notification for CINA-iPE Image Processing Applications
+Time-to-Notification
+MEAN ± SD MEDIAN 95% CI MIN MAX
+(minutes)
+CINA-iPE
+All cases 1.5 ± 0.5 1.4 [1.4 - 1.5] 0.3 2.7
+(N = 381)
+CINA-iPE
+True Positive cases 1.5 ± 0.4 1.5 [1.4 - 1.6] 0.7 3.1
+(N = 159)
+The mean [95% CI] time-to-notification for all included cases (n = 381) was estimated to be 1.5 [95%
+CI: 1.4 – 1.5] minutes for CINA-iPE. When taking into account only true positive cases (n = 159), the
+mean [95% CI] time-to-notification was 1.5 [95% CI: 1.4 – 1.6] minutes for CINA-iPE and 4.7 [95% CI:
+4.4 – 5.1] minutes for the predicate device.
+The performance testing of the CINA-iPE device establishes that the subject device is as safe and
+effective as the predicate device and compatible with the same clinical use, since the performance
+demonstrated the clinical effectiveness of the subject device and its ability to provide effective
+prioritization and triage that was substantially equivalent to that of the predicate device. This
+establishes that the CINA-iPE device achieves its intended use and is substantially equivalent to the
+predicate BriefCase device.
+Substantial Equivalence
+The subject CINA-iPE and the predicate BriefCase device are both intended to aid in prioritization and
+triage of radiological images of time sensitive findings for patient detection and diagnosis (i.e.,
+incidental Pulmonary Embolism) based on the analysis of medical images acquired from radiological
+signal acquisition systems. The CINA device provides the CINA Platform in which the subject CINA-
+iPE prioritization and triage application can be integrated, deployed and used. The labeling of the
+subject and the predicate devices clearly states that the devices are not for diagnostic use. All devices
+are software packages with similar technological characteristics and principles of operation, and
+incorporate deep learning AI algorithms that process images, and software to send notifications and
+to display unannotated preview images. In all three devices, the labeling instructs the user to further
+evaluate and diagnose based only on the original images in the local PACS.
+The subject CINA-iPE and the predicate BriefCase device operate in parallel to the standard of care
+workflow in the sense that they do not change the original image, do not provide any marking on the
+output preview, and do not remove images from the standard of care FIFO queue; thus, not disturbing
+standard interpretation of the images by the attending radiologists. The subject and predicate devices
+achieve performance of the time-to-notification metric in similar ranges of time, and thus contribute
+similarly to effective triage and early involvement of the radiologist in evaluating suspected images of
+incidental pulmonary embolism.
+The standalone performance and effectiveness assessment studies demonstrated that the CINA-iPE
+device performs as intended and substantially equivalent to the BriefCase predicate device.
+The table below compares the key features of the subject and the predicate devices.Table 3: Comparison of key features between CINA-iPE and the predicate device (Aidoc Medical
+Ltd)
+Subject device: CINA-iPE Software Predicate device: BriefCase Software
+(K213886)
+Intended Use CINA-iPE is a radiological computer- BriefCase is a radiological computer
+/ Indications aided triage and notification software aided triage and notification software
+indicated for use in patients
+for Use indicated for use in the analysis of
+undergoing contrast-enhanced CT
+contrast-enhanced chest CTs (not
+scans (not dedicated CTPA protocol)
+dedicated CTPA protocol) in adults or
+for other clinical indications than
+pulmonary embolism transitional adolescents age 18 and
+suspicion, including at least a part of older. The device is intended to assist
+the lung. The device is intended to hospital networks and appropriately
+assist hospital networks and trained trained medical specialists in workflow
+radiologists in workflow triage by
+triage by flagging and communication of
+flagging and communicating
+suspect cases of incidental Pulmonary
+suspected positive findings for
+Embolism (iPE) pathologies. The device
+incidental Pulmonary Embolism
+(iPE). The device is indicated for is intended to be used on single energy
+adults and transitional adolescents exams only.
+(18 to 21 years old but treated as
+adults). BriefCase uses an artificial intelligence
+algorithm to analyze images and flag
+CINA-iPE uses an artificial
+suspect cases on a standalone desktop
+intelligence algorithm to analyze
+application in parallel to the ongoing
+images and highlight cases with
+standard of care image interpretation.
+detected incidental PE on a
+standalone application in parallel to The user is presented with notifications
+the ongoing standard of care image for suspect cases. Notifications include
+interpretation. The user is presented compressed preview images that are
+with notifications for cases with
+meant for informational purposes only
+suspected incidental PE findings.
+and not intended for diagnostic use
+The device is not designed to detect
+beyond notification. The device does not
+PE in subsegmental arteries.
+alter the original medical image and is
+not intended to be used as a diagnostic
+Notifications include compressed
+preview images that are meant for device.
+informational purposes only and are
+not intended for The results of BriefCase are intended to
+diagnostic use beyond notification.
+be used in conjunction with other patient
+The device does not alter the original
+information and based on their
+medical image, and it is
+professional judgment, to assist with
+not intended to be used as a
+diagnostic device. triage/prioritization of medical images.
+Notified clinicians are responsible for
+The results of CINA-iPE viewing full images per the standard of
+are intended to be used in care.
+conjunction with other patient
+information and based on
+professional judgment to assist with
+triage/prioritization of medicalSubject device: CINA-iPE Software Predicate device: BriefCase Software
+(K213886)
+images. Notified clinicians are
+ultimately responsible for reviewing
+full images per the standard of care.
+User Radiologist Appropriately trained medical specialists
+population
+Anatomical Chest or exams including at least a Chest
+region of part of the lung
+interest
+Data Contrast-enhanced CT scans (not Contrast-enhanced chest CTs (but not
+acquisition dedicated CTPA protocol) containing dedicated CTPA protocol)
+protocol at least a part of the lung
+View DICOM DICOM information about the DICOM information about the patient,
+data patient, study and current image study and current image
+Segmentatio No; device does not mark, highlight, No; device does not mark, highlight, or
+n of region of or direct users’ attention to a specific direct users’ attention to a specific
+interest location in the original image location in the original image
+Algorithm Artificial intelligence algorithm with Artificial intelligence algorithm with
+database of images database of images
+Notification / Yes Yes
+Prioritization
+Preview Presentation of a compressed, Presentation of a low-quality,
+images grayscale, unannotated image that is compressed grayscale preview image
+marked “not for diagnostic use” is that is captioned “Not for diagnostic use”.
+displayed as a preview function.
+Alteration of No No
+original
+image
+Removal of No. The device operates in parallel No. The device operates in parallel with
+cases from with the standard of care, which the standard of care, which remains the
+worklist remains the default option for all default option for all cases.
+queue cases.
+Structure -iPE image processing application -AHS module/Orchestrator (image
+- Compatibility of use with the CINA acquisition).
+Platform device (worklist and Image - ACS module (image processing).
+Viewer) or other medical image - Aidoc Worklist application for workflow
+communications device, integration (worklist and non-diagnostic
+basic Image Viewer).Conclusion
+CINA-iPE and BriefCase have the same intended use and substantially similar indications,
+technological characteristics, and principles of operation. The following is a summary of the
+substantial equivalence comparison:
+- The predicate device is legally marketed.
+- CINA-iPE has the same intended use as the predicate device, i.e., Aidoc Medical, Ltd.’s
+BriefCase, and therefore it may be found substantially equivalent.
+- CINA-iPE and the predicate device have very similar indications for use.
+- CINA-iPE has similar technological characteristics as the predicate and reference devices, i.e.,
+the deployment of an artificial intelligence algorithm with a database of images.
+- Standalone performance study demonstrates that the CINA-iPE and the predicate BriefCase
+raise the same types of safety and effectiveness questions, namely, accurate detection of
+findings within the processed study.
+Accordingly, the subject CINA-iPE device is substantially equivalent to the predicate BriefCase device.

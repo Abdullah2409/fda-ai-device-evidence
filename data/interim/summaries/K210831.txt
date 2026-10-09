@@ -1,0 +1,280 @@
+November 19, 2021
+CorTechs Labs, Inc.
+℅ Kora Marinkovic
+Director of Quality and Regulatory Affairs
+5060 Shoreham Place, Suite 240
+SAN DIEGO CA 92122
+Re: K210831
+Trade/Device Name: OnQ Neuro
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: October 11, 2021
+Received: October 15, 2021
+Dear Kora Marinkovic:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801; medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for devices
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.29
+Silver Spring, MD 20993
+www.fda.govK210831 - Kora Marinkovic Page 2
+or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Section/Document Number 5
+Title OnQ Neuro: 510(k) Summary
+Revision: 03 Pages 1 of 6 Date: 11/19/2021
+510(k) Summary: OnQ Neuro
+1. Submitter
+Name CorTechs Labs, Inc.
+Address 5060 Shoreham Place, Suite 240 San Diego, CA 92122
+Contact Person Kora Marinkovic
+Telephone Number (858) 459-9703
+Fax Number (858) 459-9705
+E-mail koram@cortechslabs.com
+Date Prepared 11/19/2021
+2. Device
+Device Trade Name OnQ Neuro
+Common Name Medical Image Processing Software
+Classification Name System, Image Processing, Radiological
+Regulation Number 21 CFR 892.2050
+Regulation Description Medical image management and processing system
+Product Code QIH
+Classification Panel Radiology
+3. Predicate Devices
+Primary Predicate Device
+Device Multi-Modality Tumor Tracking (MMTT)
+510(k) Number K162955
+Manufacturer Philips Medical Systems
+Product Code LLZ510(k) Section/Document Number 5
+Title OnQ Neuro: 510(k) Summary
+Revision: 03 Pages 2 of 6 Date: 11/19/2021
+4. Device Description
+OnQ Neuro is a fully automated post-processing medical device software that is used by
+radiologists, oncologists, and other clinicians to assist with analysis and interpretation of
+neurological MR images. It accepts DICOM images using supported protocols and performs 1)
+automatic segmentation and volumetric quantification of brain tumors, which are
+known/confirmed to be pathologically diagnosed cancer, 2) automatic post-acquisition analysis
+of diffusion-weighted magnetic resonance imaging (DWI) data and optional automated fusion of
+derived image data with anatomical MR images, and 3) comparison of derived image metrics
+from multiple time-points.
+Output of the software provides values as numerical volumes, and images of derived data as
+grayscale intensity maps and as graphical color overlays on top of the anatomical image. OnQ
+Neuro output is provided in standard DICOM format as image series and reports that can be
+displayed on most third-party commercial DICOM workstations.
+The OnQ Neuro is a stand-alone medical device software package that is designed to be
+installed in the cloud or within a hospital’s IT infrastructure on a server or PC-based workstation.
+Once installed and configured, the OnQ Neuro software automatically processes images sent
+from the originating system (MRI scanner or PACS). The software is configured at installation to
+receive input DICOM files from a network location, and output DICOM to a network destination.
+The software is designed without the need for a user interface after installation. Any processing
+errors are reported either in the output series error report, or system log files.
+OnQ Neuro software is intended to be used by trained personnel only and is to be installed by
+trained technical personnel.
+Quantitative reports and derived image data sets are intended to be used as complementary
+information in the review of a case.
+The OnQ Neuro software does not have any accessories or patient contacting components.
+The OnQ application is intended to be used for the adult population only.
+5. Indications for Use
+OnQ Neuro is a fully automated post-processing medical device software intended for analyzing
+and evaluating neurological MR image data.
+OnQ Neuro is intended to provide automatic segmentation, quantification, and reporting of
+derived image metrics.
+OnQ Neuro is additionally intended to provide automatic fusion of derived parametric maps with
+anatomical MRI data.
+OnQ Neuro is intended for use on brain tumors, which are known/confirmed to be pathologically
+diagnosed cancer.
+OnQ Neuro is intended for comparison of derived image metrics from multiple time-points.
+The physician retains the ultimate responsibility for making the final diagnosis and treatment
+decision.510(k) Section/Document Number 5
+Title OnQ Neuro: 510(k) Summary
+Revision: 03 Pages 3 of 6 Date: 11/19/2021
+6. Predicate Device
+Philips Medical Systems’ Multi-Modality Tumor Tracking (MMTT, K162955) market-cleared
+device is identified as the primary predicate device for the OnQ Neuro application.
+510(k) Number Product Name Submitter
+Primary Predicate K162955 Multi-Modality Tumor Tracking (MMTT) Philips Medical Systems
+The proposed OnQ Neuro application and its predicate device, MMTT (K162955), are
+substantially equivalent in regard to their general intended uses, intended users, clinical
+indications, and principle of operation. They have similar basic design and features.
+7. Comparison to Predicate Device
+Summary Comparison Table for the device (OnQ Neuro) and the predicate device (MMTT)
+Feature OnQ Neuro MMTT: K162955 (Predicate)
+Device Classification Name System, Image processing, System, Image processing,
+Radiological Radiological
+Device Class Class II Class II
+Classification Panel Radiology Radiology
+Product Code LLZ LLZ
+Regulation Description Picture archiving and Picture archiving and
+communication system communication system
+Regulation number 21 CFR 892.2050 21 CFR 892.2050
+Intended Use MR imaging data post processing MR imaging data post processing
+software software
+Intended users Radiologists, oncologists Radiologists, oncologists
+Type of Imaging Scan MRI CT, MR PET/CT and SPECT/CT
+Intended Body part Neurological images All body images
+Support Longitudinal Analysis Yes - performs comparison of Yes
+derived image metrics from
+multiple time points
+Support 2D and 3D anatomical Yes Yes
+sequences
+Automatic image registration Yes Yes
+between series within a study
+Segmentation editing tools No Yes510(k) Section/Document Number 5
+Title OnQ Neuro: 510(k) Summary
+Revision: 03 Pages 4 of 6 Date: 11/19/2021
+Tumor Segmentation Type Fully-automated Semi-Automated and manual
+Findings management of Yes. Prior segmentation results Yes.
+identified tumors are provided numerically.
+Quantitative Analysis of Yes. Including ROI Volumes, and Yes. Including Volume,
+Regions-of-Interest histogram statistics of optional Min/Max/Mean
+quantitative maps.
+Reporting Results displayed in tabular and Results displayed in tabular and
+graphical formats. graphical formats.
+DICOM Communication Yes Yes
+Diffusion Analysis Yes, including single and multi- No
+compartment diffusion models.
+Image Fusion Automated fusion of segmentation Automated fusion of
+results and parametric maps. segmentation results.
+Safety Display/measurement data can be Display/measurement data can
+viewed, accepted, or rejected by a be viewed, accepted, or rejected
+physician. by a physician.
+Environment for use Hospital, Clinic, Imaging Center, Hospital, Clinic, Medical Offices
+Medical Offices
+Description of Similarities and Differences: OnQ Neuro and MMTT (Predicate)
+Both applications, the OnQ Neuro and the MMTT (Predicate), 1) are post-processing software
+applications for analysis of MR imaging data; 2) have the ability to perform volumetric
+quantification of MR imaging data; 3) offer the ability to compare medical images and/or multiple
+time-points; 4) enable visualization of information that would otherwise have to be visually
+compared disjointedly; 5) have the ability to report derived imaging metrics; and 6) are intended
+for use on brain tumors, which are known/confirmed to be pathologically diagnosed cancer.
+They differ in that: 1) The Intended Use of the MMTT application includes language regarding
+viewing and manipulation of images. Specifically, MMTT provides editing tools for manual and
+semi-manual tumor annotation and allows loading of multiple concurrent studies for temporal
+measurements. OnQ Neuro does not include a GUI, so it does not include the ability to manually
+annotate and manipulate images; 2) While MMTT utilizes a manual, user-dependent feature to
+outline regions of interest, the OnQ Neuro software provides similar segmentation functionality
+automatically (i.e., without user intervention); 3) The OnQ Neuro software performs automated
+analysis of diffusion-weighted images and returns an Apparent Diffusion Coefficient (ADC) map
+and an enhanced DWI map (the Restricted Signal Map) showing the restricted component of the
+water diffusion signal, which the MMTT application does not include; 4) The MMTT application
+provides multi-modality support for CT, MR PET/CT and SPECT/CT scans, which includes
+support for SUV calculation of PET scans. OnQ Neuro supports only MR scans; and 5) While
+both applications perform measurements of the ROIs, the MMTT application allows for
+measurements that support oncology response criteria; OnQ Neuro does not specifically support510(k) Section/Document Number 5
+Title OnQ Neuro: 510(k) Summary
+Revision: 03 Pages 5 of 6 Date: 11/19/2021
+oncology response criteria.
+The CorTechs’ OnQ Neuro and the identified Philips Medical Systems Multi-Modality Tumor
+Tracking (MMTT, K162955) are substantially equivalent in terms of indication for use, intended
+users, principle of operation and safety and/or effectiveness.
+In conclusion, CorTechs believes that the proposed OnQ Neuro does not introduce any new
+potential safety and/or effectiveness issues and is substantially equivalent to the identified
+predicate device Multi-Modality Tumor Tracking (MMTT, K162955).
+8. Performance and V&V Testing Summary
+OnQ Neuro software application was tested in accordance with CorTechs verification and
+validation (V&V) processes. All product and engineering specifications were verified and
+validated. Software verification and validation testing were conducted, and documentation was
+provided as recommended by FDA’s “Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices”.
+Verification and Validation tests have been performed to address intended use, the technological
+characteristics claims, requirement specifications and the risk management results.
+The V&V and performance data were provided in support of safety and effectiveness for the
+substantial equivalence determination.
+Performance Testing Summary
+Performance testing included protocols demonstrating accuracy of automated segmentation
+compared to manual radiologist segmentations. OnQ Neuro software performs automatic post-
+acquisition analysis of anatomical and diffusion-weighted MRI and coregistration, fusion, and
+quantification of supported regions. OnQ Neuro automatic segmentation performance is
+evaluated by comparing the software-derived segmentations to expert-labeled segmentations of
+brain tumors, which are known/confirmed to be pathologically diagnosed cancer. Comparisons
+to expert segmentations are quantified using the Dice similarity coefficient (extent of software-
+derived vs. ground truth overlap), and squared correlation coefficient (R2) of segmented region
+of interest volumes. Acceptance criteria are set such that OnQ Neuro v1.1 model performance
+is consistent (95% percent performance) with expert rater manual segmentation performance
+and meets minimum clinically acceptable levels. The results of the segmentation performance
+testing on an independent test dataset demonstrate that OnQ Neuro v1.1.0 segments brain
+tumor ROIs with an accuracy that passed the product’s acceptance criteria. Further,
+segmentation performance is consistent across scanner manufacturers, field strengths, tumor
+types, and patient sexes. We conclude that OnQ Neuro v1.1.0 brain tumor segmentation is
+sufficiently accurate to be used in clinical practice in accordance with the OnQ Neuro v1.1.0
+Indications for Use.
+V&V Testing Summary
+OnQ Neuro tumor segmentation performance is additionally tested using three separate testing
+methods: 1) objective unit testing comparing the software-derived values to the known ground
+truth values, 2) system testing to verify that the Tumor Segmentation RGB Overlay and Tumor510(k) Section/Document Number 5
+Title OnQ Neuro: 510(k) Summary
+Revision: 03 Pages 6 of 6 Date: 11/19/2021
+Segmentation Report are correctly generated when compatible anatomical images are input to
+OnQ Neuro, and 3) clinical validation testing that the Tumor Segmentation RGB Overlay and
+Tumor Segmentation Report are correct, meet clinical expectations, and are safe and effective.
+OnQ Neuro diffusion modeling performance is evaluated using three separate testing methods:
+1) objective unit testing comparing the software-derived values using synthetic input data, with
+multiple levels of Rician noise, to the known ground truth values, 2) system testing to verify that
+the Restricted Signal Map and ADC map are correctly generated when compatible diffusion
+images are input to OnQ Neuro, and 3) clinical validation testing that the Restricted Signal Map
+and ADC map are correct, meet clinical expectations, and are safe and effective.
+The test results in this 510(k) premarket notification demonstrate that the OnQ Neuro: 1)
+complies with the international and FDA-recognized consensus standards and FDA guidance
+documents, as listed on the CDRH Premarket Review Submission Cover Sheet Form, and 2)
+meets the acceptance criteria and is adequate for its intended use and specifications.
+V&V activities required to establish performance and functionality of OnQ Neuro were performed.
+Testing performed demonstrated the OnQ Neuro meets all defined functionality requirements
+and performance claims.
+9. Conclusions
+The comparison between the two devices demonstrates that OnQ Neuro is as safe and as
+effective as its predicate, the Multi-Modality Tumor Tracking application (MMTT). Both OnQ
+Neuro and its predicate are substantially equivalent in regard to their general intended uses,
+intended users, and principle of operation. They have similar basic design, functions and
+technological characteristics. To address the technological differences the appropriate V&V and
+performance testing has been performed. The V&V testing demonstrates the safety and
+effectiveness of the device to meet its intended use and specifications. The performance testing
+shows that the device performs as well as gold standard - computer-aided expert manual
+segmentation.
+By virtue of the physical characteristics and intended use, OnQ Neuro is substantially equivalent
+to its identified predicate device and is as safe and effective as its predicate device without raising
+any new safety and/or effectiveness concerns.

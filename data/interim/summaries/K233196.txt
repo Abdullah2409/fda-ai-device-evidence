@@ -1,0 +1,429 @@
+June 21, 2024
+JLK Inc.
+℅ John Smith
+Partner
+Hogan Lovells US LLP
+555 13th Street, NW
+Washington, District of Columbia 20004
+Re: K233196
+Trade/Device Name: Medihub Prostate
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: May 10, 2024
+Received: May 10, 2024
+Dear John Smith:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).K233196 - John Smith Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, PhD
+Assistant Director
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K233196
+Device Name
+MEDIHUB PROSTATE
+Indications for Use (Describe)
+MEDIHUB PROSTATE is an image processing software package that performs outlining, processing, viewing, and
+editing of prostate MR images. The software can support study review and analysis of prostate MR data with computed
+modules. The analysis result can be presented in various formats, including images overlaid onto source MR images and a
+structured report.
+MEDIHUB PROSTATE semi-automatically outlines the prostate based on MR images by contour, and it requires the user
+to edit with image manipulating tools and confirm the final result. The package provides additional functionalities
+including registered multiparametric-MRI viewing and combining MR sequences into a single image to support
+visualization. Edited PI-RADS report and semi annotated prostate region can be viewed in each single image in the final
+report.
+MEDIHUB PROSTATE is intended to be used by trained radiologists and urologists. Patient management decisions
+should not be made solely based on the analysis performed by MEDIHUB PROSTATE.
+Limitations:
+* MEDIHUB PROSTATE has been validated for use with Siemens 3T Vida and Skyra MRI machines.
+* MEDIHUB PROSTATE is also designed for use with the Siemens 3T T2 MRI series, supporting slice thicknesses
+ranging from 3.5 mm to 5 mm.
+* MEDIHUB PROSTATE has been tested on patients aged 55 years and above.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(k) SUMMARY
+JLK’s MEDIHUB PROSTATE
+K233196
+I. SUBMITTER
+JLK Inc.
+5, Teheran-ro 33-gil, Gangnam-gu,
+Seoul, Republic of Korea
+Phone: (+82) 02 6925 6189
+FAX: (+82) 0505 300 4051
+Contact person / E-mail: Dongmin Kim / dmkim@jlkgroup.com
+Date Prepared: June 14, 2024
+II. DEVICE
+Name of Device: MEDIHUB PROSTATE
+Common or Usual Name: MEDIHUB PROSTATE
+Classification Name: Medical image management and processing system
+Regulatory Class: II
+Product Code: QIH
+Classification regulation: 21 CFR 892.2050
+III. PREDICATE DEVICE
+Device: Quantib Prostate
+Manufacturer: Quantib B.V.
+510(k) No: K202501
+Product Code: LLZ
+Regulatory Class: II
+IV. DEVICE DESCRIPTION
+MEDIHUB PROSTATE is an image processing software package for multi-parametric prostate MR
+image analysis. The analysis may assist trained radiologists and urologists in clinical interpretation
+of prostate MR studies. It can be accessed through a web browser, and provides the following
+main features:
+• A semi-automatic processing module that outlines the prostate region and performs multi-
+parametric MRI image registration.
+• A user-interaction module in which the user can edit and approve the computed prostate
+outline and determine PSA density using serum PSA level.
+• A user-interaction module in which the user can view multi-parametric MRI images, and
+outline and analyze ROIs. This extension will also apply a mathematical operation on the
+input images to combine information from another MRI sequences into a single
+combination image.
+1• A semi-automatic processing module that collects all results for exporting and transferring
+back to the user.
+All measurements are manual except for the prostate volume, which is semi-automatic and
+requires user review. The method for measuring prostate volume is straightforward and unaffected
+by patient demographics. Users have the option to outline the prostate either completely manually
+or with semi-automatic assistance. This device is not intended to be used for fully automatic
+prostate delineation. It does not involve any segmentation functions by itself. The AI functionality
+is limited to assessing the total prostate volume, without segmenting lesions.
+In semi-automatic mode, our device employs an AI-based algorithm to initially outline the prostate
+volume, and then it requires the user to edit, review and approve. Additionally, the device
+calculates the total prostate volume. However, users are responsible for performing all other image
+annotations and measurements manually. This implies that the final decision should be confirmed
+by the user, and the user should not rely solely on the device’s analysis.
+Additional annotations and measurements: all calculated manually
+ PI-RADS
+ Location of seminal vesicles
+ Prostate zones
+ DWI and DCE graphs
+V. INDICATIONS FOR USE
+MEDIHUB PROSTATE is an image processing software package that performs outlining,
+processing, viewing, and editing of prostate MR images. The software can support study review
+and analysis of prostate MR data with computed modules. The analysis result can be presented
+in various formats, including images overlaid onto source MR images and a structured report.
+MEDIHUB PROSTATE semi-automatically outlines the prostate based on MR images by contour,
+and it requires the user to edit with image manipulating tools and confirm the final result. The
+package provides additional functionalities including registered multiparametric-MRI viewing and
+combining MR sequences into a single image to support visualization. Edited PI-RADS report and
+semi annotated prostate region can be viewed in each single image in the final report.
+MEDIHUB PROSTATE is intended to be used by trained radiologists and urologists. Patient
+management decisions should not be made solely based on the analysis performed by MEDIHUB
+PROSTATE.
+Limitations:
+• MEDIHUB PROSTATE has been validated for use with Siemens 3T Vida and Skyra
+MRI machines.
+• MEDIHUB PROSTATE is also designed for use with the Siemens 3T T2 MRI series,
+supporting slice thicknesses ranging from 3.5 mm to 5 mm.
+• MEDIHUB PROSTATE has been tested on patients aged 55 years and above.
+2VI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE
+DEVICE
+MEDIHUB PROSTATE shares similar indications for use, technological characteristics, and
+principles of operation with its predicate device. At a high level, both the subject device and
+predicate device are based on the same technological elements as follows:
+Substantial Equivalence Chart
+Quantib Prostate Substantial
+Item MEDIHUB PROSTATE
+(K202501) Equivalence
+Regulatory Data
+Regulatory
+Class II Class II Equivalent
+Class
+Classification Medical image management Picture archiving and
+Equivalent1
+Name and processing system communications system
+Regulation
+21 CFR 892.2050 21 CFR 892.2050 Equivalent
+Number
+Product Code QIH LLZ Equivalent
+Use
+Target users Trained medical professionals Trained medical professionals Equivalent
+Anatomical site Prostate Prostate Equivalent
+Where used Hospital Hospital Equivalent
+• User can approve or reject • User can approve or reject
+results results
+• User can inspect and edit • User can inspect and edit
+prostate segmentation prostate segmentation
+• User can enter PSA value • User can enter PSA value
+and compute PSA density and compute PSA density
+Workflow
+• User can create and update • User can create and update Equivalent
+Considerations
+regions of interest (ROIs) regions of interest (ROIs)
+• User can add and update • User can add and update
+annotations (text) to analysis annotations (text) to analysis
+• User can manually set a PI- • User can manually set a PI-
+RADS score using a PI-RADS RADS score using a PI-RADS
+interactive worksheet interactive worksheet
+Technical characteristics
+1 The name of the generic devices regulated under 21 C.F.R. 892.2050 has been changed from Picture archiving and
+communications system to Medical image management and processing system as part of FDA’s implementation of the
+21st Century Cures Act.
+3Quantib Prostate Substantial
+Item MEDIHUB PROSTATE
+(K202501) Equivalence
+• Semi-automatic prostate • Semi-automatic prostate
+segmentation segmentation
+• Multi parametric image • Multi parametric image
+review review
+• Biparametric combination • Biparametric combination
+Design image viewer image viewer Equivalent
+• Basic image manipulation • Basic image manipulation
+tools, Thresholding tool tools, Thresholding tool
+• User interface to • User interface to
+create/update user generated create/update user generated
+ROIs ROIs
+• Bench testing performed to • Bench testing performed to
+test the functionality of the test the functionality of the
+system system
+Non-clinical • This included • This included
+Equivalent
+performance characterization of the characterization of the
+standalone performance of standalone performance of
+the prostate segmentation the prostate segmentation
+algorithm. algorithm.
+• Prostate segmentation • Prostate segmentation
+algorithm was tested in a algorithm was tested in a
+Clinical clinical use context clinical use context
+Equivalent
+performance • i.e. as a semiautomatic • i.e. as a semiautomatic
+algorithm after correction by algorithm after correction by
+trained clinicians. trained clinicians.
+• IS0 14971 – Medical devices • IS0 14971 – Medical devices
+–Application of risk –Application of risk
+management to medical management to medical
+devices devices
+• IEC 62304 – Medical device • IEC 62304 – Medical device
+Standards met software – Software life cycle software – Software life cycle Equivalent
+processes processes
+• IEC 62366 – Medical • IEC 62366 – Medical
+devices – Application of devices – Application of
+usability engineering to usability engineering to
+medical devices medical devices
+• Tested in accordance with • Tested in accordance with
+verification and validation verification and validation
+processes and planning processes and planning
+SW verification • The testing results support • The testing results support
+Equivalent
+and validation that all the system that all the system
+requirements have met their requirements have met their
+acceptance criteria and are acceptance criteria and are
+adequate for its intended use adequate for its intended use
+4Quantib Prostate Substantial
+Item MEDIHUB PROSTATE
+(K202501) Equivalence
+Compatibility
+with the
+environment DICOM compatible DICOM compatible Equivalent
+and other
+devices
+Prostate gland Volume, PSA Prostate gland volume, PSA
+density, ROIs within the density, ROIs within the
+prostate, with for each ROI: prostate, with for each ROI:
+Reported
+• Volume • Volume Equivalent
+measures
+• Average ADC value • Average ADC value
+• PI-RADS score • PI-RADS score
+• Location • Location
+DICOM compatible data, type DICOM compatible data, type
+Required input of MRI scans: T2-weighted, of MRI scans: T2-weighted, Equivalent
+DWI, ADC, DCE DWI, ADC, DCE
+VII. PERFORMANCE DATA
+Data Description
+Study Population Dataset: The Study Population Dataset is the same as algorithm development
+dataset. The dataset consists of three sets, Korea, US (the University of Missouri Health Care),
+and ProstateX (open dataset). The dataset is split into Training/Validation/Testing dataset. In
+Phase I, a Stand-alone Performance test was conducted, and in Phase II, a Reader Performance
+test was conducted. In the Study Population Dataset, the Training/Validation datasets and the
+Testing dataset were stratified at a ratio of 9:1. Additionally, within the Training/Validation split, the
+Training dataset and the Validation dataset were further stratified at a ratio of 9:1. The data used
+5to demonstrate performance of the device included Siemens 3T Vida and Skyra systems with slice
+thickness ranging from 3.5 to 5 mm.
+Algorithm Performance Testing
+A performance check test was conducted on the prostate region segmentation algorithm of
+MEDIHUB PROSTATE. The performance was obtained by comparing the ground truth produced
+by three expert radiologists and the results of the prostate region segmentation algorithm. The
+performance was measured by the mean value of Dice coefficient and Hausdorff Distance of the
+test group. The results were obtained and calculated by computer coding, and the score for each
+case was recorded. Utilizing the test datasets of Korea patients, US patients, and ProstateX (open
+dataset), the performance of the prostate region segmentation function was evaluated. Calculating
+the Dice coefficient between ground-truth and algorithm prediction yields the performance. The
+pass/fail criterion for each dataset is whether the mean Dice coefficient exceeds 0.894, which is
+determined by analyzing the results of the most recent state-of-the-art prostate region
+segmentation algorithm published in the past 5 years; this value is the average of performance in
+articles whose performance is greater than the average of the entire references. The value is
+calculated as the lower limit of 99%, confidence interval based on the performances of whole
+reference. As a consequence, the criteria were met by all three test datasets.
+Clinical Testing (Stand-alone Performance)
+The purpose of this study is to verify the stand-alone performance of the prostate region
+segmentation algorithm. MEDIHUB PROSTATE was developed by applying a deep learning
+technique on T2 prostate MRI. The clinical test investigator collected data that met the inclusion
+criteria and no subjects met the exclusion criteria. Based on a total of 114 T2 MR images
+(University of Missouri Hospital) the final validity evaluation was performed on prostate region
+segmentation ground truth produced by three expert radiologists. In this clinical test, it was
+confirmed that mean Dice coefficient was higher than the predefined primary efficacy evaluation
+criterion. The clinical testing results demonstrated that the overall Dice coefficient and Hausdorff
+distance were 0.928 and 2.171, respectively, with the 95% confidence intervals for these
+measurements being [0.925, 0.931] for the Dice coefficient and [1.097, 3.245] for the Hausdorff
+distance.
+Ground Truthing Process
+The ground truthing was conducted by expert-level radiologists. They independently annotated the
+prostate images, and these annotations were then consolidated into a definitive ground truth
+through a majority rule approach. The rationale for employing consensus among three radiologists,
+resolved through discussion and mutual agreement in cases of ties, ensures a reliable and
+unbiased representation of the prostate, crucial for the accurate clinical performance evaluation of
+our device.
+Clinical Testing Dataset Distribution
+Demographic information on subjects (N=114)
+Gender, n(%) Male, 114 (100%)
+Mean ± SD 66.38 ± 5.33
+Age
+Median (Min, Max) 66 (57, 78)
+655~59 14 (12.3%)
+Age group, n (%) 60~69 63 (55.3%)
+70~79 37 (32.5%)
+White 106 (92.9%)
+Races African American 7 (6.1%)
+Asian 1 (0.9%)
+ As indicated in a paper by Mavropoulos (2007)2, there is no significant association between race
+and prostate size. Given that race or ethnicity does not impact measuring prostate area or volume.
+95% confidence interval of the dice coefficient and Hausdorff distance calculated by
+comparing ground truth and the result of algorithms by race
+Race Dice Coefficient Hausdorff Distance
+0.929 2.173
+White
+*[0.925, 0.933] *[2.066, 2.280]
+African 0.925 2.085
+American *[0.902, 0.949] *[1.711, 2.459]
+0.917 2.929
+Asian
+*[nan, nan] *[nan, nan]
+* 95% Confidence Interval
+95% confidence interval of the dice coefficient and Hausdorff distance calculated by
+comparing ground truth and the result of algorithms by age
+Age Dice Coefficient Hausdorff Distance
+0.938 1.871
+< 60
+*[0.925, 0.950] *[1.638, 2.103]
+0.927 2.224
+≥ 60
+*[0.923, 0.931] *[2.114, 2.335]
+* 95% Confidence Interval
+Clinical Testing (Reader Performance)
+The purpose of this study is to compare the reader performance with and without the prostate
+region segmentation algorithm of MEDIHUB PROSTATE. Dice coefficients of the investigators’
+performances are calculated by comparing the ground truth of the prostate region segmentation
+with each investigator’s segmentation results. The results were better when all three expert
+radiologists were with aid of the prostate region segmentation algorithm of MEDIHUB PROSTATE.
+And regardless of by race and age, the results were better in all cases with aid of the prostate
+region segmentation algorithm of MEDIHUB PROSTATE. The improvements in the Dice coefficient
+2
+Mavropoulos, J. C., Partin, A. W., Amling, C. L., Terris, M. K., Kane, C. J., Aronson, W. J., ... & Freedland, S. J. (2007). Do racial
+differences in prostate size explain higher serum prostate-specific antigen concentrations among black men?. Urology, 69(6), 1138-1142.
+7for prostate outlining performance for the three radiologists when using the prostate region
+segmentation algorithm of MEDIHUB-PROSTATE were 0.156, 0.011, and 0.008, respectively.
+Properties of Performance Testing Cases
+Properties Value
+Sites University of Missouri Health Care
+Field Strengths 3T
+MR Scanner Manufacturer SIEMENS, Siemens HealthCare GmbH
+Thickness 3.5mm, 5mm
+Purpose of AI Prostate region semi auto-segmentation
+Safety Implications
+MEDIHUB PROSTATE is intended to support trained radiologists and urologists. The software
+does not make diagnoses; it provides quantification results that must be interpreted by a trained
+radiologists and urologists before using the device. MEDIHUB PROSTATE is both software
+applications running on off-the-shelve hardware. In conclusion, MEDIHUB PROSTATE does not
+introduce any new safety issues compared to the predicate device Quantib Prostate.
+VIII. DISCUSSION & CONCLUSIONS
+Discussion
+MEDIHUB PROSTATE employs a deep learning model to semi-automatically outline the prostate
+region. Its performance is evaluated using the Dice coefficient against ground-truth data from
+Korea patients, US patients, and an open dataset (ProstateX). The pass/fail criterion, set at a mean
+Dice coefficient of 0.894, is determined by recent state-of-the-art algorithms. Results show that all
+three test datasets meet this criterion, with Dice coefficients surpassing 0.866 in every case,
+demonstrating substantial equivalence.
+Conclusions
+MEDIHUB PROSTATE is semi-automatic image processing software. Clinical test results indicate
+its safety as it does not affect patients according to the software's results. By utilizing the semi-
+automatic drawing function of the software, it demonstrates efficiency in improving the accuracy of
+user's prostate region segmentation, making it as safe and effective as the Quantib Prostate.
+MEDIHUB PROSTATE has the same intended uses and similar indications, technological
+characteristics, and principles of operation as its predicate device. In addition, the minor
+technological differences between the MEDIHUB PROSTATE and its predicate devices raise no
+new issues of safety or effectiveness. Performance data demonstrate that the MEDIHUB
+PROSTATE is as safe and effective as the Quantib Prostate. Thus, the MEDIHUB PROSTATE is
+substantially equivalent.
+8

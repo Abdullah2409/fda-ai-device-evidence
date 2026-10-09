@@ -1,0 +1,510 @@
+Perspectum Ltd. January 12, 2021
+℅ Ioan Wigley
+Chief Compliance Officer
+5520 John Smith Drive
+Oxford, Oxfordshire OX4 2LL
+UNITED KINGDOM
+Re: K203280
+Trade/Device Name: Hepatica (Hepatica v1)
+Regulation Number: 21 CFR 892.1000
+Regulation Name: Magnetic resonance diagnostic device
+Regulatory Class: Class II
+Product Code: LNH
+Dated: October 1, 2020
+Received: November 16, 2020
+Dear Ioan Wigley:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.21
+Silver Spring, MD 20993
+www.fda.govK203280 - Ioan Wigley Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureHepatica v1 510(k) Summary
+K203280
+Date Prepared: 28th October 2020
+1. Submitter Details
+Owner Address: Perspectum Ltd
+Gemini One,
+5520 John Smith Drive,
+Oxford Business Park,
+Oxford,
+OX4 2LL
+Owner/Operator Number: 10056574
+Establishment Registration Number: 3014232555
+Contact Person: Ioan Wigley
+ioan.wigley@perspectum.com
++44 (0) 1865 655329
+2. Subject and Predicate Device
+Subject Device Predicate Device
+510(k) number K203280 K202170
+Legal Manufacturer Perspectum Ltd. Perspectum Ltd.
+Owner/Owner Operator 10056574 10056574
+NDeuvmicbee Nr ame Hepatica (Hepatica v1) LiverMultiScan (LMSv4)
+Proprietary/Common Hepatica LiverMultiScan
+nPaanmeel Radiology Radiology
+Regulation 892.1000 892.1000
+Risk Class Class II Class II
+Product Class code LNH LNH
+Classification System, Nuclear Magnetic System, Nuclear Magnetic
+Resonance Imaging Resonance Imaging
+3. Subject Device Description
+3.1. Intended Use
+Hepatica (Hepatica v1) is a post-processing medical device software that presents quantified metrics which may
+contribute to the assessment of a patient’s liver health.
+Hepatica (Hepatica v1) uses image visualisation and analysis tools to process DICOM 3.0 compliant magnetic
+resonance image datasets to produce semi-automatic segmented 3D models of the liver based on the work of
+Couinaud and the Brisbane 2000 terminology. For each identified Couinaud segment, volumetric data is determined
+and reported.
+Page 1 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+Hepatica (Hepatica v1) may also report iron corrected-T1 (cT1) and PDFF calculated using the IDEAL method from
+multi-slice acquisitions, on a per segment basis, over the whole liver. Both metrics present numerical values of
+different fundamental liver tissue characteristics that can be used as measures of liver tissue health.
+Hepatica (Hepatica v1) provides trained clinicians with additional information to evaluate the volume and health of a
+patient’s liver on a segmental basis. It is not intended to replace the established procedures for the assessment of a
+patient’s liver health. However, information gathered through existing diagnostic tests, clinical evaluation of the
+patient, as well Hepatica (Hepatica v1), may support surgical decision making.
+3.2. Sterilization and Shelf Life
+Hepatica v1 is a standalone software device thus it is non-contact, non-invasive and non-sterile. The shelf life of
+Hepatica v1 is indefinite as long as the manufacturer continues to support the device. Both sterilization and shelf life
+characteristics are equivalent of the predicate device.
+3.3. Biocompatibility
+Hepatica v1 is a standalone software device thus it is non-contact and non-invasive. No biocompatibility testing was
+deemed necessary to demonstrate the safety and effectiveness of Hepatica v1. Hepatica v1 does not consist of
+materials that differ from the predicate device.
+3.4. Software
+Hepatica v1 was successfully validated and verified against the requirements specification and its intended use. The
+results from the validation and verification activities, documented in this submission, corroborate that Hepatica v1
+meets the product requirement specifications and intended use, which is deemed to be substantially equivalent to the
+predicate (see section below).
+Validation and verification activities were conducted in a controlled environment and in compliance with IEC
+62304:2006, ISO 13485:2016 and 21 CFR 820. Hepatica v1 is also in compliance with the DICOM standard.
+3.5. Electromagnetic and Electrical Safety
+Hepatica v1 is a standalone software device- there are no electromagnetic or electrical safety risks associated with the
+direct use of the Hepatica v1 device. No electromagnetic or electrical safety testing was deemed necessary to
+demonstrate the safety and effectiveness of Hepatica v1.
+Page 2 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+4. Subject and Predicate Comparison
+4.1. Subject and Predicate Device Comparison
+The following characteristics were compared between the subject device and the predicate device in order to
+demonstrate substantial equivalence.
+Comparison of Subject and Predicate Device
+Characteristic Hepatica v1 (Subject device) LMSv4 (Predicate device)
+Intended Use and “Hepatica (Hepatica v1) is a post-processing “LiverMultiScan (LMSv4) is indicated for use
+Indications for Use medical device software that presents as a magnetic resonance diagnostic device
+quantified metrics which may contribute to software application for non-invasive liver
+the assessment of a patient’s liver health. evaluation that enables the generation,
+display and review of 2D magnetic resonance
+medical image data and pixel maps for MR
+relaxation times.
+Hepatica (Hepatica v1) uses image LiverMultiScan (LMSv4) is designed to utilize
+visualisation and analysis tools to process DICOM 3.0 compliant magnetic resonance
+DICOM 3.0 compliant magnetic resonance image datasets, acquired from compatible
+image datasets to produce semi-automatic MR systems, to display the internal structure
+segmented 3D models of the liver based on of the abdomen including the liver. Other
+the work of Couinaud and the Brisbane 2000 physical parameters derived from the images
+terminology. For each identified Couinaud may also be produced.
+segment, volumetric data is determined and
+reported.
+Hepatica (Hepatica v1) may also report iron LiverMultiScan (LMSv4) provides a number of
+corrected-T1 (cT1) and PDFF calculated using tools, such as automated liver segmentation
+the IDEAL method from multi-slice and region of interest (ROI) placements, to
+acquisitions, on a per segment basis, over be used for the assessment of selected
+the whole liver. Both metrics present regions of an image. Quantitative
+numerical values of different fundamental assessments of selected regions include the
+liver tissue characteristics that can be used determination of triglyceride fat fraction in
+as measures of liver tissue health. the liver (PDFF), T2* and iron-corrected T1
+(cT1) measurements. T2* may be optionally
+computed using the DIXON or LMS MOST
+methods.
+Hepatica (Hepatica v1) provides trained
+clinicians with additional information to These images and the physical parameters
+evaluate the volume and health of a patient’s derived from the images, when interpreted
+liver on a segmental basis. It is not intended by a trained clinician, yield information that
+to replace the established procedures for the may assist in diagnosis.”
+assessment of a patient’s liver health.
+However, information gathered through
+existing diagnostic tests, clinical evaluation of
+the patient, as well Hepatica (Hepatica v1),
+may support surgical decision making.”
+Target Population Patients who are suitable to undergo an MRI Patients suitable to undergo an MRI scan and
+scan and not contra-indicated for MRI. not contra-indicated for MRI
+Hepatica may benefit the clinical
+management of patients who are being
+considered for liver resection(s).
+Page 3 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic Hepatica v1 (Subject device) LMSv4 (Predicate device)
+Device User Trained Perspectum internal operator Trained Perspectum internal operator
+Report User An interpreting clinician or healthcare An interpreting clinician or healthcare
+practitioner practitioner
+Device Use Installation of Hepatica v1 is controlled and is Installation of LMSv4 is controlled and is
+Environment installed on general purpose workstations installed on general purpose workstations
+that meet the minimum technical that meet the minimum technical
+requirements at Perspectum’s image analysis requirements at Perspectum’s image analysis
+centre by specialist members of staff centre by specialist members of staff.
+Clinical Setting Hepatica v1 is a standalone software device LMSv4 is a standalone software device that is
+that is intended to be installed on general intended to be installed on general use
+use workstations at Perspectum’s image workstations at Perspectum’s image analysis
+analysis centres. The intended device users centres. The intended device users will log
+will log on to the workstations, access the on to the workstations, access the device,
+device, and use the device on general-use and use the device on general-use HD
+HD monitors. monitors.
+Hepatica v1 is a post-processing software LMSv4 is a post-processing software and the
+and the intended device users are trained intended device users are trained
+Perspectum internal operators. Perspectum internal operators.
+Operators use Hepatica v1 to conduct Operators use LMS to conduct quantitative
+quantitative analysis of liver tissue analysis of liver tissue characteristics to
+characteristics to produce a report. produce a report.
+The end-users for the output from the The end-users for the output from the
+device, the report, are clinicians who receive device, the report, are clinicians who receive
+and interpret Hepatica v1 reports. and interpret LMSv4 reports.
+Anatomical Abdomen, including the Liver Abdomen, including the liver
+Location
+Energy Hepatica is a standalone software LMS is a standalone software application. It
+Considerations application. It does not deliver, monitor or does not deliver, monitor or depend on
+depend on energy delivered to or from energy delivered to or from patients.
+patients.
+Design: Purpose Hepatica is a standalone software application LMS is a standalone software application that
+that imports MR datasets encompassing the imports MR data sets encompassing the
+abdomen, including the liver. Visualisation abdomen, including the liver. Visualisation
+and display of T1-weighted MR data which and display of 2D multi-slice, spin-echo MR
+can be analysed, and quantitative metrics of data can be analysed, and quantitative
+tissue characteristics and liver volume are metrics of tissue characteristics are then
+then reported. reported.
+Datasets imported into Hepatica are DICOM Datasets imported into LMS are DICOM 3.0
+3.0 compliant and reported metrics are compliant, reported metrics are independent
+independent of the MRI equipment vendor. of the MRI equipment vendor.
+Design: Tools Allows for the 3D visualisation of the liver Allows for the visualisation via parametric
+and quantification of metrics (cT1, PDFF and maps and quantification of metrics (cT1, T2*
+volumetry) from liver tissue and exportation and PDFF) from liver tissue and exportation
+of results and images to a deliverable report. of results and images to a deliverable report.
+Page 4 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic Hepatica v1 (Subject device) LMSv4 (Predicate device)
+Hepatica v1 allows for: LMSv4 allows for:
+Volumetry cT1
+• Reporting of whole liver and segmental • Full segmentation of the outer liver
+volume contour and liver vasculature of the cT1
+• Semi-automatic segmentation of the parametric map. IQR and median metrics
+outer contour of the liver are reported from the segmentation.
+• Semi-automatic segmentation of the • ROI placed method on the cT1 map with
+liver into Couinaud segments via placed IQR and median metrics from the placed
+landmarks of anatomical areas of ROI’s potentially across multiple
+interest acquired slices.
+cT1 and PDFF metrics may be quantified and T2*
+loaded from LMS when analysis has been
+conducted on the same patient. Datasets • ROI placed method on the T2* map with
+imported from LMS contain all image analysis IQR and median metrics from the placed
+warnings and cautions associated with the ROI’s potentially across multiple
+individual analysis and are included in the acquired slices.
+hepatica report. • T2* parametric maps are calculated from
+the MOST method or the three-point
+DIXON method (1)
+PDFF
+• Full liver segmentation of the PDFF
+parametric map where IQR and median
+metrics are reported from the
+segmentation.
+• ROI placed method on the PDFF map
+with IQR and median metrics from the
+placed ROI’s potentially across multiple
+acquired slices
+• PDFF parametric maps are calculated
+using the LMS IDEAL method (2)
+Design: MR Hepatica v1 does not support quantification T1, iron- and fat- corrected T1 (cT1) and T2*
+Relaxometry of metrics from MR relaxometry. If cT1 mapping
+results are imported from LMS, cT1 may be
+reported for all individual Couinaud
+segments and for whole-liver analysis.
+Median T2* values are given from the cT1
+quantification.
+Design: Liver Fat Liver fat quantification data is imported from Utilizes MR images that exploit the
+Quantification the predicate device (LMSv4), where difference in resonance frequencies between
+available. If PDFF results are imported from hydrogen nuclei in water and triglyceride fat
+LMS, PDFF may be reported for all individual using the LMS IDEAL method (2).
+Couinaud segments as well as Whole-liver
+PDFF based on the segmented outer-
+Page 5 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic Hepatica v1 (Subject device) LMSv4 (Predicate device)
+contour. PDFF parametric maps are
+calculated using the LMS IDEAL method (2).
+Design: Liver Hepatica v1 supports semi-automatic liver LMSv4 supports automatic multi-slice full
+Segmentation segmentation of T1-weighted volumetric liver segmentation of the cT1 and PDFF
+data. parametric maps. Use of this functionality is
+at the discretion of the operator, instead or
+Liver segmentation in Hepatica v1 requires in combination, with the ROI based method.
+the placement of anatomical landmarks to
+define the outer contours of the liver and The cT1 segmented liver is presented in
+can be adjusted by the operator, where colour level window, while the rest of the
+necessary. cT1 image is presented in greyscale level
+window with liver vasculature excluded from
+Where available, whole liver and segmental the segmented volume.
+cT1 and PDFF quantitative metrics derived
+from the predicate device may be presented
+in the final report.
+Design: Regions of Does not support ROI functionality. Median and interquartile range
+Interest (ROI) measurements created from a cross
+sectional slice of liver tissue. For each
+parametric map, statistics from multiple
+Regions of Interest (ROIs) – potentially
+placed across multiple slices – are
+summarised.
+Also supports the display of ‘Live’ ROI
+statistics when moving the ROI across the
+parametric map.
+Design: Parametric Hepatica uses volumetric datasets to create Iron corrected T1 (cT1), T2* and Proton
+Maps 2D anatomical views from all supported Density Fat Fraction (PDFF) parametric maps
+scanners. can be created from all supported scanners.
+Where available, cT1 and PDFF parametric It is possible to use the T2* and PDFF maps
+maps are derived from the predicate device. and knowledge of the T2* and PDFF
+measurements and the scanner field
+strength to correct for signal changes related
+to iron deposits, producing a cT1 map. The
+cT1 map eliminates the effects of elevated
+iron from the T1 measurement (3) and
+standardizes for the fat signal across scanner
+manufacturers.
+PDFF is quantified using the LMS IDEAL
+method. Parametric maps of T2* may be
+optionally be computed using either the
+three-point DIXON method or the LMS MOST
+method.
+Page 6 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic Hepatica v1 (Subject device) LMSv4 (Predicate device)
+Design: Numerous views in the Hepatica v1 interface Numerous views within the LMSv4 interface
+Visualisation can be used to assist analysis. can be used to assist in analysis, Iron-
+corrected T1 (cT1), T2* and triglyceride fat
+Operators are able to see live views of (also known as Proton Density Fat Fraction
+crosshair placements during landmarking (PDFF)) parametric maps can be created
+across multiple image planes simultaneously from all supported scanners. R2 maps can
+and adjust contrast where required. also be utilised to assess the quality of the
+Lesion segmentation will be performed by map fitting.
+navigating through the axial slices using the
+crosshair tool and “painting in” the segment Iron- corrected T1 (cT1) displayed using
+on each slice. LMSv4 colourmap, designed to have
+maximum contrast on liver parenchymal
+Operators will be required to navigate tissue.
+through the axial, sagittal and coronal planes
+using the crosshair tool to confirm that the
+delineation carried out by the device is
+accurate. The borders can be adjusted
+accordingly.
+Views of the segmented liver and lesions are
+updated in real-time and can be rotated in a
+3D space. Paint, eraser and zooming
+functionalities are also available to the
+operator.
+Where available, operators can review the
+position of cT1 and PDFF slices (derived from
+LMSv4) within the 3D view of the liver.
+Design: Supported DICOM 3.0 compliant MR data from DICOM 3.0 compliant MR data from
+Modalities supported MRI scanners. supported MRI scanners.
+Design: Report Quantified metrics and images derived from Quantified metrics and images derived from
+the analysis of liver volume and tissue the analysis of liver tissue characteristic on
+characteristics are collated into a report for parametric maps are collated into a report
+evaluation and interpretation by a clinician. for evaluation and interpretation by a
+clinician.
+Images
+Images of the whole liver divided into When segmentation analysis is used a
+Couinaud segments are presented in representative pie- chart is provided based
+greyscale in the report. on the confirmed segmentation contour
+from the PDFF map. The voxels within the
+Where available, cT1 and PDFF slices are also segmentation are separated into 5
+presented from the imported LMSv4 categories (<5% PDFF, 5-10% PDFF, 10-33%
+analysis. PDFF, 33-66% PDFF and >66%) to give
+proportions based on PDFF. These categories
+Values were chosen based on the work of Kleiner et
+Whole and segmental liver volume metrics al (3) and Satkunasingham et al (4) on the
+calculated during analysis are provided in the grading of histological features presented in
+report. Non-Alcoholic Fatty Liver Disease.
+Page 7 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+Comparison of Subject and Predicate Device
+Characteristic Hepatica v1 (Subject device) LMSv4 (Predicate device)
+Where available, whole liver segmental cT1 Based on the placed ROIs, for each metric
+and PDFF values are provided. For each the median and IQR are given as well as a
+metric, the median, IQR and a ‘reference ‘reference range’.
+range’ are provided.
+Compatibility with Installation of Hepatica v1 is controlled and is Installation of LMSv4 is controlled and is
+the environment installed on general purpose workstations installed on general purpose workstations
+that meet the minimum technical that meet the minimum technical
+requirements at Perspectum’s image analysis requirements at Perspectum’s image analysis
+centre by specialist members of staff. centre by specialist members of staff.
+Performance Device performance was assessed with Device performance was assessed with
+previously acquired in-vivo data from healthy purpose-built phantoms and in-vivo acquired
+and non-healthy volunteers. data from volunteers covering a range of
+physiological values for cT1, T2* and PDFF.
+Human Factors Assessed in accordance with IEC 62366 and Assessed in accordance with IEC 62366 and
+FDA guidance document ‘Applying Human FDA guidance document ‘Applying Human
+Factors and Usability Engineering to Medical Factors and Usability Engineering to Medical
+Devices.’ Devices.’
+Supported MRI Validated across all listed supported Validated across all listed supported
+Systems manufacturers and field strengths. manufacturers and field strengths.
+Standards IEC 62304, IEC 62366, DICOM 3.0, ISO 14971, IEC 62304, IEC 62366, DICOM 3.0, ISO 14971,
+ISO 13485 ISO 13485
+System/Operating Mac OS Mac OS
+System
+Materials Not applicable, standalone software Not applicable, standalone software
+Biocompatibility Not applicable, standalone software Not applicable, standalone software
+Sterility Not applicable, standalone software Not applicable, standalone software
+Electrical Safety Not applicable, standalone software Not applicable, standalone software
+Mechanical Safety Not applicable, standalone software Not applicable, standalone software
+Chemical Safety Not applicable, standalone software Not applicable, standalone software
+Thermal Safety Not applicable, standalone software Not applicable, standalone software
+Radiation Safety Not applicable, standalone software Not applicable, standalone software
+Table 1. Comparison of similar characteristics between the subject and predicate device.
+In conclusion, the subject device does not result in any new potential safety risk when compared to the chosen
+predicate device and performs in accordance with its use characteristics and intended use.
+5. Performance Testing
+Hepatica v1 underwent performance testing under controlled conditions to corroborate that it is safe and effective
+when used as intended. The performance testing conducted demonstrates that Hepatica v1 is at least as safe and
+effective as the predicate device and does not introduce any new risks.
+5.1. Performance Testing - Clinical
+To assess the accuracy and precision of Hepatica v1 measurements across supported scanners, previously acquired in-
+vivo volunteer data was used. Volunteers participating in the performance testing were representative of the
+intended patient population. Inter and intra operator variability was also assessed. The results of which are
+summarized below:
+Page 8 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+Accuracy
+Metric Volume (% of total liver cT1 PDFF
+volume)
+Liver Segment Upper and Lower Limits of Upper and Lower Limits Upper and Lower Limits
+Agreement of Agreement of Agreement
+Segment 1 -0.49% to 0.95% -1.13% to 0.61% -0.26% to 0.21%
+Segment 2 -3.09% to 5.06% -2.38% to 1.56% -0.33% to 0.38%
+Segment 3 -5.01% to 3.9% -1.51% to 1.31% -0.16% to 0.17%
+Segment 4a -4.60% to 4.26% -0.77% to 1.10% -0.30% to 0.23%
+Segment 4b -5.50% to 2.56% -1.32% to 1.13% -0.16% to 0.14%
+Segment 5 -1.54% to 3.38% -1.11% to 0.87% -0.16% to 0.18%
+Segment 6 -4.34% to 4.29% -1.00% to 0.83% -0.16% to 0.26%
+Segment 7 -3.30% to 1.79% -0.88% to 0.64% -0.12% to 0.18%
+Segment 8 -3.86% to 5.54% -0.91% to 1.09% -0.24% to 0.32%
+Whole liver -4.16% to 0.54% 0.00% to 0.00% -0.02% to 0.02%
+Table 2: Performance testing results for Hepatica v1 accuracy when compared to the gold standard (radiologists)
+Precision
+Liver Segment (% of total liver Repeatability Reproducibility
+volume)
+Upper and Lower limits of Agreement Upper and Lower Limits of Agreement
+Segment 1 -0.72% to 0.65% -1.39% to 0.90%
+Segment 2 -3.06% to 3.24% -3.10% to 3.15%
+Segment 3 -2.67% to 3.13% -2.41% to 2.06%
+Segment 4a -2.48% to 2.43% -2.54% to 2.58%
+Segment 4b -1.82% to 1.96% -1.70% to 1.74%
+Segment 5 -4.45% to 4.45% -4.97% to 5.94%
+Segment 6 -3.60% to 4.10% -3.69% to 5.40%
+Segment 7 -3.32% to 3.33% -4.39% to 3.59%
+Segment 8 -4.99% to 3.81% -6.23% to 5.04%
+Whole liver -6.15% to 3.78% -16.6% to 6.95%
+Table 3: Pooled performance testing results for Hepatica v1 precision
+Performance testing of Hepatica v1 demonstrates that:
+• Metrics reported by Hepatica v1 (cT1, PDFF and volumetry in the whole liver and in each liver segment) are
+comparable to the gold standard (considered to be radiologists)
+• Hepatica v1 measurements of volumetry are highly repeatable
+• Hepatica v1 measurements of volumetry are highly reproducible
+• The variation introduced by operator measurements are well within the acceptance criteria
+• cT1 and PDFF measurements reported by Hepatica v1 are within the acceptance criteria set for the predicate device.
+Page 9 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printedHepatica v1 510(k) Summary
+5.2. Clinical Investigation
+No clinical investigations or studies were conducted during performance testing of Hepatica v1.
+6. Conclusion
+The subject device is substantially equivalent to the predicate device, and is based on the following observations:
+• The indications for use and intended use of the subject device fall within the general tool-type claims of the
+predicate device.
+• The subject device and predicate device both support multi-slice MR data acquired using the specific acquisition
+protocols, from supported MR systems, to acquire the input data.
+• The subject and predicate devices include software applications which utilise MR data to visualise and enable
+quantification of physiological characteristics in the liver to provide measurements which may be used to assess
+liver health.
+• Both the subject device and the predicate device include applications to facilitate the import and visualization of
+MR data sets and include tools to enable the manipulation of the views and to enable the quantification and
+analysis of tissue characteristics in the liver from the MR data.
+• The subject and predicate device are both standalone software applications to facilitate the import and
+visualization of MR data sets.
+• The subject and predicate devices enable the quantification of analysis of tissue characteristics in the liver from
+the MR data.
+• The subject and predicate device facilitate the creation of a medical report containing the images and analysis
+output derived from quantification of liver tissue parameters intended to be interpreted by a trained clinician.
+• The subject and predicate device reports all include tabular display of quantification statistics, parametric map
+images and include normal range references.
+• Both the subject and predicate devices are designed to run on general-purpose computing hardware.
+• Both the subject and predicate device are intended to be used in the same use environment and by trained
+Perspectum operators.
+• Performance testing demonstrates that the subject device performs at least as safely and effectively as the
+proposed predicate device.
+References
+1. Reeder, S. B. et al. Iterative decomposition of water and fat with echo asymmetry and least-squares estimation
+(IDEAL): Application with fast spin-echo imaging. Magn. Reson. Med. 54, 636–644 (2005).
+2. Dixon, W. T. Simple proton spectroscopic imaging. Radiology 153, 189–194 (1984).
+3. Piechnik, S. K. et al. Shortened Modified Look-Locker Inversion recovery (ShMOLLI) for clinical myocardial T1-
+mapping at 1.5 and 3 T within a 9 heartbeat breathhold. J. Cardiovasc. Magn. Reson. 12, 69 (2010).
+4. Puntmann, V. O. et al. Are T1 values to characterize myocardial tissue equivalent between various sequences:
+comparison of MOLLI, shMOLLI, 3’5-MOLLI and SASHA. J. Cardiovasc. Magn. Reson. 15, E18 (2013).
+Page 10 of 10
+Hepatica v1 510(k) Summary
+Uncontrolled if printed

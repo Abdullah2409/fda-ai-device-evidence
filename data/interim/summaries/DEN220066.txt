@@ -1,0 +1,405 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+BRAINS EE
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Prognostic assessment software of mild cognitive impairment. Prognostic assessment
+software of mild cognitive impairment is a prescription-only device that combines
+information from multiple clinical data sources to produce an output indicative of the
+likelihood that a patient diagnosed with mild cognitive impairment will progress to more
+severe forms of cognitive impairment, or will develop dementia, such as Alzheimer's
+disease dementia, within a specified period of time. This device is intended for adjunctive
+use and not intended as a stand-alone diagnostic or prognostic tool.
+NEW REGULATION NUMBER: 21 CFR 882.1454
+CLASSIFICATION: Class II
+PRODUCT CODE: QWT
+BACKGROUND
+DEVICE NAME: BrainSee
+SUBMISSION NUMBER: DEN220066
+DATE DE NOVO RECEIVED: September 29, 2022
+SPONSOR INFORMATION:
+Darmiyan, Inc.
+1425 Berkeley Way
+Berkeley, CA 94702
+INDICATIONS FOR USE
+The BrainSee is indicated as follows:
+"BrainSee is a software application indicated as a prognostic tool to aid in the clinical
+assessment of how likely patients aged between 55 and 95 years old who are diagnosed
+with amnestic mild cognitive impairment (aMCI) are to progress to clinical Alzheimer's
+disease (AD)-dementia within 5 years of assessment. BrainSee analyzes inputs of brain
+magnetic resonance imaging (MRI), patient demographic information, and cognitive
+assessment scores to produce a similarity score between 0 and 100 reflecting the degreeof similarity between the patient and two reference populations of aMCI patients who
+either did not progress to clinical AD-dementia within 5 years (non-converters) or
+progressed to clinical AD-dementia within 5 years (converters). Clinical AD-dementia is
+defined as probable Alzheimer's disease established according to the National Institute of
+Neurological and Communicative Disorders and Stroke — Alzheimer's Disease and
+Related Disorders Association (NINCDS-ADRDA) Alzheimer's Criteria.
+• Similarity scores less than 50 indicate that a patient's inputs are more similar to
+those of the non-converter population.
+• Similarity scores greater than 50 indicate that a patient's inputs are more similar
+to those of the converter population.
+• Patients with a similarity score close to 50 have inputs that are similar to both the
+converter and non-converter aMCI patient populations used to develop and train
+the BrainSee device.
+The similarity score output is provided along with information to assist in the
+interpretation of the output to aid in evaluating the prognosis of patients diagnosed with
+aMCI to progress to clinical AD-dementia within 5 years.
+The BrainSee analysis is intended to provide supplemental information for interpretation
+in conjunction with a standard neurological assessment. Patient management decisions
+should not be made solely on the results of the BrainSee analysis. BrainSee is not
+indicated as a stand-alone diagnostic or prognostic tool. BrainSee should not be used to
+diagnose aMCI."
+LIMITATIONS
+The sale, distribution, and use of BrainSee are restricted to prescription use in accordance with
+21 CFR 801.109.
+The device is not intended for use as a stand-alone diagnostic or prognostic device but as an
+adjunct to the diagnostic process.
+The device is intended for use in conjunction with patient history, clinical observations, and
+other clinical evidence the healthcare provider determines are necessary before making clinical
+decisions. For instance, additional follow-up evaluations at a future time point may be sought,
+especially when the device similarity score is at or near 50.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+BrainSee is a software as a medical device (SaMD) intended to aid clinicians in evaluating the
+prognosis of patients diagnosed with amnestic mild cognitive impairment (aMCI). The software
+provides the clinician with a score between 0 and 100, which reflects the degree of similarity
+De Novo Summary (DEN220066) Page 2between the patient (in terms of cognitive profile and brain magnetic resonance imaging [MRI]
+features) and two reference aMCI patient populations of converters and non-converters that were
+used to develop the software. Conversion is defined as progression from aMCI to clinical
+Alzheimer's disease dementia (AD-dementia) within 5 years, where clinical AD-dementia is
+defmed as probable Alzheimer's disease established according to the National Institute of
+Neurological and Communicative Disorders and Stroke — Alzheimer's Disease and Related
+Disorders Association (NINCDS-ADRDA) Alzheimer's Criteria.
+To calculate the similarity score, BrainSee uses:
+1. Cognitive/behavioral test scores, including scores from the Mini-Mental State
+Examination (MM SE) and Clinical Dementia Rating Sum of Boxes (CDRSumBox)
+provided by the clinician.
+2. The patient's age and sex.
+3. Brain tissue volumes measured from Ti-weighted brain MRI.
+BrainSee is offered to clinicians through a cloud-based platform. Clinicians access the platform
+via a web portal, where they can add patient records, enter the required clinical information,
+upload brain MRI scans, and view, download, and print the output report.
+BrainSee uses standard 3-dimensional Ti-weighted MRI sequences obtained at 1.5 Tesla (T) or 3
+T, and does not require any special MRI scan parameters, contrast agent, or additional hardware.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+BrainSee is a SaMD implemented on a general-purpose computing platform. Nonclinical or
+bench testing was generally not needed to evaluate the hardware that the software is intended to
+be run on. Software documentation was provided to demonstrate the safety and effectiveness of
+the device.
+SOFTWARE
+Software verification and validation testing and documentation was provided according
+to a MODERATE level of concern and FDA's guidance document, "Guidance for the
+Content of Premarket Submissions for Software Contained in Medical Devices" (May 11,
+2005), to demonstrate that the device software performs as intended. Adequate
+documentation describing the software, software specifications, architecture design,
+software development environment, traceability, revision level history, and unresolved
+anomalies conclude that the software will operate in the manner described in the
+specifications. A hazard analysis characterized the software and cybersecurity risks,
+including those related to device malfunction, user-related error, and network
+connectivity. The software verification and validation testing addressed all identified
+hazards with satisfactory results. The device algorithm was provided describing how the
+data are collected and analyzed by the underlying model that is applied to produce the
+final device outputs.
+De Novo Summary (DEN220066) Page 3HUMAN FACTORS - USABILITY
+A simulated use test was performed in which participants interacted with the device
+software in realistic use scenarios under simulated clinical conditions. Participants were
+observed as they completed each task and were asked to provide subjective feedback at
+the conclusion of each use scenario to gain their perspectives on device use and any
+problems observed. Objective data was collected by observing task performance during
+each scenario and any problems were recorded as use errors, close calls, or use
+difficulties. The testing was performed with a total of 15 participants who had residency
+or fellowship training that included evaluating and caring for adult patients with cognitive
+impairment, and who are trained in either neurology, geriatrics, psychiatry, family
+practice, or internal medicine.
+Participants performed critical tasks related to use of the device software interface, input
+of patient data for analysis, and interpreting the device outputs. Study results indicated
+that most participants were able to complete all eight critical tasks; however, three use
+errors occurred where the user either did not understand the meaning of the device
+outputs or did not understand the device's indications.
+SUMMARY OF CLINICAL INFORMATION
+Study Design
+The clinical validation study was a retrospective algorithm performance validation study
+conducted using data collected at 27 North American sites to evaluate the prognostic capability
+of the BrainSee algorithm for predicting conversion of aMCI to clinical AD-dementia within 5
+years based on a comparison to the clinical reference standard diagnosis. Each patient had at
+least two clinical visits, and at each clinical visit a neurocognitive clinical diagnosis of either
+aMCI or AD-dementia was determined by a panel of clinicians trained to perform this task (e.g.,
+geriatrician, neurologist, psychiatrist).
+Clinical Reference Standards
+The clinical reference standard used to classify converters and non-converters is based on the
+neurocognitive clinical diagnosis of either aMCI or AD-dementia at each clinical visit.
+Atnnestic mild cognitive impairment (aMCI) was defined as impaired memory and cognition,
+with no significant impairment in the instrumental activities of daily living (iADLs). Patients
+diagnosed with aMCI were defined by having all of the following:
+• Presence of a subjective memory concern; AND
+• Abnormal memory function documented by the clinician; AND
+• Impairments in two or more cognitive domains; AND
+• No significant impairment in the iADLs.
+AD-dementia was defined as "probable Alzheimer's disease" as defined by the National Institute
+of Neurological and Communicative Disorders and Stroke — Alzheimer's Disease and Related
+Disorders Association (NINCDS-ADRDA) Alzheimer's Criteria, which is also known as clinical
+Alzheimer's disease.
+De Novo Summary (DEN220066) Page 4For prognostic ground truth labeling, aMCI cases who progressed to AD-dementia within 5 years
+were labeled as a converter, and aMCI cases who did not progress to AD-dementia (remained
+aMCI) for at least 5 years were labeled as a non-converter. All ground truth labels were reviewed
+and confirmed by consensus of three physicians with clinical experience evaluating aMCI
+patients.
+Device Converter/Non-converter Classification
+For device classification labeling, aMCI cases who received a similarity score output greater than
+50 based on the device analysis were labeled as a converter, and aMCI cases who received a
+similarity score output less than 50 were labeled as a non-converter.
+Inclusion Criteria
+• Patients in the age between 55-95 years.
+• Patients diagnosed with aMCI, defined by having all of the following:
+o Presence of a subjective memory concern; AND
+o Abnormal memory function documented by the clinician; AND
+o Impairments in two or more cognitive domains; AND
+o No significant impairment in the iADLs.
+• Availability of a non-contrast, Ti-weighted, whole brain MRI scan, with:
+o Field strength between 1.5 T and 3.0 T; AND
+o Voxel resolution < 1.31 mm in all dimensions; AND
+o Good image quality, based on expert visual inspection confirming clear gray
+matter — white matter (GM-WM) differentiation, and absence of major image
+artifacts such as distortion, motion, susceptibility, and aliasing.
+Exclusion Criteria
+• Normal cognition or dementia of any type.
+• Parkinson's disease, Huntington's disease, progressive supranuclear palsy.
+• Diagnosis of normal pressure hydrocephalus (NPH).
+• Brain tumor, seizure disorder, subdural hematoma, multiple sclerosis.
+• History of significant head trauma followed by persistent neurologic deficits.
+• Brain infection, infarction, or stroke.
+• Focal lesions or lacunes in a critical memory structure.
+• Poor MRI image quality, or major image artifacts (see inclusion criteria for details).
+Objectives
+Primary Effectiveness Objectives
+• Sensitivity > 70% based on pre-defined classification threshold.
+• Specificity > 70% based on pre-defined classification threshold.
+Results
+Enrollment
+A total of 198 aMCI patients meeting all study eligibility criteria and had sufficient follow-up to
+define the ground truth from 27 different hospitals were identified for retrospective analysis in
+De Novo Summary (DEN220066) Page 5the pivotal study. These 198 aMCI subjects' data are used for the validation of the BrainSee
+device and the data from these subjects are presented in Tables 1-5. An additional 209 patients
+from these clinical sites met the selection criteria for the study but were not included for analysis
+because they had an undefined ground truth. Most of these had an undefined ground truth
+because they did not complete 5 years of follow-up either for reasons unrelated to the cognitive
+health (e.g., late entry to study) or for reasons that might be attributable to the burdens of such
+longitudinal follow-up on an elderly population (e.g., consent withdrawn, lost to follow-up,
+missed visits). The race, sex, and age characteristics of the patient population that was included
+in this validation data set (N=198) are detailed in Tables 1 through 3 below.
+Table 1: Summary of Clinical Validation Data Distribution by Race (N=198)
+Subgroup Converter count Non-converter count Total aMCI patient
+(fraction of subgroup) (fraction of subgroup) count (fraction of total)
+White 109 (61.2%) 69 (38.8%) 178 (89.9%)
+Black 3 (42.9%) 4 (57.1%) 7 (3.5%)
+Asian 3 (42.9%) 4 (57.1%) 7 (3.5%)
+Multiracial 3 (60%) 2 (40%) 5 (2.5%)
+Unknown 0 1 (100%) 1 (0.5%)
+Table 2: Summary of Clinical Validation Data Distribution by Sex (N=198)
+Subgroup Converter count Non-converter count Total aMCI patient
+(fraction of subgroup) (fraction of subgroup) count (fraction of total)
+Female 52 (58.4%) 37 (41.6%) 89 (44.9%)
+Male 66 (60.6%) 43 (39.4%) 109 (55.1%)
+Other 0 0 0
+Table 3: Summary of Clinical Validation Data Distribution by Age (N=198)
+Subgroup Converter count Non-converter count Total aMCI patient
+(fraction of subgroup) (fraction of subgroup) count (fraction of total)
+Age range 55- 6(33.3%) 12 18(9.1%)
+65 (66.7%)
+Age range 65- 43 42 85 (42.9%)
+74 (50.6%) (49.4%)
+Age range 75- 56 23 79 (39.9%)
+84 (70.9%) (29.1%)
+Age range 85- 13 3(18.8%) 16(8.1%)
+94 (81.2%)
+Effectiveness
+Measures of specificity, sensitivity, positive predictive value (PPV), and negative predictive
+value (NPV) with associated 95% confidence intervals (CI) were calculated for those patients
+De Novo Summary (DEN220066) Page 6meeting study eligibility criteria and with a defined ground truth (N=198). This analysis resulted
+in specificity of 96% (92%, 100%), sensitivity of 73% (65%, 81%), PPV of 97% (93%, 100%),
+and NPV of 71% (62%, 79%). The lower 95% confidence interval for sensitivity was below the
+pre-defined effectiveness performance goal of> 70%. This lower sensitivity was considered
+acceptable because aMCI patients receiving a false negative output are likely to receive
+continued follow-up for their aMCI condition. Furthermore, the device algorithm is tuned to
+favor specificity over sensitivity, to reduce the false positives. The patient population in the
+clinical validation study were primarily Caucasian as shown in Table 1 that is higher than the
+representative Caucasian population in the United States (U.S.). This was one of the limitations
+of the design of the clinical validation study. This raises uncertainty regarding whether the
+device performance observed in the clinical validation study is the same in more representative
+non-Caucasian patients in the U.S., and this uncertainty will be studied in the required
+postmarket study.
+Table 4: Results Com arin Device to Reference Standard =198
+Total Subjects BrainSee Classification
+n = 198 Converter Non-converter
+n = 89 n = 109
+Clinical Converter True Positives False Negatives
+Reference n = 118 TP = 86 FN =32
+Standard
+Non- False Positives True Negatives
+converter FP =3 TN =77
+n = 80
+Table 5: Device Performance Metrics Observed in Validation Stud N=198
+Performance metric Value 95% confidence interval
+Specificity (SP) 96.3% 92.1% to 100%
+Sensitivity (SN) 72.9% 64.9% to 80.9%
+Positive predictive value (PPV) 96.6% 92.9% to 100%
+Negative predictive value (NPV) 70.6% 62.1% to 79.2%
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+POSTMARKET EVALUATION
+A postmarket study will be conducted to collect data to assess how the BrainSee device performs
+in aMCI patients in the U.S. who are not adequately represented in the premarket pivotal
+validation study population, including patients from certain demographic groups (e.g., Black,
+Asian, Hispanic, other minority populations), with lower levels of education, with co-
+morbidities, or from community-based settings. This study will evaluate the device effectiveness
+for predicting progression to AD-dementia within 5 years in the aMCI patient population
+normally seen in usual clinical practice. The study will also assess the course of treatment and
+diagnosis, including the frequency of adverse events, in patients who received a false positive or
+false negative device result.
+De Novo Summary (DEN220066) Page 7LABELING
+The labeling is sufficient and satisfies the requirements of 21 CFR 801.109 for prescription
+devices.
+The labeling includes a detailed description of the device. The labeling also describes the patient
+population for whom the device should be used, details the requirements for device inputs, and
+discusses how to interpret the device outputs. The labeling includes summary information
+regarding the population used for algorithm development, as well as a summary of the
+retrospective clinical validation performed to evaluate the device algorithm performance or
+effectiveness. These discussions have been provided in a user manual for physicians detailing
+use of the software, an interpretation guide for physicians describing the interpretation of the
+device outputs, and a guide to facilitate patients and caregivers understanding of the device
+benefits, limitations, and risks.
+The labeling cautions against use of the device in patients who are not eligible for analysis with
+the device software, such as in patients with certain other coexisting medical conditions. The
+labeling also indicates that the device is not a standalone diagnostic or prognostic software and
+cautions the physicians against using the device if they have concerns about the reliability of the
+inputs. The labeling cautions the users regarding interpretation of device scores close to 50, as
+patients with such scores may have inputs similar to both converter and non-converter aMCI
+patient populations.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of a prognostic
+assessment software of mild cognitive impairment and the measures necessary to mitigate these
+risks.
+Identified Risks to Health Mitigation Measures
+Device failure or incorrect analysis leading to: Clinical performance testing
+• False positives or falsely high prognostic outputs Postmarket surveillance
+resulting in inappropriate patient treatment and Software verification, validation,
+delayed diagnosis of non-Alzheimer's disease and hazard analysis
+conditions Labeling
+• False negatives or falsely low prognostic outputs
+resulting in delayed diagnosis and/or patient
+treatment
+Use error or misinterpretation of results leading to: Human factors/usability assessment
+• A false positive or falsely high prognostic outputs Labeling
+• A false negative or falsely low prognostic outputs
+• Overreliance on device output for follow-up
+SPECIAL CONTROLS
+De Novo Summary (DEN220066) Page 8In combination with the general controls of the FD&C Act, the prognostic assessment software
+of mild cognitive impairment is subject to the following special controls:
+(1) Data obtained from premarket clinical performance validation testing and postmarket
+surveillance acquired under anticipated conditions of use must demonstrate that the device
+performs as intended when used to analyze data from the intended patient population, unless
+FDA determines based on the totality of the information provided for premarket review that
+data from postmarket surveillance is not required.
+(i) Data provided from (1) must demonstrate the accuracy, precision, and reproducibility
+of the device for predicting progression of patients with mild cognitive impairment to
+more severe forms of cognitive impairment or to dementia, such as Alzheimer's
+disease dementia, based on a clinically relevant reference standard for the diagnosis
+of such disease states or conditions. The test data set must include data acquired from
+a patient population that is representative of the intended patient population normally
+seen in clinical practice. The test data set must be independent from data used in
+training/development of the device.
+(ii)Objective performance measures (e.g., sensitivity, specificity, positive predictive
+value, and negative predictive value) must be reported with relevant descriptive or
+developmental performance measures.
+(2) Software verification, validation, and hazard analysis must be provided. Software
+documentation must include a detailed, technical description of the model/algorithm(s), and
+algorithm inputs and outputs.
+(3) Human factors/usability assessment must demonstrate that the intended user(s) in the
+intended use environment can correctly use the device and interpret the device output(s).
+(4) Physician labeling must include:
+(i) A detailed summary of the clinical performance testing methods, including results of
+the performance testing for tested performance measures/metrics, selection criteria,
+and the patient demographics;
+(ii)A description of the patient population that was used in development or training of
+the device algorithm/model;
+(iii)Device limitations or subpopulations for which the device may not perform as
+expected or for whom the device has not been validated;
+(iv)A statement that the device is not a stand-alone diagnostic or prognostic tool and that
+the device output should only be interpreted in the context of all available clinical
+information, including patient history, medications, and comorbidities; and
+(v) Information for interpretation of the device outputs detailing the risks associated with
+misinterpretation of the device outputs.
+(5) Patient labeling must include information explaining the device output(s) and the associated
+risks if the device output is incorrect.
+De Novo Summary (DEN220066) Page 9BENEFIT-RISK DETERMINATION
+The risks of the device are based on software verification and validation, human factors-usability
+evaluations, and data evaluated in a retrospective clinical study described above.
+The number of patients in the retrospective clinical validation study who received a false
+negative based on a similarity score cut-off of 50 was moderate (n=32). Risks associated with
+patients who receive a false negative are mitigated by the device labeling, which states that a
+false negative assessment, or scores that under-estimate a patient's similarity to converters, may
+delay timely action for clinical work-up, delay early treatment and proper life and care planning,
+and provide a false reassurance to the patient and their family members. Similarly, the number of
+patients in the study who received a false positive classification based on a similarity score cut-
+off of 50 was low (n=3). Risks associated with patients who receive a false positive are mitigated
+by the device labeling, which states that a false positive assessment, or scores that over-estimate
+a patient's similarity to converters may cause undue stress to patients, expose the patient to
+hazards from unnecessary diagnostic procedures, and expose the patient to side effects from
+unnecessary treatments.
+The probable benefits of the device are also based on software verification and validation, human
+factors-usability evaluations, and data evaluated in a retrospective clinical study described above.
+The benefit of BrainSee is that it can aid in the prediction of the likelihood that a diagnosis of
+aMCI may or may not convert to AD-dementia within 5 years' time. The high specificity of 96%
+(95% CI: 92%, 100%) observed in the retrospective clinical validation study based on a pre-
+determined similarity score cut-off of 50 indicates that there are few false positive results.
+Therefore, the device can accurately identify most patients who will not progress to AD-
+dementia over 5 years. Furthermore, the positive predictive value of 97% (95% CI: 93%, 100%)
+observed in the retrospective clinical validation study supports that most positive device results
+based on a similarity score cut-off of 50 are likely to convert to AD-dementia within 5 years.
+There is a moderate level of uncertainty associated with the probable benefits because the
+clinical validation study had certain limitations. Notably, some sociodemographic groups of
+aMCI patients were under-represented in the validation study. This uncertainty is mitigated
+through product labeling, which describes the patients included in both the training and
+validation data sets and will be further addressed in the planned postmarket study.
+For the reasons described above, the probable benefits of the BrainSee outweigh the probable
+risks when considering the listed special controls and general controls.
+PATIENT PERSPECTIVES
+This submission did not include specific information on patient perspectives for this device.
+BENEFIT/RISK CONCLUSION
+In conclusion, given the available information above, for the following indication statement:
+De Novo Summary (DEN220066) Page 10BrainSee is a software application indicated as a prognostic tool to aid in the clinical
+assessment of how likely patients aged between 55 and 95 years old who are diagnosed with
+amnestic mild cognitive impairment (aMCI) are to progress to clinical Alzheimer's disease
+(AD)-dementia within 5 years of assessment. BrainSee analyzes inputs of brain magnetic
+resonance imaging (MRI), patient demographic information, and cognitive assessment scores
+to produce a similarity score between 0 and 100 reflecting the degree of similarity between
+the patient and two reference populations of aMCI patients who either did not progress to
+clinical AD-dementia within 5 years (non-converters) or progressed to clinical AD-dementia
+within 5 years (converters). Clinical AD-dementia is defined as probable Alzheimer's disease
+established according to the National Institute of Neurological and Communicative Disorders
+and Stroke — Alzheimer's Disease and Related Disorders Association (NINCDS-ADRDA)
+Alzheimer's Criteria.
+• Similarity scores less than 50 indicate that a patient's inputs are more similar to those
+of the non-converter population.
+• Similarity scores greater than 50 indicate that a patient's inputs are more similar to
+those of the converter population.
+• Patients with a similarity score close to 50 have inputs that are similar to both the
+converter and non-converter aMCI patient populations used to develop and train the
+BrainSee device.
+The similarity score output is provided along with information to assist in the interpretation
+of the output to aid in evaluating the prognosis of patients diagnosed with aMCI to progress
+to clinical AD-dementia within 5 years.
+The BrainSee analysis is intended to provide supplemental information for interpretation in
+conjunction with a standard neurological assessment. Patient management decisions should
+not be made solely on the results of the BrainSee analysis. BrainSee is not indicated as a
+stand-alone diagnostic or prognostic tool. BrainSee should not be used to diagnose aMCI.
+The probable benefits outweigh the probable risks for the BrainSee. The device provides benefits
+and the risks can be mitigated by the use of general controls and the identified special controls.
+CONCLUSION
+The De Novo for the BrainSee is granted and the device is classified as follows:
+Product Code: QWT
+Device Type: Prognostic assessment software of mild cognitive impairment
+Regulation Number: 21 CFR 882.1454
+Class: Class II
+De Novo Summary (DEN220066) Page 11

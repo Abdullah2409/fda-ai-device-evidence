@@ -1,0 +1,315 @@
+Synapsica
+℅ Rory Carrillo
+Quality & Regulatory Consultant
+Cosm
+45 Bartlett Street, Unit 706
+SAN FRANCISCO CA 94110
+March 28, 2023
+Re: K222174
+Trade/Device Name: RadioLens v1.0
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: February 17, 2023
+Received: February 21, 2023
+Dear Rory Carrillo:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.00
+Silver Spring, MD 20993
+www.fda.govK222174 - Rory Carrillo Page 2
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K222174
+Device Name
+RadioLens v1.0
+Indications for Use (Describe)
+RadioLens v1.0 software is a medical diagnostic application that displays, processes, stores, and transfers DICOM data,
+with the exception of mammography. It provides the capability to store images and patient information, perform filtering,
+digital manipulation, and quantitative measurements. The client software is designed to run on standard personal and
+business computers.
+RadioLens v1.0 includes an optional SpindleX module which is used to analyze potential vertebral body displacements in
+spine, either absolute or relative, using cervical/lumbar digital X-Rays of spine. A qualified medical practitioner may use
+the module to semi-automatically identify relevant spine anatomy and calculate vertebral displacement measurements.
+Measurements are then used to determine severity and location of any spinal ligament injury leading to subluxation using
+criteria published in AMA Guides to The Evaluation of Permanent Impairment, 5th & 6th edition.
+SpindleX is meant for assistance with analysis of spinal ligament injury in the adult population (>18 years of age) as
+captured in stress x-rays. SpindleX is not meant for patients that have undergone surgery or other traumatic injury that
+result in distortion of spinal anatomy.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK222174
+Section 5. 510(k) Summary
+1. General Information
+510(k) Sponsor Synapsica Healthcare, Inc.
+Address 2591 Dallas Parkway Suite 300
+Frisco, TX 75034
+Correspondence Person Rory A. Carrillo
+Regulatory Consultant | Cosm
+Contact Information Email: rory@cosmhq.com
+Phone: (562) 533-7010
+Date Prepared July 22, 2022
+2. Subject Device
+Proprietary Name RadioLens v1.0
+Common Name RadioLens v1.0
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+Regulation Name Medical Image Management and Processing System
+Product Code QIH
+Regulatory Class II
+3. Predicate Device
+Proprietary Name Spine CAMP™
+Premarket Notification K221632
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+Regulation Name Medical Image Management and Processing System
+Product Code QIH
+Regulatory Class II
+4. Device Description
+RadioLens v1.0 is a medical image management and processing system for general human
+radiology reporting and provides a browser based interface for transferofDICOM filesfromthe
+scanning equipment to Synapsica’s cloud server, for distribution to authorized users, including
+Radiologists. It also provides a worklist that keeps track of patient cases that the user needs to
+work on; a DICOM Viewer that allows users to view and analyze images in patient scan; and a
+report editor where the Radiologist can prepare the text report that goes back to the patient and
+referring provider.
+RadioLens v1.0 includes an optionalSpindleXmodule. TheSpindleXisanartificialintelligence
+(AI) module that works ondigitalstress x-raysofthespineandassists withclinicalinterpretationby a qualified Radiologist by automatically providing multiple relevant measurements in the
+spine.
+SpindleX is meant for assistance with analysis of spinal ligament injury in the adult population
+(>18 years of age) as captured in stress x-rays. SpindleX is not meant for patients that have
+undergone surgery or other traumatic injury that result in distortion of spinal anatomy.
+The following visualization, quantification, and reporting functionalities are provided by the
+software:
+Visualization
+● 2D image review
+● Image navigation tools
+● Patient worklist
+Quantitative Analysis
+The subject device performs the following anatomical measurements:
+● Ruth Jackson’s angle,
+● Ferguson's angle
+● Canal diameter
+● Displacement of L3 vertebrae
+● Vertebral offset
+● Motion Segment Integrity, Translational & Angular
+Reporting
+The subject device provides a detailed, objective report for stress x-rays of spine following
+standards set by American Medical Association (AMA). The report is pre-populated with
+annotated snapshots of digital x-ray scan of the spine generated by SpindleX. Relevant
+measurements, per the Quantitative Analysis discussed above, are provided along the annotated
+images. Once the report has been edited and finalized by theRadiologist,itcanbedownloaded
+in microsoft word or pdf format.
+Algorithm Training
+The RadioLens SpindleX module was trained on13,452cervicaland6,492lumbarretrospective
+studies that were de-identified and didnotcontainanyPHI. Thedatawas sourcedfromover200
+institutions across the U.S., making the dataset very diverseandrepresentativeofthepopulation
+demographic. These studies consisted of images of stress x-rays of cervical andlumbarspineof
+adults (>18 years) taken in the neutral, flexion orextensionpositionswherethepatient’s bodyis
+either tilting down or up respectively.Trainingdatasetdidnotincludescansofpatientsthathave
+undergone surgeries or any other traumatic injury that results in distortion of anatomy. These
+images had morphometry points pre-marked on cervical and lumbar images by US board
+certified Radiologists who used these to prepare clinical reports that were delivered to patients.
+These pre-marked points were treated as ground truth for training of models5. Indications for Use
+The RadioLens v1.0 software is a medicaldiagnosticapplicationthatdisplays,processes,stores,
+and transfers DICOM data, with the exception of mammography. It provides the capability to
+store images and patient information, perform filtering, digital manipulation, and quantitative
+measurements. The client software is designed to run on standard personal and business
+computers.
+RadioLens v1.0 includes an optional SpindleX module which is used to analyze potential
+vertebral body displacements in spine, either absolute or relative, using cervical/lumbar digital
+X-Rays of spine. A qualified medical practitioner may use the module to semi-automatically
+identify relevant spine anatomy and calculate vertebral displacement measurements.
+Measurements are then used to determine severity and location of any spinal ligament injury
+leading to subluxation using criteria published in AMA Guides to The Evaluation ofPermanent
+Impairment, 5th & 6th edition.
+SpindleX is meant for assistance with analysis of spinal ligament injury in the adult population
+(>18 years of age) as captured in stress x-rays. SpindleX is not meant for patients that have
+undergone surgery or other traumatic injury that result in distortion of spinal anatomy.
+6. Comparison of Technological Characteristics with Predicate Device
+Predicate Device:
+Feature/ Subject Device:
+Spine CAMP™
+Function RadioLens v1.0
+(K221632)
+Intended Users Qualified medical practitioners Radiologists
+Intended
+Clinical settings
+Environment Clinical settings
+Device Class II II
+Image Input DICOM DICOM
+Static Static
+Image Display
+Anatomical Spine
+Spine
+Area
+Yes, only through the optional
+SpindleX module (Cervical, Lumbar
+Body Part
+and others for digital x-rays of No
+Detection
+spine)
+Yes, only through the optional
+Body Position SpindleX module
+N/A
+Detection (Flexion, extension or neutral)Predicate Device:
+Feature/ Subject Device:
+Spine CAMP™
+Function RadioLens v1.0
+(K221632)
+Only through the optional SpindleX
+module the following measurements
+are provided:
+-Linear measurements
+-Angular measurements
+-Ruth Jackson’s angle
+-Vertebral body detection
+Quantitative -Ferguson's angle
+-Vertebral body landmark
+Analysis -Canal diameter
+specification
+-Displacement of L3 vertebrae
+-Vertebral body registration
+-Vertebral offset
+-Motion Segment Integrity,
+Translational & Angular
+2D Motion N/A
+Yes
+Analysis
+Image N/A
+Yes
+Registration
+Report Yes
+Yes
+Creation
+The subject device and predicate device have substantially equivalent indications for use and
+technological characteristics. The minor differences do not raise questions of safety or
+effectiveness as the underlying technology is similar and risks associated with these differences
+are mitigated with similar general and special controls.
+7. Performance Data
+Safety and performanceoftheRadioLensv1.0has beenevaluatedandverifiedinaccordancewith
+software specifications and applicable performance standards through software verification and
+validation testing. Additionally, the software validation activities were performed in accordance
+with ANSI AAMI IEC 62304:2006/A1:2016 - Medical device software – Software life cycle
+processes, in addition totheFDA Guidancedocuments,“GuidancefortheContentofPremarket
+Submissions for Software Contained in Medical Devices” and “Content of Premarket
+Submission for Management of Cybersecurity in Medical Devices.”
+A multi-reader multi-center (MRMC) retrospective study was carried out in the United States
+involving a sample size of 600 de-identified stress x-rays ( 300 cervical and 300 lumbar)
+collected from over200institutionswhereeachcasehasflexion,extension,andneutralpositions
+of the spine. The data collected for clinical assessment was independent from the data used for
+training. Three (3) expert radiologists analyzedeachcasewithandwithouttheSpindleXmodule
+and sensitivity, specificity, and/or agreement was used to compare performance. The following
+outline the results of the assessment:● For identification of body part among cervical and lumbar scans, the model had 100%
+sensitivity for the scans used in the validation study. This was againstatargetsensitivity
+of 95%.
+● For identification of patient position among flexion, extensionandneutralthemodelhad
+96.8%, 92.0%, and 90.5% sensitivities respectively. This was against a target sensitivity
+of 90% in each category.
+● For prediction of measurements by the model, the pass criterion was for the combined
+ICC scores of the model with 3 expert radiologists needed to be as good as ICC scores
+among those radiologists alone. In the validation exercise, we observed that model
+agreement was equivalent to agreement that radiologists had among themselves.
+For this purpose, ICC scores were categorized as follows:
+1. < 0.5 - Poor
+2. 0.5 - 0.75 - Moderate
+3. 0.75 - 0.9 - Good
+4. > 0.9 - Excellent
+The following tables capture the aided versus unaidedagreement:
+CERVICAL
+Measurement for pathology Radiologists ICC Rads & Model ICC
+Stress Lines (degrees) 0.957 (E) 0.953 (E)
+Canal Diameter (mm) 0.950 (E) 0.955 (E)
+Vertebral Offset Neutral (mm) 0.698 (M) 0.707 (M)
+Angular MSI (degrees) 0.769 (G) 0.781 (G)
+Translational Motion 5th Edition (mm) 0.712 (M) 0.717 (M)
+Translational Motion 6th Edition - Flexion 0.793 (G) 0.802 (G)
+(mm)
+Translational Motion 6th Edition - Extension 0.707 (M) 0.716 (M)
+(mm)
+LUMBAR
+Measurement for pathology Radiologists ICC Rads & Model ICC
+Stress Lines (degrees) 0.979 (E) 0.968 (E)LUMBAR
+Measurement for pathology Radiologists ICC Rads & Model ICC
+Canal Diameter (mm) 0.826 (G) 0.784 (G)
+Ferguson’s Angle (degrees) 0.968 (E) 0.939 (E)
+Integrity of 3rd Lumbar Vertebra (mm) 0.997 (E) 0.996 (E)
+Vertebral Offset Neutral (mm) 0.820 (G) 0.777 (G)
+Angular MSI (degrees) 0.792 (G) 0.771 (G)
+Translational Motion 5th Edition (mm) 0.710 (M) 0.656 (M)
+Translational Motion 6th Edition - Flexion 0.809 (G) 0.774 (G)
+(mm)
+Translational Motion 6th Edition - Extension 0.823 (G) 0.769 (G)
+(mm)
+Rater Agreement Legend: P - Poor, M - Moderate, G - Good, E - Excellent
+8. Conclusion
+Based on the information submitted in this premarket notification, and based on the indications
+for use, technological characteristics and performance testing, the RadioLens v1.0 raises no new
+questions of safety and effectiveness and is substantially equivalent to the predicate device in
+terms of safety and effectiveness.

@@ -1,0 +1,452 @@
+July 1, 2025
+Circle Cardiovascular Imaging Inc.
+Kyle Mayr
+Director - Regulatory Affairs & Quality Management Systems
+Suite 1800, 707 8 Avenue SW
+Calgary, AB T2P 1H5
+Canada
+Re: K250221
+Trade/Device Name: StrokeSENS ASPECTS Software Application
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological Computer-Assisted Diagnostic Software For Lesions Suspicious Of
+Cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: May 30, 2025
+Received: June 2, 2025
+Dear Kyle Mayr:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.05
+Silver Spring, MD 20993
+www.fda.govK250221 - Kyle Mayr Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH LearnK250221 - Kyle Mayr Page 3
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Imaging Software Team
+Assistant Director
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K250221
+I
+Device Name
+StrokeSENS ASPECTS Software Application
+Indications for Use (Describe)
+StrokeSENS ASPECTS is a computer-aided diagnosis (CADx) software device used to assist the
+clinician in the assessment and characterization of brain tissue abnormalities using CT image data.
+The Software automatically registers images and uses an Atlas to segment and analyze ASPECTS
+Regions. StrokeSENS ASPECTS extracts image data from individual voxels in the image to provide
+analysis and computer analytics and relates the analysis to the atlas defined ASPECTS regions. The
+imaging features are then synthesized by an artificial intelligence algorithm into a single ASPECT
+(Alberta Stroke Program Early CT) Score.
+StrokeSENS ASPECTS is indicated for evaluation of patients presenting for diagnostic imaging
+workup with known MCA or ICA occlusion, for evaluation of extent of disease. Extent of disease
+refers to the number of ASPECTS regions affected which is reflected in the total score. StrokeSENS
+ASPECTS provides information that may be useful in the characterization of ischemic brain tissue
+injury during image interpretation (within 12 hours from time last known well).
+StrokeSENS ASPECTS provides a comparative analysis to the ASPECTS standard of care
+radiologist assessment by providing highlighted ASPECTS regions and an automated editable
+ASPECTS score for clinician review. StrokeSENS ASPECTS presents the original and annotated
+images for concurrent reads. StrokeSENS ASPECTS additionally provides a visualization of the
+voxels contributing to the automated ASPECTS score.
+Limitations:
+1. StrokeSENS ASPECTS is not intended for primary interpretation of CT images. It is used to assist
+physician evaluation.
+2. StrokeSENS ASPECTS has been validated in patients with known MCA or ICA occlusion prior to
+ASPECTS scoring.
+3. Use of StrokeSENS ASPECTS in clinical settings other than brain ischemia within 12 hours from
+time last known well, caused by known ICA or MCA occlusions, has not been tested.
+4. StrokeSENS ASPECTS has only been validated and is intended to be used in patient populations
+aged over 21.
+Contraindications:
+* StrokeSENS ASPECTS is contraindicated for use on brain scans displaying neurological
+pathologies other than acute ischemic stroke, such as tumors or abscesses, hemorrhagic
+transformation, and hematoma.
+Cautions:
+* Patient Motion: Excessive patient motion leading to artifacts that make the scan technically
+inadequate.Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) FOver-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."K250221
+StrokeSENS ASPECTS 510(k) Summary
+The following 510(k) summary of safety and effectiveness information is submitted in accordance
+with the requirements of the Safe Medical Device Act 1990 and 21 CFR 807.92(c).
+I. SUBMITTER
+Submitter’s Name: Circle Cardiovascular Imaging, Inc.
+Address: Suite 1800 – 707 8th Ave SW, Calgary, AB, Canada, T2P 1H5
+Date Prepared: January 23 2025
+Telephone Number: +1 587 686-0787
+Contact Person : Kyle Mayr
+Email: kyle.mayr@circlecvi.com
+II. DEVICE
+Name of the Device: StrokeSENS ASPECTS software application
+Short Brand Name: StrokeSENS ASPECTS
+Classification Name: Radiological computer-assisted diagnostic software for lesions
+suspicious of cancer.
+Proposed Classification: Device Class: II
+Product Code: POK
+Regulation Number: 21 CFR 892.2060
+III. PREDICATE DEVICE
+The predicate device is Brainomix 360 e-ASPECTS manufactured by Brainomix Limited and cleared under
+K221564.
+The predicate device has not been subject to a design-related recall.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 1 of 10StrokeSENS ASPECTS 510(k) Summary
+IV. DEVICE DESCRIPTION
+StrokeSENS ASPECTS is a stand-alone software device that uses machine learning algorithms to
+automatically process NCCT (non-contrast computed tomography) brain image data to provide an output
+ASPECTS score based on the Alberta Stroke Program Early CT Score (ASPECTS) guidelines.
+The post-processing image results and ASPECTS score are identified based on regional imaging features
+and overlayed onto brain scan images. StrokeSENS ASPECTS provides an automated ASPECTS score
+based on the input CT data for the physician. The score includes which ASPECTS regions are identified
+based on regional imaging features derived from non-contrast computed tomography (NCCT) brain image
+data. The results are generated based on the Alberta Stroke Program Early CT Score (ASPECTS)
+guidelines and provided to the clinician for review and verification. At the discretion of the clinician, the
+scores may be adjusted based on the clinician’s judgement.
+StrokeSENS ASPECTS can connect with other DICOM-compliant devices, to transfer NCCT scans for
+software processing.
+Results and images can be sent to a PACS via DICOM transfer and can be viewed on a PACS workstation
+or via the StrokeSENS UI or other DICOM-compatible radiological viewer.
+StrokeSENS ASPECTS provides an automated workflow which will automatically process image data
+received by the system in accordance with pre-configured user DICOM routing preferences.
+StrokeSENS ASPECTS principal workflow for NCCT includes the following key steps:
+• Receive NCCT DICOM Image
+• Automated image analysis and processing to identify and visualize the voxels which have been
+included in the ASPECTS score (Also referred to as a ‘heat map’ or ‘VCTA; Voxels Contributing to
+ASPECTS Score’).
+• Automated image analysis and processing to register the subject image to an atlas to segment and
+highlight ASPECTS regions and to display whether or not each region is qualified as contributing
+to the ASPECTS score.
+• Generation of auto-generated results for review and analysis by users.
+• Generation of verified/modified result summary for archiving, once the user verifies or modifies the
+results.
+Once the auto-generated ASPECTS score results are available, the physician is asked to confirm that the
+case in question is for an ICA or MCA occlusion and is able to modify/verify the ASPECTS regional score.
+The ASPECTS auto-generated results, including the ASPECTS score, indication of affected side, affected
+ASPECTS regions and voxel-wise analysis (shown as a heatmap of voxels ’contributing to ASPECTS
+score’), along with the user-verified/modified result summary can be sent to the Picture Archiving and
+Communications System (PACS).
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 2 of 10StrokeSENS ASPECTS 510(k) Summary
+V. INDICATIONS FOR USE
+StrokeSENS ASPECTS is a computer-aided diagnosis (CADx) software device used to assist the clinician
+in the assessment and characterization of brain tissue abnormalities using CT image data.
+The Software automatically registers images and uses an Atlas to segment and analyze ASPECTS
+Regions. StrokeSENS ASPECTS extracts image data from individual voxels in the image to provide
+analysis and computer analytics and relates the analysis to the atlas defined ASPECTS regions. The
+imaging features are then synthesized by an artificial intelligence algorithm into a single ASPECT (Alberta
+Stroke Program Early CT) Score.
+StrokeSENS ASPECTS is indicated for evaluation of patients presenting for diagnostic imaging workup
+with known MCA or ICA occlusion, for evaluation of extent of disease. Extent of disease refers to the number
+of ASPECTS regions affected which is reflected in the total score. StrokeSENS ASPECTS provides
+information that may be useful in the characterization of ischemic brain tissue injury during image
+interpretation (within 12 hours from time last known well).
+StrokeSENS ASPECTS provides a comparative analysis to the ASPECTS standard of care radiologist
+assessment by providing highlighted ASPECTS regions and an automated editable ASPECTS score for
+clinician review. StrokeSENS ASPECTS presents the original and annotated images for concurrent reads.
+StrokeSENS ASPECTS additionally provides a visualization of the voxels contributing to the automated
+ASPECTS score.
+Limitations:
+1. StrokeSENS ASPECTS is not intended for primary interpretation of CT images. It is used to
+assist physician evaluation.
+2. StrokeSENS ASPECTS has been validated in patients with known MCA or ICA occlusion prior to
+ASPECTS scoring.
+3. Use of StrokeSENS ASPECTS in clinical settings other than brain ischemia within 12 hours from
+time last known well, caused by known ICA or MCA occlusions, has not been tested.
+4. StrokeSENS ASPECTS has only been validated and is intended to be used in patient populations
+aged over 21.
+Contraindications:
+• StrokeSENS ASPECTS is contraindicated for use on brain scans displaying neurological pathologies
+other than acute ischemic stroke, such as tumours or abscesses, haemorrhagic transformation, and
+hematoma.
+Cautions:
+• Patient motion: Excessive patient motion leading to artifacts that make the scan technically
+inadequate.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 3 of 10StrokeSENS ASPECTS 510(k) Summary
+VI. COMPARISON WITH PREDICATE DEVICE
+The detailed analysis of the subject device and the predicate device (shown in Table 1 and Table 2)
+demonstrates that the subject device is substantially equivalent in indications for use / intended use,
+technological characteristics, functionality, and operating principles with the predicate (K221564). Of the
+three characteristics (technical, biological, and clinical) required for the demonstration of equivalence,
+biological characteristics are not applicable since both the subject device and predicate device are software
+as a medical device application with no tangible component interfacing with the body.
+Both proposed and predicate devices have the same intended use. Both devices are computer-aided
+diagnosis (CADx) software devices used to assist clinicians in the assessment and characterization of
+brain tissue abnormalities using CT image data.
+Both devices segment and identify ASPECTS regions and use machine learning algorithms to analyze
+image data to facilitate the evaluation of extent of disease and to identify and count the affected
+ASPECTS regions to generate an ASPECTS score.
+Both devices display and highlight the affected ASPECTS regions along with the automatically generated
+ASPECTS score. Both devices are not intended for primary interpretation of CT images and both require
+that cases processed meet prerequisite criteria such that a primary diagnosis of ICA or MCA occlusion
+has already been made by clinicians prior to accessing the processing results and the resulting
+ASPECTS score.
+Both devices include a gating condition requiring users to confirm that the case in question is for a
+confirmed ICA or MCA occlusion before processing results are made available.
+Both devices include pre-processing steps to normalize NCCT scan orientation in order to identify and
+segment ASPECTS regions on the subject NCCT scan.
+In both cases, the devices identify signs indicative of ischemic damage and relate these to the segmented
+ASPECTS regions in order to determine whether or not individual ASPECTS regions are included as
+contributing to a reduced ASPECT score. In both cases, the segmented ASPECTS regions are labelled
+and presented to users in the software User Interface with the regions highlighted depending on whether
+they have been determined to affect the ASPECT score or not. In both cases, users can manually edit the
+automated result for one or more ASPECTS regions.
+The following principal difference exists between StrokeSENS ASPECTS and the predicate device:
+• StrokeSENS ASPECTS is indicated for cases within 12 hours from time last known well, the predicate
+is indicated for cases within 6 hours from time last known well.
+• StrokeSENS ASPECTS is not limited to Siemen’s Somatom Definition CT scanners
+StrokeSENS ASPECTS has similar technological characteristics and indications for use as the predicate
+device.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 4 of 10StrokeSENS ASPECTS 510(k) Summary
+Table 1. Indications comparison.
+Subject Device Predicate Device
+StrokeSENS ASPECTS Brainomix 360 e-ASPECTS (K221564)
+Manufactured by Circle Cardiovascular Imaging Inc. Manufactured by Brainomix Limited
+Indications for StrokeSENS ASPECTS is a computer-aided diagnosis (CADx) software device Brainomix 360 e-ASPECTS is a computer-aided diagnosis (CADx) software
+Use/Intended use used to assist the clinician in the assessment and characterization of brain device used to assist the clinician in the assessment and characterization of
+tissue abnormalities using CT image data. brain tissue abnormalities using CT image data.
+The Software automatically registers images and uses an Atlas to segment and The software automatically registers images and uses an Atlas segment to
+analyze ASPECTS Regions. StrokeSENS ASPECTS extracts image data from analyze ASPECTS regions. Brainomix 360 e-aspects extracts image data from
+individual voxels in the image to provide analysis and computer analytics and individual voxels in the image to provide analysis and computer analytics and
+relates the analysis to the atlas defined ASPECTS regions. The imaging relates the analysis to the atlas defined ASPECTS regions. The imaging
+features are then synthesized by an artificial intelligence algorithm into a single features are then synthesized by an artificial intelligence algorithm into a single
+ASPECT (Alberta Stroke Program Early CT) Score. ASPECTS (Alberta Stroke Program Early CT) Score.
+StrokeSENS ASPECTS is indicated for evaluation of patients presenting for Brainomix 360 e-ASPECTS is indicated for evaluation of patients presenting for
+diagnostic imaging workup with known MCA or ICA occlusion, for evaluation of diagnostic imaging workup with known MCA or ICA occlusion, for evaluation of
+extent of disease. Extent of disease refers to the number of ASPECTS regions extent of disease. Extent of disease refers to the number of ASPECTS regions
+affected which is reflected in the total score. StrokeSENS ASPECTS provides affected which is reflected in the total score. Brainomix 360 e-ASPECTS
+information that may be useful in the characterization of ischemic brain tissue provides information that may be useful in the characterization of ischemic
+injury during image interpretation (within 12 hours from time last known well). brain tissue injury during image interpretation (within 6 hours from time last
+known well).
+StrokeSENS ASPECTS provides a comparative analysis to the ASPECTS
+standard of care radiologist assessment by providing highlighted ASPECTS Brainomix 360 e-ASPECTS provides a comparative analysis to the ASPECTS
+regions and an automated editable ASPECTS score for clinician review. standard of care radiologist assessment by providing highlighted ASPECTS
+StrokeSENS ASPECTS presents the original and annotated images for regions and an automated editable ASPECTS score for clinician review.
+concurrent reads. StrokeSENS ASPECTS additionally provides a visualization Brainomix 360 e-ASPECTS additionally provides a visualization of the voxels
+of the voxels contributing to the automated ASPECTS score. contributing to the automated ASPECTS score and the voxels excluded from
+the automated ASPECTS score.
+Limitations:
+1. StrokeSENS ASPECTS is not intended for primary interpretation of Limitations:
+CT images. It is used to assist physician evaluation. 1. Brainomix 360 e-ASPECTS is not intended for primary interpretation
+2. StrokeSENS ASPECTS has been validated in patients with known of CT images. It is used to assist physician evaluation.
+MCA or ICA occlusion prior to ASPECTS scoring. 2. Brainomix 360 e-ASPECTS has ben validated in patients with known
+3. Use of StrokeSENS ASPECTS in clinical settings other than brain MCA or ICA occlusion prior to ASPECTS scoring.
+ischemia within 12 hours from time last known well, caused by known 3. Brainomix 360 e-ASPECTS is not suitable for use on brain scans
+ICA or MCA occlusions, has not been tested. displaying neurological pathologies other than acute stroke, such as
+4. StrokeSENS ASPECTS has only been validated and is intended to be tumours or abscesses, haemorrhagic transformation and hematoma.
+used in patient populations aged over 21. 4. Use of Brainomix 360 e-ASPECTS Module in clinical settings other
+than brain ischemia within 6 hours from time last known well, caused
+by known ICA or MCA occlusions has not been tested.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 5 of 10StrokeSENS ASPECTS 510(k) Summary
+Subject Device Predicate Device
+StrokeSENS ASPECTS Brainomix 360 e-ASPECTS (K221564)
+Manufactured by Circle Cardiovascular Imaging Inc. Manufactured by Brainomix Limited
+Contraindications: 5. Brainomix 360 e-ASPECTS has only been validated and is intended
+• StrokeSENS ASPECTS is contraindicated for use on brain scans to be used in patient populations aged over 21.
+displaying neurological pathologies other than acute ischemic stroke, such 6. Brainomix 360 e-ASPECTS has been validated and is intended to be
+as tumours or abscesses, haemorrhagic transformation and hematoma. used on Siemens Somatom Definition scanners.
+7. Brainomix 360 e-ASPECTS is not intended for mobile diagnostic use.
+Cautions: Images viewed on a mobile platform are compressed preview images
+• Patient motion: Excessive patient motion leading to artifacts that make the and not for diagnostic interpretation.
+scan technically inadequate.
+Contraindications/Exclusions/Cautions:
+• Patient motion: Excessive patient motion leading to artifacts that make
+the scan technically inadequate.
+• Haemorrhagic Transformation, Hematoma.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 6 of 10StrokeSENS ASPECTS 510(k) Summary
+Table 2. Regulatory and technological features comparison.
+Feature Subject Device Predicate Device
+StrokeSENS ASPECTS Brainomix 360 e-ASPECTS (K221564)
+Manufactured by Brainomix Limited
+Manufactured by Circle Cardiovascular Imaging Inc.
+Device Class II II
+Product Code(s) POK POK
+Regulation Name Radiological computer-assisted diagnostic software for lesions Radiological computer-assisted diagnostic software for lesions
+suspicious of cancer. suspicious of cancer.
+Regulation Number 21 CFR 892.2060 21 CFR 892.2060
+DICOM Compliant? Yes Yes
+Input Data Type Non-contrast head CT scans Non-contrast head CT scans
+Clinical Application/Anatomic al Stroke/Head Stroke/Head
+Region
+Standard of Care ASPECT Scoring ASPECT Scoring
+Representation
+Alteration of original image data No No
+base
+Alters Standard of Care In parallel to In parallel to
+Workflow
+Technical Implementation ML/AI (Deep Learning) ML/AI (Random Forest)
+Design: Computer Platform Standard off-the-shelf server or virtual server Standard off-the-shelf server or virtual server
+Image Overlay ASPECTS regions, highlighted by algorithms. ASPECTS regions, highlighted by algorithms.
+Voxel-wise analysis visualized as a heat map. Voxel-wise analysis visualized as a heat map.
+Gating Conditions Users must confirm ICA or MCA occlusion prior to accessing ASPECTS Users must confirm ICA or MCA occlusion prior to accessing ASPECTS
+results results
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 7 of 10StrokeSENS ASPECTS 510(k) Summary
+VII. PERFORMANCE DATA AND TESTING
+Performance validation testing and software verification and validation activities were conducted to comply
+with specified design requirements in accordance with applicable consensus standards and to satisfy the
+special controls of the device classification.
+Performance testing was conducted to verify compliance with specified design requirements in accordance
+with ISO 13485:2016+A11:2021, IEC 62304:2006+A1:2015, IEC 62366:2015+A1:2020 and ISO
+14971:2019+A11:2021. DICOM conformance testing was performed to verify compliance with NEMA 3.1-
+3.20 (2021) standards. Verification and validation testing were conducted to ensure specifications and
+performance of the device and were performed per the FDA Guidance documents “Guidance for the
+Content of Premarket Submissions for Software Contained in Medical Devices” and “Content of Premarket
+Submission for Management of Cybersecurity in Medical Devices”. Software performance, verification and
+validation testing demonstrated that the StrokeSENS system met all design requirements and
+specifications. StrokeSENS has been developed and tested to meet cybersecurity requirements using
+design vulnerability Assessments (Threat Models), SBOM’s, NVD assessments, and Penetration Testing
+This performance validation testing demonstrated that StrokeSENS ASPECTS provides accurate
+representation of key processing parameters under a range of clinically relevant parameters and
+perturbations associated with the intended use of the software. Software performance, validation and
+verification testing demonstrated that the StrokeSENS ASPECTS meets all design requirements and
+specifications. Design Verification and Validation according to 21 CFR 820.30 passed.
+The results of software verification and validation and algorithmic testing demonstrate that StrokeSENS
+ASPECTS has met all design requirements and specifications associated with the intended use of the
+software. No deviations were found during the execution of the testing.
+Standalone Performance: Stand-alone performance testing demonstrated that the proposed device
+provides accurate representation of key processing parameters under a range of clinically relevant
+parameters and perturbations associated with the intended use of the software. The stand-alone
+performance testing demonstrates the generalized performance for a range of typical patient demographics
+and a typical range of cases with confounding factors and including radiologically normal cases which is
+the same as for the predicate device.
+The standalone validation dataset is comprised of 200 non-contrast CT scans from acute ischemic stroke
+patients with a confirmed ICA/MCA occlusion. Patients aged 21 years and younger were excluded. The
+median age was 71 years, and 55.5% were female. Patients were from multiple clinical sites including 77
+from Canada, 59 from the United States, 51 from Europe, and 13 from Asia-Australia. Ground truth
+ASPECTS score was <7 in 69 patients and >6 in 131 patients. All patients presented within 6 hours of time
+last seen well. 164 patients had a proximal vessel occlusion (internal carotid artery or M1 segment of the
+middle cerebral artery) and 36 were non-proximal.
+The primary standalone performance assessment was a region-level Clustered ROC Analysis to
+demonstrate the standalone performance of the ASPECTS device with respect to the expert consensus
+reference standard. The analysis demonstrated an AUC-ROC of 90.9% (95% CI = [88.7%, 93.1%]), with a
+accuracy of 90.6 [89.7%, 91.5%], a sensitivity of 70.6% [69.2%, 72.1%] and a specificity of 93.9% [93.2%,
+94.7%].
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 8 of 10StrokeSENS ASPECTS 510(k) Summary
+This stand-alone performance testing demonstrates that StrokeSENS ASPECTS performance generalises
+to a range of image acquisition and reconstruction parameters encountered in multiple clinical sites and for
+a range of scanner types and manufacturers.
+Clinical Validation Reader Improvement: The MRMC study dataset was comprised of 100 non-contrast
+CT scans from acute ischemic stroke patients with a confirmed ICA/MCA occlusion. Patients aged 21 years
+and younger were excluded. The median age was 72 years, and 53% were female. 50% of the patients
+were from 11 sites in Canada, and the other 50% were from 12 sites in the United States. Ground truth
+ASPECTS score was <7 in 27 patients and >6 in 73 patients. 88 patients presented within 6 hours of time
+last seen well, and the remaining 12 patients presented between 6 and 12 hours of time last seen well. 64
+patients had a proximal vessel occlusion (internal carotid artery or M1 segment of the middle cerebral
+artery), and 36 had non-proximal MCA occlusions.
+Comparison of the area under the curve (AUC) for each reader with and without the support of the
+StrokeSENS ASPECTS tool showed a statistically significant improvement of 5.7% from 68.6% to 74.3%
+(p-value<0.001) which was the primary endpoint for the study. When comparing reader performance with
+the ground truth, the improved AUC in the primary endpoint was driven by an increase in the sensitivity and
+specificity, derived from the mixed-effects logistic regression model, demonstrating (1) a statistically
+significant improvement in sensitivity of 9.7% (p-value<0.001) from 41.3% (unaided) to 51.0% (aided), and
+a statistically significant improvement in specificity of 1.6% (p-value<0.001) from 95.9% (unaided) to 97.5%
+(aided) when assisted by StrokeSENS ASPECTS compared to unassisted reading. Overall percentage
+agreement (accuracy) also improved in line with the AUC result by 2.6% (p-value<0.001) from 89.5%
+(unaided) to 92.0% (aided). Subgroup analysis based on the clinical training of the reader (radiologist
+versus neurologist) demonstrates a consistent improvement of StrokeSENS ASPECTS across reader
+groups.
+The overall ASPECTS score was more consistent between readers with use of StrokeSENS ASPECTS
+with the Fleiss’s Kappa value among the 8 readers in the study increased by 28.5%, from 32.3% (unaided)
+to 60.8% (aided). The range in AUC between users was also narrower with StrokeSENS ASPECTS than
+unassisted indicating a reduction in the variation of performance between different readers when
+StrokeSENS ASPECTS outputs are available.
+The results showed statistically significant improvements in the agreement between the readers and a
+reference standard when using the StrokeSENS ASPECTS software compared to the conventional manual
+method used in routine clinical practice.
+Clinical Validation Voxels contributing to ASPECTS (VCTA): The results of this VCTA verification study
+demonstrated a high Concordance Rate of 97.0% (i.e., the proportion of cases with a consensus score of
+Fair Concordance or above), with respect to the agreement between the device’s auto-generated VCTA
+overlay and expert neuroradiologist assessment of ischemic tissue.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 9 of 10StrokeSENS ASPECTS 510(k) Summary
+VIII. CONCLUSION
+StrokeSENS ASPECTS (subject device of this filing) is equivalent to the predicate (Brainomix 360 e-
+ASPECTS). It is intended to aid in the assessment of a specific disease state using standard of care scoring
+using machine learning/artificial intelligence algorithms. Both devices use ROI based assessments based
+on an ASPECTS defined atlas. Performance data demonstrates that StrokeSENS ASPECTS performs as
+intended within the same clinically relevant parameters for the intended use as the predicate device.
+An MRMC clinical study was conducted to support substantial equivalence. The clinical data demonstrates
+that StrokeSENS ASPECTS shows a significant improvement in the agreement between the readers and
+a reference standard when using the StrokeSENS ASPECTS software compared to routine clinical practice.
+StrokeSENS ASPECTS is intended to improve reader performance in estimating an overall ASPECTS
+score. The risk/benefit profile of StrokeSENS ASPECTS remains favorable based on the positive impact
+on readers’ overall aided performance in calculating an ASPECTS score (as measured in the reader study),
+and the standardization of ASPECTS reading between clinicians (higher inter-reader agreement) in
+identifying affected ASPECTS regions.
+The company believes that StrokeSENS ASPECTS is substantially equivalent to the Brainomix 360 e-
+ASPECTS predicate.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 10 of 10

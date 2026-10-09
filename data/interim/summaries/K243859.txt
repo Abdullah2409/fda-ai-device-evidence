@@ -1,0 +1,496 @@
+August 29, 2025
+Nurea
+Maxime Cornuau
+Quality Assurance and Regulatory Affairs Manager
+213 cours Victor Hugo
+Bègles, 33130
+France
+Re: K243859
+Trade/Device Name: PRAEVAorta®2
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: July 30, 2025
+Received: July 30, 2025
+Dear Maxime Cornuau:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.08.00
+Silver Spring, MD 20993
+www.fda.govK243859 - Maxime Cornuau Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. SeeK243859 - Maxime Cornuau Page 3
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+Jessica Lamb, Ph.D.
+Assistant Director, Imaging Software Team
+DHT8B: Division of Radiological
+Imaging Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K243859
+Device Name
+PRAEVAorta®2
+Indications for Use (Describe)
+PRAEVAorta®2 is a software intended to be run on its own or as part of another medical device to automatically
+calculate maximum diameters of anatomical zones from a DICOM CT image containing blood vessels.
+PRAEVAorta®2 is designed to measure the maximal transverse diameter of vessels and determine the maximal general
+diameter using a non-adaptative machine learning algorithm.
+Intended users of the software are aimed to the clinical specialists, physicians or other licensed practitioners in healthcare
+institutions, such as clinics, hospitals, healthcare facilities, residential care facilities and long-term care services. Any
+results obtained from the software by an intended user other than a physician must be validated by the physician
+responsible of the patient.
+The system is suitable for adults. Its results are not intended to be used on a standalone basis for clinical decision making
+or otherwise preclude clinical assessment of any disease.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFTraditional 510(k) premarket Notification
+SECTION 5
+510(k) SUMMARY
+Page 1 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+1. ADMINISTRATIVE INFORMATION
+Submitter Name Nurea
+Adress 213 Cours Victor Hugo 33130 Bègles, FRANCE
+Phone Number +33 7 49 24 63 67
+Fax number NA
+Company Representative Maxime CORNUAU
+Additional Company NA
+Representatives
+Email contact@nurea-soft.com
+Date Summary Prepared August 06, 2025
+2. SUBJECT DEVICE INFORMATION
+Trade Name PRAEVAorta®2
+Subject Device K Number K243859
+Common Name Automated radiological image processing software
+Product Code QIH
+Regulation Number 21CFR 892.2050
+Regulatory Class Class II
+Review Panel Radiology
+3. PREDICATE DEVICE INFORMATION
+Predicate Device Name CT Cardiomegaly
+Predicate Device K Number K232613
+Common Name Automated Radiological Image Processing Software
+Product Code QIH
+Regulation Number 892.2050
+Regulatory Class Class II
+Review Panel Radiology
+4. DEVICE DESCRIPTION
+PRAEVAorta®2 is a decision-making support software for diagnosis and follow-up of vascular diseases. It
+is intended for automatic segmentation and geometric analysis of vessels.
+Page 2 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+It is a companion software whose purpose is to accompany the doctor in the first assessment of several
+indicators from CT scan images
+The software is able to reconstruct automatically the vascular structures from CT (Computerized
+Tomography) scans images and automatically segments aneurysms and associated thrombus.
+With this reconstruction, the software is able to provide diameters, volumes, and angles. In addition, the
+software provides diameters, volumes, angles and distances between anatomic points.
+This software is cloud based or can be installed on premises. PRAEVAorta®2 is a server software usable
+through APIs. However, it is hardly recommended to use it via a client software. The client aims to provide
+a user interface to send images and receive the analysis results. It can either be a web client, a getaway /
+PACS client, an integrating solution, or a marketplace
+5. INDICATIONS FOR USE
+PRAEVAorta®2 is a software intended to be run on its own or as part of another medical device to
+automatically calculate maximum diameters of anatomical zones from a DICOM CT image containing
+blood vessels.
+PRAEVAorta®2 is designed to measure the maximal transverse diameter of vessels and determine the
+maximal general diameter using a non-adaptative machine learning algorithm.
+Intended users of the software are aimed to the clinical specialists, physicians or other licensed
+practitioners in healthcare institutions, such as clinics, hospitals, healthcare facilities, residential care
+facilities and long-term care services. Any results obtained from the software by an intended user other
+than a physician must be validated by the physician responsible of the patient.
+The system is suitable for adults. Its results are not intended to be used on a standalone basis for clinical
+decision making or otherwise preclude clinical assessment of any disease.
+Page 3 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+6. COMPARAISON OF TECHNOLOGICAL CHARACTERISTICS
+PRIMARY PREDICATE
+NEW DEVICE
+CT Cardiomegaly
+PRAEVAorta® 2 Substantially Equivalent
+Innolitics
+Nurea
+K232613
+Regulatory number 21 CFR 892.2050 21 CFR 892.2050 Same
+Regulatory class Class II Class II Same
+Product code QIH QIH Same
+Device property SaMD SaMD Same
+Indication for use PRAEVAorta®2 is a software CT Cardiomegaly is software Equivalent
+intended to be run on its own or intended to be run on its own
+as part of another medical or as part of another medical Indication for use of the
+device to automatically device to automatically two devices are analyzing
+calculate maximum diameters calculate linear and area CT scan images.
+of anatomical zones from a based cardiothoracic ration Both the subject device
+DICOM CT image containing (CTR) from a CT image and the primary predicate
+blood vessels containing the heart. CT are using non adaptative
+PRAEVAorta2 is designed to Cardiomegaly is designed to machine learning
+measure the maximal measure the maximal algorithms. An observed
+transverse diameter of vessel transverse diameter of heart difference between the
+and determine the maximal and maximal inner transverse subject device and the
+general diameter using a non- diameter of thoracic cavity predicate is the anatomical
+adaptative machine learning and calculate the CTR from an zone analyzed in CT scan.
+algorithm axial CT slice containing the The primary predicate is
+Intended users of the software heart using a non-adaptative assessing the heart while
+are aimed to the clinical machine learning algorithm. the subject device is
+specialist, physicians or other Intended users of the assessing arteries .
+licensed practitioners in software are aimed to the
+healthcare institutions, such as physicians or other licensed However, these
+clinics, hospitals, healthcare practitioners in the differences in
+facilities, residential care healthcare institutions, such technological
+facilities and long-term care as clinics, hospitals, characteristics do not
+services. Any results obtained healthcare facilities, affect safety and
+from the software by an residential care facilities and effectiveness of the device
+intended user other than a long-term care services. The and have been supported
+physician must be validated by system is suitable for adults with verification and
+the physician responsible of the and transitional adolescents validation testing.
+patient. The system is suitable (18 to 21 years old but
+for adults. Its results are not treated as an adult). Its
+intended to be used on a results are not intended to be
+standalone basis for clinical used on a stand-alone basis
+decision making or otherwise for clinical decision making or
+preclude clinical assessment of otherwise preclude clinical
+any disease assessment of any disease.
+Input CT scan images CT scan images Same
+Page 4 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+PRIMARY PREDICATE
+NEW DEVICE
+CT Cardiomegaly
+PRAEVAorta® 2 Substantially Equivalent
+Innolitics
+Nurea
+K232613
+Output files - PDF, JSON and DICOM SC - PDF and JSON report Equivalent
+report The subject device
+- DICOM GSPS proposed the same storage
+format as the primary
+predicate.
+However, it is also
+proposing two additional
+formats, “DICOM SC
+report” and “DICOM GSPS”
+This difference in
+technological
+characteristics does not
+affect safety and
+effectiveness of the device
+and has been supported
+with verification and
+validation testing.
+Output measurements - Maximal transverse - Linear and area based Equivalent to the
+diameter of vessels (aorta cardiothoracic ratio predicate.
+and iliac arteries) - Maximal transverse The subject device is
+- Linear measurements diameter of the heart realizing the similar
+(diameters) - Maximal inner measurements as the
+- Various visualization transverse diameter of primary device.
+techniques: 2D/3D thoracic cavity The main difference
+between the primary
+predicate and the subject
+device is the body part
+assessed.
+However, these
+differences in
+technological
+characteristics do not
+affect safety and
+effectiveness of the device
+and have been supported
+with verification and
+validation testing.
+Report Structure Report will be output in the PDF Report will be output in the Equivalent
+and JSON file, and DICOM SC PDF and JSON Both devices generate a
+report which is structured with file format which is reports with a final output
+following information: structured with following (Maximal Orthogonal
+- Maximum orthogonal information: diameter or CTR), which is
+diameter of - CTR (both linear used to support medical
+anatomical zones and area-based) diagnosis for a specific
+- Patient information
+- Patient information clinical condition and
+- Reference value(s)
+- Reference value(s) includes patient
+information.
+Page 5 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+PRIMARY PREDICATE
+NEW DEVICE
+CT Cardiomegaly
+PRAEVAorta® 2 Substantially Equivalent
+Innolitics
+Nurea
+K232613
+Intended users - Physicians or other Physician or other licensed Equivalent
+licensed practitioners in practitioners in the The subject device is also
+healthcare institutions healthcare institutions intended to be used by
+- Clinical specialists with clinical specialist, the
+results validated by a results being validated by
+physician the doctor in charge.
+Target population - Adults Adults and transitional Equivalent.
+adolescents (18 to 21 years The subject device is more
+old but treated as an adult) restrictive as
+the primary predicate.
+These differences in
+technological
+characteristics do not
+affect safety and
+effectiveness of the device
+have been
+supported with verification
+and validation
+testing.
+Location of anatomical - Thoraco-abdominal-pelvis Chest The primary predicate is
+structures more restrictive
+as the new device.
+However these
+differences are supported
+with a
+performance bench test.
+Imaging modality - Computed Tomography Computed Tomography (CT) Same
+(CT)
+Intended use - Healthcare institutions Healthcare institutions The subject device is
+environment (clinics, hospitals, (clinics, hospitals, healthcare usable by healthcare
+healthcare facilities, facilities, residential care company realizing sizing
+residential care facilities facilities and long-term care assessment
+and long-term care services) vessels while the primary
+services) predicate is not.
+- Healthcare company However, these
+realizing sizing assessment differences in
+of vessels) technological
+characteristics do not
+affect
+the safety and
+effectiveness of the device
+and have been supported
+with verification
+and validation testing
+Software device that Yes Yes Same
+operatures on off-the-
+shelf hardware
+Page 6 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+PRIMARY PREDICATE
+NEW DEVICE
+CT Cardiomegaly
+PRAEVAorta® 2 Substantially Equivalent
+Innolitics
+Nurea
+K232613
+Software device uses Yes Yes Same
+software algorithms for
+image
+Diameter measurement Yes, automated Yes, automated Same
+Storage Saved in PDF, JSON and DICOM Saved in JSON and PDF file The subject device
+SC format, DICOM GSPS format proposed the same
+storage format as the
+primary predicate
+and one format in common
+with the
+secondary predicate.
+However, it is also
+proposing an additional
+format “DICOM
+GSPS”.
+This difference in
+technological
+characteristics does not
+affect safety and
+effectiveness of the device
+and have been
+supported with verification
+and validation
+testing
+Software requirement - Ubuntu - Ubuntu 20.04.5 LTS Equivalent
+- Docker (provided as a docker
+container)
+- Docker 23.0.1 or above
+Algorithm type Machine learning based - Machine learning based Same
+algorithm (non-adaptative) algorithm (non-
+adaptative)
+Input of patient data Command line interface (API) Command line interface (API) Same
+Image assessment - Linear (diameters) - Linear (diameter, ratio) Equivalent.
+measurements - Area based ratio The subject device is more
+- Automatic segmentation - Automatic segmentation restrictive than
+and quantitative analysis and measurements the predicate.
+- Segmentation and analysis This difference in
+or aortic and iliac arteries technological
+characteristics do not
+affect safety and
+effectiveness of the device
+and have been
+supported with verification
+and validation
+testing
+Page 7 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+7. PERFORMANCE DATA
+7.1. Software Verification and Validation Testing
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket
+Submissions for Device Software Functions”.
+The software verification and validation testing verified that the design requirements were
+successfully met. The Intended use and user needs were successfully validated.
+These tests verified that the design requirements were met. Intended use and user requirements have
+been successfully validated. As the intended use, functionality and performance of PRAEVAorta®2 and
+predicate device are equivalent and the result of performance testing is evidence that PRAEVAorta® 2
+performs in an equivalence manner to CT Cardiomegaly.
+The following FDA recognized performance standards and guidance were performed in evaluating the
+functionality of PRAEVAorta® 2:
+• 21 CFR Part 860 – Medical Device Classification Regulation
+• 21 CFR Part 820 – Quality System Regulation (QSR)
+• FDA SaMD Guidance – Software as a Medical Device : FDA Guidance
+• FDA Validation Guidance – General Principles of Software Validation
+• IEC 62304 : 2015 – Medical Device Software – Software Life Cycle Processes
+• IEC 82304 : 2016 – Health Software – General Requirements for Product Safety
+• ISO 13485 : 2016 – Medial Devices – Quality Management Systems Requirements
+• ISO 14971 : 2019 – Medical Devices – Application of Risk Management to Medical Devices
+• IEC 62366 : 2015 – Medical Devices – Application of Usability Engineering to Medical Devices
+• ISO 20417 : 2021 – Medical Devices – Information to be supplied by the manufacturer
+• ISO 15223-1:2021 – Medical Devices – Symbols to Be Used with Medical Device Label, Labeling
+and information to be supplied
+The following functional performance testing has been carried out to demonstrate that the device
+performs as intended:
+- for automatic segmentation and geometric analysis of vessels
+- to measure the maximal transverse diameter of vessels and determine the maximal general diameter
+using a non-adaptative machine learning algorithm
+- Data security
+Page 8 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+7.2. Performance assessment
+A technical performance assessment of PRAEVAorta® 2 was conducted to assess measurement accuracy,
+in comparison with manual measurements performed by qualified medical professionals (Ground Truth).
+The evaluated measurements are orthogonal diameters of the aorta. The critical variable was the total
+maximum orthogonal aorta diameter.
+a) Reference standard.
+The reference group consisted of four experts, all vascular surgeons with at least five years of clinical
+experience in vascular diseases following board certification. All experts had no financial conflicts of
+interest and received adequate training from NUREA.
+The manual measurements performed by these healthcare professionals are referred to as the “ground
+truth.”
+The measurements performed by these professionals showed no discrepancy greater than 5 mm at the
+end of the collected data process.
+b) Training and testing dataset
+A technical performance assessment was performed for PRAEVAorta®2 to validate its accuracy against
+measurements provided by the Ground Truth using manual measurement tools.
+The testing dataset included 159 unique cases from United States, France and Canada. Information
+collected on the dataset included patient demographics (sex, aneurysm type), imaging characteristics
+(geographic origin, slice thickness, scanner manufacturer and model, presence or absence of contrast)
+and clinical management details, including the presence, absence and types of stent graft for
+postoperative cases. Images were representative of numerous scanner manufacturers (e.g., GE Medical
+System, Siemens, Philips, Toshiba).
+The dataset included both contrast-enhanced and non-contrast-enhanced CT scans from the United
+States (81 CT scans), supplemented with scans from France (40 CT Scans) and Canada (38 CT Scans). The
+selected CT scans were not used for AI training.
+The dataset included of 159 patients aged over 18 years, including 130 males, 28 females, and one patient
+of unknown sex. It comprised 95 preoperative and 64 postoperative CT scans, among which 62 with an
+aortic stent graft.
+c) Testing performance result
+The acceptance criteria are the mean absolute error for the total maximum orthogonal aorta diameter
+between PRAEVAorta®2 and Ground Truth must be less than or equal to 5 mm and in at least 96% of
+Page 9 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+cases. The correlation coefficient for the total maximum orthogonal aorta diameter between
+PRAEVAorta®2 and Ground Truth must be at least greater than 0.90 (defined as a very strong correlation).
+Observed performance showed that the mean absolute error between the ground truth measurements
+and PRAEVAorta®2 measurements for total maximum orthogonal diameter was 2.04 mm (95% CI: [1.75
+mm; 2.34 mm]), with 96.9% of values within a ≤ 5 mm limit. The primary performance validation criterion
+is therefore considered met.
+The evaluation included a Bland-Altman analysis with a detailed examination of error and bias.
+The mean difference (bias) between the ground truth and PRAEVAorta®2 for the total maximum
+orthogonal diameter was -0.75 mm (95% CI: [-1.17 mm; -0.33 mm;]), with 96,9% of values within the 95%
+limit of agreement, ranged from –6.01 mm to +4.51 mm. This result, close to zero, suggests strong
+consistency between ground truth and PRAEVAorta®2.
+The Pearson correlation coefficient between the ground truth and PRAEVAorta®2 measurements for total
+maximum orthogonal diameter was 0.97, confirming that the primary performance validation criterion is
+achieved.
+A summary table of results is provided below:
+The performance test shows acceptable performances of the software on secondary variables.
+8. CONCLUSION
+PRAEVAorta®2 is substantially equivalent to the predicate device identified CT Cardiomegaly (K232613)
+and offers strong clinical value through high measurement accuracy and reliability.
+PRAEVAorta®2 has similar indications for use and technological characteristics to those of the previously
+cleared predicate device.
+Page 10 of 11
+Section 5 : 510(k) SummaryTraditional 510(k) premarket Notification
+The minor differences between the technological characteristics of PRAEVAorta®2 and CT Cardiomegaly
+do not raise new questions of safety or effectiveness. Performance tests have been carried out and
+successfully confirm the performance of the subject device.
+Consequently, PRAEVAorta®2 is substantially equivalent to the predicate CT Cardiomegaly.
+Page 11 of 11
+Section 5 : 510(k) Summary

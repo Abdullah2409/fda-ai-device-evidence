@@ -1,0 +1,221 @@
+RaySearch Laboratories AB (publ) June 29, 2021
+℅ Mr. David Hedfors
+Quality and Regulatory Affairs Director
+Sveavägen 44
+Stockholm, 111 34
+SWEDEN
+Re: K210645
+Trade/Device Name: RayStation 10.1
+Regulation Number: 21 CFR 892.5050
+Regulation Name: Medical charged-particle radiation therapy system
+Regulatory Class: Class II
+Product Code: MUJ
+Dated: May 25, 2021
+Received: May 28, 2021
+Dear Mr. Hedfors:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.26
+Silver Spring, MD 20993
+www.fda.govK210645 - Mr. David Hedfors Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDocument ID and Title Version:
+RSL-D-RS-10.1 510(k) Summary RayStation 10.1 1.0
+1. 510(k) Summary
+1.1 510(k) owner
+RaySearch Laboratories AB (publ)
+Sveavägen 44
+111 34 Stockholm
+Sweden
+Tel: +46 8 510 530 00
+1.2 Contact person
+David Hedfors
+Quality and Regulatory Affairs Director
+RaySearch Laboratories AB (publ)
+Email: quality@raysearchlabs.com
+Tel: +46 722 366 110
+1.3 Preparation date
+February 26th, 2021
+1.4 Trade name
+The trade name is RayStation.
+The trade name and version number are written together, i.e. “RayStation 10.1” to easily distinguish the
+submitted device from the primary predicate device RayStation 9.1.
+The marketing name is RayStation 10B.
+1.5 Common name
+Radiation therapy treatment planning system
+1.6 Classification name
+Medical charged-particle radiation therapy system (21 CFR 892.5050, Product Code MUJ)
+1.7 Predicate devices
+1.7.1 Primary predicate device
+K200569 RayStation 9.1
+1.7.2 Secondary predicate devices
+K203172 MOSAIQ Oncology Information System
+K181145 Eclipse Treatment Planning System
+1.8 Device description
+RayStation is a treatment planning system for planning, analysis and administration of radiation therapy
+and medical oncology treatment plans. It has a modern user interface and is equipped with fast and
+accurate dose and optimization engines.
+RayStation consists of multiple applications:
+(cid:120) The main RayStation application is used for treatment planning.
+(cid:120) The RayPhysics application is used for commissioning of treatment machines to make them
+available for treatment planning and used for commissioning of imaging systems.
+(cid:120) The RayTreat application is used for sending plans to treatment delivery devices for treatment and
+receiving records of performed treatments.
+(cid:120) The RayCommand application is used for treatment session management including treatment
+preparation and sending instructions to the treatment delivery devices.
+RSL-D-RS-10.1 510(k) Summary (cid:148)RaySearch Laboratories AB (publ) Page 3 of 6Document ID and Title Version:
+RSL-D-RS-10.1 510(k) Summary RayStation 10.1 1.0
+The device to be marketed, RayStation version 10.1, marketing name “RayStation 10B”, contains modified
+features compared to version 9.1. The main changes are:
+(cid:120) the addition of medical oncology and corresponding update of the intended use. This feature is
+included in the intended use of the MOSAIQ OIS secondary predicate device.
+(cid:120) the addition of brachy planning. This feature is included in the intended use of the Eclipse TPS
+secondary predicate device.
+(cid:120) RayStation 10.1 is compatible with the Bebig SagiNova system afterloader.
+(cid:120) the addition of eye treatment planning (ocular planning) with protons. This feature is included in the
+intended use of the Eclipse TPS secondary predicate device.
+(cid:120) the extension of the robust planning to take organ motion into account and
+(cid:120) the extension of the treatment session management, from the RayTreat module in RayStation 9.1 to a
+new module called RayCommand. Like RayTreat, RayCommand is not intended for real-time
+interaction with the delivery device and does not contain any emergency shutdown functionality.
+1.9 Intended use
+RayStation is a software system for radiation therapy and medical oncology. Based on user input,
+RayStation proposes treatment plans. After a proposed treatment plan is reviewed and approved by
+authorized intended users, RayStation may also be used to administer treatments.
+The system functionality can be configured based on user needs.
+1.10 Technological characteristics summary
+The technological characteristics are the same for RayStation 10.1 as for the primary predicate device
+RayStation 9.1. Both versions are built on the same software platform and share design to a high degree.
+Both versions have been developed under the same quality system, by the same development teams,
+meeting the same requirements for safety and effectiveness.
+Comparing RayStation 10.1 with RayStation 9.1, the newer version includes usability improvements as
+well as new features.
+The most significant new feature is the addition of medical oncology and the corresponding update of the
+intended use. For this feature the K203172 MOSAIQ OIS is used as a secondary predicate device. Its
+510(k) Summary describes this feature as “Generate and keep medication formulary lists and calculate
+applicable medication dosages for medical oncology”, and this is the same as in RayStation 10.1.
+Other main changes are the additions of brachytherapy planning and eye planning, aka ocular planning. For
+these features the K181145 Eclipse Treatment Planning System is used as a secondary predicate device. Its
+510(k) Summary describes this feature as “Eclipse TPS is used to plan external beam irradiation with
+photon, electron and proton beams, as well as for internal irradiation (brachytherapy) treatments. In
+addition, the Eclipse Proton Eye algorithm is specifically indicated for planning proton treatment of
+neoplasms of the eye.” This is the same features as in RayStation 10.1.
+Other significant changes are:
+(cid:120) the extension of the robust planning to take organ motion into account and
+(cid:120) the extension of the treatment session management, from the RayTreat module in RayStation 9.1 to a
+new module called RayCommand. Like RayTreat, RayCommand is not intended for real-time
+interaction with the delivery device and does not contain any emergency shutdown functionality.
+Related to machine learning, there is no change compared to the primary predicate device.
+1.11 Assessment of non-clinical performance data
+The test specification of RayStation 10.1 is a further developed version of the test specification of
+RayStation 9.1. This is supported by the requirements specification, for which the same is true. The
+successful verification and validation of RayStation 10.1 therefore support the substantial equivalence of
+the above RayStation versions.
+RSL-D-RS-10.1 510(k) Summary (cid:148)RaySearch Laboratories AB (publ) Page 4 of 6Document ID and Title Version:
+RSL-D-RS-10.1 510(k) Summary RayStation 10.1 1.0
+1.11.1 Brachytherapy TG43 dose calculation performance data
+RayStation 10.1 accurately models the output from single sources and from sources combined into
+brachytherapy treatment setups in clinical plans. Since the TG43 dose computation formalism treats the
+full patient geometry as water, no dedicated test cases for validation of heterogenous geometries are
+included in the specification. This also means that all doses are reported as dose-to-water with radiation
+transport in water, (cid:1830)ww .
+The brachy TG43 dose computation algorithm in RayStation10B has been successfully validated for
+accuracy in clinically relevant settings according to specification.
+1.11.2 Medical oncology dose calculation performance data
+Medical oncology planning in RayStation supports dose calculation based on patient weight, patient body
+surface area, and flat-rate dose specification. These units of calculation are used in the majority of medical
+oncology regimens and are the available options in other systems.
+Numerous publications describe features of computerized treatment planning for medical oncology that
+reduce medication errors and improve workflows. The RayStation medical oncology functions have been
+validated to be appropriate, when used by an intended qualified user according to the Instructions for Use,
+for supporting medical oncology planning workflows.
+1.11.3 Proton ocular treatment dose calculation performance data
+The validation covers ocular treatments using the single scattering (SS) delivery technique. Since ocular
+treatments require small field sizes, achieved by using a field-specific block aperture, the generated Spread
+Out Bragg Peaks (SOBPs) are approximately laterally uniform. Hence, the SS delivery technique is
+modelled in RayStation as the double scattering (DS) treatment technique. A range compensator is not
+used.
+The proton dose computation for proton ocular treatments in RayStation 10.1 has been successfully
+validated for accuracy in clinically relevant settings according to specification.
+1.11.4 Robust planning of organ motion performance data
+The robustness of a plan can be evaluated by taking uncertainties such as CT inaccuracy and setup errors
+into account. Robustness handling in RayStation 10.1 has been expanded to also take the uncertainty of the
+patient’s internal organ motion into account. Based on user defined criteria the system computes a set of
+scenario doses for evaluation.
+Deformed image sets can be generated to simulate organ motion without taking multiple CT/CBCT/MR
+scans of the patient. Structures that are not considered to move can also be used as input to the deformation
+by being specified as fixed. When the new anatomy has been defined, all other structures will be mapped
+deformably to the generated deformed image sets.
+The generated motion image sets may be used both for evaluation and as input when planning robustly
+against intra-fractional or inter-fractional organ motion.
+The robust planning of organ motion in RayStation 10.1 has been successfully validated according to
+specification.
+1.12 Test conclusion
+The determination of substantial equivalence compared to the primary predicate device is not based on an
+assessment of non-clinical performance data. However, the entire system verification and validation
+specifications and reports are included in the submission as required by a software device of major
+concern.
+A number of different types of verification activities have been performed:
+(cid:120) System Tests of RayStation
+(cid:120) Risk analysis-based tests for use error mitigation verification
+(cid:120) Unit and subsystem testing for low-level testing
+(cid:120) Dose engine validation including internal testing
+RSL-D-RS-10.1 510(k) Summary (cid:148)RaySearch Laboratories AB (publ) Page 5 of 6Document ID and Title Version:
+RSL-D-RS-10.1 510(k) Summary RayStation 10.1 1.0
+(cid:120) User validation in cooperation with cancer clinics
+(cid:120) Reviews of design, code and Master Labeling
+The data obtained from the verification show that system tests, use error tests, unit and subsystem tests
+have passed, and the validations been completed successfully. The reviews of design, code and labeling are
+also passed.
+From the successful verification and validation activities, including the brachytherapy TG43, the medical
+oncology and the proton ocular treatment dose calculations and the robust planning of organ motion
+performance data, the conclusion can be drawn that RayStation 10.1 have met specifications and is as safe,
+as effective and performs as well as or better than the legally marketed primary predicate device.
+RSL-D-RS-10.1 510(k) Summary (cid:148)RaySearch Laboratories AB (publ) Page 6 of 6

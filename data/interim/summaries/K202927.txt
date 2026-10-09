@@ -1,0 +1,396 @@
+October 2, 2021
+SyncThink, Inc.
+℅ Allison Kumar
+Regulatory Consultant
+Arina Consulting, LLC
+27 Hilltop Dr
+San Carlos, California 94070
+Re: K202927
+Trade/Device Name: EYE-SYNC
+Regulation Number: 21 CFR 882.1455
+Regulation Name: Traumatic brain injury eye movement assessment aid
+Regulatory Class: Class II
+Product Code: QEA
+Dated: August 18, 2020
+Received: September 29, 2020
+Dear Allison Kumar:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.28
+Silver Spring, MD 20993
+www.fda.govK202927 - Allison Kumar Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jay Gupta
+Assistant Director
+DHT5A: Division of Neurosurgical,
+Neurointerventional
+and Neurodiagnostic Devices
+OHT5: Office of Neurological
+and Physical Medicine Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary
+This summary is being submitted in accordance with the requirements of 21 CFR Part
+807.92.
+510(k) Owner Information:
+SyncThink, Inc.
+2172 Staunton Court
+Palo Alto, CA 94306
+Tel 508-446-4287
+Contact: John Ferreira, VP Engineering
+jferreira@syncthink.com
+Submission Correspondent:
+Allison Kumar
+Arina Consulting, LLC
+allison@arinaconsulting.com
+Device Information:
+Trade Name: EYE-SYNC
+Device: Traumatic Brain Injury Eye Movement Assessment Aid
+Regulation: 882.1455
+Classification Panel: Neurology
+Device Class: 2
+Product Code: QEA
+Predicate Device:
+Oculogica EyeBOX (DEN170091)
+Reference Devices:
+SyncThink EYE-SYNC (K152915), GN Otometric 1068 A/S Type 1085 ICS
+Impulse (K151504)
+Intended Use/Indications for Use:
+The EYE-SYNC® is intended for recording, viewing, and analyzing eye
+movements in support of identifying visual tracking impairment in human
+subjects.
+The EYE-SYNC® is intended to record, measure, and analyze eye
+movements as an aid in the diagnosis of concussion, also known as mild
+traumatic brain injury (mTBI), within three days of sport-related head injury in
+1patients 17 -24 years of age in conjunction with a standard neurological
+assessment, for use by medical professionals qualified to interpret the
+results of a concussion assessment examination.
+A negative EYE-SYNC® classification corresponds to eye movements
+that are consistent with a lack of concussion.
+A positive EYE-SYNC® classification corresponds to eye movements that
+may be present in patients with concussion.
+Device Description:
+The SyncThink EYE-SYNC device is a portable, fully enclosed eye tracking
+environment with three primary components:
+1. Eye Tracker (head-mounted device) with eye tracking sensor
+2. Eye tracking display
+3. Android Tablet
+The eye tracker is a modified Samsung GearVR provided by SensoMotoric
+Instruments (SMI). It is mounted to the subject's face and held either by hands placed
+on the side or using a strap. The eye tracking sensor includes two high-speed infrared
+cameras (for each eye) connected to a visual display for battery, computation, and
+display. Camera lighting is provided by 12 high-quality Light-emitting Diodes (LEDs)
+centered at 850 nanometers. Eye gaze tracking is performed using a proprietary
+implementation of the pupil- corneal reaction method. The eye tracker display is a non-
+networked mobile device that fits within the eye tracking sensor and connects over
+USB. The display receives eye tracking sensor information for post-processing,
+manages sensor calibration, provides binocular visual display to the subject, and
+interfaces with the Android tablet over Bluetooth. Eye gaze tracking and visual display
+is combined to provide several assessment paradigms to characterize subject eye
+tracking performance:
+• Smooth Pursuit
+• Saccades
+• Vestibular-Ocular Reflex (VOR)
+• VOR Cancellation (VORx)
+An EYE-SYNC software app on the display device manages these functions.
+The Android tablet is a standard off-the-shelf 9.7" mobile tablet from Samsung with
+Verizon 4G cellular connectivity. A second EYE-SYNC software app designed to
+provides an integrative platform for data collected on the HMD eye tracker:
+• Patient, administrator, and records management
+• Eye tracker assessment Bluetooth control
+• Assessment Vestibular/Ocular-Motor Screening (VOMS) self-report tools
+• Eye tracker assessment real-time Bluetooth monitoring
+2• Eye tracker data log Bluetooth transfer
+• Eye tracker assessment analysis using visual synchronization metrics
+• Analysis report generation with visualizations
+• Background diagnostics to verify device health
+• Cloud connectivity for data synchronization
+Internal batteries from the eye tracking display and Android tablet provide power for
+remote use, away from power source. Each device has an EYE-SYNC software app
+installed to provide the described functionality. EYE-SYNC is provided as a complete
+system and both apps are managed a single software project with identical version
+numbers. EYE-SYNC is provided in a standalone carry-case with user manual, strap,
+cleaning, and charging accessories.
+Comparison of Technological Characteristics with Predicate Device:
+The claim of substantial equivalence of EYE-SYNC to the predicate device is based on
+a detailed comparison of several factors. This compairson is included in the table
+below:
+Subject Device Predicate Device
+(EYE-SYNC) (Eye-BOX)
+Comparison
+Submission K202927 DEN170091
+Number
+Product Code QEA QEA SAME
+Intended Use Measure and Measure and SAME
+analyze eye analyze eye
+movement as an aid movement as an aid
+in the diagnosis of in the diagnosis of
+concussion concussion
+Indications for The EYE- SYNC® is The EyeBOX is SIMILAR
+Use intended for intended to measure Differences between the
+recording, viewing, and analyze eye subject device and predicate
+and analyzing eye include:
+movements as an
+movements in
+aid in the diagnosis
+support of identifying • Age range of population for
+of concussion within
+visual tracking subject device is a small
+one week of head subset of predicate.
+impairment in human
+injury in patients 5 • Population of subject device
+subjects.
+through 67 years of is specific to sports-related
+injury.
+The EYE-SYNC® is age in conjunction
+• Use of test is a shorter time
+intended to record, with a standard
+period since injury compared
+measure, and neurological
+to predicate.
+analyze eye assessment of
+movements as an
+The differences do not raise
+3aid in the diagnosis concussion. new questions of safety or
+of concussion within effectiveness.
+three days of sport- A negative EyeBOX
+related head injury classification may
+in patients 17 -24 correspond to eye
+years of age in movement that is
+conjunction with a
+consistent with a
+standard
+lack of concussion.
+neurological
+assessment, for use
+A positive EyeBOX
+by medical
+classification
+professionals
+corresponds to eye
+qualified to interpret
+movement that may
+the results of a
+be present in both
+concussion
+assessment patients with or
+examination and aid without concussion.
+in the management
+of concussion.
+A negative EYE-
+SYNC®
+classification
+corresponds to eye
+movements that
+are consistent with
+a lack of
+concussion.
+A positive EYE-
+SYNC®
+classification
+corresponds to eye
+movements that
+may be present in
+patients with
+concussion.
+Rx Use Only Yes Yes SAME
+Hardware VR Headset Stand with DIFFERENT
+Components Tablet integrated Computer Subject device uses VR
+headset to capture gaze
+measurements. Analysis is
+done via a software app on the
+accompanying tablet. This
+method has been validated
+with performance and clinical
+testing to verify it provides the
+same information as the
+4predicate device and therefore
+does not raise new questions
+of safety and effectiveness.
+Wireless Bluetooth Single, non- DIFFERENT
+Communication connection between networked device Subject eye tracking device
+VR Headset and communicates over Bluetooth
+Tablet. Tablet has wireless to an administrative
+4G cellular tablet for control and data
+connection Cloud. exchange. The predicate
+device achieves the same
+functionality within a single
+computer system.
+Cellular connectivity to the
+cloud is a convenience feature
+and does not contribute to the
+IFU. Bluetooth connectivity is a
+common systems interface.
+This method has been
+validated with performance
+and clinical testing to verify it
+provides the same functionality
+as the predicate device and
+therefore does not raise new
+questions of safety and
+effectiveness.
+Eye Tracking Gaze Gaze SAME
+Camera Speed 60 Hz 500 Hz DIFFERENT
+Eye tracking cameras can be
+oversampled with respect to
+the signal of interest. The
+subject device has elected to
+go with a lower sample rate,
+but has validated this decision
+with performance and clinical
+testing to verify it provides the
+same functionality as the
+predicate device and therefore
+does not raise new questions
+of safety and effectiveness.
+Stimulus 60 second recording 220 second video DIFFERENT
+Screen of 0.4Hz motion circulating on This method used by the
+circulating at 10 discrete path of 5 subject device has been
+degree radius with cycles along validated with performance
+two sets of 6 cycles perimeter of screen and clinical testing to verify it
+on viewing screen provides the same information
+as the predicate device and
+5therefore does not raise new
+questions of safety and
+effectiveness.
+Software Algorithm provides Algorithm provides SAME
+analysis and results analysis and results
+Patient Yes – Foam cushion N/A Different
+Contacting on face mask. Patient contacting material is
+Materials biocompatible. Does not raise
+new questions of safety or
+effectiveness.
+Sterility Non-Sterile Non-Sterile SAME
+EMC and IEC 60601-1:2012 IEC 60601-1:2012 SAME
+Electrical IEC 60601-1-2:2014 IEC 60601-1-2:2014
+Safety
+Performance Light Safety Light Safety SAME
+Testing - Bench
+Performance 82% sensitivity 80.4% sensitivity Similar
+Testing - (74%, 89%) (66.1%, 91.9%) Results from clinical testing*
+Clinical are substantially equivalent to
+93% specificity 66.1% specificity predicate device**
+(91%, 94%) (59.7%, 72.1%)
+56% PPV*** 31.6%% PPV
+(48%, 64%) (23.3%, 40.9%)
+98% NPV*** 94.5% NPV
+(97%, 99%) (89.9%, 97.5%)
+Special Yes Yes SAME
+Controls
+*Clinical performance analysis did not include assessments with poor eye-tracking quality. In these
+cases, the device does not provide an assessment result.
+**95% Confidence intervals noted for the subject and predicate device are derived from Clopper-Pearson
+method. 95% Confidence intervals for the subject device derived using the Wilson Score method for
+sensitivity are (74%, 88%) and (91%, 94%) for specificity.
+*** PPV and NPV was obtained from observed study data without adjustment of the prevalence (10%).
+Performance Data
+The following performance data were provided in support of the substantial equivalence
+determination.
+6Electrical Safety and Electromagnetic Compatibility (EMC)
+Electrical safety and EMC testing were conducted on the EYE-SYNC
+device. The system complied with the IEC 60601-1:2012 Ed. 3.0 standard
+for operator and patient safety and IEC 60601-1-2:2014 Ed 4.0 standard for
+EMC in the intended use environment. The system complied with IEC
+60601-2-57:2011 Ed1.0 Medical electrical equipment – Part 2 for safety of
+non-laser light source equipment intended for diagnostic use.
+Software Verification and Validation Testing and Cybersecurity
+Software verification and validation testing were conducted, and
+documentation was provided as recommended by FDA’s Guidance for
+Industry and FDA Staff, “Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices.” The software for
+this device was considered a “moderate” level of concern, since a failure or
+latent flaw in the software could directly result in minor injury to the patient
+or operator, either directly or indirectly through incorrect or delayed
+information or through the action of a care provider.
+Cybersecurity was assessed and documented according to the FDA
+Guidance, “Off-the-shelf Software – Cybersecurity for Networked Medical
+Devices Containing Off-the-Shelf (OTS) Software.”
+Performance Testing – Bench
+Testing was performed to demonstrate conformance with the following
+standards:
+• EN62471 Photobiological Safety of Lamps and Lamp Systems
+Biocompatibility Testing
+The biocompatibility evaluation of the EYE-SYNC device was conducted in
+accordance with the FDA Blue Book Memorandum #G95-1 “Use of
+International Standard ISO-10993, ‘Biological Evaluation of Medical
+Devices Part 1: Evaluation and Testing, “’ May 1, 1005, and International
+Standard ISO 10993-1 “Biological Evaluation of Medical Devices – Part 1:
+Evaluation and Testing within a Risk Management Process,” as recognized
+by FDA. The battery of testing included the following tests:
+• Cytotoxicity
+• Sensitization
+• Irritation
+Sterility
+The device is provided non-sterile. Cleaning instructions are provided in
+7the user manual.
+Summary of Clinical Testing:
+Clinical performance
+Clinical data was submitted to support substantial equivalence and conform to special
+controls. Validation data analysis was performed on 1,069 subjects. The validation
+study population included subjects ages 17-24 years actively engaged in competitive
+athletics. Of these 1,069 subjects, 107 subjects met the SCAT-5 clinical reference
+standard definition of concussion, where the evaluations were conducted by a
+healthcare practitioner blinded to EYE-SYNC device output +3 days from injury.
+Retrospective analysis determined 82% (74%, 89%) sensitivity and 93% (91%, 94%)
+specificity of the EYE-SYNC test. Negative predictive value made by the classifying
+algorithm was 98% (97%, 99%) and positive predicative value was 56% (48%, 64%).
+For PPV and NPV reference, the study prevalence of clinical classification of
+concussion (mTBI) was 10% (107/1069). The analysis validates the clinical utility of the
+eye-tracking assessment as an aid in diagnosis of concussion within three days of
+sport-related head injury.
+Test-retest reliability
+The test-retest reliability of the EYE-SYNC metrics were reported through an
+independent study of 150 athletes from 11 sports with a mean (SD) age of 20 (1.3)
+years and 55% female population. The Intra-class correlation (ICC) was calculated with
+its 95%CI for each EYE-SYNC metric:
+• SD tangential error: 0.86 (0.82, 0.90)
+• SD radial error: 0.78 (0.71, 0.84)
+• Mean phase error: 0.83 (0.77, 0.87)
+The ICC describes the level of correlation between two or more observations made on
+the same student athlete; a higher ICC (closer to 1) indicates greater reliability of the
+measure.
+Conclusion:
+The non-clinical and clinical data support the safety of the device and the software
+verification and validation demonstrate that SyncThink’s EYE-SYNC device should
+perform as intended in the specified use conditions, and which are comparable to the
+predicate device that is currently marketed for the same intended use.
+8

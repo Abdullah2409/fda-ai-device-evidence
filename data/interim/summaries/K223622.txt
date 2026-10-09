@@ -1,0 +1,490 @@
+September 1, 2023
+FaceHeart Corp.
+Morris Chung
+AVP
+PO Box 309, Ugland House
+Grand Cayman, KY1-1104
+Cayman Islands
+Re: K223622
+Trade/Device Name: FaceHeart Vitals Software Development Kit (FH vitals SDK)
+Regulation Number: 21 CFR 870.2785
+Regulation Name: Software for optical camera-based measurement of pulse rate, heart rate, breathing
+rate, and/or respiratory rate
+Regulatory Class: Class II
+Product Code: QME
+Dated: July 29, 2023
+Received: July 31, 2023
+Dear Morris Chung:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK223622 - Morris Chung Page 2
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jennifer W. Shih -S
+Jennifer Kozen
+Assistant Director
+Division of Cardiac Electrophysiology,
+Diagnostics and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEAL TH AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+I K223622
+Device Name
+FaceHeart Vitals Software Development Kit (FH vitals
+SOK)
+Indications for Use (Describe)
+The FH Vitals SDK is designed to measure the pulse rate based on the given facial video stream. It
+is intended for non-invasive spot measurements of pulse rate when the subject is still. This SDK is
+not intended for use in patients with known or suspected heart arrhythmias.
+While the SDK can be used for general healthcare, it is not designed to treat patients. The pulse rate
+measurement results provided by the FH Vitals SDK should complement, but not replace, the user's
+usual professional medical care and/or medication. If abnormalities are detected during the
+measurement with the FH Vitals SDK, users are advised to consult a medical professional.
+The FH Vitals SDK is indicated for use in humans 18 years of age or older who do not require critical
+care or continuous vital signs monitoring. This software should not be the primary or sole method for
+assessing an individual's health.
+Type of Use (Select one or both, as applicable)
+D
+IZ] Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."510(k) Summary
+[This summary is submitted according to the requirements of 21 CFR 807.92]
+1.Submitter’s Name, Address and Date prepared:
+FaceHeart Corporation
+Applicant PO Box 309, Ugland House, Grand Cayman, KY1-1104,
+Cayman Islands.
+Name: Morris Chung
+Address: Rm.1003, 10F., Jan Qi Biomedical Engineering Building,
+No.75, Bo’ai St., East Dist., Hsinchu City 300,
+Correspondent Taiwan (R.O.C.)
+Phone: +886-3-6591088
+Email: < ml.chung@faceheart.com>
+Date Prepared August 31, 2023
+2.Device Names and Classifications
+Proposed Device
+Name of Proposed
+FH vitals SDK
+Device
+Common Name: Pulse Rate Measuring Software
+Regulation Number 21 CFR 870.2785
+Software for optical camera-based measurement of pulse rate, heart rate,
+Regulation Name
+breathing rate, and/or respiratory rate
+Regulatory Class Class II
+Product Code QME
+Review Panel Cardiovascular
+Predicate Device
+Predicate
+Oxehealth Limited
+Manufacturer
+K223622
+Page 1 of 10Predicate Trade
+Oxehealth Vital Signs
+Name
+Predicate 510 (k) K211906
+3.Device Description:
+FH vitals SDK is a video-based, non-contact pulse rate measurement software with a
+face recognition function designed to measure and real-time display the pulse rate of adults.
+This system uses cameras to detect the user’s face and obtains the continuous face image
+data, with signal processing and algorithm to compute the pulse rate. The software is
+intended to be installed on commercial mobile devices/laptops/computers equipped with
+cameras. It can be deployed on Android, iOS platform and Windows platforms.
+It is the responsibility of the device manufacturer to integrate FH vitals SDK correctly and to
+obtain the necessary regulatory approval/clearance for the final device integrating FH vitals
+SDK. It is also the responsibility of the device manufacturer to ensure that their device or
+software application has the correct regulatory approvals and meets the required standards for
+their intended use. Any regulatory clearance and tests FH vitals SDK has do not apply to a
+device or software integrating FH vitals SDK. These processes and tests should be repeated
+at the system level.
+4.Indications for Use:
+The FH Vitals SDK is designed to measure the pulse rate based on the given facial
+video stream. It is intended for non-invasive spot measurements of pulse rate when the
+subject is still. This SDK is not intended for use in patients with known or
+suspected heart arrhythmias.
+While the SDK can be used for general healthcare, it is not designed to treat patients.
+The pulse rate measurement results provided by the FH Vitals SDK should complement, but
+not replace, the user's usual professional medical care and/or medication. If abnormalities
+K223622
+Page 2 of 10are detected during the measurement with the FH Vitals SDK, users are advised to
+consult a medical professional.
+The FH Vitals SDK is indicated for use in humans 18 years of age or older who do not
+require critical care or continuous vital signs monitoring. This software should not be the
+primary or sole method for assessing an individual's health.
+5.Technological Characteristics:
+Similar to the predicate device, the FH vitals SDK is a software-only product that
+measures pulse rate through an optical camera-based mechanism.
+This software intended to run on standard PCs, laptops, and mobile devices, analyzing video
+streams captured by compatible available video cameras to compute pulse rate.
+This software is intended to analyze video collected by compatible cameras in
+stationary conditions. Users are instructed to keep the camera stationary (e.g., by using a
+stand or another suitable support). When integrating this software for use with camera
+signals from devices with accelerometers (e.g., smartphones), the manufacturer is instructed
+to use accelerometer data to only use this software with video collected when the camera is
+stationary.
+6.Comparison with the Predicate Device (Substantial Equivalence):
+Table 1. Substantial Equivalent (SE) Comparison Summary
+Subject Device Predicate Device Comparison
+510(k) Number K223622 K211906
+Device Name FH vitals SDK Oxehealth Vital Signs
+Common Pulse Rate Measuring Software Vital Signs
+Name
+Manufacturer FaceHeart Corp. Oxehealth Ltd
+K223622
+Page 3 of 10Indications for The FH Vitals SDK is designed to measure the pulse rate Non-invasive spot check Similar.
+Use based on the given facial video stream. It is intended for non- measurements of pulse rate
+invasive spot measurements of pulse rate when the subject is and breathing rate (chest FaceHeart’s
+still. This SDK is not intended for use in patients with wall movements). indications are
+known or suspected heart arrhythmias. a subset of the
+The Oxehealth Vital Signs OxeHealth
+While the SDK can be used for general healthcare, it is not device is intended for Vital Signs
+designed to treat patients. The pulse rate measurement noninvasive spot indications
+results provided by the FH Vitals SDK should complement, measurements of pulse rate
+but not replace, the user's usual professional medical care and estimated breathing
+and/or medication. If abnormalities are detected during the rate (chest wall
+measurement with the FH Vitals SDK, users are advised to movements) when the
+consult a medical professional. subject is still. It is software
+assessing video footage
+The FH Vitals SDK is indicated for use in humans 18 years of from a fixed-installation
+age or older who do not require critical care or continuous vital solution for use within
+signs monitoring. This software should not be the primary single occupancy rooms
+or sole method for assessing an individual's health. within hospitals, general
+care, and secured
+environments with
+professional healthcare
+oversight and where a
+framework exists which
+mandates periodic checks
+by a trained professional to
+ensure subject safety.
+The Oxehealth system is
+intended for use by
+appropriately trained staff
+with a duty of care and
+should not be used by
+untrained users.
+The Oxehealth Vital Signs
+device is indicated for use
+on humans 18 years of age
+for older who do not require
+critical care or continuous
+vital signs monitoring.
+The device is not intended
+to be the sole method of
+checking the physical
+health of a subject.
+Component Software Only Software Only Same
+Patient Type Adults not requiring critical care Adults not requiring Same
+critical care
+Use Light source: above 300 Lux (Depends on camera) In the presence of sources Different
+Environment Measuring distance: 0.5-1.5m (Depends on camera) of flashing or variable light,
+including other Near
+Infrared illumination.
+K223622
+Page 4 of 10Pulse Rate 50-180 bpm 50-130 bpm Similar: FH
+Measurement vitals SDK can
+Range measure a
+wider range of
+pulse rate
+Performance ±3 bpm ±3 bpm Same
+(Error Level)
+Measurement 1 min 9 seconds Different
+Window
+Compatibility The pulse rate measurement feature of FH Vitals SDK is a Standard, off the shelf Different
+with software product that exclusively supports the following three computers and mobile
+Hardware- operating systems: tablets, specified and
+computing installed by Oxehealth, and
+• Windows 10 validated during
+installation.
+• Android 12
+• iOS 12 Installation will be carried
+out by an Oxehealth
+approved installer,
+The acceptable hardware devices and their required specifications according to installation
+instructions and
+are as follows:
+verification procedures
+provided by Oxehealth.
+Compatibility iPhone Samsung Standard, off the shelf Different
+C920 + iPhone Samsung
+with Hardware Item 13 Pro S22 machine vision camera and
+Laptop 13 Pro S22+
+-Camera and Max Ultra infrared illuminators, exact
+Accessories Camera FOV 78° 77° 80° 80° specification determined by
+Camera Oxehealth and validated
+1/3” 1/3.6” 1/2.82” 1/3.24”
+Sensor Size during installation
+Camera
+Aperture F2.0 F2.2 F2.2 F2.2
+Size
+Streaming VGA @ 30fps
+1 x Cortex X2
+Intel i7-
+CPU 3 x Cortex A710
+1165G7
+4 x Cortex A510
+A15
+Intel Iris
+GPU Xe Adreno 730
+Graphics
+Windows
+OS iOS 12 Android 12
+10
+Output
+Heart Rate: 50~180 bpm
+Range
+Output Time 1 min
+Memory
+500 MB and above
+Requirement
+⚫ Required to stay steady during measurement.
+Operating
+⚫ Support minor movement (speak or nod
+Restriction
+slightly)
+Applicable ⚫ Illumination: above 300 lux
+Environment ⚫ Measuring distance: 0.5-1.5m
+Error Level within±3 bpm
+Software C++/Java/Objective-C++ C++ and Node.js; use of Different
+3rd party libraries
+K223622
+Page 5 of 107.Clinical Performance Data
+FH vitals SDK was verified and validated in accordance with the special controls for optical
+camera-based measurement of pulse rate, heart rate, breathing rate, and/or respiratory rate (21
+CFR 870.2785-Reclassification Order of DEN200019). The testing demonstrated that the
+device performed according to its specifications and that the technological and performance
+criteria were comparable to the predicate device.
+Performance data is demonstrated by 1000-CSR-02-V2.0 clinical studies Report. The
+performance of the FH vitals SDK was tested in a clinical study of 527 participants, age 18
+and older. Study demographic characteristics are summarized in Table 2.
+Table 2. Clinical Validation Study subject demographic
+Sample size N=527
+• Females: 314 subjects
+Gender
+• Males: 213 subjects
+• 18-39: 213 subjects
+Age Group • 40-59: 184 subjects
+• Above 60:
+• 0-18.5: 29 subjects
+• 18.5-24.9: 270 subjects
+BMI
+• 25-29.9: 149 subjects
+• 30+: 79 subjects
+• With: 44 subjects
+Makeup
+• Without: 483 subjects
+• With: 183 subjects
+Glasses
+• Without: 344 subjects
+• With: 48 subjects
+Facial hair
+• Without: 419 subjects
+Skin type • Types I and II: The number of subjects was 34
+according to • Types III and IV: The number of subjects was 410
+Fitzpatrick Scale • Types V and VI: The number of subjects was 83
+• Heart: 28 subjects
+• Oblong: 169 subjects
+Facial Shapes • Oval: 58 subjects
+• Round: 232 subjects
+• Square: 40 subjects
+K223622
+Page 6 of 10• Arrhythmia: 55 subjects
+• Coronary Artery Disease (CAD): 90 subjects
+Disease History • Heart Failure (HF): 23 subjects
+• Hypertension: 125 subjects
+• Other CVDs> 21 subjects
+The data showed that compared with Philips MX100 ECG, the pulse rate deviation of
+FH Vitals SDK installed on laptops with C920, iPhone 13 Pro, iPhone 13 Pro Max, Samsung
+S22 Ultra, and Samsung S22+ were within ±3bpm, accounting for about 90.3, 95.4%,
+95.4%, 93.7%, and 94.3% in 527 subjects, respectively. On average, about 93.8% of the 527
+subjects.
+8.Non-Clinical Software Testing:
+Our software underwent comprehensive non-clinical testing, as detailed in the "Full System
+Testing" report. Importantly, these tests were conducted on a system that integrates with our
+device and represents the final configuration. This testing approach encompassed both
+functionality tests and system performance tests.
+ Device Compatibility:
+The software's compatibility was verified on specific devices, ensuring that the
+final application functions correctly. The tested devices are as follows:
+ Laptop (Asus Zenbook UX435EAL) with C920
+ iPhone 13 Pro
+ iPhone 13 Pro Max
+ Samsung S22+
+ Samsung S22
+ Motion Impact on Performance Decay
+According to our internal test, under the scenario of doing exercise or performing
+large movement, the mean absolute error of pulse rate measurement can range from
+11.77 bpm to 42.06 bpm. Such error range indicates that motion has significant impact
+on the precision of pulse rate measurement.
+K223622
+Page 7 of 10 Software Functionality:
+The software is designed to track only one face, even in scenarios where multiple faces are
+present within the image frames. All warning messages were also validated to ensure they
+are triggered appropriately.
+Scenario Software Response
+The software tracks only one face
+There are multiple faces in camera view.
+during the measurement.
+Use a finger to cover the camera. Warning message: Missing Face.
+Use a hand to cover the face. Warning message: Missing Face.
+Turn off lights in the room to make the face Warning message: Missing Face.
+unrecognizable.
+Enlarge the camera focus to have a blurred face which is Warning message: Missing Face.
+unrecognizable.
+Wear a hat to block a large portion of the face. Warning message: Missing Face.
+Wear a facial mask. Warning message: Missing Face.
+Make the face outside Rectangle. Warning message: Bad Face Position.
+Make the face-camera distance larger than 1.5M. Warning message: Bad Face Position.
+Nod slightly. Warning message: Motion.
+Shake the head slightly. Warning message: Motion.
+Move back and forth. Warning message: Motion.
+Stand up suddenly. Warning message: Motion.
+Shake the camera. Warning message: Motion.
+Low camera frame rate. Warning message: Low Frame Rate.
+ System Performance Metrics:
+For each device, the following performance metrics were observed:
+Average Image Frame
+Device Memory (MB) CPU (%) Processing Time:
+Time Cost (ms/frame)
+C920 with Asus Zenbook UX435EAL 155 10 4.09
+iPhone 13 Pro 58.5 43 3.58
+iPhone 13 Pro Max 46.3 40 3.91
+Samsung S22+ 187 10 9.79
+Samsung S22 Ultra 225 10 8.71
+It's worth noting that the image processing speed of the software exceeds the frame rate of the
+camera, indicating that device performance meets real-time requirements.
+K223622
+Page 8 of 109.Consideration of Special Controls Guidance
+In combination with the general controls of the FD&C Act, the software for optical camera-
+based measurement of pulse rate, heart rate, breathing rate, and/or respiratory rate (products
+submitted under 21 CFR 870.2785-Reclassification Order of DEN200019) is subject to the
+following special controls:
+Special controls Evidence of compliance
+(1)A software description and the results of verification and Software
+validation testing based on a comprehensive hazard analysis documentation included
+and risk assessment must include: a description of
+(i)A full characterization of the software technical algorithm training and
+parameters, including algorithms; validation data, a
+(ii)If required image acquisition hardware is not included discussion of the
+with the device, full specifications of the hardware specifications of
+requirements and testing to demonstrate the specified compatible hardware and
+hardware ensures adequate data for validated and the impact of these
+accurate measurements. specifications on the
+(iii)A description of the expected impact of all applicable device, and testing of all
+sensor acquisition hardware characteristics and mitigations for user error.
+associated hardware specifications;
+Software documentation
+(iv)A description of all mitigations for user error or
+also included
+failure of any subsystem components (including signal
+cybersecurity testing and
+detection, signal analysis, data display, and storage) on
+a vulnerability analysis.
+output accuracy; and
+(v)Software documentation must include a cybersecurity
+vulnerability and management process to assure software
+functionality.
+(2)Clinical data must be provided. This assessment must Clinical validation study
+fulfill the following: is provided in Section 7
+(i)The clinical data must be representative of the intended above.
+use population for the device. Any selection criteria or
+sample limitations must be fully described and justified.
+(ii)The assessment must demonstrate output consistency
+using the expected range of data sources and data quality
+encountered in the intended use population and
+environment.
+(iii)The assessment must compare device output with a
+clinically accurate patient-contacting relevant comparator
+device in an accurate and reproducible manner.
+K223622
+Page 9 of 10(3)A human factors and usability engineering assessment A Use-Related-Risk-
+must be provided that evaluates the risk of improper Analysis was conducted
+measurement. and A Human Factors
+Validation Study was
+conducted with 15 health
+care providers and 15
+patients that showed
+minimal user errors, close
+calls, or use difficulties.
+(4)Labeling must include: Labeling requirements
+(i)A description of what the device measures and outputs are incorporated in the
+to the user; user manuals.
+(ii)Warnings identifying sensor acquisition factors or
+subject conditions or characteristics (garment
+types/textures, motion, etc.) that may impact
+measurement results;
+(iii)Guidance for interpretation of the measurements,
+including a statement that the output is adjunctive to
+other physical vital sign parameters and patient
+information;
+(iv)The expected performance of the device for all
+intended use populations and environments; and
+(v)Robust instructions to ensure correct system setup.
+In addition, this is a prescription device and must comply with
+21 CFR 801.109.
+10.Conclusion
+In conclusion, the FH Vitals SDK shares a similar intended use to that of the already cleared
+predicate device, with its function encapsulating a subset of the features provided by the
+Oxehealth systems. Moreover, the proposed device aligns closely in technological
+characteristics and operational principles with the predicate device. The distinctions that do
+exist between the two devices do not introduce additional concerns regarding safety or
+performance. Consequently, we posit that the FH Vitals SDK is substantially equivalent
+to the predicate device.
+K223622
+Page 10 of 10

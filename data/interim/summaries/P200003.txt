@@ -1,0 +1,1282 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I. GENERAL INFORMATION
+Device Generic Name: Optoacoustic Breast Imaging System
+Device Trade Name: Imagio® Breast Imaging System
+Device Procode: QNK
+Applicant’s Name and Address: Seno Medical Instruments, Inc.
+8023 Vantage Drive, Suite 1000
+San Antonio, TX 78230
+Date(s) of Panel Recommendation: None
+Premarket Approval Application (PMA) Number: P200003
+Date of FDA Notice of Approval: 01/11/2021
+II. INDICATIONS FOR USE
+The Imagio Breast Imaging System is indicated for use by a trained and qualified healthcare
+provider for evaluation of palpable and non-palpable breast abnormalities in adult patients who are
+referred for a diagnostic imaging breast work-up, following clinical presentation or either screening
+or diagnostic mammography or other imaging examinations. The ultrasound mode should be
+initially used in a targeted fashion, to assess any focal area(s) of clinical or imaging concerns. In
+ultrasound mode, the device can be used to assign a BI-RADS category to either breast tissue or a
+mass that is causing clinical or imaging concerns. Masses that are classified as BI-RADS categories
+3 through 5 can then be assessed using the Opto-Acoustic (OA) mode. In the OA mode, the Imagio
+Breast Imaging System provides information about the central nidus, boundary and peripheral
+zones, based on vascularity and blood oxygen saturation of the imaged tissues, to assist in the
+diagnosis of the benign or malignant mass(es) of interest. For ultrasound BI-RADS 3-5 masses,
+using the OA features of the mass allows for improved classification of the mass of interest as
+compared to ultrasound alone. The OA mode is not indicated for ultrasound BI- RADS 1 and 2
+findings. The Imagio Breast Imaging System includes an artificial intelligence (AI) based software
+function to assist the users in assessing the BI-RADS Classifications.
+This device is not intended to be used as a replacement for mammographic screening or for
+definitive pathologic diagnosis.
+III. CONTRAINDICATIONS
+Absolute contraindications are as follows:
+PMA P200003: FDA Summary of Safety and Effectiveness Data 1 of 33• Is pregnant.
+• Has open sores including insect bites, rash, poison ivy, and chafing on the skin of the
+ipsilateral breast.
+• Is experiencing phototoxicity associated with currently taking, or having taken,
+photosensitizing agents within the previous 72 hours such as sulfonamides, ampicillin,
+tetracycline.
+• Is currently undergoing phototherapy.
+• Has a history of any photosensitive disease (e.g., porphyria, lupus erythematosus) or is
+undergoing treatment for a photosensitive disease and is experiencing photosensitivity.
+IV. WARNINGS AND PRECAUTIONS
+The warnings and precautions can be found in the Imagio Breast Imaging System labeling.
+V. DEVICE DESCRIPTION
+The Imagio Breast Imaging System (Figure 1) is a diagnostic functional and morphologic
+imaging system that combines optoacoustic (OA) imaging with conventional diagnostic
+ultrasound (US) imaging to aid in diagnostic evaluation of breast lesions. The Imagio Breast
+Imaging System acquires, processes, and displays co-registered OA and US images to
+provide structural and functional information about breast abnormalities in real-time.
+OA/US imaging technology combines the high contrast resolution of optical imaging with
+the high spatial resolution and deep penetration of ultrasound imaging.
+Figure 1: Imagio Breast Imaging System
+In OA imaging (also known as photoacoustic imaging in the literature), short nanosecond
+pulses of laser light are delivered into tissue. When that light is absorbed, for instance by
+hemoglobin molecules found in blood, those molecules undergo thermoelastic expansion
+and generate acoustic pressure signals that can be detected at the tissue surface using a hand-
+held probe (Figure 2). The probe has optical windows that deliver light to tissue and an array
+PMA P200003: FDA Summary of Safety and Effectiveness Data 2 of 33of piezoelectric transducers that detect acoustic signals. The received OA signal increases
+with both the absorption strength and concentration of light-absorbing molecules. Two
+strong absorbers in tissue are oxygenated and deoxygenated hemoglobin found in blood
+vessels. By performing OA imaging using two near-infrared optical wavelengths (757 nm
+and 1064 nm) for which oxygenated and deoxygenated hemoglobin absorb light differently,
+the Imagio Breast Imaging System can estimate the relative oxygen saturation of
+hemoglobin in tissue.
+Figure 2: Optoacoustic (OA/US) Probe and Probe Head
+In addition to OA imaging, the Imagio Breast Imaging System provides conventional
+ultrasound imaging capabilities such as 2D B-mode (amplitude), color Doppler, power
+Doppler, and pulsed wave Doppler for blood/fluid flow analysis, user-adjustable image
+display settings, and the ability to measure and annotate images. The Imagio Breast Imaging
+System can provide overlaid OA/US images that co-register anatomical US B-mode images
+with functional OA mapped information in real-time. These images are presented as a 6-on-
+1 (six-up) display (Figure 3). The grayscale US image provides morphologic information,
+whereas the OA/US images provide both morphologic and functional information. The
+morphologic information provided by OA/US includes: the presence or absence of
+detectable blood vessels as well as the number, size, shape, orientation, and polymorphism
+of blood vessels. The functional information provided by OA/US includes the relative
+amount of hemoglobin and relative oxygen saturation of hemoglobin.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 3 of 33Gray Scale OA Combined OA Short Wave Gray
+OA Total OA Relative OA Long Wave Gray
+Figure 3: Representative standard 6 on 1 display showing US image (upper left) and various OA mode
+images. The red/green colorized images (OA Combined and OA Relative) provide oximetry information.
+The Imagio Breast Imaging System was determined to be a Class 3B laser product for
+externally accessible emission from the handheld probe and a Class 4 laser product for
+internally accessible emission (during device maintenance/service). The Imagio’s laser
+subsystem is comprised of a laser head, laser controller, temperature controller, and foot
+switch. The laser head generates the pulsed laser emissions, directing them into an optical
+port which is coupled with a fiber optic cable connecting to the handheld probe. The laser
+controller provides real time control of laser emission timing and energy levels. The
+temperature controller regulates the laser head temperature to maintain optimal laser head
+operation by heating or cooling water that is then pumped through portions of the laser head
+at a constant flow rate. The foot switch must be engaged by the operator to allow laser light
+emission. Light is delivered from the fiberoptic cable through two optical windows in the
+face of the handheld probe to illuminate underlying tissue. During laser light emission,
+users, patients and observers are required to wear provided laser safety eyewear meeting
+appropriate optical density specifications.
+The ultrasound imaging component of the device is based on conventional, currently-
+existing ultrasound imaging principles. In fact, ultrasound imaging is achieved using a FDA
+cleared device, Imagio ultrasound imaging system (K182628). This system supports one
+probe, L14-5/38, manufactured by Analogic Corporation (previously Ultrasonix) cleared
+under K089035.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 4 of 33To assist the users in assessing BI-RADS classification, the Imagio Breast Imaging System
+is used in parallel with a SenoGram™. The SenoGram is a software tool, using machine
+learning, that helps the radiologist predict the probability of malignancy (POM) based on a
+set of reader-assigned feature scores and other relevant data. The purpose of the SenoGram
+is to help the users more accurately combine their various feature scores into a single overall
+score (POM). Unlike some of the more commonly-used computer-aided diagnosis systems
+that use medical images as the input, SenoGram input comes from the users. The user enters
+5 feature scores for internal ultrasound (IUS), 5 feature scores for OA and 4 other features:
+subject age, maximum diameter depth to posterior wall of mass, size of lesion, and
+mammographic BI-RADS density category (where available). IUS above refers to the
+internal ultrasound functionality of the Imagio Breast Imaging System (i.e., without OA).
+When all data has been entered, the user interface graphically displays the SenoGram
+Likelihood/Probability of malignancy (LOM/POM) on a scale of 0 to 100. If the user
+assigns correct feature scores, then the SenoGram will perform well; if the user assigns
+incorrect feature scores, then the SenoGram will not perform well. The SenoGram
+classification model was trained using feature scores from the PIONEER Pivotal Readers
+(please see below), including feature scores from the expert reader assigned during the
+PIONEER Pivotal Study.
+VI. ALTERNATIVE PRACTICES AND PROCEDURES
+There are several alternatives for breast cancer diagnosis. These include clinical breast
+examination, mammography, color and power Doppler, strain and shear wave
+elastography, magnetic resonance imaging, and molecular breast imaging. Each
+alternative has its own advantages and disadvantages. A patient should fully discuss these
+alternatives with her physician to select the method that best meets expectations and
+lifestyle.
+VII. MARKETING HISTORY
+The CE Mark for the Imagio Breast Imaging System was obtained March 30, 2014. Prior
+to PMA approval, Seno did not commercialize the Imagio Breast Imaging System in any
+countries. The Imagio Breast Imaging System has not been withdrawn from the market
+for any reason related to safety or effectiveness.
+The ultrasound imaging component of the subject device was cleared under K182628.
+The probe in this system was by UltraSonix system (SONIX MDP ultrasound scanner)
+and cleared via K089035.
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+Below is a list of the potential adverse effects (e.g., complications) associated with the
+use of the device.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 5 of 33Potential adverse effects from use of the Imagio Breast Imaging system are common to
+marketed conventional diagnostic ultrasound imaging devices and topically applied
+lasers, e.g.:
+1. Electrical shock,
+2. Laser eye injury,
+3. Skin irritation or abrasion,
+4. Localized discomfort, tenderness, or tingling,
+5. Contact dermatitis,
+6. Photosensitivity,
+7. Hematoma, and
+8. Infection
+Both false positive and false negative evaluations, which could result in false diagnosis or
+misclassification are potential adverse effects. The consequence of a false positive may
+result in additional imaging or workup that would otherwise not be performed. These
+additional procedures would carry the same risk of modality exposure, infection, or
+hematoma as would happen with any false positive evaluation. A false negative could
+potentially result in a missed or delayed cancer diagnosis and thus delayed treatment.
+For the specific adverse events that occurred in the clinical studies, please see Section X
+below.
+IX. SUMMARY OF NONCLINICAL STUDIES
+Nonclinical laboratory studies were completed on Imagio Breast Imaging System and
+included system verification and validation testing prescribed by Seno Medical’s quality
+system Design Controls which is compliant with 21 CFR 820.30. This testing ensured
+that the Imagio Breast Imaging System design met required specifications for safety and
+effectiveness. No animal studies were conducted. Table 1 presents the nonclinical design
+verification and validation testing conducted on the Imagio Breast Imaging System.
+Table 1. Nonclinical Laboratory Testing
+Test Purpose Acceptance Criteria Results
+1. Biocompatibility, Cytotoxicity, Biocompatibility of Non-cytotoxic Pass
+ISO 10993-5 OA/US Probe
+Complies with ANSI/AAMI ISO 10993-
+5. Biological evaluation of medical
+devices-Part 5: Tests for In vitro
+cytotoxicity.
+2. Biocompatibility, Skin Irritation, Biocompatibility of Non-irritant Pass
+ISO 10993-10 OA/US Probe
+Complies with ANSI/AAMI ISO 10993-
+10. Biological evaluation of medical
+devices-Part 10: Tests for Irritation and
+skin sensitization.
+3. Biocompatibility, Maximization Biocompatibility of Non-sensitizer Pass
+Sensitization, ISO 10993-10 OA/US Probe
+Complies with ANSI/AAMI ISO 10993-
+PMA P200003: FDA Summary of Safety and Effectiveness Data 6 of 3310. Biological evaluation of medical
+devices-Part 10: Tests for Irritation and
+skin sensitization.
+4. Reprocessing (cleaning and Reprocessing of OA/US The reprocessing procedures are Pass
+disinfection procedure) per FDA Probe and entire system validated according to the guidance
+guidance document: document.
+Reprocessing Medical Devices in
+Health Care Settings: Validation
+Methods and Labeling issued on
+March 2015
+5. Ultrasonic safety and essential Reliability/Functionality Complies with IEC60601-2-37 Edition Pass
+performance testing and ultrasound safety of 2.1 2015 Medical electrical equipment -
+OA/US Probe Part 2-37: Particular requirements for the
+basic safety and essential performance of
+ultrasonic medical diagnostic and
+monitoring equipment.
+6. Probe Electrical safety of Entire Complies with ANSI/AAMI ES60601- Pass
+Reliability/Functionality/Medical system 1:2005/A1:2012 Medical electrical
+electrical equipment safety Testing equipment - Part 1-2: General
+requirements for basic safety and
+essential performance - Collateral
+Standard: Electromagnetic disturbances -
+Requirements and tests
+7. Electromagnetic compatibility EMC testing of Entire Complies with IEC 60601-1-2 Edition 4.0 Pass
+(EMC) Testing system 2014-02 Medical electrical equipment -
+Part 1-2: General requirements for basic
+safety and essential performance -
+Collateral Standard: Electromagnetic
+disturbances - Requirements and tests
+8. Laser safety, per IEC 60825-1:2014 L aser safety of subsystem Complies with IEC 60825-1:2014, Pass
+and OA/US probe “Safety of laser products –Part 1:
+Equipment classification and
+requirements”
+9. Laser Safety Analysis, per ANSI Laser subsystem, OA/US Measured laser emission (radiant N/A
+Z136.1:2014 probe, and laser safety exposure) out of the handheld probe is
+eyewear below Maximum Permissible Exposures
+(MPEs) for skin and eye tissue when
+users, patients, and observers wear
+provided laser safety eyewear. Complies
+with ANSI Z136.1:2014, “American
+National Standard for Safe Use of Lasers”
+10. Acoustic output measurement Safety and effectiveness of Complies with NEMA UD 2-2004
+OA/US probe (R2009) Acoustic Output Measurement
+Standard for Diagnostic Ultrasound
+Equipment Revision 3
+11. Reliability/Functional Life System and components: 2 million net laser shots with no hardware
+Testing component failures, software failures, or Pass
+• Laser
+laser emission failures
+• Optoacoustic
+(OA/US)
+• Probe, OA-16-1S
+• Medical Control
+Footswitch
+PMA P200003: FDA Summary of Safety and Effectiveness Data 7 of 33• Power Control
+Module
+• Data Acquisition
+and Processing
+(DAP) Module
+• Modulo unit
+(Ultrasound)
+• AC Power
+Distribution Unit
+(PDU)
+• Mechanical
+componentry
+• Display (monitor
+and console)
+12. Reliability/Functional Life Functional testing of No physical damage to the system
+Testing, Mechanical Reliability Entire system Pass
+13. Reliability/Functional Life Functional testing of Remain functional after >1887
+Testing Footswitch pedal press/release cycles Pass
+14. Reliability/Functional Life Extended life testing of 2 million net laser shots with no hardware Pass
+Testing, Extended Testing Entire system component failures, software failures, or
+laser
+emission failures
+15. Risk management Risk management Complies with ISO 14971: 2007/(R)2010
+associated with the Entire (Corrected 4 October 2007) Medical
+system devices ‐ Application of risk management
+to medical devices
+16. Software verification Testing Imagio Breast Verification tests, software code Pass
+and validation, per: Imaging System software reviews, unit testing, system level
+• FDA Guidance document: testing and defect tracking and
+Content of Premarket dispositioning met all
+Submissions for Software specifications.
+Contained in Medical Devices,
+issued on May 2005
+Testing SenoGram Verification included testing of the user Pass
+• FDA Guidance document:
+software interface, API, and computational
+Off‐The‐Shelf Software Use
+components. Test results verified that
+in Medical Devices, issued
+the SenoGram software produced the
+on September 2019
+expected outputs for valid and invalid
+• FDA Guidance document:
+inputs, edge cases, minimum values,
+General Principles of
+and maximum values.
+Software Validation, issued
+on January 2002
+Complies with ISO 14971:
+2007/(R)2010 (Corrected 4 October
+17. Cybersecurity per FDA
+2007) Medical devices ‐ Application of
+Guidance document: Content of
+risk management to medical devices,
+Premarket Submissions for
+ISO 13485 (2016) Medical Devices –
+Management of Cybersecurity in
+Quality Management Systems –
+Medical Devices issued on
+Requirements for Regulatory Purposes,
+October 2014
+and IEC62304 Medical device
+Software (2006)
+18. Packaging Testing Imagio Breast The testing passed for protecting Imagio Pass
+Imaging System crate Breast Imaging System components
+during shipping.
+(Device is not supplied
+sterile)
+PMA P200003: FDA Summary of Safety and Effectiveness Data 8 of 3319. Usability Testing/ Human Testing usability of entire Usability testing was conducted by Pass
+Factors system sonographers and radiologists. Testing
+was performed according to human
+factors engineering standards:
+• AAMI/ANSI HE75:2009/(R) 2018
+Human factors engineering – Design
+of medical devices
+• ANSI/AAMI/IEC 62366‐1: 2015
+Medical Devices‐Part 1: Application
+of usability engineering to medical
+devices
+A. Laboratory Studies/ Tissue Phantom Studies
+Testing was conducted using various tissue-mimicking phantoms to assess device image
+quality and blood oxygenation measurement performance. Phantom testing was also
+used to demonstrate equivalent performance of the final device version against the
+previous device version used to collect original clinical study image data in the
+PINONEER study (please see summary of primary clinical study section below).
+Specific phantom tests were performed to evaluate: spatial resolution (axial, lateral, and
+elevational); geometric accuracy and precision; OA/US co-registration accuracy; image
+uniformity; depth of visualization; OA signal sensitivity, linearity, and dynamic range;
+vessel size measurement accuracy; oxygen saturation resolution and precision; out-of-
+plane absorber artifacts; and effects of laser energy variation on image quality and OA
+image colorization. Results showed that the device can detect blood vessel-mimicking
+targets in a breast-like background medium and map relative differences in blood
+oxygen saturation.
+Table 2. Tissue Phantom Testing
+Test Purpose Acceptance Results
+Criteria
+1. Spatial Resolution Evaluate and quantify in- None Axial resolution, short wavelength = 0.58 ±
+plane (axial, lateral), and 0.10 mm
+out-of-plane (elevational) Axial resolution, long wavelength = 0.54 ±
+spatial resolution of OA 0.10 mm
+images
+Lateral resolution, short wavelength= 1.12 ±
+0.35 mm
+Lateral resolution, long wavelength= 1.09 ±
+0.25 mm
+Elevational resolution, short wavelength =
+2.7 ± 0.4 mm (at ~4.5 mm depth), 5.6 ± 0.2
+mm (at ~34 mm depth) respectively.
+Elevational resolution, long wavelength = 2.7
+± 0.4 mm (at ~4.5 mm depth), 5.4 ± 0.5 mm
+(at ~34.5 mm depth) respectively.
+2. Geometric Evaluate accuracy of None Worst-case horizontal error = +0.81/-0.54
+Accuracy and measured 1D distances and mm, std. deviation = 0.33 mm (over both
+Precision 2D areas in OA images. wavelength)
+Assess OA image precision
+with repeated acquisitions. Worst-case vertical error = +0.19/-0.36 mm,
+std. deviation = 0.13 mm (over both
+wavelengths)
+PMA P200003: FDA Summary of Safety and Effectiveness Data 9 of 33Worst-case Image precision = +0.23 mm/-
+0.90 mm (over both wavelengths)
+Average percent errors of drawn ellipses
+were 0.4% in diameter, 0.7% in area, and
+0.3% in circumference.
+3. OA/US Co- Evaluate co-alignment of None Worst-case horizontal error, -0.94/ +0.85
+Registration fused OA, US images mm, std. deviation = 0.33 mm
+Worst-case vertical error = -0.17/ +0.21 mm,
+std. deviation = 0.09 mm (over both
+wavelengths)
+4. Image uniformity Quantify horizontal and None With clinical contrast settings, Horizontal
+vertical signal uniformity variation <2 dB (near-field) or <6 dB (far-
+field). Vertical uniformity < 31 dB (near-
+field), < 35 dB (far-field) due to expected
+effect of optical attenuation vs. depth.
+5. Depth detection Quantify the maximum None Max imaging depth > 4 cm for OA Short and
+penetration depth of OA OA Long for detecting deoxygenated and
+imaging oxygenated vessels, respectively.
+6. Sensitivity- Evaluate and quantify OA None OA signal is highly linear vs. changes in
+linearity sensitivity to and linearity target absorption coefficient using fixed
+vs. optical absorption contrast settings (R2 > 0.986). Sensitivity =
+0.046 cm-1/grayscale for OA Short, 0.0343
+cm-1/grayscale for OA Long using fixed
+contrast settings. Clinical contrast settings
+can result in saturation effects, as expected.
+7. OA Dynamic Evaluate and quantify the None OA dynamic range (OA Short): 9.079-22.976
+Range OA dynamic range of the dB
+Imagio Breast Imaging OA dynamic range (OA Long): 10.015-
+System 23.923 dB
+8. Accuracy of Evaluate accuracy of None Device detects differences in vessel
+vessel diameters for measuring tube diameters diameters correlated with known diameters,
+simulated blood with the Imagio Breast although measured diameter values are
+vessels Imaging System OA overestimated.
+imaging
+9. Oxygen saturation Quantify the ability of the None Device can detect SO2 differences of ~3.5%
+variation Imagio Breast Imaging ± 2.3% for targets near 100% SO2, ~11% ±
+System to depict and 15% for targets near 50% SO2.
+resolve differences in blood
+oxygen saturation
+10. Out-of-plane Evaluate and quantify the None Out-of-plane absorber artifacts can
+absorber effects effects of out-of-plane potentially affect OA image colorization.
+absorbers on the OA Effects are stronger when out-of-plane target
+colorization has similar SO2 and smaller vessel diameter
+relative to in-plane target.
+11. Dual wavelength Quantify the effects of None Device maintains accurate colorization even
+laser energy variation varying laser energy on with reduced laser energy beyond allowable
+image quality tolerances for operation.
+B. Animal Studies
+None
+PMA P200003: FDA Summary of Safety and Effectiveness Data 10 of 33X. SUMMARY OF PRIMARY CLINICAL STUDY
+The applicant performed a series of pivotal clinical studies to establish a reasonable
+assurance of safety and effectiveness of Imagio Breast Imaging System. Data from these
+clinical studies are the basis for the PMA approval decision. A summary of the clinical
+studies is presented below.
+A. Study Design
+The database for this PMA reflected data collected from December 2012 through
+September 2015 and included 1972 patients. There were 16 investigational sites, 7
+academic and 9 private practices. All sites were in the United States of America
+(USA).
+The applicant conducted a single arm, sequentially read, controlled, blinded, multi-
+reader, multi-case (MRMC) pivotal study, referred to as Reader-02, to establish a
+reasonable assurance of Imagio Breast Imaging System safety and effectiveness. The
+primary goal of the Reader-02 was to demonstrate that readers using the full
+functionality of Imagio (IUS+OA) performed better compared to when using IUS
+alone in terms of specificity at a fixed sensitivity of 98%. The images used in Reader-
+02 were a subset of the images acquired in a previous study called the PIONEER
+Study. PIONEER Study data collection is described next, followed by case selection
+for the Reader-02 Study, reader qualifications and training, and image interpretation
+procedures.
+The Reader-02 Pivotal Study’s endpoints were as follows:
+Primary endpoint: Evaluate reader specificity with IUS alone at 98% sensitivity
+versus Imagio (IUS+OA) at the same sensitivity.
+Secondary endpoints: Evaluate the following for IUS alone versus Imagio
+(IUS+OA):
+a. Negative Likelihood Ratio (NLR) defined as ((1-sensitivity)/specificity)
+b. Positive Likelihood Ratio (PLR) defined as (sensitivity/(1-specificity))
+c. Partial Area Under the Receiver Operating Characteristics (ROC) Curve
+(pAUC) corresponding to 95-100% sensitivity
+Sensitivity and specificity for the secondary endpoints were based on reader’s POM
+scores with a positivity threshold of POM of 2%, i.e., POM>2% was considered a
+positive read (positive result) and POM≤2% was considered a negative read (negative
+result).
+The evaluation used a sequential hierarchical approach for hypothesis testing, with
+secondary endpoints tested in the order NLR, PLR, and pAUC.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 11 of 33Corresponding Hypothesis testing were as follow:
+Primary hypothesis test:
+H0: S = S (no specificity [at 98% sensitivity] difference)
+Imagio IUS
+H1: S ≠ S (superior specificity [at 98% sensitivity])
+Imagio IUS
+where S and S represent specificity [at 98% sensitivity], values associated
+Imagio IUS
+with Imagio (IUS + OA) and IUS.
+Secondary hypothesis tests:
+A 2% Probability of Malignancy (POM) cutoff was used as the positivity threshold.
+Specificity was defined as the proportion with a negative result (POM ≤2%) among
+all benign+TPB masses (to include all high-risk masses). Sensitivity was defined as
+the proportion with a positive result (POM >2%) among all malignant masses.
+a. NLR:
+H0: NLR = NLR vs
+IUS Imagio
+HA: NLR ≠ NLR representing a reduction (improvement in NLR)
+IUS Imagio
+b. PLR:
+H0: PLR = PLR vs
+IUS Imagio
+HA: PLR ≠ PLR representing an increase (improvement in PLR)
+IUS Imagio
+c. Partial ROC AUC:
+H0: pAUC = pAUC vs
+IUS Imagio
+HA: pAUC ≠ pAUC representing an increase (improvement in partial
+IUS Imagio
+ROC AUC)
+A sequential hierarchical approach for hypothesis testing was applied.
+PIONEER Study Data Collection
+Patient diagnostic images were obtained during the PIONEER study between
+December 2012 and September 2015.
+The subjects for this Study were selected from women referred for a diagnostic breast
+ultrasound work-up who had a suspicious finding within the previous 45 business
+days, by palpation or by a screening mammogram or diagnostic methodology other
+than ultrasound, who were scheduled to undergo or already had a Clinical Diagnostic
+Ultrasound (CDU). The CDU at the time of Study enrollment was used to classify
+subjects as NDU (Negative Diagnostic Ultrasound) (CDU BI-RADS 3) or PDU
+(Positive Diagnostic Ultrasound) (CDU BI-RADS ≥4a) to determine if follow-up
+(NDU patients) or biopsy (PDU patients) was required.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 12 of 33The goal was to enroll ≥1,000 benign masses either with a benign biopsy or followed
+for a year with ≤20% increase in maximum diameter and no change in BI-RADS
+classification from 3 to 4a+.
+1. Clinical Inclusion and Exclusion Criteria
+Inclusion Criteria
+Enrollment in the PIONEER study was limited to patients who met the following
+inclusion criteria (all conditions are to be met to be included in the study):
+a. Has signed and dated informed consent, prior to initiation of any Study
+activities.
+b. Has had an undiagnosed suspicious finding within the previous 45 business
+days, by palpation or by a screening or diagnostic methodology other than
+ultrasound; this may have included more than one suspicious mass.
+c. Has at least 1 or up to 3 pre-selected and undiagnosed breast masses including
+suspicious solid masses and/or complex cystic and solid masses that the
+investigator had characterized as either BI-RADS 3, BI-RADS 4, or BI-RADS
+5 that have been scheduled for either biopsy or follow-up.
+d. Has at least one undiagnosed breast mass that was detected by one of the
+following 4 methodologies within 45 business days prior to enrollment with
+imaging results available for Study utilization:
+• Call backs for additional evaluation of suspicious area(s) identified
+by imaging other than ultrasound.
+• Diagnostic referral to assess focal physical symptoms and/or signs
+that were either a chief complaint of the subject or were elicited by
+the healthcare practitioner (excluding focal breast pain in the absence
+of other positive clinical findings).
+• Interval clinical problems (symptoms or physical findings, excluding
+isolated focal breast pain, that had developed between yearly
+mammograms).
+• Other referrals to CDU including subjects younger than 30 years old
+for a clinically suspicious area, or subjects referred from a screening
+Magnetic resonance imaging (MRI) because of an abnormality.
+e. Is at least 18 years of age.
+f. Has received a recommendation to either biopsy or not biopsy.
+g. Is willing and able to comply with protocol required procedures.
+Exclusion Criteria
+Patients were not permitted to enroll in the PIONEER study if they met any of the
+following exclusion criteria (any condition by itself is sufficient to exclude a subject):
+a. Subject is male.
+b. Has a condition or impediment which could interfere with the intended field-
+of- view (i.e., breast implants within the previous 12 months, or tattoos).
+PMA P200003: FDA Summary of Safety and Effectiveness Data 13 of 33c. Has or has had cancer in the ipsilateral breast or prior breast surgeries in the
+same quadrant of the ipsilateral breast that would have interfered with the
+ability to capture or interpret images.
+d. Prior benign excisional breast biopsy within the immediate vicinity of the
+currently evaluated suspicious mass within the past 18 months (benign
+excisional biopsy not within immediate Imagio field-of-view will not exclude
+the subject from the Study).
+e. Has greater than 3 suspicious masses.
+f. Mass(es) of interest is greater than 4 cm.
+g. Has all mass(es) characterized as BI-RADS 1 and/or 2 as determined using a
+CDU.
+h. Currently has mastitis.
+i. Has focal pain without thickening or mass.
+j. Is pregnant or lactating.
+k. Has open sores including insect bites, rash, poison ivy, and chafing on the skin
+of the ipsilateral breast.
+l. Has an acute or a chronic hematoma and/or acute ecchymosis of the ipsilateral
+breast.
+m. Is experiencing photo-toxicity associated with currently taking, or having
+taken, photosensitizing agents within the previous 72 hours such as
+sulfonamides, ampicillin, tetracycline. Is currently undergoing phototherapy.
+n. Has a history of any photosensitive disease (e.g., porphyria, lupus
+erythematosus) or undergoing treatment for a photosensitive disease and was
+experiencing photosensitivity.
+o. Concurrent neoadjuvant therapy prior to the Imagio evaluation or the biopsy.
+p. Has previously had image guided core biopsy, image guided Directional
+Vacuum Assisted Biopsy (DVAB), or surgical biopsy of the mass of interest.
+q. Has nipple rings that cannot be removed or are not removed during Imagio
+evaluation.
+2. Methodology
+Subjects were prospectively enrolled upon confirmation of being BI-RADS 3, BI-
+RADS 4, or BI-RADS 5, as confirmed by CDU evaluation of the suspicious
+mass(es). Subjects who had all mass(es) characterized as BI-RADS 1 and/or 2 as
+determined using a CDU were regarded as screen failures, as shown in Figure 4
+below. Of the remaining subjects who consented (n=2105), 23 were considered as
+enrollment failures because (1) mass was too deep for Imagio™ to visualize, or
+(2) device malfunctioned prior to or during the scanning procedure, or (3) subject
+was withdrawn prior to scanning procedure initiated. Remaining subjects
+(n=2082) were exposed to OA.
+First 10 subjects scanned at the Cancer Therapy and Research Center (CTRC) and
+the next 100 subjects enrolled as pilot cases for the study were excluded from the
+Safety Population of the study. The PIONEER Safety Population thus consisted of
+1972 subjects.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 14 of 33Subjects were scheduled for an Imagio procedure after the decision whether to
+biopsy was made, but prior to any biopsy. The subjects must have had the Imagio
+procedure within 10 days of the enrollment visit and within 45 business days
+before the biopsy. Subjects in the NDU group who opted not to undergo a biopsy
+were to have a second Imagio™ procedure 12 months (± 30 days) after the initial
+imaging procedure.
+All images, both OA and IUS, were to undergo QA review by the quality
+assurance radiologists (QARs). To ensure image reading consistency, the
+assessment of all Study imaging, including OA, was managed by an independent
+Imaging Core Laboratory (ICL).
+Starting with the PIONEER Safety Population, 233 subjects were excluded from
+the PIONEER Intent-to-Diagnose (ITD) Population for the following reasons: QA
+failure of images, technical failures, PDU with no biopsy, NDU with no truth
+panel review, and protocol deviations.
+Figure 4 - Study Accountability Flowchart - Disposition By Subject
+PMA P200003: FDA Summary of Safety and Effectiveness Data 15 of 333. Ground truth determination
+For masses that underwent biopsy, the final diagnosis depended on the
+histopathological examination of the biopsy data from the suspected mass by an
+independent central histopathologist. Samples determined by the central
+histopathologist to be high-risk (HR), such as atypical ductal hyperplasia, atypical
+lobular neoplasia, and lobular carcinoma in situ were considered to be benign in the
+study effectiveness analysis. A Truth Panel was established to review and/or
+adjudicate NDU cases with follow-up at 12 months (≥11 months) to determine if
+the cases were True Negative (Truth Panel Benign [TPB]). TPB was determined for
+subjects who had masses classified as BI-RADS 3 with CDU by site investigators
+that were not biopsied and had ≤20% increase in max diameter and no change in
+BI-RADS classification from 3 to 4a+ at the 12-month follow up. Panel members
+evaluated available imaging modalities in the following order: CDU,
+mammography, MRI and IUS. OA was not utilized for this determination. NDU
+subjects who were not biopsied within the 12-month follow-up window and showed
+an increase in mass size (>20%) or a BI-RADS change to >3 were classified as
+truth panel change (TPC) masses by the Truth Panel. There were 8 such TPC
+masses, all of which were BI-RADS 3 by CDU at 12-month follow-up; none were
+recommended for biopsy by site investigators. The PIONEER ITD Population
+included 1739 subjects with a total of 652 biopsied cancer, 41 biopsied high risk,
+and 848 biopsied benign. 190 non-biopsied TPB (truth panel benign) and 8 non-
+biopsied “other” (truth panel change or TPC) masses. PIONEER ITD analysis
+population excluded the 8 TPC cases because they could not be classified as TPB,
+high-risk, or cancer.
+Case Selection for Reader-02 Pivotal Study
+The applicant conducted an initial MRMC reader study using the cases in the
+PIONEER ITD Population. Due to methodological issues, the applicant was not able
+to complete the submission of the final results from this study to the FDA.
+Subsequently, the applicant conducted the Reader-02 Pivotal Study, which used a
+subset of the images acquired for the PIONEER Pivotal Study to support their current
+PMA application. No new subjects were enrolled for Reader-02 Study. The patient
+population for Reader-02 Study is described in the following.
+Masses were selected at random for the Reader-02 Study in proportion to the original
+assignment distribution of BI-RADS classifications among subjects in the PIONEER
+Study by conventional diagnostic ultrasound (CDU). Masses selected from the
+PIONEER ITD analysis population for the Reader-02 Study could include up to 7
+blocks of 120 images. The Reader-02 Pivotal Study thus consisted of between 480 to
+840 masses with complete imaging read sets from the original PIONEER ITD
+analysis population. The data were organized and presented to readers in blocks of
+120 masses, each consisting of 72 benign plus 3 high risk (to be categorized as
+benign) and 45 malignant masses (reflecting a similar prevalence of cancer as the
+overall PIONEER ITD analysis population, approximately 38%). To facilitate the
+PMA P200003: FDA Summary of Safety and Effectiveness Data 16 of 33alignment of the PIONEER Pivotal Study data with the Reader-02 Pivotal Study data
+in terms of mammogram availability, the mass image set sampling plan selected a
+benign mass proportion with and without mammograms depending on availability of
+the mammograms to be the same as in PIONEER; this stratification did not apply for
+malignant masses where nearly all masses were previously evaluated using
+mammography.
+The number of masses was 480 masses in total, comprised of the following:
+• 180 malignant masses
+• 300 benign masses (288 benign, 12 high risk defined as atypical ductal
+hyperplasia, atypical lobular neoplasia, and lobular carcinoma in situ, etc.)
+A total of 480 complete read sets (4 blocks of 120 read sets each) from the original
+PIONEER ITD analysis population were randomly selected with stratification in
+accordance with the Reader-02 Pivotal Study Sampling Plan from within the previous
+PIONEER Pivotal Study. Sample size was assessed at a blinded interim analysis after
+the first 360 reads and could be adjusted as necessary based on inter- and intra-reader
+variance up to a maximum of 840 reads. To avoid any potential for bias, all four
+blocks had been read by all readers in advance of the database lock for the pre-
+planned interim analysis.
+Mass Inclusion and Exclusion Criteria
+The mass inclusion criteria for the Reader-02 Pivotal Study were as follows:
+a. One analyzable mass per patient: BI-RADS 3, 4a, 4b, 4c and 5 masses as
+declared by clinical site investigator via PIONEER study inclusion criteria and
+categorized as BI-RADS 3, 4a, 4b, 4c, and 5 by CDU
+b. Masses declared to be in the PIONEER ITD analysis population, including
+high risk cases per original PIONEER protocol
+c. Patient age, indication for study entry and available medical history
+d. Evaluable mammograms (when available) and IUS and OA video loops and
+still images for each mass
+The mass Exclusion criteria for the Reader-02 Pivotal Study were as follows:
+a. Critical missing IUS or OA still image and/or video loop views or incorrect
+IUS or OA stills and video loops that would preclude a case from being
+evaluated by readers
+b. Reader-02 proficiency test and training cases
+c. Failure of quality assurance review, as described below.
+Quality Assurance Review
+The quality assurance radiologists (QARs) were two physicians selected by Seno
+Medical with knowledge and experience in breast imaging. In addition to exam
+quality checks, the QAR’s role was to identify and label, with guidance from limited
+medical history data and breast MRI and CDU exams, the appropriate intent-to-
+PMA P200003: FDA Summary of Safety and Effectiveness Data 17 of 33diagnose mass on mammogram and IUS and Imagio (IUS+OA) exams to be read and
+scored by the 15 independent readers on this study.
+Reader Qualifications and Training
+The study included 15 readers with an additional 5 back-up readers depending on
+qualifications and availability. Readers that participated in any previous study were
+not eligible to participate as independent readers in this Reader-02 Pivotal Study.
+Only readers who met the following requirements were allowed to read images for
+this study:
+a. Completed residency and are board certified in radiology
+b. Active breast imager for at least 3 years.
+c. Readers to meet mammography interpretation requirements per Mammograph
+quality Standards ACT (MQSA) for the year prior to study
+d. Readers to meet diagnostic ultrasound interpretation requirements per American
+College of Radiology (ACR) for year prior to study
+e. For the clinical study, a willingness to use BI-RADS 4 sub-categories
+f. For the clinical study, the ability to participate and read all masses in both IUS
+and IUS+OA reader sessions
+The readers were required to undergo training before they were permitted to
+participate in the Reader-02 Pivotal Study. Training consisted of three modules:
+Didactic training, interactive reading, and test. Didactic training included
+fundamentals of OA, OA feature scoring, correlation of OA features with core biopsy
+histopathology, OA artifacts, IUS feature scoring, Seno learnings from previous
+studies, and the use of the SenoGram. In the interactive reading module, the readers
+read and scored a mixture of up to 30 malignant and benign cases after being trained
+on how to use a reading station, draw regions of interest (ROIs), score IUS and OA
+features, use the SenoGram to aid in predicting OA POM and BI-RADS category. In
+the test module, the readers had to pass a proficiency test involving the scoring and
+interpretation of 30 cases before starting their study reads. If this was not achieved the
+first time, then the reader took the test a second time. The reader was given
+remediation training targeted to the masses for which they made errors within the first
+30 case test set, and the reader was given a second opportunity to take the test on a
+different set of 30 test cases. If a reader failed the second test, remediation again took
+place before they started the Reader-02 Pivotal Study reads. The reader proceeded to
+read Reader-02 pivotal cases whether or not they passed the second test.
+Image Interpretation
+Interpretation of each case consisted of two consecutive reads: Read 1, immediately
+followed by Read 2 within the same reading session. In both Read 1 and Read 2, the
+radiologist provided a POM rating between 0 and 100 using a custom graphical
+interface with zoomed-in gradations at low probabilities (POM<2%), and a
+corresponding BI-RADS score (BI-RADS 2, 3, 4a, 4b, 4c or 5).
+PMA P200003: FDA Summary of Safety and Effectiveness Data 18 of 33Read 1 reflected the typical information available to a radiologist when evaluating
+standard ultrasound images, taking into consideration the mass, patient history and
+assessing mammogram BI-RADS results, when available. Read 1 (IUS reads) served
+as the control representing current clinical practice.
+• Read 1:
+Data provided for the reader: Patient History (age) + Mammogram (if
+o
+available) + IUS (stills and videos provided).
+Reader output: IUS Probability of Malignancy (POM) and BI-RADS
+o
+category assigned in the data form, then locked.
+Read 2 displayed the OA images in addition to the data provided in Read 1. Each
+reader entered 5 feature scores for IUS, 5 feature scores for OA, and four other
+features (patient age, mass size, depth to the posterior aspect of the mass and
+mammographic BI-RADS classification) into the SenoGram report form. Based on
+this information, the SenoGram displayed a predicted Likelihood of Malignancy
+(LOM) computed from reader input. Each reader then assigned final POM and BI-
+RADS scores.
+• Read 2:
+Data initially provided for the reader: Patient History (age) +
+o
+Mammogram (if available) + IUS (stills and videos provided), and
+Imagio (IUS+OA) (stills and videos provided).
+Input provided by the reader to SenoGram: 5 feature scores for IUS, 5
+o
+feature scores for OA, and four other features.
+Reader output: Imagio (IUS+OA) POM and BI-RADS category after
+o
+viewing the SenoGram output. The data form is then locked.
+4. Follow-up Schedule
+All Negative Diagnostic Ultrasound (NDU) patients not undergoing a biopsy were
+scheduled to return for follow-up examinations with an OA and IUS procedure at
+12-month (±30 days) after the initial imaging procedure to determine True Negative
+status of subjects by the Truth Panel.
+Prior to enrollment, subjects for this study had a suspicious finding within the
+previous 45 business days, by palpation or by a screening mammogram or
+diagnostic methodology other than ultrasound, and the subjects were scheduled to
+undergo or already had a CDU as per the site best practice guidelines. Once
+enrolled, patient medical history, breast mass history, and mass pathology data were
+recorded. Adverse Events were recorded for all patients at baseline and at 12-month
+Imagio visits.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 19 of 33B. Study Population Demographics and Baseline Parameters
+Demographic and baseline characteristics of the PIONEER subjects whose
+masses/images were used in the Reader-02 study are presented in Table 3. Of the 480
+masses read in the Reader-02 study, the overall mean age was 49.9±14.4 years; in the
+benign+TPB+HR group, the mean was 44.2±12.5 years, and in the malignant group it
+was 59.4±12.2 years, consistent with the age distribution of cancer diagnosis in the
+population. Almost ninety percent (89.6%) of subjects had available mammography,
+of which 84.0% were benign+TPB+HR subjects and 98.9% were cancer subjects.
+In the overall ITD population, two (0.4%) had CDU BI-RADS scores of 2; 74
+(15.4%) were score 3; 129 (26.9%) were score 4a, 84 (17.5%) were score 4b, 87
+(18.1%) were score 4c, and 102 (21.3%) were score 5. As expected, a greater
+proportion of subjects in the malignant group were scored BI-RADS 5 (96, 53.3%).
+Almost three-quarters of the masses (355, 74%) had a mammographic breast density
+of 2 or 3; 210 masses (43.8%) were palpable, and 199 masses (41.5%) were not.
+Almost half the subjects (219, 45.6%) were post-menopausal, and 14 (2.9%) had
+breast implants.
+Table 3. Baseline Clinical Characteristics, Reader-02 Population
+Overall Benign+TPB+High Risk Cancer
+(N=480) (N=300) (N=180)
+Mammography Present [n (%)] Yes 430 (89.6) 252 (84.0) 178 (98.9)
+No 50 (10.4) 48 (16.0) 2 (1.1)
+CDU BI-RADS [n (%)] 2 [1] 2 (0.4) 2 (0.7) 0
+3 74 (15.4) 73 (24.3) 1 (0.6)
+4a 129 (26.9) 125 (41.7) 4 (2.2)
+4b 84 (17.5) 70 (23.3) 14 (7.8)
+4c 87 (18.1) 22 (7.3) 65 (36.1)
+5 102 (21.3) 6 (2.0) 96 (53.3)
+Missing [1] 2 (0.4) 2 (0.7) 0
+Breast Density [n (%)] 1 24 (5.0) 10 (3.3) 14 (7.8)
+2 168 (35.0) 93 (31.0) 75 (41.7)
+3 187 (39.0) 116 (38.7) 71 (39.4)
+4 40 (8.3) 26 (8.7) 14 (7.8)
+Missing 61 (12.7) 55 (18.3) 6 (3.3)
+Palpable [n (%)] Yes 210 (43.8) 121 (40.3) 89 (49.4)
+No 199 (41.5) 130 (43.3) 69 (38.3)
+Unknown 71 (14.8) 49 (16.3) 22 (12.2)
+Implants [n (%)] Yes 14 (2.9) 8 (2.7) 6 (3.3)
+No 466 (97.1) 292 (97.3) 174 (96.7)
+Post Menopausal [n (%)] Yes 219 (45.6) 90 (30.0) 129 (71.7)
+No 258 (53.8) 208 (69.3) 50 (27.8)
+PMA P200003: FDA Summary of Safety and Effectiveness Data 20 of 33Missing 3 (0.6) 2 (0.7) 1 (0.6)
+Any Relevant Medical History [n (%)] Yes 245 (51.0) 136 (45.3) 109 (60.6)
+No 235 (49.0) 164 (54.7) 71 (39.4)
+Age N 480 300 180
+Mean 49.9 44.2 59.4
+Median 49.0 45.0 59.5
+Std Dev 14.4 12.5 12.2
+Overall Benign+TPB+High Risk Cancer
+(N=480) (N=300) (N=180)
+Min, Max 18, 88 18, 77 28, 88
+95% CI (48.6, 51.2) (42.8, 45.6) (57.6, 61.2)
+Site [n (%)]
+1 43 (9.0) 33 (11.0) 10 (5.6)
+2 28 (5.8) 16 (5.3) 12 (6.7)
+3 18 (3.8) 10 (3.3) 8 (4.4)
+4 69 (14.4) 40 (13.3) 29 (16.1)
+5 18 (3.8) 9 (3.0) 9 (5.0)
+6 31 (6.5) 6 (2.0) 25 (13.9)
+7 16 (3.3) 13 (4.3) 3 (1.7)
+8 55 (11.5) 41 (13.7) 14 (7.8)
+9 9 (1.9) 9 (3.0) 0
+10 6 (1.3) 6 (2.0) 0
+11 22 (4.6) 15 (5.0) 7 (3.9)
+12 46 (9.6) 24 (8.0) 22 (12.2)
+13 27 (5.6) 12 (4.0) 15 (8.3)
+14 58 (12.1) 38 (12.7) 20 (11.1)
+15 16 (3.3) 14 (4.7) 2 (1.1)
+16 18 (3.8) 14 (4.7) 4 (2.2)
+CDU = Conventional Diagnostic Ultrasound; BI-RADS = Breast Imaging-Reporting and Data System; TPB = Truth Panel
+benign
+The depth to the posterior margin of the mass was measured by the Reader-02 readers
+during their evaluations. These data for the Reader-02 population for all readers are
+presented in Table 4. On average masses were 1.73±0.65 cm from the chest wall to
+the posterior margin of the mass with a range from 0.47 cm to 3.77 cm.
+Table 4: Clinical Characteristics – Depth to Posterior Margin of Mass (cm), Reader-02 Population, All
+Readers
+Overall Benign+TPB+High Risk Cancer
+(N=480) (N=300) (N=180)
+Mean 1.735 1.605 1.951
+Median 1.667 1.553 1.927
+Std Dev 0.6528 0.6155 0.6578
+Min, Max 0.47, 3.77 0.47, 3.64 0.55, 3.77
+95% CI (1.676, 1.793) (1.535, 1.675) (1.854, 2.047)
+TPB = Truth Panel benign
+Similarly, mass size was measured by the Reader-02 readers during their evaluations.
+These data for the Reader-02 population for all readers are presented in Table 5. On
+average masses were 1.45±0.77 cm in diameter with a range from 0.33 cm to 3.89cm.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 21 of 33Table 5: Clinical Characteristics – Mass Size (cm), Reader-02 Population, All Readers
+Overall Benign+TPB+High Risk Cancer
+(N=480) (N=300) (N=180)
+Mean 1.452 1.413 1.516
+Median 1.267 1.230 1.283
+Std Dev 0.7730 0.7504 0.8073
+Min, Max 0.33, 3.89 0.33, 3.89 0.39, 3.89
+95% CI (1.383, 1.521) (1.328, 1.499) (1.397, 1.635)
+TPB = Truth Panel benign
+Of the 497 cases presented for Quality Assurance Radiologist (QAR) review, 17
+cases failed. The reasons for QAR review failure were (1) A mammogram-present
+subject that, after QAR review, had no mammograms that were acceptable to display
+(N=14), and (2) QAR could not confirm subject age as presented on medical
+history data across one or more read exams (N=4). One case failed for both of these
+reasons. No case failed because the mass could not be marked on IUS or OA. The
+diagnosis (malignant vs. benign+TPB+high risk) for masses that passed the Quality
+Assurance Radiologist (QAR) review was compared to those that failed (Table 6).
+Table 6: Diagnosis for Masses, QAR Pass versus QAR Fail
+Overall QAR Pass QAR Fail
+Parameter (N=497) (N=480) (N=17)
+Final Diagnosis [n (%)]
+Cancer 187 (37.6) 180 (37.5) 7 (41.2)
+Benign + TPB + High Risk 310 (62.4) 300 (62.5) 10 (58.8)
+QAR = Quality Assurance Radiologist; TPB = Truth Panel benign
+C. Safety and Effectiveness Results
+1. Safety Results
+The analysis of safety was based on the PIONEER Safety cohort of 1972 patients.
+The key safety outcomes for this study are presented and adverse effects are
+reported below in Tables 7 to 12.
+Adverse effects that occurred in the PMA clinical study:
+As shown in Table 7, overall, 52 subjects (2.6%) in the PIONEER Safety
+Population experienced an Adverse Event (AE). Forty subjects (2.0%)
+experienced at least one AE assessed as mild and 11 subjects (0.6%) experienced
+at least one AE assessed as moderate in severity. One subject (0.1%) reported two
+AEs assessed as severe and serious. This subject experienced atrial fibrillation and
+congestive heart failure, both assessed as serious, severe, and not related to the
+procedure. The event of atrial fibrillation was attributed to renal failure and the
+event of congestive heart failure was attributed to atrial fibrillation.
+The most common AEs by system organ class were injury, poisoning, and
+procedural complications (21 events) followed by nervous system disorders (16
+events). The most common events by preferred term (PT) were paraesthesia (10
+PMA P200003: FDA Summary of Safety and Effectiveness Data 22 of 33events) and post procedural hematoma (all post-biopsy; 5 events). Twenty-five
+events, including 10 events of paraesthesia, had a start date of the same day as the
+OA procedure.
+Of the 7 Serious Adverse Events (SAE(s)) reported in 5 subjects, none were
+considered related to the OA procedure. There were no serious adverse device
+effects (SADEs), unanticipated adverse device effects (UADEs) or deaths
+reported during the Study.
+Of the 52 subjects with AEs, 10 subjects (0.5%) reported 11 events that were
+considered related (possibly, probably, likely) to the OA procedure (Table 8). All
+11 procedure-related AEs were considered mild.
+A single event of “burns second degree” occurred. This patient had a moderate
+skin rash of undetermined origin. This was deemed by the sponsor to be more
+likely due to contact dermatitis with post-biopsy tape than a photothermal skin
+injury due to laser exposure.
+Table 7: Overall Summary of Adverse Events, Safety Population, PIONEER Pivotal Study
+Biopsy No Biopsy
+Benign +
+Parameter (Counts by Overall Cancer High Risk Benign TPB Other
+TPB
+Subject) [n(%)] (N=1972) (N=692) (N=43) (N=925) (N=190) (N=122)
+(N=1115)
+At least one AE 52 (2.6) 32 (2.9) 13 (1.9) 0 16 (1.7) 16 (8.4) 7 (5.7)
+At least one AE on OA 22 (1.1) 11 (1.0) 9 (1.3) 0 10 (1.1) 1 (0.5) 2 (1.6)
+Procedure date
+AEs by worst severity
+Mild 40 (2.0) 23 (2.1) 12 (1.7) 0 15 (1.6) 8 (4.2) 5 (4.1)
+Moderate 11 (0.6) 8 (0.7) 1 (0.1) 0 1 (0.1) 7 (3.7) 2 (1.6)
+Severe 1 (0.1) 1 (0.1) 0 0 0 1 (0.5) 0
+At least one OA Procedure- 10 (0.5) 5 (0.4) 4 (0.6) 0 4 (0.4) 1 (0.5) 1 (0.8)
+related AE
+Procedure-related AEs by
+worst relationship
+Not related 42 (2.1) 27 (2.4) 9 (1.3) 0 12 (1.3) 15 (7.9) 6 (4.9)
+Possibly 5 (0.3) 2 (0.2) 2 (0.3) 0 2 (0.2) 0 1 (0.8)
+Probably 1 (0.1) 1 (0.1) 0 0 1 (0.1) 0 0
+Likely 4 (0.2) 2 (0.2) 2 (0.3) 0 1 (0.1) 1 (0.5) 0
+Procedure-related AEs by
+worst severity
+Mild 10 (0.5) 5 (0.4) 4 (0.6) 0 4 (0.4) 1 (0.5) 1 (0.8)
+Moderate 0 0 0 0 0 0 0
+Severe 0 0 0 0 0 0 0
+At least one SAE 5 (0.3) 4 (0.4) 0 0 1 (0.1) 3 (1.6) 1 (0.8)
+At least one OA Procedure- 0 0 0 0 0 0 0
+related SAE
+UADEs 0 0 0 0 0 0 0
+SADEs 0 0 0 0 0 0 0
+AE = Adverse event; OA = Opto-acoustic; PDUNB = Positive diagnostic ultrasound, no biopsy SADE = Serious adverse device
+effect; SAE = Serious adverse event; TP = Truth Panel; TPB = Truth Panel benign; TPC = Truth Panel change; TPND =
+PMA P200003: FDA Summary of Safety and Effectiveness Data 23 of 33Negative diagnostic ultrasound (NDU) masses with no biopsy and no Truth Panel result; UADE = Unanticipated adverse device
+effect. Note: Other includes TPC, TPND and PDUNB.
+Table 8: Summary of OA Procedure-Related Adverse Events, Safety Population, PIONEER Pivotal Study
+Overall
+SYSTEM ORGAN CLASS N (%) of Subjects N of Events
+Preferred Term
+Total OA Procedure-Related AEs 10 (0.5) 11
+NERVOUS SYSTEM DISORDERS 7 (0.4) 7
+Paraesthesia 7 (0.4) 7
+INJURY, POISONING AND PROCEDURAL COMPLICATIONS 2 (0.1) 2
+Burns Second Degree 1 (0.1) 1
+Procedural Pain 1 (0.1) 1
+SKIN AND SUBCUTANEOUS TISSUE DISORDERS 2 (0.1) 2
+Erythema 1 (0.1) 1
+Skin Warm 1 (0.1) 1
+AE = adverse event; OA = Optoacoustic.
+Relevant safety data are summarized here from the PIONEER dataset for the 480
+subjects who contributed masses to the Reader-02 Pivotal Study.
+Of the 480 subjects who contributed masses for reading in the Reader-02 study,
+16 (3.3%) experienced at least one AE during the study, of which 6 (1.3%)
+occurred on the date of the Imagio procedure (Table 9). Three subjects (0.6%) had
+at least one Imagio procedure-related AE. There were no AEs that were graded as
+severe; 14 (2.9%) were considered mild and two (0.4%) were graded moderate.
+All Imagio procedure-related AEs were considered mild. Two subjects (0.4%)
+experienced a serious adverse event (SAE), neither of which was Imagio
+procedure-related; one experienced rupture of a saline breast implant, requiring
+revision surgery, and one was diagnosed with Stage I non-small cell lung cancer
+and underwent resection of the affected lobe in the right lung. There were no
+SADE or UADE.
+Table 9: Summary of Adverse Events, Reader-02 Population
+Biopsy No Biopsy
+Benign + TPB +
+Cancer High Benign TPB
+HR (N=300)
+Overall (N=180) Risk (N=237) (N=51)
+Parameter (Counts by Subject)
+(N=480) (N=12)
+At least one AE [n (%)] 16 (3.3) 12 (4.0) 4 (2.2) 0 7 (3.0) 5 (9.8)
+At least one AE on OA Procedure date [n (%)] 6 (1.3) 4 (1.3) 2 (1.1) 0 3 (1.3) 1 (2.0)
+At least one OA Procedure-related AE [n (%)] 3 (0.6) 2 (0.7) 1 (0.6) 0 1 (0.4) 1 (2.0)
+AEs by worst relationship [n (%)]
+Not related 13 (2.7) 10 (3.3) 3 (1.7) 0 6 (2.5) 4 (7.8)
+Possibly 0 0 0 0 0 0
+Probably 0 0 0 0 0 0
+Likely 3 (0.6) 2 (0.7) 1 (0.6) 0 1 (0.4) 1 (2.0)
+AEs by worst severity [n (%)]
+Mild 14 (2.9) 10 (3.3) 4 (2.2) 0 7 (3.0) 3 (5.9)
+PMA P200003: FDA Summary of Safety and Effectiveness Data 24 of 33Moderate 2 (0.4) 2 (0.7) 0 0 0 2 (3.9)
+Severe 0 0 0 0 0 0
+OA Procedure-related AEs by worst
+severity [n(%)]
+Mild 3 (0.6) 2 (0.7) 1 (0.6) 0 1 (0.4) 1 (2.0)
+Moderate 0 0 0 0 0 0
+Severe 0 0 0 0 0 0
+At least one SAE [n(%)] 2 (0.4) 2 (0.7) 0 0 1 (0.4) 1 (2.0)
+At least one OA Procedure-related SAE [n(%)] 0 0 0 0 0 0
+Serious Adverse Device Effect [n(%)] 0 0 0 0 0 0
+Unanticipated Adverse Device Effect [n(%)] 0 0 0 0 0 0
+TPB = Truth Panel benign; HR = High Risk; AE = Adverse Event; SAE = Serious Adverse Event; OA = Optoacoustic (Imagio breast Imaging
+System)
+Table 10 summarizes all AEs by system organ class (SOC) and preferred term
+(PT). There were no individual AEs that occurred at a rate of more than 1% in the
+overall cohort of 480 masses. Paraesthesia was the highest occurring AE with five
+subjects (1.0%) experiencing this event, four (1.3%) in the benign+TPB+HR
+group and one (0.6%) in the malignant group. All other AEs were a single
+instance.
+Table 10: Adverse Events by SOC and PT, Reader-02 Population
+Biopsy No Biopsy
+Overall Benign + TPB+ Cancer High Risk Benign TPB
+(N=480) HR (N=300) (N=180) (N=12) (N=237) (N=51)
+N(%) of N of N(%) of N of N(%) of N of N(%) of N of N(%) of N of N(%) of N of
+SYSTEM ORGAN CLASS
+Subjects Events Subjects Events Subjects Events Subjects Events Subjects Events Subjects Events
+Preferred Term
+Total Subjects with Any AE 16 (3.3) 19 12 (4.0) 14 4 (2.2) 5 0 0 7 (3.0) 7 5 (9.8) 7
+NERVOUS SYSTEM 5 (1.0) 5 4 (1.3) 4 1 (0.6) 1 0 0 3 (1.3) 3 1 (2.0) 1
+DISORDERS
+Paraesthesia 5 (1.0) 5 4 (1.3) 4 1 (0.6) 1 0 0 3 (1.3) 3 1 (2.0) 1
+INJURY, POISONING AND 4 (0.8) 4 3 (1.0) 3 1 (0.6) 1 0 0 2 (0.8) 2 1 (2.0) 1
+PROCEDURAL
+COMPLICATIONS
+Contusion 1 (0.2) 1 1 (0.3) 1 0 0 0 0 1 (0.4) 1 0 0
+Post Procedural Hematoma 1 (0.2) 1 1 (0.3) 1 0 0 0 0 1 (0.4) 1 0 0
+Procedural Dizziness 1 (0.2) 1 0 0 1 (0.6) 1 0 0 0 0 0 0
+Upper Limb Fracture 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+INFECTIONS AND 1 (0.2) 2 0 0 1 (0.6) 2 0 0 0 0 0 0
+INFESTATIONS
+Postoperative Wound Infection 1 (0.2) 2 0 0 1 (0.6) 2 0 0 0 0 0 0
+SKIN AND 2 (0.4) 2 2 (0.7) 2 0 0 0 0 1 (0.4) 1 1 (2.0) 1
+SUBCUTANEOUS TISSUE
+DISORDERS
+Dermatitis Contact 1 (0.2) 1 1 (0.3) 1 0 0 0 0 1 (0.4) 1 0 0
+Skin Warm 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+CARDIAC DISORDERS 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+PMA P200003: FDA Summary of Safety and Effectiveness Data 25 of 33Tachycardia 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+GENERAL 1 (0.2) 1 1 (0.3) 1 0 0 0 0 1 (0.4) 1 0 0
+DISORDERS AND
+ADMINISTRATION
+SITE CONDITIONS
+Device Breakage 1 (0.2) 1 1 (0.3) 1 0 0 0 0 1 (0.4) 1 0 0
+HEPATOBILIARY DISORDERS 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+Gallbladder Disorder 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+MUSCULOSKELETAL AND 1 (0.2) 1 0 0 1 (0.6) 1 0 0 0 0 0 0
+CONNECTIVE TISSUE
+DISORDERS
+Muscle Spasms 1 (0.2) 1 0 0 1 (0.6) 1 0 0 0 0 0 0
+SOC = System Organ Class; PT = Preferred Term; TPB = Truth Panel benign; HR = High Risk; AE = Adverse Event; OA = Optoacoustic
+(Imagio Breast Imaging System)
+Table 11 summarizes Imagio procedure-related AEs by SOC and PT. There was a
+total of three subjects (0.6%) with one or more Imagio procedure-related AEs.
+Three subjects (0.6%) experienced paraesthesia, and one (0.2%) of the three
+subjects also experienced skin warming.
+Table11: Imagio Procedure-Related Adverse Events by SOC and PT, Reader-02 Population
+Biopsy No Biopsy
+Overall Benign + TPB Cancer High Risk Benign TPB
+(N=480) + HR (N=180) (N=12) (N=237) (N=51)
+(N=300)
+N(%) of N of N(%) of N of N(%) of N of N(%) of N of N(%) of N of N(%) of N of
+SYSTEM ORGAN CLASS
+Subjects Events Subjects Events Subjects Events Subjects Events Subjects Events Subjects Events
+Preferred Term
+Total Subjects with OA 3 (0.6) 4 2 (0.7) 3 1 (0.6) 1 0 0 1 (0.4) 1 1 (2.0) 2
+Procedure- Related AE
+NERVOUS SYSTEM 3 (0.6) 3 2 (0.7) 2 1 (0.6) 1 0 0 1 (0.4) 1 1 (2.0) 1
+DISORDERS
+Paraesthesia 3 (0.6) 3 2 (0.7) 2 1 (0.6) 1 0 0 1 (0.4) 1 1 (2.0) 1
+SKIN AND SUBCUTANEOUS 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+TISSUE DISORDERS
+Skin Warm 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+SOC = System Organ Class; PT = Preferred Term; TPB = Truth Panel benign; HR = High Risk; AE = Adverse Event; OA = Optoacoustic
+(Imagio Breast Imaging System)
+Table 12 summarizes AEs occurring on the Imagio Breast Imaging System
+procedure date by SOC and PT. A total of six subjects (1.3%) experienced one or
+more AEs on the Imagio Breast Imaging System procedure date, of which five
+(1.0%) were paraesthesia. There were also single instances (0.2% each) of
+tachycardia, procedural dizziness and skin warming.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 26 of 33Table 12: Adverse Events Occurring on Imagio Procedure Date by SOC and PT, Reader-02 Population
+Biopsy No Biopsy
+Overall Benign + TPB Cancer High Risk Benign TPB
+(N=480) + HR (N=180) (N=12) (N=237) (N=51)
+(N=300)
+N(%) of N of N(%) of N of N(%) of N of N(%) of N of N(%) of N of N(%) of N of
+SYSTEM ORGAN CLASS
+Subjects Events Subjects Events Subjects Events Subjects Events Subjects Events Subjects Events
+Preferred Term
+Total Subjects 6 (1.3) 8 4 (1.3) 6 2 (1.1) 2 0 0 3 (1.3) 3 1 (2.0) 3
+with AE on OA
+Procedure Date
+NERVOUS SYSTEM 5 (1.0) 5 4 (1.3) 4 1 (0.6) 1 0 0 3 (1.3) 3 1 (2.0) 1
+DISORDERS
+Paraesthesia 5 (1.0) 5 4 (1.3) 4 1 (0.6) 1 0 0 3 (1.3) 3 1 (2.0) 1
+CARDIAC DISORDERS 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+Tachycardia 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+INJURY, POISONING 1 (0.2) 1 0 0 1 (0.6) 1 0 0 0 0 0 0
+AND PROCEDURAL
+COMPLICATIONS
+Procedural Dizziness 1 (0.2) 1 0 0 1 (0.6) 1 0 0 0 0 0 0
+SKIN AND 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+SUBCUTANEOUS
+TISSUE DISORDERS
+Skin Warm 1 (0.2) 1 1 (0.3) 1 0 0 0 0 0 0 1 (2.0) 1
+SOC = System Organ Class; PT = Preferred Term; TPB = Truth Panel benign; HR = High Risk; AE = Adverse Event; OA = Optoacoustic
+(Imagio Breast Imaging System)
+2. Effectiveness Results
+The analysis of effectiveness was based on the 480 evaluable patients used within
+the Reader-02 study. As mentioned above, this study is a subset of the original
+PIONEER study which was completed on an ITD population of 1972 patients.
+Key effectiveness outcomes are presented below.
+The Reader-02 Pivotal Study met its primary endpoint and demonstrated that
+Imagio Breast Imaging System has better specificity than IUS at fixed sensitivity
+of 98%.
+Specificity at a fixed sensitivity of 98% (fSp) and partial area under the ROC
+curve (pAUC) between sensitivities of 95% and 100% are metrics that assess the
+part of the ROC curve where the clinical decisions are actually made. Diagnostic
+likelihood ratios (DLR) can be calculated from sensitivity and specificity based
+on POM scores and can be useful in comparing technologies in breast imaging.
+The Reader-02 Study demonstrated that the Imagio Breast Imaging System
+supports the proposed indications for use statement as a diagnostic breast imaging
+device by meeting the primary endpoint.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 27 of 33Specificity at a fixed sensitivity of 98% (fSp)
+Specificity at a fixed sensitivity of 98% was analyzed using MRMC analysis (OR-
+DBM MRMC 2.51, https://perception.lab.uiowa.edu/). Mean (average over all
+readers) fSp was found to be higher with statistical significance (two-sided
+p=0.027) for IUS+OA (47.2%, 95% CI=[35.9%,58.5%]) compared to IUS alone
+(38.2%, 95% CI= [24.9%, 51.6%]), with a difference in fSp of 9.0% with 95%
+CI=[1.0%, 17.0%]. Thus, IUS+OA achieved the primary endpoint in the Reader-
+02 Pivotal Study. When the empirical ROC curve is used, interpolation is
+typically required to estimate fSp because 98% sensitivity may not fall onto the
+intrinsic grid for the empirical ROC curve. The results above were obtained using
+endpoint interpolation, which uses the specificities corresponding to the two
+sensitivities on the intrinsic grid that are closest to 98%. This is the default
+technique for the MRMC code used in the statistical analysis in this study.
+Midpoint interpolation, which has a slightly different formulation when a point
+used for interpolating the fSp lies on a horizontal line segment, provided similar
+results.
+Diagnostic Likelihood Ratios
+The observed mean NLR was 0.047 (95% CI: 0.032, 0.062) for IUS+OA
+suggesting that averaging over all 15 readers in the study a negative test read
+(POM ≤2%) was observed about 21 (i.e., 1/0.047) times more often among non-
+cancer cases, compared to those with cancer, and the observed mean NLR was
+0.053 (95% CI: 0.037, 0.070) for IUS alone suggesting that averaging over all 15
+readers in the study a negative read (POM≤2%) was observed about 19 (i.e.,
+1/0.053) times more often among non-cancer cases, compared to those with
+cancer. The decrease (i.e., improvement with IUS+OA compared to IUS alone) in
+NLR could not be established with statistical significance because the observed
+relative NLR (the ratio in NLR for IUS+OA and IUS) was 0.896 with a 95% CI=
+(0.693, 1.11) which included 1 indicating that no evidence of a difference in NLR
+was found. The confidence intervals above for NLR and the relative NLR do not
+take into consideration the variability in the reader population and are therefore
+applicable only to the set of radiologists who took part in the reader study. Since a
+sequential hierarchical testing to control the study type I error rate was pre-
+specified, and this was the second hypothesis test in the sequence, and decrease in
+NLR was not met (i.e., an improvement in NLR for IUS+OA compared to IUS
+alone could not be shown), not only improvement in NLR for IUS+OA compared
+to IUS alone cannot be claimed, but hypotheses test results from subsequent
+hypotheses (for the remaining secondary endpoints of PLR and partial ROC
+AUC) are not reported. The results reported below for PLR and Partial ROC AUC
+are considered descriptive or non-confirmatory (and no claims can be made about
+these).
+Based on descriptive statistics that do not control type I error and that cannot be
+generalized outside this particular study, the observed mean PLR was 1.959 (95%
+PMA P200003: FDA Summary of Safety and Effectiveness Data 28 of 33CI: 1.870, 2.051) for IUS+OA (only as a descriptive result this suggests that
+averaging over all 15 readers in the study a positive test read (POM>2%) was
+observed about 2 times more often among cases with cancer, compared to those
+without cancer), and the mean PLR was reported as 1.548 (95% CI: 1.498, 1.597)
+for IUS alone (only as a descriptive result this suggests that averaging over all 15
+readers in the study a positive test read (POM>2%) was observed about 1.5 times
+more often among cases with cancer, compared to those without cancer). The
+descriptive observed relative PLR was 1.281 (95% CI: 1.231, 1.298). The
+confidence intervals above for PLR and the relative PLR do not take into
+consideration the variability in the reader population and are therefore applicable
+only to the set of radiologists who took part in the reader study.
+Partial AUC under the ROC curve from 95%-100% sensitivity
+pAUC was lower in the hierarchical test order than NLR, which failed to achieve
+significance. Consequently, pAUC results are not part of the claim structure and
+are reported as descriptive statistics. The mean unscaled pAUC was 0.0244 (95%
+CI: 0.0230, 0.0258) for IUS+OA and 0.0205 (95% CI: 0.0191, 0.219) for IUS
+alone, a difference of 0.0039. All readers had a larger point estimate of pAUC for
+IUS+OA than for IUS alone.
+POM score distributions
+The following results are not part of the claim structure and are reported as only
+descriptive and non-confirmatory results. POM scores were analyzed by
+computing the mean score among the 15 readers for a given mass with IUS only
+or with IUS+OA. For IUS+OA, the mean POM for malignant masses was 70.7
+(95% CI: 66.86, 73,28) whereas the mean POM for benign masses was 15.90
+(95% CI: 13.65, 18.15). For IUS alone, the mean POM for malignant masses was
+65.23 (95% CI: 62.38, 68.08) whereas the mean POM for benign masses was
+16.41 (95% CI: 14.54, 18.28). The confidence intervals provided above apply
+only to the average POM score of the 15 readers who participated in the study,
+and do not generalize to the average POM scores of other readers or the POM
+scores of individual readers.
+Partial AUC and distribution of fSp per years of experience of readers
+The following scatter graphs (Figure 5) show the distribution of fSp and pAUC
+versus number of years of breast imaging experience for benign and for malignant
+masses.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 29 of 33Figure 5: Scatter graph of distribution of fSp (top) and pAUC (bottom) versus years of breast imaging
+experience for benign (left) and malignant (right) masses
+All reader received the same amount of training to prepare for the Reader-02
+reads.
+The SenoGram
+SenoGram classification performance was assessed with descriptive (non-
+confirmatory) ROC metrics (fSp, pAUC) and classification metrics (sensitivity
+and specificity) observed on the Reader-02 dataset (and no claims can be made
+about thses). fSp and pAUC were assessed based on the SenoGram inputs
+assigned by each reader in Reader02, and then averaged over the 15 readers.
+Sensitivity and specificity were assessed for each reader at a threshold of 2% for
+the SenoGram POM output and then averaged. Using endpoint interpolation, the
+PMA P200003: FDA Summary of Safety and Effectiveness Data 30 of 33average fSp was 44.1% (95% CI: 38.4%, 49.8%) and the average pAUC was
+0.0232 (95% CI: 0.0215, 0.0249). The average SenoGram sensitivity and
+specificity were 97.0% (95% CI: 96.0%, 97.9%) and 50.9% (95% CI: 46.0%,
+55.8%), respectively.
+The binary agreement between readers and SenoGram predictions was measured
+by comparing results for each case. Reader and SenoGram results agree if both
+predict positive (cancer) or both predict negative (benign). Readers agreed with
+the SenoGram results in 98.8% (2667/2700) of cancer cases, 93.3% (4197/4500)
+of benign+TPB+HR cases, and 95.3% (6864/7200) overall.
+3. Pediatric Extrapolation
+In this premarket application, existing clinical data was not leveraged to support
+approval of a pediatric patient population.
+D. Financial Disclosure
+The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+applicants who submit a marketing application to include certain information
+concerning the compensation to, and financial interests and arrangement of, any
+clinical investigator conducting clinical studies covered by the regulation. The
+pivotal clinical study included 15 independent readers. None of the clinical
+investigators were full-time or part-time employees of the sponsor and none had
+disclosable financial interests/arrangements as defined in sections 54.2(a), (b), (c),
+and (f). The information provided does not raise any questions about the reliability of
+the data.
+XI. PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+Medical Devices Act of 1990, this PMA was not referred to the Radiological Advisory
+Panel, an FDA advisory committee, for review and recommendation because the
+information in the PMA substantially duplicates information previously reviewed by this
+panel.
+XII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+A. Effectiveness Conclusions
+Nonclinical imaging tests in breast-mimicking tissue phantoms characterized and
+quantified image quality characteristics of the device. Test results demonstrated the
+device’s ability to detect blood vessel-mimicking targets and measure differences in
+target blood oxygen saturation. Phantom testing was also used to compare the final
+device design to the original device design used to collect images in the PIONEER
+PMA P200003: FDA Summary of Safety and Effectiveness Data 31 of 33study. This was necessary as the final device’s modified image processing algorithms
+were used to reprocess clinical images for use in the Reader-02 study.
+The Reader-02 Pivotal Study demonstrated that Imagio Breast Imaging System has
+better specificity than IUS at fixed sensitivity of 98%, and it showed that Imagio
+Breast Imaging System supports the proposed indications for use as a diagnostic
+breast imaging device.
+B. Safety Conclusions
+The risks of the device are based on nonclinical laboratory testing as well as data
+collected in a clinical study conducted to support PMA approval as described above.
+The device is a Class 3B laser product for external exposures (i.e., through the
+imaging probe) and Class 4 for internal exposures (i.e., during maintenance). Laser
+exposure is below known safety limits for skin and eye (when wearing appropriate
+laser safety eyewear). A small number of subjects reported minor AEs including
+paraesthesia, skin warming, and in one case a second-degree burn that may have
+actually been contact dermatitis.
+C. Benefit-Risk Determination
+The probable benefits of the device are determined based on data collected in a
+clinical study conducted to support PMA approval as described above. The primary
+benefit of the Imagio Breast Imaging System, using the OA image information, is
+improved classification of the mass of interest as compared to ultrasound alone in a
+group of women with BI-RADS 3-5 assessment based on ultrasound imaging.
+Additional potential benefits of the device include non-ionizing radiation, no
+significant compression of the breast such as that used in X-ray mammography, and
+no use of confined spaces such as those used for MRI.
+The probable risks of the device are also based on data collected in a clinical study
+conducted to support PMA approval as described above.
+The probable risks of the Imagio Breast Imaging System are in terms of diagnostic
+accuracy, i.e. false positive and false negative. A false positive test would lead to
+additional imaging evaluation that would be otherwise not be performed. The
+additional workup would result in increased expense for the patient and risk of
+additional discomfort and potential complications such as infection resulting from
+biopsy. The consequence of false negative would be delay in diagnosis, which would
+happen if the Imagio Breast Imaging System were not used.
+Additional factors to be considered in determining probable risks and benefits for the
+Imagio Breast Imaging System included: 1) physician’s complete involvement in the
+clinical decision making based on full patient history, 2) lack of an alternative product
+that would visualize the tissue oxygenation which has shown to be of critical
+PMA P200003: FDA Summary of Safety and Effectiveness Data 32 of 33importance in breast cancer, 3) high clinical significance of breast cancer screening
+and diagnosis at early stages of the disease, minimal adverse events that are primarily
+due to laser irradiation of the skin, a reversible effect, 4) appropriate training, and
+comprehensive labeling to allow optimal use of the device.
+Patient Perspective:
+This submission either did not include specific information on patient perspectives or the
+information did not serve as part of the basis of the decision to approve or deny the
+PMA for this device.
+In conclusion, the performance data support that the probable benefits of using Imagio
+Breast Imaging System for the proposed indications for use outweigh the probable risks.
+D. Overall Conclusions
+The data in this application support the reasonable assurance of safety and
+effectiveness of this device when used in accordance with the indications for use. The
+nonclinical studies demonstrated that the Imagio Breast Imaging System design met
+required specifications for safety and effectiveness. Phantom studies enabled
+characterization and quantification of image quality, vessel detectability, and
+oximetry measurement, thus establishing reasonable expectations and limitations for
+in vivo performance. The clinical study results suggest that the Imagio Breast Imaging
+System can result in improved classification of the mass of interest in group of
+women with BI-RADS 3-5 assessment; using the OA image information as compared
+to ultrasound alone.
+XIII. CDRH DECISION
+CDRH issued an approval order on 01/11/2021.
+The applicant’s manufacturing facilities have been inspected and found to be in
+compliance with the device Quality System (QS) regulation (21 CFR 820).
+XIV. APPROVAL SPECIFICATIONS
+Directions for use: See device labeling.
+Hazards to Health from Use of the Device: See Indications, Contraindications,
+Warnings, Precautions, and Adverse Events in the device labeling.
+Post-approval Requirements and Restrictions: See approval order.
+PMA P200003: FDA Summary of Safety and Effectiveness Data 33 of 33

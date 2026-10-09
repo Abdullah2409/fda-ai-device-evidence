@@ -1,0 +1,388 @@
+February 27, 2025
+Gleamer SAS
+℅ Antoine Tournier
+Chief Compliance Officer
+47bis rue des Vinaigriers
+PARIS, 75010
+FRANCE
+Re: K241620
+Trade/Device Name: ChestView US
+Regulation Number: 21 CFR 892.2070
+Regulation Name: Medical Image Analyzer
+Regulatory Class: Class II
+Product Code: MYN
+Dated: January 27, 2025
+Received: January 28, 2025
+Dear Antoine Tournier:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.K241620 - Antoine Tournier Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K241620 - Antoine Tournier Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lu Jiang
+Lu Jiang, Ph.D.
+Assistant Director
+Diagnostic X-Ray Systems Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureI
+DEPARTMENT OF HEAL TH AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+===============
+Submission Number (if known)
+I K241620
+Device Name
+I
+Ches!View US
+Indications for Use (Describe)
+ChestView US is a radiological Computer-Assisted Detection (CADe) software device that analyzes
+frontal and lateral chest radiographs of patients presenting with symptoms (e.g. dyspnea, cough,
+pain) or suspected for findings related to regions of interest (ROls) in the lungs, airways,
+mediastinum/hila and pleural space. The device uses machine learning techniques to identify and
+produces boxes around the ROls. The boxes are labeled with one of the following radiographic
+findings: Nodule, Pleural space abnormality, Mediastinum/Hila abnormality, and Consolidation.
+ChestView is intended for use as a concurrent reading aid for radiologists and emergency medicine
+physicians. It does not replace the role of radiologists and emergency medicine physicians or of
+other diagnostic testing in the standard of care. ChestView is for prescription use only and is
+indicated for adults only.
+Type of Use (Select one or both, as applicable)
+D
+IZ]
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."K241620
+510(k) Summary
+GLEAMER – ChestView US
+Date prepared: January 27th, 2025
+In accordance with 21 CFR 807.87(h) and 21 CFR 807.92 the 510(k) Summary for ChestView US is provided
+below.
+1. Submitter
+Submitter GLEAMER SAS
+47bis, rue des Vinaigriers
+75010, Paris 10, FRANCE
+Primary Contact Antoine Tournier
+Person Chief Compliance Officer
+Tel: 0033 6 15 81 23 45
+Email: antoine.tournier@gleamer.ai
+Alternate email: qara@gleamer.ai
+2. Device
+Trade Name ChestView US
+510(k) reference K241620
+Common Name Medical Image Analyzer
+Classification Name Medical Image Analyzer
+Regulation 21 CFR 892.2070
+Product Code MYN
+Classification Class II
+3. Predicate Device
+Predicate Device Aorta-CAD
+510(k) Reference K213353
+4. Device Description
+ChestView US is a radiological Computer-Assisted Detection (CADe) software device intended to analyze
+frontal and lateral chest radiographs for suspicious regions of interest (ROIs): Nodule, Consolidation, Pleural
+Space Abnormality and Mediastinum/Hila Abnormality.
+The nodule ROI category was developed from images with focal nonlinear opacity with a generally spherical
+shape situated in the pulmonary interstitium.
+The consolidation ROI category was developed from images with area of increased attenuation of lung
+parenchyma due to the replacement of air in the alveoli.
+The pleural space abnormality ROI category was developed from images with:510(k) Summary
+GLEAMER – ChestView US
+• Pleural Effusion that is an abnormal presence of fluid in the pleural space
+• Pneumothorax that is an abnormal presence of air or gas in the pleural space that separates the
+parietal and the visceral pleura
+The mediastinum/hila abnormality ROI category was developed from images with enlargement of the
+mediastinum or the hilar region with a deformation of its contours.
+ChestView US can be deployed on cloud and be connected to several computing platforms and X-ray imaging
+platforms such as radiographic systems, or PACS. More precisely, ChestView US can be deployed in the cloud
+connected to a DICOM Source/Destination with a DICOM Viewer, i.e. a PACS.
+After the acquisition of the radiographs on the patient and their storage in the DICOM Source, the
+radiographs are automatically received by ChestView US from the user’s DICOM Source through
+intermediate DICOM node(s) (for example, a specific Gateway, or a dedicated API). The DICOM Source can
+be the user’s image storage system (for example, the Picture Archiving and Communication System, or PACS),
+or other radiological equipment (for example X-ray systems).
+Once received by ChestView US, the radiographs are automatically processed by the AI algorithm to identify
+regions of interest. Based on the processing result, ChestView US generates result files in DICOM format.
+These result files consist of annotated images with boxes drawn around the regions of interest on a copy of
+all images (as an overlay). ChestView US does not alter the original images, nor does it change the order of
+original images or delete any image from the DICOM Source.
+Once available, the result files are sent by ChestView US to the DICOM Destination through the same
+intermediate DICOM node(s). Similar to the DICOM Source, the DICOM Destination can be the user’s image
+storage system (for example, the Picture Archiving and Communication System, or PACS), or other
+radiological equipment (for example X-ray systems). The DICOM Source and the DICOM Destination are not
+necessarily identical.
+The DICOM Destination can be used to visualize the result files provided by ChestView US or to transfer the
+results to another DICOM host for visualization. The users are then able to use them as a concurrent reading
+aid to provide their diagnosis.
+For each exam analyzed by ChestView US, a DICOM Secondary Capture is generated.
+If any ROI is detected by ChestView US, the output DICOM image includes a copy of the original images of
+the study and the following information:
+• Above the images, a header with the text “CHESTVIEW ROI” and the list of the findings detected in
+the image.
+• Around the ROI(s), a bounding box with a solid or dotted line depending on the confidence of the
+algorithm and the type of ROI written above the box:
+o Dotted-line Bounding Box: Identified region of interest when the confidence degree of the
+AI algorithm associated with the possible finding is above “high-sensitivity operating point”510(k) Summary
+GLEAMER – ChestView US
+and below “high specificity operating point” displayed as a dotted bounding box around the
+area of interest.
+o Solid-line Bounding Box: Identified region of interest when the confidence degree of the AI
+algorithm associated with the finding is above “high-specificity operating point” displayed
+as a solid bounding box around the area of interest.
+• Below the images, a footer with:
+o The scope of ChestView US to allow the user to always have available the list of ROI type
+that are in the indications for use of the device and avoid any risk of confusion or
+misinterpretation of the types of ROI detected by ChestView US.
+o The total number of regions of interest identified by ChestView US on the exam (sum of
+solid-line and dotted-line bounding boxes)
+If no ROI is detected by ChestView US, the output DICOM image includes a copy of the original images of
+the study and the text “NO CHESTVIEW ROI” with the scope of ChestView US to allow the user to always
+have available the list of ROI type that are in the indications for use of the device and avoid any risk of
+confusion or misinterpretation of the types of ROI detected by ChestView US. Finally, if the processing of the
+exam by ChestView US is not possible because it is outside the indications for use of the device or some
+information is missing to allow the processing, the output DICOM image includes a copy of the original
+images of the study and, in a header, the text “OUT OF SCOPE” and a caution message explaining the reason
+why no result was provided by the device.
+5. Intended use/ Indications for Use
+ChestView US is a radiological Computer-Assisted Detection (CADe) software device that analyzes frontal and
+lateral chest radiographs of patients presenting with symptoms (e.g. dyspnea, cough, pain) or suspected for
+findings related to regions of interest (ROIs) in the lungs, airways, mediastinum/hila and pleural space. The
+device uses machine learning techniques to identify and produces boxes around the ROIs. The boxes are
+labeled with one of the following radiographic findings: Nodule, Pleural space abnormality, Mediastinum/Hila
+abnormality, and Consolidation.
+ChestView US is intended for use as a concurrent reading aid for radiologists and emergency medicine
+physicians. It does not replace the role of radiologists and emergency medicine physicians or of other
+diagnostic testing in the standard of care. ChestView US is for prescription use only and is indicated for adults
+only.
+6. Substantial equivalence
+The predicate device for ChestView US is Aorta-CAD (K213353). Aorta-CAD has the following FDA-cleared
+Indications for Use:
+Aorta-CAD is a computer-assisted detection (CADe) software device that analyzes chest radiograph studies
+for suspicious regions of interest (ROIs). The device uses a deep learning algorithm to identify ROIs and
+produces boxes around the ROIs. The boxes are labeled with one of the following radiographic findings: Aortic
+calcification or Dilated aorta. Aorta-CAD is intended for use as a concurrent reading aid for physicians looking510(k) Summary
+GLEAMER – ChestView US
+for ROIs with radiographic findings suggestive of Aortic Atherosclerosis or Aortic Ectasia. It does not replace
+the role of the physician or of other diagnostic testing in the standard of care. Aorta-CAD is indicated for
+adults only
+Table 1 provides a comparison of the Indications for Use and Technological Characteristics of ChestView US
+to the predicate Aorta-CAD.510(k) Summary
+GLEAMER – ChestView US
+Features and Subject Device Predicate Device
+Characteristics Gleamer Imagen Inc.
+ChestView US Aorta-CAD (K213353)
+Regulation Information
+Classification 21 CFR 892.2070 – Medical image analyzer Same
+regulation
+Product Code MYN Same
+Regulation Medical image analyzers, including computer- Same
+Description assisted/aided detection (CADe) devices for
+mammography breast cancer, ultrasound breast lesions,
+radiograph lung nodules, and radiograph dental caries
+detection, is a prescription device that is intended to
+identify, mark, highlight, or in any other manner direct
+the clinicians' attention to portions of a radiology image
+that may reveal abnormalities during interpretation of
+patient radiology images by the clinicians. This device
+incorporates pattern recognition and data analysis
+capabilities and operates on previously acquired medical
+images.
+Indications for Use
+Image Modality X-ray Same
+Study type Chest Same
+Clinical Output When regions of interest (ROIs) are detected: Identify When regions of interest (ROIs) are
+and mark ROIs on chest radiographs and label the box detected: Identify and mark
+around the ROI as one of the following: Nodule, Pleural regions of interest (ROIs) on chest
+space abnormality, Mediastinum/Hila abnormality, and radiographs and label the box
+Consolidation. around the ROI as one of the
+following: Aortic calcification or
+When no ROI is detected: Mark the chest radiographs as Dilated aorta.
+“NO CHESTVIEW ROI” and provide the scope of the
+indications for use of ChestView US. When no ROI is detected: Mark
+the chest radiographs as “No
+Aorta-CAD ROI(s)”510(k) Summary
+GLEAMER – ChestView US
+Intended Users Radiologists/emergency medicine physicians Physicians
+Intended User Device intended for use as a concurrent reading aid for Same
+Workflow users interpreting chest radiographs
+Patient Adults with Chest Radiographs Same
+population
+Technological Information
+Machine Supervised Deep learning Same
+Learning
+Methodology
+Deployment Secure cloud-based processing and delivery of chest Same
+Platform radiographs
+Image Source Digital X-ray Same
+Image Viewing Image displayed on PACS system Same
+Table 1: Indications for Use and Technological Comparison between ChestView US and Aorta-CAD
+As outlined in the table above, ChestView US shares similar technological features with Aorta-CAD.
+ChestView US and Aorta-CAD both analyze chest radiographs and both detect, identify and categorize ROIs.
+ChestView US and Aorta-CAD are indicated for use as a concurrent reading aid. Both devices are intended
+as an aid to the user and not intended to replace the role of the user or of other diagnostic testing in the
+standard of care.
+ChestView US differs from Aorta-CAD in that ChestView US identifies and categorizes ROIs as one of four
+categories (Nodule, Pleural space abnormality, Mediastinum/Hila abnormality, and Consolidation)
+compared to Aorta-CAD which identifies and categorizes ROIs as one of two categories (Aortic calcification
+or Dilated aorta). Despite these differences in application, the primary purpose of both devices is to identify
+ROIs on chest X-rays for further consideration by the intended users. The differences in indications for use
+do not constitute a new intended use (as both devices are intended to assist physicians by identifying and
+marking ROIs in chest radiographs) and do not raise different questions of safety and effectiveness.
+Thus, ChestView US is considered substantially equivalent to its predicate device, Aorta-CAD.510(k) Summary
+GLEAMER – ChestView US
+7. Performance data
+7.1. Software Verification and Validation Testing
+Product verification and validation testing were conducted and documented as per the requirements of the
+FDA guidance “Content of Premarket Submissions for Device Software Functions” for a Basic
+Documentation Level. Nonclinical tests include unit, integration and system levels testing for the final
+software version. ChestView US performed as intended and all results observed were as expected. All
+software requirements and risk analysis have been successfully verified and traced.
+7.2. Bench testing
+Gleamer conducted a standalone clinical performance study on 3,884 chest radiograph cases representative
+of the intended use population. The results of the standalone testing demonstrated that ChestView US
+detects ROIs with high Area Under the Curve (AUC) of the Receiver Operating Characteristic (ROC) curve,
+high sensitivity and high specificity:
+Table 2: AUC of the ROC Curve for ChestView US Model Predictions by ROI
+ROIs AUC 95% Bootstrap CI
+NODULE 0.93 [0.921; 0.938]
+MEDIASTINUM/HILA ABNORMALITY 0.922 [0.91; 0.934]
+CONSOLIDATION 0.952 [0.947; 0.957]
+PLEURAL SPACE ABNORMALITY 0.973 [0.97; 0.975]
+Table 3: Specificity/Sensitivity (with 95% Bootstrap CI, at both operating points) of ChestView US at the exam/patient
+level on the standalone dataset
+ROIs Specificity/Sensitivity
+High-sensitivity operating point High-specificity operating point
+(POSSIBLE FINDINGS) (FINDINGS)
+Specificity – 95% Sensitivity – 95% Specificity – 95% Sensitivity – 95%
+Bootstrap CI Bootstrap CI Bootstrap CI Bootstrap CI
+NODULE 0.956 [0.948; 0.963] 0.829 [0.801; 0.86] 0.994 [0.99; 0.996] 0.482 [0.455; 0.518]
+MEDIASTINUM/HILA
+0.975 [0.971; 0.98] 0.793 [0.739; 0.832] 0.992 [0.99; 0.994] 0.535 [0.475; 0.592]
+ABNORMALITY
+CONSOLIDATION 0.946 [0.938; 0.952] 0.853 [0.822; 0.879] 0.985 [0.981; 0.989] 0.61 [0.583; 0.643]
+PLEURAL SPACE
+0.965 [0.958; 0.971] 0.892 [0.87; 0.911] 0.975 [0.97; 0.981] 0.87 [0.85; 0.896]
+ABNORMALITY
+7.3. Clinical Testing
+Gleamer conducted a fully-crossed multiple reader, multiple case (MRMC) retrospective reader study to
+determine the impact of ChestView US on reader performance in detecting Regions of Interest from the
+ChestView US’s indications for use on chest radiograph cases.510(k) Summary
+GLEAMER – ChestView US
+The primary objective of this study was to determine whether the accuracy of readers (radiologists and
+emergency medicine physicians) aided by ChestView US (“Aided”) was superior to the accuracy of readers
+when unaided by ChestView US (“Unaided”) as determined by the case-level Area Under the Curve (AUC)
+of the Receiver Operating Characteristic (ROC) curve. The specificity and the sensitivity for each of the four
+categories of ROI detected by ChestView US was also reported at the case-level and ROI level.
+Clinical readers each evaluated 240 cases in ChestView US’s Indications for Use under both Aided and
+Unaided conditions. Each case was previously evaluated by a panel of U.S. board-certified radiologists who
+assessed the presence or absence of ROI from the indications for use of ChestView US.
+The MRMC study consisted of two independent reading sessions separated by a washout period of at least
+1 month in order to avoid memory bias.
+For each case, each reader was required to determine if there is at least one ROI from the indications for
+use of ChestView US in the exam and to provide a confidence score representing their certainty. The
+accuracy of both readers specialties, radiologists and emergency medicine physicians, in the intended use
+population was superior when aided by ChestView US than when unaided by ChestView US for each
+category as calculated with the 95% Bootstrap confidence interval modeling approach.
+The results of the study found that the diagnostic accuracy of readers in the intended use population is
+superior when aided by ChestView US than when unaided by ChestView US.
+The results of the clinical study are shown in Figure 1 to Figure 4 below.
+Figure 1: Reader Study Results - Aided and Unaided ROC Figure 2: Reader Study Results - Aided and Unaided ROC
+Curves for Pleural space abnormality Curves for Consolidation510(k) Summary
+GLEAMER – ChestView US
+Figure 3: Reader Study Results - Aided and Unaided ROC Figure 4: Reader Study Results - Aided and Unaided ROC
+Curves for Mediastinum/hila abnormality Curves for Nodule
+In particular, the clinical study results demonstrated improvements when Aided versus Unaided:
+• Reader AUC estimates for both specialties significantly improved for all four categories (p-values <
+0.001).
+• More precisely:
+o For Nodule Detection the difference in AUC at the exam/patient level between aided and
+unaided reads was 0.136 (95% CI [0.107, 0.17]) for emergency medicine physicians and
+0.038 (95% CI [0.026, 0.052]) for radiologists.
+o For Mediastinum/Hila Abnormality Detection the difference in AUC at the exam/patient
+level between aided and unaided reads was 0.158 (95% CI [0.14, 0.178]) for emergency
+medicine physicians and 0.057 (95% CI [0.039, 0.077]) for radiologists.
+o For Consolidation Detection the difference in AUC at the exam/patient level between aided
+and unaided reads was 0.099 (95% CI [0.083, 0.116]) for emergency medicine physicians
+and 0.059 (95% CI [0.038, 0.079]) for radiologists.
+o For Pleural Space Abnormality Detection the difference in AUC at the exam/patient level
+between aided and unaided reads was 0.127 (95% CI [0.078, 0.18]) for emergency medicine
+physicians and 0.034 (95% CI [0.019, 0.049]) for radiologists.
+8. Conclusion
+The conclusions drawn from the standalone and clinical studies demonstrate that ChestView US is as safe,
+as effective, and performs as well as Aorta-CAD. The special controls for the Medical Image Analyzer (CADe)
+21 CFR 892.2070 regulation are satisfied by demonstrating effectiveness of the device in both the standalone
+testing and the clinical testing, showing superiority of Aided versus Unaided reads in the clinical testing, and
+communicating testing results in the labeling. ChestView US’s technological characteristics, including but not
+limited to the intended end-users, imaging modality, output display on X-ray studies, and assistive
+functionality during chest radiograph interpretation workflows, are similar to those of Aorta-CAD. Thus,
+ChestView US is substantially equivalent to Aorta-CAD for the intended use of computer-assisted detection.

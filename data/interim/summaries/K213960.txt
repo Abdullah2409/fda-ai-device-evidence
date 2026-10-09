@@ -1,0 +1,411 @@
+September 6, 2022
+Perspectum Ltd.
+℅ Ioan Wigley
+Head of Regulatory Affairs
+Gemini One
+5520 John Smith Drive
+Oxford, Oxfordshire OX 2LL
+UNITED KINGDOM
+Re: K213960
+Trade/Device Name: LiverMultiScan v5 (LMSv5)
+Regulation Number: 21 CFR 892.1000
+Regulation Name: Magnetic resonance diagnostic device
+Regulatory Class: Class II
+Product Code: LNH
+Dated: July 26, 2022
+Received: July 26, 2022
+Dear Ioan Wigley:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.00
+Silver Spring, MD 20993
+www.fda.govK213960 - Ioan Wigley Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D.
+Assistant Director
+Magnetic Resonance and Nuclear Medicine Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureLMSv5 510(k) Summary
+Date Prepared: 01 September 2022 K213960
+Submitter Details
+Owner Address: Perspectum Ltd
+Gemini One,
+5520 John Smith Drive,
+Oxford Business Park,
+Oxford,
+OX4 2LL
++44 (0) 1865 655329
+Owner/Operator Number: 10056574
+Establishment Registration Number: 3014232555
+Contact Person: Ioan Wigley
+Ioan.Wigley@perspectum.com
++44 (0) 1865 655329
+Subject and Predicate Devices
+Subject Device Primary Predicate Device Secondary Predicate Device
+510(k) number Not known K202170 K043271
+Legal Manufacturer Perspectum Ltd. Perspectum Ltd. Inner Vision Biometrics Pty
+Owner/Owner Operator 10056574 10056574 Ltd / /
+NDeuvmicbee Nr ame LiverMultiScan v5.0.0 LiverMultiScan v4.0.0 R2-MRI Analysis System
+(FerriScan)
+Proprietary/Common LiverMultiScan, LMSv5, LMS LiverMultiScan, LMSv4, LMS FerriScan
+nPaanmeel Radiology Radiology Radiology
+Regulation 892.1000 892.1000 892.1000
+Risk Class Class II Class II Class II
+Product Class code LNH LNH LNH
+Classification System, Nuclear Magnetic System, Nuclear Magnetic System, Nuclear Magnetic
+Resonance Imaging Resonance Imaging Resonance Imaging
+Page 1 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Subject Device
+General Description
+LiverMultiScan v5 (LMSv5) is a standalone software device. The purpose of the LiverMultiScan v5 device is to assist a
+trained operator with the evaluation of information from Magnetic Resonance (MR) images from a single time-point (a
+patient visit).
+LiverMultiScan is a post-processing software device, a trained operator uses tools within the device interface to quantify
+liver tissue characteristics from parametric maps. LiverMultiScan v5 includes automatic processing functionality based
+on machine-learning to assist in the quantification of metrics during analysis, such as automatic artefact detection and
+automatic segmentation of the liver. A summary report from the analysis conducted is generated for interpretation by
+a clinician.
+LiverMultiScan v5 is not intended to replace the established procedures for the assessment of a patient’s liver health
+by a clinician, providing many opportunities for competent human intervention in the clinical care of patients.
+The metrics are intended to be used as an additional diagnostic input to provide information to clinicians as part of a
+wider diagnostic process. It is expected that in the normal course of clinical care, patients will present with clinical
+symptoms or risk factors which may indicate liver disease. The interpreting clinician needs to take into consideration
+the device’s limitations and accuracy during clinical interpretation.
+Information gathered through existing diagnostic tests and clinical evaluation of the patient, as well as information
+obtained from LiverMultiScan v5 metrics, may contribute to a diagnostic decision.
+LiverMultiScan v5 is not a computer-aided diagnostic device and can only present imaging information which must be
+interpreted by a qualified clinician. LiverMultiScan v5 is an aid to diagnosis; the diagnosis and treatment decisions
+remain the responsibility of the clinician.
+Intended Use and Indications for Use
+LiverMultiScan v5 (LMSv5) is indicated for use as a magnetic resonance diagnostic device software application for non-
+invasive liver evaluation that enables the generation, display and review of 2D magnetic resonance medical image data
+and pixel maps for MR relaxation times.
+LMSv5 is designed to utilize DICOM 3.0 compliant magnetic resonance image datasets, acquired from compatible MR
+Systems, to display the internal structure of the abdomen including the liver. Other physical parameters derived from
+the images may also be produced.
+LMSv5 provides several tools, such as automated liver segmentation and region of interest (ROI) placements, to be used
+for the assessment of selected regions of an image. Quantitative assessment of selected regions includes the
+determination of triglyceride fat fraction in the liver (PDFF), T2*, LIC (Liver Iron Concentration) and iron corrected T1
+(cT1) measurements.
+These images and the physical parameters derived from the images, when interpreted by a trained clinician, yield
+information that may assist in diagnosis.
+Indications and contraindications
+LiverMultiScan is indicated for use where MRI is not contraindicated.
+Contraindications
+LiverMultiScan is indicated for use where MRI is not contraindicated.
+Page 2 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Intended Conditions
+LiverMultiScan is not intended to be used for use on any specific disease or condition, but the information provided in
+the report, when interpreted by a licensed physician, may benefit the clinical management, including diagnosis and
+monitoring of patients.
+Standalone Software
+LiverMultiScan is a post-processing software device. All operations and features are directly controlled by the
+LiverMultiScan device. LiverMultiScan does not control other firmware or software outside of the device
+Page 3 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Subject and Predicate Comparison
+The following characteristics were compared between the subject device and the predicate device in order to demonstrate substantial equivalence.
+Characteristi LMSv5 (Subject device) LMSv4 (Primary Predicate Device) R2-MRI Analysis System
+c (FerriScan) (Secondary
+Predicate)
+Intended LiverMultiScan v5 (LMSv5) is LiverMultiScan (LMSv4) is indicated For the analysis of multi-
+Use indicated for use as a magnetic for use as a magnetic resonance slice, spin-echo MRI data
+resonance diagnostic device software diagnostic device software sets of the liver for the
+application for non-invasive liver application for non-invasive liver measurement of liver R2
+evaluation that enables the evaluation that enables the and liver iron concentration.
+generation, display and review of 2D generation, display and review of 2D
+magnetic resonance medical image magnetic resonance medical image
+data and pixel maps for MR relaxation data and pixel maps for MR relaxation
+times. times.
+LMSv5 is designed to utilize DICOM LiverMultiScan (LMSv4) is designed to
+3.0 compliant magnetic resonance utilize DICOM 3.0 compliant magnetic
+image datasets, acquired from resonance image datasets, acquired
+compatible MR Systems, to display from compatible MR systems, to
+the internal structure of the abdomen display the internal structure of the
+including the liver. Other physical abdomen including the liver. Other
+parameters derived from the images physical parameters derived from the
+may also be produced. images may also be produced.
+Page 4 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Characteristi LMSv5 (Subject device) LMSv4 (Primary Predicate Device) R2-MRI Analysis System
+c (FerriScan) (Secondary
+Predicate)
+LMSv5 provides several tools, such as LiverMultiScan (LMSv4) provides a
+automated liver segmentation and number of tools, such as automated
+region of interest (ROI) placements, liver segmentation and region of
+to be used for the assessment of interest (ROI) placements, to be used
+selected regions of an image. for the assessment of selected
+Quantitative assessment of selected regions of an image. Quantitative
+regions includes the determination of assessments of selected regions
+triglyceride fat fraction in the liver include the determination of
+(PDFF), T2*, LIC (Liver Iron triglyceride fat fraction in the liver
+Concentration) and iron corrected T1 (PDFF), T2* and iron-corrected T1
+(cT1) measurements. (cT1) measurements. T2* may be
+optionally computed using the DIXON
+or LMS MOST methods.
+These images and the physical These images and the physical
+parameters derived from the images, parameters derived from the images,
+when interpreted by a trained when interpreted by a trained
+clinician, yield information that may clinician, yield information that may
+assist in diagnosis. assist in diagnosis.
+Indications Same as intended use Same as intended use The R2-MRI Analysis System
+for Use is an accessory diagnostic
+device to MRI scanners and
+is intended for diagnostic
+use to present images that
+reflect the magnetic
+resonance spectra for the
+determination of iron on the
+liver.
+Page 5 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Characteristi LMSv5 (Subject device) LMSv4 (Primary Predicate Device) R2-MRI Analysis System
+c (FerriScan) (Secondary
+Predicate)
+Target Patients suitable to undergo an MRI Patients suitable to undergo an MRI Patients suitable to undergo
+Population scan and not contra-indicated for MRI scan and not contra-indicated for MRI an MRI scan and not contra-
+indicated for MRI
+Device User Trained Perspectum internal operator Trained Perspectum internal operator Resonance Health’s trained
+analyst
+Report User An interpreting clinician or healthcare An interpreting clinician or healthcare An interpreting clinician or
+practitioner practitioner healthcare practitioner
+Device Use Installation of LiverMultiScan v5 is Installation of LMSv4 is controlled and Image analysis and LIC
+Environment controlled and is installed on general is installed on general purpose reporting is performed at a
+purpose workstations that meet the workstations that meet the minimum central ISO 13485 certified
+minimum technical requirements at technical requirements at Service Centre. Hosting
+Perspectum’s image analysis centre Perspectum’s image analysis centre platform is resonance
+by specialist members of staff. by specialist members of staff. health’s internal server.
+Clinical LiverMultiScan v5 is a standalone LMSv4 is a standalone post- FerriScan is a standalone
+Setting post-processing software device that processing software device that is software tool that is
+is intended to be installed on general intended to be installed on general intended to be used by
+use workstations at Perspectum’s use workstations at Perspectum’s Resonance Health’s trained
+image analysis centre. image analysis centre. analyst, FerriScan is installed
+and runs on the Resonance
+Operators use LMSv5 to conduct Operators use LMS to conduct Health’s internal server.
+quantitative analysis of liver tissue quantitative analysis of liver tissue
+characteristics to produce a report. characteristics to produce a report. The report result is overseen
+The end-users for the output from The end-users for the output from by the radiologist and the
+the device, the report, are clinicians the device, the report, are clinicians final decision for clinical
+who receive and interpret who receive and interpret LMSv4 management of the patient
+LiverMultiScan (LMSv5) reports. reports. is made by their treating
+clinician.
+Anatomical Abdomen, including the liver Abdomen, including the Liver Abdomen, including the
+Location Liver.
+Page 6 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Characteristi LMSv5 (Subject device) LMSv4 (Primary Predicate Device) R2-MRI Analysis System
+c (FerriScan) (Secondary
+Predicate)
+Energy LiverMultiScan v5 is a standalone LMS is a standalone software FerriScan is a standalone
+software application, it does not application, it does not deliver, software application. It does
+deliver, monitor or depend on energy monitor or depend on energy not deliver, monitor or
+delivered to or from patients. delivered to or from patients. depend on energy delivered
+to or from patients.
+Design: LiverMultiScan v5 is a standalone LMS is a standalone software FerriScan is intended for:
+Purpose software application that imports MR application that imports MR data sets • Supporting clinical
+data sets encompassing the encompassing the abdomen, diagnoses about the
+abdomen, including the liver. including the liver. Visualisation and status of liver iron
+Visualisation and display of 2D multi- display of 2D multi-slice, spin-echo concentration.
+slice, spin-echo MR data can be MR data can be analysed and • Supporting the
+analysed and quantitative metrics of quantitative metrics of tissue subsequent clinical
+tissue characteristics are then characteristics are then reported. decision-making
+reported. processes.
+Datasets imported into LMS are • Supporting the use in
+Datasets imported into DICOM 3.0 compliant, reported clinical research trials,
+LiverMultiScan (LMSv5) are DICOM metrics are independent of the MRI directed at studying
+3.0 compliant, reported metrics are equipment vendor. changes in liver iron
+independent of the MRI equipment concentration as a
+vendor. result of interventions.
+• It contains an image
+viewer for importing
+DICOM images,
+browsing through
+patient datasets,
+viewing images and
+performing region of
+interest analysis
+Page 7 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Characteristi LMSv5 (Subject device) LMSv4 (Primary Predicate Device) R2-MRI Analysis System
+c (FerriScan) (Secondary
+Predicate)
+Design: Tools Allows for the visualisation via Allows for the visualisation via Allows for the visualisation
+parametric maps and quantification parametric maps and quantification of images that reflect the
+of metrics (cT1, LIC and PDFF) from of metrics (cT1, T2* and PDFF) from magnetic resonance spectra
+liver tissue and exportation of results liver tissue and exportation of results for the determination of
+& images to a deliverable report. & images to a deliverable report. iron on the liver. It contains
+an image viewer for
+Quantification is through either full Quantification is through either full • importing DICOM
+segmentation of the outer liver segmentation of the outer liver images,
+contour and liver vasculature or contour and liver vasculature or • browsing through
+manual placement of ROI’s on the manual placement of ROI’s on the patient datasets,
+parametric maps. IQR and median parametric maps. IQR and median • viewing images and
+metrics are reported from the metrics are reported from the performing ROI analysis.
+segmentation/ROI quantification. segmentation/ROI quantification.
+automatically detects artefacts on the
+and are delineated on the parametric
+map computed images as well as
+recommends slices to be used as the
+quantitative output of the device.
+Design: MR T1, iron corrected T1 (cT1) mapping T1, iron corrected T1 (cT1) and T2* R2 (Signal Decay Rate)
+Relaxometry and LIC mapping mapping
+Design: Liver Utilizes MR images that exploit the Utilizes MR images that exploit the N/A
+Fat difference in resonance frequencies difference in resonance frequencies
+Quantificatio between hydrogen nuclei in water between hydrogen nuclei in water
+n and triglyceride fat using the and triglyceride fat using the LMS
+LiverMultiScan v5 IDEAL method. IDEAL method.
+Design: Iron corrected T1 (cT1), Proton Iron corrected T1 (cT1), T2* and FerriScan calculates the
+Parametric Density Fat Fraction (PDFF) and LIC Proton Density Fat Fraction (PDFF) signal decay rate (R2) that is
+Maps parametric maps can be created from parametric maps can be created from used to characterise iron
+all supported scanners. all supported scanners. loading in the liver. It
+produces an output report
+Page 8 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Characteristi LMSv5 (Subject device) LMSv4 (Primary Predicate Device) R2-MRI Analysis System
+c (FerriScan) (Secondary
+Predicate)
+It is possible to use the LIC maps and It is possible to use the T2* and PDFF comprising R2 which is
+knowledge of the measurements and maps and knowledge of the T2* and transformed by a defined
+the scanner field strength to correct PDFF measurements and the scanner calibration curve into a
+for signal changes related to iron field strength to correct for signal quantitative measure of liver
+deposits, producing a cT1 map. The changes related to iron deposits, iron concentration in vivo.
+cT1 map eliminates the effects of producing a cT1 map. The cT1 map FerriScan presents images
+elevated iron from the T1 eliminates the effects of elevated iron that reflect the magnetic
+measurement (3) and standardizes from the T1 measurement (3) and resonance spectra for iron
+for the fat signal across scanner standardizes for the fat signal across determination on the liver.
+manufacturers. scanner manufacturers.
+PDFF is quantified using the LMS PDFF is quantified using the LMS
+IDEAL method. Parametric maps of IDEAL method. Parametric maps of
+LIC are quantified using the LMS T2* may optionally be computed
+MOST method. using either the three-point DIXON
+method or the LMS MOST method.
+LMSv5 uses the measured T2* value
+and uses them to characterise iron
+loading in the liver which is then
+transformed by a defined calibration
+curve to provide a quantitative
+measure of liver iron concentration in
+vivo. LMSv5 presents images that
+reflect the magnetic resonance
+spectra for iron determination on the
+liver.
+Design: Numerous views within the Numerous views within the LMSv4 Visualisation of multi-slice,
+Visualisation LiverMultiScan v5 interface can be interface can be used to assist in spin-echo MRI data sets
+used to assist in analysis of Iron analysis, Iron-corrected T1 (cT1), T2* encompassing the
+corrected T1 (cT1), triglyceride fat and triglyceride fat (also known as abdomen.
+(also known as Proton Density Fat Proton Density Fat Fraction (PDFF)) Software tool calculates the
+Fraction (PDFF)) and LIC parametric parametric maps can be created from signal decay rate (R2) that is
+Page 9 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Characteristi LMSv5 (Subject device) LMSv4 (Primary Predicate Device) R2-MRI Analysis System
+c (FerriScan) (Secondary
+Predicate)
+maps can be created from all all supported scanners. R2 maps can used to characterise iron
+supported scanners. also be utilised to assess the quality loading in the liver, which is
+of the map fitting. then transformed by a
+Parametric maps displayed using the Iron- corrected T1 (cT1) displayed defined calibration curve to
+LMSv5 colourmap, designed to have using LMSv4 colourmap, designed to provide a quantitative
+maximum contrast on liver have maximum contrast on liver measure of liver iron
+parenchymal tissue. parenchymal tissue. concentration in vivo.
+LIC is displayed on a map
+and histogram within the
+FerriScan LIC report.
+Design: DICOM 3.0 compliant MR data from DICOM 3.0 compliant MR data from DICOM Image Format.
+Supported supported MRI scanners. supported MRI scanners. Functionality independent
+Modalities of MRI equipment vendor.
+Page 10 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printedLMSv5 510(k) Summary
+Differences between subject and predicate devices
+• The LMSv5 device offers additional quantification tools in its interface that are not available in the primary
+predicate device, LMSv4. LMSv5 automatically detects artefacts on the and are delineated on the parametric map
+computed images as well as recommends slices to be used as the quantitative output of the device. Artefact
+areas are overlayed on the parametric maps to assist in quantification and interpretation.
+• LMSv5 uses the measured T2* values to characterise iron loading in the liver which is transformed by a defined
+calibration curve to provide a quantitative measure of liver iron concentration (LIC) in vivo. LMSv5 presents
+images that reflect the magnetic resonance spectra for iron determination on the liver. The primary predicate
+device does not offer quantification of LIC. However, the secondary predicate, R2-MRI Analysis System
+(FerriScan) also produces an outputted report comprising measured R2 values that are transformed by a defined
+calibration curve into a quantitative measure of liver iron concentration.
+Software and Performance Testing
+All product specifications were verified and the overall ability of the product to meet user needs was validated. Testing
+was performed according to internal company procedures. Software testing and validation were conducted according
+to written test protocols established before testing was conducted. Software verification and validation testing were
+conducted, and documentation was provided as detailed in FDA’s Guidance for Industry and FDA Staff: “Guidance for
+the content of Premarket Submissions for Software Contained in Medical Devices.” The software level of concern for
+LiverMultiScan v5 is Moderate, as per FDA's guidance document "Guidance for the Content of Premarket Submissions
+for Software Contained in Medical Devices". This device does not control a life supporting or life-sustaining device, nor
+does it control the delivery of a potentially harmful energy. This device does not control the delivery of treatment, and
+it does not provide diagnostic information, nor does it provide any vital signs monitoring. The hazard analysis identifies
+the potential software-related risks of using the device, and the mitigations implemented.
+Bench testing included functional verification to ensure software installation, licensing, labeling, and feature
+functionality all met design requirements. The accuracy and precision of device measurements was assessed using
+purpose-built phantoms containing vials with different relaxation times corresponding to the physiological ranges of
+tissue values expected to be seen in-vivo. To assess the precision of LiverMultiScan v5 measurements across supported
+scanners, in-vivo volunteer data was used. Volunteers participating in the performance testing were representative of
+the intended patient population. Inter and intra operator variability was also assessed.
+LiverMultiScan v5 underwent performance testing under controlled conditions to corroborate that it is safe and
+effective when used as intended. The performance testing conducted demonstrates that LiverMultiScan v5 is at least
+as safe and effective as the predicate devices.
+Conclusion
+LiverMultiScan v5 has the same intended use and similar technological characteristics as the predicate devices,
+LiverMultiScan v4 and Ferriscan. Software and Performance testing corroborate the differences between the subject
+device and the predicates do not result in a new intended use and do not raise any questions of safety and effectiveness.
+It can be concluded that LiverMultiScan v5 is substantially equivalent to the listed predicate devices.
+Page 11 of 11
+LMSv5 510(k) Summary v2.0
+Uncontrolled if printed

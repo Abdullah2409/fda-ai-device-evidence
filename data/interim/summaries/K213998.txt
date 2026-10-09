@@ -1,0 +1,322 @@
+Circle Cardiovascular Imaging, Inc.
+℅ Sydney Toutant
+Regulatory Affairs Lead
+Suite 1100 - 800 5th Ave. SW
+Calgary, Alberta T2P 3T6
+CANADA
+7/28/2022
+Re: K213998
+Trade/Device Name: cvi42 Auto Imaging Software Application
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH, LLZ
+Dated: June 27, 2022
+Received: June 28, 2022
+Dear Sydney Toutant:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.govK213998 - Sydney Toutant Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK213998 - cvi42 Auto 510(k) Summary
+The following 510(k) summary of safety and effectiveness information is submitted in accordance
+with the requirements of the Safe Medical Device Act 1990 and 21 CFR 807.92(c).
+I. SUBMITTER
+Submitter’s Name: Circle Cardiovascular Imaging Inc.
+Address: Suite 1100 – 800 5th Ave SW, Calgary, AB, Canada, T2P 3T6
+Date Prepared: July 25 2022
+Telephone Number: +1 587 747 4692
+Contact Person: Sydney Toutant
+Email: sydney.toutant@circlecvi.com
+II. DEVICE
+Name of the Device: cvi42 Auto Imaging Software Application
+Short Brand Name: cvi42 Auto
+Common or Usual Name: Automated Radiological Image Processing System
+Classification Name: Medical image management and processing system
+Proposed Classification: Device Class: II
+Primary Product Code: QIH
+Secondary Product Code: LLZ
+Regulation Number: 21 CFR 892.2050
+III. PREDICATE DEVICES
+The primary predicate is cmr42 manufactured by Circle Cardiovascular Imaging Inc. under
+K082628. cvi42, manufactured by Circle Cardiovascular Imaging Inc. under K141480, is used as
+a secondary predicate device and ct42, manufactured by Circle Cardiovascular Imaging Inc. under
+K111373, is used as a tertiary predicate device. The predicate devices have not been subject to
+a design-related recall.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 1 of 9K213998 - cvi42 Auto 510(k) Summary
+IV. DEVICE DESCRIPTION
+cvi42 Auto is a software as a medical device (SaMD) that is intended for evaluating CT and MR
+images of the cardiovascular system. Combining digital image processing, visualization,
+quantification, and reporting tools, cvi42 Auto device is designed to support the physician in
+confirming the presence or absence of physician-identified lesion in blood vessels and evaluation,
+documentation and follow up of any such lesions.
+cvi42 Auto uses machine learning techniques to aid in semi-automatic contouring of regions of
+interest of cardiac magnetic resonance (MR) or computed tomography (CT) images as follows:
+1. Cardiac Function: semi-automatic contouring of the four heart chambers (including left
+ventricle, left atrium, right ventricle, right atrium) in MR images.
+2. Calcium Assessment: using pixel intensity technique, identify calcified plaque in major
+coronary arteries in non-contrast enhanced CT images.
+3. Coronary Analysis: semi-automatic placement of centerline in coronary vessels to
+visualize the coronary arteries and assess stenosis in non-contrast enhanced CT images.
+The data used to train these machine learning algorithms were sourced from multiple clinical sites
+from urban centers and from different countries. When selecting data for training, the importance
+of model generalization was considered and data was selected such that a good distribution of
+patient demographics, scanner, and image parameters were represented. The separation into
+training versus validation datasets is made on the study level to ensure no overlap between the
+two sets. As such, different scans from the same study were not split between the training and
+validation datasets. None of the cases used for model validation were used for training the
+machine learning models.
+cvi42 Auto software has a graphical user interface which allows users to analyze cardiac images
+qualitatively and quantitatively for volume/mass, function and signal intensity changes including
+a reporting function.
+The device can be integrated into a hospital, private practice environment, or medical research
+institution and provides clinical diagnosis decision support tools for the cardiovascular MR and
+CT technique.
+Additionally, the software is designed to generate 3D view of the heart in CT images for qualitative
+assessment of the coronary artery. No quantitative assessment can be made from the 3D image.
+The software does not interface directly with any data collection equipment; instead, the software
+uploads data files previously generated by such equipment. Its functionality is independent of the
+type of vendor acquisition equipment. The analysis results are available on-screen and can be
+saved within the software for future review.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 2 of 9K213998 - cvi42 Auto 510(k) Summary
+V. INDICATIONS FOR USE
+cvi42 Auto is intended to be used for viewing, post-processing, qualitative and quantitative
+evaluation of cardiovascular magnetic resonance (MR) and computed tomography (CT) images
+in a Digital Imaging and Communications in Medicine (DICOM) Standard format.
+It enables a set of tools to assist physicians in qualitative assessment of cardiac images and
+quantitative measurements of the heart and adjacent vessels; perform calcium scoring; and to
+confirm the presence or absence of physician-identified lesion in blood vessels.
+The target population for cvi42 Auto’s manual workflows is not restricted; however, cvi42 Auto’s
+semi-automated machine learning algorithms are intended for an adult population.
+cvi42 Auto shall be used only for cardiac images acquired from an MR or CT scanner. It shall be
+used by qualified medical professionals, experienced in examining and evaluating cardiovascular
+MR or CT images, for the purpose of obtaining diagnostic information as part of a comprehensive
+diagnostic decision-making process.
+VI. COMPARISON WITH PREDICATE DEVICES
+The detailed analysis of the subject device and the primary and secondary predicate devices
+(shown in Table 1 and Table 2) demonstrates that the subject device is substantially equivalent
+in indications for use, intended use, technological characteristics, functionality, and operating
+principles with the primary predicate (K082628) and substantially equivalent in intended use and
+technological characteristics with the secondary predicate (K141480) and tertiary predicate
+(K111373). Of the three characteristics (technical, biological, and clinical) required for the
+demonstration of equivalence, biological characteristics are not applicable since the subject
+device and the predicate devices are all software as a medical device applications with no tangible
+component interfacing with the body.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 3 of 9K213998 - cvi42 Auto 510(k) Summary
+Table 1. Comparison to the predicate devices.
+Subject Device Primary Predicate Secondary Predicate Tertiary Predicate
+cvi42 Auto (K213998) cmr42 (K082628) cvi42 (K141480) ct42 (K111373)
+Manufactured by Circle Manufactured by Circle Manufactured by Circle Manufactured by Circle
+Intended Use Viewing, post-processing, Viewing, post-processing, Viewing, post-processing, Viewing, post-processing,
+qualitative and quantitative qualitative and quantitative qualitative and quantitative qualitative and quantitative
+evaluation of blood vessels and evaluation of cardiovascular MR evaluation of blood vessels and evaluation of cardiovascular CT
+cardiovascular MR and CT images images in DICOM format. cardiovascular MR and CT images images in DICOM format.
+in DICOM format. in DICOM format.
+Indications for cvi42 Auto is intended to be used cmr42 is intended to be used for cvi42 vascular analysis add-on is ct42 is intended to be used for
+Use for viewing, post-processing, viewing, post-processing and an image analysis software viewing, post-processing and
+qualitative and quantitative quantitative evaluation of package add-on for evaluating CT quantitative evaluation of
+evaluation of cardiovascular cardiovascular magnetic resonance and MR images of blood vessels. cardiovascular computed
+magnetic resonance (MR) and (MR) images in a Digital Imaging Combining digital image processing tomography (CT) images in a
+computed tomography (CT) images and Communications in Medicine and visualization tools such as Digital Imaging and
+in a Digital Imaging and (DICOM) Standard format. multiplaner reconstruction (MPR), Communications in Medicine
+Communications in Medicine It enables; thin/think maximum intensity (DICOM) Standard format.
+(DICOM) Standard format. • Importing Cardiac MR Images in projection (MIP) thin and think, It enables:
+DICOM format inverted MIP thin and think, volume • Importing Cardiac CT Images in
+It enables a set of tools to assist • Supporting clinical diagnostics by rendering technique (VRT), curved DICOM format
+physicians in qualitative qualitative analysis of the cardiac planner reformation, processing • Supporting clinical diagnostics by
+assessment of cardiac images and MR images using display tools such as bone removal (based qualitative analysis of the cardiac
+quantitative measurements of the functionality such as panning, on both single energy and dual CT images using display
+heart and adjacent vessels; windowing, zooming, navigation energy) table removal and functionality such as panning,
+perform calcium scoring; and to through series/slices and phases. evaluation tools (vessel centerline windowing, zooming, navigation
+confirm the presence or absence of • Supporting clinical diagnostics by calculation, lumen calculation, through series/slices and phases,
+physician-identified lesion in blood quantitative measurement of the stenosis calculation) and reporting 3D reconstruction of images
+vessels. heart and adjacent vessels in tools (lesion location, lesion including multi-lanner
+cardiac MR images, specifically characteristics) and key images), reconstructions of the images.
+The target population for cvi42 distance, area, volume and mass the software package is designed • Supporting clinical diagnostics by
+Auto’s manual workflows is not • Supporting clinical diagnostics by to support the physician in quantitative measurement of the
+restricted; however, cvi42 Auto’s using area and volume conforming the presence or heart and adjacent vessels in
+semi-automated machine learning measurements for measuring LV absence of physician identified cardiac CT images, specifically
+algorithms are intended for an adult function and derived parameters lesion in blood vessels and distance, area, volume and mass
+population. cardiac output and cardiac index in evaluation, documentation and • Supporting clinical diagnostics by
+long axis and short axis cardiac MR follow up of any such lesions. using area and volume
+cvi42 Auto shall be used only for images. measurements for measuring LV
+cardiac images acquired from an • Flow quantifications based on It shall be used by qualified medical function and derived parameters
+MR or CT scanner. It shall be used velocity encodes images professionals, experienced in cardiac output and cardiac index in
+by qualified medical professionals, examining and evaluating long axis and short axis cardiac CT
+experienced in examining and cardiovascular CT or MR images, images.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 4 of 9K213998 - cvi42 Auto 510(k) Summary
+Subject Device Primary Predicate Secondary Predicate Tertiary Predicate
+cvi42 Auto (K213998) cmr42 (K082628) cvi42 (K141480) ct42 (K111373)
+Manufactured by Circle Manufactured by Circle Manufactured by Circle Manufactured by Circle
+evaluating cardiovascular MR or It shall be used by qualified medical for the purpose of obtaining • Supporting clinical diagnostics by
+CT images, for the purpose of professionals, experienced in diagnostic information as part of a quantitative measurements of
+obtaining diagnostic information as examining and evaluating comprehensive diagnostic decision- calcified plaques in the coronary
+part of a comprehensive diagnostic cardiovascular MR images, for the making process. cvi42 is a software arteries (calcium scoring),
+decision-making process. purpose of obtaining diagnostic application that can be used as a specifically Agatston and volume
+information as part of a stand-alone product or in a and mass calcium scores
+comprehensive diagnostic decision- networked environment.
+making process. cmr42 is a software It shall be used by qualified
+application that can be used as a The target population for the cvi42 medical professionals, experienced
+stand-alone product or in a is not restricted. in examining and evaluating
+networked environment. cardiovascular CT images, for the
+purpose of obtaining diagnostic
+The target population for the cmr42 information as part of a
+is not restricted, however the image comprehensive diagnostic
+acquisition by a cardiac magnetic decision-making process. ct42 is a
+resonance scanner may limit the software application that can be
+use of the device for certain sectors used as a stand-alone product or
+of the general public. in a networked environment.
+cmr42 shall not be used to view or The target population for the ct42 is
+analyze images of any part of the not restricted, however the image
+body except the cardiac magnetic acquisition by a cardiac CT
+resonance images acquired from a scanner may limit the use of the
+cardiovascular magnetic resonance device for certain sectors of the
+scanner. general public.
+ct42 shall not be used to view or
+analyze images of any part of the
+body except the cardiac CT
+images acquired from a
+cardiovascular CT scanner.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 5 of 9K213998 - cvi42 Auto 510(k) Summary
+Table 2. Feature comparison table of cvi42 Auto with the predicate devices.
+Cells marked as N/A are features already supported by the primary predicate.
+Feature Subject Device Primary Predicate Secondary Predicate Tertiary Predicate
+cvi42 Auto (K213998) cmr42 (K082628) cvi42 (K141480) ct42 (K111373)
+Manufactured by Circle Manufactured by Circle Manufactured by Circle Manufactured by Circle
+Device Class II II II II
+Device Classification QIH, LLZ LLZ LLZ LLZ
+Regulation Name Medical image management Picture Archiving and Picture Archiving and Picture Archiving and
+and processing system Communications System Communications System Communications System
+Regulation Number 21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.2050
+Imaging Modalities MR and CT MR MR and CT CT
+DICOM Compliant Yes Yes N/A N/A
+Import and display Yes Yes (MR only) Yes Yes (CT only)
+MR/CT images
+Post process CMR/CCT Yes Yes (MR only) Yes Yes (CT only)
+images
+Images can be Yes Yes N/A N/A
+displayed by study and
+series
+Store images Yes Yes N/A N/A
+2D Imaging Yes Yes N/A N/A
+3D Imaging Yes No Yes Yes
+Multiplanar Reformat Yes No Yes Yes
+(MPR)
+Navigation Tools Panning, Panning, N/A N/A
+Windowing, Windowing,
+Zooming Zooming
+Series/slices and phases Series/slices and phases
+Measurements Distance Distance N/A N/A
+Perimeter Perimeter
+Area Area
+Signal Intensity Signal Intensity
+Volume Volume
+Quantitative assessment Manual segmentation, and Manual segmentation of four Manual segmentation, Manual segmentation,
+of cardiac function semi-automatic segmentation heart chambers in long and and semi-automatic and semi-automatic
+using Machine Learning short-axis views segmentation of four segmentation of four
+technique of four heart heart chambers in long heart chambers in short-
+chambers in long and short- and short-axis views axis views
+axis views
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 6 of 9K213998 - cvi42 Auto 510(k) Summary
+Feature Subject Device Primary Predicate Secondary Predicate Tertiary Predicate
+cvi42 Auto (K213998) cmr42 (K082628) cvi42 (K141480) ct42 (K111373)
+Manufactured by Circle Manufactured by Circle Manufactured by Circle Manufactured by Circle
+Centerline placement in Manual and semi-automatic Manual Manual and semi- Manual and semi-
+coronary vessels using Machine Learning automatic automatic
+technique
+Calcium Scoring Yes, using ML methodology No No Yes, using non-ML
+methodology
+Workstation operating macOS, macOS, macOS, macOS,
+system Microsoft Windows Microsoft Windows Microsoft Windows Microsoft Windows
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 7 of 9K213998 - cvi42 Auto 510(k) Summary
+VII. PERFORMANCE DATA AND TESTING
+Performance testing was conducted to verify compliance with specified design requirements in
+accordance with ISO 13485:2016, IEC 62304:2015, ISO 14971:2019 and NEMA 3.1-3.20 (2016)
+DICOM standards.
+Verification and validation testing were conducted to ensure specifications and performance of
+the device and were performed per the FDA Guidance documents “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices” and “Content of Premarket
+Submission for Management of Cybersecurity in Medical Devices”.
+cvi42 Auto has been tested according to the specifications that are documented in a Master
+Software Test Plan. Testing is an integral part of Circle Cardiovascular Imaging Inc software
+development process as described in the company’s product development process.
+Validation of Machine Learning Derived Outputs
+The machine learning algorithms of cvi42 Auto (MR-CMR Function, CT-Coronary, and CT-
+Calcium) have been trained and tested on images acquired from major vendors of MR and CT
+imaging devices. All data used for validation were not used during the development of the training
+algorithms.
+Across all MR and CT machine manufacturers, n = 235 anonymized patient images were used
+for the validation of cvi42 Auto. This translates into 70 samples for Coronary Analysis, 102
+samples for Calcium analysis, 63 samples for SAX Function contouring, 63 for each of 2-CV, 3-
+CV, and 4CV LAX function contouring, and 252 samples for Function Classification. Image
+information for all samples was anonymized and limited to ePHI-free DICOM headers. At least
+50% of the data came from a U.S. population.
+All performance testing results met Circle’s pre-defined acceptance criteria.
+• For CMR function analysis, the performance acceptance criteria were pre-defined to
+evaluate the performance of the ML model based on classification accuracy defined by
+true positives (TP), true negatives (TN), false positives (FP), and false negatives (FN).
+Mean volume prediction error (Mean Absolute Error, or MAE) was also calculated. Series
+classification performance results were between 97 % - 100%. Volumetric MAE for SAX
+were between 7% - 10%, and volumetric MAE for LAX were between 5% - 9%.
+• For Calcium analysis, the performance acceptance criteria were pre-defined to evaluate
+the performance of the ML model based on classification accuracy defined by TP, TN, FP,
+and FN. Classification performance results were between 86% - 99%.
+• For Coronary analysis, the performance acceptance criteria were pre-defined to evaluate
+the centerline quality and performance (based on TP and FN), and success rate for
+relevant masks. Centerline performance results were between 82% - 94%. Mask
+performance results were between 98% - 100%.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 8 of 9K213998 - cvi42 Auto 510(k) Summary
+VIII. CONCLUSIONS
+The information submitted in this premarket notification, including the performance testing and
+predicate device comparisons, supports the safety and effectiveness of cvi42 Auto as compared
+to the predicate devices when used for the defined intended use.
+Circle Cardiovascular Imaging Inc. Non-Confidential Page 9 of 9

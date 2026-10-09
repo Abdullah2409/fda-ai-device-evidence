@@ -1,0 +1,315 @@
+November 12, 2020
+AliveCor, Inc.
+℅ Prabhu Raghavan
+Principal
+MDQR, LLC
+444 Castro Street, Suite 600
+Mountain View, California 94041
+Re: K201985
+Trade/Device Name: KardiaAI
+Regulation Number: 21 CFR 870.1425
+Regulation Name: Programmable Diagnostic Computer
+Regulatory Class: Class II
+Product Code: DQK, DPS
+Dated: October 12, 2020
+Received: October 13, 2020
+Dear Prabhu Raghavan:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.20
+Silver Spring, MD 20993
+www.fda.govK201985 - Prabhu Raghavan Page 2
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jennifer Shih
+Assistant Director
+Division of Cardiac Electrophysiology,
+Diagnostics and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALT H AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2020
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K201985
+Device Name
+KardiaAI
+Indications for Use (Describe)
+KardiaAI is a software analysis library intended to assess ambulatory electrocardiogram (ECG) rhythms from adult
+subjects (when prescribed or used under the care of a physician). The device supports analyzing data recorded in
+compatible fonnats from any ambulatory ECG devices such as event recorders, or other similar devices. The library is
+intended to be integrated into other device software. TI1e library is not intended for use in life supporting, or sustaining
+systems, or ECG monitors, or cardiac alarm, or OTC use only devices.
+TI1e KardiaAI library provides the following capabilities:
+• Filtering ECG noise,
+• Reporting heart rate measurement from ECGs,
+• Detecting noisy ECGs,
+• Reporting ECG rhythm analysis for the presence of sinus rhythm, atrial fibrillation, bradycardia, and tachycardia; for
+ECGs detected as sinus rhythm, detecting 11ormal sinus rhythm, sinus rhythm with wide QRS, sinus rhythm with
+premature ventricular contractions (PVC), and sinus rhythm with supra.ventricular ectopy,
+• Detecting QRS complexes in an ECG,
+• For ECGs detected as sinus rhythm, classifying individual beats as a PVC or non-PVC beat, and
+• Generating an average beat from an ECG
+TI1e device is not intended for use in patients who have pacemakers, ICDs, or other implanted electronic devices.
+Type of Use (Select one or both, as applicable)
+[8J Prescription Use (Part 21 CFR 801 Subpart D) D Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda. hhs. gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."
+FORM FDA 3881 (7117) Page 1 of 1 PSCPublishingScrvic-� ('301)4113-6740 Ef510(k) Summary for K201985
+Prepared in accordance with the requirements of 21 CFR 807.92
+Submitter Information [807.92(a)(1)]
+Submitter/Applicant AliveCor, Inc.
+444 Castro Street, Suite 600
+Mountain View, CA 94041
+Phone: 650-396-8553
+Fax: 650-282-7932
+Primary Contact Person Prabhu Raghavan
+Regulatory Consultant for AliveCor
+MDQR, LLC
+444 Castro Street, Suite 600
+Mountain View, CA 94041
+Phone: 408-316-5707
+Fax: 650-282-7932
+Email: prabhu@mdqr.solutions
+Submitter and Saket Bhatt
+Secondary Contact Person VP of Regulatory and Quality
+444 Castro Street, Suite 600
+Mountain View, CA 94041
+Phone: 408-701-7319
+Fax: 650-282-7932
+Email: ra@alivecor.com
+Date Prepared July 15, 2020
+Device Information [807.92(a)(2)]
+Trade Name KardiaAI
+Common Name Programmable diagnostic computer
+Classification 21 CFR§870.1425
+Device Class Class II
+Product Code DQK
+Subsequent Product Code DPS
+Predicate Information [807.92(a)(3)]
+Predicate(s) AliveCor, Inc., KardiaAI, K181823
+Device Description [807.92(a)(4)]
+KardiaAI is a software library that implements various ECG processing and analysis algorithms.
+This Software as a Medical Device (SaMD) computes various physiologic parameters from an
+ECG and provides these capabilities in the form of an Application Program Interface (API)
+K201985
+Page 1 of 6510(k) Summary for KardiaAI
+AliveCor, Inc.
+library. AliveCor-designed ECG devices (“target device”) incorporate the API library into their
+device software to enable algorithmic analysis of ECGs to provide analytical capabilities.
+KardiaAI provides ECG processing functions, including ECG noise filtering and detection of
+noisy ECGs. It performs rhythm analysis on ECGs, specifically detecting atrial fibrillation,
+bradycardia, tachycardia and sinus rhythm, which can be further classified as normal sinus
+rhythm, sinus rhythm with wide QRS, sinus rhythm with premature ventricular contractions
+(PVCs), and sinus rhythm with supraventricular ectopy. It further provides beat-level
+annotations, including beat-level QRS locations, and, for sinus rhythm ECGs, PVC/not-PVC
+annotations. It also provides an average beat ECG representation, and the R-R interval
+tachogram. Recording and viewing of ECGs and the results of the KardiaAI analyses are to be
+provided by other AliveCor FDA-cleared devices (i.e., the target devices) into which the API
+library is incorporated, such as AliveCor’s Triangle System (K183319) and KardiaMobile
+System (K182396).
+Indications for use [807.92(a)(5)]
+KardiaAI is a software analysis library intended to assess ambulatory electrocardiogram (ECG)
+rhythms from adult subjects (when prescribed or used under the care of a physician). The device
+supports analyzing data recorded in compatible formats from any ambulatory ECG devices such
+as event recorders, or other similar devices. The library is intended to be integrated into other
+device software. The library is not intended for use in life supporting, or sustaining systems, or
+ECG monitors, or cardiac alarm, or OTC use only devices.
+The KardiaAI library provides the following capabilities:
+(cid:120) Filtering ECG noise,
+(cid:120) Reporting heart rate measurement from ECGs,
+(cid:120) Detecting noisy ECGs,
+(cid:120) Reporting ECG rhythm analysis for the presence of sinus rhythm, atrial fibrillation,
+bradycardia, and tachycardia; for ECGs detected as sinus rhythm, detecting normal sinus
+rhythm, sinus rhythm with wide QRS, sinus rhythm with premature ventricular
+contractions (PVC), and sinus rhythm with supraventricular ectopy,
+(cid:120) Detecting QRS complexes in an ECG,
+(cid:120) For ECGs detected as sinus rhythm, classifying individual beats as a PVC or non-PVC
+beat, and
+(cid:120) Generating an average beat from an ECG
+The device is not intended for use in patients who have pacemakers, ICDs, or other implanted
+electronic devices.
+Substantial Equivalence
+The subject device has the same intended use as the predicate device. Both devices intended are
+to process (e.g., filter and detect noise) and analyze a single channel ECG signal to detect the
+presence of arrhythmias. These ECG analysis outputs from the subject and predicate device all
+represent potential findings to be reviewed and interpreted by a qualified healthcare professional,
+and do not represent complete diagnoses. Both devices are software-only API libraries and are
+intended to be incorporated into other AliveCor-designed medical devices (“target device”). Both
+the subject and predicate device process and analyze recorded ECGs, the output of which are
+stored, transferred, and displayed by the target device.
+K201985
+Page 2 of 6510(k) Summary for KardiaAI
+AliveCor, Inc.
+The subject device includes all the software outputs of the predicate device with updates in
+algorithm design and provides several new analysis outputs which are within the general
+intended use shared with the predicate device. Like the predicate device, the subject device’s
+ECG analysis functionalities with respect to arrhythmia detection are prescription features.
+As such, the subject device has the same intended use and technological characteristics as the
+predicate device. Differences between the subject device and the predicate device do not raise
+different questions of safety or effectiveness from the predicate device, and performance testing
+has demonstrated that the subject device meets its performance specifications and is as safe and
+as effective as the predicate device for their intended use. Therefore, KardiaAI is substantially
+equivalent to the predicate device.
+Comparison of Technological Characteristics with the Predicate Device [807.92(a)(6)]
+Feature AliveCor KardiaAI AliveCor KardiaAI (K181823)
+(Subject Device) (Predicate Device)
+Product Code DQK, Computer, Diagnostic, DQK, Computer, Diagnostic,
+Programmable Programmable
+DPS, Electrocardiograph DPS, Electrocardiograph
+Regulation 21 CFR§870.1425, Programmable 21 CFR§870.1425, Programmable
+diagnostic computer diagnostic computer
+Class II Class II
+K201985
+Page 3 of 6510(k) Summary for KardiaAI
+AliveCor, Inc.
+Comparison of Technological Characteristics with the Predicate Device [807.92(a)(6)]
+Feature AliveCor KardiaAI AliveCor KardiaAI (K181823)
+(Subject Device) (Predicate Device)
+Indications for KardiaAI is a software analysis library KardiaAI is a software analysis library
+use intended to assess ambulatory intended to assess ambulatory
+electrocardiogram (ECG) rhythms from electrocardiogram (ECG) rhythms from
+adult subjects (when prescribed or used adult subjects.
+under the care of a physician). The The device supports analyzing data
+device supports analyzing data recorded recorded in compatible formats from
+in compatible formats from any any ambulatory ECG devices such as
+ambulatory ECG devices such as event event recorders, or other similar devices.
+recorders, or other similar devices. The The library is intended to be integrated
+library is intended to be integrated into into other device software.
+other device software. The library is not The library is not intended for use in life
+intended for use in life supporting, or supporting, or sustaining systems, or
+sustaining systems, or ECG monitors, or ECG monitors, or cardiac alarm, or
+cardiac alarm, or OTC use only devices. OTC use only devices.
+The KardiaAI library provides the KardiaAI provides the following
+following capabilities: capabilities:
+(cid:404) Filtering ECG noise, (cid:404) ECG noise filtering,
+(cid:404) Reporting heart rate measurement (cid:404) heart rate measurement from ECGs,
+from ECGs, (cid:404) detection of noisy ECGs, and
+(cid:404) Detecting noisy ECGs, (cid:404) ECG rhythm analysis for detecting
+(cid:404) Reporting ECG rhythm analysis for the presence of normal sinus rhythm,
+the presence of sinus rhythm, atrial atrial fibrillation, bradycardia, and
+fibrillation, bradycardia, and tachycardia (when prescribed or used
+tachycardia; for ECGs detected as under the care of a physician).
+sinus rhythm, detecting normal sinus
+rhythm, sinus rhythm with wide
+QRS, sinus rhythm with premature
+ventricular contractions (PVC), and
+sinus rhythm with supraventricular
+ectopy,
+(cid:404) Detecting QRS complexes in an
+ECG,
+(cid:404) For ECGs detected as sinus rhythm,
+classifying individual beats as a PVC
+or non-PVC beat, and
+(cid:404) Generating an average beat from an
+ECG
+The device is not intended for use in
+patients who have pacemakers, ICDs, or
+other implanted electronic devices
+Target Adults (over 18) Adults (over 18)
+population
+Components Software only Software only
+K201985
+Page 4 of 6510(k) Summary for KardiaAI
+AliveCor, Inc.
+Comparison of Technological Characteristics with the Predicate Device [807.92(a)(6)]
+Feature AliveCor KardiaAI AliveCor KardiaAI (K181823)
+(Subject Device) (Predicate Device)
+Software (cid:120) An interface that provides tools to (cid:120) An interface that provides tools to
+Functionalities process and analyze ECGs through process and analyze ECGs through
+various algorithms various algorithms
+(cid:120) The automated proprietary ECG (cid:120) The automated proprietary ECG
+algorithms provide supportive algorithms provide supportive
+information for ECG diagnosis. The information for ECG diagnosis. The
+library can be accessed by directly library can be accessed by directly
+connecting to the KardiaAI’s connecting to the KardiaAI’s
+Application Programming Interface Application Programming Interface
+Compatible (cid:120) Triangle System (K183319) (cid:120) Triangle System (K183319)
+ECG Devices (cid:120) KardiaMobile System (K182396) (cid:120) KardiaMobile System (K182396)
+(cid:120) Omron Model BP7900 Blood (cid:120) KardiaBand System (K171816)
+Pressure Monitor + EKG (K182579) (cid:120) Omron Model BP7900 Blood
+Pressure Monitor + EKG (K182579)
+Performance Data [807.92(b)]
+All necessary testing was conducted on KardiaAI to support a determination of substantial
+equivalence to the predicate device.
+Nonclinical Testing Summary [807.92(b)(1)]
+Nonclinical testing, similar to that conducted to support the predicate device, was conducted to
+assess algorithm performance and to verify that KardiaAI performs as intended.
+Software testing was conducted for KardiaAI. Specifically, algorithm performance testing was
+assessed using an AliveCor proprietary ECG database. Additional comparative testing was also
+performed on databases from the ANSI/AAMI EC57. All analysis outputs were found to meet
+their performance specifications. Specifically, for the algorithm outputs which are present in
+both KardiaAI and the predicate device, comparative testing was conducted, and it was found
+that the subject device demonstrated equivalent performance to the predicate device. The results
+of the testing demonstrate that KardiaAI performs to its specifications and meets its intended use,
+which is substantially equivalent to that of the predicate device.
+In addition, a human factors usability study was conducted in accordance with recommendations
+in IEC 62366-1:2015, “Medical devices - Part 1: Application of usability engineering to medical
+devices”, and FDA Guidance, “Applying Human Factors and Usability Engineering to Medical
+Devices”, issued February 3, 2016. The results of the study demonstrated that users can use the
+device and understands its outputs based on labeling, and further understand appropriate actions
+if symptoms are present, such as when to seek medical care.
+K201985
+Page 5 of 6510(k) Summary for KardiaAI
+AliveCor, Inc.
+Conclusions [807.92(b)(3)]
+KardiaAI has the same intended use as the predicate device, and any differences in technological
+characteristics do not raise different questions of safety or effectiveness. Differences between
+the subject device and the predicate device have been tested to ensure that the device meets its
+intended use. The results of nonclinical testing specifically demonstrate that KardiaAI meets its
+intended use which is equivalent to that of the predicate device. Therefore, KardiaAI is
+substantially equivalent to the predicate device.
+K201985
+Page 6 of 6

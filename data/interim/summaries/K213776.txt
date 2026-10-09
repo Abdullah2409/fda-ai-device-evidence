@@ -1,0 +1,358 @@
+Resonance Health Analysis Services Pty Ltd December 29, 2021
+Mitchell Wells
+Official Correspondent
+141 Burswood Road
+Perth, Western Australia 6100
+Australia
+Re: K213776
+Trade/Device Name: LiverSmart
+Regulation Number: 21 CFR 892.1001
+Regulation Name: Liver Iron Concentrattion Imaging Companion Diagnostic For Deferasirox
+Regulatory Class: Class II
+Product Code: PCS, LNH
+Dated: November 24, 2021
+Received: December 2, 2021
+Dear Mitchell Wells:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK213776 - Mitchell Wells Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureSpecial 510(k): LiverSmart
+K213776
+510(k) SUMMARY
+This Summary has been prepared in accordance with 21 CFR 807.92.
+GENERAL INFORMATION
+Date Prepared 23 December 2021
+Submitted by Resonance Health Analysis Service Pty Ltd
+141 Burswood Rd
+Burswood 6100
+AUSTRALIA
+Main Contact Mr Mitchell Wells
+Managing Director
+mitchellw@resonancehealth.com
+Tel: +61 8 9286 5300
+Fax: +61 8 9286 5399
+US Contact (US Agent) Michael van der Woude
+Director & GM
+Emergo Global Representation LLC
+2500 Bee Cave Road, Building 1, Suite 300
+Austin, TX 78746
+Phone: 512 3279997
+Fax: 512 3279998
+Email: USAgent@ul.com
+DEVICE INFORMATION
+Name of Device LiverSmart
+Trade/proprietary Name LiverSmart™
+Classification Class II
+Product Code 90-PCS and LNH
+CFR Section 892.1001 and 892.1000
+Panel Radiology
+1Special 510(k): LiverSmart
+Description of the Device
+LiverSmart is software that utilizes two existing FDA cleared devices, HepaFat-AI (K201039) and
+FerriSmart (K182218) and combines their respective results into a singular consolidated multi-
+parametric ‘LiverSmart’ report.
+LiverSmart automatically sorts and sends magnetic resonance imaging (MRI) datasets to each of the
+existing HepaFat-AI and FerriSmart devices and then receives results from those devices to generate
+a summary report which combines the HepaFat-AI results (an estimate of the patient’s volumetric
+liver fat fraction (VLFF), proton density fat fraction (PDFF), steatosis grade), and the FerriSmart
+result (an estimate of the patient’s liver iron concentration (LIC)).
+To conduct analysis, the user simply uploads a single zipped folder containing HepaFat-AI and
+FerriSmart DICOM images, acquired in accordance with their respective acquisition protocols, to the
+LiverSmart software. No user input is required for the analysis thereby minimising the impact of
+human error. The LiverSmart software requires image input data that has been acquired in accordance
+with the existing and now well established HepaFat-AI (K201039) and FerriSmart (K182218)
+imaging protocols.
+LiverSmart has two new components that are in addition to the existing components of HepaFat-AI
+and FerriSmart, namely a:
+(i) Data Preparation Module; and
+(ii) Report Generation Module
+The rest of the components for LiverSmart are the existing components of the FDA cleared HepaFat-
+AI and FerriSmart devices, as follows:
+For HepaFat-AI:
+(i) Magnetic Resonance Imaging Protocol
+(ii) HepaFat-AI Analysis Software
+(iii) Volumetric Liver Fat Fraction Measurement
+(iv) Proton Density Fat Fraction Measurement
+(v) Steatosis Grade Measurement
+For FerriSmart:
+(i) Magnetic Resonance Imaging Protocol
+(ii) FerriSmart Analysis Software
+(iii) Liver Iron Concentration Measurement
+The above HepaFat-AI and FerriSmart components are the same as previously provided to the FDA
+as the time HepaFat-AI and FerriSmart regulatory clearances were sought (and subsequently
+obtained).
+Intended Use
+For Liver:
+(i) For the measurement of R2 and iron concentration in the liver from MRI scans.
+(ii) For quantitative measurement of the triglyceride fat fraction in magnetic resonance
+images of the liver, also known as volumetric liver fat fraction (VLFF).
+2Special 510(k): LiverSmart
+Indications for Use
+LiverSmart is indicated to -
+For Liver Iron Concentration:
+(i) measure liver iron concentration in individuals with confirmed or suspected systemic iron
+overload;
+(ii) monitor liver iron burden in transfusion dependent thalassemia patients and patients with
+sickle cell disease receiving blood transfusions; and
+(iii) aid in the identification and monitoring of non-transfusion-dependent thalassemia patients
+receiving therapy with Deferasirox.
+For Liver Fat Assessment:
+(i) Assess the volumetric liver fat fraction, proton density fat fraction and steatosis grade in
+individuals with confirmed or suspected fatty liver disease.
+when interpreted by a trained physician the results can be used to:
+(ii) Monitor liver fat content in patients undergoing weight loss management; and
+(iii) Aid in the assessment and screening of living donors for liver transplant
+PREDICATE INFORMATION
+LiverSmart is substantially equivalent to (and is a combination of) the following Resonance Health
+existing 510(k) cleared devices:
+• FerriSmart - K182218
+• HepaFat-AI - K201039
+3Special 510(k): LiverSmart
+SUBSTANTIAL EQUIVALENCE INFORMATION
+The table below summarizes the main similarities and differences between LiverSmart and the predicates.
+LiverSmart (Subject Device) FerriSmart (Predicate) HepaFat-AI (Predicate)
+Regulatory Class II II II
+510(k) number K213776 K182218 K201039
+Classification Liver Iron Concentration Imaging Liver Iron Concentration Imaging System, Nuclear Magnetic Resonance
+Name Companion Diagnostic for Deferasirox Companion Diagnostic for Deferasirox Imaging, System, Image Processing
+Radiological
+System, Nuclear Magnetic Resonance
+Imaging, System, Image Processing
+Radiological
+CFR Section 892.1001 and 892.1000 892.1001 892.1000
+Product Code and 90 PCS and 90 LNH 90 PCS 90 LNH
+Classification
+Panel
+Description Standalone software package that Standalone software package that Standalone software platform designed to
+automatically analyses magnetic resonance automatically analyses multi-slice, spin- automatically analyse within seconds
+imaging (MRI) datasets to generate an echo MRI data sets encompassing the magnetic resonance imaging (MRI) datasets to
+estimate of the patient’s volumetric liver fat abdomen to provide objective and generate an estimate of the patient’s
+fraction (VLFF), proton density fat fraction reproducible determination of liver volumetric liver fat fraction (VLFF),
+(PDFF), steatosis grade, and liver iron parameters to support clinicians in the converted into proton density fat fraction
+concentration (LIC). LiverSmart evaluates assessment of liver iron status. The (PDFF) and steatosis grade. No user input is
+images acquired using the FerriSmart and software tool determines the signal decay required for the analysis thus minimising the
+HepaFat-AI protocols and analyses the rate (R2) that is used to characterize iron impact of human error on obtained results.
+acquired data to produce a ‘multi- loading in the liver, which is then
+parametric’ reporting both fat metrics and transformed by a defined calibration curve
+LIC. to provide a quantitative measure of liver
+iron concentrations in vivo.
+4Special 510(k): LiverSmart
+LiverSmart (Subject Device) FerriSmart (Predicate) HepaFat-AI (Predicate)
+Technology Convolutional neural networks for the Convolutional neural networks for the Convolutional neural networks for the image
+image analysis. image analysis. analysis.
+Algorithmic for the image’s quality checks, Algorithmic for the image’s quality checks Algorithmic for the image’s quality checking
+R2 conversion into LIC, and Alpha and R2 conversion into LIC. and Alpha conversion into VLFF.
+conversion into VLFF.
+Intended 1. Supporting clinical diagnoses about the 1. Supporting clinical diagnoses about the 1. Supporting clinical diagnoses about the
+purpose(s)
+status of LIC and the status of liver fat status of LIC. status of liver fat content.
+content. 2. Supporting the subsequent clinical 2. Supporting the subsequent clinical
+2. Supporting the subsequent clinical decision-making processes. decision-making processes.
+decision-making processes. 3. Supporting the use in clinical research 3. Supporting the use in clinical research
+3. Supporting the use in clinical research trials, directed at studying changes in trials, directed at studying changes in liver
+trials, directed at studying changes in LIC as a result of interventions. fat as a result of interventions.
+LIC and liver fat as a result of
+interventions.
+1. For the measurement of R2 and iron
+Intended Use 1. Measurement of R2 and iron 1. For quantitative measurement of the
+concentration in the liver from MRI
+concentration in the liver from MRI triglyceride fat fraction in magnetic
+scans.
+scans resonance images of the liver, also known
+2. For quantitative measurement of the
+as volumetric liver fat fraction (VLFF).
+triglyceride fat fraction in magnetic
+resonance images of the liver, also *It utilises magnetic resonance images that
+known as volumetric liver fat fraction exploit the difference in resonance frequencies
+(VLFF). between hydrogen nuclei in water and
+triglyceride fat. The quantitative triglyceride
+fat fraction is based on the measurement of a
+magnetic resonance parameter that reflects the
+ratio of the proton density signal of
+triglyceride fat to the total proton density
+signal in the liver.
+When interpreted by a trained physician, the
+results provide information that can aid in
+diagnosis.
+5Special 510(k): LiverSmart
+LiverSmart (Subject Device) FerriSmart (Predicate) HepaFat-AI (Predicate)
+Indications LiverSmart is indicated to: FerriSmart is Indicated to: HepaFat-AI is indicated to:
+For Liver Iron Concentration 1. measure liver iron concentration in 1. assess the volumetric liver fat fraction,
+individuals with confirmed or proton density fat fraction and steatosis
+1. measure liver iron concentration in
+suspected systemic iron overload; grade in individuals with confirmed or
+individuals with confirmed or suspected
+2. monitor liver iron burden in suspected fatty liver disease.
+systemic iron overload;
+transfusion dependent thalassemia When interpreted by a trained physician, the
+2. monitor liver iron burden in transfusion
+patients and patients with sickle cell results can be used to:
+dependent thalassemia patients and
+disease receiving blood transfusions; 2. monitor liver fat content in patients
+patients with sickle cell disease
+receiving blood transfusions; 3. aid in the identification and monitoring undergoing weight loss management;
+3. aid in the identification and monitoring
+of non-transfusion-dependent
+3. aid in the assessment and screening of
+thalassemia patients receiving therapy living donors for liver transplant.
+of non-transfusion-dependent
+thalassemia patients receiving therapy
+with Deferasirox.
+with Deferasirox.
+For Liver Fat Assessment
+1. assess the volumetric liver fat fraction,
+proton density fat fraction and steatosis
+grade in individuals with confirmed or
+suspected fatty liver disease.
+When interpreted by a trained physician, the
+results can be used to:
+2. monitor liver fat content in patients
+undergoing weight loss management;
+3. aid in the assessment and screening of
+living donors for liver transplant.
+User Radiologist Radiologist Radiologist
+Hosting platform Cloud-based or on-site hosting Cloud-based or on-site hosting Cloud-based or onsite platform
+6Special 510(k): LiverSmart
+LiverSmart (Subject Device) FerriSmart (Predicate) HepaFat-AI (Predicate)
+Image-type Magnetic Resonance Magnetic Resonance Magnetic Resonance
+utilized
+Image format DICOM DICOM DICOM
+Data Acquisition Single Spin Echo (SSE) Single Spin Echo (SSE) Gradient Recalled Echo (GRE)
+method
+Gradient Recalled Echo (GRE)
+Anatomical Sites Liver Liver Liver
+Analysis System LiverSmart: (i) Magnetic Resonance Imaging (i) Magnetic Resonance Imaging Protocol
+Components Protocol
+(i) Data Preparation Module; and (ii) HepaFat-AI Analysis Software
+(ii) FerriSmart Analysis Software
+(ii) Report Generation Module (iii) Volumetric Liver Fat Fraction
+(iii) Liver Iron Concentration Measurement
+FerriSmart:
+Measurement
+(iv) Proton Density Fat Fraction
+(i) Magnetic Resonance Imaging
+Measurement
+Protocol;
+(v) Steatosis Grade Measurement
+(ii) FerriSmart Analysis Software; and
+(iii) Liver Iron Concentration
+Measurement.
+HepaFat-AI:
+(i) Magnetic Resonance Imaging
+Protocol;
+(ii) HepaFat-AI Analysis Software;
+(iii) Volumetric Liver Fat Fraction
+Measurement;
+(iv) Proton Density Fat Fraction
+Measurement; and
+7Special 510(k): LiverSmart
+LiverSmart (Subject Device) FerriSmart (Predicate) HepaFat-AI (Predicate)
+(v) Steatosis Grade Measurement
+Page 1 (i) Patient ID, patient name and date of
+Result report (i) Patient ID, patient name and date of
+birth for full identification of the
+content birth for full identification of the patient.
+(i) Report No., patient ID, patient name and patient.
+date of birth for full identification of the (ii) Scan date, and analysis date. (ii) Scan date, and analysis date.
+patient. (iii) Referrer and MRI centre.
+(iii) Referrer and MRI centre.
+(ii) Scan date, and analysis date. (iv) Results displayed: LIC (mg/g dry
+(iii) Referrer and MRI centre. tissue), LIC (mmol/kg dry tissue), (iv) Results displayed: VLFF (%), PDFF (%)
+(iv) Results displayed: LIC (mg/g dry associated with confidence intervals and Steatosis grade, associated with
+tissue), LIC (mmol/kg dry tissue), and normal range. confidence intervals and normal range.
+associated with confidence intervals and (v) Pictures of the 5 TEs of the analysed
+(v) NASH-CRN Steatosis Grading Guide
+normal range. slice.
+(v) Results displayed: VLFF (%), PDFF (%) (vi) LIC thresholds table (vi) Pictures of the 3 TEs of the analysed
+and Steatosis grade, associated with slice.
+confidence intervals and normal range.
+(vii) Liver colour map (for illustration
+purpose only, not for diagnostic)
+Page 2
+As per FerriSmart report
+Page 3
+As per HepaFat-AI report
+Result report HTML and PDF HTML and PDF HTML and PDF
+format
+8Special 510(k): LiverSmart
+SUMMARY OF CHANGE(S)
+LiverSmart consists of two additional modules, over and above the FerriSmart and HepaFat-AI
+modules;
+(i) the Data Preparation Module, and
+(ii) the Report Generation Module.
+PERFORMANCE PARAMETERS
+No change from the predicates, FerriSmart (K182218) and HepaFat-AI (K201039).
+SUMMARY OF DESIGN CONTROL ACTIVITIES
+Hazard analysis has been performed and documented. Hazard analysis is included in this submission.
+The test methods used are the same as those documented in the previously cleared submissions of the
+predicate devices, FerriSmart (K182218) and HepaFat-AI (201039). A statement of conformity with
+design controls is included in this submission.
+SAFETY
+LiverSmart is designed and manufactured under the Quality System Regulations as outlined in 21 CFR
+§ 820 and ISO 13485 Standards. LiverSmart is based upon the same technologies, operating principle,
+and software technology as the two predicate devices. Risk activities were conducted in concurrence
+with established medical device development standards and guidance.
+TESTING
+Risk analysis and verification testing conducted are documented and included in this submission, which
+demonstrate that the performance requirements have been met.
+SUBSTANTIAL EQUIVALENCE
+Verification testing confirms that the data preparation module of LiverSmart detects anomalies in the
+sequence acquisition and reports the accurate error message. If an error is detected LiverSmart prevents
+further analysis. Additionally, LiverSmart yields identical results for VLFF, PDFF, steatosis grade, and
+LIC, when the same image datasets are analysed by HepaFat-AI and FerriSmart devices independently.
+CONCLUSION
+The special 510(k) premarket notification for LiverSmart contains adequate information and data to
+enable the FDA-CDRH to determine substantial equivalence to the predicate devices. Resonance Health
+believes that enough evidence has been presented in this dossier to conclude that LiverSmart is safe,
+effective and performs as well as two the predicates.
+9

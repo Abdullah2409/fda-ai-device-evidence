@@ -1,0 +1,282 @@
+Infervision Medical Technology Co., Ltd. August 12, 2021
+℅ Mr. Matt Deng
+Director
+Infervision US, Inc.
+1900 Market Street
+PHILADELPHIA PA 19103
+Re: K211179
+Trade/Device Name: InferRead CT Stroke.AI
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: July 8, 2021
+Received: July 12, 2021
+Dear Mr. Deng:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.27
+Silver Spring, MD 20993
+www.fda.govK211179 - Mr. Matt Deng Page 2
+803)for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK211179
+510(k) Summary
+Infervision Medical Technology Co., Ltd. K211179
+This 510(k) Summary is in conformance with 21 CFR 807.92
+Submitter: Infervision Medical Technology Co., Ltd.
+Room B401, 4th Floor, Building 1,
+No. 12 Shangdi Information Road,
+Haidian District, Beijing, 100085, China
+Phone: +86 10-86462323
+Primary Contact: Matt Deng
+Email: matt.deng@infervision.ai
+Phone: 919-886-6082
+Second Primary Frank Wu
+Contact: Email: frank.wu@infervision.ai
+Phone: 857-988-1888
+Company Contact: Xiaoyan Fan
+Email: fxiaoyan@infervision.com
+Phone: +86 13810508664
+Date Prepared: April 8, 2021
+Device Name and Classification
+Trade Name: InferRead CT Stroke.AI
+Common Name: Radiological computer aided triage and notification software
+Classification: Class II
+Regulation Number: 21 CFR 892.2080, Radiological computer aided triage and
+notification software
+Classification Panel: Radiology
+Product Code: QAS
+Predicate Device:
+Primary Predicate
+Trade Name BriefCase
+510(k) Submitter/Holder Aidoc
+Class Class II
+Regulation Number 21 CFR 892.2080
+Classification Panel Radiology
+Product Code QAS
+Infervision InferRead CT Stroke.AI Traditional 510(k) Confidential Page 1 of 7Device Description
+InferRead CT Stroke.AI is a radiological computer-assisted triage and notification software
+device. The software device is a computer program with a deep learning algorithm running on
+Ubuntu operating system. The device can be deployed as an onsite server in the hospital and the
+user interacts with the software from a client workstation. The device can be broken down into 4
+modules, the NeoViewer, Docking Toolbox, RePACS, and DLServer.
+The Docking Toolbox module receives DICOM series and inspects the series against a list of
+requirements. Series that pass the requirements are sent into the system for prediction for
+intracranial hemorrhage. Series are processed in a first-in-first-out order. When hemorrhage is
+detected, the system marks the case in the work list prompting the user to conduct preemptive
+triage and prioritization.
+When the user refreshes the page, cases with suspected findings will be marked with an
+indicator. Cases are identified, such as by Name and Patient ID. The user may filter and sort by
+suspected ICH and identify the case. A preview is available but is not intended for primary
+diagnosis and a radiologist must review the case per their standard process. The suspected cases
+assist in triaging intracranial hemorrhage cases sooner than standard of care practice alone.
+Intended Use/Indications for Use
+InferRead CT Stroke.AI is a radiological computer aided triage and notification software for use
+in the analysis of non-enhanced head CT images. The device is intended to assist hospital
+networks and trained radiologists in workflow triage by flagging suspected positive findings of
+intracranial hemorrhage (ICH).
+InferRead CT Stroke.AI uses an artificial intelligence algorithm to analyze images and highlight
+cases with detected ICH on a standalone desktop application in parallel to the ongoing standard
+of care image interpretation. The user is presented with a worklist with marked cases of
+suspected ICH findings. The device does not alter the original medical image, does not remove
+cases from queue, and is not intended to be used as a diagnostic device. If the clinician does not
+view the case, or if a case is not flagged, cases remain to be processed per the standard of care.
+The results of InferRead CT Stroke.AI are intended to be used in conjunction with other patient
+information and based on professional judgment, to assist with triage/prioritization of medical
+images. Notified clinicians are responsible for viewing full images per the standard of care.
+Infervision InferRead CT Stroke.AI Traditional 510(k) Confidential Page 2 of 7Comparison of Technological Characteristics
+The subject and predicate devices are radiological computer-assisted triage and notification
+software. Both devices are artificial intelligence algorithms incorporated software packages for
+use with CT scanners, PACS, and workstations. Both devices process images intended to aid in
+prioritization and triage of non-enhanced head CT cases with intracranial hemorrhage. Both
+have the same intended use and indications for use for flagging suspected cases, and indicating to
+the clinician for review.
+The predicate device sends pop up notifications and compressed previews to the workstations of
+radiologist. The subject device doesn’t send pop up notifications as the predicate device. Instead,
+to fulfill the notification, the subject device visually marks the case in the worklist, indicating to
+a radiologist the need to review those images for ICH. For both devices, the user must be alert
+and receptive to the outputs of the device. Similarly to predicate device, the subject device also
+works in parallel to the standard of care. The indication prompts preemptive triage of the flagged
+case where the radiologist may decide to perform evaluation. Similarly, if the notification is
+rejected, the case remains in their standard queue to be handled per their standard of care.
+The subject device provides a viewer on the workstation allowing the radiologist to preview the
+DICOM similarly to the compressed preview of the subject device. This viewer allows the user
+to Scroll through series. Similar to the predicate, the preview is for informational purposes only
+and not for diagnostic use. The notified clinicians are responsible for using the local imaging
+system for viewing the original images and engage the referring clinician for diagnosis and
+treatment decisions.
+Infervision InferRead CT Stroke.AI Traditional 510(k) Confidential Page 3 of 7The subject and predicate software utilizes a deep learning algorithm trained on medical images. The subject device raises the same
+type of safety and effectiveness questions as the predicate. That is, accurate detection of intracranial hemorrhage within the study on
+which a physician can base a clinically useful triage/prioritization assessment considering all available clinical information. Like the
+predicate, the subject device does not remove cases from reading queue. Both devices operate in parallel with the standard of care,
+which remains the default option for all cases.
+Detailed Comparison of the Subject and Predicate Devices
+Item InferRead CT Stroke.AI Aidoc Briefcase ICH (K180647) Comparison
+(Subject Device) (Predicate Device)
+Intended Use / InferRead CT Stroke.AI is a BriefCase is a radiological computer
+Indications for Use radiological computer aided triage aided triage and notification software
+and notification software for use in indicated for use in the analysis of non-
+the analysis of Non-Enhanced Head enhanced head CT images. The device is
+CT images. The device is intended to intended to assist hospital networks and InferRead CT Stroke.AI
+assist hospital networks and trained trained radiologists in workflow triage and the previously cleared
+radiologists in workflow triage by by flagging and communication of BriefCase (K180647)
+flagging suspected positive findings suspected positive findings of have the same intended
+of intracranial hemorrhage (ICH). pathologies in head CT images, namely use and\indications for use
+Intracranial Hemorrhage (ICH). in terms of finding
+InferRead CT Stroke.AI uses an suspected intracranial
+artificial intelligence algorithm to BriefCase uses an artificial intelligence hemorrhage in non
+analyze images and highlight cases algorithm to analyze images and contrast head CT, flagging
+with detected ICH on a standalone highlight cases with suspected cases, and
+desktop application in parallel to the detected ICH on a standalone desktop indicating the case to the
+ongoing standard of care image application in parallel to the ongoing attention of the clinician.
+interpretation. The user is presented standard of care
+with a worklist with marked cases of image interpretation. The user is
+suspected ICH findings. The device presented with notifications for cases
+does not alter the original medical with suspected ICH
+Infervision InferRead CT Stroke.AI Traditional 510(k) Confidential Page 4 of 7image, does not remove cases from findings. Notifications include
+queue, and is not intended to be used compressed preview images that are
+as a diagnostic device. If the clinician meant for informational
+does not view the case, or if a case is purposes only and not intended for
+not flagged, cases remain to be diagnostic use beyond notification. The
+processed per the standard of care. device does not alter
+the original medical image and is not
+The results of InferRead CT intended to be used as a diagnostic
+Stroke.AI are intended to be used in device.
+conjunction with other patient
+information and based on The results of BriefCase are intended to
+professional judgment, to assist with be used in conjunction with other patient
+triage/prioritization of medical information and based on professional
+images. Notified clinicians are judgment, to assist with
+responsible for viewing full images triage/prioritization of medical images.
+per the standard of care. Notified clinicians are responsible for
+viewing full images per the standard of
+care.
+User Population Radiologist Radiologist Both are designed to be
+used by the radiologist,
+prompt the radiologist to
+start preemptive triage of
+a flagged case
+Anatomical Region Head Head Both are indicated for use
+of Interest in analysis of non-
+enhanced head CT
+Data Acquisition Non contrast CT scan of the head Non contrast CT scan of the head or Both are indicated for use
+Protocol neck in analysis of non-
+enhanced head CT
+View DICOM data DICOM information about the DICOM information about the patient, Both display DICOM
+patient, study and current image study and current image information for
+informational purposes
+only
+Infervision InferRead CT Stroke.AI Traditional 510(k) Confidential Page 5 of 7Segmentation of No; device does not mark, highlight, No; device does not mark, highlight, or Neither marks, highlights
+region of interest or direct users’ attention to a specific direct users’ attention to a specific or directs attention to a
+location in the original image location in the original image specific location in the
+original image
+Algorithm Artificial intelligence algorithm with Artificial intelligence algorithm with Both use artificial
+database of images database of images intelligence algorithm
+with a database of images
+Notification / Yes, Case level indicator Yes, pop-up notifications, case level In both, the suspected
+Prioritization indicator cases are indicated to the
+user. The subject device
+provides case level
+indicator and allow the
+user to sort suspected
+cases to the top.
+Preview Images Presentation of a preview of the Presentation of a preview of the
+study for initial assessment not study for initial assessment not
+Both allow the user to
+meant for diagnostic purposes meant for diagnostic purposes
+view the image. The
+device is intended to work
+The device operates in parallel The device operates in parallel
+in parallel with standard
+with the standard of care, which with the standard of care, which
+of care.
+remains the default option for all remains the default option for all
+cases cases
+Alteration of No No Neither alters the original
+original image image.
+Removal of cases No No
+Neither removes cases
+from worklist
+from the worklist queue.
+queue
+Infervision InferRead CT Stroke.AI Traditional 510(k) Confidential Page 6 of 7Performance Data
+Infervision conducted a retrospective study to assess the clinical performance and notification
+functionality of the InferRead CT Stroke.AI software. The study evaluated the InferRead deep
+learning algorithm in terms of sensitivity and specificity with respect to a ground truth, as
+established by trained neuro-radiologists, in the detection of intracranial hemorrhage (ICH) in the
+brain. In addition, the study reported and compared the InferRead time-to-notification and the
+Time-to-open-exam for the standard of care. The InferRead time-to-notification includes the time
+to receive the DICOM scan, analyze and the worklist application shows the results. The standard
+of care time-to-open-exam consisted of the time from the initial scan of the patient to when the
+radiologist first opens the exam for review.
+A total of 369 non-contrast brain CT scans (studies) were obtained from three
+hospitals in the U.S. There were approximately equal numbers of positive and negative cases
+(51.5% of images with ICH and 48.5% without ICH, respectively) included in the analysis.
+Comparing the InferRead software output to the ground truth, the sensitivity and specificity of
+InferRead CT Stroke.AI are 0.916 (95% CI: 0.867-0.951) and 0.922 (95% CI: 0.872-0.957),
+which are significantly higher than the 80% null hypothesis (p values < 0.001). This study met
+the pre-specified performance goals of 80% for sensitivity and specificity.
+In addition, the area under the receiver operating characteristic curve (AUC) was 0.962,
+demonstrating the clinical utility and potential benefits of the InferRead software based on the
+imaging study results.
+The InferRead time-to-notification is 1.07 ± 0.57 (mean ± SD) minutes, which is substantially
+lower than the standard of care time-to-open-exam of 75.4±192.7 minutes (P < 0.001). This
+validation study shows that InferRead CT Stroke.AI is both safe and effective.
+Conclusions
+Based on the technological comparison, the major difference is that the subject device marks the
+suspected case in the work list instead of a pop up notification. In both cases, the user must be
+receptive to the visual outputs of the device. After comparison, we do not find different issues of
+safety or effectiveness. In the same way as the predicate, the subject also uses deep learning
+algorithm to process images and predict intracranial hemorrhage. The intended use of the two are
+the same.
+The performance testing demonstrated that the subject device performed similarly. These results
+show that the subject device does not have significant differences and is as safe and effective as a
+legally marketed predicate device.
+Infervision InferRead CT Stroke.AI Traditional 510(k) Confidential Page 7 of 7

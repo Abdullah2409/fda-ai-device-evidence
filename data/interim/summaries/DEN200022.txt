@@ -1,0 +1,719 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+ANALYTIC FOR HEMODYNAMIC INSTABILITY (AHI)
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Adjunctive hemodynamic indicator with decision point. An adjunctive hemodynamic
+indicator with decision point is a device that identifies and monitors hemodynamic
+condition(s) of interest and provides notifications at a clinically meaningful decision
+point. This device is intended to be used adjunctively along with other monitoring and
+patient information.
+NEW REGULATION NUMBER: 21 CFR 870.2220
+CLASSIFICATION: Class II
+PRODUCT CODE: QNV
+BACKGROUND
+DEVICE NAME: Analytic for Hemodynamic Instability (AHI)
+SUBMISSION NUMBER: DEN200022
+DATE DE NOVO RECEIVED: April 3, 2020
+SPONSOR INFORMATION:
+Fifth Eye Inc.
+110 Miller Avenue, Suite 300
+Ann Arbor, MI 48104
+INDICATIONS FOR USE
+The Analytic for Hemodynamic Instability (AHI) software is intended for use by
+healthcare professionals managing in-hospital patients 18 years or older who are
+receiving continuous physiological monitoring with electrocardiography (ECG).
+AHI provides a frequently updated binary output over time based on pattern analysis of a
+lead-II ECG waveform intended to describe a patient's hemodynamic status and indicate
+if a patient is showing signs of hemodynamic stability or instability. Signs of
+hemodynamic instability are defined as hypotension (systolic blood pressure <90 mmHg
+or mean arterial pressure (MAP) <70 mmHg) combined with tachycardia (heart rate ≥
+100 bpm).The goal of this adjunctive monitoring method is to enable identification of patients who
+are showing signs of hemodynamic instability and to allow clinicians an opportunity to
+increase vigilance. This device is intended for adjunctive use with other physical vital
+sign parameters and patient information and is not intended to independently direct
+therapy.
+LIMITATIONS
+The following reflect the limitations of the underlying dataset that AHI was trained on as
+well as specific physiological conditions that may affect the ECG-II features that AHI
+analyzes and might produce an incorrect output. AHI’s performance has not been
+validated on patients with these conditions:
+• Less than 18 years of age
+• Cardiac transplant
+• Ventricular assist device (VAD)
+• Sustained atrial or ventricular arrhythmia
+• Pacemaker dependent during AHI data collection
+• On comfort/palliative care, or Do Not Attempt Resuscitate (DNAR) status
+The sale, distribution, and use of the Analytic for Hemodynamic Instability (AHI) are
+restricted to prescription use in accordance with 21 CFR 801.109.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+Analytic for Hemodynamic Instability (AHI) is a software as a medical device (SaMD) that
+analyzes Lead-II ECG signals to identify patients who are showing signs of hemodynamic
+instability. Signs of hemodynamic instability are defined as low blood pressure (BP) and high
+heart rate (HR). The device processes 5 minutes of continuously recorded Lead II ECG data to
+determine the presence of a combination of HR ≥ 100 bpm and SBP < 90 mmHg/MAP < 70
+mmHg within a 2-minute sliding window as shown in the figure below. The system normalizes
+input signals and assesses signal quality prior to data analysis.
+De Novo Summary (DEN200022) Page 2 of 22Rationale for Vital Sign Thresholds
+Vital Sign Thresholds for Thresholds for Rationale for Selection of Vital Sign Thresholds
+Measure ‘Normal ‘Out of Range’
+These traditional vital signs have well-established and accepted
+Range’ Vital Vital Sign(s)
+ranges of normal, as described in the referenced peer-reviewed
+Sign(s) Label Label
+literature below.
+Heart Rate HR <100 bpm HR ≥ 100 bpm According to the American Heart Association, a normal range
+for heart rate is between 60 and 100 beats per minute. They also
+state that although resting heart rate could be below 60 for
+consistently active individuals, it seldom is above 100 for adults
+(American Heart Association 2018). Therefore, a resting heart
+rate above 100 is indicative of hemodynamic distress as also
+recognized in the Modified Early Warning Score (MEWS) which
+is designed to identify patient at risk of clinical deterioration
+(Subbe et al. 2001).
+Systolic SBP ≥ 90 mmHg SBP <90 mmHg Systemic Inflammatory Response Syndrome (SIRS) criteria as
+Blood defined by American College of Chest Physicians (ACCP) and
+Pressure the Society of Critical Care Medicine (SCCM) uses systolic
+blood pressure less than 90 mm Hg as one of four rules
+indicating hemodynamic instability (Dellinger et al. 2013; Bone
+et al. 1992). Furthermore, in a study by Pierson et. al. one of the
+criteria used as a trigger for a rapid response team activation was
+when the systolic blood pressure fell below 90 mm Hg for any
+patient (Pierson 2013). Similarly, a study by Fagan et. al. also
+considered systolic blood pressure below 90 mm Hg as vital sign
+abnormality to trigger rapid response team (Fagan et al. 2012).
+The most common hemodynamic variable associated with shock
+is hypotension, typically “defined as systolic arterial pressure
+less than 90 mm Hg or mean arterial pressure less than 70 mm
+Hg with associated tachycardia” (Vincent and De Backer 2013)
+Mean MAP ≥ 70 MAP <70 The most common hemodynamic variable associated with shock
+Arterial mmHg mmHg is hypotension, typically “defined as systolic arterial pressure
+Pressure less than 90 mm Hg or mean arterial pressure less than 70 mm
+Hg with associated tachycardia” (Vincent and De Backer
+2013). “As a single value less than 70 mmHg or a series of
+successive measurements trending downward toward 70 mmHg,
+MAP provides an objective assessment of hypotension that may
+precede hemodynamic decompensation.” (Henry et al. 2002)
+De Novo Summary (DEN200022) Page 3 of 22SUMMARY OF NONCLINICAL/BENCH STUDIES
+SOFTWARE
+The sponsor provided documentation according to “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices - Guidance for
+Industry and FDA Staff” (5/11/2005). The software was determined to be a moderate
+level of concern. The documentation included unit (module or component) level testing,
+integration level testing, and system level testing. The following test suites were
+performed to demonstrate the software functionality:
+Test Name Test Description
+User Acceptance Test Suite Verified that the software behaved as expected based on the
+requirements accessible to a person using the software.
+End-to-End Test Suite Verified component integration, application stability, and end-to-
+end functionality.
+Algorithm System Test Verified component integration, AHI algorithm functionality, and
+Suite application stability.
+Component Test Suite Used unit, code quality, and coverage tests to provide individual
+validation of low-level functions and scenarios to verify that units
+performed as expected at the function level on the specific product
+components.
+Software Performance Test Verified component integration, AHI algorithm functionality, and
+Suite application stability.
+Browser Compatibility Verified the software performed acceptably across the range of
+Test Suite specified operating systems and browsers.
+Amazon Web Services Verified the cybersecurity and managed services capabilities that
+(AWS) OTS Platform are not tested automatically.
+Capability Test Suite
+Labeling Test Suite Verified the software user documentation met labeling
+requirements.
+Installation Guide Test Verified the software documentation met the installation guide
+Suite requirements.
+De Novo Summary (DEN200022) Page 4 of 22Fifth Eye’s approach to cybersecurity addressed each of the elements identified in the
+guidance document “Content of Premarket Submissions for Management of
+Cybersecurity in Medical Devices” (2014).
+HUMAN FACTORS/USABILITY
+A formative usability study followed by a (b) (4)participant (including Registered nurses,
+Nurse Practioners, Physician Assistants & MD prescribers) simulated use validation
+study was conducted according to the guidance document “Applying Human Factors and
+Usability Engineering to Medical Devices” (2016). The summative validation study was
+conducted in a simulated-use format in which intended users performed the tasks that are
+necessary to use AHI as intended. Participants had access to AHI itself, the AHI
+Indications for Use (IFU), and any relevant accessories. Human factors specialists
+observed participants as they performed various tasks and documented difficulties and
+use errors. The following critical tasks were assessed in the summative study:
+• Determine if participants can correctly interpret patient exclusions and understand
+how to correctly change patient exclusion status.
+• Associate AHI output to correct patient
+• Interpret the AHI outputs correctly in the user interface
+• Apply filter views to correctly interpret which patients are shown and hidden
+• Determine if participants can correctly interpret Indications for Use, including the
+importance of using AHI outputs as an adjunct to other parameters and patient
+information and not being used to solely direct therapy.
+Comprehension questions were used to address critical knowledge tasks or interactions
+that could not be evaluated through simulation. The results of the human factors
+validation study were analyzed to identify root causes of any difficulties or use errors
+observed during testing. Uncertainty regarding comprehension of the vital signs
+components termed signs of hemodynamic instability was addressed by prominently
+displaying this definition in the user interface.
+The results of the human factors validation study demonstrated that mitigations
+addressing use-related risk were effective. Human factors researchers conducted a root
+cause analysis to identify the root causes of each difficulty and use error that was
+observed. Across the (b) (4)validation study participants, a total of 960 critical performance
+and comprehension task interactions were attempted. Among these attempts, there was an
+overall (b) (4) success rate, (b) (4)difficulty rate (( b) (4)observed difficulties), and (b) (4)use
+error rate (b) (4)observed use errors). The findings from the validation study demonstrate that
+the vast majority of simulated-use and comprehension tasks were completed without use
+error or difficulty.
+SUMMARY OF CLINICAL INFORMATION
+The sponsor conducted a prospective, single-center, observational study to investigate the
+performance of AHI for identifying out-of-range (OOR) vital signs with respect to ECG and
+invasive BP reference standards. The study collected data from (b) (4)consecutive patients
+De Novo Summary (DEN200022) Page 5 of 22admitted to the critical care and emergency room units November 26, 2019 through January 29,
+2020 at the University of Michigan Medical Center. The data included all patients monitored
+with an ECG monitor in all units capable of monitoring patients with an arterial line. All data
+from patients who were not excluded due to the limitations of the training dataset (see above)
+and underwent both continuous ECG and continuous arterial line blood pressure monitoring were
+included in the analysis. After these exclusions, 222 patients contributed data for the primary
+analysis. The demographic information for these patients is summarized in the table below.
+Table 1: Study Patient Demographics
+Characteristic Statistic Primary Analysis Set N=222
+Gender
+Male, n (%) 125 (56.3%)
+Female, n (%) 97 (43.7%)
+Age (Years)
+Mean (SD) 58.8 (15.3)
+Median (Q1, Q3) 61 (47, 70)
+Minimum, Maximum 19, 92
+Race, n (%)
+American Indian or Alaska Native 0 (0%)
+Asian 9 (4.1%)
+Black or African American 24 (10.8%)
+Native Hawaiian and Other Pacific Islander 0 (0%)
+White 175 (78.8%)
+Other 9 (4.1%)
+Unknown or not reported 5 (2.3%)
+Ethnicity
+Hispanic 10 (4.5%)
+Non-Hispanic 203 (91.4%)
+Unknown or not reported 9 (4.1%)
+Of (b) (4) minute windows from these 222 patients, (b) (4) were flagged by the system as AHI
+Noisy. When the window was flagged as AHI Noisy, the reference standard was not available
+(b) (4) of the time, normal range vital signs (b) (4) of the time, and out-of-range vital signs (b) (4)
+of the time. Therefore, the AHI Noisy flag was infrequent and did not appear to mask
+hemodynamic instability events according to the reference standard.
+Using all of the windows in the Eligible Patient Set (b) (4) , the percentage of windows that
+were flagged as AHI Missing was (b) (4) . When the window was flagged as AHI Missing, the
+reference standard was not available(b) (4) of the time, normal range vital signs (b) (4)of the
+(b) (4)
+time, and out-of-range vital signs of the time. Therefore, the vast majority of the time an
+AHI Missing flag reflects patients not being monitored by ECG or arterial line.
+(b) (4) of the (b) (4) windows contained valid paired data for comparison. (b) (4) of ineligible
+windows were due to the BP reference standard being unavailable.
+De Novo Summary (DEN200022) Page 6 of 22The primary analysis was performed on a per-window basis, and each patient contributed at most
+data from 150 windows. The performance results are summarized in the table below. The
+results met the predetermined acceptance criteria.
+Table 2: Primary Analysis of Windows-Based Primary Study Endpoints
+Windows-Based Observed Estimate 95% one-sided Acceptable Threshold
+Performance Measure confidence interval [1] [2]
+Sensitivity 95.6% 2.5% LCB: 88.9% >85%
+1-Specificity 15.1% 97.5% UCB: 19.7% <25%
+Specificity 84.9% n/a >75%
+[1] Bootstrap confidence interval based on 100 samples with replacement from Primary Analysis Set patient data (note: not re-sampling windows
+within a patient). LCB = lower confidence bound; UCB = upper confidence bound; 1-specificity = false positive rate
+[2] The null hypothesis is rejected and we conclude that sensitivity > 85% and 1-specificity < 25% (equivalently, specificity > 75%) if 2.5% LCB
+is > 85% and 97.5% UCB is < 25%.
+Two key risks of the AHI output are false negatives and false positives. A false negative means
+that a clinician will see an ‘AHI Stable’ output when the patient is actually unstable according to
+the reference standard for that particular 5-minute window and will maintain standard of care. If
+hemodynamic instability progresses unrecognized, there is risk of a failure to rescue a patient.
+The observed sensitivity (95.6%) in the study means there were few false negatives (Type-II
+error), and thus fewer instances of missed hemodynamic instability. The false negative rate was
+(b) (4).
+Negative predictive value is the probability that any window classified as ‘AHI Stable’ also is
+labeled as Normal Range according to the conservative vital signs-based reference standard. The
+(b) (4)
+negative predictive value was The high negative predictive value is partially due to the
+low prevalence of OOR windows, is reassuring for clinicians that when AHI says the patient is
+hemodynamically stable, the patient is very likely hemodynamically stable.
+A false positive means that a clinician will see an ‘AHI Unstable’ output when the patient is
+stable according to the reference standard for that particular 5-minute window and will increase
+vigilance. The consequences of increasing vigilance on a stable patient (false positive) are
+distraction from higher priority patients and potential for alarm fatigue. As clinicians increase
+their vigilance on that patient, since the patient is actually stable, the results of increased
+vigilance will not confirm that the patient is unstable. Since AHI is adjunctive information
+intended to be used in conjunction with other information, the clinician will be considering the
+total picture of the patient’s condition in determining the course of care. The observed specificity
+(b) (4)
+in the study means there were relatively few false positives (Type-I error). The false
+positive rate was (b) (4)
+Positive predictive value is the probability that any window classified as ‘AHI Unstable’ also is
+labeled as OOR according to the vital signs-based reference standard. In the study, the positive
+De Novo Summary (DEN200022) Page 7 of 22(b) (4) (b) (4)
+predictive value was reflecting in part the influence of the low prevalence of OOR
+windows on these statistics.
+When using AHI in a clinical setting, the recommended action based on an AHI Unstable
+window is to increase vigilance in monitoring the identified patient. As an adjunctive device,
+clinicians will consider an AHI Unstable window in the context of the trend of other AHI outputs
+as well as with other clinical context information to determine the appropriate clinical action
+which may include waiting for additional clinical confirmation of a patient's hemodynamic
+status. The effect on alarm fatigue should be minimal because the AHI is a visual-only indicator.
+The endpoint estimates produced by the various subgroup analysis shows that the results are
+largely comparable between the different subgroups. The subgroup analysis based on age (see
+Table 3) does show a variance between the two subgroups. Statistical literature on subgroup
+analyses indicates such variances are to be expected because of inadequate sample size.
+Table 3: Subgroup Analysis of Primary Endpoints by Age
+Observed Bootstrapped [1]
+AGE Mean (Std Dev)
+(Median = 61 Years)
+Below Median Above Median Below Above
+Age (N=110) Age (N=112) Median Age Median Age
+Sensitivity 97.1% 91.9% 97.1% (1.6%) 91.8% (4.9%)
+Specificity 76.2% 89.0% 76.3% (3.6%) 88.7% (2.3%)
+[1] Bootstrap based on 100 samples with replacement from patient data (note: not re-sampling
+windows within a patient).
+Due to ethical concerns regarding risks associated with arterial line invasive BP and the known
+significant error of noninvasive BP particularly in hypotensive patients, the primary analysis was
+performed using invasive BP as a reference standard rather than being performed in the
+population most likely to receive benefit from the device. The representativeness of the study
+data for ECG-monitored patients without an indwelling A-line was therefore demonstrated
+through several additional analyses. Concern that additional motion artifact may degrade
+performance in the population without A-line was addressed by comparing prevalence of noisy
+and missing windows as shown in the table below.
+De Novo Summary (DEN200022) Page 8 of 22Table 4: Comparison of the Distribution of AHI Noisy and AHI Missing Windows in the Study Population
+and Intended Use Population
+Characteristic Study Population Intended Use Population
+(Eligible Patient Set) (Scored Set)
+(b) (4)
+Patients, N 222
+(b) (4)
+Windows, n
+AHI Noisy Windows (n, %)
+Median (25, 75) [1]
+AHI Missing Windows (n, %)
+Median (25, 75) [1]
+Consistency of the prevalence of OOR windows between populations was demonstrated as
+shown in the table below. In these tables, “Study Population” refers to patients with indwelling
+A-lines, “Rest of Intended Use Population” is collected subjects who were not eligible for the
+Study Population, and “Intended Use Population” is the combination of both populations.
+Differences in the subject and measurement number are due to availability of time-aligned vital
+signs.
+Table 5: Prevalence of Normal and Out of Range Vital Signs -Based Reference Standard Between Intended
+Use and Study Populations
+Analysis of Continuous Intermittent Vital Signs from EHR
+Distribution of Vital Signs
+Normal and
+Study Population Intended Use Study Rest of Intended
+OOR Reference
+(Analysis Set) Population Population Use Population
+Standard
+Windows
+(b) (4)
+% Normal Range
+Reference
+Standard
+Windows
+% Out-of-Range
+Reference
+Standard
+Windows
+De Novo Summary (DEN200022) Page 9 of 22Consistency of the performance of AHI across these populations was further confirmed using
+intermittent non-invasive BP data from the patient record.
+Table 6: Primary and Secondary Endpoints - Results Comparing Intended Use and Study Population
+Performance Analysis of Intermittent Vital Signs from EHR
+AHI Using EHR Recorded
+Vital Signs
+Intended Use Study Rest of Intended Use
+Population Population Population
+905 patients 154 patients 751 patients
+73,270 Windows 12,867 Windows 60,403 Windows
+(b) (4)
+Sensitivity
+Specificity
+Positive Predictive Value
+Negative Predictive Value
+The sponsor also provided a post-hoc subject-level analysis to characterize the frequency
+distribution of false positive and false negative windows in individual patients.
+Distribution of detection delay for OOR windows was characterized and found to be mostly
+within the time period of a single window.
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+LABELING
+The device User Manual includes the following essential information:
+(i) The type of sensor data used, including specification of compatible sensors for data
+acquisition, and a clear description of what the device measures and outputs to the
+user;
+User manual describes that the AHI uses the continuous waveform produced from Lead-II of
+a standard application of the electrocardiogram (ECG) monitor and lists required
+De Novo Summary (DEN200022) Page 10 of 22specifications for the monitor and use of gel-based electrodes placed according to ECG
+monitor manufacturer’s standards.
+The manual warns that AHI uses the continuous waveform produced from Lead-II of a
+standard application of the ECG monitor, with the specified sampling rate and AHI depends
+on the quality of the data captured. It recommends that the user follow the ECG monitor
+manufacturer’s instructions when prepping the patient and placing electrodes and ensure the
+patient is associated with the proper ECG monitor.
+Warning:
+(ii) Warnings identifying factors that may impact output results;
+The user manual warnings include the following:
+• The device being intended for adjunctive use with other physical vital sign parameters
+and patient information and not being intended to independently direct therapy.
+• AHI providing additional information regarding the patient’s physiological condition
+for reference only and that no diagnostic or therapeutic decisions should be made
+based solely on AHI’s output.
+• AHI is an adjunct to and is not intended to replace ECG monitoring and is not
+intended for arrhythmia alarm notification. Since AHI is not indicated for use under
+conditions of sustained atrial or ventricular arrhythmia, clinicians should consider any
+arrhythmia alarms provided directly by their ECG monitoring system when
+interpreting AHI outputs.
+• AHI depends on the quality of the data captured. Follow the ECG monitor
+manufacturer’s instructions when prepping the patient and placing electrodesand to be
+sure the patient is associated with the proper ECG monitor.
+• Warnings note that AHI is designed to detect if a patient is showing signs of
+hemodynamic instability as represented by the hemodynamic variables of heart rate
+and blood pressure, and that the AHI display does not address all potential
+physiologic conditions and no diagnostic or therapeutic decisions should be made
+based solely on AHI’s output.
+(iii) Guidance for interpretation of the outputs, including warning(s) specifying adjunctive
+use of the measurements;
+The user manual describes the AHI output as reflecting a patient’s hemodynamic status and
+indicating if a patient is showing signs of hemodynamic stability or instability by identifying
+subtle ECG-II patterns and providing an indicator that can be viewed both as the most recent
+window (colored bar) as well as displaying the time trend of bars to show the pattern of AHI
+classifications for an individual patient over time. The AHI device is not intended to provide
+a definitive diagnosis of hemodynamic instability but is intended to provide additional
+information about hemodynamic status that can be used to support clinical decision-making.
+For each window with sufficient ECG data quality, the extracted ECG features are classified
+by AHI to produce a classification output of either “AHI Stable” or “AHI Unstable”.
+De Novo Summary (DEN200022) Page 11 of 22The user manual states that for purposes of validating AHI and its Indications for Use, signs
+of hemodynamic instability are defined as hypotension (systolic blood pressure <90 mmHg
+or mean arterial pressure (MAP) < 70 mmHg) combined with tachycardia (heart rate ≥ 100
+bpm).
+There is no universally accepted definition of hemodynamic instability. For AHI, the
+definition is based on medial literature references in which hemodynamic instability can be
+defined as one or more out-of-range vital sign measurements represented by clinical features
+of circulatory shock and advanced heart failure. Hemodynamic instability is associated with
+the development of potentially life-threatening shock. It has been clinically recognized that a
+combination of hypotension and tachycardia can ensue in any type of shock.
+• The user manual describes that the AHI provides a binary output every 2 minutes
+from a rolling 5-minute window of ECG data showing either AHI Unstable (red bar)
+or AHI Stable (green bar). If AHI is not able to produce an analytic output, a user
+may obtain further information based upon the following scenarios: Noisy (gray bar)
+• Missing data (black bar)
+• Prior to initialization of patient (no bar)
+The manual describes the interpretation of each of the outputs as follows:
+AHI Stable (green bar) - The AHI output is indicating to the healthcare professional that the
+patient is showing signs of hemodynamic stability, specifically no combination of
+hypotension (systolic blood pressure < 90 mmHg or mean arterial pressure (MAP) < 70 mm
+Hg) and tachycardia (heart rate ≥ 100 bpm), in their 5-minute ECG-II signal, hence maintain
+the normal course of care.
+AHI Unstable (red bar) - The AHI output is indicating that the patient is showing signs of
+hemodynamic instability, specifically hypotension (systolic blood pressure < 90 mmHg or
+mean arterial pressure (MAP) < 70 mm Hg) combined with tachycardia (heart rate ≥ 100
+bpm), in their 5-minute ECG-II signal. The interpretation of a red AHI output is to increase
+clinical vigilance on that patient and review patient hemodynamics in the context of other
+available clinical information to identify any potential causes for hemodynamic instability
+and intervene if appropriate. AHI is intended for use by healthcare professionals as additional
+information regarding the patient’s physiological condition for reference only and no
+diagnostic or therapeutic decisions should be made based solely on AHI’s output.
+De Novo Summary (DEN200022) Page 12 of 22Missing (black bar) - A black bar indicates that an AHI output could not be generated for
+patients on ECG monitoring due to missing data in the 5-minute window. Potential causes
+include a patient being removed from ECG monitoring for transport or discharge, patient
+with poor electrode contact, patient associated with more than one ECG monitor, or problem
+with the ECG monitor or network.
+Noisy (gray bar) - In order to increase the accuracy of AHI, each 5-minute window of patient
+ECG data is pre-qualified. If the pre-qualification of the ECG window detects heart rate,
+heart rate variability, or waveform morphology outside of the validated analytic inputs, the
+window is described as noisy and is represented with a gray bar. Noisy windows (gray bars)
+do not indicate patient status. Patient deterioration should be detected via the normal course
+of care using the full clinical context information available to the healthcare professional.
+Every 2 minutes, each rolling 5-minute window of ECG data is pre-qualified independently.
+Prior to initialization of patient (no bar) - AHI will not display an output bar in the following
+conditions:
+• AHI is Initializing upon the start of a new patient. The first output will be displayed
+when the first AHI output is calculated, typically within 5 to 7 minutes
+• Time period to the left of the first AHI output
+• Duplicate MRN, a patient is registered in two ECG monitors
+Further description is provided in the user manual of how trends of outputs should be
+interpreted:
+How many red AHI outputs indicate that I should intervene?
+Each AHI output is based on analysis of a specific 5-minute window of ECG data. AHI
+outputs are based on a “point-in-time” pattern analysis and are not cumulative, so while
+more red AHI outputs indicate that AHI is repeatedly identifying concerning patterns,
+there is no specific number of red bars that indicate required intervention. The
+interpretation of a red AHI bar is to increase clinical vigilance on that patient and review
+patient hemodynamics in the context of other available clinical information to identify
+any potential causes for the identified signs of hemodynamic instability (hypotension and
+tachycardia) and intervene if appropriate. AHI is intended for use by healthcare
+professionals as additional information regarding the patient’s physiological condition for
+reference only and no diagnostic or therapeutic decisions should be made based solely on
+AHI’s output.
+If the patient’s AHI output was GREEN and goes to RED, do I need to increase vigilance?
+The most recent red AHI output is indicating to the healthcare professional that the
+patient is showing signs of hemodynamic instability (hypotension and tachycardia) in
+their 5-minute ECG-II signal. The interpretation of a red AHI bar is to increase clinical
+vigilance on that patient and review patient hemodynamics in the context of other
+De Novo Summary (DEN200022) Page 13 of 22available clinical information to identify any potential causes for the signs of
+hemodynamic instability (hypotension and tachycardia) and intervene if appropriate.
+AHI is intended for use by healthcare professionals as additional information regarding
+the patient’s physiological condition for reference only and no diagnostic or therapeutic
+decisions should be made based solely on AHI’s output.
+If the patient’s AHI output was RED and goes to GREEN, should I decrease vigilance?
+The most recent green AHI output is indicating to the healthcare professional that the
+patient is showing signs of stable hemodynamic status (no combination of hypotension
+and tachycardia) in their 5-minute ECG-II signal, indicating that they should maintain the
+normal course of care in treating the patient. AHI is an adjunct to and is not intended to
+replace other sources of clinical information. Healthcare professionals should rely on
+other clinical measures to make decisions about care.
+Should I order a medical intervention based solely on an AHI Unstable (red) output?
+AHI is intended for use by healthcare professionals as additional information regarding
+the patient’s physiological condition for reference only and no diagnostic or therapeutic
+decisions should be made based solely on AHI’s output. The interpretation of a red AHI
+bar is to increase clinical vigilance on that patient and review patient hemodynamics in
+the context of other available clinical information to identify any potential causes for
+signs of hemodynamic instability (hypotension and tachycardia) and intervene if
+appropriate.
+How will patients deteriorating for non-hemodynamic reasons be detected by AHI?
+Patient deterioration for causes that do not lead to signs of hemodynamic instability
+hypotension and tachycardia) will not be detected by AHI. Such patient deterioration
+should be detected via the normal course of care using the full clinical context
+information available to the healthcare professional. This is outside of the intended use of
+AHI . AHI is an adjunct to and is not intended to replace other sources of clinical
+information.
+How often does AHI indicate “AHI Unstable” when the patient is actually stable?
+Based on the windows-level analysis in the clinical validation study, this question
+represents the False Positive Rate of AHI. It will be captured in the Specificity value
+within the Clinical Validation portion of the Instructions for Use.
+How often does AHI indicate “AHI Stable” when the patient is actually unstable?
+Based on the windows-level analysis in the clinical validation study, this question
+represents the False Negative Rate of AHI. It will be captured in the Sensitivity value
+within the Clinical Validation portion of the Instructions for Use.
+De Novo Summary (DEN200022) Page 14 of 22(iv) Key assumptions made in the calculation and determination of measurements.
+There is no universally accepted definition of hemodynamic instability. For AHI, the
+definition is based on medical literature references in which hemodynamic instability can be
+defined as one or more out-or-range vital sign measurements represented by clinical features
+of circulatory shock and advanced heart failure.
+AHI is an adjunct to and is not intended to replace ECG monitoring and is not intended for
+arrhythmia alarm notification. Since AHI is not indicated for use under conditions of
+sustained atrial or ventricular arrhythmia, clinicians should consider any arrhythmia alarms
+provided directly by their ECG monitoring system when interpreting AHI outputs.
+AHI uses the continuous waveform produced from Lead-II of a standard application of the
+electrocardiogram (ECG) monitor. AHI depends on the quality of the data captured. Follow
+the ECG monitor manufacturer's instructions when prepping the patient and placing
+electrodes. Be sure the patient is associated with the proper ECG monitor.
+Designed to detect if a patient is showing signs of hemodynamic stability or instability as
+represented by the hemodynamic variables of heart rate and blood pressure, the AHI display
+does not address all potential physiologic conditions and no diagnostic or therapeutic
+decisions should be made based solely on AHI’s output. See Indications for Use.
+Follow ECG monitor manufacturer’s standards for electrode placement.
+Before a new patient’s outputs are displayed in the AHI user interface, the user must affirm
+that the patient does not meet any of the contraindicated criteria by clicking on the “Start
+AHI Monitoring” button to begin display of AHI outputs for that patient. If one of the
+contraindicated criteria applies, the user should click the “Contraindicate” button which will
+prevent the display of AHI outputs for that patient.
+Each AHI output is based on analysis of a specific 5-minute window of ECG data. AHI
+outputs are based on a “point-in-time” pattern analysis and are not cumulative, so while more
+red AHI outputs indicate that AHI is repeatedly identifying concerning patterns, there is no
+specific number of red bars that indicate required intervention.
+Patient deterioration for causes that do not lead to signs of hemodynamic instability
+(hypotension and tachycardia) will not be detected by AHI. Such patient deterioration should
+be detected via the normal course of care using the full clinical context information available
+to the healthcare professional. This is outside of the intended use of AHI. AHI is an adjunct
+to and is not intended to replace other sources of clinical information.
+(v) The performance of the device for all presented parameters, for all intended use
+populations, with appropriate confidence intervals, and the supporting evidence for
+this performance; and
+De Novo Summary (DEN200022) Page 15 of 22(vi) A detailed description of the patients studied in the clinical validation (e.g., age,
+gender, race/ethnicity) as well as procedural details of the clinical study.
+De Novo Summary (DEN200022) Page 16 of 22(vii) Recommended user practices for maintaining cybersecurity of the software.
+Recommended practices described in the user manual include:
+• Only use approved browser versions as specified in the AHI labeling.
+• Use Virtual Private Network (VPN) to remotely access the AHI system when
+connecting outside the firewall.
+• Users should regularly install operating system (OS) updates per manufacturer’s
+recommendations to ensure that the latest security patches have been applied.
+• Regularly run anti-virus software to detect and remove for viruses and malware as
+recommended by the OS manufacturer.
+• AHI user passwords should use strong passwords and rotate them according to the
+customer site’s security policy; Two-factor authentication is recommended.
+• Do not share passwords with others.
+• Users should log off when the AHI system is not in use
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of the adjunctive
+hemodynamic indicator with decision point and the measures necessary to mitigate these risks.
+Identified Risks to Health and Mitigation Measures
+Identified Risks to Health Mitigation Measures
+Delayed or incorrect treatment due to Software verification, validation, and hazard analysis
+erroneous output as a result of Non-clinical performance testing
+software malfunction or algorithm Clinical data
+error Labeling
+Delayed or incorrect treatment due to Usability assessment
+user misinterpretation Labeling
+De Novo Summary (DEN200022) Page 17 of 22SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the adjunctive hemodynamic
+indicator with decision point is subject to the following special controls:
+(1) Software description, verification, and validation based on comprehensive hazard
+analysis and risk assessment must be provided, including:
+(i) Full characterization of technical parameters of the software, including
+algorithm(s);
+(ii) Description of the expected impact of all applicable sensor acquisition hardware
+characteristics on performance and any associated hardware specifications;
+(iii)Specification of acceptable incoming sensor data quality control measures;
+(iv) Mitigation of impact of user error or failure of any subsystem components
+(signal detection and analysis, data display, and storage) on output accuracy; and
+(v) The sensitivity, specificity, positive predictive value, and negative predictive
+value in both percentage and number form for clinically meaningful pre-
+specified time windows consistent with the device output.
+(2) Scientific justification for the validity of the hemodynamic indicator algorithm(s) must
+be provided. Verification of algorithm calculations and validation testing of the
+algorithm must use an independent data set.
+(3) Usability assessment must be provided to demonstrate that risk of misinterpretation of
+the status indicator is appropriately mitigated.
+(4) Clinical data must support the intended use and include the following:
+(i) The assessment must include a summary of the clinical data used, including
+source, patient demographics, and any techniques used for annotating and
+separating the data;
+(ii) Output measure(s) must be compared to an acceptable reference method to
+demonstrate that the output represents the measure(s) that the device provides in
+an accurate and reproducible manner;
+(iii)The data set must be representative of the intended use population for the device.
+Any selection criteria or limitations of the samples must be fully described and
+justified;
+(iv) Where continuous measurement variables are displayed, agreement of the output
+with the reference measure(s) must be assessed across the full measurement
+range;
+(v) Data must be provided within the clinical validation study or using equivalent
+datasets to demonstrate the consistency of the output and be representative of the
+range of data sources and data quality likely to be encountered in the intended
+use population and relevant use conditions in the intended use environment; and
+(5) Labeling must include the following:
+(i) The type of sensor data used, including specification of compatible sensors for
+data acquisition, and a clear description of what the device measures and outputs
+to the user;
+(ii) Warnings identifying factors that may impact output results;
+De Novo Summary (DEN200022) Page 18 of 22(iii)Guidance for interpretation of the outputs, including warning(s) specifying
+adjunctive use of the measurements;
+(iv) Key assumptions made in the calculation and determination of measurements;
+and
+(v) A summary of the clinical validation data, including details of the patient
+population studied (e.g., age, gender, race/ethnicity), clinical study protocols,
+and device performance with confidence intervals for all intended use
+populations.
+BENEFIT-RISK DETERMINATION
+The risks of the device are based on nonclinical software verification/validation and usability
+testing as well as data collected in the clinical study described above.
+The consequences of a false negative reading would be a delay in the provision of care or false
+reassurance. This would be a serious consequence in that a patient could suffer harm from the
+delay in providing care. However, there currently are no noninvasive alternatives to provide the
+same functionality. A false positive reading will likely prompt a confirmatory noninvasive BP
+measurement by the HCP. While it increases resource utilization, there may not be serious harm
+to the patient when used as labeled. Additional subject level analysis has further shown that the
+false positive readings were more likely to occur in patients who also had at least several and
+often many true positive readings, further limiting the clinical impact of the false positive results.
+Based on the protocol-specified (per window) analysis, the probability of a false positive was
+estimated to be (b) (4) The magnitude of false results is not excessive, and the severity is quite
+low.
+(b) (4)
+Additional per-subject analyses of the validation data show that of patients will receive
+significant false positive results. These have potential to place undue burden on healthcare
+professionals. Since no intervention should be given without confirmatory assessment/BP check,
+false positive results are unlikely to lead to serious patient harm. It is recognized that any
+diagnostic device without perfect specificity, such as the subject device, may increase burden on
+the healthcare professionals. Based on the reported specificity and the proposed conditions of
+use, however, the risk for undue burden to the health care is not expected to be excessive.
+The risk of misinterpreting the user output was addressed in the software validation and usability
+study. Critical tasks assessed included correctly interpreting patient AHI outputs in the user
+interface as an indication of OOR vital sign measurements and that the outputs are updated every
+2 minutes. The software user interface also prominently displays the vital sign definition of
+hemodynamic instability as implemented on the device software to avoid any misinterpretation.
+The probable benefits of the device are also based on data collected in a clinical study as
+described above.
+The clinical validation study results support that the device is reasonably effective at detecting a
+combination of hypotension and tachycardia. Continuous monitoring for early detection of
+De Novo Summary (DEN200022) Page 19 of 22hypotension/tachycardia events are likely to translate into timing intervention that may lead to
+better patient outcomes. The device has demonstrated a high negative predictive value and would
+be beneficial for patients under telemetry monitoring. Currently, there isn't a cleared non-
+invasive continuous BP/HR monitoring device. Other alternatives include frequent cuff BP
+readings or invasive arterial line which are associated with patient discomfort or risks for serious
+complications. Since the device technology offers significant advantages over existing cleared
+alternatives, device availability would be in the best interest of patients.
+This device allows continuous monitoring of patients for hemodynamic instability (defined as
+low BP and high heart rate) without requiring arterial catheterization. This circumvents the
+limitations of non-invasive blood pressure monitoring while avoiding the risks associated with
+invasive arterial instrumentation. With frequent updates, the device may identify asymptomatic
+patients who can benefit from higher levels of care earlier than with currently marketed
+noninvasive alternatives. The availability of the device has the potential to expand the use of
+telemetry for monitoring patients at risk of hemodynamic deterioration. The device is indicated
+to be an adjunct to the existing standard of care and not intended to replace current accepted vital
+sign monitoring.
+(b) (4) (b) (4)
+In the pivotal study, the device achieved sensitivity and specificity of and
+respectively, based on the pre-specified analysis. The results met the predetermined acceptance
+criteria. The sensitivity and specificity were very high for the majority of the subjects (on a per
+subject analysis, the median sensitivity and specificity estimates were (b) (4) and (b) (4)
+respectively). About 1/4 of patients received not infrequent false positive results. However,
+additional analysis showed that these patients were also likely to have a high prevalence of out-
+of-range vital signs. The false positive episodes might have reflected a delay in autonomic
+recovery after normalization of patient's blood pressure in some cases. A signal for heightened
+vigilance on these patients is expected to be beneficial.
+The major concern for the benefit observed in the pivotal study is how well it can be generalized
+to the full spectrum of the target population. Due to ethical considerations, the study enrolled
+only patients who received an arterial line for blood pressure monitoring. As a result, the study
+population is generally sicker than the intended use population. Given the invasive hemodynamic
+monitoring, these patients were cared for in the ER or ICU units. The differences between the
+populations introduce uncertainties to the generalizability of the study results to telemetry
+patients. Additional analyses showed that the device's performance was consistent across gender
+and race and in the less sick subgroup based on pressor/inotrope use. Comparative performance
+was shown to be consistent in patients without A-line based on available intermittent BP
+measurements. The results of the post-hoc analysis provide some assurance that the device is
+effective across the spectrum of the intended population.
+The validation study results support that the device is reasonably effective for the detection of a
+combination of hypotension and tachycardia. Continuous monitoring for early detection of
+hypotension/tachycardia events are expected to translate into timing intervention that may lead to
+better patient outcomes. The device has demonstrated a high negative predictive value and would
+be beneficial for patients under telemetry monitoring. Currently, there isn't a cleared non-
+invasive continuous BP/HR monitoring device. Other alternatives include frequent cuff BP
+De Novo Summary (DEN200022) Page 20 of 22readings or continuous arterial BP monitoring via an arterial line. Invasive hemodynamic
+monitoring is associated with patient discomfort and risks for serious complications. Since the
+device technology offers significant advantages over existing cleared alternatives, device
+availability would be in the best interest of patients.
+The analyses of the validation data show that the device performed with high sensitivity and
+specificity in a large proportion of patients. Patients who receive multiple false positive results
+also were more likely to have true hypotensive and tachycardia events. Since no intervention
+should be given without confirmatory assessment/BP check, false positive results are unlikely to
+lead to serious patient harm. It is recognized that any diagnostic device without perfect
+specificity, such as the subject device, may increase burden on the healthcare professionals.
+Based on the reported specificity and the proposed condition of use, however, the risk for undue
+burden to the health care is not expected to be excessive.
+A combination of hypotension and tachycardia is a well-recognized sign for significant
+physiologic distress and signals a potential serious condition. A device that can provide
+continuous non-invasive monitoring for these vital signs for at-risk patients is clinically valuable.
+Based on the observed device performance, it is reasonable to conclude that the benefit of the
+device for identifying patients who need escalated care outweighs the theoretical risk of medical
+resource over-utilization. There is a reasonable assurance of safety and effectiveness for the
+device when used as intended.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+The AHI software is intended for use by healthcare professionals managing in-hospital
+patients 18 years or older who are receiving continuous physiological monitoring with
+electrocardiography (ECG).
+AHI provides a frequently updated binary output over time based on pattern analysis of a
+lead-II ECG waveform intended to describe a patient's hemodynamic status and indicate
+if a patient is showing signs of hemodynamic stability or instability. Signs of
+hemodynamic instability are defined as hypotension (systolic blood pressure <90 mmHg
+or mean arterial pressure (MAP) <70 mmHg) combined with tachycardia (heart rate ≥
+100 bpm).
+The goal of this adjunctive monitoring method is to enable identification of patients who
+are showing signs of hemodynamic instability and to allow clinicians an opportunity to
+increase vigilance. This device is intended for adjunctive use with other physical vital
+sign parameters and patient information and is not intended to independently direct
+therapy.
+De Novo Summary (DEN200022) Page 21 of 22The probable benefits outweigh the probable risks for the Analytic for Hemodynamic Instability
+(AHI). The device provides benefits and the risks can be mitigated by the use of general controls
+and the identified special controls.
+CONCLUSION
+The De Novo request for the Analytic for Hemodynamic Instability (AHI) is granted and the
+device is classified as follows:
+Product Code: QNV
+Device Type: Adjunctive hemodynamic indicator with decision point
+Class: II
+Regulation Number: 21 CFR 870.2220
+De Novo Summary (DEN200022) Page 22 of 22

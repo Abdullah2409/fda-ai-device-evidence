@@ -1,0 +1,840 @@
+510(k) SUMMARY
+Date of Summary: October 28, 2013
+Product Name MBT-CA System
+Sponsor: Bruker Daltonics, Inc
+40 Manning Road,
+Billerica, MA 01821
+Correspondent MDC Associates, LLC
+Fran White, Regulatory Consultant
+180 Cabot Street
+Beverly, MA 01915
+Device Identification
+Trade or Proprietary Name: MALDI Biotyper CA System
+Common or Usual Name: Mass spectrometer for clinical multiplex test systems
+Product Code: PEX
+Regulation Section: 21 CFR 862.3361 Instrumentation for clinical multiplex test systems
+Device Class: Class II (special controls)
+Panel: Microbiology
+Substantial Equivalency
+The Bruker Daltonics, Inc MBT-CA System is substantially equivalent to the Vitek MS MALDI-TOF mass
+spectrometer system (K124067). Table 1 compares the characteristics of the MBT-CA System (New
+®
+Device) and the Vitek MS (predicate device).
+®
+Page 1 of 21Comparison of New Device with Predicate Device
+TABLE 1: Substantial Equivalency Table
+Similarities
+NEW DEVICE PREDICATE DEVICE
+Characteristic Bruker Daltonics, Inc MBT-CA System Vitek® MS
+(K130831) (K124067)
+Product Codes PEX PEX
+The Bruker Daltonics, Inc MALDI Biotyper The Vitek® MS is a mass spectrometer
+CA System is a qualitative in vitro system using matrix-assisted laser
+diagnostic mass spectrometer system for desorption/ionization-time to flight
+the identification of Gram-negative (MALDI-TOF) for the identification of
+bacterial colonies cultured from human microorganisms cultured from human
+specimens using matrix-assisted laser specimen.
+desorption/ ionization - time of flight
+Intended use (MALDI-TOF) mass spectrometry The VITEK MS is a qualitative in vitro
+technology. diagnostic device indicated for use in
+conjunction with other clinical and
+The MALDI Biotyper CA System is laboratory findings to aid in the diagnosis
+indicated for use in conjunction with of bacterial and yeast infections.
+other clinical and laboratory findings to
+aid in the diagnosis of Gram negative
+bacterial infections.
+Isolated colony from any patient sample Isolated colony from any patient sample
+source. source.
+Acceptable media: Acceptable media:
+• Columbia blood agar with 5% sheep
+• Columbia blood agar with 5% sheep blood
+blood • Trypitcase soy agar with 5% sheep
+Sample type • Trypticase soy agar with 5% sheep Blood
+Blood • Chocolate polyvitex agar
+• Chocolate agar • Campylosel agar
+• MacConkey Agar • MacConkey Agar
+• Modified Sabouraud dextrose Agar
+• ChromID CPS
+Type of Test Automated Mass Spectrometry System Automated Mass Spectrometry System
+Matrix α-Cyano-4-hydroxycinnamic acid α-Cyano-4-hydroxycinnamic acid
+Bacteria: Direct testing Bacteria: Direct testing
+Method of If after initial analysis the log(score) is
+Testing reported at < 2.00, organisms are
+processed using the extraction
+procedure.
+Page 2 of 21Similarities
+NEW DEVICE PREDICATE DEVICE
+Characteristic Bruker Daltonics, Inc MBT-CA System Vitek® MS
+(K130831) (K124067)
+A single identification is displayed, with a
+confidence value from 60.0 to 99.9, when
+Organism identification is reported with one significant organism or organism
+high confidence if the log(score) is ≥ 2.00. group is retained.
+An organism identification is reported
+“Low-discrimination” identifications are
+with low confidence if the log(score) is
+displayed when more than one but not
+between 1.70 and <2.00.
+Result more than four significant organisms or
+Reporting organism groups are retained.
+When more than four organisms or
+organism groups are found, or when no
+match is found, the organism is
+considered unidentified.
+Calculates matches by comparing a new Uses a proprietary process called "mass
+spectrum against each single reference binning.” In this process, the spectrum
+entry of a reference database. between 3,000 and 17,000 Daltons are
+divided into 1300 pre-defined
+intervals called “bins”. Next, an algorithm
+Matching based on supervised machine learning
+Algoritm known as the “Advanced Spectrum
+Classifier”, is used to determine how
+informative each bin was in
+differentiating that species from all other
+species in the database.
+Recorded mass
+2,000 - 20,000 m/z 2,000 - 20,000 m/z
+range
+Page 3 of 21Differences
+NEW DEVICE PREDICATE DEVICE
+Characteristic Bruker Daltonics, Inc MBT-CA System Vitek® MS
+(K130831) (K124067)
+Culture Age Bacteria growth should be between 18h to Bacteria and yeast growth should be between
+36h 24 to 72 hours.
+Calibration Bruker US IVD Bacterial Test Standard (BTS) E. coli ATCC 8739
+MALDI Target US IVD 48 Spot Target VITEK MS-DS Target Slides
+Plate • 48 positions reusable steel targets • 48 positions disposable plastic targets
+MALDI-TOF MS Bruker microflex Shimadzu AXIMA® Assurance MS
+instruments (benchtop) (floor standing)
+Database MALDI Biotyper for Clinical Applications VITEK® MS V2.0 Knowledge Base
+(MBT-CA)
+These differences do not affect substantial equivalence of the MBT-CA System and Vitek MS system.
+Both systems are mass spectrometer systems using matrix-assisted laser desorption/ionization-time to
+®
+flight (MALDI-TOF) for the identification of microorganisms cultured from human specimens. The
+differences noted above do not impact the intended use and do not raise questions as to the safety and
+effectiveness of the test (new) device.
+Intended Use
+The Bruker Daltonics, Inc MALDI Biotyper CA System is a qualitative in vitro diagnostic mass
+spectrometer system for the identification of Gram-negative bacterial colonies cultured from human
+specimens using matrix-assisted laser desorption/ ionization - time of flight (MALDI-TOF) mass
+spectrometry technology.
+The MALDI Biotyper CA System is indicated for use in conjunction with other clinical and laboratory
+findings to aid in the diagnosis of Gram negative bacterial infections.
+Methodology
+Biochemical methods are currently the most commonly used methods for the identification of
+microorganisms. Organisms are tested against a range of reagents and organism identification is based
+on a microorganism's reaction to these reagents.
+The MBT-CA System uses a different methodology for organism identification based on unique protein
+patterns of the microorganisms obtained from mass spectrometry. The test organism's spectrum (a
+pattern of mass peaks) is compared with a reference spectra library (database). Using biostatistical
+analysis, a probability ranking of the organism identification is generated. The probability ranking is
+represented as a log(score) between 0.00 and 3.00. Organism identification is reported with high
+confidence if the log(score) is ≥ 2.00. An organism identification is reported with low confidence if the
+log(score) is between 1.70 and <2.00.
+Page 4 of 21Organisms to be identified with the MBT-CA System should be isolated for purity on appropriate
+isolation media.
+Direct Transfer (DT): An individual colony from an overnight subculture plate is transferred to a selected
+position on an US IVD 48 Spot Target plate (target). The target is air dried and US IVD HCCA portioned
+(matrix) is added. The standard solvent (50% acetonitrile / 47.5% H O / 2.5% trifluoroacetic acid) in the
+2
+matrix solution extracts proteins (mainly ribosomal proteins, which are present in high concentration)
+from the microorganisms. When dried matrix crystallizes, the inoculated target is ready to be analyzed
+on the MBT-CA System. If after initial analysis the log(score) is reported at < 2.00, organisms can be
+processed using the extraction procedure and analysis repeated.
+Extraction Procedure (Ext): If after initial analysis the log(score) is reported at < 2.00, organisms are
+processed using the extraction procedure and analysis repeated. For this purpose, isolated colonies from
+the overnight subculture plate are extracted using ethanol / formic acid procedure. Afterwards they are
+transferred to the target and treated as described above.
+MALDI-TOF Analysis:
+Samples are analyzed using MALDI (matrix-assisted laser desorption/ionization) TOF (time-of-flight)
+mass spectrometry. The matrix transfers protons onto the extracted proteins and absorbs UV light. A
+laser in the MALDI- TOF mass spectrometer irradiates the matrix sample composite, causing evaporation
+and release of positively charged intact proteins and peptides ("soft" ionization technique). These ions
+are electrostatically accelerated over a short distance and arrive in the flight tube at a mass-dependent
+speed. As different proteins/peptides have different masses, ions arrive at the detector at different
+times (time of flight). The system measures the time (in the nanosecond range) between pulsed
+acceleration and the corresponding detector signal, the speed is converted into an exact molecular
+mass. The mass-to-charge ratio of an ion is proportional to the square of its drift time.
+Highly abundant microbial proteins (mainly ribosomal proteins) result in a mass spectrum with
+characteristic mass and intensity distribution. It is species-specific for many bacteria and is interpreted
+as a molecular fingerprint to identify the test organism.
+Data acquisition is controlled with MBT-CA Software. The spectrum of the unknown organism is first
+transformed into a peak list. Using a biostatistical algorithm, this peak list is compared to the reference
+peak lists of organisms in the reference library (database) and a log(score) is generated. A higher
+log(score) indicates a higher degree of similarity to the organism in the reference library. Organism
+identification is reported with high confidence if the log(score) is ≥ 2.00. An organism identification is
+reported with low confidence if the log(score) is between 1.70 and <2.00.
+The log(score) ranges, defined in the MBT-CA System, are indicative of the probability of organism
+identification. Results should be reviewed by a trained microbiologist and final organism identification
+should be based on all relevant information available. This information includes but is not limited to:
+Gram staining, colony morphology, growth characteristics, sample matrix, etc.
+Page 5 of 21Performance Data
+Precision/Repeatability:
+Validation of the whole MALDI Biotyper CA System was performed on twelve (12) working days with two
+(2) runs/day following manufacturer’s instructions for use. Ten (10) test organisms were tested in
+triplicate in each run. The study also tested multiple sources of system variability including three (3) test
+operators, three (3) microflex LT/SH instruments, three (3) target lots, three (3) BTS lots and three (3)
+Matrix lots. As triplicates of each test organism were prepared and tested in each run, a total of 72
+MALDI Biotyper CA System identifications were carried out for each test organism. Overall results from
+the precision/repeatability study are presented below.
+Table 2: Overall Precision per Test Organism
+# samples passed # samples passed
+Test Organism # samples measured
+(DT) (DT+Ext)
+Acinetobacter baumannii 72 62 (86.1%) 72 (100%)
+Pseudomonas aeruginosa 72 70 (97.2%) 72 (100%)
+Stenotrophomonas maltophilia 72 70 (97.2%) 72 (100%)
+Enterobacter cloacae 72 70 (97.2%) 72 (100%)
+Escherichia coli 72 71 (98.6%) 72 (100%)
+Hafnia alvei 72 72 (100%) 72 (100%)
+Proteus mirabilis 72 72 (100%) 72 (100%)
+Brevundimonas diminuta* 72 72 (100%) 72 (100%)
+Haemophilus influenzae 72 72 (100%) 72 (100%)
+Moraxella catarrhalis 72 72 (100%) 72 (100%)
+* Brevundimonas diminuta was tested but is not included in the claim.
+Table 3: Overall Precision per Test Organism Average log(score)
+Test Organism # samples measured Average log(score) [DT+Ext]
+Acinetobacter baumannii 72 2.172 ± 0.113
+Pseudomonas aeruginosa 72 2.368 ± 0.121
+Stenotrophomonas maltophilia 72 2.364 ± 0.078
+Enterobacter cloacae 72 2.138 ± 0.064
+Escherichia coli 72 2.385 ± 0.097
+Hafnia alvei 72 2.452 ± 0.095
+Proteus mirabilis 72 2.587 ± 0.079
+Brevundimonas diminuta* 72 2.489 ± 0.045
+Haemophilus influenzae 72 2.344 ± 0.118
+Moraxella catarrhalis 72 2.523 ± 0.080
+*Brevundimonas dimiuta was tested but is not included in the claim.
+Based upon the data presented, the study confirms repeatability and precision of the MALDI Biotyper CA
+System independent from:
+• System Operators
+• microflex LT/SH instruments
+• Target Production Lots
+• Matrix Lots
+• BTS Lots
+Page 6 of 21Limit of Detection/Dynamic Range:
+The Limit of Detection study was designed to establish the estimated dynamic range of sample size for
+both the Direct Transfer (DT) and Extraction method (Ext) procedure. Seven (7) frequently occurring
+clinically relevant test organisms were chosen for this study. Cell density and cell concentration were
+estimated by measuring the optical density of the suspension at a wavelength of 600nm. Approximately
+3x108 cells/mL were reported to correspond to an optical density of OD = 1 according to the
+600
+commonly used McFarland Standard. All suspensions were tested in duplicate. Each cell stock was
+diluted to a minimum five (5) concentrations and tested in duplicate. A cell concentration was
+considered within the dynamic range if the MBT-CA correctly identified the organism for both replicates
+with a log(score) of ≥2.00.
+Study results concluded that the estimated dynamic range for the direct and extracted method is as
+follows:
+Lower limit Upper limit
+Technique
+[cells/µL] [cells/µL]
+Direct Transfer 6.3x103–1.4x104 1.4x106–≥6.5x107
+Extraction 9.0x103–1.3x105 1.1x107 –≥6.9x107
+Specificity:
+The goal of the specificity study was to validate the performance of the proposed MALDI Biotyper CA
+System reference library by ensuring that organisms not included in the reference library would not
+yield an incorrect identification and would be reported as “No Identification.” Additionally, the study
+was designed to further demonstrate that the MALDI Biotyper CA System identification is not impacted
+when closely related species not included in the reference library are run on the system.
+The study was conducted in two phases. In phase one, organisms currently not included in the initial
+system reference library were tested via Direct Transfer and extraction method to ensure that the
+organisms would not be falsely identified by the MALDI Biotpyer CA system. Organisms tested fell into
+the following five groupings:
+- Anaerobe bacteria
+- Mycobacteria
+- Gram-Negative bacteria (not currently claimed within the library)
+- Gram-Positive bacteria
+- Yeast species
+Results from this phase are presented below:
+Table 4: Phase 1: Summary Results
+Organism Strain # of “No Identification” # of false
+DT Ext identification
+Bacteroides fragilis DSM 2151 2 / 2 2 / 2 0
+Bacteroides fragilis DSM 9669 2 / 2 2 / 2 0
+Prevotella copri DSM 18205T 2 / 2 2 / 2 0
+Prevotella buccae DSM 19025T 2 / 2 2 / 2 0
+Mycobacterium fortuitum ssp. DSM 43477
+2 / 2 2 / 2 0
+fortuitum
+Page 7 of 21Organism Strain # of “No Identification” # of false
+DT Ext identification
+Mycobacterium fortuitum ssp. DSM 46621T
+2 / 2 2 / 2 0
+fortuitum
+Neisseria gonorrhoeae DSM 9188T 2 / 2 2 / 2 0
+Neisseria gonorrhoeae DSM 15130 2 / 2 2 / 2 0
+Erwinia tasmaniensis DSM 17949 2 / 2 2 / 2 0
+Erwinia tasmaniensis DSM 17950 2 / 2 2 / 2 0
+Vagococcus fluvialis DSM 5731T 2 / 2 2 / 2 0
+Vagococcus fluvialis DSM 21402 2 / 2 2 / 2 0
+Facklamia hominis CCUG 59179 2 / 2 2 / 2 0
+Facklamia hominis CCUG 49614 2 / 2 2 / 2 0
+Guehomyces pullulans CBS 2532T 2 / 2 2 / 2 0
+Guehomyces pullulans CBS 2542 2 / 2 2 / 2 0
+Cyberlindnera mississippiensis CBS 7023T 2 / 2 2 / 2 0
+Cyberlindnera mississippiensis CBS 7027 2 / 2 2 / 2 0
+In phase two of the study testing, Burkholderia cepacia/multivorans/gladioli were investigated via Direct
+transfer and extraction method to ensure that closely related organisms can be differentiated when
+tested on the MALDI Biotyper CA System. Results from this phase of testing are reported below:
+Table 5: Phase 2: Summary Results
+# of Correct
+# of false
+Organism Strain Identifications
+identification
+DT Ext
+Burkholderia cepacia DSM 9241 2 / 2 2 / 2 0
+Burkholderia cepacia DSM 50181 2 / 2 2 / 2 0
+1A11237234
+Burkholderia multivorans 2 / 2 2 / 2 0
+_4v MVD
+Burkholderia multivorans H480 MCRF 2 / 2 2 / 2 0
+Burkholderia gladioli DSM 8361 2 / 2 2 / 2 0
+Burkholderia gladioli LMG 6956 2 / 2 2 / 2 0
+Phase 1 data demonstrates with high confidence that Anaerobes, Mycobacteria, Gram-negative, Gram-
+positive and Yeast organisms not included in the MALDI Biotyper CA database are not identified
+confirming the specificity of the MALDI Biotyper CA reference library when following product
+instructions for use for both DT and extraction method. Phase 2 data confirms that closely related
+species can be unambiguously identified by the MALDI Biotyper CA System.
+Mixed Culture:
+Although MALDI Biotyper CA System users will be instructed to select only a single isolated colony
+for identification on the MALDI Biotyper CA System this study was conducted to assess the
+effect of testing a mixed culture on MALDI Biotyper CA identification. Pseudomonas aeruginosa, a
+frequently occurring Gram negative bacterium was chosen as the target organism for this study. Four
+(4) non-target organisms consisting of gram-negative and gram-positive bacteria where introduced with
+the target organism at varying concentrations to determine the affect a mixed culture would have on
+Page 8 of 21MBT-CA identification.
+Table 6: Summary of Mixed Culture Study
+Target Organism Non-Target Organism # of MALDI Biotyper CA
+Condition
+Amount Amount False Identifications
+A 100% 0% 0/32
+B 75% 25% 0/32
+C 50% 50% 0/32
+D 25% 75% 0/32
+Although system users will be instructed to test a single isolated colony on the MALDI Biotyper CA
+System, it is important to note that when a mixed culture is analyzed on the system, no false results are
+obtained and the impact on final test results is greatly reduced when compared to the issues observed
+with alternative biochemical methods.
+Media and Colony Stability
+In accordance with product instructions for use, customers are advised that primary or secondary
+isolation plates of recommended media [Trypticase Soy Agar with 5% sheep blood (TSA), Columbia
+Blood Agar with 5% sheep blood (CBA), MacConkey Agar (MAC), and Chocolate Agar (Choc)] may be held
+for up to 12 hours at room temperature prior to testing on the MALDI Biotyper CA System. This study
+was conducted to confirm the acceptability of the recommended agar/media and stability of the colony
+for up to 12 hours prior to analysis.
+Testing was conducted using seven (7) gram-negative organisms at two different incubation time points
+(18h, 24h). After initial incubation, isolates were further tested at two (2) temperatures (18°C, 25°C) for
+12 hours post-incubation.
+Table 7: Summary of Media and Colony Stability Study
+≥2.0 Identification False Identification ≥2.0 Identification False Identification
+Media
+(DT) (DT) (Ext) (Ext)
+TSA 288/288 0/288 288/288 0/288
+CBA 284/288 0/288 288/288 0/288
+MAC 263/288 0/288 288/288 0/288
+CHOC 288/288 0/288 288/288 0/288
+The study results confirm that the following culture media can be used on the MALDI Biotyper CA
+System:
+• Trypticase Soy Agar with 5% sheep blood (TSA)
+• Columbia Blood Agar with 5% sheep blood (CBA)
+• MacConkey Agar (MAC)
+• Chocolate Agar (CHOC)
+Study results conclude that sample colony is stable for up to 12 hours post-incubation.
+Influence of Agar Media
+This study was completed in order to demonstrate that impurities such as salts, peptides or
+carbohydrates introduced from culture media do not interfere with MALDI Biotyper CA identification. In
+Page 9 of 21addition, the study set-out to prove that isolation media alone would not generate mass spectra leading
+to false identification on the MBT-CA system. TSA, CBA, MAC and CHOC agars were tested by the
+following methods:
+- Each agar media was inoculated using the Direct Transfer (DT) and Extraction (Ext)
+method alone (6) six times each.
+- Three (3) frequently occurring Enterobacteriacea and non-fermenting Gram Negative
+Bacteria were transferred to the target plate in duplicate via DT and Ext method to serve
+as a control.
+- Each target organism was then inoculated in duplicate via DT and Ext method such that
+a sample agar media was included with the isolate.
+A summary of results obtained is provided below:
+Table 8: Summary of Influence of Agar Media Study
+Agar Alone Target Organism Alone Target Organism + Agar
+Media
+# replicates % No ID # replicates % False ID # replicates % False ID
+TSA 12/12 100 12/12 0 10/12 0
+CBA 12/12 100 12/12 0 12/12 0
+MAC 12/12 100 12/12 0 12/12 0
+CHOC 12/12 100 12/12 0 12/12 0
+The study confirms that the media recommended for use on the MALDI Biotyper CA System do not
+interfere with MBT-CA performance or organism identification.
+Organism Stability prior to MALDI Biotyper CA System Analysis
+This study was conducted to assess isolate stability on the target plate prior to matrix overlay via Direct
+Transfer (DT) and Extraction (Ext) method. In addition, the study set out to confirm the stability of
+extracted material prior to target plate inoculation.
+To test for isolate stability on the target plate prior to matrix overlay via DT, three (3) common gram
+negative bacteria were inoculated eight times and overlaid with matrix at five (5) different time points.
+After matrix overlay, isolates were tested in accordance with product instructions. For the Ext method,
+colonies were prepared following the extraction technique per product instructions for use. Extracts
+were overlaid with matrix at five (5) different time points and tested per product instructions. For the
+third phase of testing, the three (3) gram negative isolates were extracted twice. The extracts were
+stored at controlled room temperature for up to 24 hours and tested at five (5) time points in replicates
+of eight.
+A summary of results obtained is provided below:
+Table 9: Summary of Organism Stability Prior to MBT-CA Analysis Study
+Test Phase Testing Condition Measurands Correct Identification False Identification
+Direct Transfer (DT) 0 min 24 24/24 0/24
+15 min 24 24/24 0/24
+30 min 24 24/24 0/24
+60 min 24 24/24 0/24
+120 min 24 24/24 0/24
+Page 10 of 21Test Phase Testing Condition Measurands Correct Identification False Identification
+Extraction Method (Ext) 0 min 6 6/6 0/6
+10 min 6 6/6 0/6
+20 min 6 6/6 0/6
+30 min 6 6/6 0/6
+60 min 6 6/6 0/6
+Extract #1 0 hour 24 24/24 0/24
+1 hour 24 24/24 0/24
+4 hours 24 24/24 0/24
+8 hours 24 24/24 0/24
+24 hours 24 24/24 0/24
+Extract #2 0 hour 24 24/24 0/24
+1 hour 24 24/24 0/24
+4 hours 24 24/24 0/24
+8 hours 24 24/24 0/24
+24 hours 24 24/24 0/24
+Study results confirm that samples are stable on the target plate when tested via DT or Ext method for
+up to sixty (60) minutes prior to analysis. In addition, extracts are stable for up to 24 hours when stored
+at room temperature.
+Sample Stability overlaid with Matrix
+This study was conducted to prove the stability of test organisms on the spotted target plate following
+matrix addition at various temperature and relative humidity conditions. In addition, the study served
+to prove that matrix alone will not influence MBT-CA identification. Three (3) gram negative target
+organisms were cultured on Columbia Blood Agar (CBA) and aging experiments were done at two (2)
+different temperature and relative humidity testing conditions. For each condition, two (2) target plates
+were inoculated and each contained four target spots of directly transferred test organism, four spots of
+extracted test organism and eight spots of matrix solution alone. All spots containing test organism
+were then overlaid with matrix in accordance with product instructions for use and tested immediately
+and then stored at one of the testing conditions and retested at 4±1 hour, 8±1 hour and 24±1 hour.
+The results of the testing are summarized below:
+Table 10: Summary of Sample Stability overlaid with Matrix
+Test Condition Test Age Test Organism Correct Identification Matrix “No Peaks Found”
+0 hour 24/24 8/8
+DT 4 hours 24/24 8/8
+20 ± 1oC, 40 ± 5% 8 hours 24/24 8/8
+24 hours 24/24 8/8
+0 hour 24/24 8/8
+Ext 4 hours 24/24 8/8
+20 ± 1oC, 40 ± 5% 8 hours 24/24 8/8
+24 hours 24/24 8/8
+Page 11 of 21Test Condition Test Age Test Organism Correct Identification Matrix “No Peaks Found”
+0 hour 24/24 8/8
+DT 4 hours 24/24 8/8
+20 ± 1oC, 70 ± 5% 8 hours 23/24 8/8
+24 hours 24/24 8/8
+0 hour 24/24 8/8
+Ext 4 hours 24/24 8/8
+20 ± 1oC, 70 ± 5% 8 hours 24/24 8/8
+24 hours 24/24 8/8
+0 hour 24/24 8/8
+DT 4 hours 24/24 8/8
+25 ± 1oC, 30 ± 5% 8 hours 24/24 8/8
+24 hours 24/24 8/8
+0 hour 24/24 8/8
+Ext 4 hours 24/24 8/8
+25 ± 1oC, 30 ± 5% 8 hours 24/24 8/8
+24 hours 24/24 8/8
+0 hour 24/24 8/8
+DT 4 hours 24/24 8/8
+25 ± 1oC, 70 ± 5% 8 hours 18/24 8/8
+24 hours 24/24 8/8
+0 hour 24/24 8/8
+Ext 4 hours 24/24 8/8
+25 ± 1oC, 70 ± 5% 8 hours 23/24 8/8
+24 hours 24/24 8/8
+All study results confirmed that inoculated test organisms once overlaid with matrix are stable for up to
+24 hours at room temperature. In addition, matrix alone does not interfere or influence MBT-CA
+identification.
+Bacterial Test Standard (BTS) Stability
+The Bruker Bacterial Test Standard is an in vitro diagnostic product for mass spectrum calibration and
+optimization as well as a performance control for the identification of microorganisms with the MBT-CA
+System. The testing summarized below was done to determine the stability of unreconstituted and
+reconstituted BTS material.
+In one study, accelerated and shipping stability of BTS was assessed using three (3) lots of BTS material.
+Shipping and accelerated stability conditions were simulated by storing eight (8) vials of each BTS lot in a
+climate controlled chamber at 37±2oC for one (1), two (2) and three (3) weeks. At each time interval,
+two (2) vials of each BTS lot were removed, allowed to acclimate to room temperature, reconstituted
+and spotted on sixteen (16) target plate positions (each vial) and three (3) cross-joint positions. Target
+plates were then analyzed in accordance with product instructions for use.
+Page 12 of 21In the second study, real-time stability of BTS was assessed using three (3) lots of BTS material. The
+three lot of material were maintained at recommended storage conditions per product instructions (≤-
+18oC) and tested at 3, 6, 9, 12 and 18 months following the same process as described above.
+In the third and final study, in-use (reconstituted) stability of BTS was assessed using four vials of a single
+lot of BTS reagent. All four vials were reconstituted in accordance with product instructions for use.
+Two (2) vials each were then pooled. Testing was carried out in replicates of eight (8) immediately
+following reconstitution then frozen and retested at 1, 2, 3, 4, 5 and 6 months.
+The summary of the results of the three (3) studies are provided below:
+Table 11: Summary of BTS Stability
+av. log(score) av. log(score) av. log(score) av. log(score) av. log(score) av. log(score)
+Study Test Age
+Lot# 1, Vial 1 Lot# 1, Vial 2 Lot# 2, Vial 1 Lot# 2, Vial 2 Lot# 3, Vial 1 Lot# 3, Vial 2
+No Aging 2.334 ± 0.027 2.353 ± 0.023 2.344 ± 0.024 2.351 ± 0.019 2.370 ± 0.031 2.345 ± 0.023
+Accelerated/Shipping 1 week 2.385 ± 0.030 2.362 ± 0.042 2.337 ± 0.034 2.364 ± 0.039 2.372 ± 0.034 2.353 ± 0.023
+Stability 2 weeks 2.384 ± 0.021 2.365 ± 0.043 2.344 ± 0.054 2.381 ± 0.034 2.372 ± 0.021 2.349 ± 0.026
+3 weeks 2.391 ± 0.022 2.372 ± 0.027 2.369 ± 0.031 2.347 ± 0.037 2.332 ± 0.031 2.349 ± 0.033
+No Aging 2.293 ± 0.030 2.276 ± 0.038 2.333 ± 0.057 2.320 ± 0.031 2.274 ± 0.041 2.250 ± 0.031
+3 months 2.391 ± 0.049 2.387 ± 0.042 2.358 ± 0.050 2.380 ± 0.036 2.296 ± 0.027 2.303 ± 0.019
+6 months 2.318 ± 0.035 2.340 ± 0.036 2.349 ± 0.035 2.338 ± 0.024 2.298 ± 0.029 2.296 ± 0.027
+Real-Time Stability
+9 months 2.361 ± 0.037 2.346 ± 0.027 2.356 ± 0.029 2.348 ± 0.028 2.348 ± 0.028 2.320 ± 0.023
+12 months 2.310 ± 0.024 2.327 ± 0.020 2.292 ± 0.033 2.292 ± 0.022 2.262 ± 0.028 2.284 ± 0.026
+18 months 2.414 ± 0.026 2.410 ± 0.043 2.338 ± 0.027 2.346 ± 0.014 2.340 ± 0.034 2.344 ± 0.026
+av. log(score) av. log(score)
+Study Test Age
+Lot# 1, Vial 1 Lot# 1, Vial 2
+No Aging 2.413 ± 0.038 2.392 ± 0.022
+1 month 2.396 ± 0.030 2.353 ± 0.054
+2 months 2.331 ± 0.020 2.360 ± 0.020
+In-Use
+3 months 2.365 ± 0.022 2.371 ± 0.034
+Stability
+4 months 2.359 ± 0.017 2.362 ± 0.025
+5 months 2.332 ± 0.024 2.292 ± 0.044
+6 months 2.293 ± 0.023 2.240 ± 0.044
+The shipping/accelerated stability study confirmed that BTS is stable for three (3) weeks at temperatures
+up to 37±2oC. Two of these weeks account for the shipping and one for the long-term storage. Real-
+time stability testing confirms that BTS is stable for up to 18 months when stored in accordance with
+product claims. (Bruker only claims stability for 12 months, though.) Lastly, in-use stability confirms that
+reconstituted BTS is stable for five (5) months when stored in accordance with product claims.
+HCCA portioned (Matrix) Stability
+HCCA portioned (Matrix) is used when processing test organisms for identification on the MBT-CA
+system. Matrix must be reconstituted prior to use. These studies were conducted to determine the
+stability of unreconstituted matrix as well as in-use (reconstituted) matrix.
+Page 13 of 21In one study, accelerated/shipping stability was assessed using a single lot of matrix. Shipping
+conditions were simulated by storing the matrix at 37±2oC for two (2) weeks while accelerated stability
+studies conducted subsequently at the same temperature for 14 weeks. All testing was done using a
+common gram negative organism. At each time interval, matrix was removed, allowed to acclimate to
+room temperature, reconstituted and testing was done via direct transfer (DT) and extraction (Ext)
+method using two (2) targets in replicates of eight (8) in accordance with product instructions for use.
+A second study assessed the real time stability of HCCA matrix using three (3) lots of material. All test
+lots were stored at the recommended storage condition per product instructions 2-8oC. All three lots
+were tested on two (2) target plates in replicates of eight (8) and tested at 3, 6, 9, 12 and 18 months in
+keeping with the process described for accelerated/shipping stability.
+A third study assessed the recommended stability of reconstituted matrix for one (1) week at controlled
+room temperature (20-25oC). Three (3) lots of matrix material were reconstituted in accordance with
+product instructions for use and stored in a climate controlled chamber at 20±1oC and 25±1oC for seven
+(7) days. Testing was conducted at day one (1), three (3) and seven (7) using three (3) common gram
+negative bacteria on two (2) target plates, in replicates of eight. In addition, matrix alone was
+inoculated onto eight (8) positions at each time point.
+A fourth study was conducted to assess the stability of reconstituted matrix at stressed temperatures for
+up to twelve (12) hours. A single lot of matrix material was reconstituted in accordance with product
+instructions for use and stored in a climate controlled chamber at 15±1oC and 30±1oC for twelve (12)
+hours. Testing was conducted at 6±1 hours and 12±1 hours using three (3) common gram negative
+bacteria on two (2) target plates, in replicates of eight. In addition, matrix alone was inoculated onto
+eight (8) positions at each time point.
+The results of the four (4) studies are summarized below:
+Table 12: Summary of Matrix Stability
+# MBT-CA ID ≥2.0, # “no ID”, # “false ID” # MBT-CA ID ≥2.0, # “no ID”, # “false ID”,
+Study Test Condition Test Age
+(Target 1) (Target 1) (Target 1) (Target 2) (Target 2) (Target 2)
+No Aging 16/16 0/16 0/16 16/16 0/16 0/16
+1 week 16/16 0/16 0/16 16/16 0/16 0/16
+Accelerated/
+2 weeks 16/16 0/16 0/16 16/16 0/16 0/16
+Shipping Matrix Lot #1
+4 weeks 16/16 0/16 0/16 16/16 0/16 0/16
+Stability
+7 weeks 16/16 0/16 0/16 16/16 0/16 0/16
+16 weeks 16/16 0/16 0/16 16/16 0/16 0/16
+No Aging 16/16 0/16 0/16 16/16 0/16 0/16
+3 months 16/16 0/16 0/16 16/16 0/16 0/16
+6 months 16/16 0/16 0/16 16/16 0/16 0/16
+Matrix Lot #1
+9 months 16/16 0/16 0/16 16/16 0/16 0/16
+12 months 16/16 0/16 0/16 16/16 0/16 0/16
+Real-Time
+18 months 16/16 0/16 0/16 16/16 0/16 0/16
+Stability
+No Aging 16/16 0/16 0/16 16/16 0/16 0/16
+3 months 16/16 0/16 0/16 16/16 0/16 0/16
+Matrix Lot #2 6 months 16/16 0/16 0/16 16/16 0/16 0/16
+9 months 16/16 0/16 0/16 16/16 0/16 0/16
+12 months 16/16 0/16 0/16 16/16 0/16 0/16
+Page 14 of 21# MBT-CA ID ≥2.0, # “no ID”, # “false ID” # MBT-CA ID ≥2.0, # “no ID”, # “false ID”,
+Study Test Condition Test Age
+(Target 1) (Target 1) (Target 1) (Target 2) (Target 2) (Target 2)
+18 months 16/16 0/16 0/16 16/16 0/16 0/16
+No Aging 16/16 0/16 0/16 16/16 0/16 0/16
+3 months 16/16 0/16 0/16 16/16 0/16 0/16
+6 months 16/16 0/16 0/16 16/16 0/16 0/16
+Matrix Lot #3
+9 months 16/16 0/16 0/16 16/16 0/16 0/16
+12 months 16/16 0/16 0/16 16/16 0/16 0/16
+18 months 16/16 0/16 0/16 16/16 0/16 0/16
+No Aging 24/24 0/24 0/24 24/24 0/24 0/24
+Matrix Lot #1; 1 day 24/24 0/24 0/24 24/24 0/24 0/24
+20±1oC 3 days 24/24 0/24 0/24 24/24 0/24 0/24
+7 days 24/24 0/24 0/24 24/24 0/24 0/24
+No Aging 24/24 0/24 0/24 24/24 0/24 0/24
+Matrix Lot #1; 1 day 24/24 0/24 0/24 24/24 0/24 0/24
+25±1oC 3 days 24/24 0/24 0/24 24/24 0/24 0/24
+7 days 24/24 0/24 0/24 24/24 0/24 0/24
+In-Use
+No Aging 24/24 0/24 0/24 24/24 0/24 0/24
+Stability at
+Matrix Lot #2; 1 day 24/24 0/24 0/24 24/24 0/24 0/24
+Controlled 20±1oC 3 days 24/24 0/24 0/24 24/24 0/24 0/24
+Room
+7 days 24/24 0/24 0/24 24/24 0/24 0/24
+Temperature
+No Aging 24/24 0/24 0/24 24/24 0/24 0/24
+Matrix Lot #2; 1 day 24/24 0/24 0/24 24/24 0/24 0/24
+25±1oC 3 days 24/24 0/24 0/24 24/24 0/24 0/24
+7 days 24/24 0/24 0/24 24/24 0/24 0/24
+No Aging 24/24 0/24 0/24 24/24 0/24 0/24
+Matrix Lot #3; 1 day 24/24 0/24 0/24 24/24 0/24 0/24
+20±1oC 3 days 24/24 0/24 0/24 24/24 0/24 0/24
+7 days 24/24 0/24 0/24 24/24 0/24 0/24
+No Aging 24/24 0/24 0/24 24/24 0/24 0/24
+Matrix Lot #3; 1 day 24/24 0/24 0/24 24/24 0/24 0/24
+25±1oC
+3 days 24/24 0/24 0/24 24/24 0/24 0/24
+7 days 24/24 0/24 0/24 24/24 0/24 0/24
+# “no peaks found ID”, # “no peaks found ID”, # “no peaks found ID”, # “no peaks found ID”,
+Test Condition Test Age
+(Target 1); T=20°C (Target 2); T=20°C (Target 1); T=25°C (Target 2); T=25°C,
+No Aging 8/8 8/8 8/8 8/8
+In-Use
+Stability at Matrix Lot #1; 1 day 8/8 8/8 8/8 8/8
+Controlled Matrix Only 3 days 8/8 8/8 8/8 8/8
+Room 7 days 8/8 8/8 8/8 8/8
+Temperature No Aging 8/8 8/8 8/8 8/8
+Matrix Lot #2; 1 day 8/8 8/8 8/8 8/8
+Matrix Only 3 days 8/8 8/8 8/8 8/8
+7 days 8/8 8/8 8/8 8/8
+No Aging 8/8 8/8 8/8 8/8
+Matrix Lot #3; 1 day 8/8 8/8 8/8 8/8
+Matrix Only 3 days 8/8 8/8 8/8 8/8
+7 days 8/8 8/8 8/8 8/8
+# MBT-CA ID ≥2.0, # “no ID”, # “false ID” # MBT-CA ID ≥2.0, # “no ID”, # “false ID”,
+Study Test Condition Test Age
+(Target 1) (Target 1) (Target 1) (Target 2) (Target 2) (Target 2)
+Page 15 of 21No Aging 24/24 0/24 0/24 24/24 0/24 0/24
+Matrix Lot #1;
+6 hours 24/24 0/24 0/24 24/24 0/24 0/24
+15±1oC
+12 hours 24/24 0/24 0/24 24/24 0/24 0/24
+No Aging 24/24 0/24 0/24 24/24 0/24 0/24
+Matrix Lot #1;
+In-Use 6 hours 24/24 0/24 0/24 24/24 0/24 0/24
+30±1oC
+Stability at 12 hours 24/24 0/24 0/24 24/24 0/24 0/24
+Stressed # “no peaks found ID”, # “no peaks found ID”, # “no peaks found ID”, # “no peaks found ID”,
+Test Condition Test Age
+Temperatures (Target 1) T=15°C (Target 2) T=15°C (Target 1) T=30°C (Target 2) T=30°C,
+No Aging 8/8 8/8 8/8 8/8
+Matrix Lot #1; 1 day 8/8 8/8 8/8 8/8
+Matrix Only 3 days 8/8 8/8 8/8 8/8
+7 days 8/8 8/8 8/8 8/8
+Shipping/accelerated stability studies confirm that matrix is stable for sixteen (16) weeks at
+temperatures up to 37±2oC. Real-time stability studies confirm that matrix is stable for up to 18 months
+when stored in accordance with product instructions for use. In addition, in-use (reconstituted) stability
+testing confirmed that reconstituted matrix is stable for one (1) week when stored at controlled room
+temperature and for 12 hours when stressed by temperatures up to 15°C or 30°C.
+Carry-Over and Cross Contamination:
+This study was conducted to determine the effect of cross-contamination, defined as microbial sample
+convergence between adjacent target spots and carry-over defined as target contamination due to
+insufficient target cleaning after MALDI Biotyper CA organism identification. Two targets and two (2)
+frequently occurring Gram negative bacteria were chosen for this testing. Each target was inoculated
+with test organism four (4) times via Direct Transfer and extraction method in an alternating pattern. All
+sample positions were overlaid with matrix solution including the remaining unused target positions to
+serve as blank measurements. Testing then proceeded in accordance with product instructions for use.
+Targets were then cleaned in accordance with the Target Cleaning procedure and organism prepared in
+a similar fashion but in the reverse pattern. The test cycle described above was repeated four (4) times
+on each target plate. Results of this study are presented below.
+Table 13: Target #1 (SN 00004) Summary Data
+Matrix only Test Organism
+Test procedure # of MALDI
+“no peaks found” Biotyper CA ID # of “no ID” # of “false ID”
+≥2.0
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+1st cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+2nd cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+3rd cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+4th cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+5th cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+Page 16 of 21Table 14: Target #2 (SN 00012) Summary Data
+Matrix only Test Organism
+Test procedure
+# of MBT-CA ID
+“no peaks found” # of “no ID” # of “false ID”
+≥2.0
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+1st cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+2nd cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+3rd cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+4th cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+1st run 26 / 26 (100%) 16/16 0/16 0/16 (0%)
+5th cycle
+2nd run 27 / 27 (100%) 16/16 0/16 0/16 (0%)
+The study confirmed that there are neither cross-contamination nor carry-over effects in the automated
+MALDI Biotyper CA identification process.
+Proficiency/Familiarity
+Prior to method comparison study initiation, each intended study operator from the four (4) US Study
+sites underwent a proficiency/familiarity period to ensure that each operator was familiar with all
+aspects of instrument operation. Each intended operator was asked to test five (5) QC organisms using
+both the Direct Transfer (DT) and Extraction (Ext) method following product instructions for use.
+Table 15: Proficiency/Reproducibility Study Summary
+Test Organism [Correct Identifications ≥2.0]
+Site Operator
+# Samples Passed (DT) # Samples Passed (Ext)
+#1 25/25 25/25
+#1 #2 30/31 30/30
+#3 32/32 30/35
+#1 25/25 25/25
+#2
+#2 29/30 30/30
+#1 25/26 25/25
+#2 25/25 25/25
+#3 25/25 25/25
+#3
+#4 25/25 25/25
+#5 30/32 30/30
+#6 25/25 25/25
+#1 25/25 25/25
+#2 25/25 25/25
+#4 #3 25/26 25/25
+#4 29/30 30/30
+#5 25/25 25/25
+All testing confirmed that, though the MBT-CA technology is of a higher complexity, intended operators
+are able to illustrate reproducible results using both testing methods.
+Page 17 of 21Reproducibility:
+The reproducibility study was conducted to confirm day-to-day reproducibility and precision of the
+MALDI Biotyper CA System on different clinical study sites. The study was conducted for five (5) days
+with two (2) runs each day/each clinical site. The sources of variability tested were:
+* Two (2) operators/each clinical study site
+* Four (4) clinical study sites
+* Four (4) Target plates each clinical study sites
+* Four (4) microflex LT/SH instruments
+Ten (10) well-characterized organisms were chosen for this study and tested in duplicate via direct
+transfer method in accordance with product instructions. When the DT log(score) was <2.0, per product
+instructions, the test organism was tested following extraction method.
+Table 16: Reproducibility Study Summary
+# samples passed # samples passed
+Blinded Test Organism Reproducibility Panel
+(DT) (DT+Ext)
+Stenotrophomonas maltophilia REPRO-1 77/80 (96%) 80/80 (100%)
+Citrobacter koseri REPRO-2 80/80 (100%) 80/80 (100%)
+Enterobacter aerogenes REPRO-3 77/80 (96%) 80/80 (100%)
+Escherichia coli REPRO-4 78/80 (98%) 80/80 (100%)
+Klebsiella pneumoniae REPRO-5 76/80 (95%) 80/80 (100%)
+Morganella morganii REPRO-6 80/80 (100%) 80/80 (100%)
+Pasteurella multocida REPRO-7 79/80 (99%) 80/80 (100%)
+Proteus mirabilis REPRO-8 80/80 (100%) 80/80 (100%)
+Pseudomonas aeruginosa REPRO-9 78/80 (98%) 80/80 (100%)
+Salmonella sp REPRO-10 78/80 (98%) 80/80 (100%)
+100% of all blinded test organisms were correctly identified on the species level at each clinical test site.
+Thus, data confirm reproducibility and precision of the whole MALDI Biotyper CA System independent
+from:
+• Clinical Site
+• System operators
+• microflex LT/SH instruments
+• Target plates
+Page 18 of 21Challenge Panel:
+A panel of 100 organisms was tested at five (5) study sites. Eighty (80) of the Organisms included in the
+panel were selected from stored organisms tested during the clinical study. Twenty (20) were selected
+from strain collections. The study reference laboratory, prepared the panel. Organism identifications
+were blinded to test sites. Each site tested the challenge panel member via direct transfer method in
+accordance with product instructions. If DT result yielded a log(score) <2.00, the organism was retested
+using the extraction method.
+Table 17: Challenge Panel Study Summary
+Test procedure Site A Site B Site C *Site D **Site E
+99/100 98/100 99/100 96/100
+Direct Transfer 86/87 (99%)
+(99%) (98%) (99%) (96%)
+Extraction Transfer only
+99/100 99/100 99/100 97/100
+organisms with 86/87 (99%)
+(99%) (99%) (99%) (97%)
+log(Score) <2.0.
+* One sample was incorrectly identified due to a site error, while another sample was not exclude
+from the study because of mixed culture.
+** The number of test organisms was reduced as 13 samples were not received.
+Testing of the challenge panel confirms intra laboratory performance of the MALDI Biotyper CA System.
+Page 19 of 21Method Comparison:
+To demonstrate performance of the MALDI Biotyper CA (MBT-CA) System, a method comparison study
+was performed at four (4) clinical test sites and Bruker (Bremen, Germany). Fresh and frozen organisms
+were tested on the MALDI Biotyper CA System in accordance with manufacturer’s instructions for use.
+All organisms included in the study were subcultured for purity. Testing on the MBT-CA system was
+done from a fresh isolated colony.
+At the time of testing on the MBT-CA, the test organism was subcultured onto a TSA Agar slant and
+shipped to the study reference laboratory. The reference laboratory, transferred the isolate to a
+sequencing reference laboratory for sequencing in accordance with MM-18 A guidelines.
+Performance of the MBT-CA was compared to sequencing and when necessary to biochemical
+identification (i.e: Vitek 2) and protein sequencing.
+In total, 2263 fresh and stored isolates were tested to support the initial reference library claim. An
+overall performance table is presented below:
+Table 18: Method Comparison Summary Table (Fresh & Stored Isolates)
+REFERENCE ALGORITHM
+All Isolates - ALL SITES
+Positive Negative Total
+Positive Organism ID; (High Confidence); log(score) ≥2.0 2174 16 2190
+Positive Organism ID; (Low Confidence); log(score) ≥1.7; <2.0 48 23 71
+Negative 2 n/a 2
+Total 2224 39 2263
+Correct: Genus ID Correct: Genus ID Wrong: Genus ID
+Correct: Species ID or Wrong: Species ID or
+no ID
+Group ID or Group ID or
+Gram
+Complex ID Complex ID
+negatives
+ALL high low high low high low
+SITES confidence confidence confidence confidence confidence confidence log(score)
+log(score) log(score) log(score) log(score) log(score) log(score) <2.0
+≥2.0 ≥1.7 ... <2.0 ≥2.0 ≥1.7 ... <2.0 ≥2.0 ≥1.7 ... <2.0
+2174 / 2263 48 / 2263 141) / 2263 222) / 2263 23) / 2263 14) / 2263 25) / 2263
+IDs
+96.07% 2.12% 0.62% 0.97% 0.09% 0.04% 0.09%
+Combined 2222 / 2263 36 / 2263 3 / 2263
+n/a
+IDs 98.19% 1.59% 0.13%
+Of the 2263 isolates included in the initial reference library claim, one hundred fifty-seven (157) samples
+required extraction for an overall sample extraction rate of 6.9% (157/2263). Of the 193 Quality Control
+runs conducted during the course of the method comparison study, there were five (5) instances where
+Page 20 of 21a Quality Control organism failed to yield an expected result. As a result, all isolates included in that
+plate run were repeated using a fresh QC organism transfer. The overall plate repeat rate was 2.6%
+(5/193).
+In addition, it is important to note that of the 2263 isolates, 498 were “fresh” meaning that the isolates
+were never frozen. The performance of these isolates is provided below:
+Table 19: Method Comparison Summary Table (Fresh Isolates)
+REFERENCE ALGORITHM
+All Isolates
+Positive Negative Total
+Positive Organism ID ≥ 2.0 488 0 488
+Positive Organism (Low Discrimination) 9 1 10
+Negative 0 0 0
+Total 497 1 498
+Positive
+high high & low Negative
+discrimination discrimination
+98.0% 99.8% 0.00%
+Statement of Safety and Efficacy
+The data presented clearly demonstrate the safety and efficacy of the Bruker Daltonic, Inc MBT-CA
+System as compared to the reference method, 16s bi-directional sequencing, when the instructions for
+use are followed.
+Page 21 of 21

@@ -1,0 +1,611 @@
+Wisdom Technologies., Inc. May 7, 2024
+℅ Wei Wang
+Regulatory Consultant
+11 Longstreet
+IRVINE, CA 92620
+Re: K232928
+Trade/Device Name: DeepContour (V1.0)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QKB
+Dated: April 5, 2024
+Received: April 5, 2024
+Dear Wei Wang:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.09
+Silver Spring, MD 20993
+www.fda.govK232928 - Wei Wang Page 2
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK232928K232928
+510(k) Summary
+The following information is provided as required by 21 CFR 807.92。
+1. SUBMITTER
+Name: Wisdom Technologies., Inc.
+Address: 4th Floor, Building F2, Phase II, Innovation Industrial Park, Hefei, Anhui, China
+230088
+Phone：+86-0551-65116387
+Email: registration@wisdom-tech.online
+Contact Person: Wei Wang, Consultant, Regulatory Affairs
+Phone: 949-7849283
+Date Prepared: August 24, 2023
+2. DEVICE
+Subject Device Name: DeepContour v1.0
+Common/Trade Name: DeepContour
+Product Code and Classification: Medical Image Management And Processing System
+21 CFR 892.2050 | QKB | Class II
+3. PREDICATE DEVICE
+Primary: AI-Rad CAI-Rad Companion Organs RT (K221305) Siemens
+Reference: Contour ProtégéAI (K223774) MIM Software
+4. DEVICE DESCRIPTION
+DeepContour is a deep learning based medical imaging software that allows trained healthcare
+professionals to use DeepContour as a tool to automatically process CT images. DeepContour
+contouring workflow supports CT input data and produces RTSTRUCT outputs. The organ
+segmentation can also be combined into templates, which can be customized by different
+hospitals according to their needs. DeepContour provides an interactive contouring application to
+edit and review the contours automatically generated by DeepContour.
+5. INDICATIONS FOR USE
+1DeepContour is a deep learning based medical imaging software that allows trained
+healthcare professionals to use DeepContour as a tool to automatically process CT images. In
+addition, DeepCoutour is suitable for the following conditions:
+1). Creation of contours using deep-learning algorithms , support quantitative analysis, organ
+HU distribution statistics, transfer contour files to TPS, and create management archives for
+patients.
+2). Analyze the anatomical structure at different anatomical positions.
+3). Rigid and elastic registration based on CT.
+4). 3D reconstruction, editing and other visual tools based on organ contours
+6. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH
+PREDICATE DEVICE
+The primary technological components of DeepContour and its predicate device are to
+achieve the deep learning based medical imaging software functions that allows trained
+healthcare professionals to automatically process CT images. Both are software devices that
+receive inputs related to radiological images; Both generate contours as output that may be
+used as input for radiation Treatment Planning Systems and interactive contouring
+applications to review and edit; Both are software devices for prescription use in a
+professional environment with no patient contact.
+There are no known differences in technological characteristics between the subject device
+and the predicate device that raise any questions of safety or effectiveness. The technological
+characteristics of the subject device are believed to be substantially equivalent to the
+predicate device.
+Table 1. Substantial Equivalence Comparison
+Area of Subject Device- Primary-AI-Rad CAI- Reference-Contour
+Comparison DeepContour Rad Companion Organs ProtégéAI(K223774)
+RT (K221305) Siemens MIM Software
+Regulation 21 CFR 892.2050|QKB 22 CFR 892.2050|QKB 21 CFR 892.2050|QKB
+Number/code
+Regulation Name Medical Image Management Medical Image Management Medical Image
+And Processing System And Processing System Management And
+Processing System
+2Indications for DeepContour is a deep AI-Rad Companion Organs Trained medical
+Use learning based medical RT is a post-processing professionals use Contour
+imaging software that allows software intended to ProtégéAI as a tool to
+trained healthcare automatically contour assist in the automated
+professionals to use DICOM CT imaging data processing of digital
+DeepContour as a tool to using deep-learning-based medical images of
+automatically process CT algorithms. modalities CT and MR, as
+images. In addition, Contours that are generated supported by ACR/NEMA
+DeepCoutour is suitable for by AI-Rad Companion DICOM 3.0. In addition,
+the following conditions: Organs RT may be used as Contour ProtégéAI
+input for clinical workflows supports the following
+1. Creation of contours using including external beam indications:
+deep-learning algorithms , radiation therapy treatment • Creation of contours
+support quantitative analysis, planning. AI-Rad using machine-learning
+organ HU distribution Companion Organs RT must algorithms for applications
+statistics, transfer contour files be used in conjunction with including, but not limited
+to TPS, and create appropriate software such as to, quantitative
+management archives for Treatment Planning Systems analysis, aiding adaptive
+patients. and Interactive Contouring therapy, transferring
+applications, to review, edit, contours to radiation
+2. Analyze the anatomical and accept contours therapy treatment planning
+structure at different generated by AI-Rad systems, and archiving
+anatomical positions. Companion Organs RT. contours for patient
+The output of AI-Rad follow-up and
+3. Rigid and elastic registration Companion Organs RT in management.
+based on CT. the format of RTSTRUCT • Segmenting anatomical
+objects are intended to be structures across a variety
+4. 3D reconstruction, editing used by trained medical of CT anatomic locations.
+and other visual tools based on professionals. • And segmenting the
+organ contours The software is not intended prostate, the seminal
+to automatically detect or vesicles, and the urethra
+contour lesions. Only within T2-weighted MR
+DICOM images of adult images.
+patients are considered to be Appropriate image
+valid input. visualization software
+must be used to review
+and, if necessary, edit
+results automatically
+generated by Contour
+ProtégéAI.
+3Device DeepContour is a deep AI-Rad Companion Organs Contour ProtégéAI is an
+description learning based medical RT is a post-processing accessory to MIM
+imaging software that allows software used to software that automatically
+trained healthcare automatically contour creates contours on
+professionals to use DICOM CT imaging data medical images through
+DeepContour as a tool to using deep-learning-based the use of machine-
+automatically process CT algorithms. AI-Rad learning algorithms. It is
+images. DeepContour Companion Organs RT designed for use in the
+contouring workflow supports contouring workflow processing of medical
+CT input data and produces supports CT input data and images and operates on
+RTSTRUCT outputs. The produces RTSTRUCT Windows, Mac, and Linux
+organ segmentation can also outputs. The computer systems.
+be combined into templates, configuration of the organ Contour ProtégéAI is
+which can be customized by database and organ deployed on a remote
+different hospitals according to templates defining the server using the MIMcloud
+their needs. organs and structures to be service for data
+DeepContour provides an contoured based on the input management and transfer;
+interactive contouring DICOM data is managed via or locally on the
+application to edit and review a configuration interface. workstation or server
+the contours automatically Contours that are generated running MIM software.
+generated by DeepContour. b y A I - R a d C o m p anion
+Organs RT may be used as
+input for clinical workflows
+including external beam
+radiation therapy treatment
+planning.
+The output of AI-Rad
+Companion Organs RT, in
+the form of RTSTRUCT
+objects, are intended to be
+used by trained medical
+professionals. The output of
+AI-Rad Companion Organs
+RT must be used in
+conjunction with appropriate
+software such as Treatment
+Planning Systems and
+Interactive Contouring
+applications, to review, edit,
+and accept contours
+generated by AI-Rad
+Companion Organs RT
+application.
+At a high-level, AI-Rad
+Companion Organs RT
+includes the following
+functionality: 1. Automated
+contouring of Organs at Risk
+(OAR) workflow
+a. Input –DICOM CT
+b. Output – DICOM
+4RTSTRUCT
+2. Organ Templates
+configuration (incl. Organ
+Database)
+3. Web-based preview of
+contouring results to accept
+or reject the generated
+contours.
+Algorithm Deep Learning Deep Learning Machine-learning
+Segmentation of Head & Neck, Thorax,
+Head & Neck,Prostate,
+Organ at Risk in Abdomen & Pelvis H e a d & N e ck, Thorax,
+Thorax, Abdomen, Lungs
+the Anatomic (82 OARs) Abdomen & Pelvis & Liver, MRT structures
+Head & Neck lymph
+Regions (spleen, pelvic lymph
+nodes
+nodes, descending
+(108 OAR)
+aorta, bone)
+Compatible
+CT Images CT Images CT & MR
+Modality
+Compatible No Limitation on scanner No Limitation on scanner No Limitation on scanner
+Scanner Models model, model, model,
+DICOM compliance required. DICOM compliance DICOM compliance
+required. required.
+Compatible No Limitation on TPS model, No Limitation on TPS No Limitation on TPS
+Treatment DICOM model, DICOM model, DICOM
+Planning System compliance required. compliance required. compliance required.
+Contraindications Adult use only Adult use only Adult use only
+Target DeepContour is designed for AI-Rad Companion Organs No public record found
+Population use only in adult populations RT is designed for use only
+for whom relevant modality in adult populations. AI-Rad
+scans , including head and Companion Organs RT is
+neck, thorax, abdomen, and designed for any patient for
+pelvis, are available . whom relevant modality
+scans are available. More
+specifically, the software is
+validated on previously
+acquired CT DICOM
+volumes for radiation
+therapy treatment planning,
+including, head and neck,
+thorax, abdomen, and pelvis.
+5Clinical condition Limited to patients previously Limited to patients Limited to patients
+the device is selected for Radiation previously selected for previously selected for
+intended to Therapy. Radiation Therapy. Radiation Therapy.
+diagnose, treat or
+manage
+Software Server-based application AI-Rad Companion Server-based application
+Architecture supporting (Engine) architecture supporting
+Windows and Local enabling the deployment of Linux-based OS and Local
+deployment on Windows. AI Rad Companion Organs deployment on Windows
+RT using Edge and in the or Mac
+Cloud. The UI is provided
+using a webbased interface.
+Deployment locally deployed or Cloud- Edge & Cloud Deployment Cloud-based or locally
+Feature based deployed
+Organ Templates Creating, editing and deletion Creating, editing and No public record found
+of organ templates. Customize deletion of organ templates.
+predefined structure database Customize predefined
+with mapping to international structure database with
+nomenclature schemes. mapping to international
+nomenclature schemes.
+Automated DeepContour automatically AI-Rad Companion Organs Automatic contouring
+workflow processes input image data and RT automatically processes working using machine-
+sends the results as DICOM- input image data and sends learning
+RT Structure Sets to a user- the results as DICOM-RT
+configurable target node. Structure Sets to a user-
+configurable target node.
+Contour DeepContour provides basic AI-Rad Companion Organs No public record found
+visualization and result preview of automatic RT provides basic result
+editing feature segmentation results, and preview of automatic
+editing feature of the segmentation results, and no
+automatic segmented contour. editing feature of the
+automatic segmented
+contour.
+6Segmentation The target performance was The target performance was 739 CT Images from 12
+Performance validated using 100 cases.The validated using 113 cases clinical sites were used for
+mean and standard deviation distributed to two cohorts. testing. The mean and
+Dice coefficients, along with Cohort A is clinical routine standard deviation Dice
+the lower 95th percentile treatment planning CT and it coefficients, along with the
+confidence bound were is split into two sub-cohort lower 95th percentile
+calculated. and Cohort B is PET-CT confidence bound were
+data. To objectively evaluate calculated.
+the target performance, the
+DICE coefficient, the
+absolute symmetric surface
+distance (ASSD) and the fail
+rate was evaluated. The
+segmentation performance
+of the subject and reference
+device were equivalent as
+well as the overall
+performance compared to
+the predicate device.
+User Interface – Basic visualization Basic visualization Basic visualization
+Results Preview functionality of original data functionality of original data functionality of original
+(Confirmation) and generated contours and generated contours data and generated
+contours
+User Interface Configuration UI Configuration UI Configuration UI
+Configuration
+Automated Results send to Confirmation Results send to Results send to
+Workflow to TPS UI & Optional bypassing of Confirmation UI & Optional Confirmation UI &
+Confirmation UI to TPS bypassing of Confirmation Optional bypassing of
+UI to TPS Confirmation UI to TPS
+Human Factors Design to be used by Design to be used by Design to be used by
+trained clinicians. trained clinicians. trained clinicians.
+Patient Contact None None None
+7. PERFORMANCE AND NONCLINICAL TESTS
+Software verification and validation were conducted, and the process was documented per
+FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices.”
+Verification test results demonstrate conformance to applicable requirements and
+specifications. Testing against the predicate device demonstrates good agreement, proving
+that tested device can be used as equivalent contouring software for clinical purposes. No
+animal studies or clinical tests were required for validation of the software.
+77.1 Training Datasets
+For DeepContour, the deep learning models were trained on a pool of training data that did
+not include any patients from the same institution as the test subjects. The data was collected
+from 35 hospitals across China over a period of about 3 years. The data collection time is
+random, including patients with different ages, races, size, et al. Data collected in a hospital
+tends to be a collection of consecutive cases. Due to the different time periods applicable to
+different hospitals, the time for collecting data varies among different hospitals. The specific
+patient subgroups were not the special consideration when collecting the patients’ data.
+The training data included 800 CT images (200 for each region of head and neck region,
+chest region, abdomen region and pelvic region) at various ages, no ethnicities or genders
+were excluded from training. Within 200 cases collected in each region, 160 cases were used
+for training and 40 cases were used for validation to establish the auto-segmentation models.
+The auto-segmentation process includes two steps: first step to distinguish the four different
+regions (head and neck region, chest region, abdomen region and pelvic region), second step
+to call the model of this region to realize auto-segmentation. The initial segmentations were
+then reviewed and corrected by two radiation oncologists for model training, with a third
+qualified internal staff member available to adjudicate if needed.
+Table 2: Training Data Information
+# of Datasets 800
+Data Origin 35 hospitals across China
+Sex Male:372
+Female:428
+Age <50: 289
+50-70: 415
+>70:70
+Unknown:26 (unknown due to data minimization on customer site)
+Body Region Head and neck region: 200
+chest region: 200
+abdomen region: 200
+pelvic region: 200
+CT Scanner Philips: 301
+GE: 226
+Simens: 128
+Unknown:145 (unknown due to data minimization on customer
+site)
+87.2 Verification datasets
+The performance of the DeepContour were verified by a total of 203 CT images with 2
+datasets:
+(1) clinical datasets retrospectively collected from multiple clinical regions across the
+Peking Union Medical College Hospital (N=100), consisting of four selected parts based on
+their location, 25 cases for head and neck, 25 cases for chest, 25 cases for abdomen and 25
+cases for pelvic; These clinical datasets are not used in the training datasets at all.
+(2) American public datasets (N=103);
+(a)The 2017 lung CT segmentation challenge (LCTSC), which contains 60 thoracic CT scan
+patients with five segmented organs (left lung, right lung, heart, spinal cord, and esophagus),
+(b) Pancreas-CT (PCT), which contains 43 abdominal contrast enhanced CT scan patients
+with seven segmented organs (the spleen, left kidney, esophagus, liver, stomach, pancreas,
+and duodenum). The American public datasets were annotated by the American doctors.
+The article was published in the journal (Medical Physics), doi: 10.1002/mp.14131.
+(Please refer to more information about the two publicly available datasets:
+https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=24284539,
+https://wiki.cancerimagingarchive.net/display/Public/Pancreas-CT)
+The auto-segmentation process is the same with what was applied to the training dataset with
+two steps: first step to distinguish the four different regions (head and neck region, chest
+region, abdomen region and pelvic region), second step to call the model of this region to
+realize auto-segmentation. The ground truth annotations for the 100 cases in China were
+established by two different radiation oncologists with more than 10 years of clinical practice
+(See Appendix 2 for their detailed CVs) following RTOG and clinical guidelines using
+manual annotation. A third qualified internal staff member is also available to adjudicate if
+needed. American public datasets (N=103) were annotated by the American doctors.
+The CT images in the 100 test cases were curated for suitability and to avoid bias through
+rich pre-processing and post-processing methods. Due to the differences between patients
+and the differences in CT machine image data, the data augmentation was used during
+training to simulate possible data situations in clinical practice, thereby increasing the
+model's generalization ability. The strategy of first localization and then segmentation is also
+used to improve the accuracy of the model.
+Table 3: Verification Data Information
+# of Datasets 100 103
+Data Origin Peking Union Medical The 2017 lung CT segmentation
+College Hospital challenge (LCTSC): 60
+Pancreas-CT (PCT): 43
+Sex Male: 43 Unknow:103 (unknown due to data
+Female: 57 minimization on customer site)
+9Age <50: 31 Unknown:103 (unknown due to data
+50-70: 46 minimization on customer site)
+>70: 23
+Body Region Head and neck region: 25 60 thoracic CT scan: 5 segmented
+chest region: 25 organs (left lung, right lung, heart, spinal
+abdomen region: 25 cord, and esophagus)
+pelvic region: 25 43 abdominal CT scan: 7 segmented
+organs (the spleen, left kidney, esophagus,
+liver, stomach, pancreas, and duodenum)
+CT Scanner Philips: 34 Unknown 103 (unknown due to data
+GE: 36 minimization on customer site)
+Simens: 30
+7.3 Rigid and deformable registration
+The rigid and deformable registration methods are mainly used for contour mapping in the
+delineation of target areas and organs at risk. The following Table showed the results between
+planning CT images (moving image) and CBCT images (Fixed images), rpCT represents rigid
+planning CT, dpCT1 represents deformed planning CT with our algorithms, and dpCT2
+represents deformed planning CT with predicate device. The metrics include the mean absolute
+error (MAE), root mean square error (RMSE), peak signal-to-noise ratio (PSNR), and structural
+similarity (SSIM).
+Table 4: Rigid and deformable registration
+rpCT-CBCT dpCT1- CBCT dpCT2- CBCT
+MAE(HU) 51.23±13.67 43.98±10.74 46.71±12.71
+RMSE 121.09±30.23 117.58±28.22 127.96±30.76
+PSNR 20.01±2.74 22.23±2.61 20.00±3.77
+SSIM 0.623±0.084 0.680±0.050 0.685±0.055
+7.4 Performance comparison
+The mean and standard deviation of Dice coefficients was calculated for each organ in the
+subject device compared with the predicate device. The results of the subject device
+demonstrate equivalent or better performance compared to the predicate device when
+aggregate performance over all organs is considered with known limitations described in the
+labeling. Here equivalence is defined such that the lower bound of 95th percentile confidence
+interval of the subject device segmentation is greater than 0.1 Dice lower than the mean of
+predicate device segmentation.
+10Dice coefficients of 100 clinical datasets collected from multiple clinical regions across the
+Peking Union Medical College Hospital compared to the predicate device are presented here:
+Table 5: Clinical performance comparison (Peking Union Medical College Hospital)
+AI-Rad CAI-Rad
+Contour ProtégéAI
+Structure: DeepContour Companion Organs RT
+（K223774）
+（K221305）
+Brain 0.98±0.01(0.97) 0.93±0.11 0.98 ± 0.01
+BrainStem 0.91±0.03(0.89) 0.90±0.02 0.82 ± 0.09
+Cochlea_L 0.86±0.03(0.84) 0.84±0.03 0.27 ± 0.17
+Cochlea_R 0.85±0.01(0.84) 0.86±0.07 0.29 ± 0.18
+Eye_L 0.89±0.02(0.88) 0.81±0.06 0.87 ± 0.06
+Eye_R 0.88±0.03(0.86) 0.89±0.13 0.87 ± 0.06
+Lens_L 0.89±0.02(0.88) 0.85±0.05 0.61 ± 0.17
+Lens_R 0.88±0.02(0.85) 0.81±0.12 0.63 ± 0.15
+Larynx 0.88±0.03(0.83) 0.84±0.08 0.50 ± 0.16
+Larynx_extend 0.92±0.02(0.91) 0.90±0.11 None
+Mandible 0.95±0.02(0.91) 0.91±0.07 0.85 ± 0.07
+Optic_Chiasm 0.88±0.03(0.82) 0.63±0.11 0.12 ± 0.11
+OpticalNerve_L 0.86±0.04(0.79) 0.66±0.06 0.53 ± 0.13
+OpticalNerve_R 0.89±0.02(0.81) 0.59±0.10 0.52 ± 0.12
+OralCavity 0.92±0.03(0.89) 0.82±0.09 0.77 ± 0.12
+OralCavity_WithGum 0.91±0.06(0.89) 0.71±0.06 None
+Parotid_L 0.88±0.05(0.82) 0.80±0.15 0.80 ± 0.10
+Parotid_R 0.86±0.03(0.81) 0.81±0.04 0.80 ± 0.06
+Pituitary 0.78±0.04(0.69) 0.68±0.14 0.49 ± 0.15
+Temporal_Lobe_L 0.92±0.02(0.90) 0.82±0.09 0.68 ± 0.17
+Temporal_Lobe_R 0.91±0.11(0.86) 0.81±0.07 0.79 ± 0.18
+TMJ_L 0.85±0.02(0.83) 0.84±0.02 0.84± 0.06
+11TMJ_R 0.86±0.15(0.81) 0.85±0.15 0.83 ± 0.06
+InternalAcousticCanal_L 0.76±0.02(0.71) 0.73±0.12 0.71 ± 0.17
+InternalAcousticCanal_R 0.79±0.02(0.75) 0.77±0.05 0.73 ± 0.15
+MiddleEar_L 0.82±0.12(0.78) 0.72±0.02 0.70 ± 0.16
+MiddleEar_R 0.85±0.03(0.81) 0.80±0.13 0.77 ± 0.17
+TemporalLobe_withHipp
+0.89±0.08(0.85) 0.87±0.14 0.85 ± 0.18
+o_L
+TemporalLobe_withHipp
+0.90±0.05(0.86) 0.88±0.09 0.87 ± 0.06
+o_R
+Submandibular_L 0.91±0.06(0.88) 0.81±0.11 0.75 ± 0.10
+Submandibular_R 0.92±0.03(0.89) 0.72±0.16 0.74 ± 0.09
+PharyngealConstrictors_
+0.82±0.12(0.76) 0.77±0.13 None
+U
+PharyngealConstrictors_
+0.86±0.14(0.83) 0.76±0.11 None
+M
+PharyngealConstrictors_
+0.84±0.17(0.80) 0.74±0.07 None
+L
+BrachialPlexus_L 0.81±0.13(0.79) 0.71±0.08 0.37 ± 0.13
+BrachialPlexus_R 0.82±0.11(0.69) 0.52±0.06 0.36 ± 0.16
+Hippocampus_L 0.76±0.03(0.73) 0.75 ± 0.12 0.75 ± 0.02
+Hippocampus_R 0.79±0.02(0.76) 0.73 ± 0.09 0.76 ± 0.02
+EustachianTubeBone_L 0.85±0.05(0.84) 0.81±0.05 0.88 ± 0.07
+EustachianTubeBone_R 0.87±0.07(0.80) 0.77±0.09 0.72 ± 0.17
+TympanicCavity_L 0.84±0.03(0.83) 0.80±0.13 0.75 ± 0.15
+TympanicCavity_R 0.86±0.09(0.81) 0.76±0.05 0.74 ± 0.17
+Vestibule_L 0.85±0.06(0.82) 0.80±0.16 0.79 ± 0.10
+Vestibule_R 0.87±0.02(0.86) 0.77±0.10 0.74 ± 0.10
+InnerEar_L 0.87±0.10(0.83) 0.83±0.11 0.82 ± 0.07
+InnerEar_L 0.86±0.13(0.83) 0.87±0.03 0.91 ± 0.07
+Lung_L 0.98±0.05(0.96) 0.92±0.16 0.96 ± 0.02
+12Lung_R 0.99±0.03(0.98) 0.95±0.08 0.96 ± 0.02
+Lung_All 0.98±0.14(0.97) 0.91±0.04 None
+Heart 0.93±0.16(0.90 0.91±0.06 0.90 ± 0.07
+Trachea 0.89±0.03(0.88) 0.89±0.03 0.73 ± 0.17
+Esophagus 0.88±0.11(0.85) 0.78±0.07 0.70 ± 0.15
+Breast_L 0.92±0.08(0.86) 0.82±0.05 0.74 ± 0.17
+Breast_R 0.93±0.01(0.92) 0.83±0.04 0.77 ± 0.10
+Aorta 0.89±0.09(0.87) 0.70 ± 0.08 0.74 ± 0.10
+Liver 0.96±0.07(0.95) 0.86±0.17 0.93 ± 0.07
+Kidney_L 0.92±0.03(0.91) 0.82±0.13 0.92 ± 0.05
+Kidney_R 0.93±0.04(0.91) 0.88±0.07 0.91 ± 0.06
+Duodenum 0.88±0.16(0.83) 0.81±.012 None
+Pancreas 0.86±0.01(0.86) 0.87±0.03 0.45 ± 0.22
+Smallintestine 0.89±0.12(0.85) 0.88±0.08 None
+Bowelbag 0.93±0.16(0.88) 0.83 ± 0.08 0.68 ± 0.08
+Bladder 0.95±0.15(0.93) 0.87 ± 0.15 0.52 ± 0.19
+Stomach 0.86±0.01(0.86) 0.79 ± 0.21 0.81 ± 0.11
+Femur_Head_L 0.92±0.12(0.89) 0.90±0.16 0.93 ± 0.05
+Femur_Head_R 0.91±0.14(0.86) 0.90±0.09 0.93 ± 0.04
+Pelvis 0.87±0.01(0.87) 0.88±0.08 0.93 ± 0.11
+Marrow 0.85±0.13(0.84) 0.81±0.03 None
+Sigmoid 0.82±0.02(0.81)
+0.70 ± 0.17 0.60 ± 0.26
+Rectum 0.87±0.15(0.83)
+0.73 ± 0.18 0.83 ± 0.11
+Spleen 0.91±0.01(0.90)
+0.92±0.07 0.95 ± 0.03
+SeminalVesicle 0.86±0.02(0.85)
+0.78 ± 0.27 0.68 ± 0.15
+Testis 0.87±0.03(0.84)
+0.79 ± 0.16 0.63 ± 0.16
+Prostate 0.87±0.02(0.85)
+0.74 ± 0.12 0.85 ± 0.06
+13Ovid_L 0.85±0.03(0.82) 0.65±0.03
+0.39 ± 0.17
+Ovid_R 0.86±0.01(0.85) 0.66±0.01
+0.43 ± 0.15
+Bladder-Brt 0.86±0.02(0.84) 0.82 ± 0.23 0.91 ± 0.12
+SmallIntestine-Brt 0.87±0.04(0.85) 0.76 ± 0.14 0.73 ± 0.11
+Rectum-Brt 0.86±0.03(0.84) 0.85 ± 0.18 0.83 ± 0.11
+Sigmoid-Brt 0.79±0.02(0.78) 0.70 ± 0.17 0.60 ± 0.26
+SpinalCord 0.93±0.01(0.92) 0.66 ± 0.14 0.63 ± 0.16
+Body 0.98±0.05(0.96) 0.97±0.03 None
+Data format: Mean ± Std Dice coefficient (lower 95th percentile confidence bound based on normal
+distribution in parentheses)
+Dice coefficients of LCTSC American public datasets compared to the predicate device are
+presented here:
+Table 6: Clinical performance comparison (LCTSC American public datasets)
+AI-Rad CAI-Rad Contour
+Structure: DeepContour Companion Organs RT ProtégéAI
+（K221305） （K223774）
+SpinalCord 0.92±0.02(0.91) 0.64±0.13 0.62 ± 0.21
+Lung L 0.97±0.15(0.96) 0.90±0.13 0.95 ± 0.05
+Lung R 0.98±0.06(0.98) 0.93±0.11 0.94 ± 0.08
+Heart 0.92±0.11(0.90) 0.91±0.04 0.90 ± 0.04
+Esophagus 0.89±0.13(0.86) 0.75±0.13 0.68 ± 0.19
+Data format: Mean ± Std Dice coefficient (lower 95th percentile confidence bound based on normal
+distribution in parentheses)
+Dice coefficients of Pancreas-CT American public datasets compared to the predicate
+device are presented here:
+Table 7: Clinical performance comparison (Pancreas-CT American public datasets)
+14AI-Rad CAI-Rad Contour
+Structure: DeepContour Companion Organs RT ProtégéAI
+（K221305） （K223774）
+Spleen 0.90±0.05(0.88) 0.91±0.12 0.89 ± 0.08
+Pancreas 0.85±0.03(0.83) 0.84±0.02 0.43 ± 0.25
+Kidney_L 0.93±0.02(0.91) 0.84±0.03 0.92 ± 0.17
+Esophagus 0.88±0.02(0.87) 0.80±0.06 0.70 ± 0.06
+Liver 0.97±0.03(0.97) 0.85±0.13 0.92 ± 0.06
+Stomach 0.85±0.02(0.84) 0.80±0.05 0.81 ± 0.17
+Duodenum 0.86±0.02(0.85) 0.82±0.12 None
+Data format: Mean ± Std Dice coefficient (lower 95th percentile confidence bound based on normal
+distribution in parentheses)
+A comparison of the median Average Symmetric Surface Distance (ASSD) between the
+subject device and the predicate device is also performed and the results are comparable as
+shown in the following table. The subject device achieved a median ASSD of 0.95 in
+comparison to the predicate device achieving a median ASSD of 0.96 for existing organs.
+Table 8: Rigid and deformable registration
+AI-Rad CAI-Rad
+Contour ProtégéAI
+DeepContour Companion Organs RT
+（K223774）
+（K221305）
+95% CI 95% CI 95% CI
+Median Median Median
+(Bootstrap) (Bootstrap) (Bootstrap)
+ASSD 0.95 [0.85,1.13] 0.96 [0.84,1.15] 0.95 [0.86,1.17]
+8 CONCLUSION
+DeepContour is believed to be substantially equivalent to predicate device in terms of its
+indications for use, technical characteristics, and overall performance. The information
+provided in this submission indicates the subject device is as safe, is as effective, and
+performs as well as predicate device. Therefore, it is in the opinion of Wisdom Technologies,
+Inc. that the medical device, DeepContour, is substantially equivalent to predicate device.
+15

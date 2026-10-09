@@ -1,0 +1,423 @@
+DE Novo CLASSIFICATION REQUEST FOR
+RHO
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Radiology software for opportunistic evaluation of low bone mineral density. This
+device is software which opportunistically assesses radiological images to estimate bone
+mineral density (BMD) intended to assist in a healthcare professional's decision to
+evaluate patients for possible low BMD within a bone health screening program. The
+software employs an algorithm that estimates BMD using eligible radiological image data
+obtained for other clinical purposes.
+NEW REGULATION NUMBER: 21 CFR 892.1171
+CLASSIFICATION: Class II
+PRODUCT CODE: SAO
+BACKGROUND
+DEVICE NAME: Rho
+SUBMISSION NUMBER: DEN230023
+DATE DE NOVO REcEivED: April 3, 2023
+SPONSOR INFORMATION:
+16 Bit Inc
+11th
+20 Bay Street, Floor,
+Toronto, Ontario M5J2N8
+Canada
+INDICATIONS FOR USE
+Rho is a software application intended for use opportunistically with standard frontal
+radiographs of the lumbar spine, thoracic spine, chest, pelvis, knee, or hand/wrist
+performed in patients aged 50 years and older. Rho provides a notification in the form of
+a report to aid radiologists and/or physician interpreters in identifying patients with
+possible low bone mineral density (BMD) at L I-L4 or the femoral neck to prompt a
+clinical assessment of bone health. Rho should not be used to rule out low BMD.
+Radiologists and referring clinicians should follow recommended practices for screening
+and assessment, regardless of the absence of Rho report.
+LIMITATIONS• The sale, distribution, and use of Rho are restricted to prescription use in accordance with
+21 CFR 801.109.
+• Rho cannot be used to rule out low BMD.
+• Absence of Rho report should not be considered as a negative finding.
+• This device cannot replace DXA screening program; radiologists and referring clinicians
+should follow recommended practices for screening and assessment.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+Rho is a machine learning-based software-as-a-medical device that interfaces with institutional
+Picture Archiving and Communications Systems (PACS) to identify patients 50 years and older
+undergoing x-ray with possible low bone mineral density (BMD). Eligible x-rays are frontal
+projections of the lumbar spine, thoracic spine, chest, pelvis, knee or hand/wrist. Rho uses the x-
+ray DICOM and DICOM tags of age and sex as inputs into a locked machine learning algorithm.
+The locked machine learning algorithm is trained on a patient-based dataset (True North
+Imaging, 'TNI13). The algorithm presents a binary output to indicate whether or not the patient
+likely has low BMD at either the femoral neck or L1-L4. A Rho Report is generated for positive
+cases that can be sent back to the PACS for physician interpretation or viewed through a
+browser-based interface.
+Radiologists can choose to include this finding in their report to the referring physician.
+Inclusion may trigger a referring physician to conduct a clinical fracture risk assessment related
+to bone health.
+For cases where Rho algorithm outputs a negative result, no Rho Report will be sent, and neither
+the radiologist nor the referring physician will receive any device output.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+SOFTWARE
+Rho software documentation and software verification and validation testing provided
+demonstrate that the device meets all requirements for basic documentation level as
+outlined in the FDA guidance document, "Content of Premarket Submissions for Device
+Software Functions".
+SUMMARY OF CLINICAL INFORMATION
+De Novo Summary (DEN230023) Page 2 of 12Performance Testing
+Clinical performance of the device was provided in the form of a retrospective, multi-center
+study to compare sensitivity and specificity of the device with the gold standard, Dual Energy X-
+ray Absorptiometry (DXA) with pre-specified performance goals. The primary objective of the
+study is to demonstrate the ability of Rho to separate two groups (yes/no low BMD by DXA)
+with a high specificity. Ground truth low BMD is defmed as at least one of the femoral necks or
+L1-L4 vertebrae having a T-Score <-1.0 when assessed by DXA. The validation datasets
+consisted of previously acquired x-rays that include paired DXA T-scores. The performance of
+the device was demonstrated on three independent datasets, True North Imaging (TNI),
+Osteoarthritis Initiative (0AI) and OneMedNet (OMN). The TNI dataset was split by
+geographically separated imaging clinics into a training set (TNI13) and clinical validation set
+(TNI6). The TNI13 dataset was used exclusively for algorithm development. The TNI6 study
+population consisted of patients with a lumbar spine, thoracic spine, chest, pelvis, knee, or hand
+x-ray within 1 year of a DXA. The validation datasets included 3729 cases from six True North
+Imaging centers (TNI6) from Canada, 522 US cases from OneMedNet, and 591 US cases from
+Osteoarthritis Initiative, a multicenter, longitudinal, prospective observational study of knee
+osteoarthritis. A comparison of the clinical validation set to US reference population can be
+found in Table 1,
+The study had prespecified coprimary endpoints of sensitivity and specificity and a secondary
+endpoint of an area under the receiver operating characteristic curve (AUC). Additional
+endpoints were specified for the following subgroups: age, gender, race, anatomy, x-ray
+manufacturer, x-ray tube voltage (kVp), exposure and imager pixel spacing.
+Table 1. Comparison of the Clinical Validation Set to US reference population: ranges of bone
+mineral density, prevalence of low bone mineral density, and body mass index
+US Reference Clinical Validation Set
+NHANES, all TNI6 OMN 0Al2
+races'
+Age (years) 50-80+ 50-101 50-90 50-83
+Study population General population Imaging clinic Imaging clinic Study participants
+patients * patients * with symptomatic
+tibiofemoral knee
+osteoarthritis
+BMI (kg/m2) F: 27.4 (0.2) t F: 26.5 (5.5) F:28.2 (5.4) F: 30.5 (5.7)
+M: 27.1 (0.2) M: 26.8 (4.4) M: 28.0 (4.9) M:29.8 (4.3)
+Ll-L4 BMD F: 0.95[0.65 - F: 0.96 [0.71-1.27] F:1.02 [0.74-1.33] N/A
+(Hologic units, 1.23] tt M: 1.14 [0.80- M:1.18 [0.84-1.66]
+g/cm2) M: 1.07 [0.80 - 1.52]
+1.40]
+Femoral neck F: 0.72 [0.45 - F: 0.66 [0.51 - F: 0.71 [0.52-0.96] F: 0.75 [0.50-1.15]
+BMD (Hologic 1.01] 0.84] M: 0.78 [0.56- M:0.82 [0.51-1.36]
+units, g/cm2) M: 0.80 [0.55 - M: 0.72 [0.54- 0.99]
+1.06] 0.94]
+De Novo Summary (DEN230023) Page 3 of 12Prevalence of F: 67% ttt F: 89% F: 69% F:51%
+low BMD by M: 40% M: 66% M: 52% M:28%
+DXA (T<-1)
+Collection sites 3 mobile exam n=6, Toronto, n=6, US n=4, US
+centers, Ontario, Canada
+44 sites, US
+DXA Hologic (100%) GE (100%) GE (97%), GE (100%)
+Manufacturers Hologic (3%)
+1 https://www.cdc.govinchs/data/series/sr 11/srl 1 251.pdf
+2 DXA bone mineral density (BMD) was only measured as the femoral neck.
+https://pubmed.ncbi.nlm.nih.gov/18786841/
+*higher possibility of low BMD, but also likely the type of people who would be getting x-rays that Rho would
+analyze (e.g., knee pain)
+t estimated weighted mean (se), SD is —4-5. Beydoun MA and Wang J. Gender-ethnic Disparity in BMI and Waist
+Circumference Distribution Shifts in US Adults. Obesity 2010
+ttmean [lowest 5th percentile — highest 95th percentile] from
+httns://www.cdc.Rov/nchs/data/series/sr 11/srl 1 251.pdf using weighted means for age 50+ for L1-4 (Table 1) and
+Femoral Neck (Table 17).
+ttt sum of prevalence of low bone mass and osteoporosis from
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4757905/ Table 1
+Device Performance by dataset:
+Ground truth is established by DXA acquired from the same patient, and ground truth low BMD
+is defined as at least one of femoral neck or Li -L4 having a T-Score <-1.0 when assessed by
+DXA. DXA data acquired from the same patient is currently used in the patient bone mineral
+density screening program, and it is the current standard of care and well-established in clinical
+practice.
+Sensitivity, specificity, and AUC performance were assessed within validation datasets and in
+pre-defined subsets of demographic subgroups. Results are presented in Table 2.
+Table 2. Sensitivity and Specificity by analysis group - TNI, OMN and OAI
+Analysis
+n Sensitivity Specificity AUC
+group
+All data split by dataset
+TNI 3729 0.67 (0.66-0.69) 0.90 (0.88-0.92) 0.88 (0.88-0.90)
+OMN 513 0.45 (0.41-0.50) 0.93 (0.90-0.96) 0.85 (0.82-0.88)
+OAI 591 0.36 (0.31-0.41) 0.94 (0.92-0.96) 0.82 (0.79-0.85)
+Sexes split by dataset
+TNI 3111 0.70 (0.68-0.71) 0.90 (0.88-0.92) 0.89 (0.88-0.91)
+Females OMN 274 0.48 (0.42-0.54) 0.94 (0.89-0.98) 0.87 (0.83-0.90)
+OAI 293 0.44 (0.37-0.50) 0.90 (0.85-0.94) 0.81 (0.77-0.85)
+TN! 618 0.49 (0.45-0.53) 0.90 (0.86-0.93) 0.82 (0.79-0.85)
+Males
+OMN 239 0.41 (0.34-0.49) 0.92 (0.88-0.96) 0.83 (0.78-0.87)
+De Novo Summary (DEN230023) Page 4 of 12Analysis
+n Sensitivity Specificity AUC
+group
+OAI 298 0.22 (0.15-0.30) 0.98 (0.96-0.99) 0.79 (0.75-0.84)
+Age decades split by dataset
+TNI 844 0.64 (0.61-0.68) 0.95 (0.92-0.97) 0.89 (0.87-0.90)
+50-59 OMN 106 0.43 (0.33-0.53) 0.95 (0.88-1.00) 0.88 (0.82-0.93)
+OAI 177 0.26 (0.15-0.38) 0.98 (0.96-0.99) 0.77 (0.70-0.84)
+TNI 1339 0.65 (0.63-0.67) 0.94 (0.91-0.96) 0.90 (0.89-0.92)
+60-69 OMN 181 0.48 (0.40-0.55) 0.91 (0.86-0.97) 0.83 (0.78-0.88)
+OAI 202 0.34 (0.25-0.43) 0.94 (0.90-0.97) 0.82 (0.77-0.87)
+TNI 1031 0.69 (0.66-0.71) 0.86 (0.82-0.90) 0.87 (0.85-0.89)
+70-79 OMN 176 0.48 (0.39-0.56) 0.93 (0.88-0.97) 0.88 (0.84-0.92)
+OAI 181 0.38 (0.30-0.45) 0.88 (0.81-0.94) 0.78 (0.72-0.83)
+TNI 515 0.74 (0.71-0.78) 0.71 (0.62-0.80) 0.84 (0.80-0.88)
+80+ OMN 50 0.35 (0.21-0.50) 0.95 (0.85-1.00) 0.80 (0.69-0.90)
+OAI 31 0.56 (0.35-0.75) 1.00 (1.00-1.00) 0.95 (0.88-1.00)
+X-ray body parts split by dataset
+NI 1331 0.83 (0.81-0.85) 0.80 (0.75-0.84) 0.89 (0.88-0.91)
+Ches t
+OMN 149 0.51 (0.39-0.62) 0.90 (0.80-1.00) 0.86 (0.81-0.92)
+TNI 791 0.57 (0.54-0.60) 0.95 (0.93-0.98) 0.91 (0.89-0.93)
+Lumbar
+OMN 99 0.39 (0.29-0.50) 0.93 (0.86-1.00) 0.85 (0.79-0.91)
+TNI 328 0.75 (0.71-0.80) 0.92 (0.84-1.00) 0.93 (0.89-0.95)
+Thoracic
+OMN 44 0.50 (0.35-0.65) 1.00 (1.00-1.00) 0.86 (0.76-0.94)
+TNI 457 0.72 (0.69-0.76) 0.99 (0.97-1.00) 0.96 (0.94-0.97)
+Pelvis OMN 82 0.56 (0.44-0.68) 0.97 (0.92-1.00) 0.90 (0.84-0.95)
+OAI 197 0.55 (0.45-0.64) 0.93 (0.89-0.97) 0.91 (0.88-0.94)
+Ni 250 0.56 (0.50-0.61) 0.91 (0.85-0.97) 0.85 (0.80-0.89)
+Hand/wrist OMN 54 0.45 (0.31-0.61) 0.81 (0.67-0.95) 0.73 (0.61-0.85)
+OAI 174 0.24 (0.15-0.33) 0.96 (0.92-0.98) 0.77 (0.70-0.82)
+NI 572 0.41 (0.37-0.44) 0.96 (0.93-0.99) 0.87 (0.84-0.90)
+Knee OMN 85 0.29 (0.18-0.39) 0.97 (0.92-1.00) 0.86 (0.79-0.92)
+OAI 220 0.28 (0.21-0.36) 0.94 (0.91-0.98) 0.76 (0.71-0.81)
+Races split by dataset*
+TNI 3292 0.67 (0.66-0.69) 0.90 (0.88-0.92) 0.89 (0.88-0.90)
+White OMN 142 0.46(0.38-0.55) 0.98 (0.94-1.00) 0.90 (0.86-0.94)
+OAI 418 0.36 (0.30-0.42) 0.94 (0.91-0.96) 0.80 (0.77-0.84)
+TNI 24 0.33 (0.10-0.60) 1.00 (1.00-1.00) 0.77 (0.36-0.91)
+Black OMN 114 0.36 (0.25-0.46) 0.95 (0.90-0.99) 0.86 (0.80-0.91)
+OAI 147 0.40 (0.27-0.53) 0.95 (0.92-0.98) 0.86 (0.80-0.91)
+TNI 134 0.74 (0.67-0.81) 0.96 (0.88-1.00) 0.93 (0.89-0.96)
+Asian
+OMN 134 0.47 (0.38-0.56) 0.91 (0.84-0.98) 0.84 (0.78-0.89)
+De Novo Summary (DEN230023) Page 5 of 12Analysis
+n Sensitivity Specificity AUC
+group
+OAI 5 0.00 (0.00-0.00) 1.00 (1.00-1.00) 0.83 (0.50-1.00)
+OMN 123 0.49 (0.40-0.59) 0.88 (0.79-0.95) 0.80 (0.73-0.87)
+Hispanic
+0.98 0.92-1.00)
+OAI 10 0.20 (0.00-0.50) 1.00 (1.00-1.00)
+BMI category split by dataset**
+TNI 1584 0.75 (0.73-0.77) 0.87 (0.83-0.91) 0.90 (0.88-0.91)
+18.5 to <25 OMN 147 0.58 (0.51-0.66) 0.81 (0.69-0.92) 0.82 (0.75-0.89)
+OAI 32 0.45 (0.27-0.64) 0.83 (0.62-1.00) 0.75 (0.58-0.90)
+TNI 1265 0.63 (0.61-0.66) 0.90 (0.87-0.93) 0.87 (0.85-0.89)
+25 to <30 OMN 187 0.46 (0.38-0.54) 0.94 (0.89-0.98) 0.86 (0.81-0.90)
+OAI 80 0.33 (0.21-0.45) 0.98 (0.93-1.00) 0.83 (0.75-0.90)
+TNI 792 0.53 (0.50-0.57) 0.92 (0.89-0.95) 0.86 (0.83-0.88)
+> 30 OMN 156 0.29 (0.20-0.37) 0.96 (0.92-0.99) 0.83 (0.77-0.88)
+OAI 106 0.37 (0.22-0.53) 0.97 (0.94-1.00) 0.92 (0.87-0.96)
+Manufacturer split by dataset
+TNI 1094 0.65 (0.62-0.67) 0.91 (0.88-0.94) 0.90 (0.88-0.91)
+GE OMN 34 0.77 (0.56-0.86) 0.76 (0.61-0.82) 0.87 (0.76-0.96)
+OAI 145 0.60 (0.49-0.71) 0.88 (0.82-0.93) 0.86 (0.80-0.90)
+OMN 104 0.39 (0.30-0.49) 1.00 (1.00-1.00) 0.87 (0.81-0.93)
+FUJIFILM
+OAI 194 0.17 (0.11-0.24) 0.99 (0.97-1.00) 0.90 (0.86-0.93)
+AGFA OAI 84 0.44 (0.29-0.60) 0.95 (0.89-0.98) 0.89 (0.82-0.94)
+Swissray OAI 149 0.39 (0.28-0.50) 0.95 (0.91-0.98) 0.88 (0.83-0.92)
+Imaging
+TNI 2616 0.68 (0.67-0.70) 0.89 (0.87-0.91) 0.88 (0.87-0.89)
+Dynamics
+Other 'MI 19 0.65 (0.44-0.83) 1.00 (1.00-1.00) 0.88 (0.69-1.00)
+Samsung OMN 125 0.47 (0.37-0.57) 0.91 (0.84-0.97) 0.85 (0.79-0.90)
+Konica
+OMN 80 0.38 (0.27-0.50) 0.97 (0.90-1.00) 0.90 (0.84-0.95)
+Minolta
+Siemens OMN 22 0.50 (0.31-0.68) 1.00 (1.00-1.00) 0.93 (0.79-1.00)
+Canon Inc OMN 106 0.45 (0.34-0.56) 0.94 (0.88-1.00) 0.85 (0.78-0.91)
+Philips OMN 21 0.56 (0.36-0.76) 1.00 (1.00-1.00) 0.96 (0.88-1.00)
+other OMN 21 0.55 (0.30-0.80) 1.00 (1.00-1.00) 0.95 (0.89-1.00)
+*Hispanic results are not shown for TNI (n=6). ** BMI<18.5 kg/m2 as OMN only had 3 patients in that group.
+Ground truth Low BMD was defined by DXA (at least one of the femoral neck or L1-4 having a T-score <-1).
+The device demonstrated a high specificity across all three datasets and a comparatively low
+sensitivity; however, the device demonstrated lower sensitivity in the OMN and OAI datasets
+(e.g. the datasets sourced solely from US healthcare environments) as compared to the TNI6
+dataset (the dataset sourced from Canada healthcare environment). A high specificity implies
+that a high rate of the positive findings of low BMD from the device are real cases of low patient
+BMD. The risk of false negatives from this device is low because the patients continue to receive
+De Novo Summary (DEN230023) Page 6 of 12standard of care and still undergo clinical screening assessment of bone health. The device fully
+met the prespecified AUC performance goal for all subgroups in all three datasets.
+Study Limitation: The sponsor originally proposed co-primary endpoints of sensitivity and
+speccity (performance goals specified as the lower end of the two-sided 95% confidence
+interval of specificity >0.775 and lower end of the two-sided 95% confidence interval of
+sensitivity >0.5 for the INI6 and OMN cohorts. However, the final device performance across
+all analysis groups did not meet those goals. The device met its performance goals of specificity
+and AUC in all three datasets. More specifically, device sensitivity is lower than 30% for the
+following subgroups: knee subgroup in both US datasets (OMN and OAI), hand/wrist subgroup
+in OAL male subgroup in OAI dataset. There is uncertainty associated with the lower sensitivity
+in the US datasets and certain subgroups that will be addressed by indicating on the device
+report that negative results do not necessarily indicate absence of low BMD. A link to the study
+results will be provided on the device report provided to the radiologist, and performance in all
+subgroups will be provided in the device labeling. Although the device's low sensitivity suggests
+that there is a small probable benefit, the risk of false negatives is no different from current
+standard of care. Uncertainties associated with the device's generalizability across (afferent
+datasets and different subgroups will also be addressed by postmarket monitoring described in
+the special controls.
+Figure 1: ROC curve for the three clinical datasets, TNI6, OAI and OMN
+ROC curve
+cc.
+075-
+subgroup
+— 022
+- OMN
+TM
+0 25 -
+0 00 025 aso 0.75
+'I-Specificity
+De Novo Summary (DEN230023) Page 7 of 12Reproducibility of Rho Results between x-rays acquired on different days
+Rho demonstrated moderate agreement when analyzing x-rays of the same body part that were
+acquired on the same or different days.
+Table 3. Agreement of Rho Result between 2 x-rays of the same body part
+x-rays on same x-rays on same x-rays on same x-rays on
+day, same time day with > 1 day with > 2 different day,
+(bilateral minute between minutes between within 2 years
+images)
+subjects 414 87 32 269
+% low BMD 83 83 88 89
+'Yo agreement 85 88.5 84.4 86.2
+Kappa 0.686 0.759 0.69 0.681
+z 14 7.11 3.97 11.2
+p 0 1.1E-12 7.1E-05 0
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+LABELING
+The labeling meets the requirements of 21 CFR 801.109 for prescription devices and includes
+information on device inputs and outputs, instructions for use, intended patient population and
+intended users of the device, adequate warnings and precautions as well as detailed performance
+testing summaries. Application of the device as an evaluation tool for referral to bone health
+assessment is clearly stated, and there are warnings that clinical decisions should not be based
+solely upon the device's output and that the device cannot be used to rule out low BMD.
+Postmarket data collection and its purpose is acknowledged in labeling.
+POSTMARKET MONITORING PLAN
+The De Novo request included specifics of a post-market performance management plan to
+ensure regular assessment of the generalizability and device performance of Rho in the intended
+patient population in real-world use. The plan includes collection and review of data on the
+clinical use of Rho from various sources including healthcare professionals, clinical sites, and
+De Novo Summary (DEN230023) Page 8 of 12patient registries, analyze collected data to identify any patterns, trends, or adverse events
+associated with the use of Rho and assess the impact of the frequency and severity of any
+reported incidents on the risk profile of the device. Through automatic monitoring of the
+percentage of Rho positive cases at each site, and across sites, the sponsor will initiate root cause
+investigations in the case of performance drift. In the case of significant performance drift,
+including significant performance drift of a predefined subgroup, the sponsor will inform
+customers through a predefined communication plan; this can include adding or modifying
+warnings or contraindications in the labeling, or modifying indications for use.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of radiology
+software for opportunistic evaluation of low bone mineral density and the measures necessary to
+mitigate these risks.
+Identified Risks to Health Mitigation Measures
+Incorrect patient management due to misinterpretation Clinical performance testing
+of device output or overreliance on device output for Labeling
+radiological image interpretation Postmarket monitoring plan
+False positive findings leading to unnecessary radiation Clinical performance testing
+exposure to the patient and clinical work-up Postmarket monitoring plan
+Labeling
+False negative findings leading to missing or delayed Labeling
+patient assessment
+Device failure leading to the absence or delay of results, Software verification, validation,
+leading to missing, inaccurate, or delayed patient and hazard analysis
+assessment
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, radiology software for opportunistic
+evaluation of low bone mineral density is subject to the following special controls:
+(1) Clinical performance testing must demonstrate that the device performs as intended
+under anticipated conditions of use. Testing must fulfill the following:
+(i) The dataset used for training and development of the advanced algorithm must be
+distinct from the dataset used for testing to support generalizability of the
+algorithm.
+(ii) Results from clinical performance testing must characterize the performance of
+the device compared to a clinically justified ground truth (reference method or
+clinical comparator).
+(iii) The test dataset must be representative of the intended patient population(s) to
+support a supplement to a screening program. Test datasets must have adequate
+representation of cases with clinically relevant confounders. The performance
+De Novo Summary (DEN230023) Page 9 of 12estimates and confidence intervals of the device for each individual confounding
+factor must be characterized in the performance testing.
+(iv) Clinical performance must characterize the dependence of software output on the
+hardware specifications of the acquisition system.
+(v) Clinical performance must characterize the device's reproducibility from
+repeated measurements on the same patients.
+(vi) The testing report must include a detailed description of pre-specified
+performance testing protocols (including the study objectives, primary and
+secondary endpoints, statistical hypotheses, performance goals, sample size
+calculation, statistical analyses) and dataset(s) used.
+(2) Software verification, validation, and hazard analysis must be performed.
+(3) Labeling must include:
+(i) A description of the intended patient population, the intended user, clinical
+environment, and context of use, including information on interpretation of
+outputs within the intended clinical workflow;
+(ii) A summary of the performance testing for each device output, including test
+methods, dataset characteristics, testing environment, results (with confidence
+intervals), and a summary of clinical performance for all demographic subgroups
+from testing dataset(s);
+(iii) A description of measurement reproducibility;
+(iv) A description of situations in which the device may fail and clinical
+subpopulations or acquisition system characteristics in which device was not
+evaluated, if any;
+(v) A statement that the device output should not be used to replace a screening
+program.
+(4) The device manufacturer must develop and implement a post-market performance
+management plan that ensures regular assessment of the generalizability and device
+performance in the intended patient population in real-world use. The plan must
+include:
+(i) Data collection, analysis methods, and procedures for:
+(A) Monitoring relevant performance characteristics and detecting changes in
+performance;
+(B) Identifying sources of performance changes between validation and real-
+world environment over time; and
+(C) Assessing the results from the performance monitoring on safety and
+effectiveness.
+(ii) Procedures for communicating the device's current performance to users.
+BENEFIT-RISK DETERMINATION
+The risks of the device are based on clinical studies described above. A false positive result
+could lead to a clinical assessment of risk, which in turn could lead to unnecessary medical
+imaging (including DXA). However, a patient undergoing a DXA scan is exposed to a very
+De Novo Summary (DEN230023) Page 10 of 12small amount of radiation, equivalent to a few days of background radiation. The high specificity
+of device performance demonstrated across demographic subgroups, implying that a high rate of
+the positive findings of low BMD from the device are real cases of low patient BMD, further
+mitigates the risk. In the case of a false negative result the patient continues to receive current
+standard of care, in that the initiation of a clinical assessment of risk depends on the health care
+provider.
+The probable benefit of the device is that by opportunistically identifying individuals with
+possibly low BMD, the device facilitates the identification of patients who could benefit from
+possible subsequent clinical risk assessment of bone health, and DXA screening for the
+assessment of fracture risk.
+The device operates in an opportunistic fashion, analyzing images obtained for other clinical
+purposes, and the follow-up to being flagged (whether a true positive or false positive) is a
+clinical risk assessment (questionnaire) that is already recommended in the intended population
+but often overlooked in the current standard of care. The implication of a negative finding
+(whether a true negative or false negative) is that the initiation of the clinical risk assessment will
+not be triggered by the device. As the device is intended to assist in a healthcare professional's
+decision to refer a patient for subsequent clinical assessment of bone health a false negative
+outcome is no different than for an individual who had an x-ray that was not analyzed by Rho.
+The performance data provided support that the probable benefits outweigh the probable risks,
+when used as intended.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+Rho is a software application intended for use opportunistically with standard frontal
+radiographs of the lumbar spine, thoracic spine, chest, pelvis, knee, or hand/wrist
+performed in patients aged 50 years and older. Rho provides a notification in the form of
+a report to aid radiologists and/or physician interpreters in identifying patients with
+possible low bone mineral density (BMD) at Li -L4 or the femoral neck to prompt a
+clinical assessment of bone health. Rho should not be used to rule out low BMD.
+Radiologists and referring clinicians should follow recommended practices for screening
+and assessment, regardless of the absence of Rho report.
+The input to Rho is a standard frontal radiograph of the lumbar spine, thoracic spine,
+chest, pelvis, knee, or hand/wrist.
+The probable benefits outweigh the probable risks for Rho device. The device provides benefits,
+and the risks can be mitigated by the use of general controls and the identified special controls.
+De Novo Summary (DEN230023) Page 11 of 12CONCLUSION
+The De Novo request for Rho is granted and the device is classified as follows:
+Product Code: SAO
+Device Type: Radiology software for opportunistic evaluation of low bone mineral
+density
+Regulation Number: 21 CFR 892.1171
+Class: II
+De Novo Summary (DEN230023) Page 12 of 12

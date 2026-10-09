@@ -1,0 +1,319 @@
+February 1, 2019
+Siemens Medical Solutions USA, Inc.
+℅ Ms. Kimberly Mangum
+Regulatory Affairs Specialist
+40 Liberty Blvd.
+MALVERN PA 19355
+Re: K183272
+Trade/Device Name: AI Rad Companion (Engine)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ, JAK
+Dated: November 21, 2018
+Received: November 23, 2018
+Dear Ms. Mangum:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.03.05
+Silver Spring, MD 20993
+www.fda.govK183272 – Ms. Kimberly Mangum Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+Robert Ochs, Ph.D.
+Director
+Division of Radiological Health
+Office of In Vitro Diagnostics
+and Radiological Health
+Center for Devices and Radiological Health
+EnclosureK183272
+___________________________________________________ _________________________________________________________
+Traditional 510(k) AI-Rad Companion (Engine) 3 9 o f 1 0 2 Siemens Medical Solutions USA, Inc.
+Confidential510(K) SUMMARY
+FOR
+AI-RAD COMPANION (ENGINE)
+Submitted by:
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19355
+Date Prepared: January 18, 2019
+This summary of 510(k) safety and effectiveness information is being submitted in accordance with
+the requirements of SMDA 1990 and 21 CFR §807.92.
+1. Submitter
+Importer/Distributor
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19355
+Establishment Registration Number
+2240869
+Manufacturing Site
+Siemens Healthcare GmbH
+Siemensstr. 1
+D-91301 Forchheim, Germany
+Establishment Registration Number
+3004977335
+Contact Person
+Kimberly Mangum
+Regulatory Affairs Specialist
+Siemens Medical Solutions, Inc. USA
+40 Liberty Boulevard
+Malvern, PA 19355
+Phone: (610) 448 - 6477
+Email: kimberly.mangum@siemens-healthineers.com
+2. Device Name and Classification
+Product Name: AI-Rad Companion (Engine)
+Trade Name: AI-Rad Companion (Engine)
+Classification Name: Picture Archiving and Communication System
+Classification Panel: Radiology
+Regulation Number: 21 CFR §892.2050
+Device Class: Class II
+Product Code: LLZ
+Secondary Product Code JAK
+3. Predicate Device
+Primary Predicate Device:
+Product Name: syngo.CT View&GO
+Propriety Trade Name: syngo.CT View&GO
+510(k) Number: K170952
+Clearance Date: April 28, 2017
+AI-Rad Companion (Engine) 510(k) Summary
+K183272 Page 1 of 5Classification Name: Picture Archiving and Communications System
+Classification Panel: Radiology
+Regulation Number: 21 CFR §892.2050
+Device Class: Class II
+Primary Product Code: LLZ
+Secondary Product Code JAK
+Recall Information: There are currently no recalls for this device
+4. Device Description
+AI-Rad Companion (Engine) is a software platform that provides basic visualization and enables
+external post-processing extension for medical images used for diagnostic purposes. The
+software platform provides means for storing of data and for transferring data into other systems
+such as PACS systems. The software platform provides an interface to integrate processing
+extensions by supporting:
+• Interface for multi-modality and multi-vendor Input / Output of DICOM Data
+• Check of data validity using information for DICOM tags
+• Interface for extensions that provide post-processing functionality
+• Confirmation user interface for visualization of medical images processed by extensions
+• Configuration user interface for configuration of the medical device and extensions
+As an update to the previously cleared device, the following modifications have been made:
+1) Modified Indications for Use Statement
+2) Support of software version VA10A:
+a. Deployment of software on Siemens cloud infrastructure
+b. Improved method to access and configure optional post-processing extensions
+c. Modified workflow to visualize and confirm output of optional post-processing
+extension
+3) Subject device claims list
+AI-Rad Companion (Engine) is designed to support the operating user in qualitative and
+quantitative analysis of clinical data
+5. Indications for Use
+AI-Rad Companion (Engine) is a software platform that provides basic visualization and enables
+external post-processing extension for medical images used for diagnostic purposes. The
+software platform is designed to support technicians and trained physicians in qualitative and
+quantitative measurement and analysis of clinical data. The software platform provides means for
+storing of data and for transferring data into other systems such as PACS systems. The software
+platform provides an interface to integrate processing extensions.
+AI-Rad Companion (Engine) functionality includes:
+• Interface for multi-modality and multi-vendor Input / Output of DICOM Data
+• Check of data validity using information for DICOM tags
+• Interface for extensions that provide post-processing functionality
+• Confirmation user interface for visualization of medical images processed by extensions
+• Configuration user interface for configuration of the medical device and extensions
+6. Comparison of Technological Characteristics with the Predicate Device
+The subject device AI-Rad Companion (Engine) is within the same classification regulation as the
+primary predicate device. The subject device supports a specific indication for use that is
+reflective of device specific performance, but the intended use and fundamental scientific
+technology remain unchanged from the primary predicate device.
+AI-Rad Companion (Engine) 510(k) Summary
+K183272 Page 2 of 5A tabular comparison of the subject device and predicate devices is provided as Table 1 below.
+Table 1: Predicate Device Comparable Properties
+Predicate Device
+Feature Subject Device Comparison Results
+(K170952)
+Equivalent. The subject device
+Software version supports a new version of software
+Software SOMARIS/8 VB20A
+VA10A that is deployable on the Siemens
+cloud infrastructure
+Equivalent. The subject device
+Extendable via
+Extendable via has been modified to support
+additional post-
+Extensibility additional post- extensions that can perform
+processing
+processing tools automated post-processing using
+extensions
+artificial intelligence algorithms
+Standard Standard
+visualization tools visualization tools
+Visualization Same
+(window levels, (window levels,
+MPR, MIP, VRT) MPR, MIP, VRT)
+In the Distribution
+step it is shown to
+which DICOM nodes
+a series will be sent
+when saving the
+Sending of DICOM
+case, or to which Equivalent. The subject device
+Image data to DICOM
+node a series has has been modified to support
+Distribution and nodes possible in
+already been sent. transfer to a preconfigured DICOM
+Archiving the export
+The user can select node
+functionality
+(or deselect)
+whether a series will
+be sent to any
+DICOM node or to a
+subset of nodes.
+Equivalent. The subject device
+User Interface has been modified to provide only
+Confirmation UI syngo.via GUI
+Confirmation basic functionality for confirmation
+of processed results
+Equivalent. The subject device
+User Interface syngo.via GUI - has been modified to expose
+Configuration UI
+Configuration configuration configuration options of existent
+extensions
+Equivalent. The subject device
+CD-R, film, DVD, CD-R, film, DVD,
+Archiving/Storing has been modified to only store
+USB, Network USB, Network
+meta data
+Communication DICOM compatible DICOM compatible Same
+7. Performance Data
+Non-Clinical Testing Summary
+Performance tests were conducted to test the functionality of AI-Rad Companion (Engine).
+Software validations and bench testing have been conducted to the performance claims as well
+as the claim of substantial equivalence to the predicate devices.
+AI-Rad Companion has been tested to meet the requirements of conformity to multiple industry
+standards. Non-clinical performance testing demonstrated that AI-Rad Companion complies with
+the following voluntary FDA recognized Consensus Standards listed in Table 2 below
+AI-Rad Companion (Engine) 510(k) Summary
+K183272 Page 3 of 5Table 2: Voluntary Conformance Standards
+Standards
+Recognition Product Publication
+Title of Standard Development
+Number Area Date
+Organization
+Digital Imaging and Communications in
+12-300 Radiology 06/27/2016 NEMA
+Medicine (DICOM) Set; PS 3.1 – 3.20
+Medical Device Software –Software Life
+13-32 Software Cycle Processes; 62304:2006 (1st 08/20/2012 AAMI, ANSI,
+IEC
+Edition)
+Medical devices – Application of risk
+Software/
+5-40 management to medical devices; 14971 08/20/2012 ISO
+Informatics
+Second Edition 2007-03-01
+Medical devices - Part 1: Application of
+General I
+usability engineering to medical devices 06/27/2016 IEC
+(QS/RM)
+IEC 62366-1:2015
+5-114
+Medical devices - Part 1: Application of
+General I
+usability engineering to medical devices 2/3/2016 IEC
+(QS/RM)
+[Including CORRIGENDUM 1 (2016)]
+Verification and Validation
+Software Documentation for a Moderate Level of Concern software per FDA’s Guidance
+Document “Guidance for the Content of Premarket Submissions for Software Contained in
+Medical Devices” issued on May 11, 2005, and “Off-The-Shelf Software Use in Medical Devices”
+is also included as part of this submission. The performance data demonstrates continued
+conformance with special controls for medical devices containing software. Non-clinical tests were
+conducted on the Subject Device AI-Rad Companion (Engine) software version VA10A during
+product development.
+The Risk analysis was completed and risk control implemented to mitigate identified hazards. The
+testing results support that all the software specifications have met the acceptance criteria.
+Testing for verification and validation for the device was found acceptable to support the claims of
+substantial equivalence.
+Bench testing in the form of Unit, Subsystem and System Integration testing were performed to
+evaluate the performance and functionality of the new features and software updates. All testable
+requirements in the Engineering Requirements Specifications keys, Subsystem Requirements
+Specifications keys, and the Risk Management Hazard keys have been successfully verified and
+traced in accordance with the Siemens product development (lifecycle) process. The software
+verification and regression testing have been performed successfully to meet their previously
+determined acceptance criteria as stated in the test plans. Electrical safety and EMC testing
+requirements are addressed as part of the host system (CT device or PACS system) to ensure
+compliance with the application IEC standards.
+Siemens conforms to the cybersecurity requirements by implementing a process of preventing
+unauthorized access, modifications, misuse or denial of use, or the unauthorized use of
+information that is stored, accessed or transferred from a medical device to an external recipient.
+Provided in this submission is a cybersecurity statement that considers IEC 80001-1:2010. The
+responsibility for compliance with IEC 80001-1-2010 is the hospital.
+Summary
+AI-Rad Companion (Engine) was tested and found to be safe and effective for intended users,
+uses and use environments through the design control verification and validation process and
+AI-Rad Companion (Engine) 510(k) Summary
+K183272 Page 4 of 5clinical data based software validation . The Human Factor Usability Validation showed that
+Human factors are addressed in the system test according to the operator’s manual and in clinical
+use tests with customer report and feedback form. Customer employees are adequately trained in
+the use of this equipment.
+8. General Safety and Effectiveness Concerns:
+The device labeling contains instructions for use as well as necessary cautions and warnings to
+provide for safe and effective use of the device. Risk management is ensured via a system
+related Risk analysis, which is used to identify potential hazards. These potential hazards are
+controlled during development, verification and validation testing according to the Risk
+Management process. In order to minimize electrical, mechanical, and radiation hazards,
+Siemens adheres to recognized and established industry practice and standards.
+9. Conclusions
+AI-Rad Companion (Engine) has the same intended use as the primary predicate device. The
+indication for use has been modified to include a more succinct summary of device specific
+performance, but is still within the scope of the intended use and regulatory classification as the
+predicate devices. The fundamental technological characteristics such as image visualization and
+image manipulation are the same as the predicate device. The result of all testing conducted was
+found acceptable to support the claim of substantial equivalence. The predicate device was
+cleared based on non-clinical supportive information including bench testing and software
+validations. The results of these tests demonstrate that the predicate devices are adequate for the
+intended use. The comparison of technological characteristics, non-clinical performance data, and
+software validation demonstrates that the subject device is as safe and effective when compared
+to the predicate device that is currently marketed for the same intended use. For the subject
+device, AI-Rad Companion (Engine), Siemens used the same testing with the same workflows as
+used to clear the predicate device to demonstrate safety and performance of the technical
+workflow. Since both devices were tested using the same methods, Siemens believes that the
+data generated from the AI-Rad Companion (Engine) software testing supports a finding of
+substantial equivalence.
+AI-Rad Companion (Engine) 510(k) Summary
+K183272 Page 5 of 5

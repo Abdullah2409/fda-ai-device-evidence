@@ -1,0 +1,348 @@
+iSchemaView, Inc.
+Jim Rosa
+SVP Regulatory and Quality
+1120 Washington Ave.
+Suite 200
+Golden, CO 80401
+January 16, 2024
+Re: K233512
+Trade/Device Name: Rapid (6.0)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management and Processing System
+Regulatory Class: Class II
+Product Code: QIH, LLZ
+Dated: December 26, 2023
+Received: January 12, 2024
+Dear Jim Rosa:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.07
+Silver Spring, MD 20993
+www.fda.govK233512 - Jim Rosa Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK233512K233512
+510(k) Summary
+iSchemaView, Inc.’s Rapid
+This document contains the 510(k) summary for the iSchemaView Rapid Platform. The content
+of this summary is based on the requirements of 21 CFR Section 807.92(c).
+Applicant Name and Address:
+Name: iSchemaView, Inc.
+Address: 1120 Washington St., Suite 200
+Golden, CO 80401
+Official Contact: Jim Rosa
+Phone: (303) 704-3374
+Email: rosa@ischemaview.com
+Summary Preparation Date: January 12, 2024
+Device Name and Classification:
+Trade Name: iSchemaView Rapid Platform
+Common Name: PACS – Picture Archiving Communications
+System
+Classification: II
+Product Code: Primary: QIH, Secondary: LLZ
+Regulation No: 21 C.F.R. §892.2050
+Classification Radiology Devices
+Panel:
+Predicate Devices:
+The iSchemaView Rapid is claimed to be substantially equivalent to the following legally
+marketed predicate devices:
+Primary: iSchemaView Rapid (K213165)
+Previous Related FDA Submission:
+iSchemaView Rapid (K121447) – Initial Rapid Clearance
+Device Description:
+Rapid is a software package that provides for the visualization and study of changes in
+tissue using digital images captured by diagnostic imaging systems including CT
+(Computed Tomography) and MRI (Magnetic Image Resonance), as an aid to physician
+diagnosis. Rapid can be installed on a customer’s Server or it can be accessed online as a
+virtual system. It provides viewing, quantification, analysis and reporting capabilities.
+Rapid works with the following types of (DICOM compliant) medical image data:
+Page 1 of 7• CT (Computed Tomography)
+• MRI (Magnetic Image Resonance)
+Rapid acquires (DICOM compliant) medical image data from the following sources:
+• DICOM file
+• DICOM CD-R
+• Network using DICOM protocol.
+Rapid provides tools for performing the following types of analysis:
+• selection of acute stroke patients for endovascular thrombectomy
+• volumetry of thresholded maps
+• time intensity plots for dynamic time courses
+• measurement of mismatch between labeled volumes on co-registered image
+volumes
+• large vessel density
+Rapid is a Software as a Medical Device (SaMD) consisting of one or more Rapid Servers
+(dedicated or virtual) in on-premises or hybrid (on-premises/cloud) configurations. The
+Rapid Server is an image processing engine that connects to a hospital LAN, or inside
+the Hospital Firewall in the on-premises configuration or in conjunction with a secure
+link to the cloud in the hybrid configuration. It can be a dedicated Rapid Server or a VM
+Rapid appliance, which is a virtualized Rapid Server that runs on a dedicated server.
+Rapid is designed to streamline medical image processing tasks that are time consuming and
+fatiguing in routine patient workup. Once Rapid is installed it operates with minimal user
+interaction. Once the CT (NCCT, CT, CTA) or MR (MR, MRA) data are acquired, the CT or
+MRI console operator selects Rapid as the target for the DICOM images, and then the
+operator selects which study/series data to be sent to Rapid. Based on the type of incoming
+DICOM data, Rapid will identify the data set scanning modality and determine the suitable
+processing module. The Rapid platform is a central control unit which coordinates the
+execution image processing modules which support various analysis methods used in
+clinical practice today:
+• Rapid CTP/MRP, DWI, Dynamic Analysis (Original: K121447, Updated with K172477;
+and K182130)
+• Rapid CTA (K172477)
+• Rapid ASPECTS(K190395)
+• Rapid ICH (K193087, K221436)
+• Rapid LVO (K200941, K221248)
+• Rapid PETN (K220499)
+• Rapid RVLV (K223396
+• Rapid NCCT Stroke (K222884)
+• Rapid ANRT (K230074)
+• Rapid SDH (K232436)
+Page 2 of 7The iSchemaView Server is a dedicated server that provides a central repository for Rapid
+data. All iSchemaView Server data is stored on encrypted hard drives within the hospital
+infrastructure. It also provides a user interface for accessing Rapid data. It connects to a
+firewalled Data Center Network and has its own firewall for additional cyber/data security.
+The iSchemaView Server connects to one or more Rapid Servers via WAN. Available types
+of connection include VPN (Virtual Private Network - RFC2401 and RFC4301 Standards)
+Tunnel and SSH (Secure Shell).
+Indications for Use:
+Rapid is an image processing software package to be used by trained professionals,
+including but not limited to physicians and medical technicians. The software runs on
+a standard off-the-shelf computer or a virtual platform, such as VMware, and can be
+used to perform image viewing, processing and analysis of images. Data and images
+are acquired through DICOM compliant imaging devices.
+Rapid provides both viewing and analysis capabilities for functional and dynamic
+imaging datasets acquired with CT Perfusion (CTP), CT Angiography (CTA), and
+MRI including a Diffusion Weighted MRI (DWI) Module and a Dynamic Analysis
+Module (dynamic contrast-enhanced imaging data for MRI and CT).
+The CT analysis includes NCCT maps showing areas of hypodense and hyperdense
+tissue.
+The DWI Module is used to visualize local water diffusion properties from the
+analysis of diffusion - weighted MRI data.
+The Dynamic Analysis Module is used for visualization and analysis of dynamic
+imaging data, showing properties of changes in contrast over time. This functionality
+includes calculation of parameters related to tissue flow (perfusion) and tissue blood
+volume.
+Rapid CT-Perfusion and Rapid MR-Perfusion can be used by physicians to aid in the
+selection of acute stroke patients (with known occlusion of the intracranial internal carotid
+artery or proximal middle cerebral artery)
+Instructions for the use of contrast agents for this indication can be found in Appendix A of
+the User’s Manual. Additional information for safe and effective drug use is available in
+the product-specific iodinated CT and gadolinium-based MR contrast drug labeling.
+In addition to the Rapid imaging criteria, patients must meet the clinical requirements for
+thrombectomy, as assessed by the physician, and have none of the following
+contraindications or exclusions:
+• Bolus Quality: absent or inadequate bolus.
+• Patient Motion: excessive motion leading to artifacts that make the scan technically
+inadequate
+• Presence of hemorrhage
+Page 3 of 7Technological Characteristics:
+Rapid performs the following functions:
+• processes DICOM images from multiple sources to provide visualization of changes
+of tissue perfusion, diffusion and change.
+• receives DICOM images from external DICOM image providers (modalities (CT/MRI
+Scanners), PACS and Workstations) and sends DICOM images to external image
+consumers.
+• processes requests, statuses and results, and references therein, which are stored in a
+searchable database.
+• processing status is available through a web browser using HTTP, HTML and PHP.
+• can send summary results to the user over email. For this, Rapid generally connects to
+the infrastructure of the medical partner (e.g., the hospital). Rapid uses a SMTP
+protocol with security extensions to provide secure communications.
+Rapid is available in the following configurations:
+• Standard Rapid, which is installed directly on a customer's Linux-based server and
+integrated with medical image processing software such as commercial PACS.
+• Virtual Rapid, wherein the user accesses Rapid online and uses it to process DICOM
+images otherwise available on his/her computer.
+Rapid is a DICOM-compliant PACS software that provides comprehensive functionality to
+transfer, process, and display modality specific imaging data. Rapid runs on standard "off-
+the- shelf' computer and networking hardware. Rapid is entirely independent from CT, MRI,
+or independent PACS platforms. It supports secure VPN (Virtual Private Network)
+networking or encapsulated Secure Shell (SSH), and seamlessly integrates into an existing
+radiological data network.
+Clinical Characteristics:
+The primary users of Rapid software are medical imaging professionals who analyze tissue
+using CT or MRI images. The images generated by Rapid provide additional diagnostic
+information, which is derived from the temporal/diffusion/density features of the native CT or
+MRI images.
+Rapid CT Perfusion and Rapid MRI can be used by physicians to select acute stroke patients
+for endovascular thrombectomy. The recommended selection criteria are listed in the table
+below. Patients must meet the clinical requirements for thrombectomy as assessed by the
+physician.
+Performance Standards:
+Rapid has been developed in conformance with the following standards, as applicable:
+EN ISO 14971:2019 Application of Risk Management to Medical Devices
+IEC 62304:2016 Medical device software – Software lifecycle processes
+IEC 62366:2015 Application of Usability Engineering to Medical Devices
+Page 4 of 7NEMA PS 3.1 - 3.20 Digital Imaging and Communications in Medicine (DICOM)
+Performance Data:
+Rapid complies with DICOM (Digital Imaging and Communications in Medicine) - Developed
+by the American College of Radiology and the National Electrical Manufacturers Association.
+NEMA PS 3.1 - 3.20.
+Additionally, iSchemaView conducted extensive performance validation testing and software
+verification and validation testing of the Rapid system. This performance validation testing
+demonstrated that the Rapid system provides accurate representation of key processing
+parameters under a range of clinically relevant parameters and perturbations associated with the
+intended use of the software. Software performance, validation and verification testing
+demonstrated that the Rapid system met all design requirements and specifications.
+Prescriptive Statement:
+Caution: Federal law restricts this device to sale by or on the order of a physician.
+Safety & Effectiveness:
+Rapid has been designed, verified and validated in compliance with 21 CFR, Part 820.30
+requirements. The device has been designed to meet the requirements associated with EN ISO
+14971:2019 (risk management). The Rapid System performance has been validated with
+phantom and case data.
+Substantial Equivalence:
+Rapid is as safe and effective as the previously cleared Rapid (K213165) with an extension of
+installation in a hybrid configuration (on-premises and hybrid). Rapid has the same intended
+use and similar indications, technological characteristics and principles of operation as its
+predicate devices. Rapid raises no new issues of safety or effectiveness compared to Rapid
+(K2131650), as demonstrated by the testing conducted with Rapid. Thus, Rapid Platform v6.0
+software is substantially equivalent.
+Parameter Rapid Platform v6 Rapid (K213165) Primary Predicate
+Product Code LLZ, QIH LLZ, QIH
+Regulation 21 CFR §892.2050 21 CFR §892.2050
+Intended Use/ iSchemaView's Rapid is an image iSchemaView's Rapid is an image
+Indications for
+processing software package to be used processing software package to be used
+Use
+by trained professionals, including but by trained professionals, including but
+not limited to physicians and medical not limited to physicians and medical
+technicians. The software runs on a technicians. The software runs on a
+standard off-the-shelf computer or a standard off-the-shelf computer or a
+virtual platform, such as VMware, and virtual platform, such as VMware, and
+can be used to perform image viewing, can be used to perform image viewing,
+processing and analysis of images. Data processing and analysis of images. Data
+and images are acquired through and images are acquired through
+DICOM compliant imaging devices. DICOM compliant imaging devices.
+The iSchemaView Rapid provides both The iSchemaView Rapid provides both
+Page 5 of 7viewing and analysis capabilities for viewing and analysis capabilities for
+functional and dynamic imaging functional and dynamic imaging
+datasets acquired with CT/CBCT datasets acquired with CT/CBCT
+Perfusion (CTP/CBCTP), CT Perfusion (CTP/CBCTP), CT
+Angiography (CTA), and MRI Angiography (CTA), and MRI
+including a Diffusion Weighted MRI including a Diffusion Weighted MRI
+(DWI) Module and a Dynamic Analysis (DWI) Module and a Dynamic Analysis
+Module (dynamic contrast-enhanced Module (dynamic contrast-enhanced
+imaging data for MRI and CT). imaging data for MRI and CT).
+The CT analysis includes NCCT maps The CT analysis includes NCCT maps
+showing areas of hypodense and showing areas of hypodense and
+hyperdense tissue. hyperdense tissue.
+The DWI Module is used to visualize The DWI Module is used to visualize
+local water diffusion properties from the local water diffusion properties from the
+analysis of diffusion - weighted MRI analysis of diffusion - weighted MRI
+data. data.
+The Dynamic Analysis Module is used The Dynamic Analysis Module is used
+for visualization and analysis of for visualization and analysis of
+dynamic imaging data, showing dynamic imaging data, showing
+properties of changes in contrast over properties of changes in contrast over
+time. This functionality includes time. This functionality includes
+calculation of parameters related to calculation of parameters related to
+tissue flow (perfusion) and tissue blood tissue flow (perfusion) and tissue blood
+volume. volume.
+Rapid CT-Perfusion and Rapid MR- Rapid CT-Perfusion and Rapid MR-
+Perfusion can be used by physicians to aid Perfusion can be used by physicians to aid
+in the selection of acute stroke patients in the selection of acute stroke patients
+(with known occlusion of the intracranial (with known occlusion of the intracranial
+internal carotid artery or proximal middle internal carotid artery or proximal middle
+cerebral artery) cerebral artery)
+Instructions for the use of contrast agents Instructions for the use of contrast agents
+for this indication can be found in for this indication can be found in
+Appendix A of the User’s Manual. Appendix A of the User’s Manual.
+Additional information for safe and Additional information for safe and
+effective drug use is available in the effective drug use is available in the
+product-specific iodinated CT and product-specific iodinated CT and
+gadolinium-based MR contrast drug gadolinium-based MR contrast drug
+labeling. labeling.
+In addition to the Rapid imaging criteria, In addition to the Rapid imaging criteria,
+patients must meet the clinical patients must meet the clinical
+requirements for thrombectomy, as requirements for thrombectomy, as
+assessed by the physician, and have none of assessed by the physician, and have none of
+the following contraindications or the following contraindications or
+exclusions. exclusions.
+Contraindications/Exclusions: Contraindications/Exclusions:
+Page 6 of 7• Bolus Quality: absent or • Bolus Quality: absent or
+inadequate bolus. inadequate bolus.
+• Patient Motion: excessive • Patient Motion: excessive
+motion leading to artifacts motion leading to artifacts
+that make the scan technically that make the scan technically
+inadequate. inadequate.
+• Presence of hemorrhage • Presence of hemorrhage
+Basic PACS Software package which interfaces to a Same
+Functions
+PACS or allows viewing within the
+application
+Computer Standard off-the-shelf Hardware: On- Standard off-the-shelf Hardware: Hybrid (on-
+Platform Premises premises/cloud)
+Software Traditional Coding for platform Traditional Coding for platform
+DICOM Yes Yes
+Compliance
+Functional Rapid is a software package that Same
+Overview provides for the visualization and study
+of changes of tissue in digital images
+captured by CT and MRI. Rapid
+provides viewing and quantification.
+The base Platform provides common
+services to the imaging modules
+Data/Image Computed Tomography (CT) via Same
+Types DICOM Format
+Magnetic Image Resonance (MRI) via Same
+DICOM Format
+Conclusion:
+In conclusion, the iSchemaView Rapid is substantially equivalent in intended use, technological
+characteristics, safety, and performance characteristics to the legally marketed predicate devices,
+Rapid (K213165).
+Page 7 of 7

@@ -1,0 +1,807 @@
+Optellum Ltd. March 5, 2021
+℅ Mr. David Arrowsmith
+RA/QA Manager
+Oxford Centre for Innovation, New Road
+Oxford, Oxfordshire OX1 1BY
+UNITED KINGDOM
+Re: K202300
+Trade/Device Name: Optellum™ Virtual Nodule Clinic, Optellum™ Software, Optellum™ Platform
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological computer-assisted diagnostic software for lesions
+suspicious of cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: January 25, 2021
+Received: January 27, 2021
+Dear Mr. Arrowsmith:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.23
+Silver Spring, MD 20993
+www.fda.govK202300 - Mr. David Arrowsmith Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEAL TH AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2020
+Indications for Use See PRA Statement below.
+51 0(k) Number (if known)
+K202300
+Device Name
+Optellum™ Virtual Nodule Clinic, Optellum™ Software, Optellum™
+Platform
+Indications for Use (Describe)
+Virtual Nodule Clinic (VNC) is a software device used in the tracking, assessment and characterization of incidentally
+detected pulmonary nodules.
+VNC includes a computer-aided diagnosis (CADx) function, available only to pulmonologists and radiologists. This
+automatically analyzes user-selected regions of interest (ROI) within lung CT data to provide volumetric and computer
+analysis based on morphological characteristics. Using only imaging features extracted from the CT image data, an
+artificial intelligence algorithm calculates a single value, the LCP-CNN score, which is displayed to the user. The LCP-
+CNN score is analyzed relative to LCP-CNN scores generated on a database of cases with known ground-truth using a
+histogram display format. The LCP-CNN score may be useful in the characterization of pulmonary nodules during image
+interpretation and may be used as one input to clinical decision making when following published clinical guidelines.
+VNC’s LCP-CNN score is indicated for the evaluation of incidentally detected solid and semi-solid pulmonary nodules of
+diameter 5-30mm in patients aged 35 years or above. In cases where multiple abnormalities are present, VNC’s LCP-
+CNN score can be used to assess each abnormality independently.
+Note that LCP-CNN is not indicated for lung cancer screening nor is it indicated for nodules of pure ground glass
+opacity. In addition, high contrast CT images were not used in clinical validation (as measured as >300HU median
+attenuation in the aortic arch) and the validation data also excluded CT images with only calcified nodules (since these
+are typically considered to be benign), with implants, motion artifacts, missing slices, or cases with greater than 5
+nodules. Finally, the validation data excluded patients with history of cancer of less than 5 years to avoid the presence of
+metastatic lesions.
+Users other than radiologists and pulmonologists, e.g. clinicians, nurses, nurse practitioners and navigators, may use
+VNC to view CT images and reports, organize patient management workflow, track patients, record management
+decisions and organize nodule clinics. For these users, the LCP-CNN score is unavailable.
+Type of Use (Select one or both, as applicable)
+IZI D
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."
+FORM FDA 3881 (7117) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK202300
+5 510(K) SUMMARY
+This 510(k) Summary of safety and effectiveness information is submitted as part of the Pre-Market
+Notification in accordance with the requirements of 21 CFR Part 807, Subpart E, Section 807.92.
+5.1 Submitter information
+Submitter organization: Optellum Ltd.
+Submitter address: Oxford Centre for Innovation
+New Road
+Oxford
+OX1 1BY
+United Kingdom
+Submitter telephone: +44 1865 261400
+Sponsor: Dr. Timor Kadir, Chief Science and Technology Officer
+timor.kadir@optellum.com
+Correspondence contact: David Arrowsmith, RA/QA Manager
+david.arrowsmith@optellum.com
+5.2 Date of Summary
+March 4, 2021.
+5.3 Device
+Device 510(k) number: K202300
+Device trade names: Optellum™ Virtual Nodule Clinic
+Optellum™ Software
+Optellum™ Platform
+Device common names: Computer-aided diagnosis (CADx) software
+Device classification: Computer-Assisted Diagnostic Software For Lesions
+Suspicious For Cancer (21 CFR §892.2060, Product Code
+POK)
+Safety classification: Class 2 (Special Controls)
+5.4 Predicate device
+This section identifies the legally marketed device (predicate) to which Optellum claims equivalence.
+Predicate device name: QuantX
+Predicate device manufacturer: Quantitative Insights, Inc
+Predicate device PMA Number: DEN170022
+Device classification name: Computer-Assisted Diagnostic Software For Lesions
+Suspicious For Cancer (21 CFR §892.2060, Product Code
+POK)
+Safety classification: Class 2 (Special Controls)
+Optellum Ltd 5-1 Virtual Nodule Clinic 510(k)5.5 Device description
+5.5.1 Device identification
+The device may have any of the following trade names:
+• Optellum™ Virtual Nodule Clinic
+• Optellum™ Software
+• Optellum™ Platform
+For clarity, the rest of this document refers to the device as Virtual Nodule Clinic or VNC.
+VNC is a software only device which consists of two main components: a web application accessed
+via standard desktop web browsers and the LCP-CNN machine learning model. These are further
+described in the following sections.
+5.5.2 Device characteristics
+Virtual Nodule Clinic (VNC) is a software application designed for trained medical professionals in the
+clinical management of patients with pulmonary nodules. VNC includes a computer-aided diagnosis
+(CADx) function to assist pulmonologists and radiologists in the assessment and characterization of
+incidentally detected pulmonary nodules using CT image data.
+VNC has two main functions:
+• A CADx function to assist radiologists and pulmonologists in clinical decision making by
+providing a score using machine learning (namely the LCP-CNN algorithm, Lung Cancer
+Prediction Convolutional Neural Network). Also note that the output of the CADx function is
+referred to synonymously in this document as either “Optellum LCP Score” or “LCP-CNN
+score”, depending on context.
+• A management function to allow users to easily track patients that need to be under
+management follow-up for indeterminate pulmonary nodules (IPNs).
+These functions are further described below.
+VNC consists of two main software components:
+• A web application deployed on a virtual server within a hospital datacenter;
+• The LCP-CNN module deployed on a GPU-equipped server on hospital premises or in the
+cloud.
+VNC is connected to two other IT systems in the hospital (see Figure 1): a DICOM-compatible Picture
+Archiving and Communication System (PACS) for accessing images and to the Radiology Information
+System (RIS) or reporting system for accessing the clinical reports.
+Optellum Ltd 5-1 Virtual Nodule Clinic 510(k)Figure 1: Virtual Nodule Clinic and connectivity to other hospital IT systems
+5.5.3 Use environment
+The pulmonary nodule management process typically includes setting up pulmonary nodule clinics in
+hospitals, so that nodules can be followed up or clinical investigations can be prescribed to confirm
+the diagnosis associated with the presence of pulmonary nodules. A nodule clinic is typically led by a
+pulmonologist and includes a multi-disciplinary team of radiologists, thoracic surgeon and
+sometimes pathologist and oncologist. Virtual Nodule Clinic is intended for use in hospitals to
+support these clinics.
+5.5.4 Description of main functions
+This section explains, for each of the intended functions listed in section 5.5.2, how the device
+functions and related scientific concepts.
+5.5.4.1 Computer-aided diagnosis
+The software’s computer-aided diagnosis (CADx) function, only available to pulmonologists and
+radiologists, automatically analyzes user-selected regions of interest (ROI) from lung CT data. This
+function extracts image data from the ROI to provide 3D analysis and computer analytics based on
+morphological characteristics. These imaging (or radiomic) features are computed solely from the
+image extract and then synthesized by an artificial intelligence algorithm into a single value, the LCP-
+CNN score, which is displayed to the user. The score displayed is an integer between 1 and 10 where
+1 means very likely benign and 10 means very likely malignant. The LCP-CNN score is not a
+probability of malignancy but is intended to be analyzed relative to LCP-CNN scores generated on a
+database of cases with known ground-truth, using a histogram display format. See Figure 2.
+The LCP-CNN score, in combination with other information may be used in the characterization of
+incidentally detected pulmonary nodules and may be used as one input to clinical decision making
+when following published clinical guidelines.
+Optellum Ltd 5-2 Virtual Nodule Clinic 510(k)Figure 2: a CT image with a user-selected region of interest, RML_1 (left) and the histogram of scores from a database of
+malignant and benign nodules where the ground-truth is known (right).
+Images courtesy of Oxford University Hospitals NHS Foundation Trust, Oxford, UK
+5.5.4.2 Nodule clinic management
+The software is connected to the Picture Archiving and Communication System (PACS) for accessing
+images and to the Radiology Information System (RIS) or reporting system for accessing reports.
+Medical CT images of the patient can be displayed within the software, used to track nodules over
+time, and for radiologist and pulmonologist users provide access to the CADx function described in
+the previous section. Both access to the PACS and the RIS or reporting system is read-only: VNC does
+not modify, manipulate, or push any data back to these systems.
+During patient enrollment, the user accesses the nodule history of a patient with pulmonary nodules
+by looking at existing reports and images of the patient. With this information, the user can enroll
+the patient if clinically indicated.
+Enrollment can be assisted through automated identification of key words (“#nodule”, a value that
+can be configured) in the reports. Key words are included by the radiologists themselves in reports
+at the time of the image interpretation (reading). Automatic identification of this key word produces
+a filtered list of patients proposed to the user for enrollment. The user will then need to confirm the
+enrollment of the patient. If not present in the list, a patient can be searched by the user (from their
+medical record number or name) and then reviewed for enrollment.
+Once enrolled, the user can make certain decisions about the clinical management of the patient,
+according to pulmonary nodule management guidelines, for instance, requesting a follow-up scan,
+or a clinical investigation (biopsy), refer to a lung cancer team or discharge. The booking of these
+examinations is done separately through the hospital booking system, and the actual date of the
+follow-up can be entered by the user once the booking is confirmed.
+When a new CT study is found for a patient in the PACS, the user is automatically informed about it
+in the software. The user can then take appropriate decision regarding this new study for the
+patient.
+Patients missing their follow-up examinations are automatically flagged to the user, allowing patient
+rescheduling or discharge if indicated.
+Optellum Ltd 5-3 Virtual Nodule Clinic 510(k)The patient management ends when the user discharges this patient from the nodule clinic once
+clinical diagnosis has been confirmed or for other indicated reasons (e.g. patient death, refusal to
+continue follow-up).
+5.5.5 Materials of use
+VNC is a software only device.
+5.5.6 Key performance characteristics
+VNC is a software only device, so design, validation and verification were planned, executed and
+documented according to FDA guidance, including the following:
+• FDA’s Guidance for the Content of Premarket Submissions for Software Contained in
+Medical Devices.
+• 21 CFR §892.2060 special controls.
+• FDA’s Guidance for Applying Human Factors and Usability Engineering to Medical Devices.
+• FDA’s Guidance for Content of Premarket Submissions for Management of Cybersecurity in
+Medical Devices.
+See sections 5.8 and 5.9.
+5.6 Intended use
+This section describes Virtual Nodule Clinic’s intended use, including a general description of the
+diseases or conditions that the device will diagnose and of the patient population for which the
+device is intended. It also compares VNC’s intended use to that of the predicate device.
+5.6.1 Indications for Use statement
+Virtual Nodule Clinic (VNC) is a software device used in the tracking, assessment and
+characterization of incidentally detected pulmonary nodules.
+VNC includes a computer-aided diagnosis (CADx) function, available only to pulmonologists and
+radiologists. This automatically analyzes user-selected regions of interest (ROI) within lung CT data to
+provide volumetric and computer analysis based on morphological characteristics. Using only
+imaging features extracted from the CT image data, an artificial intelligence algorithm calculates a
+single value, the LCP-CNN score, which is displayed to the user. The LCP-CNN score is analyzed
+relative to LCP-CNN scores generated on a database of cases with known ground-truth using a
+histogram display format. The LCP-CNN score may be useful in the characterization of pulmonary
+nodules during image interpretation and may be used as one input to clinical decision making when
+following published clinical guidelines.
+VNC’s LCP-CNN score is indicated for the evaluation of incidentally detected solid and semi-solid
+pulmonary nodules of diameter 5-30mm in patients aged 35 years or above. In cases where multiple
+abnormalities are present, VNC’s LCP-CNN score can be used to assess each abnormality
+independently.
+Note that LCP-CNN is not indicated for lung cancer screening nor is it indicated for nodules of pure
+ground glass opacity. In addition, high contrast CT images were not used in clinical validation (as
+measured as >300HU median attenuation in the aortic arch) and the validation data also excluded CT
+images with only calcified nodules (since these are typically considered to be benign), with implants,
+motion artifacts, missing slices, or cases with greater than 5 nodules. Finally, the validation data
+excluded patients with history of cancer of less than 5 years to avoid the presence of metastatic
+lesions.
+Optellum Ltd 5-4 Virtual Nodule Clinic 510(k)Users other than radiologists and pulmonologists, e.g. clinicians, nurses, nurse practitioners and
+navigators, may use VNC to view CT images and reports, organize patient management workflow,
+track patients, record management decisions and organize nodule clinics. For these users, the LCP-
+CNN score is unavailable.
+5.6.2 Contraindications
+The Optellum LCP Score is not indicated for pure Ground-Glass Opacities (GGO) or for calcified
+nodules.
+The Optellum LCP Score is not indicated for patients with a history of cancer less than 5 years.
+The Optellum LCP Score is not indicated for nodules detected by lung cancer screening studies.
+The Optellum LCP Score is not indicated for patients with more than five pulmonary nodules.
+The Optellum LCP Score is not indicated for patients with thoracic implants that impact the image
+appearance of the nodule.
+The Optellum LCP Score is not indicated for patients younger than 35 years.
+5.6.3 Intended patient population
+Virtual Nodule Clinic’s Optellum LCP Score is intended to be used for patients meeting all of the
+following criteria:
+• aged 35 or older
+• have between one and five incidentally detected solid and/or semi-solid pulmonary nodules
+5-30mm in diameter
+• no other history of cancer in the past five years
+• no thoracic implants that impact the image appearance of the nodule.
+VNC’s Optellum LCP Score can be used for male and female patients who are smokers, non-smokers
+or ex-smokers.
+5.6.4 Comparison with predicate
+This subsection explains the similarities with and differences between VNC and the predicate device
+in relation to intended use, including their respective Indications for Use statements, and explains
+why the differences are not critical to the intended diagnostic use of the device.
+5.6.4.1 Similarities
+Both QuantX and Virtual Nodule Clinic (VNC) are computer-aided diagnosis (CADx) software devices
+used to assist clinicians in the assessment and characterization of abnormalities using image data.
+Both devices extract image data from user-selected ROIs to provide volumetric and computer
+analysis based on morphological characteristics. Both devices use an artificial intelligence algorithm
+to synthesize these imaging (or radiomic) features into a single value represented as a score which is
+analyzed relative to scores generated on a database of cases with a known ground truth.
+For both devices, device failure could lead to an absence of results, delay to diagnosis or incorrect
+results.
+Similar to the QuantX device, efficacy of VNC is determined following the same special controls for
+design, validation, verification and labeling; both use reader studies to validate the impact on reader
+performance.
+Both devices provide the user with information to aid in the interpretation of medical images and
+both devices provide a machine learning based score derived from the patient’s image to aid the
+reader in interpreting the image and making recommendations and patient decisions. The QuantX
+Optellum Ltd 5-5 Virtual Nodule Clinic 510(k)device provides the QI score whereas the VNC device provides the LCP-CNN score. In both cases, the
+score is not a probability of malignancy but provides a likelihood function, to be interpreted using a
+display of information derived from a database of cases with known ground-truth.
+In cases where multiple abnormalities are present, both devices can be used to assess each
+abnormality independently.
+Both devices provide a histogram of the score distribution over malignant and benign cases from a
+database where the ground-truth is known. In both devices, the histogram is provided as a reference
+to aid in the use of the score in image interpretation.
+In both devices, the user makes the final determination and decision on patient management.
+Both devices are able to display DICOM-compliant medical images.
+Both devices provide a means for the user to select images to load from a database of patient
+images. In the case of VNC this comes in the form of a convenient timeline. VNC also provides access
+to the patient’s previous images and radiology reports as a convenient feature to save time for the
+user. While it is not clear whether the QuantX device provides such features, it is to be used in the
+context of radiology workflow and access to prior images and reports is readily available via the
+electronic medical record, PACS and RIS systems.
+VNC provides a convenient means by which the user can record the recommended management
+decision or next steps. In QuantX this is likely to be recorded in the reporting system rather than in
+an integrated way.
+Both devices provide information regarding the patient demographics.
+5.6.4.2 Differences
+The QuantX device is intended to be used in the case of patients undergoing imaging for breast
+cancer whereas VNC is to be used in the context of lung cancer. While these are different sets of
+patients and diseases, both devices are being used in the same clinical context, i.e. diagnostic image
+interpretation as an input to patient management decision making. Risks relating to input (image
+appropriateness and quality), human factors (ROI selection) and output (reliance on the user to
+make management decision) are the same in both devices.
+QuantX can automatically register and segment user-selected regions of interest (ROI) and provides
+measurement tools. This allows QuantX to provide additional information over VNC, based on
+radiomics and quantitative features. VNC’s LCP-CNN score, also derived from user-selected ROIs
+encapsulates all information necessary to aid the user for our use-case. This difference does not
+result in increased risk or reduced efficacy of VNC over QuantX.
+QuantX is indicated for high-risk screening, diagnostic workup or evaluation of extent of known
+disease. VNC is indicated to assist users in diagnosis of patients with incidentally detected pulmonary
+nodules, i.e. diagnostic workup. This apparent difference is a function of the differing methods of
+identification of the respective diseases. Breast abnormalities are not routinely discovered
+incidentally but lung ones are. Each device is indicated for its expected suitable method of
+abnormality identification and management. Therefore, this difference does not indicate a
+difference in risk or efficacy.
+VNC’s intended users are split into two groups by the functionality available to them. All functions,
+including the CADx function, are available to pulmonologists and radiologists. Other intended
+medical users (e.g., nurses, nurse practitioners and nurse navigators) do not have access to the CADx
+function or its output. QuantX is intended for radiologists only. Roles in VNC are clearly defined in
+the system and the functionality associated to each role is clearly differentiated when they need to
+Optellum Ltd 5-6 Virtual Nodule Clinic 510(k)be, and only the radiologist or pulmonologist can use the CADx function. The functionality available
+to the nurse or nodule clinic administrator is restricted to the management of patients. This
+difference does not indicate a difference in risk or efficacy.
+The QuantX device provides examples from the database that score similarly to that of the current
+patient. VNC does not provide this feature. However, we do not believe that this additional feature
+changes the device risk and merely provides additional information that may be useful to the user.
+Efficacy is determined in the reader study clinical validation.
+The QuantX device provides additional information based on radiomics and quantitative features.
+VNC does not provide any such information. The LCP-CNN score encapsulates information necessary
+to aid the user for our use-case and we have confirmed this by performing a reader study.
+The QuantX device processes MRI images to arrive at the QI score whereas VNC processes CT images
+to arrive at the LCP-CNN score. Both are taking voxel data from the images to arrive at the score and
+both are using supervised machine learning algorithms to produce the score. Moreover, both are to
+be used as an aid to interpretation of the images as part of oncology workflow. We do not believe
+the difference in modality is a substantial difference in the devices.
+5.7 Technological characteristics
+This section summarizes Virtual Nodule Clinic’s technological characteristics and explains the
+similarities and differences with those of the predicate device, including explanation of why the
+differences are not critical to the intended diagnostic use of the device.
+5.7.1 Principles of operation
+VNC is accessed via a web browser on any PC or Apple workstation in the hospital. The software is
+validated with web browsers Google Chrome, Mozilla Firefox, Microsoft Edge, Microsoft Internet
+Explorer and Apple Safari.
+5.7.1.1 Image analysis algorithm
+Image analysis algorithms behind VNC’s CADx function, LCP-CNN, are described in detail in this
+submission, according to 21 CFR §892.2060 special control 1(i), and summarized here.
+CNN and input: The LCP-CNN system is based on the Dense Convolutional Network, a widely used
+type of deep learning CNN architecture that was designed for computer vision tasks. LCP-CNN’s
+ensemble of convolutional neural network models ends with a fully connected binary classification
+layer (malignant or benign). Input to LCP-CNN is a 3-dimentional crop of a CT image, centered on a
+lung nodule.
+Training dataset: The LCP-CNN network was trained using solid and semi-solid nodules of at least
+5mm in diameter. The training data consisted of 8% malignant nodules and 92% benign nodules, and
+included both screening (95%) and incidentally detected (5%) nodules. The median age of the
+subjects was 62 (20-90) and included a mix of US (95%) and EU data (5%). The data included females
+(38%) and males (62%). Only nodules that were confidently matched to a definitive diagnosis, as
+provided with the data, were used for training.
+CNN output: LCP-CNN’s output is a continuous value between 0 and 1; this is mapped to an integer
+score between 1 and 10. This mapping was constructed by computing the raw LCP score on a dataset
+consisting of malignant (10%) and benign nodules (90%) but which were not used during the model
+training. The mapped integer score is shown to the user alongside a plot detailing the cancer
+prevalence in each of 10 bins for a population with a 30% cancer prevalence.
+Optellum Ltd 5-7 Virtual Nodule Clinic 510(k)5.7.1.2 PACS connectivity
+VNC can display DICOM-compatible images of the patient. For load performance reasons, this
+DICOM data is pulled from the hospital’s PACS and copied locally in a PACS proxy. VNC can query the
+hospital PACS for a patient’s images, for example when a patient is considered for enrollment into
+the nodule clinic or when an enrolled patient has a new image in the PACS. This results in the local
+storage being synchronized with the PACS data used by VNC.
+Access to the hospital’s PACS is read-only: VNC does not modify, manipulate or push any data back
+to the hospital PACS.
+VNC displays DICOM data as-is, without performing any modifications to the data. No
+reconstruction, resampling, interpolation or compression is performed in order to display DICOM
+data. VNC does not provide any facility to export DICOM data.
+VNC provides standard DICOM viewing tools such as pan, zoom, Window/Level and slice scrolling.
+5.7.1.3 Reporting archive connectivity
+VNC can display clinical reports from a supported RIS or reporting system. Where the report is
+associated with a DICOM image the report is displayed in VNC alongside that image. Access to the
+hospital’s RIS or reporting system is read-only: VNC does not modify, manipulate, or push any data
+back to the RIS or reporting system.
+5.7.2 Comparison with predicate
+Similarities: Both devices use an artificial intelligence algorithm to synthesize imaging features into a
+single value represented as a score which is analyzed relative to scores generated on a database of
+cases with a known ground truth.
+Both devices are software only (software as a medical device). Both devices have a graphical user
+interface. Both devices comply with DICOM 3.0, with differences in modality discussed above. Both
+can import DICOM images from connected third party DICOM-compatible devices.
+Differences: VNC is installed on Linux server(s), while QuantX is installed in Windows. Both are state-
+of-the-art operating systems capable of supporting secure, safe and effective use of the device.
+Safety and effectiveness have been demonstrated by performance testing. Therefore, this difference
+is not substantial.
+5.8 Nonclinical performance
+This section includes discussion the nonclinical tests used to establish substantial equivalence of
+Virtual Nodule Clinic to the predicate device.
+5.8.1 Design, verification and validation
+Like the predicate device, VNC is a software only device, so design, validation and verification were
+planned, executed and documented according to the following, and summarized in the rest of this
+subsection:
+• FDA’s Guidance for the Content of Premarket Submissions for Software Contained in
+Medical Devices. Based on this guidance, VNC was assessed to represent a Moderate Level
+of Concern, the same as the predicate device.
+• 21 CFR §892.2060 special control 1(v) Appropriate software documentation.
+As a software-only device, all requirements are software requirements. User requirements (those
+relating directly to the intended users) and product requirements (e.g. environmental and regulatory
+requirements) were identified without reference to design; they are design inputs.
+Optellum Ltd 5-8 Virtual Nodule Clinic 510(k)Device hazard analysis and risk management, based on ISO 14971:2019 Application of Risk
+Management to Medical Devices, was used to identify and control hazards associated with the
+device. This consists of:
+• Device Characteristics Analysis, including intended use, reasonably foreseeable misuse,
+identification of characteristics related to safety.
+• Risk analysis, including identification of hazards and estimation of the associated risks.
+• Risk control, including identification and analysis of risk control measures (design
+specifications and architectural design), implementation and verification of risk control
+measures; traceability; residual risk analysis to determine acceptability.
+• Risk review, including the overall residual risk compared to benefits of using the device.
+Implementation of requirements is documented in detailed architectural design and design
+specifications, including acceptance criteria.
+Planned and pre-defined testing included:
+• Validation that VNC’s user and product requirements are met (acceptance testing) – test
+results are included in this submission.
+• Verification of correct implementation of design specifications, including risk control
+measures (system testing) – test results are included in this submission.
+• Verification of correct implementation of architectural and detailed software design (unit
+and integration testing).
+A series of traceability tables link enumerated requirements, risks, design specifications and tests.
+Unresolved software anomalies known at the time of manufacture are listed in this submission.
+None affect or create any identified hazards, nor do they affect the device’s safety and effectiveness.
+In summary, VNC is successfully validated against user and product requirements and successfully
+verified against design specifications. All risk control measures, including those related to usability,
+are verified to be performing as designed.
+5.8.2 Usability evaluation
+The following types of usability evaluation were performed as part of validation and verification,
+using FDA guidance Applying Human Factors and Usability Engineering to Medical Devices.
+• Formative usability evaluation: activities to identify potential usability issues and risks and
+otherwise inform design.
+• Summative usability evaluation: activities for the purpose of establishing whether usability-
+related safety risks have been successfully mitigated.
+Usability engineering activities included identification and assessment of usability-related hazards
+and risk control measures. Test scenarios were designed to validate VNC’s usability. Test subjects
+selected included representatives from the intended user groups.
+In summary, usability testing using VNC was performed and confirmed that usability-related risk
+control measures were successful. Subsequent residual risk analysis determined that all associated
+usability risks have been reduced to an acceptable level. Accordingly, no further device development
+or re-validation work was deemed to be required: usability evaluation has shown that Virtual Nodule
+Clinic is safe and effective for the intended users, uses and use environments.
+Optellum Ltd 5-9 Virtual Nodule Clinic 510(k)5.8.3 Cybersecurity
+Cybersecurity activities were performed using FDA’s Guidance for Content of Premarket Submissions
+for Management of Cybersecurity in Medical Devices (2014). The following activities were
+performed:
+• Identification of assets, threats, and vulnerabilities.
+• For each threat and vulnerability, assessment of:
+the impact on device functionality and end users/patients
+o
+the likelihood of a threat and of a vulnerability being exploited
+o
+risk levels and suitable mitigation strategies
+o
+residual risk and risk acceptance criteria.
+o
+• Planning activities for post-market surveillance of cybersecurity.
+Identified cybersecurity risks, their control measures and verifications were managed along with
+other device risks. VNC’s installation guide includes description of requirements and activities
+related to cybersecurity at installation locations.
+5.8.4 CADx standalone testing
+Like the predicate device, standalone testing of the LCP-CNN model (the CADx function) of VNC was
+planned and performed in accordance with 21 CFR §892.2060 special control 1(iv).
+This testing was designed to measure performance of VNC’s LCP-CNN model in discriminating
+between benign and malignant nodules before the model’s incorporation into the device for further
+testing, including clinical testing. For the purpose of this test, a minimum area under curve (AUC) on
+a receiver operator characteristic (ROC) plot of 0.8 was selected.
+The LCP-CNN model achieved an AUC of 0.867, meaning that the LCP-CNN model is performing as
+expected and therefore accepted as the model to be incorporated into the device for further testing.
+See Figure 3.
+Figure 3: Receiver Operating Characteristics (ROC) for standalone testing of LCP-CNN.
+Optellum Ltd 5-10 Virtual Nodule Clinic 510(k)5.8.5 Testing not included in submission
+Non-clinical bench performance testing, as defined in section I of Recommended Content and
+Format of Non-Clinical Bench Performance Testing Information in Pre-Market Submissions (2019),
+was not performed so is not included in this submission.
+Animal testing was not performed for VNC so is not included in this submission.
+5.9 Clinical performance
+5.9.1 Summary
+Like the predicate device, clinical performance of VNC’s CADx function was assessed and
+documented according to 21 CFR §892.2060 special controls 1(ii) and 1(iii).
+Clinical performance of the LCP-CNN feature in the VNC software was evaluated in a fully-crossed,
+multiple-reader multiple-case (MRMC) study. This study evaluated the performance of twelve
+readers, six radiologists and six pulmonologists, in stratifying incidentally detected pulmonary
+nodules in CT scans from 300 subjects. Subject dataset comprised 136 females and 164 males
+between the ages 38 to 88 with a median age of 65. Half of the cases comprised malignant nodules.
+Data was collected from a variety of scanners and centers from across the US and EU and includes
+both academic and community centers.
+The readers were required to specify the likelihood of malignancy blinded to the LCP-CNN score and
+then again unblinded to the score. Efficacy was measured by calculating the area-under-the-curve
+(AUC) of the receiver-operating-characteristic (ROC) curve.
+The results showed that the average performance of the readers improved by 6.85 AUC points, that
+every reader’s average accuracy improved, and readers became more consistent with each other.
+5.9.2 Clinical endpoints
+Primary: The primary endpoint compared the ability of the readers to discriminate between
+malignant and benign pulmonary nodules from CT images only, with and without the aid of the LCP-
+CNN. For a given reader, discrimination was measured using the area under the receiver operating
+characteristic curve (AUC) across all cases. The effect size of the LCP-CNN intervention was measured
+as the difference in AUC before and after consulting the malignancy score provided by the LCP-CNN
+(i.e. unaided and aided reads).
+Sub-analysis: The following sub-analyses were performed:
+• Between data collected from US centers and non-US centers
+• Between data collected from academic and non-academic (e.g. community) centers
+• Between screening and non-screening (i.e. incidentally detected) pathways
+• Nodule sizes (5-9mm, 10-15mm, >15mm)
+• Per nodule attenuation: solid, semi-solid
+• Per scanner manufacturer (GE, Siemens, Philips, Canon/Toshiba)
+• Volume CT dose
+• Reconstruction slice thickness
+• Reconstruction algorithm/kernels
+• Per reader specialty (radiologist vs chest physician)
+• Per reader’s experience (experienced vs inexperienced)
+• Patient sex
+• Hospital for data collection
+• Patient age range.
+Optellum Ltd 5-11 Virtual Nodule Clinic 510(k)Secondary: A number of secondary endpoints were also evaluated including change of Likelihood of
+Malignancy (LoM) and recommended next management action, consistency of readers and
+sensitivity and specificity at 5% and 65% risk (ACCP thresholds) for blinded and unblinded
+evaluations.
+5.9.3 Test methods
+Reader selection: Table 1 lists the readers recruited for the study. They all satisfied minimum
+qualifications and experience as follows:
+1. Current medical license
+2. American Board of Radiology or equivalent specialty certification
+3. At least 1 year of chest CT interpretation experience
+4. Fellowship-trained in thoracic/chest imaging or 2 years’ experience in thoracic imaging
+5. Successful training on the use of study software.
+Table 1: Reader experience summary
+Reader Category Years of relevant experience
+Reader 1 Pulmonologist 19
+Reader 2 Pulmonologist 7
+Reader 3 Radiologist 15
+Reader 4 Radiologist 10
+Reader 5 Pulmonologist 3
+Reader 6 Pulmonologist 1
+Reader 7 Pulmonologist 4
+Reader 8 Pulmonologist 4
+Reader 9 Radiologist 11
+Reader 10 Radiologist 2
+Reader 11 Radiologist 3
+Reader 12 Radiologist 2
+Reader training: Prior to performing study reads, readers were trained on LCP-CNN operating
+principles and asked to perform 3 example patient reads in the presence of an Optellum trainer
+(training was performed remotely), then 17 further cases on their own. After each of these reads,
+the reader was provided with ground truth diagnosis. This is typical of the training users are
+recommended to receive for clinical use of the device.
+Reading: Readers used image data and the LCP-CNN score only to assess the study’s cases – no other
+data such as smoking history, age, etc. were known to the reader. For each of the 300 cases
+(presented in a pseudo-random order for each reader), the reader created a region of interest by
+clicking at the centroid of the patient’s indeterminate pulmonary nodule (IPN), then, blinded to the
+LCP-CNN score, estimated its likelihood of malignancy (LoM – 0 to 100, with 100 meaning definitely
+cancer) and selected the next appropriate action for the patient (no action, long term CT follow-up,
+short term CT follow-up, immediate imaging follow-up, biopsy, surgical resection/other destructive
+techniques). LoM1 and the follow-up action were then locked, and the reader shown the LCP-CNN
+score. The likelihood of malignancy was then re-estimated (LoM2), and follow-up action based on
+this recorded and locked.
+Optellum Ltd 5-12 Virtual Nodule Clinic 510(k)5.9.4 Validation dataset
+The study was performed using three hundred patients with solid and semi-solid indeterminate
+pulmonary nodules retrospectively collected from 9 academic and community hospitals. The data
+comprised 174 cases from the USA and 126 from the EU. The data was collected from both academic
+and non-academic, i.e. community (in the USA) or district general (in the UK) hospitals. For all
+datasets, the ground-truth was known either by biopsy, resection, or in the case of benign nodules
+from 2-year follow-up (or nodule disappearance). The following tables summarize the validation
+dataset. In these studies (other than for NLST data), patient consent had been waived.
+Note that although VNC is indicated only for incidentally detected lung nodules, scarcity of such data
+from community datasets meant that some community screening-detected nodules were included in
+the validation dataset. Sub-analysis included comparison between incidental and screening datasets
+(see section 5.9.6). The diagnosis of all nodules used in the study, whether screening or incidental,
+were established using the same common protocol that was used for the training dataset.
+Table 2: Patient characteristics for the Validation Set.
+Study Validation Set
+Patients
+Number (cancers) 300 (150)
+Age
+Median 65
+Range 38-88
+Sex
+Female (Male) 136 (164)
+Cancer Histology
+Adenocarcinoma 96
+Other 54
+Total 150
+Table 3: Nodule characteristics for the Validation Set, broken down by malignancy status. For the “Malignant” and “Benign”
+columns, the percentage given is the within-category percentage (e.g. 42% of the Male patients in the validation set have a
+malignancy), and for the “Total” column, the percentage is the row total as a percentage of the dataset, e.g. 55% of the
+validation patients are male.
+Study Validation Set
+Malignant Benign Total
+Sex N % N % N %
+Male 69 42 95 58 164 55
+Female 81 60 55 40 136 45
+Total 150 50 150 50 300 100
+Data Source
+Academic 113 65 62 35 175 58
+Community 37 30 88 70 125 42
+Total 150 50 150 50 300 100
+Case Pathway
+Incidental 130 63 76 37 206 69
+Optellum Ltd 5-13 Virtual Nodule Clinic 510(k)Screening 20 21 74 79 94 31
+Total 150 50 150 50 300 100
+Data Origin
+USA 73 42 101 58 174 58
+EU 77 61 49 39 126 42
+Total 150 50 150 50 300 100
+Nodule diameter
+0 to ≤6mm 5 11 39 89 44 15
+>6 to ≤8mm 18 33 36 67 54 18
+>8 to ≤15mm 76 58 56 42 132 44
+>15mm 51 73 19 27 70 23
+Total 150 50 150 50 300 100
+Nodule Margin
+Non-spiculated 38 27 105 73 143 48
+Spiculated 75 73 28 27 103 34
+Unreported 37 69 17 31 54 18
+Total 150 50 150 50 300 100
+Nodule Type
+Solid 123 51 120 49 243 81
+Semi-Solid 27 49 30 51 57 19
+Total 150 50 150 50 300 100
+Table 4: Scan-wise summary of the validation data, broken down by nodule malignancy status. All four major vendors are
+represented, and a variety of slice spacings up to 2.5mm.
+Pilot Study Validation Set
+Malignant Benign Total
+Scanner Manufacturer N % N % N %
+GE 60 67 30 33 90 30
+Philips 27 55 22 45 49 16
+Siemens 41 47 46 53 87 29
+Canon/Toshiba 22 30 52 70 74 25
+Total 150 50 150 50 300 100
+Reconstructed Slice Spacing (mm)
+<1.0 32 64 18 36 50 17
+1.0 - <1.5 69 68 33 32 102 34
+1.5 - <2.0 1 33 2 67 3 1
+2.0 - <=2.5 48 33 97 67 145 48
+Total 150 50 150 50 300 100
+Table 5: Validation dataset breakdown by scan dose. 20 patients have no usable data in either mAs or CTDIvol fields. Values
+of mAs over 1000 were assumed to be recorded in incorrect units, and have been divided by 1000 for the tables presented in
+this document. Within the “N” columns are two numbers: the first represents the number over which the median and range
+Optellum Ltd 5-14 Virtual Nodule Clinic 510(k)values were calculated (because of the missing dose information), and the second represents the total number of patients in
+the category.
+Pilot Study Validation Set
+Malignant Benign
+Dose Information N Median Range N Median Range N Total
+kVp <=100
+CTDIvol 5/12 4.9 3.3-6.8 3/3 8.2 4.5-10.6 8/15
+Exposure (mAs) 9/12 69 1.0-108.0 3/3 98 56.0-126.0 12/15
+kVp 101-120
+CTDIvol 64/138 7.4 1.6-32.8 39/144 7.3 1.6-32.8 103/282
+Exposure (mAs) 129/138 44 1.0-375.0 136/144 42.5 1.0-266.0 265/282
+kVp >120
+CTDIvol 0/0 - - 1/3 12.6 12.6-12.6 1/3
+Exposure (mAs) 0/0 - - 3/3 76 2.0-165.5 3/3
+5.9.5 Test results
+Primary endpoint: The mean effect size of the LCP-CNN intervention across all readers was 6.85 AUC
+points, 95%CI [4.29, 9.41], indicating a significant improvement in the discriminability of the readers
+(p < .001). Table 6 provides the per reader results. Figure 4 shows the mean ROCs for all 12 readers’
+performance unaided and aided by the LCP-CNN.
+Table 6: Reader performance summary
+Reader LoM1 AUC LoM1 AUC LoM2 AUC LoM2 AUC Delta Delta AUC
+95%CI 95% CI AUC 95%CI
+1 75.3 69.6-80.5 85.2 80.8-89.2 9.88 6.22-13.66
+2 80.0 75.0-84.8 88.2 84.2-91.9 8.25 5.74-10.97
+3 79.2 74.0-84.1 89.4 85.7-92.7 10.20 6.52-14.01
+4 76.5 70.8-81.7 88.6 84.6-92.1 12.14 8.11-16.40
+5 87.5 83.5-91.2 89.9 86.2-93.1 2.42 1.18-3.68
+6 82.5 77.6-86.9 89.4 85.7-92.7 6.93 4.01-10.10
+7 85.7 81.3-89.7 89.5 85.7-92.8 3.78 1.62-6.14
+8 80.5 75.5-85.1 88.0 84.1-91.6 7.52 5.02-10.13
+9 85.4 80.8-89.5 90.2 86.6-93.5 4.79 2.67-7.02
+10 82.1 77.0-86.6 89.6 85.9-92.8 7.52 4.16-11.08
+11 83.8 79.2-88.1 89.2 85.4-92.6 5.37 2.36-8.50
+12 84.6 80.1-88.8 88.0 83.9-91.6 3.42 1.58-5.34
+Optellum Ltd 5-15 Virtual Nodule Clinic 510(k)Figure 4: MRMC reader study ROC performance: mean ROC curves (unaided and aided by LCP-CNN) over 12 readers.
+Secondary endpoint: The results of the secondary endpoints show that the benefit of the LCP-CNN
+support is captured by a range of performance metrics with statistical significance: net
+reclassification improvement (NRI), sensitivity and specificity. The secondary results also indicate
+that, when a reader decided to change their likelihood of malignancy and/or clinical
+recommendation following a consultation of the LCP-CNN score, the direction of change was
+predominantly the correct one. Finally, the secondary endpoints showed that the spread of the
+estimates, as measured by standard deviation, of nodule malignancy across readers was reduced
+significantly when the readers were aided by the LCP-CNN.
+5.9.6 Summary of sub-analyses
+The sub-analysis of the primary endpoint indicates that the effect of the LCP-CNN score was positive
+across a wide range of relevant sub-groups. Notably, we observed no significant differences between
+academic vs. community centers, screening vs. incidental, CT energy, slice thickness, reconstruction
+types, radiologists vs. pulmonologists, age groups and sex.
+There were some moderate differences between the US and non-US data and reader experience,
+and one manufacturer showed much greater change in AUC than the others. However, such
+differences were due to the mixture of cases in each sub-group rather than inherent performance
+differences in the algorithm.
+There were some differences in performance of readers between different nodule appearances and
+sizes as to be expected. Readers generally performed better on larger nodules (>15mm) and with
+solid nodules.
+We observed no significant differences between 5 of the 6 sites/data sources. On the data from one
+UK site, the use of the LCP-CNN output resulted in an improvement in reader performance which
+Optellum Ltd 5-16 Virtual Nodule Clinic 510(k)was greater than for the other sites. This seems to be caused by lower than average reader accuracy
+on this dataset when blinded to the LCP-CNN score.
+5.10 Conclusions
+5.10.1 Nonclinical performance testing
+Standalone testing of the LCP-CNN model demonstrated that it performed as expected in
+discriminating between benign and malignant nodules, prior to incorporation into VNC for further
+testing.
+Software verification and validation demonstrated that VNC is validated against user and product
+requirements and successfully verified against design specifications. All risk control measures,
+including those related to usability, are verified to be performing as designed.
+5.10.2 Clinical performance testing
+The described clinical performance study concluded that:
+• Concurrent use of the LCP-CNN feature in Optellum Virtual Nodule Clinic software to read CT
+exams improves radiologists’ and pulmonologists’ accuracy for the diagnosis of pulmonary
+nodules by an average of 6.85 AUC points (p < .001) (from 81.9 to 88.8 AUC)
+• Every radiologist and pulmonologist improved their accuracy when using the Optellum LCP-
+CNN feature to assist their read.
+5.10.3 Benefit-risk assessment
+Risk management based on ISO 14971:2019 was performed in the design and development of this
+device.
+Benefits of use of the Optellum LCP Score are assessed primarily by analysis of primary and
+secondary endpoints of the clinical study described above. In this study, every radiologist and
+pulmonologist improved their accuracy when using the score to assist their read (primary endpoint).
+Secondary endpoints showed that the score improved the consistency of readers’ estimates of the
+likelihood of malignancy, and a significant proportion of patients could have a more appropriate
+follow-up, either reducing time to diagnosis for patients with malignant nodules or reducing follow-
+up scans for those with benign nodules.
+The data used in the validation study were a majority of incidentally detected nodules and a minority
+(ca. 30%) of screening detected nodules, whereas intended use is for incidentally detected nodules.
+While we observed no significant difference in the effect of the LCP-CNN between screening and
+incidentally detected nodules, there remains the possibility that differences may be present
+between these populations. Consequently, overdiagnosis in intended use could result, because
+screening populations can be expected to have higher cancer prevalence than the device’s intended
+incidental population.
+The risk of overdiagnosis is controlled by a specific warning in the device labeling, repeated in
+relevant sections of the device’s user guide, and reinforced by a similar warning in the user interface.
+The warning states that the cancer prevalence in the intended use patient population must be
+considered in comparison to the prevalence in data used to train and validate the LCP-CNN model.
+The warning in the device labeling includes a reference to details of the training and validation data,
+also included in the labeling.
+With the risk control measures provided, the risk of decisions being affected by over- or under-
+estimation of malignancy by the LCP-CNN score is small and outweighed by the score’s benefit.
+Optellum Ltd 5-17 Virtual Nodule Clinic 510(k)More generally, there are risks of non-indicated use of the device, including where the device’s
+indications are limited by validation data used in the study. These risks are controlled by specific
+warnings and contraindications in the device labeling. For example, validation data did not include
+Ground Glass Opacities, patient history of cancer less than 5 years, patients with greater than five
+nodules, patients with implants, and patients younger than 35 years; each of these has a specific
+contraindication and warning listed in the device labeling, including in the user guide. Risks
+associated with other limitations (e.g. irregular slice spacing and non-axial orientation) are
+additionally controlled by design in the device itself, by disabling the score function.
+Overall risk control, together with the intended users’ knowledge that the score is not to be used in
+isolation (also reinforced by device labeling), mean all identified risks have been reduced as much as
+possible within the confines of retaining the associated benefits. In all cases, the individual residual
+risks are outweighed by the associated benefits. Therefore, the total residual risk associated with use
+of Virtual Nodule Clinic is outweighed by the benefit of its use.
+5.11 Substantial Equivalence Statement
+Virtual Nodule Clinic (VNC) has the same or similar intended use as the predicate device;
+technological differences between VNC and the predicate device do not raise any questions
+regarding VNC’s safety and effectiveness. Clinical and non-clinical performance testing has
+demonstrated that VNC performs at least as safely and effectively as the predicate device in the
+context of its intended use and with the proposed labeling. VNC meets requirements for safety and
+effectiveness and does not introduce any new potential safety risks.
+The information provided in this submission supports our claim that VNC is as safe, as effective, and
+performs as well as or better than the legally marketed predicate device.
+Optellum Ltd 5-18 Virtual Nodule Clinic 510(k)

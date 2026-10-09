@@ -1,0 +1,463 @@
+November 22, 2022
+Avenda Health, Inc.
+℅ Brittany Berry-Pusey, Ph.D.
+Co-Founder and COO
+4130 Overland Avenue
+CULVER CITY CA 90230
+Re: K221624
+Trade/Device Name: Avenda Health AI Prostate Cancer Planning Software
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological computer-assisted diagnostic software for
+lesions suspicious of cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: October 23, 2022
+Received: October 24, 2022
+Dear Brittany Berry-Pusey:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.govK221624 - Brittany Berry-Pusey Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D.
+Assistant Director
+Magnetic Resonance and Nuclear Medicine Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K221624
+Device Name
+Avenda Health AI Prostate Cancer Planning Software
+Indications for Use (Describe)
+The Avenda Health AI Prostate Cancer Planning Software is an artificial intelligence (AI)-based decision support
+software, indicated as an adjunct to the review of magnetic resonance (MR) prostate images and biopsy findings in the
+prostate oncological workflow. The Avenda Health AI Prostate Cancer Planning Software is designed to support the
+prostate oncological workflow by helping the user with the segmentation of MR image features, including the prostate; in
+the evaluation, quantification, and documentation of lesions; and in pre-planning for diagnostic and interventional
+procedures such as biopsy and/or soft tissue ablation. The device is intended to be used by physicians trained in the
+oncological workflow in a clinical setting for planning and guidance for clinical, interventional, diagnostic, and/or
+treatment procedures of the prostate.
+The Avenda Health AI Prostate Cancer Planning Software’s lesion characterization functions are intended for use on
+patients with a pathology-confirmed Gleason Grade Group (GGG) ≥ 2 lesion and for whom corresponding biopsy
+coordinate information have been uploaded. These functions are indicated for the evaluation of the extent of known
+disease. Extent of known disease refers to the boundary of a pathology confirmed lesion of GGG ≥ 2 for a particular
+patient. Specifically, using prostate MR images, biopsy, pathology, and clinical data, the device creates and displays a
+cancer map that assigns a probability to each voxel within the prostate, indicating its probability for containing clinically
+significant prostate cancer (csPCa, defined as GGG ≥ 2 ). A user selects a threshold for the cancer map to create a
+boundary of the lesion. The lesion boundary is assigned an Encapsulation Confidence Score indicating the confidence
+that all csPCa is encapsulated within the boundary. The Encapsulation Confidence Score is from a lookup table generated
+by a database of cases with known ground-truth. When interpreted by a trained physician, this information may be useful
+in supporting lesion characterization and subsequent patient management.
+The Avenda Health AI Prostate Planning Software may also be used as a medical image application, for the viewing,
+manipulation, 3D-visualization, and comparison of MR prostate images. The images can be viewed in a number of output
+formats including volume rendering. It enables visualization of information that would otherwise have to be visually
+compared disjointedly.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF5.0 510(k) SUMMARY
+510(k) Notification K_2_2_1_6_2_4_________________
+GENERAL INFORMATION [807.92(a)(1)]
+Applicant:
+Avenda Health, Inc.
+4130 Overland Avenue
+Culver City, CA 90230
+USA
+Contact Person:
+Brittany Berry-Pusey, Ph.D.
+Co-Founder and COO, Avenda Health, Inc.
+Phone: 310-957-5202
+Email: brit@avendahealth.com
+Prepared By:
+Veranex, Inc.
+Regulatory, Clinical, and Quality Services
+224 Airport Parkway, Suite 250
+San Jose, CA 95110
+USA
+Date Prepared: November 18, 2022
+DEVICE INFORMATION [807.92(a)(2)]
+Trade Name:
+Avenda Health AI Prostate Cancer Planning Software
+Generic/Common Name:
+Medical Image Software Application and Decision Support Software
+Classification:
+21 CFR§892.2060, Radiological computer-assisted diagnostic software for lesions suspicious of
+cancer
+Product Code:
+POK, Computer-Assisted Diagnostic Software For Lesions Suspicious For Cancer5.0 510(k) SUMMARY
+PREDICATE DEVICE [807.92(a)(3)]
+Quantitative Insights, Inc. QuantX (DEN170022)
+DEVICE DESCRIPTION [807.92(a)(4)]
+The Avenda Health AI Prostate Cancer Planning Software (“AI Prostate Cancer Planning
+Software” or “Software”) is an artificial intelligence (AI)-based decision support software,
+indicated as an adjunct to the review of magnetic resonance (MR) prostate images and biopsy
+findings in the prostate oncological workflow. The Avenda Health AI Prostate Cancer Planning
+Software is designed to support the prostate oncological workflow by helping the user with the
+segmentation of MR image features, including the prostate; in the evaluation, quantification, and
+documentation of lesions; and in pre-planning for diagnostic and interventional procedures such
+as biopsy and/or soft tissue ablation. The device is intended to be used by physicians trained in
+the oncological workflow in a clinical setting for planning and guidance for clinical,
+interventional, diagnostic, and/or treatment procedures of the prostate. The software has three
+main features:
+1. Artificial Intelligence (AI) Powered Prostate MRI Segmentation Tool,
+2. AI Powered Lesion Contour Tool, and
+3. Simulated Interventional Tool Placement.
+The user can choose which subset of features of the Software to employ based on the specific
+oncological workflow. Not all features are required to be used for every workflow. Once the
+user has completed planning and has reviewed and verified the information, it can be exported
+into a supported file format such that it can be imported into a compatible interventional system
+or biopsy system.
+INDICATIONS FOR USE [807.92(a)(5)]
+The Avenda Health AI Prostate Cancer Planning Software is an artificial intelligence (AI)-based
+decision support software, indicated as an adjunct to the review of magnetic resonance (MR)
+prostate images and biopsy findings in the prostate oncological workflow. The Avenda Health
+AI Prostate Cancer Planning Software is designed to support the prostate oncological workflow
+by helping the user with the segmentation of MR image features, including the prostate; in the
+evaluation, quantification, and documentation of lesions; and in pre-planning for diagnostic and
+interventional procedures such as biopsy and/or soft tissue ablation. The device is intended to be
+used by physicians trained in the oncological workflow in a clinical setting for planning and
+guidance for clinical, interventional, diagnostic, and/or treatment procedures of the prostate.
+The Avenda Health AI Prostate Cancer Planning Software’s lesion characterization functions are
+intended for use on patients with a pathology-confirmed Gleason Grade Group (GGG)≥ 2 lesion
+and for whom corresponding biopsy coordinate information have been uploaded. These
+functions are indicated for the evaluation of the extent of known disease. Extent of known
+disease refers to the boundary of a pathology confirmed lesion of GGG≥ 2 for a particular
+patient. Specifically, using prostate MR images, biopsy, pathology, and clinical data, the device
+creates and displays a cancer map that assigns a probability to each voxel within the prostate,
+indicating its probability for containing clinically significant prostate cancer (csPCa, defined as
+GGG≥ 2). A user selects a threshold for the cancer map to create a boundary of the lesion. The5.0 510(k) SUMMARY
+lesion boundary is assigned an Encapsulation Confidence Score indicating the confidence that all
+csPCa is encapsulated within the boundary. The Encapsulation Confidence Score is from a
+lookup table generated by a database of cases with known ground-truth. When interpreted by a
+trained physician, this information may be useful in supporting lesion characterization and
+subsequent patient management.
+The Avenda Health AI Prostate Planning Software may also be used as a medical image
+application, for the viewing, manipulation, 3D-visualization, and comparison of MR prostate
+images. The images can be viewed in a number of output formats including volume rendering.
+It enables visualization of information that would otherwise have to be visually compared
+disjointedly.
+COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE DEVICES
+[807.92(a)(6)]
+Avenda Health, Inc. believes that the Avenda Health AI Prostate Cancer Planning Software (the
+“Proposed Device”) is substantially equivalent to the predicate device, Quantitative Insights, Inc.
+QuantX (DEN170022, “QuantX”). Like QuantX, the Proposed Device is used by physicians to
+support tasks within the oncological workflow. The range of functionalities supported by the
+Proposed Device, which include segmentation, lesion characterization, and image overlays (i.e.,
+simulated tool placement to support subsequent treatment planning), in addition to basic
+magnetic resonance image (MRI) and medical information review functionalities, is similar to
+those available in the identified predicate device. QuantX is selected as the predicate device
+because, like the Proposed Device, its primary imaging functionality is to characterize lesions
+suspicious for cancer through an artificial intelligence-powered algorithm and provide
+information to support the physician user’s interpretation of the patient’s medical and imaging
+information. DynaCAD is selected as a reference device to support the performance testing
+methodology for the prostate segmentation function. The Proposed Device is substantially
+equivalent to the identified predicate device.
+SUBSTANTIAL EQUIVALENCE
+The Proposed Device and the predicate device have the same intended use and similar
+Indications for Use. Both devices also have similar technological characteristics, and any
+differences in technological characteristics do not raise different questions of safety and
+effectiveness. The results of performance bench, usability, and reader performance testing
+demonstrated that the Proposed Device meets the established specifications necessary for
+consistent performance to achieve its intended use as safely and as effectively as the predicate
+device. Further, the results of the performance bench, usability, and reader performance testing
+confirmed that the technological differences do not raise different questions of safety and
+effectiveness. As such, the Avenda Health AI Prostate Cancer Planning Software is substantially
+equivalent to the predicate device, QuantX (DEN170022).
+PERFORMANCE DATA [807.92(b)]
+All necessary testing was conducted on the Avenda Health AI Prostate Cancer Planning
+Software to support a determination of substantial equivalence to the predicate devices.
+Non-clinical Testing Summary:5.0 510(k) SUMMARY
+Avenda has performed software verification, validation, and usability testing to demonstrate that:
+1) the device performs to its intended use in accordance with design specifications, and 2) the
+technological differences presented in the Proposed Device do not raise different questions of
+safety and effectiveness. These tests include:
+• Software verification and validation demonstrated that the Proposed Device performs in
+accordance with its specification for every requirement and functionality.
+• Standalone performance testing for the prostate segmentation and lesion contouring
+algorithms within standalone test datasets, established against clinically valid ground
+truths. Specifically, the prostate segmentation algorithm has been determined to
+accurately segment the prostate organ in T2-weighted MRI in a standalone test set of 137
+patients. Furthermore, the lesion contouring algorithm has been validated for accuracy in
+contouring GGG ≥2 lesions in the intended use population within a representative,
+independent whole mount pathology dataset of N=50 patients.
+• Human factors usability testing for the Proposed Device has demonstrated that
+representative intended users can use the device safely and effectively, without
+significant use-related risks.
+Reader Study Summary:
+A multi-reader, multi-case (MRMC) study was conducted for the Avenda Health AI Prostate
+Cancer Planning Software (“Proposed Device”) to demonstrate that the device improves reader
+performance for prostate cancer lesion contouring in the intended use population.
+Overall, the study dataset consisted of cases within a prostate whole mount pathology database
+derived from GGG 2-3 patients, which is representative of the device patient population. Each
+whole mount sample included 3D surfaces and pathology labels representing tumors as annotated
+on the whole mount prostatectomy slides, which are registered to preoperative T2-weighted
+MRI. Ten practicing urologists or radiologists from different institutions with a range of
+experience levels (2 to 23 years of clinical practice experience) participated in this reader study.
+Each reader reviewed each case. For each case, the reader created a prostate cancer lesion
+contour based both on standard of care (SOC) practices and with the assistance of the Proposed
+Device. The lesion contours created with each method were evaluated against whole mount
+pathology data as ground truth and subsequently compared to one another as well as hemi-gland
+contours, in order to assess the ability of the Proposed Device to improve reader ability in lesion
+contouring.
+The study results demonstrated that lesion contours produced using the Proposed Device had
+superior sensitivity (mean 97.4% vs 38.2%, p < 0.0001) compared to SOC contours and superior
+specificity compared to hemi-gland contours (mean 72.1% vs 53.4%, p < 0.0001). Furthermore,
+lesion contours produced using the Proposed Device were superior to both SOC and hemi-gland
+contours using measures of balanced accuracy (mean 84.7% vs 67.2% & 75.9% respectively, p <
+0.0001) and "clinical quality" (in 99% and 60% of cases respectively, p < 0.0001). On average,
+the readers achieved a complete csPCa encapsulation rate of 72.8% with the Proposed Device,
+and only 1.6% with SOC methods (p < 0.0001).
+The outcomes of this study demonstrated improved reader performance, and showed that readers,
+when using the Proposed Device, can create lesion contours that better fully encapsulate csPCa5.0 510(k) SUMMARY
+while excluding as much non-csPCa tissue as possible. The proposed device helps resolve the
+systematic underestimation of csPCa present with SOC manual contouring methods, while
+simultaneously sparing much of the benign tissue unnecessarily encapsulated with hemi-gland
+contours. These findings demonstrate that the Proposed Device improves reader performance as
+intended in the intended user population when used in accordance with the instructions for use.
+CONCLUSIONS
+The Avenda Health AI Prostate Cancer Planning Software (Proposed Device) and the predicate
+device QuantX (DEN170022) are both intended as a medical image software application for
+MRI which can be used to support the clinical workflow of oncological diagnostic and
+interventional procedures. The devices have the same intended use and similar Indications for
+Use. Both devices also have similar technological characteristics, and any differences in
+technological characteristics do not raise different questions of safety and effectiveness. The
+collective performance bench, usability, and reader performance testing results demonstrated that
+the Proposed Device performed to its intended use in accordance with its specifications, and
+confirmed the technological differences presented in the Proposed Device do not raise different
+questions of safety and effectiveness.
+SUMMARY
+The Avenda Health AI Prostate Cancer Planning Software is substantially equivalent to the
+identified predicate device.5.0 510(k) SUMMARY
+Table 1: Substantial Equivalence Table
+Avenda Health AI Prostate Cancer Predicate Device:
+Planning Software Quantitative Insights, Inc. QuantX Rationale for Substantial
+(Proposed Device) (DEN170022) Equivalence
+The Avenda Health AI Prostate Cancer QuantX is a computer-aided diagnosis Similar to the predicate device.
+Indications for Use
+Planning Software is an artificial (CADx) software device used to assist
+intelligence (AI)-based decision support radiologists in the assessment and
+software, indicated as an adjunct to the characterization of breast abnormalities
+review of magnetic resonance (MR) using MR image data. The software
+prostate images and biopsy findings in the automatically registers images, and
+prostate oncological workflow. The segments and analyzes user-selected
+Avenda Health AI Prostate Cancer regions of interest (ROI). QuantX extracts
+Planning Software is designed to support image data from the ROI to provide
+the prostate oncological workflow by volumetric analysis and computer
+helping the user with the segmentation of analytics based on morphological and
+MR image features, including the prostate; enhancement characteristics. These
+in the evaluation, quantification, and imaging (or radiomic) features are then
+documentation of lesions; and in pre- synthesized by an artificial intelligence
+planning for diagnostic and interventional algorithm into a single value, the QI score,
+procedures such as biopsy and/or soft which is analyzed relative to a database of
+tissue ablation. The device is intended to reference abnormalities with known
+be used by physicians trained in the ground truth.
+oncological workflow in a clinical setting
+QuantX is indicated for evaluation of
+for planning and guidance for clinical,
+patients presenting for high-risk screening,
+interventional, diagnostic, and/or treatment
+diagnostic imaging workup, or evaluation
+procedures of the prostate.
+of extent of known disease. Extent of
+The Avenda Health AI Prostate Cancer known disease refers to both the
+Planning Software’s lesion assessment of the boundary of a particular
+characterization functions are intended for abnormality as well as the assessment of
+use on patients with a pathology-confirmed the total disease burden in a particular
+Gleason Grade Group (GGG)≥ 2 lesion patient. In cases where multiple
+and for whom corresponding biopsy abnormalities are present, QuantX can be
+coordinate information have been used to assess each abnormality
+uploaded. These functions are indicated independently.
+for the evaluation of the extent of known
+This device provides information that may
+disease. Extent of known disease refers to
+be useful in the characterization of breast
+the boundary of a pathology confirmed
+abnormalities during image interpretation.
+lesion of GGG≥ 2 for a particular patient.
+For the QI score and component radiomic
+Specifically, using prostate MR images,
+features, the QuantX device provides5.0 510(k) SUMMARY
+Avenda Health AI Prostate Cancer Predicate Device:
+Planning Software Quantitative Insights, Inc. QuantX Rationale for Substantial
+(Proposed Device) (DEN170022) Equivalence
+biopsy, pathology, and clinical data, the comparative analysis to lesions with
+device creates and displays a cancer map known outcomes using an image atlas and
+that assigns a probability to each voxel histogram display format.
+within the prostate, indicating its
+QuantX may also be used as an image
+probability for containing clinically
+viewer of multi-modality digital images,
+significant prostate cancer (csPCa, defined
+including ultrasound and mammography.
+as GGG ≥2). A user selects a threshold for
+The software also includes tools that allow
+the cancer map to create a boundary of the
+users to measure and document images,
+lesion. The lesion boundary is assigned an
+and output in a structured report.
+Encapsulation Confidence Score indicating
+the confidence that all csPCa is Limitations: QuantX is not intended for
+encapsulated within the boundary. The primary interpretation of digital
+Encapsulation Confidence Score is from a mammography images.
+lookup table generated by a database of
+cases with known ground-truth. When
+interpreted by a trained physician, this
+information may be useful in supporting
+lesion characterization and subsequent
+patient management.
+The Avenda Health AI Prostate Planning
+Software may also be used as a medical
+image application, for the viewing,
+manipulation, 3D-visualization, and
+comparison of MR prostate images. The
+images can be viewed in a number of
+output formats including volume
+rendering. It enables visualization of
+information that would otherwise have to
+be visually compared disjointedly.
+Regulation Number §892.2060, Radiological computer-assisted §892.2060, Radiological computer- Same as the predicate device.
+diagnostic software for lesions suspicious assisted diagnostic software for lesions
+of cancer. suspicious of cancer.5.0 510(k) SUMMARY
+Avenda Health AI Prostate Cancer Predicate Device:
+Planning Software Quantitative Insights, Inc. QuantX Rationale for Substantial
+(Proposed Device) (DEN170022) Equivalence
+Product Codes: POK, Computer-Assisted Diagnostic POK, Computer-Assisted Diagnostic Same as the predicate device.
+Software For Lesions Suspicious For Software For Lesions Suspicious For
+Cancer Cancer
+Primary Intended User Trained physicians in the intended Trained physicians in the intended Same as the predicate device –
+workflow (Radiologist/Urologist) workflow (Radiologist) intended for use by the
+appropriate trained physicians.
+Anatomical Site: Prostate only Breast only Different, but same intended
+use and the differences do not
+raise different questions of
+safety or effectiveness.
+Oncological Workflow of Prostate Cancer Breast Cancer Different, but same intended
+Interest use within the workflow and
+the differences do not raise
+different questions of safety or
+effectiveness.
+Clinical Workflow Steps Image Review and Workflow Support Image Review and Workflow Support Similar to the predicate device.
+Where Used:
+Interventional/Treatment Planning and
+Guidance for Diagnostic and Interventional
+Procedures
+Platform/Architecture Cloud-only solution Software-only platform Similar – both devices are
+Web-based software devices.
+DICOM Compatible Yes Yes Same as the predicate device.
+Type of Scans MR, DICOM-compatible MR, DICOM-compatible Same as the predicate device.
+Image Navigation Tools ● Pan, zoom, rotate, slice scroll (view ● Pan, zoom, rotate, change in contrast, Same as the predicate device.
+multiple slices), slice scroll (view multiple slices)5.0 510(k) SUMMARY
+Avenda Health AI Prostate Cancer Predicate Device:
+Planning Software Quantitative Insights, Inc. QuantX Rationale for Substantial
+(Proposed Device) (DEN170022) Equivalence
+● Adjust window level,
+minimize/maximize
+Image Review tools: ● 2D ● 2D Similar to the predicate device.
+● 3D ● 3D
+● MPR ● MIPs
+Image Manipulation and Interventional tool, trajectory, and damage Measure and document images Different, but same intended
+Analysis volume overlay (overlay profiles use and the differences do not
+customizable by the user) raise different questions of
+safety or effectiveness.
+Image Segmentation: Algorithm-driven segmentation of the Automated segmentation of the ROI Similar to the predicate device.
+prostate gland with the possibility of
+manual adjustment
+Measurement Functionalities Prostate gland: For each lesion: Similar to the predicate device.
+● Volume • Volume
+● ROIs within the prostate • Surface Area
+For each Lesion:
+● Location
+● Volume
+CADx Task Assessment and characterization of Assessment and characterization of breast Similar to the predicate device
+prostate lesions/abnormalities confirmed to abnormalities using MR image data. with respect to analysis of
+contain csPCA through biopsy and MR image-based information for
+image data. assessment of lesions.
+Lesion Analysis Supported Extent of Disease (boundary and total Risk Stratification, Classification, Extent Subset of the functionalities of
+burden) of Disease (boundary and total burden) the predicate device.5.0 510(k) SUMMARY
+Avenda Health AI Prostate Cancer Predicate Device:
+Planning Software Quantitative Insights, Inc. QuantX Rationale for Substantial
+(Proposed Device) (DEN170022) Equivalence
+CADx Algorithm Machine learning-based algorithm based Machine learning-based algorithm based Similar to the predicate device.
+on patient information and image on image morphological and enhancement
+morphological, intensity, and geometric characteristics.
+characteristics.
+CADx Outputs Cancer Estimation Map QI Score The Proposed Device utilizes
+different outputs from the
+Default Lesion Contour Similar Cases Database (via Image Atlas
+predicate device. As these
+and Histogram Display)
+Encapsulation Confidence Score outputs do not impact the
+intended use and are similarly
+supplementary to information
+reviewed by the physician as a
+part of standard of care, they
+do not raise different questions
+of safety or effectiveness.
+User Must Approve/ Reject Yes Yes Same as the predicate device.
+Results:
+Export Formats: ● DICOM ● DICOM Similar – both devices allow
+export of findings for use in
+● Planning assets
+future oncological steps.
+● Intervention plan for supported
+systems

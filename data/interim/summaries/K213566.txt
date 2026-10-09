@@ -1,0 +1,342 @@
+Riverain Technologies, Inc.
+℅ Mr. Jonathan Jackson
+Director of Regulatory Affairs & Quality Assurance
+3020 South Tech Blvd.
+MIAMISBURG OH 45342
+March 10, 2022
+Re: K213566
+Trade/Device Name: ClearRead Xray Pneumothorax
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: February 8, 2022
+Received: February 10, 2022
+Dear Mr. Jackson:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803)for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.32
+Silver Spring, MD 20993
+www.fda.govK213566 - Mr. Jonathan Jackson Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK213566K213566
+5.0 510(K) SUMMARY
+Submission Date: March 9, 2022
+Submitter Information:
+Company Name: Riverain Technologies, Inc.
+Company Address: 3020 South Tech Blvd.
+Miamisburg, OH 45342-4860
+Contact Person: Jonathan Jackson
+Director, Regulatory Affairs and Quality Assurance
+Riverain Technologies, Inc.
+800.990.3387 ext. 5092
+937.425.6493
+jjackson@riveraintech.com
+Device Information:
+Trade Name: ClearRead Xray Pneumothorax
+Regulation Number: 21 CFR §892.2080
+Regulation Name: Radiological computer aided triage and notification
+software
+Regulatory Class: Class II
+Product Code: QFM
+Device Description: ClearRead Xray Pneumothorax is comprised of a
+computer assisted triaging tool, designed to prioritize chest
+X-rays based on the suspected presence of a pneumothorax
+(PTX) 5mm or larger. ClearRead Xray Pneumothorax
+requires both lungs to be in the field of view. ClearRead
+Xray Pneumothorax provides adjunctive information and
+is not intended to be used for diagnosis. ClearRead Xray
+Pneumothorax receives images according to the DICOM®
+protocol (via a standard IEEE 802.3 network connection),
+processes the image, and delivers the resulting information
+through the same DICOM network interface. Image inputs
+are limited to adult, digital frontal chest radiographs. The
+output results are sent to facilitate prioritization of chest X-
+rays for radiologist review on one or more devices that
+Page 5-1conform to the ClearRead Xray Pneumothorax DICOM
+Conformance Statement. ClearRead Xray Pneumothorax
+does not support printing or DICOM media.
+Indications for Use: ClearRead Xray Pneumothorax is a notification-only
+triage workflow tool for use by trained professionals to
+help prioritize chest X-rays. The device operates in parallel
+to and independent of standard of care image interpretation
+workflow. Specifically, the device uses an artificial
+intelligence algorithm to analyze images for features
+suggestive of a pneumothorax 5 mm or larger; it makes
+case-level output available to a PACS/workstation for
+worklist prioritization or triage. Identification of cases
+suspected of containing a pneumothorax is not for
+diagnostic use beyond notification. ClearRead Xray
+Pneumothorax is limited to analysis of imaging data as a
+guide to possible urgency of adult chest X-ray image
+review and should not be used in lieu of full patient
+evaluation or relied upon to make or confirm diagnoses.
+The device does not replace review and diagnosis of the X-
+rays by trained professionals. The device is not intended to
+be used with plain film X-ray.
+Predicate Devices: RADLogics, Inc.
+(K193300)
+AIMI-Triage CXR PTX
+Class II
+Comparison to Predicate Device Technical Characteristics:
+Riverain Technologies, Inc. is of the opinion that ClearRead Xray Pneumothorax is
+substantially equivalent, both in intended use as well as to the technical characteristics of
+the listed predicate device. Differences in the design and performance from the cited
+predicate device does affect either the safety or the effectiveness of ClearRead Xray
+Pneumothorax for its intended use. Table 1 shows the predicate device listed against the
+subject device for the Product Code and Intended Use.
+Page 5-2Predicate: Subject Device:
+AIMI-Triage CXR PTX ClearRead Xray
+(RADLogics, Inc.) Pneumothorax
+K193300 (Riverain Technologies, Inc.)
+K213566
+Product Code QFM QFM
+Intended Use The AIMI-Triage CXR PTX ClearRead Xray
+provides a chest X-ray Pneumothorax provides a
+prioritization service for use chest X-ray prioritization
+by radiologists to identify service for use by radiologists
+features suggestive of to identify features suggestive
+moderate to large sized of pneumothoraces in a
+pneumothorax. PA/AP chest x-ray scan.
+Intended User Radiologist Radiologist
+Modality X-ray X-ray
+Anatomical Region Lungs Lungs
+Clinical Condition Pneumothorax Pneumothorax
+Notification / Yes, passive Yes, passive
+Prioritization
+ROI Segmentation No No
+Algorithm Artificial intelligence Machine learning and image
+algorithm with database of processing
+images
+Alteration of input No No
+images
+Table 1: Predicate Devices vs. Subject Device
+Testing Summary:
+Non-clinical Testing
+Non-clinical tests were conducted during the development process in accordance with the
+Riverain Technologies Design Control Process, which is compliant with the FDA Quality
+System Regulations, ISO 13485:2016 with MDSAP and the following standards.
+• IEC 62304:2006/AMD1:2015, Medical devices – Software life cycle processes
+• EC62366-1:2015, Medical device – Part1: Application of usability engineering to
+medical devices
+• ISO14971:2007, Medical devices – Application of risk management to medical
+devices (2nd Ed.)
+Page 5-3Testing verified the requirements according to the ClearRead Xray Pneumothorax
+device specifications. The Risk Management Plan, Risk Analysis and Risk Management
+Report were completed, and risk control measures were implemented to mitigate the
+identified hazards. Documentation required for software with a Moderate Level of
+Concern is included as part of this submission. Device labeling, together with the results
+from verification and validation testing demonstrate that the device is safe and effective.
+Clinical Performance Testing
+Clinical evaluation used an independent dataset, that is data not used for purposes of
+training or internal validation, to validate that clinical efficacy of ClearRead Xray
+Pneumothorax for workflow prioritization of X-ray images containing a suspected
+pneumothorax.
+The primary objective of this study was to demonstrate that ClearRead Xray
+Pneumothorax meets or exceeds the expected performance on an independent test set.
+Device performance was measured by the AUC of the ROC curve. The primary endpoint
+was based on an overall assessment of the possible presence of a PTX, without
+localization.
+Retrospective adult (18 and older) patient images from multiple sources were evaluated,
+including >400 true positive PTX and >600 true negative PTX cases, with approximately
+equal representation of male and female studies. Truth was determined by a panel of 3
+senior board-certified radiologists with expertise in thoracic radiology.
+To assess performance, the ClearRead Xray Pneumothorax system was run on all
+selected images, both true negative and true positives cases. True negative-pneumothorax
+images that are identified as having a suspected pneumothorax by the system were
+labeled as “false positives”. True positive detections are true positive-pneumothorax
+images wherein the machine indicates a suspected pneumothorax is present.
+Machine indications were transferred to the statistical analysis team and used as the basis
+for performance assessment, including the generation of ROC, point estimate of the ROC
+AUC, sensitivity and specificity estimates and associated 95% confidence intervals, and
+time-to-notification estimates. Device performance, as measured by the AUC-ROC,
+sensitivity and specificity, and time-to-notification were demonstrated with statistical
+significance to meet the study’s primary endpoints. A summary of the results is listed in
+Table 2.
+AUC 0.974
+Sensitivity 0.922
+Specificity 0.951
+Time to Notification 9.73 seconds
+Table 2: Clinical Data Summary of Results
+Page 5-4Clinical Trial Data
+Images used for the clinical study originated from MIMIC-CXR and Georgetown
+University Medical Center. All data used in the clinical trial was independent data, not
+used as part of product development.
+The MIMIC-CXR dataset is a controlled online dataset of chest x-rays images. A second
+dataset was collected by Georgetown University Medical Center (GUMC) between 2009-
+2012, also not used as part of the development process.
+The MIMIC-CXR cases were collected from 2011 to 2016 at Beth Israel Deaconess
+Medical Center. A total of 1028 cases from the MIMIC-CXR dataset were selected for
+the study based on the pre-established protocol inclusion and exclusion criteria. Of them,
+there were 419 and 609 with PTX and without PTX, respectively. The remaining cases
+were provided by Georgetown University and collected between 2002 to 2013. In total,
+110 were selected from this dataset. Of them, 40 and 70 were with PTX and without
+PTX, respectively. Although the header did not contain the manufacturer information
+for each case for the MIMIC-CXR dataset, it was removed as part of the anonymization
+process, the administrators of the database did provide a list of the manufacturers, the
+distribution of the clinical dataset is shown in Table 3.
+Data distribution with respect to device characteristics are summarized below:
+Manufacturer # of cases
+Carestream 782
+GE 220
+Fuji 117
+Kodak 12
+Agfa 3
+Other 4
+Total 1138
+Table 3: Clinical Data Device Distribution
+The data distribution with respect to comorbidities are summarize in Table 4 below.
+Indications of comorbidities for true positive pneumothorax (PTX) cases and true
+negative pneumothorax (NoPTX) cases are provided:
+Page 5-5# of cases
+Disease PTX No PTX
+Atelectasis 87 108
+Cardiomegaly 30 112
+Consolidation 23 20
+Edema 15 69
+Enlarged Cardiomediastinum 9 13
+Fracture 23 11
+Lung Lesion/mass 21 34
+Lung Opacity 43 131
+Pleural Effusion 115 114
+Pneumonia 5 20
+Table 4: Clinical Data Comorbidity Distribution
+The data distribution with respect to gender is again provided for true positive
+pneumothorax (PTX) cases and true negative pneumothorax (NoPTX) cases. The gender
+of a subset of the cases, identified as Unknown, could not be determined and is shown in
+Table 5.
+# of cases
+Gender PTX No PTX
+Male 227 328
+Female 176 319
+Unknown 56 32
+Table 5: Clinical Data Gender Distribution
+All patients were adult, however specific age was not available due to the anonymization
+process. Additionally, ethnicity could not be determined as this information is not
+generally available for image data based on DICOM header content.
+Clinical Data Case Selection and Ground Truth
+Three senior expert radiologists formed the Expert Panel, all of which were board
+certified radiologists with expertise in thoracic radiology. The expert radiologists
+validated the label of each image as a true positive image or true negative based on the
+visual inspection of image data along with available radiology reports, and if a true
+positive case, annotated the location of the pneumothorax with a bounding box.
+The members of the expert panel considered each PA/AP image and associated radiology
+reports independently as part of their review. The final image label and associated
+annotations were derived from a majority voting rule, where the associated annotation
+bounding boxes were replaced with a single box that enclosed all bounding boxes.
+Page 5-6Algorithm Development Data
+All models used by the ClearRead Xray Pneumothorax system were trained with cases
+that were clinically validated as negative for pneumothorax, and cases labeled as positive
+via a simulated data construction process. The simulated cases start with negative cases
+and digitally insert synthetic pneumothoraces. For synthetic data, the ground truth is
+arrived at via construction. For real cases the ground truth was hand drawn outlines as
+established by clinical experts. This included the publicly available data from the NIH, as
+hosted by Kaggle, wherein experts outlined proven pneumothoraces for thousands of
+images. Importantly, this also included over 7000 confirmed negatives cases.
+Two datasets were constructed for the purposes of developing the pneumothorax system.
+One dataset, labeled the “development set”, was used iteratively to validate and
+judiciously update the simulation engine, which in turn is used to train the system’s
+models. The second dataset, deemed the test set, was 600 cases, 300 negatives and 300
+positives, that were selected based on the diversity of location and size, and were not
+used in anyway in the development of the models.
+Factors associated with manufacturers and patient demographics were not available as the
+data was thoroughly scrubbed for patient privacy. This was not deemed a limitation as the
+system utilizes two important aspects that mitigate such concerns. First, the system makes
+use of a normalization component that removes strong device characteristics such as
+noise, tone scale and contrast detail. Secondly, by forcing the system to strongly detect
+local patterns of pneumothorax, the final decision is based on clinically meaningful
+structure, and not spurious information – age, gender, or ethnicity - as might be learned if
+just image labels were used. Clinical testing confirms this hypothesis where very similar
+results were achieved using a large independent dataset.
+Internal Test Data Benchmarks
+Figure 1 below provides the image level performance as captured by a receiver operating
+characteristic (ROC) curve, the area under curve (AUC) was measured to be 0.975 for the
+internal validation/test set.
+Page 5-7Figure 1: Internal image level pneumothorax detection performance ROC
+For an image-level performance assessment, a probability threshold of 0.5 was selected
+as the operating point. The performance metrics for the test set at this operating point are
+found below in Table 6.
+Image TP FP FN Se Sp
+Performance
+Threshold of 0.50 278 7 22 92.7% 97.7%
+Table 6: Image level pneumothorax detection performance indices at the selected
+operating point
+Conclusion
+In preparing this 510(k) submission, Riverain Technologies has carefully considered the
+relevant statutory and regulatory requirements and believes that the information
+contained within satisfies the requirements for demonstrating substantial equivalence.
+Page 5-8
+etaR
+PT
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+.9
+.8
+.7
+.6
+.5
+.4
+.3
+.2
+.1
+0
+0 0 .1 0 .2 0 .3 0 .4
+F P
+0 .5
+R a te
+0 .6 0 .7 0 .8 0 .9 1

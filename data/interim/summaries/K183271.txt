@@ -1,0 +1,417 @@
+Siemens Medical Solutions USA, Inc. July 26, 2019
+Kimberly Rendon
+40 Liberty Blvd.
+MALVERN, PA 19355
+Re: K183271
+Trade/Device Name: AI-Rad Companion (Pulmonary)
+Regulation Number: 21 CFR 892.1750
+Regulation Name: Computed Tomography X-Ray System
+Regulatory Class: Class II
+Product Code: JAK, LLZ
+Dated: June 14, 2019
+Received: June 17, 2019
+Dear Kimberly Rendon:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.06
+Silver Spring, MD 20993
+www.fda.govK183271 - Kimberly Rendon Page 2
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2020
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K183271
+Device Name
+AI-Rad Companion (Pulmonary)
+Indications for Use (Describe)
+AI-Rad Companion (Pulmonary) is image processing software that provides quantitative and qualitative analysis from
+previously acquired Computed Tomography DICOM images to support radiologists and physicians from emergency
+medicine, specialty care, urgent care, and general practice in the evaluation and assessment of disease of the lungs.
+It provides the following functionality:
+• Segmentation and measurements of complete lung and lung lobes
+• Identification of areas with lower Hounsfield values in comparison to a predefined threshold for complete lung and lung
+lobes
+• Providing an interface to external Medical Device syngo.CT Lung CAD
+• Segmentation and measurements of found lung lesions and dedication to corresponding lung lobe.
+The software has been validated for data from Siemens Healthineers (filtered backprojection and iterative reconstruction),
+GE Healthcare (filtered backprojection reconstruction), and Philips (filtered backprojection reconstruction).
+Only DICOM images of adult patients are considered to be valid input.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(K) SUMMARY
+AI-RAD COMPANION (PULMONARY)
+K183271
+Submitted by:
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard Malvern, PA 19355
+Date Prepared: July 19, 2019
+This summary of 510(k) safety and effectiveness information is being submitted in accordance with the
+requirements of SMDA 1990 and 21 CFR §807.92.
+I. Submitter
+Importer/Distributor
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19355
+Establishment Registration Number
+2240869
+Manufacturing Site
+Siemens Healthcare GmbH
+Henkestrasse 127
+91052 Erlangen, Germany
+Establishment Registration Number
+3004977335
+Contact Person
+Kimberly Rendon
+Sr. Manager Regulatory Affairs
+(610) 448-6480
+kimberly.rendon@siemens-healthineers.com
+II. Device Name and Classification
+Product Name: AI-Rad Companion (Pulmonary)
+Trade Name: AI-Rad Companion (Pulmonary)
+Classification Name: Computed Tomography X-ray System
+Secondary Classification Name: Picture Archiving and Communication System
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.1750
+Device Class: Class II
+Product Code: JAK
+Secondary Product Code: LLZ
+III. Predicate Device
+Primary Predicate Device:
+Product Name: syngo.CT Pulmo 3D
+Propriety Trade Name: syngo.CT Pulmo 3D
+510(k) Number: K123540
+Clearance Date: August 29, 2013
+Classification Name: Computed Tomography X-Ray System
+Secondary Classification Name: Picture Archiving and Communications System
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.1750
+Siemens Medical Solutions USA, Inc.
+K183271 - AI-Rad Companion (Pulmonary) Page 1 of 7Device Class: Class II
+Primary Product Code: JAK
+Secondary Product Code: LLZ
+Recall Information: There are currently no recalls for this device
+Secondary Predicate Device:
+Product Name: syngo.PET&CT Oncology
+Propriety Trade Name: syngo.PET&CT Oncology
+510(k) Number: K093621
+Clearance Date: February 23, 2010
+Classification Name: Picture Archiving and Communications System
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.2050
+Device Class: Class II
+Primary Product Code: LLZ
+Recall Information: There are currently no recalls for this device
+IV. Device Description
+This section described the technical features and workflow for subject device AI-Rad Companion
+(Pulmonary). AI-Rad Companion (Pulmonary) is a software only image processing application that
+supports quantitative and qualitative analysis of previously acquired CT DICOM Images to support
+radiologists and physicians from emergency medicine, specialty care, urgent care, and general practice in
+the evaluation of and assessment of disease of the thorax.
+As an update to the previously cleared predicate devices, the following modifications have been made:
+1) Modified Indication for Use Statement
+2) Software version VA10A, including the following features:
+a) Segmentation of the lung (modified)
+b) Segmentation of lung lobes based on deep learning algorithm (modified)
+c) Parenchyma evaluation (modified)
+d) Lesion segmentation (modified)
+3) Subject device claims list
+The subject device AI-Rad Companion (Pulmonary) is an image processing software that provides
+quantitative and qualitative analysis from previously acquired Computed Tomography DICOM images to
+support qualified clinicians in the evaluation and assessment of disease of the thorax. The subject device
+supports the following device specific functionality:
+• Segmentation and volume measurements of complete lung and lung lobes
+• Identification of areas with lower Hounsfield values in comparison to a predefined threshold for
+complete lung and lung lobes
+• Detection of solid pulmonary nodules with the assistance of LungCAD (K143196, clearance date
+05/12/2015) and dedication to lung lobe
+• Segmentation and measurements of identified lung lesions
+Siemens Medical Solutions USA, Inc.
+K183271 - AI-Rad Companion (Pulmonary) Page 2 of 7V. Indications for Use
+AI-Rad Companion (Pulmonary) is image processing software that provides quantitative and qualitative
+analysis from previously acquired Computed Tomography DICOM images to support radiologists and
+physicians from emergency medicine, specialty care, urgent care, and general practice in the evaluation and
+assessment of disease of the lungs.
+It provides the following functionality:
+• Segmentation and measurements of complete lung and lung lobes
+• Identification of areas with lower Hounsfield values in comparison to a predefined threshold for
+complete lung and lung lobes
+• Providing an interface to external Medical Device syngo.CT Lung CAD
+• Segmentation and measurements of found lung lesions and dedication to corresponding lung lobe.
+The software has been validated for data from Siemens Healthineers (filtered backprojection and iterative
+reconstruction), GE Healthcare (filtered backprojection reconstruction), and Philips (filtered backprojection
+reconstruction).
+Only DICOM images of adult patients are considered to be valid input.
+VI. Comparison of Technological Characteristics with the Predicate Device
+In comparison the predicate device, the subject devices provide comparable outputs in terms of lung and
+lung lobe visualization/segmentation and lung lesion segmentation and labeling. A tabular comparison of
+the subject device and predicate devices is provided as Table 1 below.
+Table 1: Predicate Device Comparable Properties
+Feature Subject Device Predicate Device Comparison Results
+Siemens
+Siemens
+syngo.CT Pulmo 3D
+AI-Rad Companion
+(K123540, clearance
+(Pulmonary)
+date 8/29/2013)
+Modified
+subject device: segmentation of
+Segmentation of Segmentation of left / complete lungs
+Segmentation of lungs
+lungs right lung
+predicate device: dedicated
+algorithm for segmentation of
+both lungs
+Modified
+Segmentation of lung subject device: deep learning-
+Segmentation of Segmentation of lung
+thirds, lung core/peel, based algorithm for long lobes
+lung lobes lobes
+lung lobes segmentation
+predicate device: Model-based
+segmentation algorithm
+Modified
+Calculation and Calculation and
+Parenchyma Subject device: fixed threshold
+visualization of lung visualization of lung
+Evaluation for segmentation
+tissue below -950 HU tissue below threshold
+Predicate device: Configurable
+threshold for segmentation
+Siemens Medical Solutions USA, Inc.
+K183271 - AI-Rad Companion (Pulmonary) Page 3 of 7Feature Subject Device Predicate Device Comparison Results
+Siemens
+Siemens
+syngo.CT Pulmo 3D
+AI-Rad Companion
+(K123540, clearance
+(Pulmonary)
+date 8/29/2013)
+Visualization of
+Color overlay of MPR Color overlay of MPR
+segmentation and
+and VRT with evaluation and VRT with evaluation Same
+parenchyma
+results results
+results
+Siemens
+Siemens syngo.PET&CT
+Feature AI-Rad Companion Oncology (K093621, Comparison Results
+(Pulmonary) clearance date
+02/23/2010)
+Interface to syngo.CT Interface to syngo.CT
+Interface to
+LungCAD (K143196) is LungCAD (K143196) is Same
+LungCAD
+supported supported
+Modified
+subject device: segmentation of
+Segmentation of lesions
+Lesion Segmentation of lung lung lesions and localization of
+of the lung, liver, and
+Segmentation lesions found lesion to lung lobe
+lymph nodes
+predicate device: segmentation
+of lesions of lung, liver, lymph
+nodes, and general anatomies
+Visualization of
+Color overlay of MPR Color overlay of MPR
+lesion
+and VRT with evaluation and VRT with evaluation Same
+segmentation
+results results
+results
+The subject device modifications referenced above do not raise different questions of safety or
+effectiveness in comparison to the predicate devices.
+VII. Performance Data
+Non-Clinical Testing Summary
+Performance tests were conducted to test the functionality of AI-Rad Companion (Pulmonary). Software
+validations, bench testing, and clinical data-based software validations have been conducted to the
+performance claims as well as the claim of substantial equivalence to the predicate devices. AI-Rad
+Companion has been tested to meet the requirements of conformity to multiple industry standards. Non-
+clinical performance testing demonstrated that AI-Rad Companion complies with the following voluntary
+FDA recognized Consensus Standards listed in Table 2 on the next page:
+Siemens Medical Solutions USA, Inc.
+K183271 - AI-Rad Companion (Pulmonary) Page 4 of 7Table 2: Voluntary Conformance Standards
+Recognition Product Title of Standard Publication Standards
+Number Area Date Development
+Organization
+Digital Imaging and Communications in
+12-300 Radiology 06/27/2016 NEMA
+Medicine (DICOM) Set; PS 3.1 – 3.20
+Medical Device Software –Software Life AAMI, ANSI,
+13-32 Software 08/20/2012
+Cycle Processes; 62304:2006 (1st Edition) IEC
+Medical devices – Application of risk
+Software/
+5-40 management to medical devices; 14971 08/20/2012 ISO
+Informatics
+Second Edition 2007-03-01
+Medical devices - Part 1: Application of
+General I
+5-95 usability engineering to medical devices 06/27/2016 IEC
+(QS/RM)
+IEC 62366-1:2015
+Verification and Validation
+Software Documentation for a Moderate Level of Concern software per FDA’s Guidance Document
+“Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices” issued
+on May 11, 2005, and “Off-The-Shelf Software Use in Medical Devices” is also included as part of this
+submission. The performance data demonstrates continued conformance with special controls for medical
+devices containing software. Non-clinical tests were conducted on the Subject Device AI-Rad Companion
+(Pulmonary) software version VA10 during product development.
+The Risk analysis was completed, and risk control implemented to mitigate identified hazards. The testing
+results support that all the software specifications have met the acceptance criteria. Testing for verification
+and validation for the device was found acceptable to support the claims of substantial equivalence.
+Bench testing in the form of Unit, Subsystem and System Integration testing were performed to evaluate the
+performance and functionality of the new features and software updates. All testable requirements in the
+Engineering Requirements Specifications keys, Subsystem Requirements Specifications keys, and the Risk
+Management Hazard keys have been successfully verified and traced in accordance with the Siemens
+product development (lifecycle) process. The software verification and regression testing have been
+performed successfully to meet their previously determined acceptance criteria as stated in the test plans.
+Electrical safety and EMC testing requirements are addressed as part of the host system (CT device or
+PACS system) to ensure compliance with the application IEC standards.
+Siemens conforms to the cybersecurity requirements by implementing a process of preventing unauthorized
+access, modifications, misuse or denial of use, or the unauthorized use of information that is stored,
+accessed or transferred from a medical device to an external recipient. Provided in this submission is a
+cybersecurity statement that considers IEC 80001-1:2010. The responsibility for compliance with IEC
+80001-1-2010 is the hospital.
+Clinical Data Based Software Validation
+To validate the AI-Rad Companion (Pulmonary) clinical workflow, the following algorithms underwent a
+scientific evaluation:
+• Segmentation of lung lobes
+The lung lobe segmentation algorithm computes segmentation masks of the five lung lobes (right
+upper (RUL), right middle (RML), right lower (RLL), left upper (LUL) and left lower lobe (LLL)
+for a given CT data set of the chest.
+• Evaluation of the lung parenchyma
+Siemens Medical Solutions USA, Inc.
+K183271 - AI-Rad Companion (Pulmonary) Page 5 of 7The algorithm receives a 3D CT data set and binary masks of the segmented lung lobes. It
+computes, the ratio of voxels below -950 HU (%LAV950) each lobe as well as for the complete
+lung.
+For each algorithm of AI-Rad Companion the analysis is structured as follows:
+• Algorithm Description: purpose, functionality, technical description
+• Data
+Training cohort: size and properties of data used for training
+o
+Description of ground truth / annotations generation
+o
+Validation cohort: size and properties of data used for testing/validation
+o
+• Performance
+Choice of performance metric
+o
+Actual performance results
+o
+Assessment of clinical relevance of achieved performance
+o
+• Related clinical research, e.g. publications (if applicable)
+The results of clinical data-based software validation for the subject device AI-Rad Companion
+(Pulmonary) demonstrated superior performance in comparison to the primary predicate device for
+segmentation. A complete scientific evaluation report is provided in support of the device modifications.
+Performance of lung lobe segmentation of AI-Rad Companion.Pulmonary device has been validated in a
+retrospective performance study (n>4,500 CT data sets from multiple clinical sites from within and outside
+United States). In this study DICE coefficients, surface metrics and volume error have been computed by
+comparing the output of the algorithm to the manually established ground truth. The average DICE
+coefficients for the individual lung lobes ranged between 0.95 and 0.98 with a standard deviation (SD) <=
+0.07. Mean surface distance ranged between 0.5 and 1.0 mm with SD <=1.5 mm. The 95th quantile of the
+Hausdorff distance ranged between 2.6 and 5.2 mm with SD <=6.7 mm. Volume error was between 1.5 and
+3.5 % with SD <= 7.3 %.
+All performance results were superior to the ones achieved using the predicate device supporting substantial
+equivalence.
+Additional analysis was performed for both population-specific subgroups and various technical parameters
+and consistent performance has been found across all subgroups.
+Summary
+AI-Rad Companion (Pulmonary) was tested and found to be safe and effective for intended users, uses and
+use environments through the design control verification and validation process and clinical data-based
+software validation. The Human Factor Usability Validation showed that Human factors are addressed in
+the system test according to the operator’s manual and in clinical use tests with customer report and
+feedback form. Customer employees are adequately trained in the use of this equipment.
+VIII. General Safety and Effectiveness Concerns:
+The device labeling contains instructions for use as well as necessary cautions and warnings to provide for
+safe and effective use of the device. Risk management is ensured via a system related Risk analysis, which
+is used to identify potential hazards. These potential hazards are controlled during development, verification
+and validation testing according to the Risk Management process. In order to minimize electrical,
+mechanical, and radiation hazards, Siemens adheres to recognized and established industry practice and
+standards.
+IX. Conclusion
+AI-Rad Companion (Pulmonary) has the same intended use as the primary predicate device. The indication
+for use has been modified to include a more succinct summary of device specific performance but is still
+within the scope of the general intended use and regulatory classification as the predicate devices. The
+Siemens Medical Solutions USA, Inc.
+K183271 - AI-Rad Companion (Pulmonary) Page 6 of 7fundamental technological characteristics such as image visualization and image manipulation are the same
+as the predicate devices. The result of all testing conducted was found acceptable to support the claim of
+substantial equivalence. The predicate devices were cleared based on non-clinical supportive information
+including bench testing and software validations. The results of these tests demonstrate that the predicate
+devices are adequate for the intended use. The comparison of technological characteristics, non-clinical
+performance data, and software validation demonstrates that the subject device is as safe and effective when
+compared to the predicate device that is currently marketed for the same intended use. For the subject
+device, AI-Rad Companion (Pulmonary), Siemens used the same testing with the same workflows as used
+to clear the predicate device to demonstrate safety and performance of the technical workflow. Clinical
+applicability was demonstrated via software-data based validations that were derived in the same intended
+environment as the predicate devices. Since both devices were tested using the same methods, Siemens
+believes that the data generated from the AI-Rad Companion (Pulmonary) software testing supports a
+finding of substantial equivalence.
+Siemens Medical Solutions USA, Inc.
+K183271 - AI-Rad Companion (Pulmonary) Page 7 of 7

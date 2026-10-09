@@ -1,0 +1,368 @@
+May 10, 2022
+Overjet, Inc.
+℅ Adam Odeh
+Regulatory Contact
+560 Harrison Ave, Unit 403
+BOSTON MA 02118
+Re: K212519
+Trade/Device Name: Overjet Caries Assist
+Regulation Number: 21 CFR 892.2070
+Regulation Name: Medical Image Analyzer
+Regulatory Class: Class II
+Product Code: MYN
+Dated: April 6, 2022
+Received: April 7, 2022
+Dear Mr. Adam Odeh:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) forK212519 – Adam Odeh Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Laurel Burk, Ph.D.
+Assistant Director
+Diagnostic X-ray Systems Team
+DHT 8B: Division of Radiological Imaging
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureOverjet Inc. Overjet Caries Assist Software: K212519
+Section 4: 510(k) Summary (K212519)
+This summary of 510(k) information is being submitted in accordance with the requirements of
+21CFR Part 807.92
+1. Date Prepared: October 19, 2021
+2. Applicant
+Overjet, Inc.
+560 Harrison Ave
+Unit 403
+Boston, MA 02118
+Contact Person: Adam N. Odeh
+Email:adam.odeh@overjet.ai
+3. Trade Name
+Overjet Caries Assist
+4. Common Name
+Medical Imaging Analyzer
+5. Classification
+21 CFR 892.2070, Product code MYN, Class 2, Radiology
+6. Device Description
+Overjet Caries Assist (OCA) is a radiological automated concurrent read computer-assisted
+detection (CAD) software intended to aid in the detection and segmentation of caries on
+bitewing radiographs. The device provides additional information for the clinician to use in
+their diagnosis of a tooth surface suspected of being carious. The device is not intended as a
+replacement foracompleteclinician'sreviewortheirclinicaljudgmentthattakesintoaccount
+other relevant information from the image or patient history.
+OCA is a software-only device which operates in three layers – a Network Layer, a
+Presentation Layer, and a Decision Layer (as shown in thedataflowdiagrambelow).Images
+are pulled in from a clinic/dental office, and the Machine Learningmodelcreatespredictions
+in the Decision Layer and results are pushed to the dashboard, which are in the Presentation
+Layer.
+The Machine Learning System within the Decision Layer processes bitewing
+radiographs and annotates suspected carious lesions. It is comprised of four
+modules:
+● Image Classifier- The model evaluates the incomingradiograph and predicts the
+image type between Bitewing and Periapical Radiograph. This classification isOverjet Inc. Overjet Caries Assist Software: K212519
+used to support the data flow of the incoming radiograph. As part of the
+classification of the image type anynon-radiographsareclassifiedas“junk”and
+not processed. These include patientchartinginformation,orothernon-bitewing
+or periapical radiographs. OCA shares classifier and Tooth Number modules
+with the Overjet Dental Assist product cleared under K210187.
+● Tooth Number Assignment module – This module analyzes the processed image
+and determines what tooth numbers are present and provides a pixel wise
+segmentation mask for each tooth number.
+● Caries module – This module outputs a pixel wise segmentation mask of all
+carious lesions using an ensemble of 3 U-Net based models. The shape and
+location of every carious lesion is contained in this mask as thecariouslesions’
+predictions.
+● Post Processing - The overlap of tooth masks from the Tooth Number
+Assignment ModuleandcariouslesionsfromtheCariesModuleisusedtoassign
+specific carious lesions to a specific tooth. The Image Post Processor module
+annotates the original radiograph with the carious lesions’ predictions.
+7. Indications for Use
+The Overjet Caries Assist (OCA) is a radiological, automated, concurrent read,
+computer-assisted detection software intended to aid in the detection and segmentation of
+caries on bitewing radiographs. The device provides additional information for the dentist to
+use in their diagnosis ofatoothsurfacesuspectedofbeingcarious.Thedeviceisnotintended
+as a replacement for a complete dentist's review or their clinical judgment that takes into
+account other relevant information from the image, patient history, andactualinvivoclinical
+assessment.
+8. Intended Patient Population:
+The intended patient population of the device is patients that have permanent dentition, and
+are at least 18 years of age.
+9. Warning and Limitations:
+● The safety and effectiveness of the system has not been established in patients with
+primary or mixed dentition.
+● The device should only be used by trained dentists.
+● Overjet Caries Assist system assists only in potential caries detection, not interpretation
+or diagnosis. It should not be relied on as the sole decision-making tool for diagnosis or
+treatment.
+● Only images from a supported dental radiograph system as defined in the manual can beOverjet Inc. Overjet Caries Assist Software: K212519
+used.
+● The Overjet Dental Assist system is not intended for images smaller than 500 x 500
+resolution. Overjet cannot guarantee the accuracy of results when Overjet Caries Assist is
+used on images of lower resolution.
+● The product is not 100% sensitive, and some caries will not be detected. This can delay
+necessary treatment.
+● Gross decay detection is not supported by Overjet Caries Assist, as the algorithm has
+been trained to detect caries within the tooth structure, rather than to detect a lack of tooth
+structure as is often observed with severe decay.
+● Endodontic access may be mistaken by the product as caries, due to the similarities on the
+radiographs.
+● Overjet Caries Assist cannot detect carious lesions that are not visible to a dentist on
+bitewing radiographs (e.g., obstructed by radiopaque restorations).
+● The product has the potential for false positive or false negative outputs. This could result
+in unnecessary treatment on rare occasions. Final clinical determination is the
+responsibility of the treating clinician with the assessment of the actual patient's dentition
+and multiple clinical indicators of treatment unrelated to the prediction.
+● The dentist should use all appropriate clinical information to render a final clinical
+opinion, with radiographic interpretation being one component of the determination
+process.
+● The dentist is responsible for reviewing the segmentation accuracy prior to making
+diagnostic decisions, and for manually adjusting segmentation when deemed necessary.
+10. Predicate Device
+Device - Logicon Caries Detector
+Manufacturer - Carestream Dental
+PMA - P980025 (down-classified to Class II under 85 FR 3548, Jan. 22, 2020)Overjet Inc. Overjet Caries Assist Software: K212519
+9. Substantial Equivalence
+Device Carestream Overjet Caries
+Logicon Assist
+Caries Detector (proposed)
+510k P980025 K212519
+Regulation No. CFR 892.2070 CFR 892.2070
+/ Description Medical image analyzer Medical image analyzer
+The Logicon Caries Detector is a The Overjet Caries Assist (OCA) is a
+Indications
+software device that is an aid in the radiological, automated, concurrent
+diagnosis of caries that have read, computer-assisted detection
+penetrated into the dentin, on software intended to aid in the
+un-restored proximal surfaces of detection and segmentation of caries
+secondary dentition through the on bitewing radiographs. The device
+statistical analysis of digital provides additional information for
+intra-oral radiographic imagery. The the dentist to use in their diagnosis of
+device provides additional a tooth surface suspected of being
+information for the clinician to use carious. The device is not intended as
+in his/her diagnosis of a tooth a replacement for a complete dentist's
+surface suspected of being carious. review or their clinical judgment that
+It is designed to work in conjunction takes into account other relevant
+with an existing Carestream dental information from the image, patient
+RVG digital X-ray radiographic history, and actual in vivo clinical
+system with dental imaging assessment.
+software (dis) for Windows XP or
+higher.
+End User Dentist Dentist
+Patients requiring dental services, Patients requiring dental services,
+Patient Population
+all sexes, no age restriction all sexes, at least 18 years of age,
+and with permanent dentition.
+Platform Windows PC Web - Edge, Chrome, Firefox
+OS Microsoft Window 7, 8, 10 Any
+User Interface Mouse, Keyboard Mouse, Keyboard, Trackpad
+Image Input
+Images can be scanned, loaded Images imported from the
+Sources
+from connected Carestream image radiographic device, or from the
+solutions practice management system, from
+Carestream or Schick sensors
+Image format Carestream jpg, png, eop, jif, dicomOverjet Inc. Overjet Caries Assist Software: K212519
+The software provides graphical Three layers:
+Processing
+representation of the density change - The Network layer works with the
+Architectu
+in a tooth, by looking for a pattern practice PACS or EMR to transmit
+re
+of density dips starting at the tooth the image and meta-data to Overjet.
+surface, penetrating the enamel and - The decision layer processes the
+going into the dentin. Enamel is image to ensure it is the correct data
+represented by 10 green lines and type, and then annotates it via the
+dentin by 5 blue lines. If a pattern algorithm
+suggestive of caries exists, the dips - The presentation layer displays the
+are highlighted with red dots to annotated image in a non-diagnostic
+warn the dentist. viewer. The dentist can filter,
+display, hide, create and edit the
+annotations presented.
+Digital files of Bitewing radiographs
+Data Source Bitewing radiographs acquired
+whose longer edge is greater than 500
+from Carestream dental RVG
+pixel resolution
+digital X-ray radiographic
+system
+● Outline of suspected region Caries detection and segmentation
+Output
+● Tooth Density on radiograph resulting in outline of
+● Lesion (caries) probability suspected caries
+Performance
+Testing Increase in dentist’s sensitivity of Increase in dentist’s sensitivity of
+approximately 20% greater than 15%
+Level of Concern
+Moderate Moderate
+Overjet Caries Assist is determined to be substantially equivalenttotheCarestreamLogicon
+Caries DetectorapprovedinP980025andlaterdown-classifiedtoClassIIunder85FR3548,
+Jan. 22, 2020. Both systems are software intended to support dental professionals in their
+diagnosis and treatment planning for caries.
+Both software systems automatically annotate suspected carious lesions for the dentist to
+review. The Logicon software displays suspected carious lesions as dips in annotated lines
+within the radiograph, green lines for the enamel and blue lines for the dentin. TheOverjet
+Caries Assist presents suspected carious lesions as segmented polygons outlining the
+prediction. Both systems allow users to visualize the radiograph with the annotations, add
+their own annotations, and use the information as part of their diagnostic process.
+Other similarities include both systems have no direct contact with the patient, both
+systems evaluate oral cavity radiographs, both systems utilize standardimagetypes,and
+both systems connect to practice management systems. Logicon compatibility is limited
+to Carestream products
+Some differences between the systems include the location of the software, the user
+interface, and the availability of additional features. A primary difference istheCarestreamOverjet Inc. Overjet Caries Assist Software: K212519
+Logicon is a local software while Overjet Caries Assist is a cloudnativeapplication.While
+Logicon and Overjet Caries Assist have different user interfaces, both are accessed by
+computer and are intended for dental professionals to review annotations on dental
+radiographs. Overjet does not believe that the differences raise a concern of substantial
+equivalence and these differences do not interfere with theabilityoftheOverjetsoftwareto
+achieve its intended use.
+10. Performance Testing
+Overjet has conducted performance testing according to FDA’s “Guidance for Industry and
+Food and Drug Administration Staff Computer-Assisted Detection Devices Applied to
+Radiology Images and Radiology DeviceData-PremarketNotification[510(k)]Submissions
+Document” issued on: July 3, 2012, as part of the development process of the caries model.
+Performance testing included standalone testing and a clinical reader evaluation. All testing
+demonstrated that the Overjet Caries Assist software met prespecified requirements.
+Standalone Testing
+Standalone performance of the OverjetAIalgorithmforthe352imagesisshowninthetables
+below. Sensitivity and specificity were summarized based on surfaces, and 95% CIs were
+provided based on treating the subject as the basis of acluster. Atotalof7,129surfaceswere
+available and included in the analysis.
+Sensitivity
+Overall standalone sensitivity was 72.0% (62.9%, 81.1%). When broken down further,
+sensitivity was 74.4% (64.4%, 84.4%) for primary caries, and 62.5% (46.6%, 78.4%) for
+secondary caries.
+Specificity
+Overall standalone specificity was98.1%(97.7%, 98.5%).
+Subgroup Analyses:
+Subgroup analyses were also performed for age, gender, and sensor, aswellasbyprimaryvs
+secondary classification, and associated restoration (for secondary caries).Overjet Inc. Overjet Caries Assist Software: K212519
+Standalone Performance of Overjet AI Algorithm based on Surfaces
+Ground Truth
+Overjet Caries No Caries
+Assessment AI Present Present Total (%)
+Observed Counts Caries Present 175 (2.5%) 131 (1.8%) 306 (4.3%)
+No Caries 68 (1.0%) 6755 (94.8%) 6823 (95.7%)
+Total (%) 243 (3.4%) 6886 (96.6%) 7129
+Diagnostic Measure Estimate 95% CI1
+Statistic Sensitivity 72.0% (175/243) 62.9%, 81.1%
+Specificity 98.1% (6755/6886) 97.7%, 98.5%
+1Confidence interval adjusted for multiple imagesand caries per subject based on clustered binary data
+methodology.
+Lesion Segmentation:
+Dice coefficient analysis was performed tocomparepixel-levelmetricsofeachcariouslesion
+with the lesion tracing provided by ground truthers. Dice scoreswerecalculatedonlyfortrue
+positives.
+For 66 images containing primary caries, the mean Dice score was 0.69 (0.66, 0.72) with a
+standard deviation of 0.122). For 30imagescontainingsecondarycaries,themeanDicescore
+was0.75(0.71, 0.79) with a standard deviation of0.112.
+Thus, it is unlikely that the automatic lesion segmentation presents any new risks, and any
+such potential risks are mitigated by the fact that Overjet Caries Assist allows the dentist to
+modify the margins of any segmented lesions.
+Clinical Evaluation - Reader Improvement
+Overjet evaluated the Overjet Caries Assist in a multi reader fully crossed reader
+improvement study. 13 US licensed dentists were asked toevaluate352radiographs(104
+containing caries / 248 without caries). Ground truth was established by the consensus
+labels of three US licensed dentists, and non-consensus labels were adjudicated by a
+Dental Radiologist. Half of the data set contained unannotated images, and the second
+half contained radiographs that had been processed through the OCA model. The
+radiographs were presented to the reader in alternating groups.
+In Session 1, the readers were asked to outline suspected caries, and to review
+predictions from the OCA model. Each reader was asked to provide a rating of 1-4 for
+their confidence in the label (1 low confidence, 4 high confidence). A 30-day washout
+period was utilized to limit recollection bias. Following the washout, the readers were
+presented the same data set but with alternate grouping. If a reader saw a radiograph in
+the unpredicted state in session 1, they were presented with the Overjet Caries AssistOverjet Inc. Overjet Caries Assist Software: K212519
+predictions in session 2.
+The results were compared against a consensus ground truth, and the sensitivity,
+specificity, and alternative free response receiver operating characteristic (AFROC) was
+evaluated to characterize the performance of the readers with and without viewing the
+model annotations.
+Unassisted vs Assisted Sensitivity:
+Overall reader sensitivity improved from 57.9% (48.9%, 66.0%) to 76.2% (68.4%,
+82.6%) unassisted vs assisted. For primary caries, reader sensitivity improved from
+60.5% (49.3%, 69.2%) to 79.4% (71.0%, 85.9%). For secondary caries, reader
+sensitivity improved from49.8%(39.5%, 60.6%) to63.0%(52.0%, 74.8%).
+Unassisted vs Assisted Specificity:
+Overall reader specificity decreased slightly from 99.3% (99.1%, 99.5%) to 98.4%
+(94.5%, 98.8%) unassisted vs assisted.
+Subgroup Analyses:
+Subgroup analyses were performed for age, gender, and sensor, primary vs secondary
+classification, and associated restoration (for secondary caries).
+Unassisted vs Assisted Dice Scores:
+As with standalone testing, Dice scores were calculated in comparison to ground truth for
+readers with and without Overjet Caries Assist.
+For primary caries, mean Dice scores improved from 0.67 unassisted (standard deviation
+0.012) to 0.69 assisted (SD 0.011). For secondary caries, mean Dice scores improved from
+0.65 unassisted (SD 0.017) to 0.74 assisted (SD 0.017). These data suggest improved
+segmentation when using Overjet Caries Assist, though results were not statistically
+significant.
+AFROC Scores:
+Readers provided confidence scores for any detected caries, which were used to calculate
+AUC for weighted AFROC scores. For the average ofallreaders,AUCincreasedfrom0.593
+(0.686, 0.743) to 0.649 (0.744, 0.820), for an increase in AUC of 0.057 (0.039, 0.098)
+unassisted to assisted. This increase was statistically significant, with an overall p-value less
+than 0.001.
+SummaryOverjet Inc. Overjet Caries Assist Software: K212519
+Increases in overall AFROC numbers clearlydemonstrateimprovementincariesdetectionby
+dentists when aided by Overjet Caries Assist (0.057 increase). This aligns with the observed
+increase in sensitivity for both primary and secondary caries (18.9% improvement for
+primary; 13.2% improvement for secondary caries). When consideredalongsidetheobserved
+decrease in overall specificity, which was less than 1%, it is clear that Overjet Caries Assist
+demonstrates a clear benefit for caries detection.
+11. General Safety and Effectiveness Concerns
+The device labeling contains instructions for use and any necessary cautionsandwarningsto
+provide for safe and effective use of this device. Risk management was conductedaccording
+to ISO 14971 which ensured, via a risk analysis,theidentificationandmitigationofpotential
+hazards. Any potential hazards were controlled via software development and design,
+verification, and validation testing. In addition, generalandspecialcontrolsoftheFD&CAct
+established for Radiological Computer Assisted Detection and Diagnosis Software are in
+place to further mitigate any safety and or effectiveness risks.
+12. Assessment of Non-Clinical Performance Data
+Overjet Caries Assist has been verified and validated according to Overjet’s design control
+processes. All supporting documentation has been included in this 510(k) Premarket
+Notification. Verification activity included unit, integration, and system level testing.
+Validation testing included performing a pivotal reader study to compare the clinical
+performance of dentists using CAD detections from the Overjet Caries Assist software when
+applied to dental radiographs to that of dentists not using Overjet Caries Assist.
+13. Conclusion
+Overjet Caries Assist is substantially equivalent to the predicate device, Carestream Logicon
+Caries Detector. Any differences do not raise any concerns about thesafetyorefficacyofthe
+device.

@@ -1,0 +1,401 @@
+JLK, Inc.
+℅ John Smith
+M.D, J.D. - Global Regulatory Partner
+Hogan Lovells US LLP
+Columbia Square
+555 Thirteenth Street NW
+Washington, District of Columbia 20004
+March 3, 2025
+Re: K243611
+Trade/Device Name: Jlk-SDH
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: February 3, 2025
+Received: February 3, 2025
+Dear John Smith:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.04
+Silver Spring, MD 20993
+www.fda.govK243611 - John Smith Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A)for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact theK243611 - John Smith Page 3
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K24361 1
+I
+Device Name
+I JLK-SDH
+Indications for Use (Describe)
+JLK-SDH is a notification-only, parallel workflow tool that is intended to assist trained radiologists to
+identify and communicate images of specific patients to a specialist, independent of the standard of
+care workflow.
+JLK-SDH uses an artificial intelligence algorithm to analyze images for findings suggestive of a
+prespecified clinical condition and to notify an appropriate user of these findings in parallel to
+standard of care image interpretation. Identification of suspected findings is not for diagnostic use
+beyond notification. Specifically, the device analyzes non-contrast CT images of the head for
+subdural hemorrhage (SDH) and sends notifications to a clinician that a suspected SDH has been
+identified and recommends a review of those images. Images can be previewed and compressed
+through PACS and mobile applications.
+Notified clinicians are responsible for viewing non-compressed images on a diagnostic viewer and
+engaging in appropriate patient evaluation and relevant discussion with a treating physician before
+making care-related decisions or requests.
+JLK-SDH is limited to the analysis of imaging data and should not be used in lieu of full patient
+evaluation or relied upon to make or confirm the diagnosis.
+Type of Use (Select one or both, as applicable)
+[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."510(k) SUMMARY K243611
+JLK, Inc.’s JLK-SDH
+K243611
+Applicant Name: JLK, Inc.
+JLK Tower, 5, Teheran-ro 33-gil, Gangnam-gu,
+Seoul, Republic of Korea
+Contact Person: Dongmin Kim
+CEO
+JLK Tower, 5, Teheran-ro 33-gil Gangnam-gu
+Seoul, South Korea 06141
+(+82) 02 6925 6189
+dmkim@jlkgroup.com
+Date Prepared: January 31, 2025
+Device Name and Classification
+ Name of Device: JLK-SDH
+ Common or Usual Name: Radiological Computer-Assisted Triage and Notification
+Software
+ Classification Panel: Radiology
+ Regulation No: 21 C.F.R. § 892.2080
+ Regulatory Class: Class II
+ Product Code: QAS
+Predicate Device
+Manufacturer Predicate Trade Name Application No. Product Code
+Viz.ai, Inc. Viz SDH K220439 QAS
+Device Description
+JLK-SDH is a radiological computer-assisted triage and notification (CADt) software package
+compliant with the DICOM standard. The device functions as a Non-Contrast Computed
+Tomography (NCCT) processing module, providing triage and notification prioritization for
+suspected hemispheric subdural hemorrhage (SDH). It serves as a notification-only, parallel
+workflow tool for hospital networks and trained clinicians. The device helps to identify and
+communicate specific patient images to trained radiologists, independent of the standard of
+care workflow. Utilizing an artificial intelligence algorithm, the system automatically receives
+and analyzes NCCT studies for image features indicating the presence of SDH and sends a
+notification to alert a radiologist of the case.
+This algorithm, hosted on JLK servers, is designed to analyze non-contrast CT images of the
+head acquired on CT scanners and forwarded to JLK servers. The mobile software modulethat enables user to receive and toggle notifications for suspected subdural hemorrhages
+identified by the JLK-SDH Image Analysis Algorithm. Users can view a patient list, and non-
+diagnostic CT scans through the mobile application. Image viewing through the mobile
+application interface is for non-diagnostic purposes only.
+The images used to train the algorithm were sourced from datasets that included equipment
+from various manufacturers, such as GE, Siemens, Philips, and Toshiba. The training dataset
+utilized to develop the convolutional neural network (CNN) included 29,524 non-contrast CT
+(NCCT) scans that had been obtained in patients with and without intracranial hemorrhage. In
+particular, 3,330 patients had SDH, 11,732 had different kinds of intracranial hemorrhage
+(Intraparenchymal Hematoma (IPH), Intraventricular Hemorrhage (IVH), Subarachnoid
+Hemorrhage (SAH) or Epidural Hematoma (EDH)), and 14,462 patients did not have any
+intracranial hemorrhage. The datasets were comprised from a variety of institutions across
+separate geographic locations (the USA, Brazil, and South Korea), including Stanford
+University, Universidale Federal de Sao Paulo, Thomas Jefferson University Hospital, Seoul
+St. Mary’s Hospital, and six other institutions to ensure its robustness and applicability. This
+broad collection of both US and Out-of-US data ensures that the AI model is trained on a
+diverse set of cases, enhancing its applicability across different populations and clinical
+environments.
+The performance of the device’s AI algorithms was validated in a standalone performance
+evaluation using an independent dataset different from the one used for algorithm training.
+Each case output from the JLK-SDH device was compared with a ground truth standard
+determined by two ground truthers, with a third ground truther intervening in cases of
+disagreement (i.e., 2+1 truther scheme). All truthers were US board-certified neuroradiologists.
+Intended Use/Indications for Use
+JLK-SDH is a notification-only, parallel workflow tool that is intended to assist trained
+radiologists to identify and communicate images of specific patients to a specialist,
+independent of the standard of care workflow.
+JLK-SDH uses an artificial intelligence algorithm to analyze images for findings suggestive of
+a prespecified clinical condition and to notify an appropriate user of these findings in parallel
+to standard of care image interpretation. Identification of suspected findings is not for
+diagnostic use beyond notification. Specifically, the device analyzes non-contrast CT images
+of the head for subdural hemorrhage (SDH) and sends notifications to a clinician that a
+suspected SDH has been identified and recommends a review of those images. Images that
+are previewed through mobile applications may be compressed only for notification.
+Notified clinicians are responsible for viewing non-compressed images on a diagnostic viewer
+and engaging in appropriate patient evaluation and relevant discussion with a treating
+physician before making care-related decisions or requests.
+JLK-SDH is limited to the analysis of imaging data and should not be used in lieu of full patient
+evaluation or relied upon to make or confirm the diagnosis.Summary of Technological Characteristics
+Both the subject and predicate devices utilize artificial intelligence and machine learning
+(AI/ML) algorithms and mobile notification software to identify and notify specialists,
+respectively, of patients with the presence of suspected subdural hemorrhage (SDH) on non-
+contrast CT imaging of the head. JLK-SDH operates in parallel to standard of care without
+removing the cases from normal clinical workflow. The subject and predicate devices both
+include a mobile application with the same mobile software functions and outputs.
+The software algorithms used in the subject device and predicate device are hosted on similar
+architectures that automatically receive imaging in the same DICOM format and use similar
+mechanisms to identify applicable imaging for analysis. Both the subject and the predicate
+devices include mobile application software that allows users to receive push notifications for
+patients identified with a suspected SDH. Users can view a unique list of patients with
+suspected SDH and examine the non-contrast CT scan of the patient through the mobile
+application. The imaging viewing of NCCT scans analyzed by both the subject and predicate
+devices are intended solely for informational and prioritization review purposes only (i.e., triage
+and notification) and are not intended for diagnostic use. Both devices interface with a non-
+diagnostic mobile DICOM image viewer, which allows the radiologist to preview non-diagnostic
+images and view patient details associated with a series. The outputs of the subject and
+predicate devices are the same; both devices identify suspected SDH and send notifications
+of suspected SDH findings from the same server.
+The subject and predicate device differ in the recipients of the notifications they send. While
+the predicate device, Viz SDH, sends notifications to neurovascular or neurosurgical
+specialists for time-sensitive cases with suspected findings, the subject device sends
+notifications to the radiologists. The radiologists then contact the appropriate specialist for
+further consultation per US standard-of-care workflow (e.g., neurovascular or neurosurgical
+specialist, or any other clinician capable of treating SDH patients). Yet, there is a clinical benefit
+in the subject workflow, similar to alerting a neurovascular/neurosurgical specialist of an SDH.
+In the United States, there is typically a designated "duty radiologist" and an "on-call
+neurosurgeon" who remains on standby at home and is ready to report to the hospital for
+emergency surgical procedures as required. Accordingly, this difference in notified user does
+not impact nor alter the US hospital workflow, as notifying a radiologist of suspected SDH
+functionally serves the same clinical utility as notifying a neurovascular or neurosurgery
+specialist within a given healthcare facility without raising any new or different questions of
+safety or effectiveness.
+The JLK-SDH is as safe and effective as the predicate device Viz SDH (K220439). JLK-SDH
+has the same intended use and similar indications, technological characteristics, principles of
+operation, and performance characteristics as the legally marketed predicate device. Any
+differences in indications do not alter the intended diagnostic use of the device and do not
+affect its safety and effectiveness when used as labeled as discussed above. In addition, the
+technological differences between JLK-SDH and its predicate device do not raise any new
+questions of safety or effectiveness. Performance data demonstrates that JLK-SDH is as safe
+and effective as the predicate device, the previously cleared Viz SDH. Thus, JLK-SDH is
+substantially equivalent.Subject Device Predicate Device
+Device Name JLK-SDH Viz SDH
+510(k) Number K243611 K220439
+Regulation Number 21 C.F.R. § 892.2080 21 C.F.R. § 892.2080
+Product Code QAS QAS
+Intended User Radiologist Neurovascular Specialist
+Anatomical Region Head Head
+Hemispheric Subdural Hemispheric Subdural
+Region of Interest
+Hemorrhage Hemorrhage
+Indicated Imaging
+Non-contrast CT (NCCT) Non-contrast CT (NCCT)
+Modality
+Alteration of Original
+No No
+Image Database
+Diagnostic Application Notification-only Notification-only
+Algorithm Artificial Intelligence / Machine Artificial Intelligence / Machine
+Implementation Learning Learning.
+Results of Image
+Internal, no image marking Internal, no image marking
+Analysis
+No; device does not mark, No; device does not mark,
+Segmentation of region highlight, or direct users' highlight, or direct users'
+of interest attention to a specific location in attention to a specific location
+the original image. in the original image.
+Relationship to standard
+In Parallel / Concurrently In Parallel / Concurrently
+of care workflow
+Compatibility with the
+environment and other DICOM Compatible DICOM Compatible
+devices
+Technical Artificial intelligence algorithm Artificial intelligence algorithm
+Implementation with database of images with database of images
+Initial assessment; non- Initial assessment; non-
+diagnostic purposes diagnostic purposes
+Preview Images Presentation of preview of the Presentation of preview of the
+study for initial informational study for initial informational
+purposes purposes
+Interference with No. Cases are not removed No. Cases are not removed
+standard workflow from worklist or deprioritized. from worklist or deprioritized.
+Acquires medical image data Acquires medical image data
+Data acquisition from DICOM compliant imaging from DICOM compliant imaging
+devices and modalities devices and modalities
+Time to Notification 0.19 ±0.05 minutes 1.15±0.57 minutes
+Performance Data
+JLK, Inc. conducted extensive performance validation testing and software verification of the
+JLK-SDH system. This performance validation testing demonstrated that the JLK-SDH system
+accurately represents key processing parameters under a range of clinically relevant
+parameters and perturbations associated with the software's intended use. The
+documentation was provided as recommended by FDA’s Guidance for Industry and FDA staff,“Content of Premarket Submissions for Device Software Functions,” June 14, 2023.
+In addition to the software verification and validation testing described in the sections above,
+JLK, Inc. performed a standalone performance in accordance with the §892.2080 special
+controls to demonstrate adequate clinical performance of the JLK-SDH module. The test
+dataset used during the standalone performance evaluation was newly acquired, and
+appropriate steps were taken to ensure it was independent of the training dataset used in
+model development.
+A retrospective study was conducted to assess the sensitivity and the standalone performance
+of the image analysis algorithm and notification functionality of Triage subdural hemorrhage
+(SDH). Specifically, the study evaluated the Triage SDH image analysis in terms of sensitivity
+and specificity with respect to ground truth (as established by US board-certified neuro-
+radiologists) in detecting SDH in the head.
+560 NCCT scans were obtained from various regions in the U.S. The analysis included 174
+SDH positive and 386 SDH negative cases. Note that there were 28 cases sent to the third
+truther (i.e., tie-breaker interpreter) due to disagreements between the first two truthers. The
+patient cohort was enriched to promote the generalizability of clinical and demographic
+variables (e.g., age, gender, and race-ethnicity) to the target patient population. We also
+considered variability among CT scanners, including those from Siemens, GE Medical
+Systems, Philips, Toshiba/Canon. Ground truth was determined by two American Board of
+Radiologists (ABR)-certified neuroradiologists, with a consensus reached by a third in case of
+disagreement.
+The primary endpoints, sensitivity and specificity, both exceeded 80%. Specifically, the
+sensitivity was 97.1%, with a 95% confidence interval (CI) of 94.4% to 99.4%. The specificity
+was 97.4%, with a 95% CI of 95.8% to 99.0%. The area under the curve (AUC) was 0.974
+with a 95% CI of 0.958 to 0.989.
+JLK-SDH ROC curveAs part of a secondary analysis, the company stratified the performance of the device by
+various confounding variables:
+Performance Metrics Overview for Patients Categorized by States (i.e. Clinical Site)
+Clinical Site N Sensitivity [95% CI] Specificity [95% CI]
+Region 001 422 0.97 [0.93, 0.99] 0.99 [0.98, 1.00]
+Region 002 138 0.98 [0.94, 1.00] 0.9 [0.83, 0.96]
+Region 001: South – North Carolina, Texas, Florida, Georgia
+Region 002: Northeast – New York / Midwest – Missouri, Iowa, Wisconsin, Illinois, Ohio
+Performance Metrics Overview for Patients Categorized by Age
+Age Range
+N Sensitivity [95% CI] Specificity [95% CI]
+(Years)
+<50 84 0.94 [0.80, 1.00] 0.99 [0.95, 1.00]
+50-70 220 0.96 [0.89, 1.00] 0.98 [0.95, 0.99]
+70< 256 0.98 [0.95, 1.00] 0.97 [0.93, 0.99]
+Performance Metrics Overview for Patients Categorized by Gender
+Gender N Sensitivity [95% CI] Specificity [95% CI]
+Male 283 0.99 [0.97, 1.00] 0.96 [0.93, 0.98]
+Female 277 0.95 [0.89, 0.99] 0.99 [0.97, 1.00]
+Performance Metrics Overview for Patients Categorized by Race-Ethnicity
+Race-Ethnicity N Sensitivity [95% CI] Specificity [95% CI]
+Non-Hispanic White 424 0.97 [0.93, 0.99] 0.99 [0.97, 1.00]
+Hispanic or Latino 51 1.0 [1.00, 1.00] 0.97 [0.89, 1.00]
+Black or African American 67 0.96 [0.86, 1.00] 0.9 [0.81, 0.98]
+Asian & Pacific Islander 9 1.0 [1.00, 1.00] 1.0 [0.00, 1.00]
+Unknown / Refused 9 - 0.89 [0.67, 1.00]
+Performance Metrics Overview for Patients Categorized by Scanner Manufacturer
+Manufacturer N Sensitivity [95% CI] Specificity [95% CI]
+General Electric 124 0.98 [0.93, 1.00] 0.89 [0.82, 0.96]
+Siemens 340 0.95 [0.90, 0.99] 0.99 [0.98, 1.00]
+Philips 70 1.0 [1.00, 1.00] 1.0 [1.00, 1.00]
+Toshiba / Canon 26 1.0 [1.00, 1.00] 1.0 [1.00, 1.00]
+Performance Metrics Overview for Patients Categorized by SDH Type
+SDH type N Sensitivity [95% CI]
+Acute 96 0.95 [0.90, 0.99]
+Chronic 25 1.0 [1.00, 1.00]
+Both (Acute & Chronic) 53 1.0 [1.00, 1.00]Performance Metrics Overview for Patients Categorized by SDH with Other Hemorrhage
+SDH and other Hemorrhage N Sensitivity [95% CI]
+Subdural Hemorrhage Only 95 0.99 [0.97, 1.00]
+Subdural Hemorrhage and Other
+79 0.95 [0.90, 0.99]
+Hemorrhage Present
+Performance Metrics Overview for Patients Categorized by SDH Location
+SDH Location N Sensitivity [95% CI]
+Convexity 84 0.96 [0.92, 1.00]
+Falx 12 0.83 [0.58, 1.00]
+Tentorium 2 1.0 [1.00, 1.00]
+Multi 76 1.0 [1.00, 1.00]
+Performance Metrics Overview for Patients Categorized by Slice Thickness
+Slice Thickness N Sensitivity [95% CI] Specificity [95% CI]
+Slice thickness<2.5mm 1 - 1.0 [1.00, 1.00]
+2.5mm≤Slice thickness <3.5mm 73 1.0 [1.00, 1.00] 0.94 [0.88, 0.99]
+3.5mm≤Slice thickness ≤5mm 485 0.97 [0.94, 0.99] 0.98 [0.96, 0.99]
+Slice thickness>5mm 1 1.0 [1.00, 1.00] -
+Performance Metrics Overview for Patients Categorized by SDH Thickness
+SDH Thickness N Sensitivity [95% CI]
+Thickness < 3mm 15 0.67 [0.40, 0.87]
+3mm ≤ Thickness < 6mm 36 1.0 [1.00, 1.00]
+6mm ≤ Thickness < 10mm 45 1.0 [1.00, 1.00]
+Thickness ≥ 10mm 78 1.0 [1.00, 1.00]
+Performance Metrics Overview for Patients Categorized by SDH Volume
+Volume (mL) N Sensitivity [95% CI]
+Volume < 1 42 0.88 [0.79, 0.98]
+1 ≤ Volume < 5 51 1.0 [1.00, 1.00]
+5 ≤ Volume < 10 16 1.0 [1.00, 1.00]
+Volume ≥ 10 65 1.0 [1.00, 1.00]
+Performance Metrics Overview for Patients Categorized by Metal Artifacts
+Metallic artifact N Sensitivity [95% CI] Specificity [95% CI]
+Metallic artifact (+) 122 1.0 [1.00, 1.00] 0.91 [0.85, 0.97]Metallic artifact (-) 438 0.96 [0.93, 0.99] 0.99 [0.98, 1.00]
+A secondary endpoint of time-to-notification from non-contrast CT scans to notification for
+SDH-positive cases was also evaluated. The JLK-SDH system for SDH-positive cases
+demonstrated efficient triage with a total NCCT-to-notification time ranging from an average of
+11.49±3.04 seconds (0.19± 0.05 minutes), which successfully meets the target of 69.1±34.3
+seconds (1.15±0.57 minutes) established by the predicate device, Viz SDH (K220439). These
+results affirm that the JLK-SDH system meets the time-to-notification goal, underscoring its
+effectiveness in timely triage and notification.
+Conclusions
+In conclusion, JLK-SDH, which has the same intended use and exhibits substantially
+equivalent technological, safety, and performance characteristics, is comparable to the legally
+marketed predicate device, Viz SDH (K220439). Therefore, JLK-SDH is substantially
+equivalent to the selected predicate device and raises no questions regarding safety or
+effectiveness.

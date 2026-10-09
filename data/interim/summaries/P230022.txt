@@ -1,0 +1,1398 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I. GENERAL INFORMATION
+Device Generic Name: Wearable Cardioverter Defibrillator
+Device Trade Name: Jewel Patch Wearable Cardioverter Defibrillator (P-WCD)
+("Jewel"), Jewel P-WCD Firmware, Device Accessories Skin Preparation Kit, Placement
+Accessory, Device Removal Kit, Optional Software Accessories ES Mobile Application,
+ES Cloud, ES Report Generator, ES Clinical Portal
+Device Procode: MVK
+Applicant’s Name and Address: Element Science Inc.
+301 Chesapeake Drive
+Redwood City, CA 94063
+Date(s) of Panel Recommendation: None
+Premarket Approval Application (PMA) Number: P230022
+Date of FDA Notice of Approval: April 30, 2025
+II. INDICATIONS FOR USE
+The Jewel WCD is indicated for patients 18 years of age and older who are at risk for
+Sudden Cardiac Arrest and are not candidates for or refuse an implantable defibrillator.
+III. CONTRAINDICATIONS
+DO NOT USE the Jewel on patients who have an active Implantable Cardioverter
+Defibrillator (ICD).
+IV. WARNINGS AND PRECAUTIONS
+The warnings and precautions can be found in the Jewel WCD labeling.
+V. DEVICE DESCRIPTION
+The Jewel WCD is a Patch Wearable Cardioverter Defibrillators (P-WCDs) for patients
+who are at risk for sudden cardiac arrest (SCA). It monitors a patient’s cardiac rhythm
+continuously, and in the event that a patient experiences an episode of life-threatening VT
+(greater than approximately 200 beats per minute) or VF, the Jewel is able to deliver a
+therapeutic shock to convert a patient’s rhythm out of life-threatening VT or VF and
+return to organized rhythm. The system components are:
+PMA P230022: FDA Summary of Safety and Effectiveness Data 1 of 38• Jewel (P-WCD) model ES-2
+• Jewel Firmware
+Complex Programmable Logic Device (CPLD software)
+o
+BLE Microcontroller (MCU)
+o
+ACCESSORIES
+• Skin Preparation Kit
+Hair Trimmer
+o
+Skin Preparation Mitt
+o
+• Placement Accessory
+• Device Removal Kit
+Adhesive remover
+o
+Dish
+o
+Removal Tool
+o
+Soap Packet
+o
+Sponge
+o
+OPTIONAL JEWEL SOFTWARE ACCESSORIES
+• ES Mobile Application
+• ES Cloud (Medical Device Data Systems (MDDS))
+• ES Report Generator
+• ES Clinical Portal (MDDS)
+Throughout the wear period, the Jewel does not need to be removed for any typical
+activity, which ensures that the patient is protected continuously during common daily
+activities, including cardiac rehabilitation, showering, and sleeping. The wear time is up
+to 8 days.
+Figure 1. Illustration of the Jewel ES-2 P-WCD System
+PMA P230022: FDA Summary of Safety and Effectiveness Data 2 of 38Figure 2. Jewel ES-2 P-WCD Applied to Patient’s Torso
+The ES-2 model of the Jewel is composed of four components: 1) an Upper Adhesive
+Electrode Patch; 2) a Lower Adhesive Electrode Patch with permanently attached
+Disposable Battery Unit; 3) a Connection Cable; and 4) a Reusable Defibrillator Unit.
+The Reusable Defibrillator Unit will remain with the subject for their entire prescription
+(40 to 90-days or longer), whereas the Disposable Upper Adhesive Electrode Patch and
+the Disposable Lower Adhesive Electrode Patch with permanently attached Disposable
+Battery Unit would only be used for a single wear (up to 8-days).
+After each wear, the subject will remove the Disposable Upper and Lower Adhesive
+Electrode Patches (including used Disposable Battery Unit) from the Reusable
+Defibrillator Unit, and replace them with new Disposable Upper and Lower Adhesive
+Electrode Patches (including a new Disposable Battery Unit). The subject will be
+provided with multiple sets of new Disposable Upper and Lower Adhesive Electrode
+Patches (including new Disposable Battery Units) to ensure subjects are continuously
+protected throughout their prescription period.
+Arrhythmia Detection and Shock Determination
+The Jewel employs a proprietary algorithm to detect and classify ventricular fibrillation
+(VF) or ventricular tachycardia (VT) that is deemed to be life-threatening (shockable)
+versus cardiac rhythms that are non-life-threatening (non-shockable). The Jewel
+arrhythmia analysis algorithm works by making a binary decision (shockable or non-
+shockable) for several seconds of electrocardiogram (ECG) (called a “segment”)
+collected on the Jewel. When a predetermined number of segments in a row are detected
+as shockable, the Jewel begins an alarm sequence, providing the user with an opportunity
+to defer the Jewel from delivering a shock. After an additional period of analysis to detect
+shockable rhythm, the Jewel waits an additional 8-seconds to ensure adequate time for a
+patient to defer a shock if needed, then delivers a shock to the patient if the shock is not
+deferred.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 3 of 38The arrhythmia detection algorithm uses a machine learning-based model to detect
+VT/VF.
+Shock Waveform
+The Jewel delivers the initial therapeutic shock with a fixed energy of 150 joules. The
+waveform is a Biphasic Truncated Exponential (BTE) defibrillation waveform using a
+constant energy pulse that is adjusted based on the transthoracic impedance (TTI) of the
+patient at the time of therapy delivery. Using a cardioversion algorithm, the Jewel will
+attempt to cardiovert the rhythm and synchronize the shock with the R-peak of the QRS
+complex. This automatic synchronization delivers a cardioversion shock to a patient if R-
+peaks are detected, suggesting that the rhythm is a life-threatening, fast VT. If the
+cardioversion algorithm is not able to identify a regular R-peak during the ventricular
+arrhythmia, the Jewel will deliver an asynchronous shock. After the initial therapeutic
+shock of 150 J, if the Jewel continues to detect a shockable rhythm, the Jewel will re-
+initiate the alarm sequence and continue to deliver a salvo of up to four (4) additional
+BTE shocks of 162 J, totaling five (5) consecutive shocks (150 J, 162 J,162 J,162 J,162
+J).
+In the event that the shockable rhythm is successfully converted to a non-shockable
+rhythm, the Jewel will ‘reset’ and continue monitoring for occurrence of a new shockable
+rhythm episode. If the patient experiences another episode of a shockable rhythm, the
+Jewel will continue to deliver additional salvos of shocks, each new salvo starting with an
+initial shock of 150 J followed by up to four (4) additional shocks of 162 J. The Jewel is
+able to deliver at least ten (10) shocks prior to provision of the Mandatory Replacement
+Alert (MRA), and will continue to deliver additional shocks as needed until battery power
+is exhausted.
+Hardware, Software, and Accessories
+The Connection Cable is a flexible, shielded multi-conductor cable assembly which
+traverses the torso and connects the Upper Adhesive Electrode Patch attached to the right
+upper chest to the Lower Adhesive Electrode Patch attached to the left lower torso. The
+Connection Cable is 16.5” in length.
+Figure 3. Connection Cable
+Table 1 below lists the accessories that are included with the ES-2
+PMA P230022: FDA Summary of Safety and Effectiveness Data 4 of 38Accessories Description
+70% IPA Mitt Isopropyl Alcohol soaked fabric mitt used to clean the area of application
+on the patient’s body prior to placing the ES-2 Device.
+Foam Tool Polyurethane Foam Tool swabs used to aid in removal of adhesive
+electrode patches
+Silicone Adhesive Used to aid in removal of residual adhesive material. This accessory is an
+Remover Solution off-the-shelf adhesive remover solution (Dow Corning® MG-2001 Silicone
+(Off-shelf) Blend).
+Placement Aids in the application of the ES-2 Device and ensures the Adhesive
+Accessory Electrode Patches are aligned correctly on the patient’s torso.
+Foam Sponge, Used to remove remaining Adhesive Remover Solution and clean patient’s
+Sterile skin prior to application of the ES-2 Device. This foam sponge is composed
+of reticulated medical foam, latex -free used in medical wipes, pre-
+operative skin preparation and medical swabs. SDP Foam Part Number:
+22088A_Foam 90PPI Classification
+FDA- Product Code: GEC, Registered Establishment Number:
+3012660022. Foam is 2”x3”x1”
+Trimmer (Philips Used to trim excess torso hair prior to application of the ES-2 Device to the
+Norelco patient’s skin
+BG1026/60) (Off-
+shelf)
+Skin Cleansing Used to clean the patient’s skin prior to application of the ES-2 Device
+Solution
+(Coloplast Gentle
+Rain ® Extra
+Mild) (Off-shelf)
+Table 1. ES-2 Accessories
+ES Mobile Application
+The Element Science optional Mobile Application (“ES Mobile App”) is an iPhone
+Operating System (iOS) mobile application that utilizes BLE (Bluetooth Low Energy)
+encrypted communication to retrieve status information from the Jewel Patch Wearable
+Cardioverter Defibrillator (P-WCD) (“Jewel”). The optional ES Mobile Application does
+not allow the user to control or program the Jewel; but instead mirrors the device status
+communicated to the user by the Jewel’s tri-color (red, yellow, green) LED lights, audio,
+and vibratory prompts. The ES Mobile Application consists of: Login Screen; Status
+Screens (which mirror the Jewel P-WCD’s status); Help Section (which includes access
+to approved labeling); and User Settings Section.
+ES Cloud
+The Element Science optional ES Cloud is a collection of software and MDDS hardware
+infrastructure components that do not control or alter the functions or parameters of any
+connected medical devices, and:
+• Provides authentication for the ES Mobile Application & other ES applications;
+PMA P230022: FDA Summary of Safety and Effectiveness Data 5 of 38• Electronically transfers and stores patient medical device data from the Jewel P-
+WCD, and other data associated with a patient’s record;
+• Allows authorized users to view and download stored Therapy Report/s created
+by the ES Report Generator for patients who have received defibrillation therapy;
+and
+• Provides business logic to Element Science personnel (such as device
+provisioning, tracking, and confirmation of Jewel serial numbers) to support the
+ES Mobile Application’s functionality.
+ES Report Generator
+The Element Science optional ES Report Generator is a software component contained
+within the ES Cloud. The ES Report Generator software receives raw ECG Data from the
+Jewel via the optional ES Mobile Application and:
+• Generates a Therapy Report which includes an ECG Printout;
+• Stores the generated Therapy Reports securely in the ES Cloud; and
+• Notifies the patient’s Health Care Provider (HCP) about the availability of
+Therapy Report/s which can be accessed via the optional ES Clinical Portal.
+ES Clinical Portal (MDDS)
+The ES Clinical Portal within the ES Cloud allows Element Science authorized users to
+securely access and view patient data and Therapy Reports that are stored on the ES
+Cloud. The ES Clinical Portal also provides the ability for the clinicians to view,
+download, or print the Therapy Report/s for their patients if they choose to.
+In addition to continuously monitoring for life-threatening VT or VF, the Jewel performs
+diagnostic checks periodically. As part of these checks, the Jewel evaluates if there are
+technical issues such as power interruptions, monitors the status of the battery, checks the
+sensing electrodes to determine contact with the body, and evaluates the degree of contact
+of the defibrillation electrodes with the user’s body (contact integrity). The results of the
+periodic diagnostic checks may result in one of the following:
+• Press Down Notification
+• Elective Replacement Alert (ERA)
+• Mandatory Replacement Alert – Medium (MRA-M)
+• Mandatory Replacement Alert – High (MRA-H)
+This medical device product has functions subject to FDA premarket review as well as
+functions that are not subject to FDA premarket review. For this application, if the
+product has functions that are not subject to FDA premarket review, FDA assessed those
+functions only to the extent that they either could adversely impact the safety and
+effectiveness of the functions subject to FDA premarket review or they are included as a
+labeled positive impact that was considered in the assessment of the functions subject to
+FDA premarket review.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 6 of 38VI. ALTERNATIVE PRACTICES AND PROCEDURES
+There are several other alternatives for adult patients who are at risk for sudden cardiac
+arrest and are not candidates for, or refuse, an implantable defibrillator. Each alternative
+has its own advantages and disadvantages. A patient should fully discuss these
+alternatives with his/her physician to select the method that best meets expectations and
+lifestyle. The alternatives include:
+• Antiarrhythmic medication for reduction or suppression of certain ventricular
+arrhythmias. Some drugs such as amiodarone and beta-blockers have been shown
+to decrease the number of ventricular arrhythmias, but not to reduce the incidence
+of sudden cardiac arrest. Additionally, antiarrhythmic medications can negatively
+impact morbidity and mortality.
+• Sudden Cardiac Arrest Treatment by Emergency Medical Services, EMS, or
+Calling 911. Paramedics are trained to diagnose defibrillation-reversible
+conditions and apply such therapy if needed, but paramedics may not always be
+available in a timely manner to treat someone who suffers a cardiac arrest.
+Approximately 50% of cardiac arrests are unwitnessed.
+• Automatic External Defibrillators (AEDs) in the community. Bystander use of an
+AED is an option; however, a bystander with an AED may not be available in a
+timely manner to treat a patient who suffers a cardiac arrest.
+• AEDs in the Home. AEDs may be prescribed for use within the home, however, a
+caregiver in the home with an AED may not be available in a timely manner to
+treat a patient who suffers a cardiac arrest.
+• Implantable Cardioverter Defibrillators (ICDs). ICDs are surgically implanted in
+patients shown to have long term risk of SCA to protect them from sudden cardiac
+death. In general, patients having uncertain or temporary SCA risk are not
+indicated for ICD implantation. ICDs also impose risks of infection, inappropriate
+therapy, and require a waiting period during which the patient is vulnerable to a
+repeat cardiac arrest.
+• Telemetry monitoring within a Hospital Environment. Hospitalization with
+telemetry monitoring for arrhythmias and rapid response for external
+defibrillation can be effective but requires extended hospitalization for monitoring
+and also attention by staff for arrhythmia notifications.
+• Use of other commercially available WCD products.
+VII. MARKETING HISTORY
+The Jewel (P-WCD) has not been marketed in the United States or any foreign country.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 7 of 38VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+Below is a list of the potential adverse effects (e.g., complications) associated with the
+use of a Wearable Cardioverter Defibrillator.
+• Failure to sense and detect a treatable ventricular arrhythmia resulting in death.
+• Unsuccessful cardioversion or defibrillation resulting in death or disability.
+• Inappropriate shock causing abnormal heart rhythms, including fatal arrhythmias.
+• Improper, ineffective, or non-operation of the device due to external causes such
+as electromagnetic interference.
+• Failure resulting from component failure.
+• Damage to or reset of a pacemaker due to a shock.
+• Superficial skin burns resulting from defibrillation.
+• Pain from conscious shock.
+• Mild to moderate skin irritation or allergic dermatitis due to sensitivity to the
+materials used in the construction of the adhesive electrode patches or Connection
+Cable.
+• Mild to moderate skin irritation due to application and removal of the adhesive
+electrode patches.
+• Skin infection (bacterial or yeast) secondary to continuous skin contact by the
+adhesive electrode patches or Connection Cable.
+• Bystander shock from patient contact during a treatment event.
+• Fire hazard in the presence of a high oxygen concentration.
+• Muscle strain or discomfort.
+For the specific adverse events that occurred in the clinical study, please see Section X
+below.
+IX. SUMMARY OF NON-CLINICAL STUDIES
+A. Laboratory Studies
+The Jewel system underwent laboratory-based testing that included bench testing
+summarized in Table 2 as well as biocompatibility evaluations, electrical and
+electromagnetic compatibility (EMC) testing, software verification and validation,
+arrhythmia detection validation, and human factors testing. Testing was conducted on key
+device subassemblies and the complete system.
+Test Purpose Acceptance Criteria Results
+Accuracy of energy Verify the Jewel system energy The device shall meet or exceed Met
+delivery delivery meets its specified the requirements of IEC 60601-
+requirements across a range of 2-4: 2010 clause 201.12.1 for
+impedances. delivered energy accuracy
+PMA P230022: FDA Summary of Safety and Effectiveness Data 8 of 38Test Purpose Acceptance Criteria Results
+Shock waveform Demonstrate shock waveform The shock waveform shall not Met
+verification study similarity to approved shock deviate significantly from
+waveform approved comparator device for
+peak current, peak voltage,
+phase duration, or tilt
+Control buttons Verify reliability of the override Deferral buttons shall be able to Met
+qualifications button and LED subassembly withstand 1,900 actuations
+without being damaged or
+losing functionality
+Electrode Patches Demonstrate that the Upper and Predefined design criteria for Met
+and Connection Lower Patch and Connection Cable DC offset voltage, offset
+Cable assembly meets ES-2 Device instability and noise, AC
+Requirement specification impedance, bias current,
+leadwire resistance, pull
+strength, flex circuit, and patch
+corrosion resistance
+Patch and Battery Demonstrate that the Adhesive Predefined design criteria for Met
+Unit Electrode Patches and Battery Unit battery voltage, patch
+meet device requirements and attachment force, battery
+specifications connection force, patch
+connection release, patch
+reliability, battery connector
+reliability, environmental
+integrity, and hardware
+corrosion resistance
+Subassembly Level Demonstrate that the ES-2 Device Predefined design criteria for Met
+Mechanical Testing meets mechanical requirements per battery hardware resistance,
+the Product Requirement battery tab weld strength, pull
+Specification strength, battery connector, flex
+circuit strength, water ingress
+protection, battery shelf life, and
+release liner pull strength
+Wear Life Device Demonstrate that the ES-2 Device Predefined design criteria for Met
+Performance (T=0) meets Wear Life Performance patch long-term shear strength
+Mechanical requirements per the and ingress protection
+Product Requirement Specification
+Mechanical Demonstrate that the ES-2 meets Predefined design criteria for Met
+Reliability the 6 month mechanical reliability flex circuit fatigue, compression
+requirements in the Hardware cycling, and connectors
+Requirements Specification reliability prior to defibrillation
+Device Drop Demonstrate that the ES-2 Device Defined in IEC 60601-1 Clause Met
+Protection Test meets the Mechanical requirements 15.3.4.1 Drop Test for Body
+per the Product Requirement Worn Medical Electrical
+Specification Equipment.
+Battery Qualification Demonstrate that the Battery Per IEC 60086-4 Met
+complies with the requirements of
+IEC 60086-4:2019 for Safety of
+Lithium Batteries
+Wireless Demonstrate ability of system to No observations at the applied Met
+Coexistence withstand expected levels of levels and no latent effects
+wireless transmission from external resulting from exposure –
+sources system must operate as
+specified
+PMA P230022: FDA Summary of Safety and Effectiveness Data 9 of 38Test Purpose Acceptance Criteria Results
+High Voltage Demonstrate that the High Voltage Meet predefined device Met
+Capacitor Capacitor meets and exceeds the performance criteria after 800
+Qualification service life characteristic specified charge/discharge cycles at 50
+in the Product Requirements degrees C
+Specification
+Electrical Demonstrate that the electrical Predefined hardware Met
+Assembly, Low assembly meets the low voltage functionality (e.g., button input,
+Voltage requirements in the Electrical speakers, etc.) with 4.5V supply
+Testing
+Hardware Requirements and ECG functionality to
+Specification and Product predefined specifications
+Requirements Specification
+Electrical Assembly Demonstrate that the electrical The hardware shall have Met
+Overvoltage assembly meets the overvoltage overvoltage protection circuit
+Protection protection requirement that can be adjusted to a value
+Requirement greater than 790V
+Electrical Demonstrate that the electrical Meet predefined functionality Met
+Assembly, High assembly meets the high requirements for: internal
+Voltage Testing voltage requirements in the Device discharge circuit, ECG signal
+Electrical Hardware Requirements acquisition accuracy,
+Specification transthoracic impedance (TTI)
+measurement accuracy, full
+voltage charge measurement,
+printed circuit board assembly
+(PCBA) reliability, and
+capacitor accuracy
+Delivery of 20 High Demonstrate that the device with a Clause 201.102.3.2 of IEC Met
+Voltage Shocks new and fully charged battery is 60601-2-4
+capable of providing at least 20
+maximum energy discharges at the
+maximum delivered energy under
+specified environmental conditions
+within 1,300 seconds
+8-Day Shock Test Demonstrate that the device has Deliver at least 10 shocks after Met
+sufficient battery capacity to simulated 8 day wear period.
+function at the end of the intended
+wear period (8 days)
+Commercial Air Demonstrate that the Final RTCA DO-160G Met
+Travel Testing Finished Form of the device is
+suitable for use in commercial
+aviation
+Shock and Vibration Demonstrate that the device can IEC 60601-1-12, Section Met
+Testing for withstand the mechanical stresses 10.1.4, Requirements for
+commercial air travel experienced during normal Mechanical Strength for ME
+operating conditions in an aircraft EQUIPMENT Intended for
+Airborne Use
+Mechanical Demonstrate Subassembly Predefined design criteria for Met
+Subassembly Level performance following climatic battery hardware resistance,
+Testing conditioning and accelerated aging battery tab weld strength, pull
+(T=6-Months) for 6 months strength, battery connector, flex
+circuit strength, water ingress
+protection, battery shelf life, and
+release liner pull strength
+PMA P230022: FDA Summary of Safety and Effectiveness Data 10 of 38Test Purpose Acceptance Criteria Results
+Patch and Battery Demonstrate that the Adhesive Predefined design criteria for Met
+Unit (T=6-Months) Electrode Patches and Battery Unit DC offset voltage, offset
+meet device requirements and instability and noise, AC
+specifications following climactic impedance, bias current,
+conditioning, shipping and leadwire resistance, pull
+distribution, and accelerated aging. strength, flex circuit, and patch
+corrosion resistance
+Release Liner Demonstrate that the Patch Release The average adhesive strength Met
+Adhesion Testing Liners meets requirements after to Stainless Steel Patches, as
+(T=6-
+accelerated aging. tested per PSTC-101F, Peel
+Months)
+Adhesion of Pressure Sensitive
+Tape, shall not decrease by
+more than 30% after
+environmental and shelf life
+conditioning.
+The adhesive strength between
+the Patches and Release Liner,
+as tested per ASTM D1876, (T-
+Peel Test), shall be less than or
+equal to 2 lb/in.
+Table 2. Testing Summary for the Jewel System
+Biocompatibility Testing
+Biocompatibility evaluation of the following components was performed in accordance with
+the recommendations of CDRH’s biocompatibility guidance document, Use of International
+Standard ISO 10993-1, “Biological Evaluation of Medical Devices-Part 1: Evaluation and
+Testing within a risk management process”:
+• Upper Adhesive Electrode Patch,
+• Lower Adhesive Patch with Defibrillator Unit
+• Connection Cable
+• Accessories:
+IPA Mitt, Foam Tool
+o
+Placement Accessory
+o
+Foam Sponge
+o
+Silicone Adhesive Remover Solution
+o
+Trimmer
+o
+Skin Cleansing Solution
+o
+Direct patient contact materials underwent cytotoxicity, intracutaneous reactivity, and
+sensitization testing and were found to adequately demonstrate biocompatibility. Testing
+was conducted in conformance with the following standards:
+• ISO 10993-1: 2018-08 Biological Evaluation of Medical Devices – Part 1
+Evaluation & Testing within a risk management process
+PMA P230022: FDA Summary of Safety and Effectiveness Data 11 of 38• ISO 10993-5: 2009/(R)2014 Biological Evaluation of Medical Devices – Part 5 Test
+for In Vitro Cytotoxicity
+• ISO 10993-10: 2021 Biological Evaluation of Medical Devices – Part 10 Test for
+Skin Sensitization
+• ISO 10993-12: 2021 Biological Evaluation of Medical Devices – Part 12 Sample
+Preparation and Reference Material
+• ISO 10993-23: 2021 Biological Evaluation of Medical Devices – Part 23 Tests for
+Irritation
+Given the prolonged nature of skin contact of the Electrode Patches as compared to
+traditional AEDs, additional biocompatibility endpoints were included in the clinical testing
+as discussed in Section X of this document.
+Electrical Safety and EMC
+Standards Testing included:
+• IEC 60601-1: 2005, COR1:2006, COR2:2007, AMD1:2012, Medical electrical
+equipment - Part 1: General requirements for basic safety and essential performance
+• ISO 14971: 2019, Medical Devices – Application of Risk Management to Medical
+Devices
+• EMC – IEC 60601-1-2: 2020-09, General requirements for basic safety and essential
+performance - Collateral Standard: Electromagnetic disturbances - Requirements
+and tests
+• EMC – AIM 7351731, Medical Electrical Equipment and System Electromagnetic
+Immunity Test for Exposure to Radio Frequency Identification Readers (RFID)
+• IEC 62366-1: 2015, Medical Devices – Part 1 Application of Usability Engineering
+to Medical Devices
+• IEC 60601-1-6: 2020, Medical electrical equipment – Part 1-6 General requirements
+for basic safety and essential performance – Collateral standard: Usability
+• IEC 60601-1-6: 2020-07, Medical electrical equipment – Part 1-8 General
+requirements for basic safety and essential performance – Collateral standard:
+General requirements, tests and guidance for alarm systems in medical electrical
+equipment and medical electrical systems
+• IEC 60601-2-47: 2012 Medical electrical equipment - Part 2-47: Particular
+requirements for the basic safety and essential performance of ambulatory
+electrocardiographic systems
+• IEC 60086-4: 2019-04 Primary batteries - Part 4: Safety of lithium batteries
+[Including: COR1 (2019) and COR2 (2020)]
+Testing is Summarized in Tables 3 and 4 below.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 12 of 38Test Criteria or
+Test Summary Result
+Applicable Standards
+Electromagnetic Immunity: Home Health IEC 60601-1-2 Ed Pass
+Care Environment 4.1
+IEC 60601-1-2 Ed
+Electrostatic Discharge Immunity Pass
+4.1
+Electromagnetic Immunity: Security & N/A Pass
+Logistical Systems
+Electromagnetic Immunity: Commercial Air RTCA DO-160G Pass
+Travel
+Electromagnetic Immunity: Wireless ANSI C63.27-2017 Pass
+Coexistence
+Electromagnetic Immunity: RFID Exposure AIM 7351731 Rev. 2 Pass
+Electromagnetic Immunity: 5G & Wireless The Jewel signal acquisition Pass
+Power shall not be degraded by the
+presence of 5G devices or
+other wireless power sources
+Table 3. EMC/EMI Performance
+Standard Description AIM 7351731 Compliance AIM 7351731 Test Level
+Level
+IMMUNITY
+ISO 14223 Magnetic 134.2 kHz@65A/m 134.2 kHz@65A/m
+Field
+Immunity
+IEC Magnetic 13.56 MHz@7.5A/m 13.56 MHz@7.5A/m
+14443-3 Field
+(Type A) Immunity
+IEC Magnetic 13.56 MHz@7.5A/m 13.56 MHz@7.5A/m
+14443-4 Field
+(Type B) Immunity
+IEC Magnetic 13.56 MHz@5A/m 13.56 MHz@5A/m
+15693; Field
+Immunity
+ISO
+18000-3
+Mode 1
+PMA P230022: FDA Summary of Safety and Effectiveness Data 13 of 38ISO Magnetic 13.56 MHz@l2A/m 13.56 MHz@l2A/m
+18000-3 Field
+Mode 3 Immunity
+ISO Magnetic 433 MHz@3V/m 433 MHz@3V/m
+18000-7 Field
+Immunity
+ISO Radiated RF 860-960 MHz@54 V/m 860-960 MHz@54 V/m
+18000-63 Immunity
+Type C
+ISO Radiated RF 2.45 GHz@54V/m 2.45 GHz@54V/m
+18000-4 Immunity
+Mode 1
+Table 4. RFID Immunity
+Due to the risk of EMI and EMD in railway environments [1], the Jewel system underwent
+the following additional EMC testing:
+Railway Frequency Magnetic Electric Field Test Setup Rhythm Test
+Frequency Range Field Samples Result
+25 Hz 22 – 28 Hz 70 A/m2 1.2 kV/m Modified 1 kΩ load, Jewel IDE PASS
+60 Hz 57 – 63 Hz 70 A/m2 Computational parallel to 1 µF load in Shockable PASS
+Analysis & compliance with IEC Rhythms
+Testing 60601-2-
+4:2010/A01:2018,
+Clause 202.6.2.3.2
+Table 5. US Railway Immunity Testing (including frequency shifts and surrounding
+environments)
+Packaging and Shelf Life
+The packaging of the Jewel system was subject to and has met the requirements for
+international shipping and handling using procedures and methods defined in ISTA
+Procedure 3A, “Packaged-Products for Parcel Delivery System Shipment 70 kg (150 lbs.) or
+less” as well as ASTM D4169-22, “Standard Practice for Performance Testing of Shipping
+Containers and Systems”. All testing was conducted after accelerated 6-month aging
+according to ASTM F1980, “Standard Guide for Accelerated Aging of Sterile Barrier
+Systems for Medical Devices”. The shipping and storage temperature of the Jewel System is
+from -29°C to 60°C (-20°C to 140°F) with a relative humidity from 15% to 85%.
+The shelf-life of the Jewel system is limited by the shelf-life of the Battery and Adhesive
+Electrode Pads. Testing has been completed that supports a shelf life of 6 months. The Jewel
+system may be stored at temperatures of 15ºC (59ºF) to 30ºC (86ºF) and from 5% to 95%
+humidity with no condensation.
+Software
+PMA P230022: FDA Summary of Safety and Effectiveness Data 14 of 38Comprehensive verification and validation testing were conducted to confirm that the
+software used in the Jewel WCD meets all specified requirements and that the software
+will operate reliably and safely under normal or abnormal use conditions.
+The software for the Jewel WCD was presented to the FDA based on the Enhanced
+Documentation level according to the FDA Guidance Document, “Content of Premarket
+Submissions for Device Software Functions: Guidance for Industry and FDA Staff”
+issued on June 14, 2023. Software development activities included establishing detailed
+software requirements and design specifications, software code reviews, unit testing,
+system level testing, defect tracking, and dispositioning to ensure the software conforms
+to user needs and intended uses. Unit, integration, and system level testing was
+documented and demonstrated that the software for the Jewel WCD performs as
+intended.
+Cybersecurity
+A cybersecurity analysis was performed per the recommendations in the FDA guidance
+for Industry and FDA Staff, “Content of Premarket Submissions for Management of
+Cybersecurity in Medical devices” (October 2, 2014), and the principles outlined in the
+FDA guidance for Industry and FDA Staff, “Postmarket Management of Cybersecurity in
+Medical Devices” (December 28, 2016).
+B. Animal Studies
+Element Science performed three (3) pre-clinical animal studies to test the safety and
+effectiveness of the Jewel system. The preclinical data were relied on to augment existing
+clinical evidence prior to initiation of the clinical trial. Consistent with prior defibrillation
+studies, swine were used as the animal model for these studies given their similarity to
+human thoracic anatomy, coronary arteries, and thoracic impedance. The pre-clinical studies
+were compliant with 21 CFR §58 Good Laboratory Practice for Nonclinical Laboratory
+Studies (GLP) Regulations. A summary of the porcine studies is provided below.
+GLP Safety and Efficacy Evaluation GLP Safety
+Evaluation
+Animal Model Swine Swine Swine
+Sample Size N=4 test N=7 test N=3 test
+Test Article ES-1 Electrophysiology ES-1 Wearable Jewel EP Lab
+(EP) Lab System Cardioverter System
+Defibrillator
+(WCD) Patch
+System (“ES-1
+System”)
+Methods 24 hours survival Acute, non- 24 hours survival
+survival
+Table 6. Summary of Animal Studies
+PMA P230022: FDA Summary of Safety and Effectiveness Data 15 of 38Background: The initial GLP study included separate safety and performance arms treated
+as separate studies. The effectiveness arm was conducted to help establish defibrillation
+threshold/waveform shock success with the Jewel system applied at full energy. The safety
+arm was conducted to establish tissue safety with both 50% and full energy delivery. A
+second safety study was conducted to establish acceptable tissue injury associated with the
+Jewel. Results from the second GLP safety study established tissue safety with similarities
+in clinical pathology and histology outcomes for both test and control devices. Together
+with available clinical data, these two studies were found acceptable to support waveform
+safety and effectiveness for initiation of the pivotal trial.
+Effectiveness Study
+Objective: This acute, non-survival study evaluated the effectiveness of the Jewel system to
+detect ventricular fibrillation and/or rapid ventricular tachycardia, deliver defibrillation
+shocks, and terminate ventricular fibrillation.
+Methods: Seven (7) animals underwent the “Defibrillation Detection/Treatment” procedure
+using the Jewel Patch Wearable Cardioverter Defibrillator. Each animal received between
+five (5) and twelve (12) shocks to evaluate the worst-case Jewel system use (delivery of up
+to two (2) salvos of up to five (5) consecutive defibrillation shocks).
+Conclusion: Animals received between five (5) and twelve (12) shocks. Following this
+study, safety study 2, in addition to clinical data, were provided to demonstrate acceptable
+first shock success for the Jewel system under worst-case use conditions and clinical
+impedance ranges.
+Safety Studies
+Safety Study 1
+Objective: This study was conducted to establish the tissue safety of the Jewel system as
+compared to a marketed control.
+Methods: The GLP study was performed in a healthy porcine model. Two (2) animals
+received 5 defibrillation shocks each and two (2) additional animals received 10
+defibrillation shocks each administered through the Jewel Electrophysiology Lab System.
+One (1) animal received 10 defibrillation shocks through a control comparator which was an
+FDA-approved AED. Clinical pathology was assessed at baseline, 6- and 24 hours post-
+treatment. Animals were euthanized approximately 24 hours post-procedure. Gross and
+histopathology of the tissue underlying the defibrillator pads was completed.
+Conclusions: All animals survived to completion of the study. No adverse events were
+reported during treatments. Notable increases in creatine kinase (CK) and Troponin I (cTnI)
+as well as tissue injury on histology were addressed in a second safety study described
+below.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 16 of 38Safety Study 2
+Objective: A second safety study was conducted to address tissue injury concerns following
+safety study 1. This study was conducted to establish tissue safety for the Jewel system as
+compared to a marketed control.
+Methods: This GLP safety study was performed in a healthy porcine model. Three (3)
+animals received 10 defibrillation shocks each to simulate 2 complete salvos of 5 shocks
+administered through the Jewel Electrophysiology Lab System (initial shock – 150J and
+subsequent shocks of 162J). Three (3) additional animals received 10 defibrillation shocks
+each to simulate 2 complete salvos of 5 shocks administered through a control comparator
+which was an FDA-approved AED. Clinical pathology, including hematology, clinical
+chemistry, cardiac troponin I (cTnI), total creatine kinase (CK), CK-MB and CK-MM were
+measured at baseline, 6- and 24-hours post-treatment. Animals were euthanized
+approximately 24 hours post-procedure. Targeted necropsy and histologic assessment of the
+tissue underlying defibrillation pads was completed.
+Conclusions: There was no significant difference in clinical pathology/cardiac biomarkers
+for the Jewel system and control groups. The gross and histologic injury to tissue deep to the
+Jewel system defibrillation pads showed that the Jewel system did not cause more injury
+than a marketed control device, establishing an expectation of tissue safety with worst-case
+clinical use of the system.
+C. Additional Studies
+Arrhythmia Detection Algorithm Validation
+The VT/VF detector is an ML-based random forest algorithm used to decide whether a
+segment is shockable or non-shockable. The algorithm was trained and internally tested
+using a combination of public datasets and an Element Science’s internal database.
+Demographic information for patient records in the ECG database is limited. The testing
+dataset used for final performance testing was collected independently from the training
+and internal testing datasets. It consisted of ECG samples recorded by the subject device
+and other similar AEDs equipped with multifunction electrodes in the same orientation as
+the Jewel device electrodes. The final performance testing utilizes only one record per
+person. The subject device met the performance goals established by the guidance from
+the American Heart Association (AHA) for arrythmia analysis algorithms [2] (see Table
+7).
+Element Science Jewel
+Sample Size AHA AHA Jewel AHA 90% One- Performance
+Rhythm (multi- function Required Performance Performanc Sided Lower 90% One- Results
+electrodes) Sample Goal e Confidence sided Lower
+Size (Observed) Limit Goal Confidence
+Limit
+Coarse VF 203 200 > 90% 99.5% >87% 97.8% Pass
+Shockable Sensitivity Sensitivity Sensitivity Sensitivity
+> 75% >67% 95.1% Pass
+Rapid VT 53 50 100.0%
+Sensitivity Sensitivity Sensitivity
+Sensitivity
+NSR 135 100 > 99% 100.0% >97% 98.0% Pass
+Specificity Specificity Specificity
+PMA P230022: FDA Summary of Safety and Effectiveness Data 17 of 38Non- Specificity
+Shockable
+(306
+AF, SB, > 95% >88% 95.0% Pass
+Total) 51 30 100.0%
+SVT, Specificity Specificity Specificity Specificity
+HB, IV,
+PVC
+Asystole 100 100 > 95% 97.0% >92% 92.7% Pass
+Specificity Specificity Specificity Specificity
+N/A
+Fine VF 133 25 Report Only 100.0% Not Required Not Required
+Intermediate Sensitivity (Report Only)
+Other VT 26 25 Report Only 100.0% Not Required Not Required N/A
+Sensitivity (Report Only)
+Totals 701 530
+Table 7. Arrhythmia Detection Performance
+Human Factors Testing
+A human-factors/usability analysis was conducted in accordance with FDA's February
+3, 2016 Guidance Document “Applying Human Factors and Usability Engineering to
+Medical Devices - Guidance for Industry and Food and Drug Administration Staff” and
+IEC 62366-1:2015 - Medical devices - Part 1: Application of usability engineering to
+medical devices. It also complies with the FDA-recognized standard AAMI/ANSI
+HE75: 2009/(R)2018, Human Factors Engineering – Design of Medical Devices.
+Each user group included at least 15 representative participants from the United States
+population.
+• Patient (layperson) user group. Participants representing the patient (layperson)
+were healthy individuals from varied backgrounds who would be similar to the
+intended patient population with respect to demographics such as age, gender,
+body mass index (BMI), occupation, and education level.
+• Bystander (layperson) user group. There are no specific demographics for a
+Bystander (Layperson) as anyone may encounter a patient wearing the Jewel.
+The goal was to enroll healthy individuals from varied backgrounds with
+respect to demographics such as age, gender, and occupation.
+• Bystander (EMS Personnel) user group. Participants representing Bystander
+(EMS Personnel) had specific training in responding to medical
+emergencies. The goal was to enroll individuals from varied backgrounds
+who would have specific training with respect to Emergency Medical
+Services (EMS) occupations.
+Critical Tasks have been identified through task analysis, Failure Mode Effects
+Analysis, identification of known use-related problems with similar devices,
+expert review, and formative evaluations of the Jewel.
+A second study was performed with 15 patients to ensure that clinical users could
+successfully remove the device in an emergency without delaying medical intervention
+PMA P230022: FDA Summary of Safety and Effectiveness Data 18 of 38such as imaging. Testing demonstrated that users could effectively use the labeling
+printed on the device to remove the Jewel with an average time of 6 minutes and 8
+seconds.
+The Jewel Human Factors (Usability) Study has been successfully conducted in
+accordance with IEC 62366-1:2015 and FDA’s “Guidance for Applying Human Factors
+and Usability Engineering to Medical Devices,” and has met the prespecified acceptance
+criteria for all Patient, Bystander, and Emergency Medical Services (EMS) User Groups.
+X. SUMMARY OF PRIMARY CLINICAL STUDIES
+The applicant performed two clinical studies to establish a reasonable assurance of safety
+and effectiveness of the Jewel Wearable Cardioverter Defibrillator for adult patients who
+are at risk for sudden cardiac arrest and who either are not candidates for or refuse an
+implantable defibrillator in the US (IDE) and outside the US (Electrophysiology
+laboratory ventricular fibrillation conversion study) under IDE # G180065. Data from
+these clinical studies were the basis for the PMA approval decision. Summaries of the
+clinical studies are presented below.
+A. Study Design
+Patients were treated between January 12, 2022 and July 31, 2023. The database for
+this PMA reflected data collected through July 31, 2023 and included 322 patients.
+There were 29 investigational sites.
+The study was a non-randomized, uncontrolled, open-label, prospective, multicenter,
+pivotal clinical trial consisting of up to 370 subjects at 29 US sites. The study enrolled
+subjects diagnosed with a risk of SCA who were not candidates for or who refused an
+ICD and was evaluated for success based on an observed inappropriate shock rate of
+< 2.0 per 100 patient months and a clinically significant cutaneous Adverse Device
+Effect (ADE) of < 15%.
+The initial sample size was calculated as a total of 290 subjects, with an estimated
+average wear time of 2.5 subject-months per subject, assuming an expected
+inappropriate shock rate of 0.37 per 100 subject-month. This would provide 98%
+power to demonstrate an inappropriate shock (IAS) rate < 2 per 100 subject months
+(assuming a Type I error rate of 0.02). A total of up to 370 subjects could be enrolled
+to account for withdrawals, patients lost to follow-up, and damaged devices. It was
+also expected that 3 successful shock events would occur during the course of the
+study.
+A revised Statistical Analysis Plan (SAP) included an interim analysis at 179 or more
+subjects with analyzable wear time (> 14.1 hours per day) to allow for early stopping
+the trial for safety and effectiveness. The safety endpoint was to be tested at the
+interim time point only if the Primary Effectiveness Endpoint was achieved. The trial
+would only be stopped if both the Primary Safety and the Primary Effectiveness
+PMA P230022: FDA Summary of Safety and Effectiveness Data 19 of 38Endpoint are achieved. A one-sided upper 97% confidence bound was used which
+effectively spent 0.03 alpha on the interim analysis (reserving 0.02 alpha for the final
+analysis). Sample size was driven by effectiveness (inappropriate shock rate). An
+early stopping point was approved by FDA after 179 subjects achieved analyzable
+wear time. Both an intent to treat (ITT) was performed for the 179 subjects, and a
+modified analysis using actual wear time instead of wear time as assumed by the
+prescription.
+The primary effectiveness endpoint was the rate of inappropriate shock. A one-sided
+upper 98% confidence limit was to be calculated for the inappropriate shock rate per
+100 patient-months at the final analysis.
+Only first inappropriate shocks were to contribute to the analysis of this endpoint. All
+wear times through the first inappropriate shock or through death or withdrawal were
+to contribute to the Poisson regression model. All follow-up beyond the first
+inappropriate shock was not to be used.
+The formal hypotheses were:
+• H0: Inappropriate shock rate ≥ 2.0 per 100 patient-months
+• Ha: Inappropriate shock rate < 2.0 per 100 patient-months
+The statistical method used for testing the primary safety endpoint used a one‐sided,
+exact 95% upper confidence bound which was compared to the performance goal of
+15%. The exact confidence bound was constructed using the Clopper‐Pearson
+method. The hypotheses tested was as follows:
+H0: π ≥ 0.15 Ha: π < 0.15
+where π is the observed proportion of subjects experiencing a clinically significant
+cutaneous adverse device effect.
+An ADE was considered “clinically significant” if it resulted in the subject being
+permanently withdrawn from the clinical trial by the Investigator due to a skin event.
+The secondary safety endpoint of successful conversion of a shockable rhythm was
+not formally tested.
+The secondary endpoint to observe a compliance rate of subjects wearing the Jewel of
+greater than 14.1 average hours per day during a prescription wear period was
+calculated as follows:
+(Total prescription wear period – Sum of gaps between individual wears) / Total
+prescription wear time (expressed in days)
+The prescription wear time was defined as 12‐hours after the date and time the first
+Jewel which was applied to the subject’s body transitions to Monitor Mode to the date
+and time that the last Jewel worn by the subject transitioned to Off Body Mode.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 20 of 38Periods of removal time as identified by timestamped transitions between modes,
+periods of removal time as attested to by a subject or health care provider and
+confirmed by electrocardiographic data, and periods of time in which there are
+missing data (e.g., due to unreturned or damaged devices) were excluded.
+To calculate average hours per day, the gaps between individual device wears were
+summed and the total was subtracted from the total prescription wear time. That
+absolute device wear time was divided by the total prescription wear time to obtain
+the average.
+Monitoring was provided through the Sponsor with on-site visits and centralized data
+review of case report forms (CRFs). All shocks during analyzable wear time, both
+appropriate and inappropriate, were to be reviewed and adjudicated by a Clinical
+Events Committee (CEC). The CEC was to meet regularly, and could meet on-
+demand, as needed. Safety oversight was provided under the direction of a Data
+Safety Monitoring Board (DSMB) composed of individuals with appropriate
+expertise, including electrophysiology. Members of the DSMB were independent
+from the study conduct and free of conflict of interest. The DSMB met to assess
+safety and study conduct and provide its input to the Sponsor. The DSMB operated
+under the rules of an approved charter that was written and reviewed at the
+organizational meeting of the DSMB.
+1. Clinical Inclusion and Exclusion Criteria
+Enrollment in the Jewel IDE study was limited to patients who met the following
+inclusion criteria.
+1. Patients of any gender aged ≥ 18 years.
+2. Patients with either:
+a. a measured LVEF lesser than or equal to 40% (as assessed by
+techniques such as, but not limited to, cardiac angiography,
+echocardiography, magnetic resonance imaging, or radionuclide
+angiography within the last 30 days prior to enrollment) AND
+identified as presenting with a diagnosis of an AMI, ischemic
+cardiomyopathy (includes congestive heart failure: New York Heart
+Association (NYHA) Class I – III), non-ischemic cardiomyopathy, or
+myocarditis;
+OR
+b. who had a temporary or long-term contraindication to receiving an
+ICD, who have had an ICD removed, or who refused an ICD
+OR
+c. whose ICD implantation was delayed due to COVID-19 infection or
+exposure-related risks.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 21 of 38Patients were not permitted to enroll in the Jewel IDE study if they met any of the
+following exclusion criteria:
+1. Member of a vulnerable patient population as defined in ISO 14155;
+2. Life expectancy of less than one year, including end-stage heart failure,
+cancer, or other diagnosed condition;
+3. Patients with an anticipated initial prescription period over 180 days
+(limitation only to allow timely closure of this clinical trial);
+4. Patients with an advanced directive prohibiting resuscitation;
+5. Existing ICD;
+6. Existing unipolar pacemaker;
+7. Existing FDA-cleared or FDA-approved active implantable or body worn
+medical device(s) that the Sponsor required to be removed prior to the study
+but which could not be removed;
+8. Clinically significant valve disease, including aortic stenosis, mitral stenosis;
+mitral regurgitation, tricuspid regurgitation, insufficiency of the aortic or
+pulmonary valves, any of which was likely to require surgery in the next year;
+9. A planned procedure, such as Coronary Artery Bypass Graft, within six (6)
+months;
+10. End-stage renal disease, or chronic renal failure requiring hemodialysis;
+11. Planned discharge to an institutional setting with an anticipated stay of greater
+than seven (7) days;
+12. Having a mental, visual, physical, or auditory deficit, that would impair their
+ability to properly place, remove, or interact with the Jewel System;
+13. Unable to understand English for the purposes of interacting with the device;
+14. Unable to use a wearable defibrillator due to physical conditions (bandages
+preventing electrode contact, physical deformities preventing electrode
+contact, etc.);
+15. Dextrocardia;
+16. Body circumference of less than 27 inches or greater than 56 inches in the
+intended area of the Belt component of the Placement Accessory;
+17. Active skin breakdown, erythema, or other signs of infection in the pectoral or
+torso regions where the Adhesive Electrode Patches are applied;
+18. Females who were pregnant or breast-feeding, or planning to be pregnant in
+the next 12 months;
+19. No US-based postal address that can be used to ship and receive study devices
+and supplies (a Post Office box was not an acceptable address for product
+shipments).
+20. Patients who, in the opinion of the Investigator, were anticipated to be non-
+compliant with study instructions;
+21. Unable to provide or have diminished capacity to provide informed consent;
+22. Any condition that an Investigator believed would interfere with the intent of
+the study or make participation not in the best interest of the patient.
+23. Participation in an investigational study of a drug, biologic, or device not
+currently approved for marketing; or
+PMA P230022: FDA Summary of Safety and Effectiveness Data 22 of 3824. Allergic to or have had a known adverse reaction to medical adhesives or
+hydrocolloids.
+2. Follow-up Schedule
+All patients were scheduled to return for follow-up examinations at screening,
+training and enrollment (Day 0), exchange 1-4, exchange 5 and end of
+prescription period, and study exit visit.
+Evaluations included informed consent, demographics, medical history, weight,
+and eligibility review. Training and enrollment included training, accessory
+fitting, device application, photos, and quality of life assessment. Objective
+parameters measured during the study included wear experience questionnaire,
+occurrence of shocks, changes to medications or health status, and adverse event
+evaluation. Adverse events and complications were recorded at all visits.
+The key timepoints are shown in Table 8 below.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 23 of 38Procedures Screening Training & Exchange 1 – Exchange 5 – Study Exit
+Enrollment Exchange 4 end of Visit (end of
+(Day 0) prescription prescription
+period period ± 14
+days)
+Informed consent X
+Demographics X
+Medical history X
+Weight & X
+measurements
+Eligibility review X
+(Informed
+Consent/Ethics
+Commitee)
+Jewel training X
+Placement X
+Accessory fitting
+Apply device X X X
+Photos of device X X
+after application (Optional)
+QOL questionnaire X X
+Wear experience X
+questionnaire
+Occurrence of any X X X
+shocks/deferrals
+Changes to X X X
+medications, health
+status
+Subject request(s) X X
+for assistance,
+training, or supplies
+Adverse Event X X X
+evaluation
+Exit Interview X
+Table 8. Study Schedule of Activities
+3. Clinical Endpoints
+The per protocol safety analysis of clinically significant cutaneous ADE was
+performed on the 264 subjects who were enrolled for > 12 hours. Of these, 7
+(2.65%, 95% CI 1.07-5.39%) reported a significant cutaneous ADE. This met the
+success criteria of < 15%.
+With regards to effectiveness, an ITT inappropriate shock rate was 0.357, with an
+Upper 98% CI of 1.526, which met the endpoint of < 2.0 per 100 patient-months,
+which was calculated using actual wear-time.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 24 of 38With regard to success/failure criteria, the study met its primary efficacy endpoint
+showing an inappropriate shock rate similar to another approved WCD (< 2 per
+100 subject months) and safety endpoint (< 15%) with a low rate of serious
+cutaneous reactions.
+B. Accountability of PMA Cohort
+At the time of database lock, of 254 patients enrolled in the PMA study, 290 (90.06%)
+patients are available for analysis at the completion of the study.
+Figure 4. Representation of Subject Disposition
+C. Study Population Demographics and Baseline Parameters
+The demographics of the study population are typical for a wearable cardioverter
+defibrillator study performed in the US.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 25 of 38Characteristic Primary Safety Primary Analysis
+Population Population
+(N=305) (N=290)
+Age at Enrollment (Years)
+N 305 290
+Mean ± SD 57.9 ± 13.3 58.6 ± 13.0
+Median [Min, Max] 60.0 [21.8, 88.7] 60.3 [21.8, 88.7]
+Sex, n (%)
+Female 92 (30.2%) 90 (31.0%)
+Male 213 (69.8%) 200 (69.0%)
+Ethnicity
+Hispanic or Latino 12 (3.9%) 10 (3.4%)
+Not Hispanic or Latino 293 (96.1%) 280 (96.6%)
+Race, n (%)
+White 220 (72.1%) 212 (73.1%)
+Black or African American 74 (24.3%) 67 (23.1%)
+Asian 4 (1.3%) 4 (1.4%)
+American Indian or Alaska 0 (0.0%) 0 (0.0%)
+Native
+Native Hawaiian/Other Pacific 0 (0.0%) 0 (0.0%)
+Islander
+Other 8 (2.6%) 8 (2.8%)
+Body Mass Index (kg/m2)
+N 305 290
+Mean ± SD 30.0 ± 6.7 30.0 ± 6.7
+Median [Min, Max] 29.3 [15.3, 57.1] 29.3 [15.3, 57.1]
+Systolic Blood Pressure (mmHg)
+N 303 288
+Mean ± SD 117.4 ± 16.5 117.3 ± 16.5
+Median [Min, Max] 115.0 [82.0, 174.0] 114.5 [82.0, 174.0]
+Diastolic Blood Pressure (mmHg)
+N 303 288
+Mean ± SD 71.7 ± 10.6 71.5 ± 10.6
+Median [Min, Max] 70.0 [43.0, 105.0] 70.0 [43.0, 105.0]
+Pulse (Beats/Min)
+N 303 288
+Mean ± SD 79.3 ± 15.8 79.1 ± 15.5
+Median [Min, Max] 78.0 [33.0, 144.0] 78.0 [33.0, 144.0]
+Temperature (ºC)
+N 286 271
+Mean ± SD 36.6 ± 0.3 36.6 ± 0.3
+PMA P230022: FDA Summary of Safety and Effectiveness Data 26 of 38Median [Min, Max] 36.6 [34.8, 37.4] 36.6 [34.8, 37.4]
+Respiration (Breaths/Min)
+N 297 282
+Mean ± SD 17.4 ± 1.8 17.4 ± 1.8
+Median [Min, Max] 18.0 [11.0, 28.0] 18.0 [11.0, 28.0]
+Table 9. Data on Patient Demographics and Characteristics
+Condition Primary Safety Primary Analysis
+Population, n/N (%) Population, n/N (%)
+(N=305) (N=290)
+Prior myocardial infarction (MI) 97/303 (32.0%) 94/288 (32.6%)
+Prior coronary artery bypass grafting 35/303 (11.6%) 34/288 (11.8%)
+(CABG)
+Prior percutaneous coronary 113/303 (37.3%) 109/288 (37.8%)
+intervention (PCI)
+Prior congestive heart failure (CHF) 221/303 (72.9%) 207/288 (71.9%)
+NYHA Class
+Class I 13/227 (5.7%) 11/213 (5.2%)
+Class II 80/227 (35.2%) 76/213 (35.7%)
+Class III 67/227 (29.5%) 61/213 (28.6%)
+Class IV 10/227 (4.4%) 9/213 (4.2%)
+Not Applicable 57/227 (25.1%) 56/213 (26.3%)
+History of Atrial Fibrillation 79/303 (26.1%) 76/288 (26.4%)
+Type
+Persistent 17/77 (22.1%) 16/75 (21.3%)
+Paroxysmal 60/77 (77.9%) 59/75 (78.7%)
+Unstable Angina 38/297 (12.8%) 36/283 (12.7%)
+Resolved 25/38 (65.8%) 24/36 (66.7%)
+Ongoing 13/38 (34.2%) 12/36 (33.3%)
+History of nonsustained ventricular 60/303 (19.8%) 58/288 (20.1%)
+tachycardia (NSVT)
+Status
+Resolved 21/60 (35.0%) 20/58 (34.5%)
+Ongoing 39/60 (65.0%) 38/58 (65.5%)
+History of ventricular tachycardia 62/303 (20.5%) 62/288 (21.5%)
+(VT)
+Status
+Resolved 24/62 (38.7%) 24/62 (38.7%)
+Ongoing 38/62 (61.3%) 38/62 (61.3%)
+History of Sudden Cardiac Arrest 28/303 (9.2%) 27/288 (9.4%)
+Hypertension 216/303 (71.3%) 204/288 (70.8%)
+Status
+PMA P230022: FDA Summary of Safety and Effectiveness Data 27 of 38Resolved 7/215 (3.3%) 6/203 (3.0%)
+Ongoing 208/215 (96.7%) 197/203 (97.0%)
+History of Smoking 139/303 (45.9%) 129/288 (44.8%)
+Diabetes 103/303 (34.0%) 100/288 (34.7%)
+Type
+Type 1 1/103 (1.0%) 1/100 (1.0%)
+Type 2 102/103 (99.0%) 99/100 (99.0%)
+COVID-19 Status
+Never Infected 151/303 (49.8%) 144/288 (50.0%)
+Suspected Infected 10/303 (3.3%) 9/288 (3.1%)
+Confirmed Infected 61/303 (20.1%) 60/288 (20.8%)
+Vaccinated 152/303 (50.2%) 149/288 (51.7%)
+Baseline Medications
+Angiotensin-Converting Enzyme 202/287 (70.4%) 192/274 (70.1%)
+Inhibitors (ACEi)/angiotensin II
+receptor blockers (ARB)/
+angiotensin receptor/neprilysin
+inhibitor (ARNi)
+Amiodarone 50/287 (17.4%) 48/274 (17.5%)
+Other antiarrhythmic agent 4/287 (1.4%) 4/274 (1.5%)
+Anticoagulant 91/287 (31.7%) 86/274 (31.4%)
+Other antiplatelet agent 84/287 (29.3%) 82/274 (29.9%)
+Aspirin 144/287 (50.2%) 141/274 (51.5%)
+Beta blocker 233/287 (81.2%) 224/274 (81.8%)
+Calcium channel blocker 24/287 (8.4%) 22/274 (8.0%)
+Digoxin 5/287 (1.7%) 4/274 (1.5%)
+Diuretic 136/287 (47.4%) 128/274 (46.7%)
+Other lipid lowering agent 15/287 (5.2%) 15/274 (5.5%)
+Mineralcorticoid receptor 112/287 (39.0%) 107/274 (39.1%)
+antagonist
+SGLT2i 98/287 (34.1%) 93/274 (33.9%)
+Statin 172/287 (59.9%) 168/274 (61.3%)
+Table 10. Patient Medical History
+Among the patients included in the safety analysis, 107 patients reported non-ischemic
+cardiomyopathy, 52 patients had ischemic cardiomyopathy, 80 patients reported a temporary
+contraindication to ICD, 1 patient had delayed ICD implant due to COVID-19, 5 patients had
+ICD removal, 4 patients had long term contraindication to ICD, 2 patient had myocarditis, 12
+patients refused ICD, and 42 patients reported acute myocardial infarction. 195 patients had an
+anticipated prescription length of 90 days and 20 had a prescribed wear time of 40 days and 90
+patients had other prescription wear time. The mean anticipated prescription length was 91.9 ±
+37.8 days.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 28 of 38The demographic profile and ethnic/racial diversity is mostly male and white. The medical
+history and clinical comorbidities appear to well represent the kinds of patients for whom a
+wearable cardioverter defibrillator would be indicated.
+D. Safety and Effectiveness Results
+1. Safety Results
+The analysis of safety was based on the cohort of 305 subjects enrolled for > 12
+hours. Of these, 7 (2.3%) reported a clinically significant cutaneous ADE. This
+met the success criteria of < 15%.
+The key safety outcomes, adverse events, and device deficiencies for this study
+are presented below in Tables 11 to 13.
+Number of Patients % (95% Confidence Upper Limit of One- Endpoint
+with Clinically Interval) Sided 98% CI Result
+Significant
+Cutaneous ADEs
+(n/N)
+7/305 2.30 (0.93% - 4.67%) 4.80% Success
+Table 11. Clinically Significant Cutaneous ADEs
+Adverse effects that occurred in the PMA clinical study:
+Two deaths occurred after study exit; neither was adjudicated as due to the device.
+There were a total of 155 device related adverse events (AEs) related to the
+device. 73 were resolved. 74 were ongoing and the status of 8 events were
+unknown at the time of the report. Of the 155 AEs, 110 were mild and the
+remaining were moderate. 25 of the device related AEs required medical
+treatment. For 72 of the AEs no action was taken.
+ADE No. of Mild ADE Moderate ADE Severe ADE
+Category ADEs
+Resulting Not Resulting Not Resulting Not
+in exit resulting in exit resulting in exit resulting
+in exit in exit in exit
+Rash† 108 8 62 15 23 0 0
+Skin injury‡ 14 0 13 0 1 0 0
+Patient 34 1 26 0 7 0 0
+discomfort§
+Device issue* 1 0 1 0 0 0 0
+Table 12. Summary of ADEs stratified by type and severity
+PMA P230022: FDA Summary of Safety and Effectiveness Data 29 of 38†Rash includes the following Medical Dictionary for Regulatory Activities (MedDRA) Preferred Terms: Dermatitis
+acneiform, application site erythema, application site rash, application site urticaria, application site vesicles,
+cellulitis, blister, erythema multiforme, medical device site rash, skin lesion, dermatitis, contact skin irritation,
+erythema, rash, rash erythematous, rash vesicular, urticaria
+‡Skin injury includes the following MedDRA Preferred Terms: application site bruise, application site injury,
+application site laceration, skin disorder, skin exfoliation, skin hyperpigmentation, wound, skin erosion, contusion,
+skin injury
+§Patient discomfort includes the following MedDRA Preferred Terms: application site burn, application site
+irritation, application site pain, application site pruritis, application site reaction, pruritis, medical device site pain,
+skin burning sensation, abdominal pain lower, tenderness, burning sensation, paresthesia, medical device site
+irritation
+*Device issue includes the following MedDRA Preferred Terms: Device issue, Shock
+There were a total of 84 device deficiencies reported during the study which are
+summarized in Table 13 below. There was one device deficiency that resulted in
+an adverse event when the device was removed.
+Deficiency Category Number of Subjects Number of Deficiencies
+with Deficiency Type
+(N = 305 subjects)
+A Part of Device Component is Broken 3 (1.0%) 3
+Defibrillator Unit Housing Issue 11 (3.6%) 13
+Device UI Not as Expected 11 (3.6%) 17
+Other 24 (7.2%) 33
+Patch Issue 12 (3.9%) 18
+Table 13. Device Deficiencies
+2. Effectiveness Results
+The analysis of effectiveness was based on the 290 evaluable patients at the
+specified prescription wear times.
+The inappropriate shock rates met the primary effectiveness endpoint of < 2.0 per
+100 patient-months and is aligned with current standards of care.
+Upper One-Sided
+Endpoint Point Estimate 98% Confidence
+Limit
+Primary endpoint: Inappropriate shocks per 100
+0.357 1.527
+patient-months per study participation length
+Primary endpoint: Inappropriate shocks per 100
+0.226 0.967
+patient-months using prescription length
+VEST[3] results 0.372 0.724
+Table 14. Primary Effectiveness Endpoint: Inappropriate Shock Rate
+PMA P230022: FDA Summary of Safety and Effectiveness Data 30 of 38The primary efficacy outcome of inappropriate shock rate is similar to other
+approved wearable cardioverter defibrillator systems[3].
+A total of nine (9) subjects each received one appropriate shock during the study
+period; eight (8) were successful and the unsuccessful shock was not repeated due
+to removal of the device and replacement with an external defibrillator per
+hospital protocol.
+Of the 257 Visit 1 surveys entered, 30% (77/257) subjects reported overall
+satisfaction (No activities affected, no sensations on top or bottom patches). The
+number of surveys entered in following wears decreased; at visit 9, though only
+18 subjects responded, overall satisfaction was reported by 38.9% (7/18) of
+patients
+The mean wear time was over 21 hours a day. 91% of subjects wore the device
+for > 14 hours a day. The results from the quality of life surveys were unchanged
+throughout the course of the study.
+3. Subgroup Analyses
+No analyses were performed for sex-, gender-, age-, race-, or ethnicity-
+subgroups.
+Pediatric Extrapolation
+In this premarket application, existing clinical data was not leveraged to support
+approval of a pediatric patient population.
+Electrophysiology Laboratory Conversion Study
+The Jewel EP Lab Study was a non-randomized, uncontrolled, open-label, prospective
+study of a modified Jewel device designed to evaluate termination of acute induced
+episodes of ventricular tachycardia (VT) or ventricular fibrillation (VF) in the
+electrohysiology (EP) lab setting.
+The planned maximum sample size of 24 subjects was based on a group sequential design
+measuring the observed proportion of successful life-threatening VT or VF terminations.
+The group sequential design used a Pocock alpha spending function and allowed for
+testing after 12 or 18 or 24 subjects were enrolled. In line with the Pocock alpha
+spending function, a one-sided lower 97.4% exact confidence bound was calculated using
+the exact binomial (Clopper-Pearson) method at each testing point. The sample size was
+driven by effectiveness.
+Inclusion Criteria:
+1. Subjects of both genders of at least 18 years of age.
+2. Subjects who are scheduled for a standard EP clinical procedure where life-
+threatening VT or VF may spontaneously occur or may be induced.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 31 of 38Exclusion Criteria:
+Candidates will be ineligible for enrollment if any of the following conditions apply:
+1. Subjects who may require sterile access to the right upper pectoral or lower left torso
+regions during the planned EP procedure.
+2. Subjects who have taken amiodarone in the past 3-months.
+3. Subjects with an existing unipolar pacemaker.
+4. Subjects who exhibit a Left Ventricular Ejection Fraction (LVEF) less than 20%
+(as assessed by techniques such as echocardiography, Magnetic Resonance Imaging,
+or radionuclide angiography) within the last 6-months.
+5. Subjects who have been diagnosed with heart failure (Class IV) or experienced
+an acute heart failure exacerbation within the previous 30-days.
+6. Subjects who exhibit unstable angina.
+7. Subjects with atrial fibrillation with contraindication to anticoagulation or improper
+anticoagulation management.
+8. Subjects who are participating in an investigational study of a drug, biologic, or
+device not currently approved for marketing.
+9. Subjects who are allergic to or have had a known adverse reaction to medical
+adhesives.
+10. Subjects who have active skin breakdown, erythema, or other signs of infection in the
+pectoral or torso regions where the study device is applied.
+11. Subjects with a lower abdomen circumference of less than 68.5 cm or greater than
+142 cm.
+12. Females who are pregnant or breastfeeding or planning to be pregnant in the next 12-
+months.
+13. Subjects who cannot provide or have diminished capacity to provide informed
+consent.
+14. Any condition that an Investigator believes would interfere with the intent of the
+study or is not in the best interest of the patient.
+15. Any patient that according to the Declaration of Helsinki is unsuitable for enrollment.
+The primary endpoint was the percent of successful terminations of induced life-
+threatening VT or VF.
+Success is defined if the lower confidence limit exceeds the Performance Goal of 62%
+using a one-sided lower 97.4% exact confidence bound at one of the three testing points.
+Successfully meeting the Performance Goal of observed first shock conversion success
+rates of >87.5% in the Jewel EP Lab Study.
+Twenty subjects were consented and enrolled sequentially in this clinical investigation.
+Eighteen subjects were enrolled according to the Eligibility Criteria in the protocol and
+these subjects are included in the Per Protocol calculations. Of the 2 subjects who were
+incorrectly enrolled with existing Exclusion Criteria, one was withdrawn from the study,
+and one was treated. Both subjects were recorded as Protocol Deviations and therefore
+were not included in the Per Protocol analysis. The subjects were recovered following
+PMA P230022: FDA Summary of Safety and Effectiveness Data 32 of 38normal hospital protocol. No additional clinical follow-up is required following the acute
+procedure per the protocol, as no adverse events were experienced by any subject.
+Variable All Enrolled Subjects, n = 20 Per Protocol Subject, n=18
+Gender, male (% of total) 17/20 (85%) 15/18 (83%)
+Average Age, years (range) 64.5 (28-80) 63.8 (28-80)
+Race, white (% of total) 20/20 (100%) 5/5 (100%)
+Average Height, cm (range) 177.4 (160-190) 176.8 (160-190)
+Average Weight, kg (range) 89.6 (58-129) 88.9 (58-129)
+Average BMI (range) 28.3 (20.2-36.9) 28.3 (20.2-36.9)
+Average Ejection fraction, % 34 (20-55) 34 (20-55)
+(range)
+Medical History N (%) N (%)
+Recent myocardial infarction (% 2/20 (10%) 2/18 (11%)
+of total)
+Recent coronary artery bypass 0/20 (0%) 0/18 (0%)
+graft (% of total)
+Class IV chronic heart failure 0/20 (0%) 0/18 (0%)
+(% of total)
+Sudden cardiac arrest (% of 3/20 (15%) 3/18 (17%)
+total)
+Explants (% of total) 5/20 (25%) 5/18 (28%)
+Hypertension (% of total) 12/20 (60%) 10/18 (56%)
+History or current use of 11/20 (55%) 11/18 (61%)
+tobacco (% of total)
+Non-sustained ventricular 1/20 (5%) 1/18 (6%)
+tachycardia (VT) (% of total)
+VT (% of total) 3/20 (15%) 2/18 (11%)
+Diabetes (% of total) 6/20 (30%) 5/18 (28%)
+Atrial fibrillation (% of total) 3/20 (15%) 3/18 (17%)
+Unstable angina (% of total) 0/20 (0%) 0/18 (0%)
+Table 15. Demographics
+The conversion rate was 88.9% (16/18) with a one-sided lower 97.4% exact confidence
+bound of approximately 65.4% which exceeded the 62% Performance Goal.
+There were no subgroup analyses.
+XI. FINANCIAL DISCLOSURE
+The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+applicants who submit a marketing application to include certain information concerning
+the compensation to, and financial interests and arrangement of, any clinical investigator
+conducting clinical studies covered by the regulation. The pivotal clinical study included
+PMA P230022: FDA Summary of Safety and Effectiveness Data 33 of 3830 investigators. None of the clinical investigators had disclosable financial
+interests/arrangements as defined in sections 54.2(a), (b), (c), and (f). The information
+provided does not raise any questions about the reliability of the data.
+XII. PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+Medical Devices Act of 1990, this PMA was not referred to the Cardiovascular Devices
+Panel, an FDA advisory committee, for review and recommendation because the
+information in the PMA substantially duplicates information previously reviewed by this
+panel.
+XIII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+A. Effectiveness Conclusions
+The primary effectiveness endpoint in the IDE study was defined as an observed
+inappropriate shock rate of no more than 2.0 inappropriate shocks per 100 patient-months
+using a one-sided upper 98% confidence interval and analysis of 290 completed patients
+with analyzable wear time. The inappropriate shock rate was calculated to be 0.357
+shocks per 100 patient-months, with an upper 98% confidence interval of 1.526, meeting
+the primary effectiveness endpoint successfully.
+A total of 9 appropriate shock events were observed with 8 successful single-shock
+conversions. The 8 successful shocks observed in the IDE study met the secondary
+effectiveness endpoint of observing at least one successful conversion of shockable
+rhythms.
+The animal safety study demonstrated successful detection and treatment of induced VF
+in 7 animals which received between 5 and 12 shocks.
+The effectiveness of the AI/ML-based rhythm recognition detection algorithm was
+established by meeting predefined objective performance criteria (Kerber et. al. [2]) for
+the correct detection of shockable and non-shockable rhythms. All records were collected
+from representative multifunction ECG electrodes placed in representative anatomical
+locations to the Jewel electrode orientation.
+A total of 305 patients for whom wear data on Jewel P-WCD was available
+demonstrated wear compliance for an average daily wear time of 21.3 ± 4.48 per day
+(median 23.5, interquartile range: 20.7, 23.9), meeting the secondary effectiveness
+endpoint of observing an average wear duration of greater than 14.1 hours per day.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 34 of 38The effectiveness of the Jewel P-WCD is further established by the successful study
+results of the Jewel EP Lab study, in which the Jewel electrode patches and defibrillation
+waveform were demonstrated to successfully terminate life-threatening VT or VF with a
+single shock in 88.9% (16/18) cases.
+The Human Factors study demonstrated that the Jewel system and its associated labeling
+could be understood by the intended users and is therefore effective for its intended users,
+use, and use environments, from a human factors standpoint.
+B. Safety Conclusions
+The risks of the device are based on animal studies as well as data collected in clinical
+studies conducted to support PMA approval as described above. Of the 305 patients
+included in the safety analysis population of the IDE study, 7 subjects reported a
+clinically significant cutaneous ADE. This result was well below the performance goal of
+15% of patients experiencing a clinically significant cutaneous ADE resulting in a
+successful endpoint. A total of 176 adverse events were reported, of which 155 were
+noted as related to the device. There were no serious adverse events or deaths reported
+that were related to the device.
+The 2 animal safety studies demonstrated that there is no significant difference in clinical
+pathology or cardiac biomarkers between the Jewel device and an FDA-approved
+comparator device. The gross and histologic injury deep to the Jewel system
+defibrillation electrodes is consistent with similar injury from the FDA-approved
+comparator device. Of the 7 animals in the study there was no significant difference in
+clinical pathology, including hematology, clinical chemistry, cardiac troponin I (cTnI), total
+creatine kinase (CK), CK-MB or CK-MM.
+The safety of the device is further established by no adverse events or deaths reported in
+the Jewel EP Lab Study,
+The successful results of the Human Factors study, demonstrate that clinicians can
+successfully remove the Jewel system in a timely manner for emergency interventions
+such as imaging.
+Extensive non-clinical (bench) testing demonstrated that the design and construction of
+the device are sufficiently robust to withstand normal use as well as reasonably
+foreseeable misuse for the duration of the prescription wear period.
+C. Benefit-Risk Determination
+The probable benefits of the device are based on data collected in clinical studies,
+animal studies, and non-clinical studies to support PMA approval as described above.
+There is substantial evidence of benefit from electrical countershock for ventricular
+arrhythmias in the treatment of sudden cardiac arrest and the prevention of sudden
+PMA P230022: FDA Summary of Safety and Effectiveness Data 35 of 38cardiac death. The probable benefit of protection from neurologic injury and death are
+more than minimal.
+The probable risks of the device are also based on data collected in clinical studies
+conducted to support PMA approval as described above. The probable risks of the
+device are skin reaction, intolerability for the wearer, excess inappropriate alarms,
+inappropriate shock due to misclassification, failure to detect VT/VF, and ineffective
+shock resulting in death.
+Additional factors to be considered in determining probable risks and benefits for the
+Jewel device included the uncertainty in ascertaining the rate of these risks due to the
+relatively small sample size and the rarity of arrhythmia events, even in a high risk
+population.
+1. Patient Perspective
+Patient perspectives considered during the review included patient-reported
+outcomes on quality of life (QOL) while wearing the device. Validated measures
+of health-related QOL, the EQ‐5D‐3L and Visual Analogue Scale (VAS), were
+used in the Jewel IDE Study to quantify any impact that the Jewel P-WCD had on
+patient QOL. The absolute change between the second and first survey results for
+both EQ-5D-3L and VAS was small (0.04 ± 0.180 and 0.9 ± 19.85, respectively).
+Overall, the scores demonstrated that patients were in good health during the
+course of this study and the Jewel P-WCD did not impact their health and well-
+being negatively.
+In conclusion, given the available information above, the data support that for adult
+patients who are at risk for Sudden Cardiac Arrest and either are not candidates
+for or refuse an implantable defibrillator the probable benefits outweigh the
+probable risks.
+D. Overall Conclusions
+The data in this application support the reasonable assurance of safety and
+effectiveness of this device when used in accordance with the indications for use.
+Probable benefits are more than minimal. Probable risks appear to be the same or less
+than with other approved wearable cardioverter defibrillator devices. Considering the
+limited sample size, rarity of events, and use of AI/ML, a robust post market study is
+necessary to confirm performance.
+XIV. CDRH DECISION
+CDRH issued an approval order on April 30, 2025. The final clinical conditions of
+approval cited in the approval order are described below.
+Conditions of Approval
+PMA P230022: FDA Summary of Safety and Effectiveness Data 36 of 381. The number of devices returned to the applicant for cause from domestic sources, with a
+breakdown into:
+a. Those returned for normal end-of-life; and
+b. Those returned with any alleged failures or malfunctions, including a summary of
+root causes and the frequency of occurrence for each identified root cause.
+2. A summary of information available to you related to individual domestic uses of your
+device that may include, but is not limited to:
+a. Defibrillation success and the number of shocks required for success; and
+b. Identification of any error codes or malfunctions during use and their related MDR
+number.
+3. A listing of any safety alerts, technical service bulletins, user communications, or recalls
+for devices under this PMA.
+Post Approval Study
+The Jewel P-WCD post approval study is intended to confirm the safety and effectiveness
+of the Jewel P-WCD in the post-market setting. This is a prospective observational study
+demonstrating the detection rate of the Jewel AI/ML-based Rhythm Recognition
+Detector. FDA suggests utilizing an objective performance goal with a minimum
+collection of 200 VT/VF events. No additional patient follow-up is required. In addition
+to the arrhythmia analysis performance, the PAS will also report the false alarm rate of
+the Jewel system with a percentage of false alarms which were successfully averted by
+the patient and those which resulted in an inappropriate shock to the patient. Lastly, the
+PAS will also report the rate of skin related adverse events by severity and whether the
+patient stopped using the Jewel due to skin related adverse events. This was reviewed
+under the protocol provided via email on April 10, 2025. Element Science proposes to
+provide FDA with a PAS Report every six (6) months for the first two (2) years and
+annually thereafter, beginning from the date of the approval letter for PMA P230022.
+The applicant’s manufacturing facilities have been inspected and found to be in
+compliance with the device Quality System (QS) regulation (21 CFR 820).
+XV. APPROVAL SPECIFICATIONS
+Directions for use: See device labeling.
+Hazards to Health from Use of the Device: See Indications, Contraindications,
+Warnings, Precautions, and Adverse Events in the device labeling.
+Post-approval Requirements and Restrictions: See approval order.
+XVI. REFERENCES
+[1] Final Report on Magnetic and Electric Field Testing of the Amtrak and Metro North
+Northeast Corridor and New Jersey Transit North Jersey Coast Line Rail Systems:
+Volume I – Anaysis. U.S. Department of Transportation, Federal Railroad
+Administration. 1993; Report Number DTFR53-91-C-00047.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 37 of 38[2] Kerber et. al, Automatic External Defibrillators for Public Access Defibrillation:
+Recommendations for Specifying and Reporting Arrhythmia Analysis Algorithm
+Performance, Incorporating New Waveforms, and Enhancing Safety A Statement for
+Health Professionals From the American Heart Association Task Force on Automatic
+External Defibrillation, Subcommittee on AED Safety and Efficacy. Circulation. 1997;
+95(6):1677-1682.
+[3] Olgin JE, Pletcher MJ, Vittinghoff E, Wranicz J, Malik R, Morin DP, et al. Wearable
+Cardioverter–Defibrillator after Myocardial Infarction. New England Journal of
+Medicine. [Online] 2018;379(13): 1205–1215. Available from:
+doi:10.1056/NEJMoa1800781.
+PMA P230022: FDA Summary of Safety and Effectiveness Data 38 of 38

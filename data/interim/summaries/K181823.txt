@@ -1,0 +1,238 @@
+(cid:48)(cid:68)(cid:85)(cid:70)(cid:75)(cid:3)(cid:20)(cid:20)(cid:15)(cid:3)(cid:21)(cid:19)(cid:20)(cid:28)
+AliveCor, Inc.
+Prabhu Raghavan
+Vice President of Regulatory and Quality
+444 Castro Street, Suite 600
+Mountain View, California 94041
+Re: K181823
+Trade/Device Name: KardiaAI
+Regulation Number: 21 CFR 870.1425
+Regulation Name: Programmable Diagnostic Computer
+Regulatory Class: Class II
+Product Code: DQK, DPS
+Dated: February 8, 2019
+Received: February 11, 2019
+Dear Prabhu Raghavan:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfmidentifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.03.07
+Silver Spring, MD 20993
+www.fda.govK181823- Prabhu Raghavan Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica E. Paulsen -S
+(cid:73)(cid:82)(cid:85)
+Bram D. Zuckerman, M.D.
+Director
+Division of Cardiovascular Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+Enclosure510(k) SUMMARY
+510(k) Notification K181823
+GENERAL INFORMATION [807.92(a)(1)]
+Applicant:
+AliveCor, Inc.
+444 Castro Street, Suite 600
+Mountain View, CA 94041
+USA
+Phone: 650-396-8553
+Fax: 650-282-7932
+Applicant Contact Person:
+Prabhu Raghavan
+Vice President of Regulatory and Quality
+AliveCor, Inc.
+444 Castro Street, Suite 600
+Mountain View, CA 94041
+USA
+Phone: 650-396-8553
+Fax: 650-282-7932
+Email: prabhu@alivecor.com
+Assisted by:
+Anna Libman
+Regulatory Consultant to AliveCor, Inc.
+Consultant, Regulatory Affairs
+Experien Group, LLC
+224 Airport Parkway, Suite 250
+San Jose, CA 95110
+USA
+Date Prepared: March 06, 2019
+DEVICE INFORMATION [807.92(a)(2)]
+Trade Name:
+KardiaAI
+Generic/Common Name:
+Programmable diagnostic computer
+Classification:
+21 CFR§870.1425, Programmable diagnostic computer, Class II
+Product Code:
+DQK, DPS
+K181823 Page 1 of 6510(k) SUMMARY
+PREDICATE DEVICE(S) [807.92(a)(3)]
+• Primary predicate: AliveCor, Inc., Kardia Band System, K171816
+• Secondary predicate: CardioLogs Technologies, CardioLogs ECG Analysis
+Platform, K170568
+DEVICE DESCRIPTION [807.92(a)(4)]
+KardiaAI is a software library that implements various ECG processing and analysis
+algorithms. This Software as a Medical Device (SaMD) computes various physiologic
+parameters from a 30-second ECG and provides these capabilities in the form of an
+Application Program Interface (API) library. ECG devices can incorporate the API
+library into ECG device (“target device”) software to enable algorithmic analysis of
+ECGs to provide analytical capabilities. The device provides ECG noise filtering and
+detection of noisy ECGs as well as identifies normal sinus rhythm, atrial fibrillation,
+bradycardia, and tachycardia.
+INDICATIONS FOR USE [807.92(a)(5)]
+KardiaAI is a software analysis library intended to assess ambulatory electrocardiogram
+(ECG) rhythms from adult subjects. The device supports analyzing data recorded in
+compatible formats from any ambulatory ECG devices such as event recorders, or other
+similar devices. The library is intended to be integrated into other device software. The
+library is not intended for use in life supporting, or sustaining systems, or ECG monitors,
+or cardiac alarm, or OTC use only devices.
+The KardiaAI provides the following capabilities:
+• ECG noise filtering,
+• heart rate measurement from ECGs,
+• detection of noisy ECGs, and
+• ECG rhythm analysis for detecting the presence of normal sinus rhythm, atrial
+fibrillation, bradycardia, and tachycardia (when prescribed or used under the care
+of a physician).
+SUBSTANTIAL EQUIVALENCE
+KardiaAI has the same intended use as the predicate devices for the purpose of analyzing
+ambulatory ECG recordings. All three devices analyze ECGs for non-active patient
+monitoring or non-urgent clinical decision making. KardiaAI and the predicate devices
+all condition and analyze ECG signals from ambulatory Lead I ECG devices and provide
+data for display on the ECG target devices. KardiaAI shares the atrial fibrillation (AF),
+normal sinus rhythm (NSR), and noise algorithm with the Kardia Band System predicate
+device and contains the additional classifiers for bradycardia and tachycardia. Further,
+like the CardioLogs predicate device, KardiaAI is a SaMD with API for connecting with
+ECG devices and sending algorithm output for display. As such, the device has the same
+intended use as the predicate devices and similar technological characteristics.
+Differences between the subject device and the predicates have been tested to ensure that
+the device meets its intended use. Therefore, KardiaAI is substantially equivalent to the
+predicate devices.
+K181823 Page 2 of 6510(k) SUMMARY
+Comparison of Technological Characteristics with the Predicate Devices
+CardioLogs Technologies CardioLogs ECG
+AliveCor Kardia Band System Analysis Platform
+Feature AliveCor KardiaAI (K171816) (K170568)
+Product Code DQK, Computer, Diagnostic, Programmable DPS, Electrocardiograph DQK, Computer, Diagnostic, Programmable
+DPS, Electrocardiograph DXH, Transmitters And Receivers, DPS, Electrocardiograph
+Electrocardiograph, Telephone
+Regulation 870.1425, Programmable diagnostic computer 870.2920, Telephone electrocardiograph 870.1425, Programmable diagnostic computer
+transmitter and receiver
+Indications for use KardiaAI is a software analysis library intended The Kardia Band System is intended to The CardioLogs ECG Analysis Platform is intended for
+to assess ambulatory electrocardiogram (ECG) record, store and transfer single-channel use by qualified healthcare professionals for the
+rhythms from adult subjects. electrocardiogram (ECG) rhythms. assessment of arrhythmias using ECG data in subjects
+over 18 years of age.
+The device supports analyzing data recorded in The Kardia Band System also displays ECG
+compatible formats from any ambulatory ECG rhythms and detects the presence of atrial The product supports downloading and analyzing data
+devices such as event recorders, or other similar fibrillation and normal sinus rhythm (when recorded in compatible formats from any device used
+devices. The library is intended to be integrated prescribed or used under the care of a for the arrhythmia diagnostics such as Holter, event
+into other device software. physician). recorder, 12 lead ambulatory ECG devices, or other
+similar devices when assessment of the rhythm is
+The library is not intended for use in life The Kardia Band System is intended for use
+necessary. The CardioLogs ECG Analysis Platform can
+supporting, or sustaining systems, or ECG by healthcare professionals, adult patients
+also be electronically interfaced and perform analysis
+monitors, or cardiac alarm, or OTC use only with known or suspected heart conditions
+with data transferred from other computer based ECG
+devices. and health conscious individuals.
+systems, such as an ECG management system.
+KardiaAI provides the following capabilities:
+The CardioLogs ECG Analysis Platform provides ECG
+● ECG noise filtering, signal processing and analysis, QRS and Ventricular
+● heart rate measurement from ECGs, Ectopic Beat detection, QRS feature extraction,
+● detection of noisy ECGs, and interval measurement, heart rate measurement, and
+● ECG rhythm analysis for detecting the rhythm analysis.
+presence of normal sinus rhythm, atrial
+fibrillation, bradycardia, and tachycardia
+K181823 Page 3 of 6510(k) SUMMARY
+CardioLogs Technologies CardioLogs ECG
+AliveCor Kardia Band System Analysis Platform
+Feature AliveCor KardiaAI (K171816) (K170568)
+(when prescribed or used under the care of a The CardioLogs ECG Analysis Platform is not for use
+physician). in life supporting or sustaining systems or ECG
+monitor and Alarm devices.
+The product can be integrated into computerized ECG
+monitoring devices. In this case, the medical device
+manufacturer will identify the indication for use
+depending on the application of their device.
+CardioLogs ECG Analysis Platform interpretation
+results are not intended to be the sole means of
+diagnosis. It is offered to physicians and clinicians on
+an advisory basis only in conjunction with the
+physician’s knowledge of ECG patterns, patient
+background, clinical history, symptoms, and other
+diagnostic information.
+Target population Adults (over 18) Adults (over 18) Adults (over 18)
+Components Software only Software and ECG recording device Software only
+K181823 Page 4 of 6510(k) SUMMARY
+CardioLogs Technologies CardioLogs ECG
+AliveCor Kardia Band System Analysis Platform
+Feature AliveCor KardiaAI (K171816) (K170568)
+Software Functional - An interface that provides tools to process and - Kardia watch app software used to - An interface which provides tools to measure,
+Comparisons analyze ECGs through various algorithms analyze and display ECG signals analyze and review numerous ECGs coded in java
+received from the Kardia Band hardware language under the Angular and D3.js frameworks;
+- The automated proprietary ECG algorithms
+provide supportive information for ECG - Kardia phone app used to create Kardia - An automated proprietary ECG interpretation
+diagnosis. The library can be accessed by account, onboard users, store, re-display support algorithm which measures and analyzes
+directly connecting to the KardiaAI’s and transfer ECGs received from the ECGs to provide supportive information for ECG
+Application Programming Interface Kardia watch app diagnosis,
+This application can be accessed through an Internet
+connection and a web browser, or is directly connected
+to the CardioLogs’ Application Programming Interface
+(API)
+K181823 Page 5 of 6510(k) SUMMARY
+PERFORMANCE DATA [807.92(b)]
+All necessary testing was conducted on the KardiaAI to support a determination of substantial
+equivalence to the predicate device.
+Nonclinical Testing Summary [807.92(b)(1)]
+Non-clinical testing was conducted to assess algorithm performance and to verify that KardiaAI
+performs as intended. Algorithm performance testing was assessed using ECG databases from
+the ANSI/AAMI EC57:2012 standard as well as AliveCor proprietary databases. The
+overlapping algorithms between KardiaAI and the Kardia Band System met the same
+performance acceptance criteria. The results of the testing demonstrate that KardiaAI performs
+to its specifications and meets its intended use, which is substantially equivalent to that of the
+predicate devices.
+CONCLUSIONS [807.92(b)(3)]
+The results of nonclinical testing demonstrate that the KardiaAI meets its intended use which is
+equivalent to that of the predicate devices. The overlapping AF, NSR, and noise algorithms for
+KardiaAI and Kardia Band System met the same performance acceptance criteria. Testing also
+ensured that differences in technological characteristics between the KardiaAI and the Kardia
+Band System (primary predicate) (i.e., bradycardia and tachycardia algorithms as well as multi-
+lead ambulatory ECG input) perform as intended and do not raise different questions of safety or
+effectiveness.
+K181823 Page 6 of 6

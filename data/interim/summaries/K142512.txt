@@ -1,0 +1,229 @@
+(cid:3)
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+Public Health Service
+Food and Drug Administration
+10903 New Hampshire Avenue
+Document Control Center - WO66-G609
+Silver Spring, MD 20993-0002
+June11,2015
+VGBio, Inc. (DBA PhysIQ)
+(cid:399) Michael Billig
+Regulatory Consultant
+Experien Group
+755 N Mathilda Avenue
+Suite 100
+Sunnyvale, California 94085
+Re: K142512
+Trade/Device Name: Personalized Physiology Analytics Engine
+Regulation Number: 21 CFR 870.2300
+Regulation Name: Cardiac Monitor (Including Cardiotachometer and Rate Alarm)
+Regulatory Class: Class II
+Product Code: PLB (Multivariate vital signs index)
+Dated: May 4, 2015
+Received: May 5, 2015
+Dear Michael Billig,
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+(cid:3)Pag e 2 - Michael Billig
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act's requirements, including, but not limited to: registration and listing (21 CFR
+Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-
+related adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041
+or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301)
+796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+SSiinncceerreellyyy yyyoouurrss,,,
+forBBram DD. ZZuckkerman, MM.D.
+Director
+Division of Cardiovascular Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+EnclosureA6-2PHYSIQ PERSONALIZED PHYSIOLOGY ANALYTICS ENGINE
+510(k) PREMARKET NOTIFICATION
+SECTION 5
+510(k) SUMMARY
+This summary of the 510(k) premarket notification for the Personalized Physiology
+Analytics Engine is being submitted in accordance with the requirements of SMDA 1990
+and 21 CFR§807.92.510(k) SUMMARY
+510(k) Notification K142512
+GENERAL INFORMATION
+Applicant:
+PhysIQ
+1415 West Diehl Road
+Suite 150
+Naperville, IL 60563
+U.S.A.
+Phone: 630-251-5214
+Contact Person:
+Michael J. Billig
+Regulatory Consultant for PhysIQ
+Experien Group, LLC
+755 N. Mathilda Ave, Suite 100
+Sunnyvale, CA 94085
+U.S.A.
+Phone: 408-400-0856
+FAX: 408-400-0865
+Email: mjb@experiengroup.com
+Date Prepared: June 10, 2015
+DEVICE INFORMATION
+Trade Name:
+Personalized Physiology Analytics Engine
+Generic/Common Name:
+Monitor, Physiological, Patient (Without Arrhythmia Detection Or Alarms)
+Classification:
+Class II, 21 CFR§870.2300, Cardiac monitor (including cardiotachometer and rate alarm)
+Product Code:
+PLB
+PREDICATE DEVICES
+ Oxford BioSignals Ltd, BioSign™ (K053112)
+ OBS Medical, Visensia® with Alert (K081140)510(k) SUMMARY
+INDICATIONS FOR USE
+The Personalized Physiology Engine (PPA Engine) is intended to be used with data
+from already cleared sensors measuring physiological parameters, including heart
+rate, respiratory rate, and activity in ambulatory patients being monitored in a
+healthcare facility or at home. The device provides a time series Multivariate Change
+Index (MCI) which indicates whether the relationships among the patient’s monitored
+vital signs change from those measured at baseline, which has been derived from
+measurements previously obtained during routine activities of daily living. The MCI
+is based on an integrated computation evaluating changes in the parameters and their
+relationships to each other.
+The PPA Engine is an adjunct to and is not intended to replace vital signs monitoring.
+The MCI is intended for daily intermittent, retrospective review by a qualified
+practitioner. The PPA Engine is intended to provide additional information for use
+during routine patient monitoring. The MCI is not intended for making clinical
+decisions regarding patient treatment or for diagnostic purposes.
+PRODUCT DESCRIPTION
+The PhysIQ Personalized Physiology Analytics Engine (“PPA Engine”) is a
+computerized analysis software program that is designed for detecting change in the
+relationships among the patient’s vital signs throughout dynamic physical activity, based
+on data input from multi-parameter vital sign monitoring devices. The PPA Engine first
+“learns” a patient’s personalized baseline, defined by the relationship among the vital
+signs derived from measurements obtained during routine activities of daily living. Once
+the baseline vital sign relationships are established, it analyzes the subsequent data to
+assess how the relationships among the vital signs incoming during the monitoring period
+compare to the established baseline. The PPA Engine can analyze data collected
+wherever the patient is monitored, reflecting a patient’s activities of daily living. The
+device is intended for monitoring ambulatory patients.
+The PPA Engine requires vital sign inputs of Heart Rate (HR), Respiration Rate (RR) and
+Activity (ACT) (body motion). The PPA Engine can accept input from commercial vital
+sign monitors or combinations of monitors that can provide multivariate observations of
+these vital signs.
+The PPA Engine calculates the Multivariate Change Index (MCI), a scalar index between
+0 and 1, which represents the likelihood that the relationships among the patient’s vital
+signs are different from those at baseline, which was established during routine activities
+of daily living. An MCI value closer to zero (0) indicates that the monitored relationships
+among the vital signs are similar to the learned baseline. An MCI value closer to one (1)
+indicates that the patient’s monitored relationships among the vital signs are likely to be
+different from the learned baseline.
+The MCI is also presented as a time series (MCI over time) and it is intended to for
+retrospective review by the clinician The MCI is not intended to replace standard patient
+monitoring. Rather, it was designed to supplement standard monitoring of ambulatory
+patients.510(k) SUMMARY
+SUBSTANTIAL EQUIVALENCE
+The indications for use for the predicate devices are substantially equivalent to the
+proposed indications for use for the PPA Engine. Any differences in the technological
+characteristics between the devices do not raise any new issues of safety or effectiveness.
+Thus, the PPA Engine is substantially equivalent to the predicate devices. A comparison
+of the PPA Engine to the predicate devices is provided in Table 1.510(k) SUMMARY
+Table 1: Summary Substantial Equivalence Table
+Feature PhysIQ Oxford Biosignals Ltd. OBS Medical
+Personalized Physiology BioSign™ Visensia® with Alert
+Analytics Engine (K053112) (K081140)
+(K142512)
+General Characteristics
+Classification Class II, Class II, Class II,
+21CFR§870.2300 21CFR§870.2300 21CFR§870.1025
+Product Code MWI MWI MHX
+Patient Ambulatory Bedside or ambulatory Bedside or ambulatory
+Environment
+Patient Monitored non-pediatric Monitored non-pediatric Monitored non-pediatric
+Population patients high dependency patients high dependency patients
+Technological Characteristics
+Components Software only Software only Software only
+Index Non-linear combination of Unknown combination of Non-linear combination of
+Produced vital parameters vital parameters vital parameters
+Index Index represents how Index represents how Index represents how
+Meaning different the relationships different the relationships different the relationships
+among the patient’s vital among the patient's vital among the patient's vital
+signs are with respect to signs are with respect to signs are with respect to
+normality. normality. normality.
+Index Normality is defined as the Normality is defined as Normality is defined as
+Algorithm patient’s own baseline. population normality. population normality.
+Normality
+Index Display  Single numeric value of  Trend graph  Single numeric value
+latest index of latest index
+ Trend graph  Trend graph
+ Table  Table
+Vital Signs Clinical Information Systems Physiological Patient Physiological Patient
+Data Source Monitors / Clinical Monitors / Clinical
+Information Systems Information Systems
+Alert System No No Audible and Visual510(k) SUMMARY
+TESTING IN SUPPORT OF SUBSTANTIAL EQUIVALENCE DETERMINATION
+All necessary bench and clinical testing was conducted on the PPA Engine to support a
+determination of substantial equivalence to the predicate devices.
+Bench Testing Summary:
+The PPA Engine was tested to ensure that it performs as intended per its specifications,
+and to verify that technological differences between the PPA Engine and the predicate
+devices do not raise new issues of safety or effectiveness for providing a change index.
+The bench testing included:
+ Verification testing for the PPA Engine (to verify that the device meets its
+specifications)
+ Validation testing of the PPA Engine’s MCI output (to validate correlation of
+MCI with changes in the relationships among vital signs compared to baseline in
+order to meet its intended use), including analysis of vital sign changes in human
+physiological data collected:
+o Perturbed clinical data study
+o Simulator data study
+The collective results of the bench testing demonstrate that the software design of the
+PPA Engine meets the established specifications necessary for consistent performance during
+its intended use. In addition, the collective bench testing demonstrates that the PPA Engine
+index output correlates with changes in the relationships among vital signs compared with
+baseline, as do the indices of the predicate devices. Thus, the PPA Engine does not raise new
+questions of safety or effectiveness for vital sign monitoring when compared to the predicate
+devices.
+Clinical Testing Summary:
+To validate that the PPA Engine’s MCI output correlates with changes in the
+relationships among vital signs compared with baseline, healthy volunteer studies were
+conducted under an IRB-approved non-significant risk protocol, where volunteers
+collected vital sign data during standard activities of daily living and during a trip with a
+substantial altitude change (causing natural perturbation in relationships among vital
+signs). Study results demonstrate the MCI correlates with change in the monitored
+relationships among the vital signs compared to the subject’s baseline; thus, the PPA
+Engine meets its intended use.
+CONCLUSION
+The PPA Engine has a subset of the elements of intended use, patient population, as well
+as highly similar technological characteristics as those of the predicate devices, the
+BioSign and Visensia. The differences in technological characteristics have been
+analyzed and addressed through performance testing that demonstrates that the PPA
+Engine meets its intended use. Any differences between the PPA Engine and the
+predicate devices do not raise any new issues of safety or effectiveness. As such, the
+PPA Engine is substantially equivalent to the predicate devices.510(k) SUMMARY
+SUMMARY
+The PPA Engine is substantially equivalent to the predicate devices.

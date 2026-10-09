@@ -1,0 +1,493 @@
+Avicenna.AI
+℅ John Smith
+Partner
+Hogan Lovells US LLP
+March 15, 2024
+555 13th St. NW
+Washington, District of Columbia 20004
+Re: K233342
+Trade/Device Name: CINA-ASPECTS
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological computer-assisted diagnostic software for lesions suspicious of cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: February 15, 2024
+Received: February 15, 2024
+Dear John Smith:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.09
+Silver Spring, MD 20993
+www.fda.govK233342 - John Smith Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT 8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT 8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below
+510(k) Number (if known)
+K233342
+Device Name
+CINA-ASPECTS
+Indications for Use (Describe)
+CINA-ASPECTS is a computer-aided diagnosis (CADx) software device used to assist the clinician in the assessment and
+characterization of brain tissue abnormalities using CT image data.
+The Software automatically reorients images, segments and analyzes ASPECTS Regions of lnterest (ROIs). CINA-
+ASPECTS extracts image data for the ROI(s) to provide analysis and computer analytics based on morphological
+characteristics. The imaging features are then synthesized by an artificial intelligence algorithm into a single ASPECT
+(Alberta Stroke Program Early CT) Score.
+CINA-ASPECTS is indicated for evaluation of patients presenting for diagnostic imaging workup with known MCA or ICA
+occlusion, for evaluation of extent of disease. Extent of disease refers to the number of ASPECTS regions affected which
+is reflected in the total score. This device provides information that may be useful in the characterization of early ischemic
+(acute) brain tissue injury during image interpretation.
+CINA-ASPECTS provides a comparative analysis to the ASPECTS standard of care radiologist assessment using the
+ASPECTS region definitions and highlighting ROIs and numerical scoring.
+Limitations:
+1.CINA-ASPECT is not intended for primary interpretation of CT images. It is used to assist physician evaluation.
+2. CINA-ASPECT has been validated in patients with known MCA or ICA unilateral occlusion prior to ASPECTS
+scoring.
+3.CINA-ASPECTS is not suitable for use on brain scans displaying neurological pathologies other than acute stroke,
+such as tumors or abscesses, traumatic brain injuries, hemorrhagic transformation and hematoma.
+4. Use of CINA-ASPECT in clinical settings other than brain ischemia within 12 hours from time last known well,
+caused by known ICA or MCA occlusions has not been tested.
+5.CINA-ASPECTS has only been validated and is intended to be used in patient populations aged over 21.
+6.CINA-ASPECTS has been validated and is intended to be used with images acquired with Canon Medical Systems
+Corporation, GE Healthcare, Philips Healthcare and Siemens Healthineers scanners.
+Contraindications/Exclusions/Cautions:
+▪ Patient motion: Excessive patient motion leading to artifacts that make the scan technically inadequate.
+▪ Important streak artifacts and noisy images: Presence of important streak artifact and significant noise within the
+NCCT images that make the scan technically inadequate.
+▪ Hemorrhagic Transformation, Hematoma.
+Type of Use (Select one or both, as applicable)
+☒ Prescription Use (Part 21 CFR 801 Subpart D) ☐ Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the time to review
+instructions, search existing data sources, gather and maintain the data needed and complete and review the collection of
+information. Send comments regarding this burden estimate or any other aspect of this information collection, including suggestions
+for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK233342
+510(k) SUMMARY
+AVICENNA.AI’s CINA-ASPECTS
+Submitter
+Applicant:
+AVICENNA.AI
+ZI Athelia, 297 Av. du Mistral Bât. A,
+13600 La Ciotat France
+Contact Person:
+Stephane Berger
+Regulatory Manager
+Phone: +33 6 12 12 28 13
+E-mail: stephane.berger@avicenna.ai
+Date prepared: February 15, 2024
+Device Identification
+Name of Device: CINA-ASPECTS
+Classification Name: Radiological computer-assisted diagnostic software for
+lesions suspicious of cancer
+Regulation No: 21 CFR § 892.2060
+Product Code: POK
+Regulatory Class: Class II
+Classification Panel: Radiology devices
+Predicate Device
+The CINA-ASPECTS device is substantially equivalent to the following predicate device with regard
+to indications for use, performance, and technological characteristics:
+510(k): K200760
+Trade Name: Rapid ASPECTS
+Manufacturer: ISchemaView Inc.
+Classification Name: Radiological computer-assisted diagnostic software for
+lesions suspicious of cancer
+Regulation No: 21 CFR § 892.2060
+Product Code: POK
+Regulatory Class: Class II
+363Device Description
+CINA-ASPECTS is a standalone computer-aided diagnosis (CADx) software that processes non-
+contrast head CT (NCCT).
+CINA-ASPECTS is a standalone executable program that may be run directly from the command-
+line or through integration, deployment and use with medical image communications devices. The
+software does not interface directly with any CT scanner or data collection equipment; instead, the
+software receives non-contrast head CT (NCCT) scans identified by medical image
+communications devices, processes them using algorithmic methods involving execution of
+multiple computational steps to provide an automatic ASPECT score based on the case input file
+for the physician.
+The score includes which ASPECT regions are identified based on regional imaging features
+derived from non-contrast computed tomography (NCCT) brain image data and overlaid onto brain
+scan images. The results are generated based on the Alberta Stroke Program Early CT Score
+(ASPECTS) guidelines and provided to the clinician for review and verification. At the discretion of
+the clinician, the scores may be adjusted based on the clinician’s judgment.
+Series are processed by running the CINA-ASPECTS Image Processing Applications on non-
+contrast head CT images (NCCT) to perform the:
+Reorientation, tilt-correction of the input imaging data;
+Delineation of predefined regions of interest on the corrected input data and computing
+numerical values characterizing underlying voxel values within those regions;
+Visualizing the voxels which have contributed to the ASPECTS score (also referred to as a
+‘heat map’); and
+Labeling of these delineated regions and providing a summary score reflecting the number
+of regions with early ischemic change as per ASPECTS guidelines.
+The CINA-ASPECTS User Interface Agent provides the ASPECTS information to the clinician to
+review and edit. It also requires the confirmation by a clinician that a Large Vessel Occlusion (LVO)
+is detected. This confirmation is used by the CINA-ASPECTS to limit the detection of areas of early
+ischemic changes to the infarcted brain hemisphere selected by the user. The final summary score
+together with the regions selected and underlying voxel values are then stored in DICOM format to
+be transferred by the medical image communications device for output to a Picture Archiving and
+Communication System (PACS) or workstation.
+The CINA-ASPECTS device is made of two components:
+- The CINA-ASPECTS image processing application which reads the input file and generates
+an automatic ASPECT score and the applications outputs
+- A CINA-ASPECTS UI Agent which provides the ASPECTS information to the clinician to
+review and edit for final archiving.
+Intended Use / Indications for Use
+CINA-ASPECTS is a computer-aided diagnosis (CADx) software device used to assist the clinician
+in the assessment and characterization of brain tissue abnormalities using CT image data.
+The Software automatically reorients images, segments and analyzes ASPECTS Regions of
+lnterest (ROIs). CINA-ASPECTS extracts image data for the ROI(s) to provide analysis and
+364computer analytics based on morphological characteristics. The imaging features are then
+synthesized by an artificial intelligence algorithm into a single ASPECT (Alberta Stroke Program
+Early CT) Score.
+CINA-ASPECTS is indicated for evaluation of patients presenting for diagnostic imaging workup
+with known MCA or ICA occlusion, for evaluation of extent of disease. Extent of disease refers to
+the number of ASPECTS regions affected which is reflected in the total score. This device provides
+information that may be useful in the characterization of early ischemic (acute) brain tissue injury
+during image interpretation.
+CINA-ASPECTS provides a comparative analysis to the ASPECTS standard of care radiologist
+assessment using the ASPECTS region definitions and highlighting ROIs and numerical scoring.
+Limitations:
+1. CINA-ASPECT is not intended for primary interpretation of CT images. It is used to assist
+physician evaluation.
+2. CINA-ASPECT has been validated in patients with known MCA or ICA unilateral occlusion prior
+to ASPECTS scoring.
+3. CINA-ASPECTS is not suitable for use on brain scans displaying neurological pathologies other
+than acute stroke, such as tumors or abscesses, traumatic brain injuries, hemorrhagic
+transformation and hematoma.
+4. Use of CINA-ASPECT in clinical settings other than brain ischemia within 12 hours from time
+last known well, caused by known ICA or MCA occlusions has not been tested.
+5. CINA-ASPECTS has only been validated and is intended to be used in patient populations aged
+over 21.
+6. CINA-ASPECTS has been validated and is intended to be used with images acquired with Canon
+Medical Systems Corporation, GE Healthcare, Philips Healthcare and Siemens Healthineers
+scanners.
+Contraindications/Exclusions/Cautions:
+Patient motion: Excessive patient motion leading to artifacts that make the scan technically
+inadequate.
+Important streak artifacts and noisy images: Presence of important streak artifact and
+significant noise within the NCCT images that make the scan technically inadequate.
+Hemorrhagic Transformation, Hematoma.
+Summary of Performance Data
+The following performance data were provided in support of the substantial equivalence
+determination.
+Software Verification and Validation Testing
+CINA-ASPECTS complies with DICOM (Digital Imaging and Communications in Medicine) –
+Developed by the American College of Radiology and the National Electrical Manufacturers
+Association. NEMA PS 3.1 - 3.20.
+Avicenna.AI conducted extensive performance validation testing and software verification and
+validation testing of the CINA-ASPECTS device as standalone software. CINA-ASPECTS is tested
+against its user needs and intended use by the successful execution of planned software
+365verification and validation testing included in this submission.
+Software performance, validation and verification testing demonstrated that the CINA-ASPECTS
+met all design requirements and specifications associated with the intended use of the software.
+Standalone Performance Testing
+Standalone performance testing was conducted to comply with special controls for this device type.
+Avicenna.AI conducted a retrospective, multicenter, multinational, multi-vendor and blinded Pivotal
+Standalone Testing Performance study of CINA-ASPECTS v1.5 software used to assist the
+clinicians in the assessment and characterization of brain tissues’ abnormalities using CT image
+data.
+The Standalone Performance Testing demonstrated that the proposed device provides accurate
+representation of key processing parameters under a range of clinically relevant parameters.
+The Standalone Performance Testing dataset included 200 clinical anonymized NCCT cases
+from 5 clinical sites, distributed in two countries: US and France. It was acquired by 4 different
+scanner makers (GE, Siemens, Canon and Philips) and 27 different scanner models. The validation
+dataset was separated from the one used for the algorithm training/testing and has never been
+used in any way in the development of the software device.
+The Standalone Performance Testing study demonstrated that CINA-ASPECTS achieved its
+primary endpoint and established that CINA-ASPECTS performances generalize to a range of
+typical patient demographics, Clinical parameters, ASPECTS regions, and image acquisition
+parameters encountered in multiple clinical sites and scanner makers and models.
+The performance testing of the CINA-ASPECTS device establishes that the subject device is safe
+and effective, meets its intended use statement and is compatible with clinical use. The CINA-
+ASPECTS device performed properly and matched with the ground truth. Finally, the important
+heterogeneity of the dataset used for the device Pivotal Standalone Performance Testing and the
+good provided global and stratified performance results should guarantee enough robustness for
+generalization of its use for the intended population, ensuring the device reliability.
+Clinical studies
+Additionally, Avicenna.AI conducted a retrospective, multicenter, multinational, multi-vendor and
+blinded Clinical Multi-Reader Multi-Case (MRMC) Performance study of CINA-ASPECTS v1.5
+software used to assist the clinicians in the assessment and characterization of brain tissues’
+abnormalities using CT image data.
+The MRMC study evaluated the performance of 8 clinical readers in the assessment of ASPECTS
+for NCCT retrospective scans with and without the aid of CINA-ASPECTS. The 8 readers scored
+each of the 10 ASPECTS regions of the 200 cases independently. The panel of readers consisted
+of 4 expert neuroradiologists and 4 non-experts from different specialties (stroke neurologist,
+general radiologist, neurointensivist, vascular neurologist), representing the intended use
+population.
+366With CINA-ASPECTS the readers agreed, on average, with almost ½ a region (4.1%, [95% CI:
+3.3% - 4.9%]) more per scan than without CINA-ASPECTS. These findings are similar to the results
+reported for the predicate device.
+In addition, the overall readers’ ROC AUC also improved significantly from 0.75 (Unaided arm) to
+0.79 (Aided arm). The range in the ROC AUC between users was also narrower when assisted by
+the software, indicating a reduction in the variation of performance between different readers when
+the device’s outputs were available.
+Finally, the mean time spent per case among all readers was significantly reduced when using
+CINA-ASPECTS, indicating that the end-users’ were not only more accurate in the assessment of
+ASPECTS but also faster when the device outputs were available.
+As the study used retrospective data, there were no specific safety endpoints in the reader study.
+This study demonstrates substantial equivalence of the CINA-ASPECTS software for improving
+reader accuracy, compared to the predicate device. The results showed statistically significant
+improvement in the readers’ accuracy when using the software compared to the conventional
+manual method used in routine clinical practice.
+Substantial Equivalence
+Both proposed and predicate devices have the same intended use. Both devices are computer-
+aided diagnosis (CADx) software devices used to assist clinicians in the assessment and
+characterization of brain tissue abnormalities using CT image data.
+Both devices segment and identify ASPECTS regions and use machine learning algorithms to
+analyze image data to facilitate the evaluation of extent of disease and to identify and count the
+affected ASPECTS regions to generate an ASPECTS score. Both devices display and highlight the
+affected ASPECTS regions along with the automatically generated ASPECTS score.
+Both devices are not intended for primary interpretation of CT images and both require that cases
+processed meet prerequisite criteria such that a primary diagnosis of ICA or MCA occlusion has
+already been made by clinicians prior to accessing the processing results and the resulting
+ASPECTS score.
+Both devices include a gating condition requiring users to confirm that the case in question is for a
+confirmed ICA or MCA occlusion before processing results are made available.
+Both devices include pre-processing steps to normalize NCCT scan orientation in order to identify
+and segment ASPECTS regions on the subject NCCT scan.
+In both cases, the algorithms identify signs indicative of ischemic damage and relate these to the
+segmented ASPECTS regions in order to determine whether or not individual ASPECTS regions
+are included as contributing to a reduced ASPECT score. In both cases, the segmented ASPECTS
+regions are labelled and presented to users in the software User Interface with the regions
+highlighted depending on whether they have been determined to affect the ASPECT score or not.
+In both cases, users can manually edit and override the automated result for one or more ASPECTS
+regions by selecting the regions.
+367Both predicate and proposed devices use trained machine learning AI algorithms to analyze NCCT
+scans to identify signs indicative of ischemic damage.
+The following principal difference exists between CINA-ASPECTS and the predicate device:
+- CINA-ASPECTS is indicated for cases within 12 hours from time last known well.
+- CINA-ASPECTS uses machine learning algorithms based on deep learning techniques.
+- CINA-ASPECTS has only been validated and is intended to be used in patient populations
+aged over 21.
+- CINA-ASPECTS has been validated and is intended to be used on Canon Medical Systems
+Corporation, GE Healthcare, Philips Healthcare and Siemens Healthineers scanners
+whereas Rapid ASPECTS has been validated and is intended to be used on GE Lightspeed
+VCT Scanners.
+Table 1 compares the key features of the subject and the predicate devices.
+Table 1: Comparison of key features between CINA-ASPECTS and predicate device
+(ISchemaView Inc. Rapid ASPECTS)
+Key Feature Subject device: CINA-ASPECTS Predicate device: ISchemaView Inc.
+Software Rapid ASPECTS Software (K200760)
+Intended Use / CINA-ASPECTS is a computer-aided Rapid ASPECTS is a computer aided
+Indications for diagnosis (CADx) software device used diagnosis (CADx) software device used
+Use to assist the clinician in the assessment to assist the clinician in the assessment
+and characterization of brain tissue and characterization of brain tissue
+abnormalities using CT image data. abnormalities using CT image data.
+The Software automatically reorients The Software automatically registers
+images, segments and analyzes
+images and segments and analyzes
+ASPECTS Regions of lnterest (ROIs).
+ASPECTS Regions of Interest (ROIs).
+CINA-ASPECTS extracts image data
+Rapid ASPECTS extracts image data
+for the ROI(s) to provide analysis and
+for the ROI(s) to provide analysis and
+computer analytics based on
+computer analytics based on
+morphological characteristics. The
+morphological characteristics. The
+imaging features are then synthesized
+imaging features are then synthesized
+by an artificial intelligence algorithm
+by an artificial intelligence algorithm
+into a single ASPECT (Alberta Stroke
+into a single ASPECT (Alberta Stroke
+Program Early CT) Score.
+Program Early CT) Score.
+CINA-ASPECTS is indicated for
+Rapid ASPECTS is indicated for
+evaluation of patients presenting for
+diagnostic imaging workup with known evaluation of patients presenting for
+MCA or ICA occlusion, for evaluation of diagnostic imaging workup, or
+extent of disease. Extent of disease evaluation of extent of disease. Extent
+refers to the number of ASPECTS of disease refers to the number of
+regions affected which is reflected in ASPECTS regions affected which is
+the total score. This device provides reflected in the total score. This device
+information that may be useful in the provides information that may be useful
+characterization of early ischemic in the characterization of early ischemic
+brain tissue injury during image
+368Key Feature Subject device: CINA-ASPECTS Predicate device: ISchemaView Inc.
+Software Rapid ASPECTS Software (K200760)
+(acute) brain tissue injury during image interpretation.
+interpretation.
+Rapid ASPECTS provides a
+CINA-ASPECTS provides a comparative analysis to the ASPECTS
+comparative analysis to the ASPECTS standard of care radiologist
+standard of care radiologist assessment using the ASPECTS atlas
+assessment using the ASPECTS definitions and atlas display including
+region definitions and highlighting ROIs
+highlighted ROIs and numerical
+and numerical scoring
+scoring.
+Limitations:
+Limitations:
+1. Rapid ASPECTS is not intended for
+primary interpretation of CT images. It
+1. CINA-ASPECT is not intended for
+is used to assist physician evaluation.
+primary interpretation of CT images. It
+is used to assist physician evaluation.
+2. CINA-ASPECT has been validated in 2. Rapid ASPECTS has been validated
+patients with known MCA or ICA in patients with known MCA or ICA
+unilateral occlusion prior to ASPECTS occlusion prior to ASPECT scoring.
+scoring.
+3. CINA-ASPECTS is not suitable for
+3. Use of the Rapid ASPECTS Module
+use on brain scans displaying
+in clinical settings other than early brain
+neurological pathologies other than
+ischemia (within 6 hours) caused by
+acute stroke, such as tumors or
+abscesses, traumatic brain injuries, known ICA or MCA occlusions has not
+hemorrhagic transformation and been tested.
+hematoma.
+4. Use of CINA-ASPECT in clinical 4. Rapid ASPECTS has been validated
+settings other than brain ischemia
+and is intended to be used on GE
+within 12 hours from time last known
+Lightspeed VCT Scanners.
+well, caused by known ICA or MCA
+occlusions has not been tested.
+5. CINA-ASPECTS has only been
+validated and is intended to be used in
+patient populations aged over 21. Contraindications/Exclusions/Caution:
+6. CINA-ASPECTS has been validated • Patient Motion: excessive motion
+and is intended to be used with images leading to artifacts that make the scan
+acquired with Canon Medical Systems technically inadequate.
+Corporation, GE Healthcare, Philips
+Healthcare and Siemens Healthineers
+• Hemorrhagic Transformation,
+scanners.
+Hematoma
+• Very thin or no Ventricles
+Contraindications/Exclusions/Caution:
+Patient motion: Excessive
+patient motion leading to
+artifacts that make the scan
+technically inadequate.
+Important streak artifacts and
+noisy images: Presence of
+important streak artifact and
+369Key Feature Subject device: CINA-ASPECTS Predicate device: ISchemaView Inc.
+Software Rapid ASPECTS Software (K200760)
+significant noise within the
+NCCT images that make the
+scan technically inadequate.
+Hemorrhagic Transformation,
+Hematoma.
+Environment of Clinical/Hospital environment Clinical/Hospital environment
+use
+Primary Users Neuroradiologist/Clinician Neuroradiologist/Clinician
+Anatomical Stroke/Head Stroke/Head
+region of
+interest
+Standard of ASPECTS Scoring ASPECTS Scoring
+Care
+Representatio
+n
+Data Non-contrast head CT scans Non-contrast head CT scans
+acquisition
+protocol
+Technical AI/Deep Learning ML/AI/Random Forest
+Implementatio
+n
+Segmentation No; device does not mark, highlight, or No; device does not mark, highlight, or
+of region of direct users’ attention to a specific direct users’ attention to a specific
+interest location in the original image location in the original image
+Image Overlay ASPECTS regions, highlighted by ASPECTS regions, highlighted by
+algorithms. algorithms.
+Gating Users must confirm ICA or MCA Users must confirm LVO prior to
+Conditions occlusion prior to accessing CINA- accessing Rapid ASPECTS results
+ASPECTS results
+Alteration of No No
+original image
+data base
+370Key Feature Subject device: CINA-ASPECTS Predicate device: ISchemaView Inc.
+Software Rapid ASPECTS Software (K200760)
+Alters In parallel to In parallel to
+Standard of
+Care Workflow
+Conclusion
+In conclusion, the predicate device has the same intended use and substantially similar indications
+for use and technological characteristics as CINA-ASPECTS. Performance data demonstrates that
+CINA-ASPECTS performs as intended within the same clinically relevant parameters for the
+intended use as the predicate device. The clinical data demonstrates that CINA-ASPECTS shows
+a significant improvement in the agreement between the readers and a reference standard when
+using the CINA-ASPECTS software compared to routine clinical practice. CINA-ASPECTS is
+intended to improve reader performance in estimating an overall ASPECTS score. However, some
+imaging and anatomical factors, such as important streak and motion artifacts, beam-hardening
+artifacts, noisy images, presence of tumors, etc., may impede the NCCT interpretation by the
+device. Therefore, a particular attention must be paid to these confounding factors. The risk/benefit
+profile of CINA-ASPECTS remains favorable based on the favorable impact on readers’ overall
+aided performance in calculating an ASPECT score (as measured in the reader study), and the
+inherent inter-reader variability in identifying individual affected ASPECTS regions.
+The company believes that CINA-ASPECTS is substantially equivalent to the Rapid ASPECTS
+predicate.
+371

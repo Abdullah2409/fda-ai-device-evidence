@@ -1,0 +1,549 @@
+December 3, 2021
+Cydar Ltd.
+℅ Vanisha Mistry
+Head of Compliance
+Bulbeck Mill, Mill Lane
+Barrington, Cambs CB22 7QY
+UNITED KINGDOM
+Re: K212442
+Trade/Device Name: Cydar EV Series B, Cydar EV Maps
+Regulation Number: 21 CFR 892.1650
+Regulation Name: Image-Intensified Fluoroscopic X-Ray System
+Regulatory Class: Class II
+Product Code: OWB
+Dated: November 3, 2021
+Received: November 5, 2021
+Dear Vanisha Mistry:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK212442 - Vanisha Mistry Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+, for
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK212442
+Cydar Ltd 510(k) Submission: Cydar EV Series B
+Section 5: 510(k) Summary
+Wed Nov 3 (git: 2a6272a)
+Contents
+• S05.1 Section 5: 510(k) Summary
+• S05.1.1 Submitter Details
+• S05.1.2 Device Name
+• S05.1.3 Predicate Device Identification
+• S05.1.4 Device Description
+• S05.1.5 Statement of Intended Use
+• S05.1.5.1 Indications for Use
+• S05.1.5.2 Differences from Predicate Device
+• S05.1.6 Predicate Device Comparison
+• S05.1.7 Technological Characteristics
+• S05.1.8 Performance Data
+• S05.1.9 Benefit- Risk Conclusion
+S05.1 Section 5: 510(k) Summary
+S05.1.1 Submitter Details
+Business Name Cydar Ltd
+Address Bulbeck Mill
+Barrington
+Cambridgeshire
+CB22 7QY
+UK
+Contact person:
+Section 5: 510(k) Summary Page 1 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+Name Rob Hague
+Position CTO
+Phone number +44 1223 778 020
+Email rob.hague@cydar.co.uk
+US Agent:
+Contact Name Michael van der Woude
+Business Name Emergo Global Representation LLC
+Address 2500 Bee Cave Road
+Bldg 1, Suite 300
+Austin, TX 78746
+United States
+Phone 512 327-9997
+Fax 512 327-9998
+Email USAgent@UL.com
+This summary was prepared on 2021-11-03.
+S05.1.2 Device Name
+The device is know as Cydar EV. It is an an evolution of a previous device of the same name, which is the subject
+of 510(k) K160088. To distinguish the two devices, the older device is referred to as Cydar EV Series A, and the
+device that is the subject of this application Cydar EV Series B. Unless otherwise stated, Cydar EV in this
+application refers to the subject device, Cydar EV Series B.
+Both devices are referred to as Cydar EV or Cydar EV Maps in all literature supplied to the user, with a version
+number to distinguish a specific release of the software. At the time Cydar EV Series B is placed on the market, the
+next version number will be assigned to the first release of that device.
+Type of 510(k) Submission Traditional
+Trade or Proprietary Name Cydar EV Also referred to as Cydar EV Series B, Cydar EV Maps
+Common or Usual Name Interventional Fluoroscopic X-Ray System
+Regulation Number 21 CFR 892.1650
+Product Code OWB, Interventional Fluoroscopic X-Ray System
+Class of Device Class II
+Panel Radiology
+Multiple Devices None.
+Section 5: 510(k) Summary Page 2 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+S05.1.3 Predicate Device Identification
+All aspects of Cydar EV's functionality are substantially equivalent to one or both legally marketed predicate
+devices listed below.
+Device Manufacturer 510(k) Scope
+Cydar EV (primary predicate) Cydar Ltd K160088 CT import, intra-operative overlay, post-operative review
+Endosize Therenva SAS K141475 Measurements and segmentation on CT scans
+S05.1.4 Device Description
+Cydar EV is a Software-as-a-Service product and consists only of the software running on Cydar’s cloud servers.
+Cydar EV enables expert clinical users to build an operative plan, called a Pre-operative Map, which consists of 3D
+blood vessel anatomy from the patient’s CT scan, measurements, and other annotations deemed relevant by the
+clinical user. During surgery, Cydar EV’s fusion imaging superimposes the Pre-operative Map on a duplicated
+display of the X-ray fluoroscopy. The clinical users can interact and non-rigidly transform a copy of the Map,
+called the Adjusted Map, when they see that the real-time anatomy has deformed. After surgery, clinical users can
+review data about the case via the web interface.
+No specific accessories are required for the use of Cydar EV. The software is provided as a service and accessed via
+standard web browser. For intra-operative fusion imaging use, the browser is run on a client PC device called the
+Cydar Appliance. The Cydar Appliance is an off-the-shelf PC with an off-the-shelf video frame grabber and is not in
+itself a medical device nor considered in the scope of this 510(k) submission. The Windows image on the PC (ie
+Cydar Appliance) is controlled by Cydar and not configurable by the end-user. The Cydar Appliance may display
+its output on one or more external monitors via standard video connections e.g DVI or HDMI (in addition to any
+built-in display). A particular installation of the PC (ie Cydar Appliance) may provide a touchscreen and/ or
+peripheral devices such as mice, trackpads, keyboards, and handheld remote control to operate the user
+interface of the Cydar EV service. The software implementing the upload of CT scans in DICOM format (‘Cydar
+Gateway ‘) is a medical image communications device and is therefore also not considered in the scope of this
+510(k) submission.
+S05.1.5 Statement of Intended Use
+Cydar EV provides tools to:
+• Import and visualise CT data
+• Segment and annotate vascular anatomy from CT data
+• Place and edit virtual guidewires and measure lengths on them
+• Make measurements of anatomical structures on planar sections of the CT data
+• Produce an operative plan from measurements and segmentation of preoperative vessel anatomy
+• Overlay planning information such as preoperative vessel anatomy onto live fluoroscopic images, aligned
+based on the position of anatomical features present in both
+• Non-rigidly transform the visualisation of anatomy when intra-operative vessel deformation is observed
+• Post-operatively review data relating to procedures where the system was used
+S05.1.5.1 Indications for Use
+Section 5: 510(k) Summary Page 3 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+Cydar EV is intended to assist fluoroscopic X-ray guided endovascular procedures in the chest, abdomen, and
+pelvis by presenting the operative plan in the context of intraoperative fluoroscopy.
+Cydar EV is intended to be used for patients undergoing a fluoroscopic X-ray guided endovascular surgery in the
+chest abdomen and pelvis, and who have had a pre-operative CT-scan.
+The performance of the Cydar EV software in the presence of immature vertebral anatomy is unknown. The
+Instructions for Use explicitly state this uncertainty and that the software is therefore not recommended for use in
+patients under the age of 18.
+IMPORTANT: Pre-Operative Maps show static anatomy derived from the pre-operative CT. Real-time
+anatomy moves with the cardiorespiratory cycle; progressive disease may cause the anatomy to change over
+time; and stiff wires, stents or other surgical instruments, may straighten and displace blood vessels from the pre-
+operative position
+It is therefore mandatory to check the real-time anatomy with a suitable imaging technique, such as
+contrast angiography, before deploying any invasive medical device.
+S05.1.5.2 Differences from Predicate Device
+The Indications for Use for Cydar EV Series B are similar to those for Cydar EV Series A (identified as the primary
+predicate device), with the addition of measurement functionality similar to that indicated for Endosize. Where
+there are differences, the clinical data demonstrates that this does not impact safety or performance. More detail
+on this correspondence is provided in the next section.
+S05.1.6 Predicate Device Comparison
+The following table compares the Cydar EV Series B to the predicate devices with respect to indications for use,
+principles of operation, technological characteristics, materials, and performance testing. The comparison of the
+devices provides more detailed information regarding the basis for the determination of substantial equivalence.
+The subject device does not raise any new issues of safety or effectiveness based on the similarities to the
+predicate device.
+Conclusion: No difference in intended surgical interventions between these devices. However the intended
+targeted anatomy is clarified in Cydar EV Series B. See section (add Section references)in this summary.
+Assessment Cydar EV Series B Cydar EV Series A EndoSize Identified differences or
+Criteria Cydar Medical Ltd Cydar Medical Ltd Therenva conclusion of no difference
+Device under Primary Equivalent Device Secondary Equivalent
+assessment K160088 Device
+K141475
+1. Technical Characteristics
+Section 5: 510(k) Summary Page 4 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+Assessment Cydar EV Series B Cydar EV Series A EndoSize Identified differences or
+Criteria Cydar Medical Ltd Cydar Medical Ltd Therenva conclusion of no difference
+Device under Primary Equivalent Device Secondary Equivalent
+assessment K160088 Device
+K141475
+Intended Use Cydar EV provides tools Cydar EV is intended to EndoSize is a software Conclusion: Cydar EV Series B
+to: display combined live 2D X- solution that is intended is similar intended use to the
+ray fluoroscopy and 3D to provide Physicians and primary predicate device
+• Import and visualise CT
+anatomy for image guidance Clinical Specialists with differing only in additional
+data
+during surgery. additional information to features; placement and
+• Segment and annotate
+assist them in reading and editing virtual guidewires,
+vascular anatomy from Features of the device
+interpreting DICOM CT measurement of lengths and
+CT data include:
+scan images of structures measurement of anatomical
+• Place and edit virtual
+of the heart and vessels. structures on planar sections
+Import and visualise CT scan
+guidewires and
+of CT data is similar to the
+data.
+measure lengths on EndoSize enables the user
+secondary predicate device.
+them to visualize and measure
+Segment and annotate Measurement accuracy
+• Make measurements of (diameters, lengths,
+vascular anatomy from CT verification testing and
+anatomical structures volumes, angles)
+data. summative user study is
+on planar sections of structures of the heart
+performed as part of the
+the CT data Produce an operative plan and vessels. design and development
+• Produce an operative
+process
+plan from Overlay planning
+measurements and information such
+segmentation of as preoperative vessel
+preoperative vessel anatomy onto live
+anatomy fluoroscopic images, aligned
+• Overlay planning based on the position of
+information such as anatomical features present
+preoperative vessel in the fluoroscopic images.
+anatomy onto live
+Non-rigidly transform the
+fluoroscopic images,
+visualisation of anatomy
+aligned based on the
+when intra-operative vessel
+position of anatomical
+deformation is observed.
+features present in both
+• Non-rigidly transform
+the visualisation of
+anatomy when intra-
+operative vessel
+deformation is
+observed
+• Post-operatively review
+data relating to
+procedures where the
+system was used
+Section 5: 510(k) Summary Page 5 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+Assessment Cydar EV Series B Cydar EV Series A EndoSize Identified differences or
+Criteria Cydar Medical Ltd Cydar Medical Ltd Therenva conclusion of no difference
+Device under Primary Equivalent Device Secondary Equivalent
+assessment K160088 Device
+K141475
+Indications for Cydar EV is intended to Cydar EV provides image Therenva Endosize Conclusion: Changes in
+use assist fluoroscopic X-ray guidance by overlaying enables visualization and wording clarifying target
+guided endovascular preoperative 3D vessel measurement of anatomy between Cydar EV
+procedures in the chest, anatomy from a previously structures of the heart Series B and primary predicate
+abdomen, and pelvis by acquired contrast- and vessels for pre- are detailed in the section
+presenting the operative enhanced, diagnostic CT operational planning and beneath this table. Other
+plan in the context of scan onto live X-ray sizing for cardiovascular differences these statements
+intraoperative fluoroscopy images in order interventions and surgery includes clarifications for the
+fluoroscopy. to assist in the positioning of following which are present
+General functionalities
+guidewires, catheters and and equivalent in both
+Cydar EV is intended to be are provided such as:
+other endovascular devices. devices:
+used for patients
+• Segmentation of
+undergoing a fluoroscopic Cydar EV is intended to Adjustment in anatomy to
+cardiovascular
+X-ray guided endovascular assist X-ray fluoroscopy- have the option to non-rigidly
+structures
+surgery in the chest guided endovascular transform the visualisation of
+• Automatic and manual
+abdomen and pelvis, and procedures in the lower the anatomy in the Map
+centreline detection
+who have had a pre- thorax, abdomen and pelvis.
+• Visualisation of CT scan Statement clarifies device has
+operative CT-scan. Suitable procedures include
+images in every planes, not been tested on under 18's
+endovascular aortic
+The performance of the 2D review, 3D immature vertebral anatomy.
+aneurysm repair,
+Cydar EV software in the reconstruction, Volume
+angioplasty, stenting and
+Cydar EV series B allows
+presence of immature Rendering, MPR,
+embolization in the
+preoperative and
+vertebral anatomy is Stretched CMPR
+common iliac, proximal
+intraoperative imaging,
+unknown. The • Measurement and
+external iliac and proximal
+Endosize allows preoperative
+Instructions for Use annotation tools
+internal iliac arteries and
+imaging only.Other differences
+explicitly state this • Reporting tools
+corresponding veins.
+between Cydar EV Series B and
+uncertainty and that the
+primary predicate are as
+software is therefore not Cydar EV is not intended for
+detailed in the section beneath
+recommended for use in use in X-ray guided
+this table, the additional
+patients under the age of procedures in the liver,
+features: placement and
+18. kidneys or pelvic organs.
+editing virtual guidewires,
+IMPORTANT: Pre- measurement of lengths and
+Operative Maps show measurement of anatomical
+static anatomy derived structures on planar sections
+from the pre-operative of CT data. Measurement
+CT. Real-time anatomy accuracy verification testing
+moves with the and summative user study is
+cardiorespiratory cycle; performed as part of the
+progressive disease may design and development
+cause the anatomy to process.
+change over time; and stiff
+wires, stents or other
+surgical instruments, may
+straighten and displace
+blood vessels from the
+pre-operative position
+It is therefore
+mandatory to check the
+real-time anatomy with
+a suitable imaging
+technique, such as
+contrast angiography,
+before deploying any
+invasive medical device.
+Section 5: 510(k) Summary Page 6 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+Assessment Cydar EV Series B Cydar EV Series A EndoSize Identified differences or
+Criteria Cydar Medical Ltd Cydar Medical Ltd Therenva conclusion of no difference
+Device under Primary Equivalent Device Secondary Equivalent
+assessment K160088 Device
+K141475
+Classification OWB; Interventional OWB; Interventional LLZ ; System image OWB sufficiently covers the
+Product code / Fluoroscopic X-Ray Fluoroscopic X-Ray System processing radiology intended use of Cydar EV.
+regulation System: Regulation: Regulation Regulation: Regulation: 892.2050
+892.1660 892.1660
+Construction Software product Software product Software Product No difference
+Performance Preoperative planning: Preoperative planning: Preoperative planning: Conclusion: Difference
+Import and visualise CT Import and visualise CT Visualisation, annotations between Cydar EV Series B and
+data; Segment and data; Segment and annotate and measurement primary predicate are features;
+annotate vascular vascular anatomy from CT performed by clinicians place and edit virtual
+anatomy from CT data; data; Visualise the intended to provide guidewires and measure
+Place and edit virtual segmented vascular referring physicians with lengths on them and make
+guidewires and measure anatomy, annotations +/- clinically relevant measurements of anatomical
+lengths on them; Make measurements together (the information for diagnosis, structures on planar sections
+measurements of ‘Operative Plan’) surgery, and treatment of the CT data
+anatomical structures on planning.
+Intra-operative (Fusion EndoSize is indicated for
+planar sections of the CT
+imaging functions: Overlay preoperative planning only
+data; Visualise the
+planning information such
+segmented vascular
+Measurement accuracy
+as preoperative vessel
+anatomy, annotations +/-
+verification testing and
+anatomy onto live
+measurements together
+summative user study is
+fluoroscopic images, aligned
+(the ‘Operative Plan’)
+performed as part of the
+based on the position of
+design and development
+Intra-operative (Fusion anatomical features present
+process
+imaging functions): in both; Non-rigidly
+Overlay planning transform the visualisation
+information such as of anatomy when intra-
+preoperative vessel operative vessel
+anatomy onto live deformation is observed
+fluoroscopic images,
+Post-operative (Review
+aligned based on the
+functions): Post-operatively
+position of anatomical
+review data relating to
+features present in both;
+procedures where the
+Non-rigidly transform the
+system was used
+visualisation of anatomy
+when intra-operative
+vessel deformation is
+observed
+Post-operative (Review
+functions): Post-
+operatively review data
+relating to procedures
+where the system was
+used
+Section 5: 510(k) Summary Page 7 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+Assessment Cydar EV Series B Cydar EV Series A EndoSize Identified differences or
+Criteria Cydar Medical Ltd Cydar Medical Ltd Therenva conclusion of no difference
+Device under Primary Equivalent Device Secondary Equivalent
+assessment K160088 Device
+K141475
+Design Cydar EV Series B device is Cydar EV is a software only EndoSize is a software- Conclusion: No difference to
+a software only medical medical device that runs on only device that runs on a design between Cydar EV
+device that runs on a a standard computer that standard computer that Series B and primary
+standard computer that meets the minimum meets the minimum predicate, this includes no
+meets the minimum requirements. It can use requirements. It can use difference to algorithim or
+requirements. It can use local DICOM files or distant local DICOM files or development process.
+local DICOM files or PACS server. The device distant PACS server. The
+distant PACS server. The does not contact the device does not contact
+device does not contact patient, nor does it control the patient, nor does it
+the patient, nor does it any life sustaining devices. control any life sustaining
+control any life sustaining The information and devices. The information
+devices. The information measurements displayed, and measurements
+and measurements exported or printed are displayed, exported or
+displayed, exported or validated and interpreted by printed are validated and
+printed are validated and Physicians. interpreted by Physicians.
+interpreted by Physicians.
+EV complies with the DICOM EndoSize complies with
+EV Maps complies with voluntary standards (ACR/ the DICOM voluntary
+the DICOM voluntary NEMA Digital Imaging and standards (ACR/NEMA
+standards (ACR/NEMA Communication in Digital Imaging and
+Digital Imaging and Medicine). Communication in
+Communication in Medicine)
+Medicine).
+2. Clinical Characteristics
+Same clinical Cydar EV is intended only Cydar EV (Series A) is Intended for patients who
+condition or to be used for patients intended to assist require cardiovascular
+purpose, undergoing a fluoroscopic fluoroscopy-guided interventions, EVAR,
+including X-ray guided endovascular endovascular procedures in TEVAR, TAVI and
+similar surgery in the chest, the lower thorax, abdomen Peripheral
+severity and abdomen, and pelvis, and and pelvis. Suitable
+stage of who have had a pre- procedures include (but are
+disease operative CT-scan. not limited to) endovascular
+aortic aneurysm repair, (AAA
+The clinical procedures
+and mid-distal TAA),
+indicated for the Cydar EV
+stenting, and embolisation
+devices are the same. For
+in the common iliac,
+these procedures a
+proximal external iliac and
+clinical specialist will
+proximal internal iliac
+determine the stage of
+arteries and their
+disease is advanced and
+corresponding veins. Cydar
+requires intervention.
+EV (Series A) is not intended
+Cydar EV devices are used
+for use in X-ray guided
+for guidance during the
+procedures in the liver,
+procedure.
+kidneys or pelvis organs.
+Anatomical Device is used indicated Device is used indicated for Device is used indicated No significant difference. The
+Site for fluoroscopic X-ray fluoroscopic X-ray guided for heart and vessels anatomy is clarified in this
+guided endovascular endovascular procedures in document (add Section
+procedures in the chest, the lower thorax, references).
+abdomen, and pelvis abdomen, and pelvis
+Section 5: 510(k) Summary Page 8 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+Assessment Cydar EV Series B Cydar EV Series A EndoSize Identified differences or
+Criteria Cydar Medical Ltd Cydar Medical Ltd Therenva conclusion of no difference
+Device under Primary Equivalent Device Secondary Equivalent
+assessment K160088 Device
+K141475
+User Profile The target clinical users The target clinical users for Physicians and clinical No difference in targeted users
+for the Cydar EV Series B the Cydar EV Series B device specialists, users involved
+device are experienced are experienced medical in preoperative planning
+medical practitioners practitioners specialising in
+specialising in endovascular surgery (such
+endovascular surgery as vascular surgeons and
+(such as vascular interventional radiologists)
+surgeons and radiographers, and
+interventional specialist nurses.
+radiologists)
+radiographers, and
+specialist nurses. Other
+users of the planning
+functions may include
+medical device company
+representatives and
+product specialists.
+Patient No patient contact No patient contact No patient contact No difference
+Contact
+Clinical Operating room, office Operating room, office Office (during procedure Conclusion: No significant
+Environment (during planning) (during procedure planning) planning) difference. Cydar EV Series B
+and secondary predicate differ
+slightly in intended clinical
+environment as the predicate
+is not intended for intra-
+operative use.
+3. Non-clinical performance data
+Standards IEC 62304 IEC 62304 IEC 62304 Equivalent standards applied
+IEC 62366 IEC 62366 ISO 14971
+ISO 14971 ISO 14971
+NEMA PS 3.1- Applied Applied Applied Conclusion: No difference
+3.20 DICOM
+The changes in wording of the Indications for Use statement from Cydar EV Series A (predicate) to B (device under
+review) are for the purposes of simplicity and clarity and do not convey any change in the clinical use, accuracy,
+reliability, safety, or performance. The change in wording from ‘lower thorax’ to ‘chest’ is for consistency in
+conveying the intended clinical use, as opposed to mode of action. The update in wording to remove statements
+pertaining to use in solid organs is clarified by the restriction to use in endovascular surgery. Cydar EV Series B
+described in this 510(k) has similar intended use as Cydar EV Series A, differing only in the additional features;
+Placement and editing virtual guidewires and measurement of lengths and measurement of anatomical
+structures on planar sections of CT data. The second predicate device; Endosize does include these features and
+is intended for preoperative planning only.
+The subject device has undergone verification and validation activities to ensuring function and performance is
+as well as the predicate device and the additional features provide accurate and reliable outputs. The results
+support that the subject is substantially equivalent to the predicate devices.
+Section 5: 510(k) Summary Page 9 of 10Cydar Ltd 510(k) Submission: Cydar EV Series B
+S05.1.7 Technological Characteristics
+Cydar EV, the subject device, is a software medical device, it does not contact the patient, nor does it control any
+life sustaining device. The use of this software in pre-operative planning, intra-operative mapping and post-
+operative follow-up is dependant on the interpretation of trained clinical specialists.
+S05.1.8 Performance Data
+Software verification and validation were conducted to establish the performance, functionality and reliability
+characteristics of this device, with particular focus on the modified features. The device has passed all of the tests
+beased on pre-determined Pass/Fail criteria.
+S05.1.9 Benefit- Risk Conclusion
+The device under review is substantially equivalent in the areas of general function, application, technical
+characteristics and use. The intended use differs only in differing only in additional features; Placement and
+editing virtual guidewires and measurement of lengths and measurement of anatomical structures on planar
+sections of CT data. The device does not introduce a fundamentally new scientific technology and has undergone
+bench testing to verify accuracy and user validation. Therefore, we conclude the benefits of Cydar EV when used
+according to the indications for use outweighs risks identified.
+Section 5: 510(k) Summary Page 10 of 10

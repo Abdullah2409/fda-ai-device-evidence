@@ -1,0 +1,1439 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I. GENERAL INFORMATION
+Device Generic Name: MarginProbe System
+Device Trade Name: MarginProbe System
+Device Procode: OEE
+Applicant’s Name and Address:
+Dune Medical Devices, Inc.
+111 Speen St, Suite 101
+Framingham, MA 01701
+United States
+Date of Panel Recommendation: June 21, 2012
+Premarket Approval Application (PMA) Number: P110014
+Date of FDA Notice of Approval: December 27, 2012
+Expedited:
+Granted expedited review status on April 29, 2011 because the device is 1st of a kind. It
+represents a breakthrough technology that may offer a clinically meaningful advantage in
+providing intraoperative indication of the margin status as an adjunct to standard of care during
+breast conserving surgery, lumpectomy procedures for breast carcinoma, which may be serious
+or life-threatening, or present a risk of serious morbidity.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 1II. INDICATIONS FOR USE
+The Dune MarginProbe™ System is an adjunctive diagnostic tool for identification of cancerous
+tissue at the margins (≤ 1mm) of the main ex-vivo lumpectomy specimen following primary
+excision and is indicated for intraoperative use, in conjunction with standard methods (such as
+intraoperative imaging and palpation) in patients undergoing breast lumpectomy surgery for
+previously diagnosed breast cancer.
+III. CONTRAINDICATIONS
+The Dune MarginProbe™ System should not be used:
+ To replace standard tissue histopathology assessment
+ On ex-vivo lumpectomy specimens that have been exposed to saline, ultrasound gel or local
+anesthetic solutions.
+ On in-vivo tissue (i.e. it should not be used within the lumpectomy cavity)
+ On tissues other than breast tissue (i.e. it should not be used on Sentinel Lymph Nodes)
+ Closer than 1.5 mm to a fine needle localization guidewire
+IV. WARNINGS AND PRECAUTIONS
+The warnings and precautions can be found in the Dune MarginProbe™ System labeling.
+V. DEVICE DESCRIPTION
+The Dune MarginProbe™ System utilizes RF spectroscopy to to measure the dielectric
+properties of ex-vivo breast lumpectomy tissue and to characterize it as malignant (positive) or
+normal (negative).
+A. Overview
+The MarginProbe System (see Figure 1) is a medical device, utilizing electromagnetic
+waves, comprised of a probe and a console that are packaged and sold separately.
+ The console has a user interface system with display, audio components and
+operation buttons. There are three software components installed on the console of
+the MarginProbe System: the system main manager application software, the software
+that processes the calibration and classification, and the software for the RF interface
+between the probe and the console.
+ The probe is a detachable, sterile, single-use, single-patient component. It is
+connected to the console by two RF cables and a vacuum tube, via a single connector.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 2Figure 1 - MarginProbe™ System
+The system block diagram (Figure 2) depicts the modules for two-way signal handling,
+including: generation and collection, a vacuum-based tissue attachment module, a
+memory module which stores data that enables characterization of tissue, a signal
+analysis software module, a classification software module which classifies the measured
+signals based on pre-established criteria, and a user interface module including display
+unit, an audio unit, and a control panel.
+Figure 2 - System Block Diagram
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 3The MarginProbe System Probe is used to sample the entire surface of the specimen (see
+Figure 3). Users are advised to take approximately 5-8 measurements per margin
+surface.
+Figure 3 - Probe Applied to Tissue
+Readings are displayed on the MarginProbe System Console as either positive or negative
+(see Figure 4).
+If any one of the readings is positive, the ex-vivo lumpectomy margin should be
+considered positive, and an appropriate surgical action should be taken.
+Figure 4 - Data Display on Console Screen
+B. Design
+The MarginProbe™ System is designed based on the principles of dielectric spectroscopy
+to characterize tissue. It applies an electric field to the tissue through a sensor mounted at
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 4the tip of the probe and analyzes the reflection over wide range of RF frequencies. The
+sensor itself [the Fringe Field Sensor (FFS)] generates an oscillating transient electrical
+field in a small volume of tissue by employing the fringe field effect present at the edge
+of conductors.
+The RF fields, which are applied locally, generate a transient electromagnetic field only
+in the immediate vicinity of the tissue touching the sensor. The volume of tissue in which
+this interaction occurs is about 100 mm3. The energy applied per measurement is lower
+than 0.2 mJ. The power level in the immediate vicinity of the sensor is lower than 3 mW.
+This power level is sustained only during the short measurement time of 60 msec. The
+maximum voltage that the device can generate (P-P) at the tissue interface is 1.0 volts.
+The probe has a footprint of 1.6 cm in diameter and effective measurement area of 7 mm.
+A light vacuum (0.4-0.6 ATM) secures the probe to the tissue and the sensor
+automatically moves into contact with the tissue. It applies an electric field to the tissue
+through a sensor mounted at the tip of the probe and analyzes the reflection over wide
+range of RF frequencies. The sensor itself [the Fringe Field Sensor (FFS)] generates an
+oscillating transient electrical field in a small volume of tissue by employing the fringe
+field effect present at the edge of conductors (see Figure 5).
+ The sensor generates RF electromagnetic fields
+at 50MHz – 500MHz
+ Measures a surface area of tissue 7 mm in
+diameter, adjacent to the sensor
+ Low energy delivered to tissue (< 0.6 mJ)
+ Fringe field resonating sensor. The sensor
+characteristics (e.g. frequency and amplitude)
+are dependent on tissue properties.
+ The algorithm and clinical studies for
+MarginProbe™ device assessed lumpectomy
+tissue readings at the surface margins ≤ 1 mm
+in depth.
+Figure 5 - Fringe Field Sensor (FFS) at Probe Tip
+The FFS creates an electromagnetic field which is exponentially decaying in the tissue.
+The deterioration is by a factor of 0.379 (1/e) at ~ 1.5 mm of tissue penetration, and by a
+factor of 0.135 (1/e^2) at ~ 3 mm of tissue penetration. The field decays by
+approximately 60% through the first 1.5mm of tissue and by approximately 80% through
+the first 3mm of tissue.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 5The algorithm and clinical studies for MarginProbe™ device assessed lumpectomy tissue
+readings at the surface margins ≤ 1 mm in depth.
+When a measurement is performed, reflected signals from the FFS are collected and
+analyzed by the system. The resonance frequency and the amplitude of the reflection
+change significantly with the change in tissue properties. An example of reflected
+waveforms is presented in Figure 6, which shows the different reflection profiles
+measured from confirmed malignant and normal tissue.
+Figure 6 - Malignant and Non-Malignant Tissue Sensor Response
+The sensor, by design, has a resonance frequency which depends on the properties of the
+material adjacent to its surface. Typically, the resonance frequency (the dip frequency)
+and the amplitude of the signal at this frequency will differ between cancerous and
+normal tissues. The positive/negative MarginProbe reading is achieved by applying a
+classification algorithm to determine if the tissue is malignant (Figure 7).
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 6Figure 7: Classification of Tissue with the Dune MarginProbe™ System
+C. Classification Algorithm
+The algorithm is responsible for assigning the classification (i.e., cancer positive or
+cancer negative) of the tissue measurement. The positive or negative assignment is based
+on the impedance and frequency parameters of the measured signal when compared to a
+threshold derived from known values of cancerous and non-cancerous measurements in
+breast tissue. This signal is received by the software module which characterizes it by a
+set of parameters. As can be seen from Figure 8, the two main characteristics of the
+response signal are frequency at resonance (f0) and the amplitude at resonance (|R|dip).
+Figure 8 - Schematic Representation of the Sensor's Response
+The classification algorithm is implemented on an embedded processor hardware system.
+The algorithm includes two types of data sets: one type to identify the best classifiers and
+the basic classification criteria at the point level, and a second type to fine-tune the
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 7decision line based on comparison of margin (face) level data (device readings and
+histology).
+The basic principle used for device development is the difference in dielectric properties
+between malignant and benign tissues. Two quantities are used to characterize the tissue
+adjacent to the probe sensor as malignant or benign: the resonant frequency (frequency at
+which the received signal amplitude reaches a minimum) and the impedance measured at
+that frequency. For each point measurement, i.e., for each measurement taken with the
+probe at a particular location, these two quantities can be plotted in a 2D space called the
+2D phase space, as shown in Figure 9. The classification algorithm partitions the data
+points in the 2D phase space into two sets: one set that is called positive by the device,
+and the other set is called negative.
+Figure 9 - The 2D Phase Space. Each point-level data is represented as a point in the
+2D space of resonance frequency and impedance at resonance.
+Data from malignant tissue are represented in red (solid red for cancer > 30%, and circle
+red for cancer < 30%), and those from benign tissue are represented in blue. That the red
+and blue point clouds overlap--meaning that the device is not perfect in distinguishing
+between malignant and benign tissue.
+D. Changes Between the Clinical and Commercial Product
+The system used in the investigational study is named MarginProbe™ (MP) Type 1.0. In
+parallel, the sponsor developed and released a commercial version intended only for the
+EU market. This commercial system was modified later to be identical in performance
+and algorithm to the MP Type 1.0 system.
+Compared to Type 1.0 used in the pivotal clinical trial, the MarginProbe™ System Type
+1.1 has sustained development changes in the external appearance of the device,
+including reduction of the device weight.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 8For the console software, changes were made to: platform operating system; application
+software development tool and programming language; and addition of product use
+security features (limits to number of measurements and time for use).
+For the probe, changes were made to: probe fabrication process (PCB connection with
+cables and O-ring assembly; nipple design (purchased part); cable connectors; CPC
+mechanics (Calibration module).
+There were no changes to the device principles of operation or performance. In the
+disposable probe, all parts that contact the tissue remained the same. The sensor sensing
+element, attachment mechanism, user interface, and classification algorithm all remain
+identical to those in the MarginProbe System Type 1.0. There were no changes to the
+probe packaging and sterilization processing. Assessment of all these changes via
+verification and validation activities, as well as a system level test, demonstrated no
+impact on performance or use of the MarginProbe System.
+Additionally, a system level equivalence test that was performed incorporated material
+samples representative of heterogeneous human breast tissue, including types of invasive
+and in situ cancers, fat, and normal tissues. The 236 different samples were selected
+randomly from all possible samples in the target breast tissue population to reflect the full
+range of possible sensor readings from lumpectomy specimens. The range of materials
+used in the test spans the full range of measurements on heterogeneous breast tissue
+lumpectomy specimens. This test demonstrated equivalence of the MarginProbe System
+Type 1.0 and MarginProbe System Type 1.1 as shown in Table 1.
+In addition, a confirmatory equivalence study was conducted to compare the performance
+of the MarginProbe System Type 1.0 to MarginProbe System 1.1 using human breast
+tissue in which specific point measurements were made by each device type on both
+normal and malignant breast tissues. The testing was performed on more than 200
+measurements, from 12 lumpectomy specimens. Three specimens had positive margins.
+Matched device readings using both systems demonstrate nearly perfect concordance
+between readings from the two versions of the MarginProbe System on lumpectomy
+specimens. These results further validate the equivalence between the two versions of the
+MarginProbe System and support the use of the pivotal trial results, conducted with
+MarginProbe System Type 1.0, to represent the performance expected from the
+commercially available MarginProbe System Type 1.1 device.
+Table 1 - Summary of Equivalence Test Results
+Test Number of samples Equivalence Repeatability (Type
+1.1)
+Samples representative of 236 99.1% (234/236) 100% (236/236)
+heterogeneous breast tissue [95% CI: 97 – 100] [95% CI: 98.5 – 100]
+Breast tissue 214 98.6% (211/214) 100% (214/214)
+[95% CI: 96.0 - [95% CI: 98.3-100]
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 999.7]
+VI. ALTERNATIVE PRACTICES AND PROCEDURES
+There are several other alternative adjunctive diagnostic methods for identifying cancerous tissue
+at the margins of the ex-vivo lumpectomy specimen. Alternative procedures include gross
+examination of the ex-vivo lumpectomy specimen, palpation of the ex-vivo lumpectomy
+specimen, palpation of the lumpectomy cavity, lumpectomy specimen imaging by radiography,
+lumpectomy specimen imaging by ultrasound, frozen section analysis of the margins, and touch
+prep cytology of the margins. Each alternative has its own advantages and disadvantages. A
+patient should fully discuss these alternatives with her physician to select the method(s) that best
+meets expectations and lifestyle.
+VII. MARKETING HISTORY
+MarginProbe is commercially available in Germany, Switzerland, and Israel. MarginProbe has
+not been withdrawn from the market in any foreign market for reasons related to safety and
+effectiveness of the device.
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+Below is a list of the potential adverse effects (e.g., complications) associated with the use of the
+device.
+ Extension of procedure time
+ Errors in device reading
+ Unnecessary removal of healthy tissue with a potential negative impact on cosmetic
+results or cosmetic appearance.
+ Infection
+ Local tissue damage
+ Bleeding
+For the specific adverse events that occurred in the clinical studies, please see Section X below.
+IX. SUMMARY OF PRECLINICAL STUDIES
+A. System Level Testing
+System Level Testing was done for: safety, EMC, Immunity, software and hardware
+verification & validation, and performance equivalency between clinical and commercial
+systems. Testing for the system includes a console and a probe that met the established
+specifications for the planned commercial product.
+These testings are summarized in Table 2.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 10Table 2 - Summary of System Level Testing
+SYSTEM-LEVEL
+TESTING TEST SUBJECT TEST RESULTS
+(CONSOLE +
+PROBE)
+Safety testing was performed, by The MarginProbe System type 1.1
+the Standards Institution of passed all tests.
+Israel (SII) according to the IEC
+Safety Test
+60601-1 standard following the
+CB scheme procedure.
+Electromagnetic Compatibility Analysis of test results demonstrated
+testing was performed by the that MarginProbe System Type 1.1
+EMC Test Standards Institution of Israel complies with IEC 60601-1-2
+(SII), in accordance to the IEC Electromagnetic Compatibility
+60601-1-2 standard. requirements.
+Immunity testing was performed The MarginProbe System is
+to show that for the expected immune to strong CW
+disturbance signal strengths the
+RPT-R&D-00122 radiation. A measurement
+signal parameter deviations are
+Immunity Test of disqualification was observed
+small, such that system
+Signal
+performance is not influenced. for large disturbing signals.
+Characteristics
+When the disturbing signal is
+very large, the measurement is
+disqualified.
+The verification tests encompass
+The SW Verification results
+the system SW tests, regression
+Software demonstrate all tests as ‘passed,’
+tests, load tests and stress tests
+Verification therefore verification was completed
+and are performed according to
+successfully.
+defined testing procedures.
+The SW validation results
+SW Validation tests software’s demonstrate all tests as ‘passed,’
+Software Validation
+functionality and performance. therefore validation was completed
+successfully.
+Verification tests were
+conducted on the system’s
+hardware to verify that probe
+All hardware verification tests
+requirements, console
+HW-02-011
+requirements, probe user for the MarginProbe System
+Hardware
+interface, console user interface passed acceptance criteria and
+Verification
+and console maintenance, meet met required specifications.
+requirements set forth in the
+Design Input and Specification
+Documents.
+A system level test was Testing results on 236 samples
+performed to demonstrate that representing heterogeneous breast
+RPT-R&D-00119
+the performance of the tissue of varying tissue type
+MarginProbe
+MarginProbe System Type 1.1 composition demonstrated that the
+System Type 1.0
+(MP Type 1.1) and clinical commercial product (MP Type 1.1)
+and Type 1.1
+system MarginProbe System and the clinical product (MP Type
+Equivalence Test
+Type 1.0 (MP Type 1.0) are 1.0) performance is the same.
+identical.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 11SYSTEM-LEVEL
+TESTING TEST SUBJECT TEST RESULTS
+(CONSOLE +
+PROBE)
+A confirmatory equivalence The results of more than 200
+study was conducted to compare matched device readings
+DD-RPT-0268 the performance of the demonstrated nearly perfect
+MarginProbe MarginProbe System Type 1.0 to concordance between readings from
+System Type 1.0 MarginProbe System 1.1 using the two versions of the MarginProbe
+and Type 1.1 human breast tissue in which System on lumpectomy specimens.
+Equivalence Test on specific point measurements These results further validated the
+Tissue were made by each device type equivalence between the two
+on both normal and malignant versions of the MarginProbe System.
+breast tissues.
+B. Console Level Testing
+Console Level Testing was done for packaging, transportation, temperature, and
+environmental factors. The console used for testing met the specifications for the
+MarginProbe System commercial product.
+Table 3 describes the tests performed and their results.
+Table 3 - Summary of Console Level Testing
+CONSOLE-
+LEVEL TESTING Subject Results
+Environmental & Environmental & Transportation All results met acceptance criteria for
+Transportation Test tests were done to demonstrate the MarginProbe Type 1.5 console.
+the capability of the Testing for MarginProbe System
+MarginProbe console packaging Type 1.5 also applies to the
+configuration to maintain the MarginProbe Type 1.1 console,
+integrity of the package and meeting the requirements of
+product during storage, handling IEC60721-4-2 & IEC60259 -
+and transportation. environmental standards for
+Environmental and transportation and storage.
+transportation testing were
+performed with MarginProbe
+System Type 1.5 which is
+slightly different than the
+MarginProbe System Type 1.1.
+Evaluation was done to confirm
+that there was no significant
+change done to the sub­
+components of the console when
+migrating from the previously
+tested system model to the new
+model MarginProbe System type
+1.1 as detailed in DD-NTF-0098
+Environmental Tests for
+MarginProbe™ Console.
+Therefore, there is no need to
+repeat the environmental testing
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 12CONSOLE-
+LEVEL TESTING Subject Results
+and the previous test report can
+be adopted to confirm the
+compliance of the new
+MarginProbe Type 1.1 console
+to the requirement of
+IEC60721-4-2 & IEC60259
+environmental standards for
+transportation and storage.
+C. Probe Level Testing
+Probe Level Testing was done for: Biocompatibility, Sterilization, Packaging, Shelf Life,
+and Environmental & Transportation. The probe used for testing met the established
+specifications for the MarginProbe System commercial product.
+These testings are summarized in Table 4.
+Table 4 - Summary of Probe Level Testing
+PROBE-LEVEL Subject Results
+TESTING
+DD-NTF-0110 Biocompatibility tests for All tests passed acceptance criteria
+MarginProbe Probe ­ MarginProbe probe were and met requirements.
+Biocompatibility performed by NAMSA labs
+Testing (based on ISO 10993
+requirements).
+DD-NTF-0158 Sterilization of the All results met the acceptance criteria
+Sterilization MarginProbe probe by ethylene
+Validation of oxide was validated in
+MarginProbe Probe accordance with current
+standards utilizing the
+conservative half-cycle method.
+DD-NTF-0109 The operation and performance All packaging processes passed
+Packaging Validation of the blister sealing process validation and met requirements.
+for the MarginProbe was validated. The validation
+Probe consisted of the installation and
+operational qualifications of the
+METEOR blister sealing
+machine installed in Dune and
+later in PMP clean rooms and
+the performance qualification
+of the sealing operation.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 13PROBE-LEVEL Subject Results
+TESTING
+EP-02-008 Testing was done to Results show that sterility is
+Shelf life Validation demonstrate that the maintained and the probe is
+for MarginProbe MarginProbe probe package is functional. The MarginProbe probe
+Probe capable of maintaining the can be labeled with an expiration date
+sterility of the device over its of 3 years from the production date.
+indicated shelf life period (per
+device labeling). In addition,
+the product was subjected to
+functionality tests per the
+study design. This study was
+designed to obtain supportive
+data from both accelerated and
+real time data.
+Environmental & Testing was done to The MarginProbe probe passed all
+Transportation demonstrate the capability of test criteria.
+Testing of Probe the MarginProbe probe
+packaging configuration to
+maintain the integrity of the
+package and product during
+storage, handling and
+transportation. A series of
+stress tests were performed in
+accordance with IEC TR
+60721-4-2. The packaging
+was subjected to temperature
+and humidity stresses, as well
+as vibration, shock and free
+fall stresses as part of the
+study.
+X. SUMMARY OF THE MARGINPROBE SYSTEM PIVOTAL STUDY
+Dune Medical Inc. performed a clinical pivotal study to establish a reasonable assurance of
+safety and effectiveness of the MarginProbe System. The MarginProbe System is an adjunctive
+diagnostic tool for identification of cancerous tissue at the margins (≤ 1mm) of the ex-vivo
+lumpectomy specimen following primary excision and is indicated for intraoperative use, in
+conjunction with standard methods (such as intraoperative imaging and palpation) in patients
+undergoing breast lumpectomy surgery for previously diagnosed breast cancer in the US. The
+pivotal study was performed under IDE # G070182. Data from this clinical study were the basis
+for the PMA approval decision. A summary of the clinical study is presented below.
+A. Study Design
+Patients were treated between September 2008 and March 2010.
+The MarginProbe System pivotal study was a prospective, multicenter, randomized (1:1),
+controlled, double-arm study. Breast cancer patients were randomized to either receive standard
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 14of care (SOC) lumpectomy or Standard of Care lumpectomy with adjunctive MarginProbe
+device use (SOC + Device) .
+Key Aspects of the protocol are as follows:
+1. Patient Study Inclusion and Exclusion Criteria
+Enrollment in the pivotal study was limited to patients who met the following inclusion
+criteria:
+ Women histologically diagnosed with carcinoma of the breast
+ Women with non-palpable malignant lesions, requiring image guided localization.
+ Undergoing lumpectomy (partial mastectomy) procedure.
+ Age 18 years or more
+ Signed informed consent form
+Patients were not permitted to enroll in the pivotal study if they met any of the following
+exclusion criteria:
+ Multicentric disease (histologically diagnosed cancer in two different quadrants of
+the breast)
+ Bilateral disease (diagnosed cancer in both breasts)
+ Neoadjuvant systemic therapy
+ Previous radiation in the operated breast
+ Prior surgical procedure in the same breast
+ Implants in the operated breast
+ Pregnancy
+ Lactation
+2. Patient Treatment
+Patients were first enrolled and taken to the operating room for resection of the main
+lumpectomy specimen. The main lumpectomy specimen and lumpectomy cavity
+palpation and related re-excisions were performed before patient randomization. For all
+main specimens, the center of each of the 6 margins was suture marked. Patient were
+then randomized to either the SOC or SOC+Device arm intraoperatively, immediately
+after the main lumpectomy specimen was excised, oriented, center marked, palpated, and
+additional palpation based re-excision performed.
+For patients randomized to the SOC+Device arm the surgeon:
+ Applied the MarginProbe device to each of the 6 faces of the excised main
+lumpectomy specimen—sampling 5 – 8 points (and up to 12 points for larger
+specimens). The points sampled were at both even evenly spaced and suspicious
+sites.
+ Was required to react to Device feedback. A single positive reading on any
+margin classified that margin as positive and required the surgeon to remove
+additional tissue from that margin.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 15 Documented the reasons why additional margins were not re-exicised despite a
+positive MarginProbe device reading. For the purposes of CSR primary endpoint
+calculations, lumpectomy cavity shavings that were not possible due to physical
+limitations (proximity to the skin or pectoralis fascia) the margin was considered
+“addressed”
+ Was instructed not to use the MarginProbe device on shavings from the
+lumpectomy cavity shavings (even if a shaving was taken prior to randomization)
+ Was instructed not to use the MarginProbe device within the in-vivo lumpectomy
+cavity.
+ Was instructed not the use the MarginProbe device on ex-vivo lumpectomy tissue
+that had been exposed to saline or ultrasound gel. It was however acceptable to
+use the MarginProbe device on ex-vivo lumpectomy tissue exposed to sterile
+water.
+ Was instructed not to use the MarginProbe device in the 1.5 mm region of tissue
+surrounding a fine needle localization guidewire.
+For both SOC and SOC+Device arm patients, lumpectomy specimens were imaged by
+ultrasound or radiography after randomization and device use. Additional lumpectomy
+cavity re-excisions were taken as deemed appropriate based on specimen imaging results.
+Figure 10 provides a diagrammatic representation of the study design.
+Note that the study design allows for an additional option to perform lumpectomy cavity
+shavings in the SOC+Device arm (option for shaving at 3 time points) versus the SOC
+arm (option for shaving at 2 time points).
+Figure 10 - Pivotal Study Study Design
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 16The MarginProbe device was not used during lumpectomy reoperations.
+The study consisted of two phases – a training phase and a randomization phase. Each
+surgeon had to complete the training phase before being able to randomize patients.
+Surgeons who had attended 2 or more device procedures (training or randomized) were
+certified in device use.
+3. Pathology Protocol
+Pathological assessment was standardized and identical for both study arms. Pathologists
+were blinded to randomization.
+A positive margin was to be defined in this study as a margin microscopically measured
+and reported in the histopathology report to have cancer within 1 mm or less of the inked
+surface.
+Each investigational site performed the histopathology assessment using a Standard
+Operating Procedure. Re-cut slides from the first 4 patients at each investigational site
+(Training, SOC, or SOC+Device) were to be sent to a core-lab and were to be used to
+review the accuracy and reporting capabilities of the investigational site pathology.
+Dimensions (L, W, D) of all excised tissues were recorded. Tissue volume was
+determined by use of the ellipsoid formula:
+V=(4/3)*π*L*W*D
+4. Duration of Patient Follow-up
+Patients were followed until the end of the lumpectomy procedure. Data were collected
+regarding all ipsilateral breast surgical procedures and their respective permanent
+histopathology data. Data were to be collected up until the earlier of the following events:
+conversion to mastectomy, initiation of chemotherapy or two months after the surgery
+date.
+5. Study Endpoints
+The prespecified study endpoints are as follows:
+Safety evaluation consisted of assessment of all adverse events and serious adverse
+events, which were summarized using descriptive statistics.
+The primary effectiveness endpoint (CSR) is measured as all pathologically positive
+margins on the main specimen being intraoperatively re-excised or “addressed”. A re-
+excised or “addressed” margin does not mean that the final true outermost margin is
+pathologically negative for cancer.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 17 A positive margin is defined as a margin microscopically measured and reported
+in the histology report to have cancer within 1 mm or less of the inked margin.
+ The main specimen is defined as the lumpectomy specimen removed prior to
+patient randomization. The main lumpectomy specimen does not include
+additional shavings even if the cavity shaving was performed prior to patient
+randomization.
+ If a margin has been indicated as positive by the device and documented to not
+have been re-excised as required by protocol, due to resection already
+undermining the skin or reaching the pectoralis fascia, this margin will be counted
+as “detected” and “addressed” for the purpose of CSR endpoint calculation
+although it was not “re-excised”.
+An illustration of how CSR is determined is provided in Figure 11.
+Figure 11 - Illustration of CSR Primary Endpoint
+Figure 12 below illustrates how the CSR assessment includes both clinically relevant scenario
+which is the conversion of a specimen which has a pathologically positive for cancer margin to a
+specimen with negative for cancer margins and the clinically irrelevant scenario in which the
+additional shaving resulted in the true outermost margin of the specimen remaining pathologically
+positive for cancer.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 18Figure 12 - CSR and Clinical Relevance
+While CSR is a focused assessment that is limited to what is within the control of the
+MarginProbe device, there are limitations to the CSR primary effectiveness endpoint.
+Some of these limitations are present because the reason and timing for taking additional
+shavings of the lumpectomy cavity were not documented—that is, whether a shaving was
+taken because of clinical suspicion, imaging, other assessment, versus a positive
+MarginProbe device reading and whether the shaving was taken before randomization or
+after specimen imaging. While the device readings for each margin and the margins shaved
+were documented, the timing of each shaving and the reason prompting the shaving was not
+collected.
+Table 5 summarizes the strengths and limitations of the CSR primary effectiveness endpoint
+for the pivotal study.
+Table 5 - Strengths and limitations of the primary effectiveness endpoint, CSR
+Strengths Limitations
+A focused assessment limited to what is The study design allows for an additional
+within the control of the MarginProbe™ option to perform cavity shavings in the
+device i.e. causing additional cavity SOC+Device arm versus the SOC arm. The
+shavings. additional option in the SOC+Device arm may
+be responsible for an increase in CSR in the
+SOC+Device arm.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 19A by specimen assessment which does not The incremental contribution of the
+give partial credit to intraoperative re­ MarginProbe™ device to a higher CSR cannot
+exision of some positive margins on the be determined because the reason for taking a
+main specimen but not all positive margins cavity shaving - i.e. SOC (clinical suspicion,
+on the main specimen. or imaging) versus a positive MarginProbe™
+reading - was not documented.
+Questionable clinical relevance. CSR
+considers whether a shaving was taken or not
+taken at positive margins on a lumpectomy
+specimen. CSR does not consider whether the
+shaving taken converted the initially positive
+for cancer margin to a negative for cancer final
+margin.
+CSR does not penalize false positive
+MarginProbe™ readings in the positive main
+specimen cohort. False positive
+MarginProbe™ readings in the positive main
+specimen cohort cause the resection of healthy
+tissue.
+CSR does not consider false positive
+MarginProbe™ readings in the negative main
+specimen cohort. False positive
+MarginProbe™ readings in the negative main
+specimen cohort cause the resection of healthy
+tissue.
+Secondary effectiveness endpoints are summarized in Table 6 below.
+Table 6 - Secondary Effectiveness Endpoints
+Endpoint Definition
+Incomplete Surgical Proportion of patients with at least 1 positive margin not
+Re-excision resected/addressed.
+Differs from primary effectiveness endpoint, CSR, since
+Yes/No definitions are opposite.
+Differs from the CSR endpoint since it is calculated
+from the AVS dataset rather than the PSS dataset.
+Full Detection Rate of patients with all positive margins on main
+specimen detected by device
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 20Re-excision Procedure Rate Rate of repeated ipsilateral breast surgical procedures
+(including mastectomies)
+Positive Margin Presence Rate of patients with at least 1 positive margin
+remaining after lumpectomy
+TTV excised in the primary Average volume of total amount of tissue excised in
+lumpectomy procedure (cm3) lumpectomy
+6. Pre-Specified Analysis Plan
+For the primary efficacy analysis, a sample size of 116 valid primary effectiveness patients
+per arm was determined to provide at least 90% power to demonstrate superiority of
+SOC+Device over SOC.
+The analysis populations are defined in Table 7.
+Table 7 - Analysis Populations
+Analysis Definition
+Population
+All Valid Subjects The AVS subjects included all randomized patients with valid histology
+(AVS) data (and valid MarginProbe System data in Device arm)
+Positive Specimen The PSS subject is a subset of the AVS Analysis Set of subjects with at
+Subjects (PSS) least 1 histologically positive main specimen margin at depth ≤1 mm
+Negative Specimen The NSS subject is a subset of the AVS Analysis Set of subjects with no
+Subjects (NSS) histologically positive main specimen margin at depth ≤1 mm.
+Safety was assessed using the AVS population. The primary effective endpoint was based
+on PSS population, and the secondary effectiveness endpoints were based on AVS, PSS or
+NSS populations as shown in Tables 8 and 9.
+Table 8 - The Primary Effectiveness Endpoints Population
+Endpoint Analysis Scoring
+Population
+PSS analysis set Complete Surgical Re-excision (CSR) was scored
+CSR dichotomously as follows:
+No: At least one positive margin on the main
+specimen not re-excised/addressed intraoperatively.
+Yes: All positive margins on the main specimen re­
+excised/addressed intraoperatively
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 21Table 9 - The Secondary Effectiveness Populations
+Endpoint Analysis Population Scoring
+Incomplete Surgical AVS analysis set. Incomplete Surgical Re-
+Re-excision excision (“re-excision is used
+The groups were compared to mean “resection) was scored
+using 2-sided Fisher’s Exact dichotomously:
+Test.
+Yes: If at least 1 positive
+margin with d ≤ 1 mm on the
+main specimen was not
+resected/addressed
+intraoperatively.
+No: Otherwise
+This endpoint differed from the
+primary effectiveness endpoint,
+Complete Surgical Resection,
+since the Yes/No definitions
+were opposite.
+Full Detection PSS analysis set Scored dichotomously for
+SOC+Device arm patients
+A 2-sided exact binomial 95% only:
+CI for the proportion of "Yes”.
+Yes: If all positive margins on
+the main specimen with d ≤ 1
+mm were detected by the
+device (in Device arm)
+No: Otherwise
+Re-excision Procedure AVS analysis set Number of repeated ipsilateral
+Rate breast surgical procedures
+Compared the groups using a (including mastectomies) for
+Poisson regression model. each patient. This endpoint was
+counted as an integer per
+patient; the count was increased
+by 1 with each subsequent
+surgery.
+Positive Margin AVS analysis set Scored dichotomously.
+Presence
+Compared the groups using a Yes: If there was at least 1
+Poisson regression model. positive margin with d ≤ 1 mm
+after the first lumpectomy
+No: Otherwise
+TTV excised in the NSS analysis set Total amount of tissue excised
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 22primary lumpectomy during lumpectomy for each
+procedure (cm3) Compared the groups using a patient.
+2-sided Wilcoxon Rank-Sum
+Test.
+The margin-level and patient level (ignoring location) sensitivity and specificity are reported
+for diagnostic performance of the MarginProbe device. These were not pre-specified in
+terms of an acceptable minimal sensitivity and specificity. The results here are based on the
+observed performance in the clinical pivotal study.
+B. Subject Accountability
+A total of 664 patients who were eligible for study enrollment underwent surgery and were
+allocated to either the roll-in group or randomization (enrollment allocation). Sixty-eight
+women were operated on in the roll-in phase and 596 were randomized equally to the Control
+(SOC arm) and Device treatment (Device +SOC arm) groups. All 664 women completed the
+study. Subject accountability is displayed below in Table 10.
+Table 10 - Patient Accountability, Pivotal Study
+Total
+Disposition n (%)
+Eligible for Participation 721
+Did Not Enter Study 57 (7.9)
+Failed eligibility 25 (3.5)
+Withdrew consent 6 (0.8)
+Other 26 (3.5)
+Eligible for Allocation 664 (92.1)
+Allocated to Enrollment 664 (100)
+Roll-in 68 (10.2)
+Randomized to Treatment 596 (89.8)
+Device 298 (44.9)
+Control 298 (44.9)
+Completed Study 664 (100)
+Did Not Complete 0 (0)
+All 664 women were included in the Safety analysis set. The AVS analysis set includes
+596 randomized (298 Device and 298 Control) patients and differs from safety analysis
+set in 64 roll-in women, as shown in Table 11.
+Table 11 - Data Sets Analyzed: Number of Patients
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 23Treatment Group
+Device Control Roll-In Total
+Analysis Set Patients Included n (%) n (%) n (%) n (%)
+Safety Set All patients for whom 298 298 68 664
+surgical procedure was (100.0) (100.0) (100.0) (100.0)
+initiated
+Effectiveness Sets
+AVS All Randomized Patients 298 298 NA 596
+(100.0) (100.0) (100.0)
+PSS Positive Specimen Patients 163 147 NA 310
+(54.7) (49.3) (52.0)
+NSS Negative Specimen Patients 135 151 NA 286
+(45.3) (50.7) (48.0)
+All randomized patients completed the study protocol. There was no loss to follow-up in
+the study. There was no missing data related to the CSR endpoint; 38/1788 (2%) of
+margins were not measured by the device.
+C. Demographics and Baseline Characteristics
+Demographic characteristics were similar for the Device and Control groups. Overall, the
+groups appeared to be comparable. as shown in Table 12 and 13.
+Table 12 - Demographics by Treatment Group
+Treatment Group
+Roll-In Device Control
+Parameter N=68 N=298 N=298
+Ethnic Origin n (%)
+Whitea 59 (86.8) 250 (83.9) 260 (87.2)
+African-American or 5 (7.4) 22 (7.4) 17 (5.7)
+Black
+Asian 2 (2.9) 12 (4.0) 10 (3.4)
+Native Hawaiian or Other 0 (0) 3 (1.0) 1 (0.3)
+Pacific Islander
+Other 2 (2.9) 11 (3.7) 10 (3.4)
+a Includes Hispanics.
+Table 13 - Baseline Characteristics by Treatment Group
+Treatment Group
+Roll-In Device Control
+Parameter N=68 N=298 N=298
+Age (yrs) Mean (SD) 63.6 (11.1) 60.3 (11.4) 60.2 (11.1)
+BMI (mean) 28.0 27.9 28.6
+Bra Cup Size n (%)
+AA 0 (0.0) 2 (0.7) 4 (1.3)
+A 6 (8.8) 16 (5.4) 16 (5.4)
+B 21 (30.9) 101 (33.9) 73 (24.5)
+C 24 (35.3) 99 (33.2) 93 (31.2)
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 24Treatment Group
+Roll-In Device Control
+Parameter N=68 N=298 N=298
+D 12 (17.6) 62 (20.8) 92 (30.9)
+E 1 (1.5) 2 (0.7) 5 (1.7)
+F 1 (1.5) 1 (0.3) 1 (0.3)
+>F 1 (1.5) 1 (0.3) 2 (0.7)
+Unknown 2 (2.9) 14 (4.7) 12 (4.0)
+Table 14 presents the number of patients with a diagnosis, requiring that certain categories
+be combined. For patients with invasive types of carcinoma the mixed invasive category
+was used, and for patients with more than 1 diagnosis who did not have more than one type
+of invasive carcinoma, the mixed category was used. The treatment groups appear to be
+similar with respect to diagnosis.
+Table 14 - Patient Diagnosis by Treatment Group (Per-diagnosis Analysis)
+Patient Diagnosis Treatment Group
+All
+Device Control Roll-In Phase
+N (%) Patients N (%) Patients N (%) Patients N (%) Patients
+Invasive Ductal Carcinoma 24 (8.1) 22 (7.4) 7 (10.3) 53 (8.0)
+Invasive Lobular Carcinoma 26 (8.7) 13 (4.4) 2 (2.9) 41 (6.2)
+Mixed Invasivea 8 (2.7) 5 (1.7) 1 (1.5) 14 (2.1)
+Ductal Carcinoma in Situ 83 (27.9) 78 (26.2) 19 (27.9) 180 (27.1)
+Tubular Carcinoma 1 (0.3) 0 (0.0) 0 (0.0) 1 (0.2)
+Mucinous Carcinoma 1 (0.3) 1 (0.3) 0 (0.0) 2 (0.3)
+Mixedb 155 (52.0) 179 (60.1) 39 (57.4) 373 (56.2)
+Total 298 (100.0) 298 (100.0) 68 (100.0) 664 (100.0)
+a Mixed invasive=Invasive Ductal Carcinoma+Invasive Lobular Carcinoma.
+b Mixed=more than 1 diagnosis and not only invasive carcinoma.
+Tumor stage results are presented in Table 15 below. The majority of patients were
+diagnosed with stage II breast cancer and below.
+Table 15 - Tumor Stage
+0 I II III IV Unknown Total
+Treatment
+N % N % N % N % N % N % N %
+Group
+Device 81 27.2 155 52.0 51 17.1 4 1.3 1 0.3 6 2.0 298 100.0
+Control 84 28.2 161 54.0 44 14.8 6 2.0 0 0 3 1.0 298 100.0
+Roll-In 21 30.9 34 50.0 12 17.6 1 1.5 0 0 0 0 68 100.0
+Phase
+All 186 28.0 350 52.7 107 16.1 11 1.7 1 0.2 9 1.4 664 100.0
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 25Receptor status is presented in Table 16. There were 84 subjects in device and control
+arms, and 19 in the roll-in subjects, for which HER2 status was not preformed.
+Table 16 - Receptor Status
+Receptor Status Roll-In Device Control
+N=68 N=298 N=298
+ER+ 60/68 (88.2) 251 (84.2) 258(86.6)
+PR+ 52/68 (76.4) 223 (74.8) 217 (72.8)
+HER2+ 3/49 (6%) 20/214 (9%) 33/214 (15%)
+HER2- 42/49 (85%) 175/214 (82%) 163/214 (76%)
+D. Surgical Procedure
+The mean duration of anesthesia time (hours: minutes) was 2:03 for the Device group,
+1:52 for the Control group and 2:11 for the Roll-in group. This time includes surgical
+procedures, resections, completion of the protocol procedures, and device use. The mean
+duration of device use was 5 minutes for the Device group and 6 minutes for the Roll-in
+group.
+Table 17 presents the number and percent of patients with a palpable tumor excised
+during lumpectomy. While all patients had non-palpable lesions at screening (inclusion
+criteria), the lesion may or may not have been palpable in the ex-vivo lumpectomy
+specimen.. There were no apparent differences between treatment groups with respect to
+palpable tumors during excision.
+Table 17 - Frequency Distribution of Palpable Tumor during Lumpectomy by
+Treatment Group
+Various intraoperative evaluations were used at surgeon discretion in both the SOC and
+SOC+Device arms and included radiological exam, ultrasound, ultrasonic guidance,
+touch cytology, gross assessment, and frozen section.
+The reason for performing a lumpectomy cavity shaving—that is, whether a shaving was
+prompted by gross visualization/palpation, positive MarginProbe device readings,
+imaging, touch prep cytology or frozen section analysis--was not documented.
+The methods of excision used during lumpectomy included the following: electrocautery,
+sharp excision, and scissors.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 26Table 18 describes number of patients undergoing SLNB with dye or radioisotope or
+both.
+Table 18 - Number of Patients undergoing SLNB with Dye or Radioisotope or Both
+Roll-In Device Control
+N=68 N=298 N=298
+SLNB performed 59 (72%) 223 (75%) 225 (75)
+E. Pathology
+Table 19 presents weight and volume of the main specimen. There were no apparent
+differences between treatment groups with respect to weight and volume of the main
+specimen. The mean size (diameter) of the main specimen was 4.85 cm for the Device
+group, 4.89 cm for the Control group, and 4.7 cm for the Roll-in group.
+Table 19 - Descriptive Statistics of Specimen Weight and Volume by Treatment
+Group
+Overall mean tumor size was similar for the groups (MarginProbe=1.7 cm3, Control=1.6
+cm3).
+The tumor type (as assessed by post-operative histopathology) by treatment group are
+presented in Table 20. The treatment groups appear to be similar with respect to tumor
+type. The number of positive margins on the main specimen, by treatment group, also
+appears to be similar.
+Table 20 - Frequency Distribution for Tumor Type by Treatment Group
+Treatment Group
+Tumor Type Device Control Roll-In Phase All
+N Specimens N Specimens N Specimens N Specimens
+(%) (%) (%) (%)
+Invasive ductal carcinoma 158 (53.0) 179 (60.1) 40 (58.8) 377 (56.8)
+Invasive lobular carcinoma 46 (15.4) 26 (8.7) 9 (13.2) 81 (12.2)
+Ductal carcinoma in-situ 207 (69.5) 229 (76.8) 46 (67.6) 482 (72.6)
+Tubular Carcinoma 5 (1.7) 6 (2.0) 2 (2.9) 13 (2.0)
+Mucinous Carcinoma 10 (3.4) 3 (1.0) 2 (2.9) 15 (2.3)
+Medullary Carcinoma 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Papillary Carcinoma 0 (0.0) 2 (0.7) 1 (1.5) 3 (0.5)
+Non malignant (NM) 19 (6.4) 19 (6.4) 5 (7.4) 43 (6.5)
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 27Other 5 (1.7) 7 (2.3) 0 (0.0) 12 (1.8)
+Total Patients 298 (100.0) 298 (100.0) 68 (100.0) 664 (100.0)
+The average weight and volume of resected margins by treatment group during the
+lumpectomy is presented in Table 21. The treatment groups appear to be similar with
+respect to weight and volume of resected margins.
+Table 21 - Descriptive Statistics of Resected Margins Weight and Volume by
+Treatment Group
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 28F. Study Results
+1. Safety Results
+14 adverse events (AEs) were reported, all being categorized as serious adverse
+events (SAEs) per study protocol definition. One SAE was possibly related to the
+study device, a wound infection requiring hospitalization and treatment with
+antibiotics.
+Table 22 - Frequency of Serious (All) Adverse Events by System Organ Class,
+Preferred Term, and Treatment Group
+Treatment Group
+Device Control Roll-In Phase Any
+System Organ N=298 N=298 N=68 N=664
+Class/Preferred N N (%) N N (%) N N (%) N N (%)
+Term SAEs Patients SAEs Patients SAEs Patients SAEs Patients
+Any Any 6 6 (2) 5 5 (2) 3 3 (4) 14 14 (2)
+Any 2 2 (1) 1 1 (0) 2 2 (3) 5 5 (1)
+Acute
+tonsillitis 1 1 (0) 0 0 (0) 0 0 (0) 1 1 (0)
+Breast abscess 0 0 (0) 1 1 (0) 0 0 (0) 1 1 (0)
+Infections
+Cellulitis 0 0 (0) 0 0 (0) 1 1 (1) 1 1 (0)
+and
+Postoperative
+infestations
+wound
+infection 1 1 (0) 0 0 (0) 0 0 (0) 1 1 (0)
+Urinary tract
+infection 0 0 (0) 0 0 (0) 1 1 (1) 1 1 (0)
+Any 2 2 (1) 3 3 (1) 0 0 (0) 5 5 (1)
+Fractured
+sacrum 1 1 (0) 0 0 (0) 0 0 (0) 1 1 (0)
+Injury,
+Post
+poisoning
+procedural
+and
+haemorrhage 0 0 (0) 2 2 (1) 0 0 (0) 2 2 (0)
+procedural
+Procedural
+complications
+dizziness 1 1 (0) 0 0 (0) 0 0 (0) 1 1 (0)
+Procedural
+pain 0 0 (0) 1 1 (0) 0 0 (0) 1 1 (0)
+Neoplasms Any 1 1 (0) 0 0 (0) 0 0 (0) 1 1 (0)
+benign,
+malignant
+and
+unspecified
+(incl cysts Uterine
+and polyps) leiomyoma 1 1 (0) 0 0 (0) 0 0 (0) 1 1 (0)
+Reproductive Any 0 0 (0) 1 1 (0) 0 0 (0) 1 1 (0)
+system and Breast
+breast haematoma
+disorders 0 0 (0) 1 1 (0) 0 0 (0) 1 1 (0)
+Vascular Any 1 1 (0) 0 0 (0) 1 1 (1) 2 2 (0)
+disorders Hypertension 0 0 (0) 0 0 (0) 1 1 (1) 1 1 (0)
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 29Treatment Group
+Device Control Roll-In Phase Any
+System Organ N=298 N=298 N=68 N=664
+Class/Preferred N N (%) N N (%) N N (%) N N (%)
+Term SAEs Patients SAEs Patients SAEs Patients SAEs Patients
+Hypertensive
+crisis 1 1 (0) 0 0 (0) 0 0 (0) 1 1 (0)
+Adverse events associated with device malfunction or incorrect device readings
+causing incorrect surgeon action is both a safety and an effectiveness issue. Incorrect
+surgeon action is therefore further discussed in the Effectiveness Results section
+below. While an approximately 5 minute prolongation of the operative procedure
+associated with device use, this prolongation cannot be associated with specific
+patient adverse events. In addition, while damage to the tissue exposed to the
+MarginProbe device is a potential problem, an assessment for tissue damage was not
+considered to be feasible in the pivotal study. From the available data this issue has
+not been reported.
+2. Effectiveness Results
+Primary Effectiveness Endpoint: There were a total of 163 patients in the
+SOC+Device arm and a total of 147 patients in the SOC arm who were in the PSS
+dataset (i.e. with at least one positive margin by histology on the main specimen).
+The CSR primary effectiveness endpoint results are provided in Table 23.
+The device failed to give a reading on 38 (2%) margins out of 1788 margins
+measured from 298 subjects. This did not impact the primary endpoint.
+Table 23 - The CSR Primary Effectiveness Endpoint Results
+Primary Dataset SOC + SOC Difference
+Endpoin Device (95% CI)
+t
+p <
+CSR PSS 71.8% 22.4% 49.3%
+0.0001
+(117/163) (33/147) (39.0%,58.7%)
+Secondary Effectiveness Endpoint Results:
+Endpoint Dataset SOC + SOC p-value or CI
+Device
+1º CSR PSS 71.8% 22.4% p < 0.0001
+(117/163) (33/147)
+2º Incomplete AVS 15.4% 38.3% p < 0.0001*
+Surgical (46/298) (114/298)
+Re-excision
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 302º Full Detection PSS 62.6% NA 95% CI:
+(102/163) 54.7% – 70%*
+2º Re-excision AVS 20.8% 25.8% p = 0.3177*
+Procedure Rate (82/298) (94/298)
+2º Positive Margin AVS 30.9% 41.6% p = 0.0082*
+Presence (92/298) (124/298)
+2º Total Tissue NSS 92.7 cm3 69.9 cm3 p = 0.0031*
+Volume Excised
+* Unadjusted analysis
+PSS = cohort of patients that had a histologically cancer positive lumpectomy main specimen margin
+NSS = cohort of patients that had all histologically negative lumpectomy main specimen margins
+AVS = the entire cohort of patients (both the PSS and NSS cohorts together)
+Table 24 - Secondary Effectiveness Endpoint Results
+Secondary Dataset SOC + SOC p-value or
+Endpoints Device CI
+Incomplete AVS 15.4% 38.3% p <
+Surgical (46/298) (114/298) 0.0001*
+Re-excision
+Full PSS 62.6% NA 95% CI:
+Detection (102/163) 54.7% –
+70%*
+Re-excision AVS 20.8% 25.8% p =
+Procedure (82/298) (94/298) 0.3177*
+Rate
+Positive AVS 30.9% 41.6% p =
+Margin (92/298) (124/298) 0.0082*
+Presence
+TTV excised NSS 92.7 cm3 69.9 cm3 p =
+in the 0.0031*
+primary
+lumpectomy
+procedure
+(cm3)
+* Unadjusted analysis
+Of the endpoints listed, the clinically relevant endpoint of re-excision procedure rate
+showed a 5 percentage point reduction in the SOC+Device arm versus SOC arm.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 31The reoperation procedure rate is further described in Table 25. Note that fewer
+patients in the SOC+Device arm required a second operation (71 patients in the
+SOC+Device arm versus 85 patients in the SOC arm). Recall that the MarginProbe
+device was only used during the initial lumpectomy operation and not during
+reoperations. More patients in the SOC+Device arm versus the SOC were converted
+to mastectomy. There are numerous reasons for conversion to mastectomy and
+therefore this finding cannot be directly attributable to device use.
+Table 25 - Re-excision (including conversion to mastectomy)
+Lumpectomy Additional Resections Total p-Value
+Procedure # 1 2 3 4
+SOC+Device 298 62 7 2 71 (23.8%)
+0.3177
+SOC 298 77 7 1 85 (28.5%)
+Conversion to mastectomy in device arm = 18/298
+p = 0.46
+Conversion to mastectomy in control arm = 13/298
+The following additional analyses, Table 26 and Table 27, provide information
+regarding diagnostic performance of the device per margin and per patient (ignoring
+location).
+Table 26 - Diagnostic Performance (per-margin)
+Sensitivity(%) (95% Specificity(%) PPV†(%) NPV†(%)
+CI)‡ (95% CI) ‡ (95% CI) ‡ (95% CI) ‡
+SOC+Device 73.8 (68.1,79.4) 45.1 (41.8,48.3) 21.6(20.1,23.1) 89.4(87.2,91.4)
+SOC 33.9 (27.5,40.5) 83.4 (81.1,85.7) 29.5(25.1,34.3) 86.0(84.8,87.2)
+(SOC+Device)-SOC 39.9(31.4,48.1) -38.3(-42.4, -34.5) -7.9(-12.8, -3.4) 3.4 (1.0,5.7)
+Device only†† 75.2(69.3,80.5) 46.4 (42.6,49.9) 22.3 (20.7,23.8) 90.1 (88.0,92.1)
+SOC 33.9 (27.5,40.5) 83.4 (81.1,85.7) 29.5(25.1,34.3) 86.0(84.8,87.2)
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 32Device-SOC 41.3(33.0,49.5) -37.0(-41.4, -33.0) -7.2(-12.1,-2.6) 4.1(1.8,6.4)
+†PPV and NPV calculated using Bayes theorem on sensitivity and specificity, assuming a common prevalence
+across the two study arms of 17.0%. ‡95% Bootstrap percentile intervals.
+†† There were 38 margins with a missing device reading.(6 pathology positive margins and 32 pathology
+negative margins)
+Table 27 - Diagnostic Performance per patient ignoring location
+Sensitivity(%) Specificity (%) PPV†(%) NPV†(%)
+95% CI 95% CI 95%CI 95% CI
+SOC+Device 98.8(95.6,99.9) 5.9(2.6,11.3) 53.2(52.1,54.4) 81.9(49.0,95.4)
+SOC 68.7(60.1,76.1) 53.6(45.4,61.8) 61.6(56.7,66.3) 61.3(54.4,67.7)
+(SOC+Device)-SOC 30.1(22.6,38.2) -47.7(-56.6, -38.3) -8.4(-13.6, -3.5)‡ 20.6(-9.2,42.0)‡
+Device only 96.3(92.2,98.6) 8.9(4.7,15.0) 53.4(51.9,54.9) 68.9(46.2,85.2)
+SOC 68.7(60.1,76.1) 53.6(45.4,61.8) 61.6(56.7,66.3) 61.3(54.4,67.7)
+Device-SOC 27.6%(19.6,36.0) -44.7% (-54.0, -34.9) -8.2 (-13.5,-3.1)‡ 7.6(-16.6,27.9)‡
+†PPV and NPV calculated using Bayes theorem assuming a common prevalence across the two study
+arms of 52%.
+‡95% Bootstrap percentile intervals.
+The Figures 12 and 13 provide a more comprehensive assessment of what occurred in
+each arm of pivotal study.
+As shown in Figure 13, 298 SOC patients were enrolled. An average of 72 cm3 of tissue
+was excised during the initial lumpectomy. There were 147 patients with cancer positive
+main specimens and 151 cancer negative main specimens. Of the 147 cancer positive
+main specimens, 25 or 17% were converted to cancer negative final margins with cavity
+shavings.
+In the SOC arm, shavings were not taken in 46+81 or 127/298 subjects.
+Figure 13 - Pivotal Study Patient Flow Chart - SOC Arm
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 33As demonstrated in Figure 14, 298 patients were enrolled in the SOC+Device arm. An
+average of 88 cm3 of tissue was excised during the initial lumpectomy. There were 163
+patients with cancer positive main specimens and 135 cancer negative main specimens.
+Of the 163 cancer positive main specimens, 79 or 49% were converted to cancer negative
+final margins with cavity shavings.
+In the SOC+Device arm, shavings were not taken in 2+8 or 10/298 subjects.
+Figure 14 - Pivotal Study Patient Flow Chart - SOC+Device Arm
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 34XI. SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+A. Pivotal Study Additional Analyses
+While not powered to detect differences across subpopulations, there was a trend for
+outside of US patient populations to experience greater clinically relevant benefit than for
+the US population of patients enrolled as shown in Table 28.
+Table 28 - Pivotal Study Results across Subpopulations
+US Patients Israel Patients
+n = 98 n = 566
+Endpoint SOC + SOC SOC + SOC
+Device Device
+1º CSR 69.7% 22.4% 85.7% 22.7%
+2º Incomplete Surgical 17.3% 38.8% 6.1% 35.4%
+Re-excision
+2º Full Detection* 59.9% N/A 81% N/A
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 352º Re-excision 34.5% 48% 4.8% 22.7%
+Procedure Rate
+2º Positive Margin 53.5% 82.4% 38.1% 86.4%
+Presence
+2º Total Tissue Volume 92.4 82.6 97.6 95.9
+Excised (cm3)
+Diagnostic Device SOC + SOC SOC + SOC
+Performance Device Device
+Sensitivity (%) 73.4 87.8
+95% CI† (66.8,79.6) (76.8,98.8)
+Specificity (%) 44.7% 53.9%
+95% CI† (40.8,48.8) (46.0,62.0)
+*Full detection is for Device (not SOC+Device arm)
+†95% Bootstrap percentile intervals.
+B. Product Development Clinical Studies
+Product development clinical studies were conducted at various stages of the product
+development process, as summarized in Table 29. None of these studies were pre-
+approved by FDA.
+Table 29 - Developmental Clinical Studies of the MarginProbe
+Study Study Name # Subjects Product Primary Principal Results
+Number Description Objective
+“Point-by-point” N=76 MarginProbe Obtain database Device use has no permanent effect
+study in System Probe set and assess on tissue (macroscopic or
+pathology ­ & MarginProbe performance – microscopic)
+phase II System Type phase II Device performance per-point on
+III 3/2006 – 6/2007 1.0 system bread-loafed lumpectomy
+console specimens: sensitivity 100% and
+specificity 87% on homogeneous
+samples, sensitivity 70% and
+specificity 70% on full dataset
+Intraoperative N=175 MarginProbe Assess Even with a limited point sampling
+blinded study ­ System Probe intraoperative by the device, per-patient detection
+phase II & MarginProbe performance on rate is superior with Device+SOC
+6/2006 – 5/2008 System Type the resection (73%) as compared to SOC alone
+1.0 system surface of (46%)
+V console lumpectomy
+specimens and
+evaluate
+adjunctive device
+contribution to
+SOC
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 36Pilot Study N=300 MarginProbe Assessment of - Device is safe for intraoperative
+11/2006 – System Probe device detection use
+11/2007 & MarginProbe performance and - Re-excision rate is reduced by 56%
+System Type clinical utility in a (p=0.0027)
+1.0 system randomized, - Positive margin identification
+console controlled (patient guiding intraoperative resection is
+is blinded), superior in Device+SOC arm (60%)
+MAST intended use compared to SOC (41%)
+fashion. Assess - Cosmesis is not affected by device
+cosmetic outcome use
+associated with - Excised tissue volume is not
+device use affected by device
+compared to SOC. - Performance is the same for both
+palpable and non-palpable lesions
+The product development study results were used to develop the MarginProbe System
+algorithm in the manner described in Figure 15.
+Figure 15 - Algorithm Development Process.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 371. Study III
+Study III was conducted to create the classification database of actual tissue
+measurements using the MarginProbe paired with their histology at point level. For
+each point measured with the device the pathology was taken at that same point.
+Device measurements were performed at the interior of the lumpectomy specimen
+(following its sectioning at the pathology lab).
+The specimens used for this study were taken from women with palpable tumors who
+had undergone lumpectomy or mastectomy. The study was performed in Israel at 4
+study sites. The patient demographics and cancer specifics of the specimens used to
+create the classification dataset are summarized in Table 30. Table 31 illustrates the
+classification data set that was derived in Study III.
+Table 30: Study III - Patient Demographics and Cancer Specifics
+Sites 4 (Israel)
+N 77 patients and 81 specimens
+(4 patients bilateral disease)
+Mean Age (range) 62.64 years (36 - 85)
+Mean Tumor Size (range) 1.65 cm (0.1 – 3.5)
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 38Fine Needle Localization 33 specimens
+Sentinel Node Biopsy 43 specimens
+(Both Blue Dye &
+Radioisotope)
+Cancer Pathology Infiltrating Ductal (IDC) 46
+DCIS 8
+Mixed 8
+Infiltrating Lobular 6
+(ILC)
+Other 3
+Not stated 4
+Grade I 3
+II 34
+III 20
+HER2 positive 18
+Estrogen Positive 60
+Progesterone Positive 46
+Table 31: Study III - Classification Data Set
+Number of tissue measurement data points 869
+– Excluded data points 116
+Valid data points 753
+– Normal 588 (78%)
+– Malignant 165 (22%)
+The ROC curves of the device performance in Study III are shown in Figure 16. This
+figure includes three datasets: (1) tissues containing at least 75% of a single tissue
+type; (2) all tissues containing at least 50% of a single tissue type; and (3) the full
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 39dataset collected in the experiment, containing cancers of all sizes (down to 0.15-mm­
+diameter features).
+Figure 16 - Study III - ROC curves of 3 different datasets
+When the composition of the tissue being measured by the probe (i.e. directly
+underneath the 7 mm footprint of the probe) was more homogeneous, there was
+greater sensitivity and specificity in MarginProbe™ readings as shown in Table 32.
+Table 32 - Study III - Sensitivity and Specificity in MarginProbe™ Readings
+Percentage single tissue type Specimen description Device Performance
+within probe’s 7 mm diameter
+footprint
+> 75% singe tissue type 22 cancerous, from 15 patients Sensitivity 1.00
+425 nonmalignant (95% CI: 0.85–1)
+Specificity 0.87
+(95% CI: 0.83–0.90)
+> 50% single tissue type 29 cancerous, from 18 patients, and Sensitivity 1.00
+567 nonmalignant (95% CI: 0.88–1)
+Specificity 0.72
+(95% CI: 0.68–0.76).
+Full dataset containing cancers of 165 cancerous sites from 50 Sensitivity 0.70 (95% CI:
+all sizes (down to 0.15-mm­ patients, and 588 nonmalignant sites 0.63–0.77),
+diameter features)
+Specificity 0.70 (95% CI:
+0.67–0.74)
+The performance for different histopathology types are also summarized in Table 33.
+[The two most common groups, invasive ductal carcinoma (IDC) and ductal
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 40carcinoma in situ (DCIS), have sensitivities of 0.68 (95% CI: 57– 77) and 0.63 (95%
+CI:45–79), respectively]
+Table 33: Study III - Device Sensitivity for Different Histopathology Subgroups
+Number of Detected Detection rate
+Cancer histopathology samples (95% CI)
+Infiltrating Ductal Carcinoma (IDC) 87 59 0.68
+95% CI:57– 77
+Ductal Carcinoma in-situ (DCIS) 35 22 0.63
+95% CI:45–79
+Infiltrating Lobular Carcinoma (ILC) 7 5 0.71
+IDC+ DCIS 25 21 0.84
+ILC+ DCIS 3 3 1.00
+Other 8 6 0.75
+Full dataset 165 116 0.70
+2. Study V
+Study V was a blinded study with MarginProbe™ System Type 1.0 device to assess
+performance of the device on the cut surface tissue of lumpectomy specimens, as
+compared to histology.
+Surgeons were blinded to the device outputs and could not act on device outputs. The
+device measurements (maximum of 20) were taken intraoperatively on the surface of
+fresh intact lumpectomy specimens. The orientation of each measurement site was
+noted. For each marked site, the corresponding 7 mm wide tissue specimen was
+processed en-face and microscopically evaluated as positive or negative for
+malignancy.
+Figure 17 - Study V - Sampling Process
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 41A total of 175 subjects were enrolled in 3 sites during this study. Surgeons at 2
+institutions included in this study (site 1: US site, n=101 patients; site 2: OUS site,
+n=9 patients) excised additional margins only where deemed necessary (“selective”
+re-excision). Practice at the third institution (US site, n=65 patients, 66 specimens)
+was to routinely re-excise all margins from the cavity (“total” re-excision).
+While results from Study V served to further inform the MarginProbe product
+development, Study V also serves to provide a comparison of differences in standard
+of care selective versus empiric total cavity shaving. Patients who receive empiric,
+routine re-excision of all margins have greater conversion of initial positive
+lumpectomy margins to final negative margins. The observed effect is illustrated
+below in Figures 18 and 19 comparing the final pathologies from patients treated at
+study sites 1 and 2 (selective re-excision) versus study site 3 (total re-excision).
+There is also literature (see references list below) suggesting that the standard,
+empiric practice of complete/partial lumpectomy cavity shavings in the same
+operative setting as the initial lumpectomy can reduce the incidence of incomplete
+cancer resection and produces greater volumes of tissue resection.
+Figure 18 - Study V - Final Pathologies from Patients Treated at Study Sites 1 and 2
+(Selective Re-excision)
+Study V: Sites 1 & 2 Volume excised
+SOC
+Selective Shaving 110 Site 1 = 52 cc (95% CI 44,60)
+Site 2 = 89 cc (95% CI 63, 115)
+Main Specimen Main Specimen
+Margin Status Margin Status
++ -
+68 42
+Shavings Shavings Not Shavings Shavings Not
+Taken Taken Taken Taken
+44 22 27 15
+Histo + Margins Histo - Margins on Histo + Margins Histo + Margins on Histo - Margins on Histo - Margins on
+on Final Pathology Final Pathology on Final Pathology Final Pathology Final Pathology Final Pathology
+9
+35 22 0 27 15
+Main + + - -
+Specimen
+Final Margin - + + -
+Totals 9/68 57/68 0/42 42/42
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 42Figure 19 - Study V - Final Pathologies from Patients Treated at Study Site 3 (Total
+Re-excision)
+Study V: Sites 3 Volume excised
+SOC
+Routine Shaving 66 Site 3 = 113 cc (95% CI 100, 126)
+Main Specimen Main Specimen
+Margin Status Margin Status
++ -
+31 35
+Shavings Shavings Not Shavings Shavings Not
+Taken Taken Taken Taken
+30 1 32 3
+Histo + Margins on Histo -Margins on Histo + Margins on Histo + Margins on Histo -Margins on Histo -Margins on
+Final Pathology Final Pathology Final Pathology Final Pathology Final Pathology Final Pathology
+28
+2 1 0 32 3
+Main Specimen + + - -
+Final Margin - + + -
+Totals 28/31 3/31 0/35 35/35
+3. MAST Study
+This MAST pilot study was performed in Israel. It was a prospective, randomized,
+controlled study designed to compared SOC lumpectomy with to SOC+Device
+lumpectomy. Three hundred subjects at 11 sites were enrolled (n=149 device arm;
+n=151 control arm).
+The MAST study design was similar to the Pivotal study however there were some
+differences. The MAST study involved a different MarginProbe device algorithm,
+different device use instructions (i.e. surgeons used the device at their discretion with
+respect to extent of device use and tissue targeted and were not required to act on
+positive MarginProbe device readings), an assessment of post-lumpectomy breast
+symmetry using a 4 point scale, and intra-operative pathology as part of SOC--being
+used in approximately 20% of the cases.
+The difference in protocols across studies may be reflected in the results of the SOC
+arm in the MAST Study compared to the pivotal IDE investigation. The results are
+provided in Figures 20 and 21 below.
+Figure 20 - MAST Study - Final Pathologies - SOC Arm
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 43Figure 21 - MAST Study - Final Pathologies - SOC+Device Arm
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 44.
+XII. PANEL MEETING RECOMMENDATION AND FDA’S POST_PANEL ACTION
+Panel Meeting Recommendation
+An advisory meeting was held on June 21, 2912, the General and Plastic Surgery De vices
+Panel discussed the data included in the Dune Medical Devices, Inc. PMA for the
+MarginProbe System.
+ The Panel voted 11-0-0 (yes, no, abstain) that there is a reasonable assurance that the
+Dune Medical MarginProbe System is safe for use in patients who meet the criteria
+specified in the proposed indication.
+ The Panel voted 8-1-2 (yes, no, abstain) that there is reasonable assurance that the Dune
+Medical MarginProbe System is effective fo r use in patients who meet the criteria
+specified in the proposed indication.
+ The Panel voted 10-1-0 (yes, no, abstain) that the benefits of the Dune Medical
+MarginProbe System do outweigh the risks for use in patients who meet the criteria
+specified in the proposed indication.
+XIII. CONCLUSIONS DRAWN FROM THE STUDIES
+A. Effectiveness Conclusions
+The results from the pivotal clinical study indicate that the device when used as an
+adjunctive tool for identification of cancerous tissue at the margins (≤ 1mm) of the ex-vivo
+lumpectomy specimen following primary excision of breast cancer, there was a 5
+percentage point reduction in re-operation. Device use was associated with an increase in
+tissue volume in the primary lumpectomy procedure (92.7 cm3 vs. 69.9 cm3 ).
+Comparing the sensitivity and specificity of the Device and the Device + SOC versus the
+SOC per margin (not per specimen), the device had a sensitivity of 75.23% and a specificity
+of 46.38%; while the sensitivity of the SOC arm was 33.94% and specificity was 83.39%.
+However, the study design contained bias favoring the study arm. The study design allowed
+for 3 opportunities to take lumpectomy cavity shavings in the study arm (SOC+Device) and
+2 opportunities to take lumpectomy cavity shavings in the control arm (SOC). In addition,
+the reason for taking additional shavings of the lumpectomy cavity - whether a shaving was
+taken because of surgeon suspicion, ultrasound imaging, radiographic imaging, or a positi ve
+MarginProbe device reading - was not documented. This makes it difficult to determine
+whether the results observed were due to the MarginProbe device or confounding factors.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 45It is noted that standard, empiric complete lumpectomy cavity shavings in the same
+operative setting as the initial lumpectomy also can also reduce the incidence of incomplete
+cancer resection but can be associated with greater volumes of healthy tissue resection.
+B. Safety Conclusions
+The risks of the device are based on data collected in clinical studies conducted to
+support PMA approval as described above.
+14 adverse events (AEs) were reported, all being categorized as serious adverse events
+(SAEs) per study protocol definition. Only 1 SAE was possibly related to the study
+device, a wound infection requiring hospitalization and treatment with antibiotics.
+The risk of reduced breast cosmesis due to false positive MarginProbe device readings and
+subsequent resection of greater volumes of healthy tissue was not assessed in the pivotal
+study and therefore its incidence and severity is unknown.
+C. Benefit-Risk Conclusions
+Due to the high rate of incomplete surgical resection of breast cancer at the time of
+lumpectomy, point of care diagnostics designed to reduce the incidence of retained
+cancer following initial lumpectomy are necessary.
+It is currently estimated that approximately 30% of patients undergoing lumpectomy for
+breast cancer need to return to the operating room for re-lumpectomy due to incomplete
+surgical resection of the breast cancer at the time of the initial lumpectomy. Re­
+lumpectomy is associated with delays adjuvant breast cancer treatment. Re-lumpectomy
+due to retained cancer is also associated with greater tissue volume resection which may
+produce more severe breast disfigurement.
+The relative contribution of the MarginProbe device was not assessed in the pivotal study
+since the reason for taking additional shavings of the lumpectomy cavity—whether a
+shaving was taken because of surgeon suspicion, ultrasound imaging, radiographic
+imaging, or a positive MarginProbe device reading--was not documented. It is therefore
+unclear whether the pivotal study results were due to specimen imaging, to greater time
+taken by the surgeon deliberately assessing each margin during the process of
+MarginProbe device use, or to the MarginProbe device readings.
+Breast cosmesis was not assessed in the pivotal study. There was a greater volume of
+tissue removed in the study arm versus the control arm. The amount of additional volume
+of healthy tissue resected that produces a clinically relevant change in breast appearance
+is unknown and may not be the same volume across patients and among breast surgeons.
+It is therefore unclear whether the resection of greater volumes of healthy tissue
+associated with device use produces greater breast disfigurement or not.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 46Standard, empiric complete lumpectomy cavity shavings in the same operative setting as
+the initial lumpectomy also can reduce the incidence of incomplete cancer resection but
+also produces greater volumes of tissue resection (reference list below). For this reason
+routine cavity shaving is routine practice for only 10% of surgeons (Blair 2009).
+This finding was demonstrated in the sponsor’s early clinical work with the MarginProbe
+device at Study Site 3 of Study V. Study Site 3 surgeons routinely performed complete
+lumpectomy cavity shavings immediately following the lumpectomy in the same
+operative setting. The conversion rates of initially positive main lumpectomy margins to
+final negative outermost margins are shown in the table below. Note that there was a
+conversion rate of positive main specimen margins to negative final margins for ~90% at
+Study Site 3 patients where full cavity shavings were performed. In comparison, Study
+Sites 1 and 2 performed selective lumpectomy cavity shavings at surgeon discretion.
+Table 34 below also includes the pivotal study results for comparison purposes.
+Table 34 - Margin Status of Lumpectomy Specimens and Final Margins
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 47The study design together with missing information regarding the reason and timing for
+taking additional lumpectomy cavity shavings makes it difficult to determine whether the
+results observed were due to the MarginProbe device or confounding factors. However,
+there was a reduced reoperation rate in the study arm versus the control arm in the pivotal
+study. Therefore:
+ For surgeons who do not perform empiric lumpectomy cavity shavings of all
+margins in the same operative setting as the initial lumpectomy, the probable
+benefits outweigh the probable risks.
+ For surgeons who do perform empiric lumpectomy cavity shavings of all margins
+in the same operative setting as the initial lumpectomy, the available data is not
+sufficient to determine whether or not the probable benefits outweigh the probable
+risks.
+D. Overall Conclusions
+The data in this application support the reasonable assurance of safety and effectiveness of
+this device when used in accordance with the indications for use.
+With a 5 percentage point reduction of reoperation rate in the study arm versus the control
+arm in the pivotal study, the probable benefits outweigh the probable risks for surgeons who
+do not perform empiric lumpectomy cavity shavings of all margins in the same operative
+setting as the initial lumpectomy.
+XIV. CDRH DECISION
+CDRH issued an approval order on December 27, 2012
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 48The applicant must conduct a post-approval study as described below:
+MarginProbe System U.S. Post-Market Study: This study will be conducted as per agreement dated
+December 20, 2012 (teleconference/email). The purpose of the study is to determine the
+MarginProbe’s diagnostic accuracy at the margin level and impact on the Positive Margin Presence
+originating from the main specimen after the first lumpectomy surgery. These questions will be
+addressed in a prospective, multicenter, randomized, double arm study. A total of 440 newly enrolled
+patients treated in a total of 10-20 centers in the United States. The study participants will be
+followed for 6 months. The co-primary effectiveness endpoint include 1) diagnostic accuracy
+(sensitivity and specificity) at the margin level with a pre-specified clinically meaningful minimum
+margin level sensitivity and specificity 2) Positive Margin Presence originating from the main
+specimen after the first lumpectomy surgery. The secondary endpoints include the rate of additional
+operations (re-excision and re-operation), cosmesis, positive margin presence on the outermost
+shaving after the first lumpectomy surgery and diagnostic accuracy at the patient level. For safety, all
+adverse events will be monitored until the patient’s follow-up for the study is completed.
+The applicant’s manufacturing facilities were inspected and found to be in compliance with the
+device Quality System (QS) regulation (21 CFR 820).
+XV. APPROVAL SPECIFICATIONS
+Directions for use: See device labeling.
+Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+Precautions, and Adverse Events in the device labeling.
+Post-approval Requirements and Restrictions: See approval order.
+XVI. REFERENCES
+Allweis TM, et al. A Prospective, Randomized, Controlled, Multi-Center Study of a Real-Time
+Intraoperative Probe for Positive Margin Detection in Breast Conserving Surgery; Am J Surg.
+2008 Oct; 196(4): 483-9.
+The following literature references discuss how complete, routine lumpectomy cavity shavings
+performed at the time of operation affects conversion of cancer positive margins on the main
+specimen to final cancer negative margins on the main specimen.
+Cao D et al. Separate cavity margin sampling at the time of initial breast lumpectomy
+significantly reduces the need for reexcisions. Am J Surg Pathol. 2005 Dec; 29(12):1625-32.
+Coopey SB et al. Lumpectomy cavity shaved margins do not impact re-excision rates in breast
+cancer patients, Ann Surg Oncol. 2011; 18:3036-3040.
+Guidroz, JA et al. Sampling of secondary margins decreases the need for re-excision after partial
+mastectomy, Surgery 2011; 150(4):802-9.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 49Hequet, D et al. Surgical management modifications following systematic additional shaving of
+cavity margins in breast-conservation treatment, Ann Surg Oncol. 2011; 18:114-118.
+Huston TL, Pigalarga R et al. The influence of additional surgical margins on the total specimen
+volume excised and the reoperative rate after breast-conserving surgery. Am J Surg. 2006
+Oct; 192(4):509-12.
+Jacobson AF et al. Do additional shaved margins at the time of lumpectomy eliminate the need
+for re-excision? Am J Surg. 2008 Oct; 196(4):556-8.
+Keskek M et al. Factors predisposing to cavity margin positivity following conservation surgery
+for breast cancer. Eur J Surg Oncol. 2004 Dec; 30(10):1058-64.
+Kobbermann, A et al. Impact of routine cavity shave margins on breast cancer re-excision
+ratesAnn Surg Oncol. 2011; 18:1349-1355
+Marudanayagam R et al. Effect of cavity shaving on reoperation rate following breast­
+conservingsurgery. Breast J. 2008 Nov-Dec;14(6):570-3.
+Patel, R R et al. The effect of simultaneous peripheral excision in breast conservation upon
+arginstatus, Ann Surg Oncol. 2010; 17:2933-2939.
+Rizzo M et al. The effects of additional tumor cavity sampling at the time of breast-conserving
+surgery on final margin status, volume of resection, and pathologist workload. Ann Surg Oncol.
+2010 Jan; 17(1):228-34.
+Zavagno, G et al. Separate cavity margins excision as a complement to conservative breast
+cancer surgery, Eur J Surg Oncol. 2010; 36:632-638.
+PMA P110014: FDA Summary of Safety and Effectiveness Data Page 50

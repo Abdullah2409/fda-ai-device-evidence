@@ -1,0 +1,545 @@
+Smart Soft Healthcare AD
+℅ Yu Zhao
+Strategy Advisor
+LightSource Research LLC
+2108 N St., Suite N
+SACRAMENTO CA 95816
+June 23, 2022
+Re: K220497
+Trade/Device Name: CoLumbo
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: May 31, 2022
+Received: June 1, 2022
+Dear Yu Zhao:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.govK220497 - Yu Zhao Page 2
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statementbelow.
+510(k) Number (ifk nown)
+K220497
+Device Name
+CoLumbo
+Indications for Use (Describe)
+CoLumbo is an image post-processing and measurement software tool that provides quantitative spine measurements
+from previously-acquired DICOM lumbar spine Magnetic Resonance (MR) images for users' review, analysis, and
+interpretation. It provides the following functionality to assist users in visualizing, measuring and documenting out-of-
+range measurements:
+- Feature segmentation;
+- Feature measurement;
+- Threshold-based labeling of out-of-range measurement; and
+- Export of measurement results to a written report for user's review, revise and approval.
+CoLumbo does not produce or recommend any type of medical diagnosis or treatment. Instead, it simply helps users to
+more easily identify and classify features in lumbar MR images and compile a report. The user is responsible for
+confirming/modifying settings, reviewing and verifying the software-generated measurements, inspecting out-of-range
+measurements, and approving draft report content using their medical judgment and discretion.
+The device is intended to be used only by hospitals and other medical institutions.
+Only DICOM images of MRI acquired from lumbar spine exams of patients aged 18 and above are considered to be valid
+input. CoLumbo does not support DICOM images of patients that are pregnant, undergo MRI scan with contrast media, or
+have post-operational complications, scoliosis, tumors, infections, fractures.
+Type of Use (Select one or both, as applicable)
+Z Prescription Use (Part 21 CFR 801 Subpart D) F Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."
+FORM FDA 3881 (6120) Page 1 of 1 PSC Publishing Serices (301) 443-6740 EFK220497
+510(k) Summary
+1. Submitter
+Smart Soft Healthcare AD
+113 General Kolev Str., Primorski Distri., Office 7.2
+Varna 9002, Bulgaria
+Phone: +35952919513
+Fax: None
+Contact Person: Nedelcho Georgiev
+Date Prepared: February 5, 2022
+2. Device
+Name of Device: CoLumbo
+Common or Usual Name: CoLumbo
+Classification Name: Medical image management and processing system (21 CFR 892.2050)
+Product Code: QIH
+Regulatory Class: II
+3. Predicate Devices
+Predicate Device:
+Device Name: AI-Rad Companion Brain MR
+Manufacturer: Siemens Healthcare GmbH
+Classification Name: Medical image management and processing system (21 CFR 892.2050)
+Secondary Classification Name: Magnetic resonance diagnostic device
+Classification Product Code: LLZ
+Subsequent Product Code: LNH
+Classification Panel: Radiology
+Device Class: Class II
+510(k) Number: K193290 cleared July 5, 2019
+Reference Device 1:
+Device Name: AI-Rad Companion (Cardiovascular)
+Manufacturer: Siemens Medical Solutions USA, Inc.
+Classification Name: Computed tomography x-ray system
+Regulation Number: 21 CFR 892.1750
+Classification Product Code: JAK
+Subsequent Product Code: LLZ
+Classification Panel: Radiology
+Device Class: Class IICoLumbo 510(k) Premarket Notification Smart Soft Healthcar
+510(k) Number: K183268 cleared September 10, 2019
+Reference Device 2:
+Device Name: AI-Rad Companion (Musculoskeletal)
+Manufacturer: Siemens Medical Solutions USA, Inc.
+Classification Name: Computed tomography x-ray system
+Regulation Number: 21 CFR 892.1750
+Classification Product Code: JAK
+Classification Panel: Radiology
+Device Class: Class II
+510(k) Number: K193267 cleared March 16, 2020
+4. Device Description
+CoLumbo is a medical device (software) for viewing and interpreting magnetic resonance imaging (MRI)
+of the lumbar spine. The software is a quantitative imaging tool that assists radiologists and neuro- and
+spine surgeons (“users”) to identify and measure lumbar spine features in medical images and record their
+observations in a report. The users then confirm whether the out-of-range measurements represent any
+true abnormality versus a spurious finding, such as an artifact or normal variation of the anatomy. The
+segmentation and measurements are classified using “modifiers” based on rule-based algorithms and
+thresholds set by each software user and stored in the user’s individualized software settings. The user
+also identifies and classifies any other observations that the software may not annotate.
+The purpose of CoLumbo is to provides information regarding common spine measurements confirmed
+by the user and the pre-determined thresholds confirmed or defined by the user. Every feature annotated
+by the software, based on the user-defined settings, must be reviewed and affirmed by the radiologist
+before the measurements of these features can be stored and reported. The software initiates adjustable
+measurements resulting from semi-automatic segmentation. If the user rejects a measurement the
+corresponding segmentation is rejected too. Segmentations are not intended to be a final output but serve
+the purpose of visualization and calculating measurements. The device outputs are intended to be a
+starting point for a clinical workflow and should not be interpreted or used as a diagnosis. The user is
+responsible for confirming segmentation and all measurement outputs. The output is an aid to the clinical
+workflow of measuring patient anatomy and should not be misused as a diagnosis tool.
+User-confirmed/defined settings control the sensitivity of the software for labelling measurements in an
+image. The user (not the software) controls the threshold for identifying out-of-range measurements, and,
+in every case once an out-of-range measurement is identified, the user must confirm or reject its presence.
+The software facilitates this process by annotating or drawing contours (segmentations) around features of
+the relevant anatomy and displaying measurements based on these contours. The user maintains control of
+the process by inspecting the segmentation, measurements and annotations upon which the measurements
+are based. The user may also examine other features of the imaging not annotated by the software to form
+a complete impression and diagnostic judgment of the overall state of disease, disorder, or trauma.
+5. Indications for Use
+CONFIDENTIAL 1CoLumbo 510(k) Premarket Notification Smart Soft Healthcar
+CoLumbo is an image post-processing and measurement software tool that provides quantitative spine
+measurements from previously-acquired DICOM lumbar spine Magnetic Resonance (MR) images for
+users’ review, analysis, and interpretation. It provides the following functionality to assist users in
+visualizing, measuring and documenting out-of-range measurements:
+• Feature segmentation;
+• Feature measurement;
+• Threshold-based labeling of out-of-range measurement; and
+• Export of measurement results to a written report for user’s review, revise and approval.
+CoLumbo does not produce or recommend any type of medical diagnosis or treatment. Instead, it simply
+helps users to more easily identify and classify features in lumbar MR images and compile a report. The
+user is responsible for confirming/modifying settings, reviewing and verifying the software-generated
+measurements, inspecting out-of-range measurements, and approving draft report content using their
+medical judgment and discretion.
+The device is intended to be used only by hospitals and other medical institutions.
+Only DICOM images of MRI acquired from lumbar spine exams of patients aged 18 and above are
+considered to be valid input. CoLumbo does not support DICOM images of patients that are pregnant,
+undergo MRI scan with contrast media, or have post-operational complications, scoliosis, tumors,
+infections, fractures.
+6. Comparison of the Technological Characteristics with the Predicate
+Devices
+In comparison to the Predicate Device and the Reference Devices, the Subject Device provides
+comparable outputs in terms of segmentation, measurement and labeling. A tabular high-level comparison
+of the Subject Device, the Predicate Device and the Reference Devices is provided as Table 8.1 below.
+CONFIDENTIAL 2CoLumbo 510(k) Premarket Notification Smart Soft Healthcar
+Table 8.1 – Comparison of Technological Characteristics with Predicate/Reference Devices
+Predicate Device - Reference Device 1 - Reference Device 2 - Subject Device Remark/Discussion
+AI-Rad Companion AI-Rad Companion AI-Rad Companion CoLumbo
+Brain MR (Cardiovascular) (Musculoskeletal)
+(K193290) (K183268) (K193267)
+Intended User Radiologist Radiologists & Radiologists & Radiologist and neuro- Highly similar
+Physicians from Physicians from and spine-surgeons
+emergency medicine, emergency medicine,
+specialty care, urgent specialty care, urgent
+care, and general care, and general
+practice practice
+Intended Patient The intended patient The intended patient The intended patient The intended patient Similar
+Population target group consists population is not population is not population is not subject
+of patients of age 2 subject to any subject to any to any restrictions.
+restrictions. restrictions. Automation support
+years or higher. In
+Automation support Automation support requires images of
+this age range the
+requires images of requires images of patients of 18 years and
+brain segmentation
+patients of 22 years patients of 22 years older, not pregnant,
+algorithm
+and older. and older. without post-operational
+works properly.
+complications, scoliosis,
+tumors, infections,
+fractures.
+Supported Body Brain Thorax Thorax (including Lumbar Spine Similar to Reference
+Part thoracic spine) Devices;
+Different from Primary
+Device
+Segmentation Yes Yes Yes Yes Same
+Segmentation and Segmentation and Segmentation of Segmentation and
+quantitative analysis quantitative analysis vertebras quantitative analysis
+Measurement Yes Yes Yes Yes Same
+Quantitative Volume Measure Hounsfield Quantitative comparison
+comparison of measurement of the values within the of structure with
+structure with heart, total calcium vertebras normative data or user-set
+normative data or volume in the thresholds
+user-set thresholds coronary arteries,
+CONFIDENTIAL 3CoLumbo 510(k) Premarket Notification Smart Soft Healthcar
+Predicate Device - Reference Device 1 - Reference Device 2 - Subject Device Remark/Discussion
+AI-Rad Companion AI-Rad Companion AI-Rad Companion CoLumbo
+Brain MR (Cardiovascular) (Musculoskeletal)
+(K193290) (K183268) (K193267)
+maximum diameters
+of the aorta at typical
+landmarks
+Threshold-Based Yes Yes Yes Yes Similar
+Out-of-Range Quantitative Threshold-based Labeling of vertebras Quantitative comparison
+Measurements comparison of highlighting of based on the of structure with
+structure with findings. individual heights of normative data or user-set
+normative data or Classify each finding the vertebras and thresholds
+user-set thresholds (e.g., enlarged whether they
+diameters) by critically differ from
+comparing their direct neighbors
+measurements
+against user-set
+thresholds
+Reporting Yes Yes Yes Yes Same
+Exportation of results Exportation of results Exportation of results Exportation of results with
+with the findings for with the findings for with the findings for the measurements for None of the reports are
+further reporting further reporting further reporting further reporting to be used as final
+reports. Trained
+radiologist or neuro-
+and spine-surgeons
+need to review, edit and
+approve the final report
+SaMD Yes Yes Yes Yes Same
+Deep Convolutional
+3D Deep Image‐to‐ 3D Deep Image‐to‐
+Algorithm (no information) Image-to-Image Neural Similar
+Image Network Image Network
+Network
+Supported MR CT CT MR Same as Primary
+Modality Predicate Device 1;
+Similar to Reference
+Devices
+CONFIDENTIAL 4The Subject Device is substantially equivalent in comparison to the Predicate/Reference Devices. The
+information regarding the Subject Device do not raise new questions about safety and effectiveness and
+demonstrate that CoLumbo is at least as safe and effective as the legally marketed devices.
+7. Performance Data
+7.1. Biocompatibility Testing
+Not applicable.
+7.2. Electrical Safety and Electromagnetic Compatibility (EMC)
+Not applicable.
+7.3. Animal Study
+Not applicable.
+7.4. Voluntary Conformance Standards
+CoLumbo has been tested to meet the requirements of conformity to multiple industry standards.
+Non‐clinical performance testing demonstrated that CoLumbo complies with the following voluntary
+FDA recognized Consensus Standards listed in Table 8.2 below.
+Table 8.2 - Voluntary Conformance Standards
+Recognition Standard
+#
+13-79 IEC 62304:2006/AMD 1:2015 Medical device software — Software life cycle
+processes — Amendment 1
+5-125 ISO 14971:2019 Medical devices — Application of risk management to medical
+devices
+5-129 IEC 62366-1:2015+AMD1:2020 Medical devices — Part 1: Application of usability
+engineering to medical devices
+5-117 ISO 15223-1:2016 Medical devices — Symbols to be used with medical device
+labels, labelling and information to be supplied — Part 1: General requirements
+12-300 NEMA PS 3.1 - 3.20 (2016) Digital Imaging and Communications in Medicine
+(DICOM) Set
+7.5. Nonclinical Tests
+Smart Soft Healthcare has performed software design verification testing and has sponsored external
+standalone performance assessment study. The performance data demonstrates continued
+conformance with special controls for medical devices containing software.
+Software documentation for a Moderate Level of Concern software, per FDA Guidance for the
+Content of Premarket Submissions for Software Contained in Medical Devices, issued on May 11,
+2005, were provided. Smart Soft Healthcare has conducted software verification and validation, in
+accordance with the FDA guidance, General Principles of Software Validation; Final Guidance for
+CONFIDENTIAL 5CoLumbo 510(k) Premarket Notification Smart Soft Healthcare
+Industry and FDA Staff, issued on January 11, 2002. All software requirements and risk analysis have
+been successfully verified and traced.
+Smart Soft Healthcare conforms to the cybersecurity requirements by implementing a process of
+preventing unauthorized access, modifications, misuse or denial of use, or the unauthorized use of
+information that is stored, accessed or transferred from a medical device to an external recipient. The
+vulnerability assessment and penetration testing demonstrates satisfactory security performance.
+In addition to the human factors validation, Smart Soft Healthcare conducted a standalone software
+performance study in the U.S. to validate clinical performance of the CoLumbo software.
+The nonclinical test data demonstrated conformance with special controls and substantial equivalence
+to predicate devices’ performance.
+Standalone Software Performance Validation
+To validate the CoLumbo software from a clinical perspective, a clinical data based standalone
+software performance assessment study was conducted in the U.S. The standalone software
+performance assessment study of CoLumbo included 101 MR image studies for 101 patients of
+different ages and racial groups, collected from seven (7) sites across the U.S. The standalone
+software performance assessment study compared the CoLumbo software outputs without any editing
+by a radiologist to the ground truth defined by 3 radiologists on segmentations and measurements.
+Study Subjects:
+Number of Subjects Percent of Total
+Total Number of Subjects 101 100%
+Gender – Male 53 52.5%
+Gender - Female 48 47.5%
+Age – 18 through 21 3 3.0%
+Age – 22 through 50 74 73.3%
+Age – 51 and above 24 23.8%
+Racial – Caucasian 83 82.2%
+Racial – Black/African American 9 8.9%
+Racial – Hispanic 3 3.0%
+Racial – American Indian 3 3.0%
+Racial – Others 3 3.0%
+Imaging Systems:
+The 101 study images were acquired on MRI imaging systems made by five (5) manufacturers. All
+scans were conducted using the protocols standard for the investigational center, containing at least
+one axial and sagittal T2 series.
+Manufacturer Number of MRI Exams Percent of Total
+Collected
+Toshiba (1.5T & 3.0T) 65 64.4%
+Siemens (1.5T) 17 16.8%
+Philips (1.5T) 1 1.0%
+Hitachi (1.5T) 1 1.0%
+GE (1.5T) 17 16.8%
+CONFIDENTIAL 6CoLumbo 510(k) Premarket Notification Smart Soft Healthcare
+Total 101 100%
+Ground Truth:
+The ground truths for segmentations and measurements were independently established by three (3)
+U.S. radiologists without using the CoLumbo software. Each radiologist used a specialized pixel
+labeling tool to independently label the pixels of the tissues at the predetermined levels of the
+preselected axial and sagittal slices. The per-pixel majority opinion of the three (3) radiologists
+established the ground truth for each segmented tissue. Similarly, each radiologist used a commercial
+software tool to produce a standard set of areal, angular and linear measurements. The ground truth
+measurements were established by taking the median of three radiologists’ measurements.
+Acceptance Criteria and Results:
+Primary endpoint (measurement accuracy):
+- the maximum Mean Absolute Error as defined as the upper limit of the 95% confidence interval
+for MAE is below a predetermined allowable error limit (MAE ) for each measurement listed.
+Limit
+Primary end point results: all primary endpoints were met.
+Measurement Mean Absolute 95% Confidence Interval (CI) MAE
+Limit
+Error (MAE)
+Dural Sac Area (Axial) 14.8 mm2 12.4 - 17.3 mm2 20 mm2
+Lordotic Angle (Sagittal) 2.6° 1.9 - 3.3° 6°
+Listhesis/AP Slip (Sagittal) 0.9 mm 0.8 - 1.1 mm 2 mm
+Secondary endpoint (measurement and segmentation accuracy):
+- the maximum Mean Absolute Error, defined as the upper limit of the 95% confidence interval for
+MAE, is below a predetermined allowable error limit (MAE ) for each measurement listed.
+Limit
+- the minimum Mean Dice Coefficient, defined as the lower limit of the 95% confidence interval
+for MDC, is above a predetermined allowable limit (MDC ) for each segmentation listed.
+Limit
+Secondary endpoint results: all secondary endpoints on measurement and segmentation were met.
+Measurement Mean Absolute 95% Confidence Interval (CI) MAE
+Limit
+Error (MAE)
+Disc Material Outside 1.4 mm 1.1 - 1.6 mm 2 mm
+IV Space (Axial)
+Disc Material 1.2 mm 1.0 - 1.4 mm 2 mm
+Migration (Sagittal)
+Disc Material Bulge 1.0 mm 0.8 - 1.2 mm 2 mm
+(Axial)
+Dural Sac AP 1.0 mm 0.8 - 1.1 mm 2 mm
+Diameter (Axial)
+Intervertebral Angle 2.2° 1.9 - 2.5° 6°
+(Sagittal)
+Anterior VB Height 0.8 mm 0.7 - 0.9 mm 2 mm
+(Sagittal)
+Middle VB Height 0.8 mm 0.7 - 0.9 mm 2 mm
+CONFIDENTIAL 7CoLumbo 510(k) Premarket Notification Smart Soft Healthcare
+(Sagittal)
+Posterior VB Height 1.0 mm 0.9 – 1.2 mm 2 mm
+(Sagittal)
+Anterior Disc Height 1.0 mm 0.7 – 1.0 mm 2 mm
+(Sagittal)
+Middle Disc Height 0.8 mm 0.7 – 0.9 mm 2 mm
+(Sagittal)
+Posterior Disc Height 1.1 mm 1.0 – 1.2 mm 2 mm
+(Sagittal)
+Tissue Segmentation Mean Dice 95% Confidence MDC
+Limit
+Coefficient (MDC) Interval (CI)
+Disc/Vertebral Body (Axial) 0.97 0.96 - 0.97 0.8
+Vertebral Arch and 0.87 0.86 - 0.88 0.8
+Adjacent Ligaments (Axial)
+Dural Sac (Axial) 0.92 0.92 - 0.93 0.8
+Nerve Roots (Axial) 0.75 0.72 - 0.78 0.6
+Disc Material Outside 0.76 0.72 - 0.80 0.6
+Intervertebral Space (Axial)
+Disc (Sagittal) 0.93 0.93 - 0.94 0.8
+Vertebral Body (Sagittal) 0.95 0.94 - 0.95 0.8
+Sacrum S1 (Sagittal) 0.93 0.92 - 0.94 0.8
+Disc Mat. Outside IV Space 0.69 0.66 - 0.72 0.6
+and/or Bulging Part (Sagittal)
+CoLumbo was shown to produce measurements and segmentations accurate to within a
+prospectively-defined margin of error around the Ground Truth. This accuracy was preserved for all
+critical subgroups, including MRI scanner manufacturer, race, sex, and patient age.
+MAE for software measurements and MDC for software segmentations by MRI scanner
+manufacturer:
+Measurement MAE 95% Confidence Intervals
+MAE
+Limit
+Type Toshiba Siemens GE Toshiba Siemens GE
+Angular 1.6° - 1.7° -
+2.0° 2.3° 3.6° 1.8 - 2.3° 6°
+Measurements 3.0° 5.6°
+Linear 0.9 - 1.0 0.8 - 1.0 0.9 - 1.1
+0.9 mm 0.9 mm 1.0 mm 2 mm
+Measurements mm mm mm
+Segmentation MDC 95% Confidence Intervals
+MDC
+Limit
+Type Toshiba Siemens GE Toshiba Siemens GE
+Compression-
+0.71 - 0.63 - 0.71 -
+related Tissue 0.73 0.69 0.76 0.6
+0.76 0.75 0.81
+Segmentations
+Other Tissue 0.92 - 0.92 - 0.93 -
+0.93 0.93 0.94 0.8
+Segmentations 0.93 0.93 0.95
+MAE for software measurements and MDC for software segmentations by race:
+Measurement Type MAE MAE 95% Confidence Intervals MAE
+Limit
+CONFIDENTIAL 8CoLumbo 510(k) Premarket Notification Smart Soft Healthcare
+White Non-White White Non-White
+Angular
+2.4° 2.3° 1.9 - 2.9° 1.7 - 2.9° 6°
+Measurements
+Linear Measurements 0.9 mm 1.1 mm 0.9 - 1.0 mm 1.0 - 1.2 mm 2 mm
+MDC MDC 95% Confidence Intervals
+Segmentation Type MDC
+White Non-White White Non-White Limit
+Compression-related
+0.73 0.72 0.71 - 0.75 0.67 - 0.78 0.6
+Tissue Segmentations
+Other Tissue
+0.93 0.93 0.925 - 0.933 0.92 - 0.94 0.8
+Segmentations
+MAE for software measurements and MDC for software segmentations by gender:
+95% Confidence
+MAE MAE
+Measurement Type Intervals MAE
+Male Female Limit
+Male Female
+Angular
+2.3° 2.4° 1.7 - 3.1° 2.1 - 2.7° 6°
+Measurements
+Linear Measurements 0.8 mm 0.9 mm 0.9 - 1.0 mm 0.9 - 1.0 mm 2 mm
+95% Confidence
+MDC MDC
+Segmentation Type Intervals MDC
+Male Female Limit
+Male Female
+Compression-related
+0.75 0.71 0.72 - 0.78 0.68 - 0.74 0.6
+Tissue Segmentations
+Other Tissue
+0.93 0.93 0.92 - 0.94 0.92 - 0.93 0.8
+Segmentations
+The following tables represent MAE and DICE statistics for each of the age groups in the
+aforementioned table.
+Tissue Segmentation Type Acceptance Between Standard Number Confidence
+or Measurement Criteria 18 and Deviation of Interval
+21 years Samples
+old
+Angle-based Measurements 6° 1.14° 1.41° 6 (0.48 – 1.81°)
+Linear Measurements 2 mm 0.83 mm 1.06mm 36 (0.60 –
+1.05mm)
+Compression-related Tissue 0.6 0.76 0.087 7 (0.70 – 0.83)
+Segmentations
+Other Tissue Segmentations 0.8 0.92 0.039 18 (0.91 – 0.94)
+Tissue Segmentation Type Acceptance Between 22 and Confidence Interval
+or Measurement Criteria 50 years old
+Angle-based Measurements 6° 2.43° (1.94 – 2.93°)
+Linear Measurements 2 mm 0.95 mm (0.90 – 1.00mm)
+Compression-related Tissue 0.6 0.73 (0.71 – 0.76)
+Segmentations
+Other Tissue Segmentations 0.8 0.93 (0.926 – 0.934)
+CONFIDENTIAL 9CoLumbo 510(k) Premarket Notification Smart Soft Healthcare
+Tissue Segmentation Type Acceptance 51 years old and Confidence Interval
+or Measurement Criteria above
+Angle-based Measurements 6° 2.09° (1.63 – 2.56°)
+Linear Measurements 2 mm 0.97 mm (0.87 – 1.06mm)
+Compression-related Tissue 0.6 0.72 (0.68 – 0.76)
+Segmentations
+Other Tissue Segmentations 0.8 0.93 (0.92 – 0.93)
+Training, Testing and Validation Data Independence:
+The CoLumbo software machine learning algorithm training and testing data used during the
+algorithm development, as well as validation data used in the U.S. standalone software performance
+assessment study were all independent data sets.
+7.6. Clinical Validation Study
+No human clinical study was conducted to support the pre-market clearance.
+8. Conclusions
+The CoLumbo software is as safe and effective as the predicate device. The subject device has the same
+intended uses and similar indications, technological characteristics, and principles of operation as its
+predicate device. The minor differences between subject and predicate device in indications do not alter
+the intended use of the device and do not raise new or different questions regarding its safety and
+effectiveness when used as labeled.
+The software verification and validation testing data, including the standalone software performance
+assessment study data, support the safety of the devices and demonstrate that the CoLumbo software
+performs as intended in the specified use conditions.
+Therefore, the CoLumbo software is substantially equivalent.
+CONFIDENTIAL 10

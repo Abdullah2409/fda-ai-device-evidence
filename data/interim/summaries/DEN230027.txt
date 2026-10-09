@@ -1,0 +1,560 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+NAVICAM PROSCAN
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Gastrointestinal capsule endoscopy analysis software device. A gastrointestinal
+capsule endoscopy analysis software device is used to analyze pre-recorded capsule
+endoscopy videos of the gastrointestinal tract that are suspected of containing lesions.
+This device uses software algorithms to identify images and areas of interest as outputs to
+aid the clinician in analyzing suspected lesions, for clinician review of device outputs.
+The device may include hardware to support interfacing with a capsule imaging system.
+NEW REGULATION NUMBER: 21 CFR 876.1540
+CLASSIFICATION: Class II
+PRODUCT CODE: QZF
+BACKGROUND
+DEVICE NAME: NaviCam ProScan
+SUBMISSION NUMBER: DEN230027
+DATE DE NOVO RECEIVED: April 14, 2023
+SPONSOR INFORMATION:
+Ankon Technologies Co., Ltd
+B3-2, B3-3, D3-4 Biolake, No.666, Hi-Tech Road
+East Lake New Technology Development Zone
+Wuhan, 430075 Hubei, China
+INDICATIONS FOR USE
+The NaviCam ProScan is indicated as follows:
+NaviCam ProScan is an artificial intelligence (AI) assisted reading tool designed to aid
+small bowel capsule endoscopy reviewers in decreasing the time to review capsule
+endoscopy images for adult patients in whom the capsule endoscopy images were
+obtained for suspected small bowel bleeding. The clinician is responsible for conducting
+their own assessment of the findings of the AI-assisted reading through review of the
+entire video, as clinically appropriate. ProScan also assists small bowel capsule
+endoscopy reviewers in identifying the digestive tract location (oral cavity and beyond,esophagus, stomach, small bowel) of the image in adults. This tool is not intended to
+replace clinical decision making.
+LIMITATIONS
+The sale, distribution, and use of NaviCam ProScan are restricted to prescription use in
+accordance with 21 CFR 801.109.
+The device is not intended to be used as a stand-alone diagnostic device or replace
+clinical decision making.
+ProScan should only be used with NaviCam Small Bowel Capsule Endoscopy System.
+In the clinical study of the device, performance (sensitivity and specificity) of the device
+in the absence of clinician input was not evaluated. Therefore, the AI standalone
+performance in the clinical study of NaviCam ProScan has not been established. The
+clinician is responsible for making the final clinical diagnosis.
+Negative or normal result, as determined by ProScan alone, does not exclude the
+presence of small bowel disease (false negative). Similarly, positive or abnormal result,
+as determined by ProScan alone, does not automatically confirm the presence of small
+bowel disease (false positive). The clinician should always carefully review the entire
+video. If symptoms persist, further evaluation should be performed.
+ProScan is not intended to characterize lesions in a manner that would potentially
+replace biopsy sampling or other characterization tools.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The NaviCam ProScan is artificial intelligence software that has been trained to process capsule
+endoscopy images of the small bowel acquired by the NaviCam Small Bowel Capsule
+Endoscopy System to recognize the various sections of the digestive tract and to recognize and
+mark images containing suspected abnormal lesions.
+NaviCam ProScan is intended to be used as an adjunct to the ESView software of the NaviCam
+Small Bowel Capsule Endoscopy System (both cleared in K221590) and is not intended to
+replace gastroenterologist assessment or histopathological sampling.
+NaviCam ProScan does not make any modification or alteration to the original capsule
+endoscopy video. It only overlays graphical markers and includes an option to only display these
+identified images. The whole small bowel capsule endoscopy video and highlighted regions still
+must be independently assessed by the clinician and appropriate actions taken according to
+standard clinical practice.
+De Novo Summary (DEN230027) Page 2 of 16The NaviCam ProScan software includes two main algorithms, as illustrated in Figure 1 below:
+• Digestive tract site recognition, which includes an image analysis algorithm and site
+segmentation algorithm to determine: oral and beyond, esophagus, stomach, and small
+bowel. Tract site is displayed as a color code on the video timeline with descriptions on
+the indicators at the bottom of the software user interface.
+• Small bowel lesion recognition, which includes the small bowel lesion image analysis
+algorithm with lesion region localization. Potential lesions are marked with a bounding
+box as illustrated in Figure 2 below, with the active video played at the top section of the
+figure, and ProScan-identified images in the lower section, which includes images with
+suspected lesions and individual images marking the transition in the digestive tract. The
+algorithm is functional only on those sections of the GI tract that were identified as
+“small bowel” by the digestive tract site recognition software function.
+Figure 1: Working Principle of NaviCam ProScan
+Figure 2: Lesion Recognition
+Both software algorithms are based on convolutional neural networks using different deep
+learning models.
+De Novo Summary (DEN230027) Page 3 of 16SUMMARY OF NONCLINICAL/BENCH STUDIES
+SOFTWARE/CYBERSECURITY
+NaviCam ProScan was identified as having a moderate level of concern as defined in the
+FDA guidance document “Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices.” The software documentation included:
+1. Software/Firmware Description
+2. Device Hazard Analysis
+3. Software Requirement Specifications
+4. Architecture Design Chart
+5. Software Design Specifications
+6. Traceability
+7. Software Development Environment Description
+8. Verification and Validation Documentation
+9. Revision Level History
+10. Unresolved Anomalies
+Risk analysis was provided for the software with a description of the hazards, their causes
+and severity as well as acceptable methods for control of the identified risks. NaviCam
+ProScan provided a description, with test protocols including pass/fail criteria and report
+of results, of acceptable verification and validation activities at the unit, integration and
+system level. These evaluations include performance, functional, UI, security,
+installation, compatibility, and regression testing associated with the software
+implementation into the primary ESView application. All testing met design
+specifications and passed successfully. This testing is not part of the AI performance
+evaluation.
+Regarding the cybersecurity, documentation included all the recommended information
+from the FDA guidance document “Content of Premarket Submissions for Management
+of Cybersecurity in Medical Devices.” This includes a threat model, cybersecurity
+mitigation information, a malware-free shipping plan, an upgrade plan, and other
+information for safeguarding the algorithms.
+PERFORMANCE TESTING – BENCH – STANDALONE PERFORMANCE
+The optimization, training, and validation of the NaviCam ProScan was performed in
+several phases, as summarized below.
+Algorithm Training
+In the training phase, the NaviCam ProScan was trained to recognize abnormal small
+bowel images and to recognize the digestive tract site. A dataset of 2,642 patients that
+underwent small bowel capsule endoscopy with NaviCam Small Bowel Capsule
+Endoscopy System, obtained from 8 clinical institutions in China, was collected.
+De Novo Summary (DEN230027) Page 4 of 16Of those 2,642 patients, the dataset was split so that 1,476 patients were used for training
+the lesion detection function, and 218 patients were used in internal testing for the lesion
+detection function (see Standalone Algorithm Testing section, below), with full
+demographics information shown in Table 1 below. For tract site recognition, the 2,642
+patient dataset was split so that 1,386 patients were used for training the tract site
+recognition function, and 424 patients were used in internal testing of the tract site
+recognition function (see Standalone Algorithm Testing section, below), with full
+demographics information shown in Table 2 below. Please note that patients used for
+training do not overlap with patients used for corresponding testing of that software
+function. However there may be overlap in selection of patients for training for lesion
+detection function and training/testing of the tract site recognition function, and overlap
+in selection of patients for training of the tract site recognition function and
+training/testing of the lesion detection function.
+Table 1: Lesion Detection Function
+Training Testing
+(No. of subjects = (No. of subjects =
+1,476) 218)
+Age (years):
+Mean Age (SD) 47.7 (9.8) 48.4 (9.8)
+Age range 12~91 15~91
+Sex:
+Male 977 151
+Female 478 62
+Unknown 21 5
+Race/Ethnicity:
+White or Caucasian 0 0
+Black or African American 0 0
+Hispanic or Latino 0 0
+Asian 1476 218
+Native Hawaiian or other
+0 0
+Pacific Islander
+Table 2: Tract Site Recognition Function
+Training
+Testing (No. of
+(No. of subjects =
+subjects =424)
+1,386
+Age (years):
+Mean Age (SD) 48.1(12.6) 47.3(11.6)
+Age range 15~97 11~84
+Sex:
+Male 898 342
+Female 488 82
+Unknown 0 0
+Race/Ethnicity:
+White or Caucasian 0 0
+Black or African American 0 0
+De Novo Summary (DEN230027) Page 5 of 16Hispanic or Latino 0 0
+Asian 1386 424
+Native Hawaiian or other
+0 0
+Pacific Islander
+Images for the dataset were labelled as follows:
+Lesion Detection Function
+Pre-Annotation (Initial Labeling) Process:
+Full videos were randomly assigned to three gastroenterologists for the annotation of
+small bowel images. The doctors annotate one or multiple positive lesion image
+segments and one or multiple negative image segments for each video. These positive
+lesion image segments and negative image segments constitute the full video of the small
+bowel for objects. All positive lesion image segments are independently numbered and
+randomly sampled. Similarly, all negative image segments are independently numbered
+and randomly sampled. These two parts, obtained through sampling, form the annotated
+image dataset of the small bowel.
+Annotation (Truthing) Process:
+The image dataset obtained from the pre-annotation process is annotated by the three
+gastroenterologists using annotation software in a back-to-back manner. The computer
+automatically determines consistency and merges the classification results while
+preserving differing opinions. When the cutoff value for consistency is less than 3, two
+arbitration experts independently review and modify the classification results, correcting
+any missed diagnoses, misdiagnoses, or misjudgments. If difficult questions arise, the
+arbitration experts engage in collective discussion and confirmation.
+Tract Site Recognition Function
+Pre-Annotation (Initial Labeling) Process:
+Full video data is randomly assigned to three experts. The experts mark the boundary
+positions of each site (including Oral Cavity and beyond, Esophagus, Stomach, and Small
+Bowel) within each video. For example, the boundary position where the first image
+enters the esophagus, the first image enters the stomach, and the first image enters the
+small bowel. These four sets of images form a complete video. Each set of images is
+individually labeled and randomly sampled. The site annotation data is generated by
+randomly sampling all site data.
+Annotation (Truthing) Process:
+The image dataset obtained from the pre-annotation process is annotated by three
+gastroenterologists using annotation software in a blinded manner. They annotate the
+classification labels for the four sites (including Oral Cavity and beyond, Esophagus,
+Stomach, and Small Bowel). The computer automatically determines the consistency and
+merges the classification results while preserving differing opinions. When the
+consistency cutoff value is less than 3, two adjudication experts independently review
+and modify the classification results, correcting any missed diagnoses, misdiagnoses, or
+misjudgments. In case of difficult cases, collective discussions and confirmations are
+conducted by the adjudication experts.
+De Novo Summary (DEN230027) Page 6 of 16Standalone Algorithm Testing
+1. Lesion detection function
+Following the training phase, the performance of the NaviCam ProScan to correctly
+recognize abnormal small bowel images was tested. For this purpose, 218 patients from
+the dataset described above were selected for testing, with results provided in Table 3
+below. From that same dataset, normal and abnormal small bowel capsule endoscopy
+images were used to test the algorithm, with results provided in Table 4 below.
+A. Patient-level analysis
+Table 3: Patient-level Analysis Results
+Expert Reading
+Normal Abnormal
+ProScan Normal 33 2
+Prediction Abnormal 56 127
+Patient-level sensitivity and specificity were determined to be 98% (95% CI: 93.95%-
+99.71%) and 37% (95%CI: 27.27%-48.02%), respectively. Subgroup analyses for
+patient-level sensitivity and specificity did not identify major differences when analyzed
+by gender, age, or lesion type.
+Figure 3: Patient-Level ROC and AUC Analysis
+The patient-level ROC analysis, shown in Figure 3 above, is based on the assumption of
+worst-case device failure analysis, where the AI algorithm identifies a case as positive if
+it detects at least one positive image.
+De Novo Summary (DEN230027) Page 7 of 16B. Image-level analysis
+Table 4: Image-level Analysis Results
+Expert Reading
+Normal Abnormal
+ProScan Normal 14743 179
+Prediction Abnormal 372 3439
+Image level analysis refers to the analysis of the dataset consisting of normal (no lesion
+present) and abnormal (lesion present) images. This dataset may include multiple images
+of the same lesion from different angles. Image level sensitivity and specificity were
+determined to be 95.05% (95% CI: 94.28%-95.72%) and 97.54% (95% CI: 97.28%-
+97.78%), respectively. ROC and AUC analysis is shown below in Figure 4.
+Figure 4: Image-Level ROC and AUC Analysis
+Conclusions from Lesion Detection Testing
+Patient-level sensitivity was high, at 98%, demonstrating that the lesion detection
+function resulted in few false negatives for patients. Patient level specificity was 37%,
+suggesting that clinicians will need to carefully review ProScan findings to identify false
+positive predictions. Lesion-level (or object-level) sensitivity and specificity are
+unknown. Patients may have multiple true positive lesions. The lack of lesion-level data
+introduces uncertainty regarding the ability of the device to detect individual lesions. At
+the image-level, results demonstrate sensitivity of 95.05% and specificity of 97.54%.
+2. Tract Site Testing
+Following the training phase, the performance of the NaviCam ProScan to recognize the
+tract site (oral cavity and beyond, esophagus, stomach, or small bowel) was tested. For
+this purpose, 424 patients from the dataset described above were selected for testing. The
+performance of the site recognition model at the image level was tested using four
+categories of digestive tract sites: Oral Cavity and beyond, Esophagus, Stomach, and
+De Novo Summary (DEN230027) Page 8 of 16Small Bowel. The digestive tract images captured by capsule endoscopy exhibit a
+sequential relationship. Based on this sequential relationship and the results of image site
+classification, all digestive tract images were divided into four groups. Subsequently, the
+boundaries between different digestive tract sites, namely esophagus, stomach, or small
+bowel, were determined based on these groups, with results shown in Table 5 below.
+Table 5: Tract Recognition – Image-level Analysis Results
+Expert Reading
+Oral Cavity Small
+Esophagus Stomach
+and beyond bowel
+Oral Cavity
+3216 25 39 50
+and beyond
+ProScan Prediction Esophagus 11 704 5 24
+Stomach 5 10 17215 306
+Small Bowel 2 1 48 2986
+Sensitivity and specificity were calculated for each category of anatomical site
+recognition (including Oral Cavity and beyond, Esophagus, Stomach, and Small Bowel)
+using a binary classification approach, with results shown in Table 6 below. The current
+category being evaluated is considered as positive, while the other categories are
+considered as negative. The Youden index is used to determine the optimal threshold, and
+sensitivity and specificity values are calculated accordingly. The prediction result of
+ProScan based on the confusion matrix are obtained by selecting the maximum
+probability value among the four anatomical site classifications for each image, and these
+predictions are used for statistical analysis and the final threshold setting for the device.
+Table 6: Sensitivity and Specificity for Tract Site Recognition
+Sensitivity (95% CI) Specificity (95% CI)
+Oral cavity and beyond 99.47% (99.14%-99.68%) 99.50% (99.39%-99.58%)
+Esophagus 98.92% (97.79%-99.50%) 99.10% (98.98%-99.22%)
+Stomach 99.60% (99.49%-98.69%) 99.06% (98.80%-99.26%)
+Small Bowel 99.26% (98.89%-99.51%) 98.36% (98.18%-98.52%)
+Conclusions from Tract Site Recognition Testing
+Based on the actual test results, the site recognition sensitivity and specificity values for
+each site (including Oral Cavity and beyond, Esophagus, Stomach, and Small Bowel) are
+all above 98%.
+SUMMARY OF CLINICAL INFORMATION
+Retrospective Evaluation
+In a retrospective evaluation, two independent reviewers in China read capsule endoscopy
+images from 87 patients. The image review time of NaviCam reading with and without the
+ProScan feature on was assessed. The NaviCam SB System with ProScan feature on significantly
+De Novo Summary (DEN230027) Page 9 of 16reduced the physician’s reading time compared to the reading time of the NaviCam SB System
+without the ProScan on (21.47±8.05 vs. 58.10±45.28, p<0.0001).
+Role of Artificial intelligence in Capsule Endoscopy for the identification of small bowel
+lesions in patients with small intestinal bleeding: the first prospective, multicenter trial
+(ARTIC Study).
+Primary aim of this study was to assess the non-inferiority of the diagnostic yield (DY) for
+detection of significant small bowel (SB) pathology from three different readings of the small
+bowel capsule videos: clinicians reading videos with AI assistance from ProScan (described as
+AI+Physician below), conventional/standard video reading without AI assistance, and an expert
+board reading and adjudication of videos. Diagnostic yield is defined as the number of positive
+patients (as determined by interpretation of capsule images for significant small bowel
+pathology) divided by the total number of patients. Secondary aim was to compare mean reading
+time of the AI-assisted and standard reading modalities.
+From February 2021 to January 2022, 137 patients were prospectively enrolled in 7 European
+centers to perform small bowel capsule endoscopy with the NaviCam SB system, which is
+provided with a convolutional neural network (CNN)-based function (ProScan software) for
+analysis of images for lesions. 22 clinician readers from 7 different European countries
+participated in the study. All readers had capsule endoscopy experience of over 500 readings.
+All capsule videos were first evaluated in the enrollment center without AI assistance (standard
+reading). Anonymized videos were then randomly assigned to another center for a second
+blinded reading that was performed with the AI. In the AI+Physician arm, the clinicians were
+presented with the AI output, but made their own determination of SB pathology, and may have
+overruled the output from the AI. Finally, main diagnoses (small bowel lesions with high -P2- to
+moderate -P1- bleeding potential according to Saurin classification) and mean reading time
+reported by readers in the AI+Physician arm and Standard reading arm were compared by an
+expert board, who was used also to adjudicate the findings in case of disagreement. The
+participants on the expert board consisted of 5 of the original 22 readers. Expert board readings
+were used as the ground truth to measure the diagnostic performance of the readers and the
+software.
+RESULTS: 133 patients from Italy, France, Germany, Hungary, Spain, Sweden, and UK were
+included in the final analysis (demographics in Table 7 below). Race/ethnicity of study
+participants was not collected. Four patients were excluded (2 due to missing documentation, 1
+unable to swallow, and 1 due to device technical failure). The completion rate, defined as having
+the capsule reach the cecum, was 84.2%.
+Table 7: ARTIC Study Patient Demographics
+Overall (No. of
+subjects = 133)
+Age (years):
+Mean (SD) 66.5 (± 14.4)
+Age range 24-101
+Sex:
+Male 60
+De Novo Summary (DEN230027) Page 10 of 16Overall (No. of
+subjects = 133)
+Female 73
+The expert board reading identified P1+P2 lesions in 105 patients out of 133 patients (DY 78.2%
+[95% CI: 71.0% - 85.5%]). Standard readings and AI+Physician readings were compared to the
+expert board readings and discordant cases were re-evaluated and eventually reclassified during
+the adjudication phase. To note, all lesions missed in the standard reading arm were detected in
+the AI+Physician reading arm. At per-patient analysis, diagnostic yields for P1+P2 lesions were
+62.4% (95% CI: 53.6% - 70.7%) and 73.7% (95% CI: 65.3% - 80.9%), for standard readings and
+AI+Physician readings, respectively (p=0.015). AI+Physician reading did not identify 7 patients
+in whom a small bowel pathology was identified by the expert board reading (i.e., there were 7
+false negatives). Physician analysis of images resulted in no false positive patients, in both the
+standard reading arm as well as the AI+Physician reading arm, demonstrating the ability of
+physicians to correctly rule out false positives. The results are presented in Table 8 below. The
+number of false positive predictions from the AI software (in the absence of physician input) is
+unknown. Mean SB reading time was 33 minutes and 42 seconds (± 22 minutes and 51 seconds)
+in standard reading and 3 minutes and 50 seconds (± 3 minutes and 20 seconds) in AI-assisted
+reading (p < 0.001).
+Table 8: ARTIC Study Reading Results
+Expert Board
+Comparison of Identification of Reading Diagnostic Yield (95%
+Total
+significant SB pathology to Expert Identification of CI)
+Board Reading SB Pathology
+Yes No
+Expert Board Reading 105 28 N/A 78.2% (71.0%, 85.5%)
+Standard reading mode Yes 83 0 83
+62.4% (53.6%, 70.7%)
+(physician alone) No 22 28 50
+AI+Physician reading mode Yes 98 0 98
+73.7% (65.3%,80.9%)
+(physician + ProScan) No 7 28 35
+CONCLUSION: AI+Physician reading resulted in non-inferior diagnostic yield compared to the
+expert board reading and the standard reading mode, demonstrating that the use of ProScan does
+not negatively impact identification of patients with small bowel pathology. However, the mean
+reading time was significantly decreased with the AI+Physician reading, as compared to the
+standard reading.
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+De Novo Summary (DEN230027) Page 11 of 16POSTMARKET SURVEILLANCE
+In order to satisfy special control (1) below, NaviCam must collect and report postmarket
+surveillance data acquired under anticipated conditions of use to demonstrate that the device
+performs as intended when used to analyze data from the intended patient population.
+Specifically, the sponsor must conduct postmarket clinical validation performance testing to
+demonstrate the performance of the NaviCam ProScan lesion detection feature with physician
+input in the intended patient population, at the lesion-level, image-level, and patient-level, and
+demonstrate the performance of the NaviCam ProScan anatomic tract site recognition function at
+the object-level.
+FDA expects that the postmarket clinical validation performance testing will address the
+performance of NaviCam ProScan (with physician input), as compared to a standard unassisted
+read using a clinically justified ground truth, on:
+• Lesion-level, image-level, and patient-level analysis for lesion detection feature,
+including relevant FROC (free response receiver operating characteristic) analysis, ROC
+(receiver operating characteristic) analysis, sensitivity, specificity, and confusion
+matrices, as applicable and provide additional analysis for these endpoints for ProScan
+outputs (before physician input); and
+• Object-level ROC analysis for anatomic tract site recognition function, including
+sensitivity, specificity, and confusion matrices, as applicable.
+LABELING
+The labeling includes a detailed description of the device, description of the patient population
+for which the device is indicated for use, and instructions for use. The labeling also includes
+summary information, including patient demographics, on the algorithm training, the non-
+clinical standalone performance testing and the clinical performance testing of the device in the
+ARTIC study.
+The labeling includes limitations and warnings that prohibit the device from diagnosis or
+characterization of the lesions, and that the images and data acquired using the device are to be
+interpreted only by qualified medical professionals. There is a warning that the device should not
+replace clinician decision-making. There is also a warning regarding overreliance on the device.
+Labeling will be updated in accordance with data collected via postmarket surveillance to
+provide updated clinical performance data and effectiveness data of the device.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of a gastrointestinal
+capsule endoscopy analysis software device and the measures necessary to mitigate these risks.
+De Novo Summary (DEN230027) Page 12 of 16Risks to Health Mitigation Measures
+Algorithm failure leading to: Clinical performance testing
+• False positive resulting in unnecessary Postmarket surveillance
+patient treatment; or Standalone algorithm performance testing
+• False negatives resulting in delayed or Software verification, validation, and hazard
+lack of patient treatment; or analysis
+• Missed analysis due to misclassification Electromagnetic compatibility (EMC) testing
+of tract site resulting in delayed Electrical safety, thermal safety, and
+treatment mechanical safety testing
+Labeling
+False positive or false negative due to user Clinical performance testing
+overreliance on the device Postmarket surveillance
+Labeling
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the gastrointestinal capsule
+endoscopy analysis software device is subject to the following special controls:
+(1) Data obtained from premarket clinical performance validation testing and postmarket
+surveillance acquired under anticipated conditions of use must demonstrate that the
+device performs as intended when used to analyze data from the intended patient
+population, unless FDA determines based on the totality of the information provided
+for premarket review that data from postmarket surveillance is not required. The
+following must be met:
+(i) Validation must use a clinical test dataset acquired from a representative patient
+population. Data must be representative of the range of data sources and data
+quality likely to be encountered in the intended use population and relevant use
+conditions in the intended use environment. Establishment of ground truth must
+be clinically justified. Study protocols must include a description of the
+process(es) for determining ground truth of training and test datasets;
+(ii) Objective performance measures (e.g., patient-level, lesion-level, and image-
+level data) with corresponding confusion matrices and statistical analyses must
+be reported with relevant descriptive or developmental performance measures.
+Summary level demographic information for study subjects and clinicians and
+sub-group analyses must be provided for each study site, relevant demographic
+sub-groups, and acquisition systems;
+(iii) The test dataset must be from sites that are different from sites used in training or
+development of the model; and
+(iv) Adverse events must be reported.
+(2) Performance testing of the algorithm (i.e., standalone performance of the device itself,
+in the absence of any interaction with a clinician) must be provided.
+(3) Software verification, validation, and hazard analysis must be provided. Software
+description must include a detailed, technical description including the impact of any
+software and hardware on the device’s functions, the associated capabilities and
+De Novo Summary (DEN230027) Page 13 of 16limitations of each part, the associated inputs and outputs, and mapping of the software
+architecture.
+(4) Performance data must demonstrate electromagnetic compatibility, electrical safety,
+mechanical safety, and thermal safety for any hardware components of the device.
+(5) Labeling must include:
+(i) Warnings to avoid overreliance on the device, including that findings, or the lack
+thereof, should be reviewed by the clinician; that the device is not intended to be
+used as a standalone diagnostic device; and that the device does not replace
+clinical decision-making; and
+(ii) A summary of the performance testing methods, including tested hardware,
+tested/supported patient population, results of the performance testing for tested
+performance measures/metrics with statistical analysis, summary-level
+descriptions of patient and clinician demographics and associated subgroup
+analyses for training and test datasets;
+(iii) According to the timeframe specified in any postmarket surveillance protocol
+approved by FDA to satisfy the requirements in paragraph (1) of this section, a
+detailed summary of the postmarket surveillance data must be provided,
+including updates to the labeling to accurately reflect device performance based
+upon data collected during the postmarket surveillance experience.
+BENEFIT-RISK DETERMINATION
+Risks and Other Factors
+The risks of the device are based on data collected in the ARTIC clinical study and standalone
+performance testing described above.
+The use of NaviCam ProScan in conjunction with clinician reading demonstrated non-inferiority
+to standard reading. There remains risk of overreliance on the device, which may result in a
+missed diagnosis or improper diagnosis. The device is only intended to support the clinician
+without making clinical decisions. The clinical study results show that the AI+Physician reading
+resulted in 7 false negatives, meaning that the software with physician did not identify those
+patients as having suspected lesions despite presenting the condition. To compare, standard
+reading without AI resulted in 22 false negatives. This result indicates that the AI+physician use
+of the device is no worse than traditional capsule reading but remains imperfect. Without careful
+evaluation, suspected small bowel lesions may still be missed.
+While no false positives were identified in the clinical study, there remains a probable likelihood
+that a normal image may be incorrectly identified as having lesions. This is evident from the
+standalone performance testing, which demonstrated a high patient-level false positive rate being
+output by the device. Clinician input is therefore an important part of device use, and clinical
+experience will impact the evaluation of these patients.
+Benefits
+The probable benefits of the device are also based on data collected in the clinical studies as
+described above.
+De Novo Summary (DEN230027) Page 14 of 16Both studies evaluated the reading time with and without assistance from NaviCam ProScan. In
+the retrospective study, NaviCam SB System with ProScan significantly reduced the physician's
+reading time compared to NaviCam SB System without ProScan (21.47 minutes ± 8.05 vs. 58.10
+± 45.28, p < 0.0001). Similarly, in the ARTIC study, mean SB reading time was 33 minutes and
+42 seconds (± 22 minutes and 51 seconds) in standard reading and 3 minutes and 50 seconds (± 3
+minutes and 20 seconds) in the AI+Physician arm (p < 0.001). These results indicate that
+NaviCam ProScan has demonstrated the ability to reduce reading time while maintaining
+comparable outcomes to standard of care reading. By reducing read times, patients can receive
+faster turnaround in receiving a diagnosis from clinicians, allowing for more timely treatments as
+well.
+Uncertainty
+There remains uncertainty in the clinical study. The study did not assess device performance
+without clinician input. A postmarket study will be conducted to address the residual uncertainty
+regarding the ProScan’s contributions to the readings in the clinical study. The postmarket study
+will characterize the ProScan’s performance before clinician input, in a dataset independent from
+the training dataset. The data will be used to update the labeling describing performance of the
+ProScan. While the NaviCam ProScan is only intended for use with a clinician, results of the
+study will enable physicians to have a better understanding of their contributions and the
+ProScan’s contributions when reading small bowel videos, and address the generalizability of
+device performance in additional patient populations, separate from those used for algorithm
+development.
+All readers in the ARTIC study were highly experienced and well-qualified. The impact of over-
+reliance on the device may have been less pronounced, given their experience reading these
+videos. Among clinicians with limited experience in capsule endoscopy, the impact of over-
+reliance may be more applicable.
+The ARTIC study was limited to a European population, while the internal study was limited to
+an Asian population. While this information supports a basic assessment of algorithm
+generalizability across different patient populations, we cannot exclude the possibility of
+unaddressed variables associated with these differences. For example, different lesion types may
+be more prevalent among certain ethnic groups. Based on the studies provided in this
+submission, it is unknown how well this variability has been addressed. If the algorithm were
+initially trained on a more diverse population – and evaluated in a similarly diverse followup
+study – the impact of this variability may be more properly understood.
+In addition, the performance of tract site recognition was not evaluated in this study. While risks
+associated with this function are minimal, images incorrectly classified as being outside the small
+bowel carry the possibility of not being evaluated by the device, resulting in no AI reading for
+the impacted images.
+Conclusion
+It is a well-known fact that capsule endoscopy is a time-consuming procedure. Successive reads
+may result in reviewer fatigue, further impacting effectiveness of clinician reading performance.
+NaviCam ProScan has demonstrated its ability to improve on reading time without being inferior
+De Novo Summary (DEN230027) Page 15 of 16to standard of care capsule endoscopy. Despite the existence of uncertainty, there is unlikely to
+be a negative impact on the procedural outcomes.
+Based on the information above, the probable benefits of NaviCam ProScan outweigh the
+probable risks in light of the listed special controls and the general controls.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+NaviCam ProScan is an AI assisted reading tool designed to aid small bowel capsule
+endoscopy reviewers in decreasing the time to review capsule endoscopy images for adult
+patients in whom the capsule endoscopy images were obtained for suspected small bowel
+bleeding. The clinician is responsible for conducting their own assessment of the findings
+of the AI-assisted reading through review of the entire video, as clinically appropriate.
+ProScan also assists small bowel capsule endoscopy reviewers in identifying the
+digestive tract location (oral cavity and beyond, esophagus, stomach, small bowel) of the
+image in adults. This tool is not intended to replace clinical decision making.
+The probable benefits outweigh the probable risks for the NaviCam ProScan. The device
+provides benefits and the risks can be mitigated by the use of general and the identified special
+controls.
+CONCLUSION
+The De Novo request for the NaviCam ProScan is granted and the device is classified as follows:
+Product Code: QZF
+Device Type: Gastrointestinal capsule endoscopy analysis software device
+Regulation Number: 21 CFR 876.1540
+Class: II
+De Novo Summary (DEN230027) Page 16 of 16

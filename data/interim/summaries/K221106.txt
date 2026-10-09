@@ -1,0 +1,195 @@
+Quantib BV May 13, 2022
+℅ Arnault Massink
+Quality & Regulatory Manager
+Westblaak 106
+3012 KM Rotterdam, Zuid-Holland
+NETHERLANDS
+Re: K221106
+Trade/Device Name: Quantib Prostate (version 2.0)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: April 4, 2022
+Received: April 15, 2022
+Dear Arnault Massink:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.govK221106 - Arnault Massink Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Division Director
+DHT8B: Imaging Devices and
+Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK221106
+Quantib Prostate 2.0
+Special 510(k)
+Summary
+1 SUBMITTER
+Quantib B.V.
+Westblaak 106
+3012 KM Rotterdam
+Phone: (+31) 108 41 17 49
+Contact Person: Floor van Leeuwen
+Date Prepared: April 4th, 2022
+2 DEVICE
+Name of Device: Quantib Prostate - version 2.0
+Common or Usual Name: Quantib Prostate
+Classification Name: System, image processing, radiology (892.2050)
+Regulatory Class: II
+Product Code: Medical image management and processing system (former Picture archiving
+and communication system) - LLZ
+3 PREDICATE DEVICE
+Device: Quantib Prostate – version 1.0
+Manufacturer: Quantib B.V.
+510(k) Reg. No: K202501
+This predicate has not been subject to a design-related recall.
+Classification Name: System, image processing, radiology (892.2050)
+Regulatory Class: II
+Product Code: Medical image management and processing system (former Picture archiving
+and communication system) - LLZ
+4 DEVICE DESCRIPTION
+Quantib Prostate is an extension to the Quantib AI Node software platform and enables analysis
+of prostate MRI scans. Quantib Prostate makes use of Quantib AI Node functionality, and
+includes the following specific Quantib Prostate modules:
+05-01-1• An automatic processing module that performs prostate and prostate sub-region
+segmentation and multi-parametric MRI image registration and computation of a
+biparametric combination image.
+• A user-interaction module in which the user can edit and approve the computed
+prostate segmentation and determine PSA density.
+• A user-interaction module in which the user can view multi-parametric MRI images,
+segment and analyze potential lesions and set and view PI-RADS properties. This
+module also shows the prostatic sub-region segmentation and biparametric combination
+image overlay.
+• An automatic processing module that collects all results, and creates the report and
+DICOM output so that they can be exported back to the user.
+5 INDICATIONS FOR USE
+Quantib Prostate – version 1.0 and version 2.0
+Quantib Prostate is image post-processing software that provides the user with processing,
+visualization, and editing of prostate MRI images. The software facilitates the analysis and study
+review of MR data sets and provides additional mathematical and/or statistical analysis. The
+resulting analysis can be displayed in a variety of formats, including images overlaid onto
+source MRI images.
+Quantib Prostate functionality includes registered multiparametric-MRI viewing, with the option to
+view images combined into a single image to support visualization. The software can be used
+for semi-automatic segmentation of anatomical structures and provides volume computations,
+together with tools for manual editing. PI-RADS scoring is possible using a structured workflow.
+Quantib Prostate is intended to be used by trained medical professionals and provides
+information that, in a clinical setting, may assist in the interpretation of prostate MR studies.
+Diagnosis should not be made solely based on the analysis performed using Quantib Prostate.
+Indications for use comparison
+The intended use of the device is equivalent to the intended use of the previously cleared
+predicate device [K202501]
+6 DEVICE MODIFICATIONS
+Quantib Prostate 2.0 is the first update of Quantib Prostate 1.0 that includes a substantial
+change. The substantial changes are the following:
+1. Division of prostate segmentation into prostatic sub-regions
+The semi-automatic prostate segmentation is extended with an algorithm to divide the
+prostate segmentation into sub-regions (central gland, peripheral zone, and urethra),
+without impacting the original prostate segmentation. The segmentations are displayed
+in the mpMRI analysis user interaction step and can be exported as a secondary
+capture series that also includes the ROI segmentations. Internal boundaries of sub-
+regions cannot be edited, but user edits of the outer prostate segmentation are reflected
+in the sub-region outer boundaries. Individual volumes of sub-regions are not provided.
+05-01-22. Initialization of ROI location on PI-RADS sector map
+For an annotated ROI the location on the PI-RADS sector map is now initialized with a
+cross, based on the sub-region segmentation input when the PI-RADS scoring window
+is opened. Inspecting, editing and confirming the location should be done manually.
+7 COMPARISON OF TECHNOLOGICAL CHARACTERISTICS
+The following technological characteristics are the same for Quantib Prostate 2.0 and its
+predicate device Quantib Prostate 1.0:
+• Indications for use
+• Target users, anatomical site, and use environment
+• Human factors
+• Reported measures
+• Design control activities and recognized standards
+• Required input, reported measures
+• Deployment and compatibility with environment and other devices
+The following technological characteristics are different:
+• Software Design: addition of ROI localization initiation on PI-RADS sector map.
+• Algorithm design and performance: prostate sub-region segmentation added as
+segmentation output.
+• Output formats: additionally presented in a PDF report, DICOM RT structure set and
+DICOM segmentation storage.
+7.1 QUALITY AND SAFETY
+Quantib Prostate 2.0 is designed in compliance with the following process standards:
+• ISO 14971 – Medical devices - Application of risk management to medical devices
+• IEC 62304 – Medical device software – Software life cycle processes
+• IEC 62366-1 – Medical devices – part 1 - Application of usability engineering to medical
+devices
+The following quality assurance measures were applied to Quantib Prostate 2.0 development:
+• Risk and hazard analysis
+• Design and code reviews
+• Software verification & validation activities
+• Performance testing
+• Usability engineering
+• Cybersecurity and vulnerability analysis
+7.2 PERFORMANCE DATA
+The prostate segmentation algorithm and performance are unchanged. For the sub-region
+segmentation and ROI localization initiation the following performance tests are added:
+05-01-3Non-clinical performance testing:
+Bench testing of the software was done to show that the system is suitable for its intended use
+and to evaluate the stand-alone performance of the sub-region segmentation algorithm. This
+was done by comparing the automatic sub-region segmentation to a ground truth and
+calculating the Dice overlap and Mean Surface Distance. To place the agreement between the
+automatic method and the manual segmentation into context, the results are compared with the
+inter-observer measurements using statistical tests. Bench testing did not reveal any issues with
+the system, demonstrating that the modified device is as safe and effective as the predicate
+device.
+Clinical performance:
+The clinical performance test of the sub-region prostate segmentation and the ROI localization
+initiation as seen by the user in a clinical context is conducted in a qualitative manner.
+Radiologists were asked to score the sub-region segmentations and ROI initial localizations
+using a 5-point Likert scale. It is concluded that sub-regions and ROI localizations are judged to
+be of high quality.
+8 CONCLUSIONS
+By virtue of its intended use and physical and technological characteristics, Quantib Prostate
+2.0 is substantially equivalent to a device that has been approved for marketing in the United
+States. The performance data show that Quantib Prostate 2.0 is as safe and effective as the
+predicate device.
+05-01-4

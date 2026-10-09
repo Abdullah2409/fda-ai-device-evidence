@@ -1,0 +1,965 @@
+Radformation, Inc. April 14, 2023
+℅ Kurt Sysock
+Co-founder/CEO
+335 Madison Avenue, 4th floor
+NEW YORK NY 10017
+Re: K230685
+Trade/Device Name: AutoContour Model RADAC V3
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QKB
+Dated: March 9, 2023
+Received: March 13, 2023
+Dear Kurt Sysock:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.01
+Silver Spring, MD 20993
+www.fda.govK230685 - Kurt Sysock Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Digitally signed by
+Lora D.
+Lora D. Weidner -S
+Weidner -SDate: 2023.04.14
+10:50:08 -04'00'
+Lora D. Weidner, Ph.D.
+Assistant Director
+Radiation Therapy Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K230685
+Device Name
+AutoContour Model RADAC V3
+Indications for Use (Describe)
+AutoContour is intended to assist radiation treatment planners in contouring and reviewing structures within medical
+images in preparation for radiation therapy treatment planning.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK230685
+AutoContour Software
+Radformation, Inc.
+Special 510(k) SummaryTable of Contents
+5.1. Submitter’s Information 3
+5.2. Device Information 3
+5.3. Predicate Device Information 4
+5.4. Device Description 4
+5.5. Indications for Use 4
+5.6. Technological Characteristics 4
+5.7. Discussion of differences 10
+5.9. Conclusion 25
+Radformation, Inc. 510(k) Submission 2 of 25This 510(k) Summary has been created per the requirements of the Safe Medical Device Act
+(SMDA) of 1990, and the content is provided in conformance with 21 CFR Part 807.92.
+5.1. Submitter’s Information
+Table 1 : Submitter’s Information
+Submitter’s Name: Kurt Sysock
+Company: Radformation, Inc.
+Address: 335 Madison Avenue, 4th Floor
+New York, NY 10017
+Contact Person: Alan Nelson
+Chief Science Officer, Radformation
+Phone: 518-888-5727
+Fax: ---------
+Email: anelson@radformation.com
+Date of Summary Preparation 03/09/2023
+5.2. Device Information
+Table 2 : Device Information
+Trade Name: AutoContour Model RADAC V3
+Common Name: AutoContour, AutoContouring, AutoContour Agent,
+AutoContour Cloud Server
+Classification Name: Class II
+Classification: Medical image management and processing system
+Regulation Number: 892.2050
+Product Code: QKB
+Classification Panel: Radiology
+Radformation, Inc. 510(k) Submission 3 of 255.3. Predicate Device Information
+AutoContour Model RADAC V3 (Subject Device) makes use of its prior submissions -
+AutoContour Model RADAC V2 (K220598) - as the Predicate Device.
+5.4. Device Description
+As with AutoContour Model RADAC V2, the AutoContour Model RADAC V3 device is
+software that uses DICOM-compliant image data (CT or MR) as input to: (1)
+automatically contour various structures of interest for radiation therapy treatment
+planning using machine learning based contouring. The deep-learning based structure
+models are trained using imaging datasets consisting of anatomical organs of the head
+and neck, thorax, abdomen and pelvis for adult male and female patients, (2) allow the
+user to review and modify the resulting contours, and (3) generate DICOM-compliant
+structure set data the can be imported into a radiation therapy treatment planning
+system.
+AutoContour Model RADAC V3 consists of 3 main components:
+1. A .NET client application designed to run on the Windows Operating System
+allowing the user to load image and structure sets for upload to the cloud-based
+server for automatic contouring, perform registration with other image sets, as
+well as review, edit, and export the structure set.
+2. A local “agent” service designed to run on the Windows Operating System that is
+configured by the user to monitor a network storage location for new CT and MR
+datasets that are to be automatically contoured.
+3. A cloud-based automatic contouring service that produces initial contours based
+on image sets sent by the user from the .NET client application.
+5.5. Indications for Use
+AutoContour is intended to assist radiation treatment planners in contouring and
+reviewing structures within medical images in preparation for radiation therapy treatment
+planning.
+5.6. Technological Characteristics
+The Subject Device, AutoContour Model RADAC V3 makes use of AutoContour Model
+RADAC V2 (K220598) as the Predicate Device for substantial equivalence comparison.
+The functionality and technical components of this prior submission remain unchanged in
+AutoContour Model RADAC V3. This submission is intended to build on the
+technological characteristics of the 510(k) cleared AutoContour Model RADAC V2
+pertaining to new structure models for both CT and MRI.
+Radformation, Inc. 510(k) Submission 4 of 255.6.1. Updates vs. AutoContour (K220598)
+The updated submission expands the use of machine-learning based contouring
+to include additional organs and volumes of Interest found in MR and CT image
+types.
+Table 3: Technological Characteristics
+AutoContour Model RADAC V3 vs. AutoContour Model RADAC V2 (K220598)
+Characteristic SubjectDevice:AutoContourModel PredicateDevice:AutoContourModel
+RADACV3 RADACV2(K220598)
+Indicationsfor AutoContourisintendedtoassistradiation AutoContourisintendedtoassistradiation
+Use treatmentplannersincontouringand treatmentplannersincontouringand
+reviewingstructureswithinmedical reviewingstructureswithinmedicalimages
+imagesinpreparationforradiationtherapy inpreparationforradiationtherapy
+treatmentplanning. treatmentplanning.
+Design:Image ManualandAutomaticRigidregistration. ManualandAutomaticRigidregistration.
+registration AutomaticDeformableRegistration AutomaticDeformableRegistration
+Design: CTorMRinputforcontouringor CTorMRinputforcontouringor
+Supported registration/fusion. registration/fusion.
+modalities PET/CTinputforregistration/fusiononly. PET/CTinputforregistration/fusiononly.
+DICOMRTSTRUCTforoutput DICOMRTSTRUCTforoutput
+Radformation, Inc. 510(k) Submission 5 of 25Regionsand CTorMRinputforcontouringof CTorMRinputforcontouringof
+Volumesof anatomicalregions:HeadandNeck, anatomicalregions:HeadandNeck,
+interest(ROI) Thorax,AbdomenandPelvis. Thorax,AbdomenandPelvis.
+CTModels: CTModels:
+● A_Aorta ● A_Aorta
+● A_Aorta_Asc ● A_Aorta_Asc
+● A_Aorta_Dsc ● A_Aorta_Dsc
+● A_LAD ● A_LAD
+● A_Pulmonary ● Bladder
+● Bladder ● Bone_Ilium_L
+● Bladder_F ● Bone_Ilium_R
+● Bone_Ilium_L ● Bone_Mandible
+● Bone_Ilium_R ● Bowel_Bag
+● Bone_Mandible ● BrachialPlex_L
+● Bone_Pelvic ● BrachialPlex_R
+● Bone_Skull ● Brain
+● Bone_Sternum ● Brainstem
+● Bowel ● Breast_L
+● Bowel_Bag ● Breast_R
+● Bowel_Large ● Bronchus
+● Bowel_Small ● Carina
+● BrachialPlex_L ● CaudaEquina
+● BrachialPlex_R ● Cavity_Oral
+● Brain ● Cochlea_L
+● Brainstem ● Cochlea_R
+● Breast_L ● Ear_Internal_L
+● Breast_R ● Ear_Internal_R
+● Bronchus ● Esophagus
+● BuccalMucosa ● External
+● Carina ● Eye_L
+● CaudaEquina ● Eye_R
+● Cavity_Oral ● Femur_L
+● Cavity_Oral_Ext ● Femur_R
+● Chestwall_L ● Femur_RTOG_L
+● Chestwall_OAR ● Femur_RTOG_R
+● Chestwall_R ● Glnd_Lacrimal_L
+● Chestwall_RC_L ● Glnd_Lacrimal_R
+● Chestwall_RC_R ● Glnd_Submand_L
+● Cochlea_L ● Glnd_Submand_R
+● Cochlea_R ● Glnd_Thyroid
+● Colon_Sigmoid ● HDR_Cylinder
+● Cornea_L ● Heart
+● Cornea_R ● Humerus_L
+● Duodenum ● Humerus_R
+● Ear_Internal_L ● Kidney_L
+● Ear_Internal_R ● Kidney_R
+● Esophagus ● Kidney_Outer_L
+● External ● Kidney_Outer_R
+● Eye_L ● Larynx
+● Eye_R ● Lens_L
+Radformation, Inc. 510(k) Submission 6 of 25● Femur_Head_L ● Lens_R
+● Femur_Head_R ● Lips
+● Femur_L ● LN_Ax_L
+● Femur_R ● LN_Ax_R
+● Femur_RTOG_L ● LN_IMN_L
+● Femur_RTOG_R ● LN_IMN_R
+● GallBladder ● LN_Neck_IA
+● Genitals_F ● LN_Neck_IB-V_L
+● Genitals_M ● LN_Neck_IB-V_R
+● Glnd_Lacrimal_L ● LN_Neck_II_L
+● Glnd_Lacrimal_R ● LN_Neck_II_R
+● Glnd_Submand_L ● LN_Neck_II-IV_L
+● Glnd_Submand_R ● LN_Neck_II-IV_R
+● Glnd_Thyroid ● LN_Neck_III_L
+● HDR_Cylinder ● LN_Neck_III_R
+● Heart ● LN_Neck_IV_L
+● Hippocampus_L ● LN_Neck_IV_R
+● Hippocampus_R ● LN_Neck_VIA
+● Humerus_L ● LN_Neck_VIIA_L
+● Humerus_R ● LN_Neck_VIIA_R
+● Kidney_L ● LN_Neck_VIIB_L
+● Kidney_R ● LN_Neck_VIIB_R
+● Kidney_Outer_L ● LN_Pelvics
+● Kidney_Outer_R ● LN_Sclav_L
+● Larynx ● LN_Sclav_R
+● Larynx_Glottic ● Liver
+● Larynx_NRG ● Lung_L
+● Larynx_SG ● Lung_R
+● Lens_L ● Marrow_Ilium_L
+● Lens_R ● Marrow_Ilium_R
+● Lips ● Musc_Constrict
+● Liver ● OpticChiasm
+● LN_Ax_L ● OpticNrv_L
+● LN_Ax_L1_L ● OpticNrv_R
+● LN_Ax_L1_R ● Parotid_L
+● LN_Ax_L2_L ● Parotid_R
+● LN_Ax_L2_L3_L ● PenileBulb
+● LN_Ax_L2_L3_R ● Pituitary
+● LN_Ax_L2_R ● Prostate
+● LN_Ax_L3_L ● Rectum
+● LN_Ax_L3_R ● Rib
+● LN_Ax_R ● SeminalVes
+● LN_IMN_L ● SpinalCanal
+● LN_IMN_R ● SpinalCord
+● LN_IMN_RC_L ● Stomach
+● LN_IMN_RC_R ● Trachea
+● LN_Inguinofem_L ● V_Venacava_S
+● LN_Inguinofem_R
+● LN_Neck_IA MRModels:
+● LN_Neck_IB-V_L ● OpticChiasm
+● LN_Neck_IB-V_R ● OpticNrv_L
+Radformation, Inc. 510(k) Submission 7 of 25● LN_Neck_II_L ● OpticNrv_R
+● LN_Neck_II_R ● Brainstem
+● LN_Neck_II-IV_L ● Hippocampus_L
+● LN_Neck_II-IV_R ● Hippocampus_R
+● LN_Neck_II-V_L
+● LN_Neck_II-V_R
+● LN_Neck_III_L
+● LN_Neck_III_R
+● LN_Neck_IV_L
+● LN_Neck_IV_R
+● LN_Neck_V_L
+● LN_Neck_V_R
+● LN_Neck_VIA
+● LN_Neck_VIIA_L
+● LN_Neck_VIIA_R
+● LN_Neck_VIIB_L
+● LN_Neck_VIIB_R
+● LN_Paraaortic
+● LN_Pelvics
+● LN_Pelvic_NRG
+● LN_Sclav_L
+● LN_Sclav_R
+● LN_Sclav_RADCOMP_L
+● LN_Sclav_RADCOMP_R
+● Lobe_Temporal_L
+● Lobe_Temporal_R
+● Lung_L
+● Lung_R
+● Macula_L
+● Macula_R
+● Marrow_Ilium_L
+● Marrow_Ilium_R
+● Musc_Constrict
+● Nipple_L
+● Nipple_R
+● OpticChiasm
+● OpticNrv_L
+● OpticNrv_R
+● Pancreas
+● Parotid_L
+● Parotid_R
+● PenileBulb
+● Pericardium
+● Pituitary
+● Prostate
+● Rectum
+● Rectum_F
+● Retina_L
+● Retina_R
+● Rib
+● Rib_L
+Radformation, Inc. 510(k) Submission 8 of 25● Rib_R
+● SeminalVes
+● SpinalCanal
+● SpinalCord
+● Spleen
+● Stomach
+● Trachea
+● UteroCervix
+● V_Venacava_I
+● V_Venacava_S
+● VB
+● VB_C1
+● VB_C2
+● VB_C3
+● VB_C4
+● VB_C5
+● VB_C6
+● VB_C7
+● VB_L1
+● VB_L2
+● VB_L3
+● VB_L4
+● VB_L5
+● VB_T01
+● VB_T02
+● VB_T03
+● VB_T04
+● VB_T05
+● VB_T06
+● VB_T07
+● VB_T08
+● VB_T09
+● VB_T10
+● VB_T11
+● VB_T12
+MRModels:
+● Brainstem
+● Cerebellum
+● Eye_L
+● Eye_R
+● Glnd_Prostate
+● Hippocampus_L
+● Hippocampus_R
+● Hypo_True
+● Hypothalamus
+● OpticChiasm
+● OpticNrv_L
+● OpticNrv_R
+● OpticTract_L
+● OpticTract_R
+Radformation, Inc. 510(k) Submission 9 of 25● Pituitary
+● Prostate
+● SeminalVes
+Computer Windowsbased.NETfront-end Windowsbased.NETfront-endapplication
+platform& applicationthatalsoservesasagent thatalsoservesasagentUploader
+Operating UploadersupportingMicrosoftWindows supportingMicrosoftWindows10(64-bit)
+System 10(64-bit)andMicrosoftWindowsServer andMicrosoftWindowsServer2016.
+2016.
+Cloud-basedServerbasedautomatic
+Cloud-basedServerbasedautomatic contouringapplicationcompatiblewith
+contouringapplicationcompatiblewith Linux.
+Linux.
+Windowspython-basedautomatic
+Windowspython-basedautomatic contouringapplicationsupportingMicrosoft
+contouringapplicationsupporting Windows10(64-bit)andMicrosoft
+MicrosoftWindows10(64-bit)and WindowsServer2016.
+MicrosoftWindowsServer2016.
+As shown in Table 3, almost all technological characteristics are either
+substantially equivalent or a subset of the Predicate Device’s technological
+characteristics.
+5.7. Discussion of differences
+Minor differences
+The following minor differences exist, but do not represent any significant
+additional risks or decreased effectiveness for the device for its intended use:
+● New CT Models:
+Compared with the Predicate Device, AutoContour Model RADAC V3
+supports contouring 90 new models on CT images (the new models are
+listed below). The addition of these models do not represent a significant
+deviation from the intended use and operation of AutoContour, nor does it
+represent a new significant unmitigated risk because:
+(a) very similar CNN architecture was used to train these new CT models
+(b) all new models passed the same DSC test protocol criteria that was
+applied to the models in the predicate device for similar structure sizes
+(c) the same risk mitigations that have been applied to the predicate
+device models have also been applied to all new models
+○ A_Pulmonary
+○ Bladder_F
+○ Bone_Pelvic
+○ Bone_Skull
+○ Bone_Sternum
+○ Bowel
+○ Bowel_Large
+○ Bowel_Small
+Radformation, Inc. 510(k) Submission 10 of 25○ BuccalMucosa
+○ Cavity_Oral_Ext
+○ Chestwall_L
+○ ChestWall_OAR
+○ Chestwall_R
+○ Chestwall_RC_L
+○ Chestwall_RC_R
+○ Colon_Sigmoid
+○ Cornea_L
+○ Cornea_R
+○ Duodenum
+○ Femur_Head_L
+○ Femur_Head_R
+○ GallBladder
+○ Genitals_F
+○ Genitals_M
+○ Hippocampus_L
+○ Hippocampus_R
+○ Larynx_Glottic
+○ Larynx_NRG
+○ Larynx_SG
+○ LN_Ax_L1_L
+○ LN_Ax_L1_R
+○ LN_Ax_L2_L
+○ LN_Ax_L2_L3_L
+○ LN_Ax_L2_L3_R
+○ LN_Ax_L2_R
+○ LN_Ax_L3_L
+○ LN_Ax_L3_R
+○ LN_IMN_RC_L
+○ LN_IMN_RC_R
+○ LN_Inguinofem_L
+○ LN_Inguinofem_R
+○ LN_Neck_II-V_L
+○ LN_Neck_II-V_R
+○ LN_Neck_V_L
+○ LN_Neck_V_R
+○ LN_Paraaortic
+○ LN_Pelvics_NRG
+○ LN_Sclav_RC_L
+○ LN_Sclav_RC_R
+○ Lobe_Temporal_L
+○ Lobe_Temporal_R
+○ Macula_L
+Radformation, Inc. 510(k) Submission 11 of 25○ Macula_R
+○ Nipple_L
+○ Nipple_R
+○ Pancreas
+○ Pericardium
+○ Rectum_F
+○ Retina_L
+○ Retina_R
+○ Rib_L
+○ Rib_R
+○ Spleen
+○ UteroCervix
+○ V_Venacava_I
+○ VB
+○ VB_C1
+○ VB_C2
+○ VB_C3
+○ VB_C4
+○ VB_C5
+○ VB_C6
+○ VB_C7
+○ VB_L1
+○ VB_L2
+○ VB_L3
+○ VB_L4
+○ VB_L5
+○ VB_T01
+○ VB_T02
+○ VB_T03
+○ VB_T04
+○ VB_T05
+○ VB_T06
+○ VB_T07
+○ VB_T08
+○ VB_T09
+○ VB_T10
+○ VB_T11
+○ VB_T12
+● New MR Models:
+Compared with the Predicate Device, AutoContour Model RADAC V3
+supports contouring 11 new models on MR images (the new models are
+listed below). The addition of these models do not represent a significant
+deviation from the intended use and operation of AutoContour, nor does it
+represent a new significant unmitigated risk because:
+Radformation, Inc. 510(k) Submission 12 of 25(a) very similar CNN architecture was used to train these new CT models
+(b) all new models passed the same DSC test protocol criteria that was
+applied to the models in the predicate device for similar structure sizes
+(c) the same risk mitigations that have been applied to the predicate
+device models have also been applied to all new models
+○ Cerebellum
+○ Eye_L
+○ Eye_R
+○ Glnd_Prostate
+○ Hypo_True
+○ Hypothalamus
+○ OpticTract_L
+○ OpticTract_R
+○ Pituitary
+○ Prostate
+○ SeminalVes
+5.8. Performance Data
+The following performance data were provided in support of the substantial equivalence
+determination.
+Sterilization & Shelf-life Testing
+AutoContour is a pure software device and is not supplied sterile because the device
+doesn’t come in contact with the patient. AutoContour is a pure software device and
+does not have a Shelf Life.
+Biocompatibility
+AutoContour is a pure software device and does not come in contact with the patient.
+Electrical safety and electromagnetic compatibility (EMC)
+AutoContour is a pure software device, hence no Electromagnetic Compatibility and
+Electrical Safety testing was conducted for the Subject Device.
+Software Verification and Validation Testing
+Summary
+As with the Predicate Device, no clinical trials were performed for AutoContour
+Model RADAC V3. Non-clinical tests were performed according to Radformation’s
+AutoContour Complete Test Protocol and Report, which demonstrates that AutoContour
+Model RADAC V3 performs as intended per its indications for use. Further tests were
+performed on independent datasets from those included in training and validation sets in
+order to validate the generalizability of the machine learning model.
+Radformation, Inc. 510(k) Submission 13 of 25Description of Changes to Test Protocol
+Changes to the testing protocol between AutoContour RADAC V2 and RADAC
+V3 were made to improve reviewer independence and the validation dataset for the
+intended population. These changes better demonstrate the ability of the structure model
+outputs in assisting the user to contour more efficiently as per AutoContour’s Indications
+for Use.
+We do not feel that the changes are a significant deviation from the past report as
+the primary passing criteria is still based on the same minimum mean DSC score and a
+qualitative review of the structure model output. For RADAC V3 structure models,
+additional DSC and qualitative review validation was performed on image data that was
+acquired uniquely from the data used for training. Additionally, independent reviewers
+(not employed by Radformation) were used to evaluate the clinical appropriateness of
+structure models as they would be evaluated for the purposes of treatment planning.
+This external review was performed as a replacement to intraobserver variability testing
+done with the RADAC V2 structure models as it better quantified the usefulness of the
+structure model outputs in an unbiased clinical setting.
+The RADAC V3 test protocol also adds a section that addresses the validation of
+any existing structure models that were approved within previous releases of the
+software (RADAC V2). This regression testing was added as a way to confirm that
+updates made to the software made for any new releases do not affect the output of any
+previously approved models.The addition of this test is not significant to the testing of the
+new structure models as it only confirms that no structure output “drift” has occurred
+between version releases.
+Testing Summary
+Mean Dice Similarity Coefficient (DSC) was used to validate the accuracy of
+structure model outputs when tested on image data sequestered from the original
+training data population.The test datasets were independent from those used for training
+and consisted of approximately 10% of the number of training image sets used as input
+for the model. For CT structure models there were an average of 373 training and 50
+testing image sets. Among the patients used for CT training and testing 51.7% were
+male and 48.3% female. Patient ages range 11-30 : 0.3%, 31-50 : 6.2%, 51-70 : 43.3%,
+71-100 : 50.3%. Race 84.0% White, 12.8% Black or African American, 3.2% Other. CT
+datasets spanned across treatment subgroups most typically found in a radiation therapy
+treatment clinic with the most common diagnosis being cancers of the Prostate (21%),
+Breast (21%), Lung (29%), Head and Neck (16%), Other (13%). Images were acquired
+using a Philips Big Bore CT simulator with the majority of scans having an average slice
+thickness of 2mm, In-plane resolution between 1-1.2 mm, and acquisition parameters of
+120kVp, 674+/-329 average mAs.
+Ground truthing of each test data set were generated manually using consensus
+(NRG/RTOG) guidelines as appropriate by three clinically experienced experts
+consisting of 2 radiation therapy physicists and 1 radiation dosimetrist.
+Structure models were categorized into three size categories as DSC metrics can
+be sensitive to structure volume. A structure would pass initial validation if the mean
+Radformation, Inc. 510(k) Submission 14 of 25DSC exceeded 0.8 for Large volume structures (eg. Bladder, Spleen) 0.65 for Medium
+volume structures (eg. gallbladder, duodenum) and 0.5 for Small structures (eg Cornea,
+Retina). For CT Structure models large, medium and small structures resulted in a mean
+DSC of 0.88+/-0.06, 0.88+/-0.08, and 0.75+/-0.12 respectively. A full summary of the CT
+structure DSC is available below:
+Table 4: CT Training Data Results for AutoContour Model RADAC V3
+#of #of LowerBound
+Pass Training Testing DSC DSCStd 95%Confidence
+CTStructure Size Criteria Sets Sets (Avg) Dev Interval
+A_Pulmonary Medium 0.65 169 43 0.88 0.03 0.83
+Bladder_F Large 0.8 252 63 0.94 0.03 0.89
+Bone_Pelvic Large 0.8 201 51 0.94 0.01 0.92
+Bone_Skull Large 0.8 80 20 0.92 0.01 0.90
+Bone_Sternum Medium 0.65 80 20 0.9 0.02 0.87
+Bowel Medium 0.65 705 45 0.93 0.08 0.80
+Bowel_Large Medium 0.65 805 52 0.89 0.17 0.61
+Bowel_Small Medium 0.65 705 45 0.93 0.05 0.85
+BuccalMucosa Medium 0.65 392 98 0.7 0.05 0.62
+Cavity_Oral_Ext Medium 0.65 392 98 0.94 0.02 0.91
+Chestwall_L Large 0.8 79 20 0.9 0.03 0.85
+Chestwall_R Large 0.8 79 20 0.9 0.03 0.85
+Chestwall_OAR Large 0.8 118 30 0.9 0.03 0.85
+Chestwall_RC_L Large 0.8 80 20 0.91 0.04 0.84
+Chestwall_RC_R Large 0.8 80 20 0.91 0.04 0.84
+Colon_Sigmoid Medium 0.65 392 98 0.66 0.28 0.20
+Cornea_L Small 0.5 N/A* N/A* N/A* N/A* N/A
+Cornea_R Small 0.5 N/A* N/A* N/A* N/A* N/A
+Duodenum Medium 0.65 659 44 0.88 0.16 0.62
+Femur_Head_L Medium 0.65 160 40 0.95 0.04 0.88
+Femur_Head_R Medium 0.65 160 40 0.95 0.04 0.88
+Gallbladder Medium 0.65 512 32 0.96 0.03 0.91
+Genitals_F Large 0.8 233 59 0.92 0.02 0.89
+Genitals_M Large 0.8 173 44 0.93 0.03 0.88
+Hippocampus_L Medium 0.65 226 57 0.67 0.1 0.51
+Hippocampus_R Medium 0.65 226 57 0.67 0.1 0.51
+Radformation, Inc. 510(k) Submission 15 of 25Larynx_Glottic Medium 0.65 438 110 0.81 0.04 0.74
+Larynx_NRG Medium 0.65 449 113 0.8 0.04 0.73
+Larynx_SG Medium 0.65 413 104 0.78 0.04 0.71
+LN_Ax_L1_L Large 0.8 437 110 0.81 0.06 0.71
+LN_Ax_L1_R Large 0.8 437 110 0.81 0.06 0.71
+LN_Ax_L2_L Medium 0.65 203 51 0.79 0.04 0.72
+LN_Ax_L2_L3_L Medium 0.65 437 110 0.82 0.06 0.72
+LN_Ax_L2_L3_R Medium 0.65 437 110 0.82 0.06 0.72
+LN_Ax_L2_R Medium 0.65 203 51 0.79 0.04 0.72
+LN_Ax_L3_L Medium 0.65 203 51 0.74 0.07 0.62
+LN_Ax_L3_R Medium 0.65 203 51 0.74 0.07 0.62
+LN_IMN_RC_L Medium 0.65 100 25 0.78 0.05 0.70
+LN_IMN_RC_R Medium 0.65 100 25 0.78 0.05 0.70
+LN_Inguinofem_L Large 0.8 310 78 0.85 0.05 0.77
+LN_Inguinofem_R Large 0.8 310 78 0.85 0.05 0.77
+LN_Neck_II-V_L Medium 0.65 323 81 0.86 0.03 0.81
+LN_Neck_II-V_R Medium 0.65 323 81 0.86 0.03 0.81
+LN_Neck_V_L Medium 0.65 267 67 0.8 0.08 0.67
+LN_Neck_V_R Medium 0.65 267 67 0.8 0.08 0.67
+LN_Paraaortic Large 0.8 200 50 0.89 0.04 0.82
+LN_Pelvics_NRG Large 0.8 149 38 0.88 0.02 0.85
+LN_Sclav_RC_L Medium 0.65 200 51 0.8 0.04 0.73
+LN_Sclav_RC_R Medium 0.65 200 51 0.8 0.04 0.73
+Lobe_Temporal_L Large 0.8 174 44 0.88 0.03 0.83
+Lobe_Temporal_R Large 0.8 174 44 0.88 0.03 0.83
+Macula_L Small 0.5 120 31 0.64 0.1 0.48
+Macula_R Small 0.5 120 31 0.64 0.1 0.48
+Nipple_L Medium 0.65 91 23 0.74 0.1 0.58
+Nipple_R Medium 0.65 91 23 0.74 0.1 0.58
+Pancreas Medium 0.65 706 45 0.92 0.1 0.76
+Pericardium Large 0.8 160 41 0.94 0.02 0.91
+Rectum_F Medium 0.65 252 64 0.91 0.02 0.88
+Retina_L Small 0.5 N/A* N/A* N/A* N/A* N/A*
+Retina_R Small 0.5 N/A* N/A* N/A* N/A* N/A*
+Rib_L Large 0.8 N/A* N/A* N/A* N/A* N/A*
+Radformation, Inc. 510(k) Submission 16 of 25Rib_R Large 0.8 N/A* N/A* N/A* N/A* N/A*
+Spleen Large 0.8 160 41 0.92 0.08 0.79
+UteroCervix Medium 0.65 143 36 0.81 0.11 0.63
+V_Venacava_I Medium 0.65 399 100 0.81 0.09 0.66
+VB Large 0.8 1051 64 0.99 0.01 0.98
+VB_C1 Medium 0.65 196 14 0.90 0.25 0.48
+VB_C2 Medium 0.65 202 13 0.99 0.01 0.97
+VB_C3 Medium 0.65 214 14 0.97 0.03 0.92
+VB_C4 Medium 0.65 234 15 0.90 0.24 0.51
+VB_C5 Medium 0.65 328 20 0.89 0.21 0.55
+VB_C6 Medium 0.65 520 33 0.87 0.24 0.49
+VB_C7 Medium 0.65 651 36 0.98 0.01 0.95
+VB_L1 Large 0.8 731 49 0.97 0.09 0.82
+VB_L2 Large 0.8 650 44 0.99 0.03 0.93
+VB_L3 Large 0.8 582 44 0.99 0.03 0.93
+VB_L4 Large 0.8 569 44 0.99 0.01 0.97
+VB_L5 Large 0.8 550 43 0.99 0.02 0.95
+VB_T01 Medium 0.65 663 37 0.98 0.01 0.96
+VB_T02 Medium 0.65 682 38 0.96 0.12 0.76
+VB_T03 Medium 0.65 700 38 0.96 0.14 0.73
+VB_T04 Medium 0.65 695 39 0.95 0.16 0.68
+VB_T05 Medium 0.65 687 39 0.97 0.08 0.84
+VB_T06 Medium 0.65 682 36 0.97 0.06 0.86
+VB_T07 Medium 0.65 686 39 0.94 0.16 0.69
+VB_T08 Medium 0.65 729 45 0.96 0.14 0.73
+VB_T09 Medium 0.65 778 49 0.98 0.04 0.92
+VB_T10 Medium 0.65 803 49 0.97 0.09 0.82
+VB_T11 Medium 0.65 814 48 0.98 0.07 0.86
+VB_T12 Medium 0.65 795 50 0.97 0.13 0.75
+*N/A:Structuresaregeneratedbasedonapost-processing/booleanoperationfrompreviouslyreleased
+structuremodels(Eye,Rib) ratherthangeneratedfromaCNNmodel.QuantitativeandQualitativetesting
+forthesestructuresisstillperformedintheexternalclinicaltestingbelowtovalidateappropriatecontour
+generationandclinicalacceptabilityofthesederivedstructuremodels.
+Additional external clinical testing was performed in order to validate the
+accuracy of the models on image sets acquired that were unique to the training datasets.
+Publically available CT datasets from The Cancer Imaging Archive (TCIA archive) were
+used and both AutoContour and manually added ground truth contours following the
+Radformation, Inc. 510(k) Submission 17 of 25same structure guidelines used for structure model training were added to the image
+sets.
+Table 5: CT External Clinical Dataset References
+ModelGroup DataSourceID DataCitation
+AfuaA.Yorke,GaryC.McDonald, DavidSolisJr.,ThomasGuerrero.(2019)
+CTPelvis TCIA-Pelvic-Ref PelvicReferenceData.TheCancerImagingArchive.DOI:
+10.7937/TCIA.2019.woskq5oo
+MartinVallières,EmilyKay-Rivest,LéoJeanPerrin,XavierLiem,Christophe
+CTHeadand TCIA- Furstoss,NaderKhaouam,PhucFélixNguyen-Tan,Chang-ShuWang,Khalil
+Neck Head-Neck-PET-CT Sultanem.(2017).DatafromHead-Neck-PET-CT.TheCancerImagingArchive.
+doi:10.7937/K9/TCIA.2017.8oje5q00
+Hong,J.,Reyngold,M.,Crane,C.,Cuaron,J.,Hajj,C.,Mann,J.,Zinovoy,M.,
+Yorke,E.,LoCastro,E.,Apte,A.P.,&Mageras,G.(2021).Breath-holdCTand
+CTAbdomen TCIA-Pancreas-CT-CB cone-beamCTimageswithexpertmanualorgan-at-risksegmentationsfrom
+radiationtreatmentsoflocallyadvancedpancreaticcancer[Dataset].The
+CancerImagingArchive.https://doi.org/10.7937/TCIA.ESHQ-4D90
+Aerts,H.J.W.L.,Wee,L.,RiosVelazquez,E.,Leijenaar,R.T.H.,Parmar,C.,
+Grossmann,P.,Carvalho,S.,Bussink,J.,Monshouwer,R.,Haibe-Kains,B.,
+CTThorax: Rietveld,D.,Hoebers,F.,Rietbergen,M.M.,Leemans,C.R.,Dekker,A.,
+TCIA-NSCLC
+Quackenbush,J.,Gillies,R.J.,Lambin,P.(2019).DataFrom
+NSCLC-Radiomics[Dataset].TheCancerImagingArchive.
+https://doi.org/10.7937/K9/TCIA.2015.PF0M9REI
+Yang,J.,Sharp,G.,Veeraraghavan,H.,VanElmpt,W.,Dekker,A.,Lustberg,T.,
+&Gooding,M.(2017).DatafromLungCTSegmentationChallenge(Version3)
+CTThorax TCIA-LCTSC
+[Dataset].TheCancerImagingArchive.
+https://doi.org/10.7937/K9/TCIA.2017.3R3FVZ08
+DSC values were calculated between ground truth contour data and AutoContour
+structures and rated on the same DSC passing criteria used for the Training DSC
+validation. All structures passed the minimum DSC criteria for small, medium and large
+structures with an mean DSC of 0.79+/-0.11, 0.83+/-0.12, and 0.90+/-0.09 respectively:
+Additionally, the qualitative clinical appropriateness of AutoContour structures generated
+on these scans was graded by clinical experts. Autocontour structures were graded on a
+scale from 1 to 5 where 5 refers to contour requiring no additional edits, and 1 refers to a
+score in which full manual re-contour of the structure would be required. An average
+score >= 3 was used to determine whether a structure model would ultimately be
+beneficial clinically. An average rating of 4.5 was found across all CT structure models
+demonstrating that only minor edits would be required in order to make the structure
+models acceptable for clinical use.
+Radformation, Inc. 510(k) Submission 18 of 25Table 6: CT External Reviewer Results for AutoContour Model RADAC V3
+External
+Lower
+# Average Reviewer
+Pass Average Bound95%
+CTStructure Size Testings DSCStd. Average
+Criteria DSC Confidence
+Sets Dev
+Interval Rating(1-5)
+A_Pulmonary Medium 0.65 20 0.93 0.02 0.89 4.6
+Bladder_F Large 0.8 20 0.87 0.22 0.52 4.8
+Bone_Pelvic Large 0.8 41 0.93 0.04 0.86 4.4
+Bone_Skull Large 0.8 23 0.98 0.01 0.97 4.5
+Bone_Sternum Medium 0.65 20 0.92 0.03 0.88 4.8
+Bowel Medium 0.65 46 0.86 0.07 0.75 4.3
+Bowel_Large Medium 0.65 46 0.81 0.07 0.70 4.1
+Bowel_Small Medium 0.65 46 0.77 0.07 0.66 4.0
+BuccalMucosa Medium 0.65 23 0.68 0.10 0.51 4.2
+Cavity_Oral_Ext Medium 0.65 23 0.97 0.01 0.95 4.9
+Chestwall_L Large 0.8 20 0.88 0.10 0.71 4.4
+Chestwall_R Large 0.8 20 0.90 0.05 0.82 4.4
+Chestwall_OAR Large 0.8 20 0.94 0.03 0.89 4.8
+Chestwall_RC_L Large 0.8 20 0.91 0.05 0.83 5.0
+Chestwall_RC_R Large 0.8 20 0.91 0.03 0.85 5.0
+Colon_Sigmoid Medium 0.65 40 0.68 0.20 0.35 4.2
+Cornea_L Small 0.5 23 0.80 0.04 0.73 4.8
+Cornea_R Small 0.5 23 0.79 0.06 0.69 4.8
+Duodenum Medium 0.65 25 0.72 0.15 0.48 4.8
+Femur_Head_L Medium 0.65 41 0.94 0.06 0.85 4.9
+Femur_Head_R Medium 0.65 41 0.93 0.07 0.82 4.8
+Gallbladder Medium 0.65 21 0.86 0.05 0.78 4.8
+Genitals_F Large 0.8 20 0.89 0.04 0.83 4.5
+Radformation, Inc. 510(k) Submission 19 of 25Genitals_M Large 0.8 21 0.96 0.03 0.92 4.7
+Hippocampus_L Medium 0.65 23 0.85 0.08 0.71 4.6
+Hippocampus_R Medium 0.65 23 0.87 0.08 0.74 4.6
+Larynx_Glottic Medium 0.65 23 0.83 0.10 0.66 5.0
+Larynx_NRG Medium 0.65 23 0.93 0.05 0.85 4.7
+Larynx_SG Medium 0.65 23 0.81 0.10 0.65 4.8
+LN_Ax_L1_L Large 0.8 20 0.86 0.10 0.70 4.4
+LN_Ax_L1_R Large 0.8 20 0.87 0.08 0.74 4.3
+LN_Ax_L2_L Medium 0.65 20 0.74 0.05 0.65 4.1
+LN_Ax_L2_L3_L Medium 0.65 20 0.86 0.07 0.75 4.3
+LN_Ax_L2_L3_R Medium 0.65 20 0.87 0.04 0.80 4.5
+LN_Ax_L2_R Medium 0.65 20 0.75 0.05 0.67 4.0
+LN_Ax_L3_L Medium 0.65 20 0.73 0.09 0.57 4.2
+LN_Ax_L3_R Medium 0.65 20 0.75 0.08 0.61 4.2
+LN_IMN_RC_L Medium 0.65 20 0.84 0.09 0.68 3.9
+LN_IMN_RC_R Medium 0.65 19 0.81 0.14 0.58 3.9
+LN_Inguinofem_L Large 0.8 40 0.91 0.09 0.77 4.1
+LN_Inguinofem_R Large 0.8 38 0.90 0.08 0.77 4.1
+LN_Neck_II-V_L Medium 0.65 23 0.98 0.01 0.97 4.5
+LN_Neck_II-V_R Medium 0.65 23 0.98 0.01 0.96 4.5
+LN_Neck_V_L Medium 0.65 23 0.79 0.04 0.72 4.6
+LN_Neck_V_R Medium 0.65 23 0.76 0.07 0.65 4.4
+LN_Paraaortic Large 0.8 23 0.88 0.05 0.79 4.6
+LN_Pelvics_NRG Medium 0.65 41 0.79 0.18 0.48 4.4
+LN_Sclav_RC_L Medium 0.65 20 0.72 0.16 0.45 4.3
+LN_Sclav_RC_R Medium 0.65 20 0.70 0.14 0.47 4.2
+Radformation, Inc. 510(k) Submission 20 of 25Lobe_Temporal_L Large 0.8 23 0.87 0.05 0.79 4.6
+Lobe_Temporal_R Large 0.8 23 0.88 0.05 0.81 4.6
+Macula_L Small 0.5 23 0.70 0.26 0.27 5.0
+Macula_R Small 0.5 23 0.72 0.23 0.34 5.0
+Nipple_L Medium 0.65 35 0.78 0.11 0.60 5.0
+Nipple_R Medium 0.65 38 0.78 0.17 0.50 5.0
+Pancreas Medium 0.65 25 0.71 0.15 0.47 4.1
+Pericardium Large 0.8 20 0.99 0.00 0.98 4.7
+Rectum_F Medium 0.65 20 0.90 0.09 0.76 4.2
+Retina_L Small 0.5 23 0.88 0.03 0.83 5.0
+Retina_R Small 0.5 23 0.88 0.03 0.84 5.0
+Rib_L Large 0.8 20 0.85 0.04 0.78 4.9
+Rib_R Large 0.8 20 0.85 0.04 0.79 4.8
+Spleen Large 0.8 24 0.95 0.07 0.84 4.9
+Stomach(Update) Large 0.8 25 0.90 0.06 0.80 4.9
+CaudaEquina(Update) Medium 0.65 42 0.88 0.06 0.77 4.5
+UteroCervix Medium 0.65 14 0.74 0.23 0.36 3.8
+V_Venacava_I Medium 0.65 41 0.81 0.08 0.68 4.8
+VB Large 0.8 63 0.96 0.03 0.91 4.4
+VB_C1 Medium 0.65 23 0.95 0.02 0.92 4.6
+VB_C2 Medium 0.65 24 0.96 0.02 0.92 4.7
+VB_C3 Medium 0.65 26 0.93 0.10 0.77 4.5
+VB_C4 Medium 0.65 33 0.87 0.20 0.54 4.6
+VB_C5 Medium 0.65 40 0.87 0.16 0.61 4.6
+VB_C6 Medium 0.65 42 0.90 0.07 0.78 4.6
+VB_C7 Medium 0.65 42 0.93 0.04 0.87 4.8
+Radformation, Inc. 510(k) Submission 21 of 25VB_L1 Large 0.8 32 0.88 0.22 0.53 4.7
+VB_L2 Large 0.8 25 0.89 0.21 0.55 4.7
+VB_L3 Large 0.8 20 0.92 0.19 0.60 4.9
+VB_L4 Large 0.8 20 0.93 0.21 0.58 4.8
+VB_L5 Large 0.8 20 0.92 0.20 0.60 4.4
+VB_T01 Medium 0.65 43 0.94 0.13 0.72 4.7
+VB_T02 Medium 0.65 43 0.95 0.05 0.86 4.5
+VB_T03 Medium 0.65 43 0.93 0.12 0.73 4.9
+VB_T04 Medium 0.65 43 0.93 0.14 0.69 4.6
+VB_T05 Medium 0.65 44 0.90 0.20 0.58 4.6
+VB_T06 Medium 0.65 43 0.88 0.22 0.51 4.7
+VB_T07 Medium 0.65 37 0.83 0.29 0.36 4.7
+VB_T08 Medium 0.65 27 0.79 0.33 0.25 4.7
+VB_T09 Medium 0.65 23 0.79 0.32 0.26 4.7
+VB_T10 Medium 0.65 23 0.81 0.31 0.29 4.7
+VB_T11 Medium 0.65 24 0.82 0.31 0.30 4.7
+VB_T12 Medium 0.65 31 0.86 0.24 0.46 4.8
+The MR training data set used for initial testing of the Brain models (Cerebellum,
+Hypothalamus, Hypo_True, OpticTract_L, OpticTract_R, Pituitary, Eye_L, Eye_R) had an
+average of 274 training image sets and 92 testing image sets and were acquired from
+the Cancer Imaging Archive GLIS-RT dataset. These data sets consisted primarily of
+glioblastoma and astrocytoma patients. Images were acquired on either a GE Signa
+HDxT (3T) or Siemens Skyra (3T) scanner and had an average slice thickness of 1mm,
+In-plane resolution between 0.5-1.0 mm, and acquisition parameters of TR=2.3-8.9ms,
+TE=3.0-3.2s.
+The MR training data used for initial testing of the MR Pelvis models (Prostate,
+Glnd_Prostate, and SeminalVes) was taken from the Cancer Imaging Archive
+Prostate-MRI-US-Biopsy dataset which consisted patients with a of suspicion of prostate
+cancer due to elevated PSA and/or suspicious imaging findings. The images used were
+T2-Axial image sets acquired on a 3T Siemens Skyra scanner. The majority of pulse
+Radformation, Inc. 510(k) Submission 22 of 25sequences used are 3D T2:SPC, with TR/TE 2200/203, Matrix/FOV 256 × 205/14 × 14
+cm, and 1.5mm slice spacing.
+Table 7: MR Initial Testing Dataset References
+ModelGroup DataSourceID DataCitation
+Shusharina,N.,&Bortfeld,T.(2021).GliomaImageSegmentationfor
+MRBrain MR-Renown Radiotherapy:RTtargets,barrierstocancerspread,andorgansatrisk[Data
+set].TheCancerImagingArchive.https://doi.org/10.7937/TCIA.T905-ZQ20
+Natarajan,S.,Priester,A.,Margolis,D.,Huang,J.,&Marks,L.(2020).
+ProstateMRIandUltrasoundWithPathologyandCoordinatesofTracked
+MRPelvis GoldAtlasPelvis
+Biopsy(Prostate-MRI-US-Biopsy)[Dataset].TheCancerImagingArchive.
+DOI:10.7937/TCIA.2020.A61IOC1A
+Datasets used for testing were removed from the training dataset pool before
+model training began, and used exclusively for testing.
+Ground truthing of each test data set was generated manually using consensus
+(NRG/RTOG) guidelines as appropriate by three clinically experienced experts
+consisting of 2 radiation therapy physicists and 1 radiation dosimetrist. For MR Structure
+models, a mean training DSC of 0.87+/-0.07 was found for medium models and 0.74+/-
+0.07 for small models.
+Table 8: MR Training Data Results for AutoContour Model RADAC V3
+LowerBound
+Pass DSC DSCStd 95%
+MRModels Size
+Criteria (Avg) Dev(Avg) Confidence
+Interval
+Cerebellum Medium 0.65 0.93 0.01 0.91
+Glnd_Prostate Medium 0.65 0.87 0.04 0.80
+Hypothalamus Small 0.50 0.79 0.04 0.72
+Hypo_True Small 0.50 0.71 0.06 0.61
+OpticTract_L Small 0.50 0.72 0.08 0.59
+OpticTract_R Small 0.50 0.72 0.08 0.59
+Pituitary Small 0.50 0.75 0.11 0.57
+Prostate Medium 0.65 0.89 0.03 0.84
+SeminalVes Medium 0.65 0.74 0.13 0.53
+Eye_L Medium 0.65 0.90 0.10 0.74
+Eye_R Medium 0.65 0.90 0.10 0.74
+Radformation, Inc. 510(k) Submission 23 of 25Additional external clinical testing was performed in order to validate the
+accuracy of the models on image sets acquired that were unique to the training datasets.
+Table 9: MR External Clinical Dataset References
+ModelGroup DataSourceID DataCitation
+MRBrain MR-Renown N/A
+Nyholm, Tufve, Stina Svensson, Sebastian Andersson, Joakim Jonsson,
+Maja Sohlin, Christian Gustafsson, Elisabeth Kjellén, et al. 2018. “MR
+MRPelvis GoldAtlasPelvis and CT Data with Multi Observer Delineations of Organs in the Pelvic
+Area - Part of the Gold Atlas Project.” Medical Physics 12 (10): 3218–21.
+doi:10.1002/mp.12748.
+For the Brain models, datasets acquired via data-use agreement from a clinical
+partner were acquired containing 20 MR T1 Ax post (BRAVO) image scans acquired with
+a GE MR750w scanner. Images had an average slice thickness of 1.6mm, In-plane
+resolution between 0.94 mm, and acquisition parameters of TR=5.98ms, TE=96.8s. Data
+for testing of the MR Pelvis structure models were acquired from a publicly available
+Gold Atlas Data set which contained 19 images of patients with prostate or rectal cancer.
+Images were acquired on a GE DISCOVERY MR750w (Ax T2 FRFSE) with in-plane
+resolution of 0.9mm, Slice thickness of 2.5mm, TR=5.988s and TE=96.8ms.
+DSC values were calculated between ground truth contour data and AutoContour
+structures and rated on the same DSC passing criteria as was used for the training DSC
+validation. All structures passed the minimum DSC criteria for small and medium
+structures with a mean DSC of 0.74+/-0.07, 0.87+/-0.07 respectively: Additionally, the
+qualitative clinical appropriateness of AutoContour structures generated on these scans
+was graded by clinical experts. Autocontour structures were graded on a scale from 1 to
+5 where 5 refers to contour requiring no additional edits, and 1 refers to a score in which
+full manual re-contour of the structure would be required. An average score >= 3 was
+used to determine whether a structure model would ultimately be beneficial clinically. An
+average rating of 4.4 was found across all MR structure models demonstrating that only
+minor edits would be required in order to make the structure models acceptable for
+clinical use.
+Radformation, Inc. 510(k) Submission 24 of 25Table 10: MR External Reviewer Results for AutoContour Model RADAC V3
+External
+Lower
+#External Average Reviewer
+Pass Average Bound95%
+MRModels Size TestData DSCStd. Average
+Criteria DSC Confidence
+Sets Dev Rating
+Interval
+(1-5)
+Cerebellum Medium 0.65 20 0.93 0.01 0.91 4
+Glnd_Prostate Medium 0.65 18 0.87 0.04 0.80 4.3
+Hypothalamus Small 0.50 20 0.79 0.04 0.72 4.2
+Hypo_True Small 0.50 19 0.71 0.06 0.61 4.3
+OpticTract_L Small 0.50 20 0.72 0.08 0.59 4.4
+OpticTract_R Small 0.50 19 0.72 0.08 0.59 4.5
+Pituitary Small 0.50 19 0.75 0.11 0.57 4.2
+Prostate Medium 0.65 19 0.89 0.03 0.84 4.2
+SeminalVes Medium 0.65 19 0.74 0.13 0.53 4.2
+Eye_L Medium 0.65 19 0.90 0.10 0.74 4.9
+Eye_R Medium 0.65 20 0.90 0.10 0.74 4.9
+Validation testing of the AutoContour application demonstrated that the software meets
+user needs and intended uses of the application.
+Mechanical and Acoustic Testing Not Applicable (Standalone Software)
+Not Applicable (Standalone Software)
+Animal Study
+No animal studies were conducted using the Subject Device, AutoContour.
+Clinical Studies
+No clinical studies were conducted using the Subject Device, AutoContour
+5.9. Conclusion
+AutoContour Model RADAC V3 is deemed substantially equivalent to the Predicate
+Device, AutoContour Model RADAC V2 (K220598). Verification and Validation testing
+and the Risk Management Report demonstrate that AutoContour Model RADAC V3 is as
+safe and effective as the Predicate Device. The technological characteristics table
+demonstrates the similarity between AutoContour Model RADAC V3 and the Predicate
+Device and does not raise any questions on the safety and effectiveness of the Subject
+Device.
+Radformation, Inc. 510(k) Submission 25 of 25

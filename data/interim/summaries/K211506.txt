@@ -1,0 +1,204 @@
+iCAD, Inc. July 12, 2021
+℅ Ms. Heather Reed
+Vice President, Quality Assurance and Regulatory Affairs
+98 Spit Brook Rd. Suite 100
+NASHUA NH 03062
+Re: K211506
+Trade/Device Name: PowerLook Density Assessment V4.0
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: May 6, 2021
+Received: May 14, 2021
+Dear Ms. Reed:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.26
+Silver Spring, MD 20993
+www.fda.govK211506 - Ms. Heather Reed Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510k Summary K211506
+Date Prepared: May 7, 2021
+Submitter:
+iCAD, Inc.
+98 Spit Brook Road
+Suite 100
+Nashua, NH 03062
+Contact Person:
+Heather Reed
+Vice President, Quality Assurance and Regulatory Affairs
+Email: hreed@icadmed.com
+Phone: (603) 309-1945
+Fax: (603) 880-3043
+Device Name:
+Trade Name: PowerLook Density Assessment V4.0
+Common Name: Medical Imaging Software
+Classification: Medical Image Management and Processing System
+Product Code: QIH
+Regulation Number: 21 CFR 892.2050
+Review Panel: Radiology
+Predicate Device:
+510k Number: K180125
+Manufacturer: iCAD, Inc.
+Device Name: PowerLook Density Assessment, V3.4
+Device Description
+PowerLook Density Assessment 4.0 is a software application intended for use with mammography
+exams containing synthetic 2D images generated from Digital Breast Tomosynthesis (DBT) data. The
+PowerLook Density Assessment software assesses breast tissue composition and provides a breast
+density category aligned with BI-RADS® 5th Edition density lexicon. The PowerLook Density
+Assessment 4.0 algorithm is designed to be used with cases containing up to four synthetic 2D views.
+When exams contain only DBT and synthetic 2D images generated from DBT, the 4.0 algorithm is used.
+The PowerLook Density Assessment software is designed to work in conjunction with iCAD’s
+PowerLook DICOM server platform, which is a Class I exempt medical device. The PowerLook Density
+Assessment 4.0 utilizes data management capabilities of PowerLook for controlling input to and output
+from the PowerLook Density Assessment algorithm. Results of the PowerLook Density Assessment
+98 Spit Brook Road, Suite 100 Nashua, NH 03062
+phone: 603.882.5200 toll free: 866.280.2239 fax: 603.218.6658
+www.icadmed.comsoftware application can be displayed on a mammography review workstation, mammography reporting
+application or radiology information system (RIS), or printed case report.
+Technical Characteristics:
+PowerLook Density Assessment V4.0 contains a new custom software application specifically designed
+to run on the PowerLook AMP, which is a Class I exempt medical device. The PowerLook Density
+Assessment utilizes data management capabilities of the PowerLook AMP for controlling input and
+output to the PowerLook Density Assessment. This functionality was validated to support the addition
+of GE V-Preview V4.1. This custom software application is new and independent from PowerLook
+Density Assessment V3.4 cleared in K180125.
+Supported Digital Breast Tomosynthesis Systems
+The following Digital Breast Tomosynthesis systems have been tested and are compatible with
+PowerLook Density Assessment V4.0 software:
+• Hologic Selenia Dimensions/3Dimensions (C-View)
+• GE Senographe Essential with SenoClaire (V-Preview)
+• GE Senographe Pristina (V-Preview)
+Intended Use / “Indications for Use”
+PowerLook Density Assessment is a software application intended for use with digital breast
+tomosynthesis synthesized 2D images from tomosynthesis exams. PowerLook Density Assessment
+provides an ACR BI-RADS Atlas 5th Edition breast density category to aid health care professionals in
+the assessment of breast tissue composition. PowerLook Density Assessment produces adjunctive
+information. It is not a diagnostic aid.
+Comparison with Predicate Device:
+UNMODIFIED Device MODIFIED Device
+PowerLook Density Assessment PowerLook Density Assessment V4.0
+Manufacturer iCAD, Inc. iCAD, Inc.
+Classification Name System, Image Processing, Medical Image Management and
+Radiological Processing System
+Regulation Number 21 CFR 892.2050 21 CFR 892.2050
+Product Code LLZ QIH
+510(k) # K180125 PendingUNMODIFIED Device MODIFIED Device
+PowerLook Density Assessment PowerLook Density Assessment V4.0
+Intended Use / Indication for PowerLook Density Assessment is a PowerLook Density Assessment is a
+Use software application intended for use software application intended for use
+with digital breast tomosynthesis with digital breast tomosynthesis
+synthesized 2D images from synthesized 2D images from
+tomosynthesis exams. PowerLook tomosynthesis exams. PowerLook
+Density Assessment provides an ACR Density Assessment provides an ACR
+BI-RADS Atlas 5th Edition breast BI-RADS Atlas 5th Edition breast
+density category to aid health care density category to aid health care
+professionals in the assessment of professionals in the assessment of
+breast tissue composition. PowerLook breast tissue composition. PowerLook
+Density Assessment produces Density Assessment produces
+adjunctive information. It is not a adjunctive information. It is not a
+diagnostic aid. diagnostic aid.
+Radiologists Radiologists
+End User
+Symptomatic and asymptomatic women Symptomatic and asymptomatic women
+Patient Population
+undergoing mammography. undergoing mammography.
+Image Source Modalities Synthetic views from tomosynthesis Synthetic views from tomosynthesis
+systems systems
+Input: Image Data Format DICOM synthetic 2D images generated DICOM synthetic 2D images generated
+from breast tomosynthesis data from breast tomosynthesis data
+Output Format DICOM structured report or DICOM DICOM structured report or DICOM
+secondary capture. secondary capture.
+For each patient: For each patient:
+Output Data
+• ACR BI-RADS® Atlas 5th • ACR BI-RADS® Atlas 5th
+Edition breast density Edition breast density
+category category
+• Fractional indication of • Fractional indication of
+distance inside breast density distance inside breast density
+category category
+Deployment Standalone computer Standalone computer
+Supported Digital Breast • Hologic Selenia • Hologic Selenia
+Tomosynthesis Systems Dimensions/3Dimensions Dimensions/3Dimensions
+(C-View) (C-View)
+• GE Senographe Essential • GE Senographe Essential
+with SenoClaire (V-Preview) with SenoClaire (V-Preview)
+• GE Senographe Pristina (V- • GE Senographe Pristina (V-
+Preview) Preview)Summary of Indications for Use:
+The “Indications for Use” remain unchanged from the Predicate UNMODIFIED Device
+PowerLook Density Assessment.
+Summary of Technological Characteristic
+Many technological characteristics of Modified PowerLook Density Assessment V4.0 remain unchanged
+from Unmodified Device PowerLook Density Assessment as the predicate. PowerLook Density
+Assessment V4.0 contains a new custom software application specifically designed to run on the
+PowerLook AMP, which is a Class I exempt medical device. PowerLook Density Assessment utilizes
+data management capabilities of the PowerLook AMP for controlling input and output to the PowerLook
+Density Assessment. This functionality was validated to support the addition of GE V-Preview V4.1.
+This custom software application is new and independent from PowerLook Density Assessment V3.4
+cleared in K180125.
+These changes do not raise different questions of safety and effectiveness.
+General Safety and Effectiveness Concerns
+The device labeling contains instructions for use and any necessary cautions and warnings to
+provide for safe and effective use of this device. Risk management is ensured via a risk analysis which is used
+to identify and mitigate potential hazards. Any potential hazards are controlled via software development,
+verification, and validation testing.
+Assessment of Non-Clinical Performance Data
+PowerLook Density Assessment V4.0 has been verified and validated according to iCAD’s design
+control processes. All supporting documentation has been included in this 510(k) Premarket
+Notification. Verification activity included unit, integration, and regression testing was performed.
+Hologic C-View, GE V-Preview V3 and GE V-Preview V4.1 cases were run through Density
+Assessment 4.0, results were compiled into confusion matrices and then summarized. The performance of
+the system on all three datasets were above the desired performance, demonstrating that PowerLook Density
+Assessment 4.0 accurately calculates the BI-RADS breast density category for Hologic C-View and GE V-
+Preview data.
+Conclusion:
+Based upon the information presented in this submission, it is concluded that PowerLook Density
+Assessment V4.0 is substantially equivalent to the named predicate device.

@@ -1,0 +1,436 @@
+Brainomix Limited
+℅ Szrnka Zsolt
+Regulatory Affairs Manager
+First Floor Seacourt Tower
+West Way
+Oxford, OX2 0JJ
+UNITED KINGDOM
+July 27, 2023
+Re: K231195
+Trade/Device Name: Brainomix 360 Triage ICH
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: April 21, 2023
+Received: June 22, 2023
+Dear Szrnka Zsolt:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK231195 - Szrnka Zsolt Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K231195
+Device Name
+Brainomix 360 Triage ICH
+Indications for Use (Describe)
+Brainomix 360 Triage ICH is a notification-only, parallel workflow tool for use by hospital networks and trained
+clinicians to identify and communicate images of specific patients to a specialist, independent of standard of care
+workflow.
+Brainomix 360 Triage ICH uses an artificial intelligence algorithm to analyze images for findings suggestive of a
+prespecified clinical condition and to notify an appropriate medical specialist of these findings in parallel to standard of
+care image interpretation. Identification of suspected findings is not for diagnostic use beyond notification. Specifically,
+the device is intended to be used for the triage of non-contrast CT images of the brain acquired from adult patients in the
+acute setting, within 24 hours of the onset of the acute symptoms, or where this is unclear, since last known well (LKW)
+time. It is not intended to detect isolated subarachnoid hemorrhage. The device sends notifications to a neurovascular
+specialist that a suspected intracranial hemorrhage has been identified and recommends review of those images. Images
+can be previewed through a mobile application.
+Images that are previewed through the mobile application are compressed and are for informational purposes only and not
+intended for diagnostic use beyond notification. Notified clinicians are responsible for viewing non-compressed images on
+a diagnostic viewer and engaging in appropriate patient evaluation and relevant discussion with a treating physician
+before making care-related decisions or requests. Brainomix 360 Triage ICH is limited to analysis of imaging data and
+should not be used in-lieu of full patient evaluation or relied upon to make or confirm diagnosis.
+Limitations:
+• Brainomix 360 Triage ICH is not intended for mobile diagnostic use. Images viewed on a mobile platform are preview
+images and not for diagnostic interpretation.
+• Brainomix 360 Triage ICH has been validated and is intended to be used on GE and Philips scanners.
+• Brainomix 360 Triage ICH is not intended to detect isolated subarachnoid hemorrhage.
+• Brainomix 360 Triage ICH is not intended to be used on patients with recent (within 6 weeks) neurosurgery or
+endovascular neurointervention or recent (within 4 weeks) previous diagnosis of intracranial hemorrhage.
+Contraindications:
+Brainomix 360 Triage ICH is not suitable for use with scan data containing image features associated with:
+• tumors or abscesses
+• coils, shunts, embolization or movement artefacts
+Brainomix 360 Triage ICH is not intended to be used for analyzing CT images in intracranial vascular pathologies such as
+arterial aneurysms, arteriovenous malformations or venous thrombosis.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+FORM FDA 3881 (6/20) Page 1 of 2 PSC Publishing Services (301) 443-6740 EFThis section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 2 of 2Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+K231195
+510(K) Summary
+Brainomix Limited’s Brainomix 360 Triage ICH
+Date Prepared: June 22, 2023
+Applicant’s name: Brainomix Limited
+Applicant’s address: First Floor, Seacourt Tower, West Way
+Oxford, OX2 0JJ
+United Kingdom
+Official contact: Zsolt Szrnka
++44 (0)1865 582730
+zszrnka@brainomix.com
+Device Proprietary Name: Brainomix 360 Triage ICH
+Device Common Name: Radiological Computer-Assisted Triage and
+Notification Software
+Regulatory Class: Class II
+Product Code: QAS
+Regulation No: 21 C.F.R. §892.2080
+Classification Panel: Radiology Devices
+Brainomix 360 Triage ICH is Substantially Equivalent to the following Legally Marketed device:
+Predicate Device
+510(k) Number Trade Name Manufacturer
+K193658 Viz ICH Viz.ai, Inc.
+Intended Use / Indications for Use
+Brainomix 360 Triage ICH is a notification-only, parallel workflow tool for use by hospital networks and trained
+clinicians to identify and communicate images of specific patients to a specialist, independent of standard of care
+workflow.
+Brainomix 360 Triage ICH uses an artificial intelligence algorithm to analyze images for findings suggestive of a
+prespecified clinical condition and to notify an appropriate medical specialist of these findings in parallel to standard
+of care image interpretation. Identification of suspected findings is not for diagnostic use beyond notification.
+Specifically, the device is intended to be used for the triage of non-contrast CT images of the brain acquired from
+adult patients in the acute setting, within 24 hours of the onset of the acute symptoms, or where this is unclear,
+since last known well (LKW) time. It is not intended to detect isolated subarachnoid hemorrhage. The device sends
+notifications to a neurovascular or neurosurgical specialist that a suspected intracranial hemorrhage has been
+identified and recommends review of those images. Images can be previewed through a mobile application.Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+Images that are previewed through the mobile application may be compressed and are for informational purposes
+only and not intended for diagnostic use beyond notification. Notified clinicians are responsible for viewing non-
+compressed images on a diagnostic viewer and engaging in appropriate patient evaluation and relevant discussion
+with a treating physician before making care-related decisions or requests. Brainomix 360 Triage ICH is limited to
+analysis of imaging data and should not be used in-lieu of full patient evaluation or relied upon to make or confirm
+diagnosis.
+Limitations:
+• Brainomix 360 Triage ICH is not intended for mobile diagnostic use. Images viewed on a mobile platform
+are preview images and not for diagnostic interpretation.
+• Brainomix 360 Triage ICH has been validated and is intended to be used on GE and Philips scanners.
+• Brainomix 360 Triage ICH is not intended to detect isolated subarachnoid hemorrhage.
+• Brainomix 360 Triage ICH is not intended to be used on patients with recent (within 6 weeks) neurosurgery
+or endovascular neurointervention or recent (within 4 weeks) previous diagnosis of intracranial
+hemorrhage
+Contraindications:
+Brainomix 360 Triage ICH is not suitable for use with scan data containing image features associated with:
+• tumors or abscesses
+• coils, shunts, embolization or movement artefacts
+Brainomix 360 Triage ICH is not intended to be used for analyzing CT images in intracranial vascular pathologies
+such as arterial aneurysms, arteriovenous malformations or venous thrombosis.
+Device Description
+Brainomix 360 Triage ICH is a radiological computer aided triage and notification software package compliant with
+the DICOM standard and running on an off-the-shelf physical or virtual server.
+The Triage ICH module is a non-contrast CT processing module which operates within the integrated Brainomix 360
+Platform to provide triage and notification prioritization of suspected intracranial hemorrhage (ICH). Brainomix 360
+Triage ICH is a stand-alone software device which uses machine learning algorithms that uses advanced non
+adaptive imaging algorithms, artificial intelligence, and large data analytics to automatically identify suspected ICH
+on non-contrast CT (NCCT) imaging acquired from adult patients in the acute setting, within 24 hours of the onset
+of the acute symptoms, or where this is unclear, since last known well (LKW) time. The output of the module is a
+priority notification to clinicians indicating the suspicion of ICH based on positive findings. Specifically, Brainomix
+360 Triage ICH is optimized to detect and evaluate hyperdense volume in the parenchyma typically associated with
+acute intracranial hemorrhage (ICH). The Triage ICH module uses the basic services supplied by the Brainomix 360
+Platform including DICOM processing, job management, imaging module execution and imaging output including
+the notification and compressed image.
+Brainomix 360 Triage ICH notification capabilities enable clinicians to review and preview images via mobile app
+notification. Alternatively, intended users can also access the notification (a “Suspected hemorrhage” flag) and
+straightened images via the Brainomix 360 web user interface. Images that are previewed via mobile app are
+compressed, are for preview informational purposes only, and not intended for diagnostic use beyond notification.
+The device is intended for use as an additional tool for assisting study triage within existing patient pathways. It
+does not replace any part of the current standard of care. It is designed to assist in prioritization of studies forBrainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+reading within a worklist, in addition to any other pre-existing formal or informal methods of study prioritization in
+place. Specifically, it does not remove cases from a reading queue and operates in parallel to the standard of care.
+This device is not intended to replace the usual methods of communication and transfer of information in the
+current standard of care.
+Summary of Technological Characteristics
+Both proposed and predicate device are a notification-only, parallel workflow tool for use by hospital networks and
+trained clinicians to identify and communicate images of specific patients to a specialist, independent of standard
+of care workflow. Notifications generated from both proposed and predicate devices are shared with clinicians to
+alert that a suspected intracranial hemorrhage has been identified and recommends review of those images.
+The proposed and predicate devices are equally intended for use as an additional tool for assisting study triage
+within existing patient pathways. They do not replace any part of the current standard of care. Likewise, they are
+designed to assist in prioritization of studies for reading within a worklist, in addition to any other pre-existing
+formal or informal methods of study prioritization in place.
+Both proposed and predicate devices are designed to be used by trained clinicians in a hospital/clinical
+environment.
+Both proposed and predicate devices run on standard physical and/or virtual servers which are installed within a
+hospital network and within the protection of hospital firewalls.
+The predicate device notifies the user via mobile and provides compressed original images which are used for
+informational purposes only. Likewise, the images which are shared on notifications by the proposed device are
+compressed and for informational purposes only. As the predicate, a persistent warning is displayed to alert users
+that the images are compressed and not intended for diagnostic purposes.
+Where Brainomix 360 Triage ICH differs from the predicate is that the proposed device may also notify the user of
+a suspected ICH via the web user interface, as an additional channel of output. The unprocessed images are
+subjected to rotation and resampling (pre-processing and registration) which do not alter the original imaging in
+relation to aid for diagnostic. Identically to the predicate, the notified clinicians are responsible for viewing non-
+compressed images on a diagnostic viewer and engaging in appropriate patient evaluation and relevant discussion
+with a treating physician before making care-related decisions or requests. Therefore, the technical differences in
+how the notification may be sent to the user between the proposed and predicate devices do not raise different
+questions of safety and effectiveness.
+Characteristic/Parameter Brainomix 360 Triage ICH – Subject Device Viz.ai Viz ICH – Predicate Device
+(K193658)
+Product Code QAS QAS
+Regulation 21 C.F.R. §892.2080 21 C.F.R. §892.2080
+Indications for Use Brainomix 360 Triage ICH is a notification-only, Viz ICH is a notification-only, parallel
+parallel workflow tool for use by hospital workflow tool for use by hospital networks
+networks and trained clinicians to identify and and trained clinicians to identify and
+communicate images of specific patients to a communicate images of specific patients
+specialist, independent of standard of care to a specialist, independent of standard of
+workflow. care workflow.
+Brainomix 360 Triage ICH uses an artificial Viz ICH uses an artificial intelligence
+intelligence algorithm to analyze images for algorithm to analyze images for findings
+findings suggestive of a prespecified clinical suggestive of a prespecified clinical
+condition and to notify an appropriate medical condition and to notify an appropriateBrainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+specialist of these findings in parallel to medical specialist of these findings in
+standard of care image interpretation. parallel to standard of care image
+Identification of suspected findings is not for interpretation. Identification of suspected
+diagnostic use beyond notification. findings is not for diagnostic use beyond
+Specifically, the device is intended to be used notification. Specifically, the device
+for the triage of non-contrast CT images of the analyzes non-contrast CT images of the
+brain acquired from adult patients in the acute brain acquired in the acute setting, and
+setting, within 24 hours of the onset of the sends notifications to a neurovascular or
+acute symptoms, or where this is unclear, neurosurgical specialist that a suspected
+since last known well (LKW) time. It is not intracranial hemorrhage has been
+intended to detect isolated subarachnoid identified and recommends review of
+hemorrhage. The device sends notifications to those images. Images can be previewed
+a neurovascular or neurosurgical specialist through a mobile application.
+that a suspected intracranial hemorrhage has
+Images that are previewed through the
+been identified and recommends review of
+mobile application may be compressed
+those images. Images can be previewed
+and are for informational purposes only
+through a mobile application.
+and not intended for diagnostic use
+Images that are previewed through the mobile beyond notification. Notified clinicians are
+application may be compressed and are for responsible for viewing non-compressed
+informational purposes only and not intended images on a diagnostic viewer and
+for diagnostic use beyond notification. engaging in appropriate patient evaluation
+Notified clinicians are responsible for viewing and relevant discussion with a treating
+non-compressed images on a diagnostic physician before making care-related
+viewer and engaging in appropriate patient decisions or requests. Viz ICH is limited to
+evaluation and relevant discussion with a analysis of imaging data and should not be
+treating physician before making care-related used in-lieu of full patient evaluation or
+decisions or requests. Brainomix 360 Triage relied upon to make or confirm diagnosis.
+ICH is limited to analysis of imaging data and
+Viz ICH is contraindicated for analyzing
+should not be used in-lieu of full patient
+non-contrast CT scans that are acquired on
+evaluation or relied upon to make or confirm
+scanners from manufacturers other than
+diagnosis.
+General Electric (GE) or its subsidiaries (i.e.
+Limitations: GE Healthcare). This contraindication
+applies to NCCT scans that conform to all
+• Brainomix 360 Triage ICH is not
+applicable Patient Inclusion Criteria, are of
+intended for mobile diagnostic use.
+adequate technical image quality, and
+Images viewed on a mobile platform
+would otherwise be expected to be
+are preview images and not for
+analyzed by the device for a suspected ICH.
+diagnostic interpretation.
+• Brainomix 360 Triage ICH has been
+validated and is intended to be used
+on GE and Philips scanners.
+• Brainomix 360 Triage ICH is not
+intended to detect isolated
+subarachnoid hemorrhage.
+• Brainomix 360 Triage ICH is not
+intended to be used on patients with
+recent (within 6 weeks) neurosurgery
+or endovascular neurointervention or
+recent (within 4 weeks) previous
+diagnosis of intracranial hemorrhage
+Contraindications:Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+Brainomix 360 Triage ICH is not suitable for
+use with scan data containing image features
+associated with:
+• tumors or abscesses
+• coils, shunts, embolization or
+movement artefacts
+Brainomix 360 Triage ICH is not intended to be
+used for analyzing CT images in intracranial
+vascular pathologies such as arterial
+aneurysms, arteriovenous malformations or
+venous thrombosis.
+Environment of use Clinical/Hospital environment Clinical/Hospital environment
+Energy used and/or None – software only application. The None – software only application. The
+delivered software application does not deliver or software application does not deliver or
+depend on energy delivered to or from depend on energy delivered to or from
+patients patients
+Primary Users Neurovascular Specialist Neurovascular Specialist
+Anatomical Region Head Head
+Technical Implementation Artificial intelligence algorithm with database Artificial intelligence algorithm with
+of images database of images
+Diagnostic application Notification-only Notification-only
+Results of image analysis Internal, no image marking Internal, no image marking
+Alteration of original No No
+image
+Preview Images Initial assessment; non-diagnostic purposes Initial assessment; non-diagnostic
+purposes
+Image viewing and Yes – window, pan, level, zoom Yes – window, pan, level, zoom
+manipulation
+Results of Image Analysis Internal, no image marking Internal, no image marking
+Interference with No. Cases are not removed from worklist or No. Cases are not removed from worklist
+standard workflow deprioritized or deprioritized
+Notification Mobile application and web user interface Mobile
+Design: DICOM Yes Yes
+compliance
+Design: Computer Standard off-the-shelf server or virtual server Standard off-the-shelf server or virtual
+Platform server
+Design: Data acquisition Acquires medical image data from DICOM Acquires medical image data from DICOM
+compliant imaging devices and modalities compliant imaging devices and modalities
+Materials N/A – Software only device N/A – Software only device
+Biocompatibility N/A – Software only device N/A – Software only device
+Sterility N/A – Software only device N/A – Software only device
+Electrical Safety N/A – Software only device N/A – Software only device
+Mechanical Safety N/A – Software only device N/A – Software only device
+Chemical Safety N/A – Software only device N/A – Software only device
+Thermal Safety N/A – Software only device N/A – Software only device
+Radiation Safety N/A – Software only device N/A – Software only device
+Performance Data
+A retrospective study has been carried out to assess the standalone performance of the image analysis algorithm
+and notification functionality of Triage ICH. The study evaluated the Triage ICH image analysis algorithm in termsBrainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+of sensitivity and specificity with respect to a ground truth, as established by experienced US board certified
+neuroradiologists, in the detection of intracranial hemorrhage (ICH) in the brain. In addition, the study reported
+and compared the time to notification for the Triage ICH device with respect to the time to notification for the
+standard of care as established by the predicate device.
+A sample size of 341 non-contrast Computed Tomography (NCCT) scans (studies) were obtained from 30 different
+hospitals and clinics in the U.S. The majority of patients were scanned at Boston Medical Centre (N=237) and the
+remainder came from 29 different referral hospitals in Massachusetts State. The patient cohort was enriched to
+ensure an approximately equal balance of ICH positive and negative studies and to ensure the distribution of clinical
+and demographic variables (e.g., age, gender, ICH subtype, traumatic vs non traumatic etiology) allows
+generalizability to the patient population for whom use is intended.
+The cases (n=341) were all successfully processed with the algorithm. The confusion matrix was as follows: True
+Positives (TP): 149, True Negatives (TN): 159, False Positives (FP): 15, False Negatives (FN): 18. The overall
+performance can also be summarized with the following metrics: sensitivity (or positive percentage agreement,
+defined as TP/[TP+FN]) was 89.22%, specificity (or negative percentage agreement, defined as TN/[TN+FP])
+was 91.37%. The receiver operating curve (ROC) for the device is shown in Figure 1.
+Figure 1. Receiver Operating Curve for the device, with the operating point (sensitivity 89.2%, specificity 91.4%) shown with the red triangle.
+Because the lower bound of each confidence interval for sensitivity and specificity exceeded 80%, the study met
+the pre-specified performance goals.
+As part of a secondary analysis, the company stratified the device performance by various confounding variables:
+ICH subtype (Table 1); by gender (Table 2); by age (Table 3); by slice thickness (Table 4); by clinical site (Table 5);
+and by ICH Volume (Table 6).
+ICH Subtype Sensitivity (95% CI)
+Intraparenchymal Hemorrhage (IPH) 96.61% (88.29-99.59)
+Intraventricular Hemorrhage (IVH) 100.00% (59.04-100.00)
+Subarachnoid Hemorrhage (SAH) 35.71% (12.76-64.86)Brainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+Subdural Hemorrhage (SDH) 66.67% (40.99-86.66)
+Multiple Types 98.55% (92.19-99.96)
+Table 1. Summary of the performance metrics for the subsets of scans stratified by ICH Subtype.
+Gender Sensitivity (95% CI) Specificity (95% CI)
+Male 93.18% (85.75-97.46) 91.30% (83.58-96.17)
+Female 84.81% (74.97-91.90) 91.46% (83.20-96.50)
+Table 2. Summary of the performance metrics for the subsets of scans stratified by gender.
+Age Sensitivity (95% CI) Specificity (95% CI)
+21 < Age < 50 83.33% (67.19-93.63) 88.73% (79.00-95.01)
+50 ≤ Age < 70 92.75% (83.89-97.61) 91.25% (82.80-96.41)
+Age ≥ 70 88.71% (78.11-95.34) 100.00% (85.18-100.00)
+Table 3. Summary of the performance metrics for the subsets of scans stratified by age group.
+Slice Thickness Sensitivity (95% CI) Specificity (95% CI)
+Slice Thickness < 1.5 mm 87.50% (79.92-92.99) 94.21% (88.44-97.64)
+1.5mm ≤ Slice Thickness < 3 mm 95.65% (78.05-99.89) 100.00% (82.35-100.00)
+Slice Thickness ≥ 3 mm 90.62% (74.98-98.02) 76.47% (58.83-89.25)
+Table 4. Summary of the performance metrics for the subsets of scans stratified by slice thickness
+Clinical Site Sensitivity (95% CI) Specificity (95% CI)
+Boston Medical Centre 89.38% (82.18-94.39) 94.35% (88.71-97.70)
+Other 88.89% (77.37-95.81) 84.00% (70.89-92.83)
+Table 5. Summary of the performance metrics for the subsets of scans stratified by referring hospital
+Minimal Volume Threshold (ml) Sensitivity above Threshold (95% CI)
+vol ≥ 0 ml 89.22% (83.50-93.49)
+vol ≥ 0.4ml 94.59% (89.63-97.64)
+vol ≥ 1ml 97.04% (92.59-99.19)
+vol ≥ 5ml 99.04% (94.76-99.98)
+Table 6. Summary of the sensitivity for the subsets of scans stratified by ICH volume
+To assess the secondary outcome measure, the device’s time to notification was recorded for a sample of cases.
+This ranged from 50 seconds to 126 seconds, and is substantially lower than the average time to notification seen
+in the Standard of Care reported by the predicate device (38.2 minutes).
+In summary, the clinical tests demonstrate that the device performs with good sensitivity and specificity to detect
+acute ICH from non-contrast CT imaging, and met the primary study endpoint of 80% sensitivity and specificity. This
+acceptability criterion was the same as used for the predicate device (Viz ICH, K193658), supporting the equivalent
+performance to the predicate. Furthermore, the device’s time to notification ranged from 50-126 seconds whichBrainomix Limited
+First Floor, Seacourt Tower, West Way
+Oxford OX2 0JJ, United Kingdom
+was significantly shorter than the average time to notification seen in the Standard of Care of 38.2 minutes reported
+by the predicate device.
+Prescriptive Statement
+Caution: Federal law restricts this device to sale by or on the order of a physician.
+Conclusion
+In conclusion, Brainomix 360 Triage ICH has the same intended use and is substantially equivalent in technological
+characteristics, safety, and performance characteristics to the legally marketed predicate device, Viz ICH (K193658).

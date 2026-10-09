@@ -1,0 +1,365 @@
+In-Med Prognostics L3C September 14, 2023
+Latha Poonamallee
+4918 September Street
+San Diego, California 92110
+Re: K220034
+Trade/Device Name: NEUROShield
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: June 19, 2023
+Received: June 20, 2023
+Dear Latha Poonamallee:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK220034 - Latha Poonamallee Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Robert Sauer
+Deputy Director
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureNEUROShield 510k Premarket Submission
+Revision: 01 Date: 11 Sept 2023
+510(k) Summary
+I. Submitter
+Name In-Med Prognostics L3C
+Address 4918 September Street, San Diego, CA 92110, USA
+Contact Person Dr. Latha Poonamallee
+Telephone Number +1 (906) 231-1135
+Email drlatha@inmed.ai
+II. Device
+Device Trade Name NEUROShieldTM
+Common Name Medical Image Processing Software
+Classification Name Medical image management and processing system
+Regulation Number 21 CFR 892.2050
+Regulation Description Picture archiving and communications system
+Product Code QIH
+Classification Panel Radiology
+III. Predicate Device:
+Device NeuroQuant
+510(k) Number K170981
+Manufacturer CorTechs Labs, Inc
+Product Code: LLZ
+IV. Device Description:
+NEUROShieldTM is a fully automated brain geometry-based quantifying
+analytics tool/cloud platform that uses AI/Deep Net to support physicians as a
+clinical decision support tool for neurologists and neuroradiologists.
+NEUROShieldTM takes 3D MR images as input and calculates brain volumes
+that can assist physicians in devising optimal treatment plans. The AI tool
+branded as NEUROShieldTM provides volumetric measurements of the
+Hippocampus brain structure. It replaces time-consuming manual processes
+Page 1 of 8with leading-edge automated technology that accelerates the analysis for
+clinical and research purposes. Brain Volume Quantification is a well-
+established methodology for differential and enhanced interpretation of medical
+images.
+We are using a locked algorithm, and any proposed modifications will be
+submitted to the FDA for review.
+V. Indications for Use:
+The NEUROShield™ medical image processing software is intended for automatic
+labelling, visualization, and volumetric quantification of the Hippocampus brain
+structure from a set of MR images.
+VI. Comparison of Technological Characteristics with the Predicate Device:
+Feature Subject Device Predicate Device
+Device Name NEUROShield™ NeuroQuant
+Organization In Med Prognostics L3C CorTechs Labs, Inc
+Classification Class II Class II
+Product Code QIH LLZ
+Indications for Use Automatic labelling, Automatic labelling, visualization
+visualization, and volumetric and volumetric quantification of
+quantification of the segmentable brain structures
+Hippocampus brain structure and lesions from a set of MR
+from a set of MR images. images. Volumetric data may be
+compared to reference
+percentile data.
+Design and •Software as a medical •Automated measurement of
+Incorporated device to be used in the brain tissue volumes and
+Technology process of Imaging and structures and lesions
+quantification of the •Automatic segmentation and
+Hippocampus brain quantification of brain structures
+structure from a set of MR using a dynamic probabilistic
+images. neuroanatomical atlas, with age
+•Fully automated brain and gender specificity, based on
+geometry-based quantifying the MR image intensity.
+analytics tool/cloud platform
+developed using DeepNet /
+U-Net methodologies.
+Physical • Software package • Software package
+Characteristics (accessible via web browser) • Operates on off-the-shelf
+• Operates on off-the-shelf hardware (multiple vendors)
+hardware (multiple vendors)
+Operating System Supports Windows and Mac Supports Linux, Mac OS X and
+OS latest (No older than Windows.
+Catalina)
+Processing An automated internal Automated internal pipeline that
+Architecture pipeline that performs: performs:
+- segmentation - artifact correction
+- volume calculation - segmentation
+- report generation - lesion quantification
+Page 2 of 8- volume calculation
+- report generation
+Feature Subject Device Predicate Device
+Data Source • • MRI scanner: 3D T1 MRI • MRI scanner: 3D T1 MRI
+scans acquired with specified scans acquired with specified
+protocols protocols • NeuroQuant
+• NEUROShield requires Supports DICOM format as input
+uncompressed DICOM files
+as input.
+Output Provides volumetric Provides volumetric
+measurements of measurements of brain
+Hippocampus brain structure. structures and lesions.
+Includes segmented color
+overlays and morphometric
+reports
+▪Automatically compares results
+to reference percentile data and
+to prior scans when available
+▪Supports DICOM format as
+output of results that can be
+displayed on DICOM
+workstations and Picture Archive
+and Communications Systems
+Safety • Automated quality control • Automated quality control
+functions functions
+- Scan protocol verification - Tissue contrast check
+- Scan protocol verification
+• Results must be reviewed - Atlas alignment check
+by a trained physician.
+• Results must be reviewed by a
+trained physician.
+VII. Performance Testing:
+NEUROShield is a machine learning/deep learning algorithm-based device. This
+algorithm was developed by training the Deep Net Segmentation Models with the
+help of the training set.
+Specifications of the Training dataset
+Data was collected from multiple sites across India, between January 2020 to
+December 2021.
+The dataset of 186 cases, which was used for training, was carefully gathered and
+brought together by studying several factors such as variance, Tesla-strength
+(1.5T, 3T), qualities of image and equipment manufacturers. The collected data
+was prepared as the ground truth by manual segmentation of the Hippocampus
+structure by subject matter experts, and this was used as an input to the deep net
+Segmentation Model.
+The table below provides the categorization of subjects.
+Page 3 of 8Subgroups Count
+Healthy controls 186
+1.5T 109
+Magnetic field
+strength 3 T 77
+1 81
+1.2 50
+Slice thickness
+2 7
+2.2 48
+GE 57
+Equipment
+Siemens 112
+Manufacturers
+Philips 17
+Validation Study:
+NEUROShield’s performance was evaluated by a validation study summarized
+as follows:
+A. Data Description:
+The performance testing/ validation dataset was collected from the publicly
+available ADNI (Alzheimer's Disease Neuroimaging Initiative) dataset. This
+dataset is independent of the training data and was not used to develop the
+NEUROShield’s algorithm.
+• Data Size: 280 subjects
+• Study Type: Analytical & Cross-Sectional
+• Data collection type: Retrospective
+• Data Sampling: Stratified Random Sampling
+• Recruitment factors: ADNI 1 & ADNI 3 dataset (Alzheimer's Disease
+Neuroimaging Initiative)
+• MRI Equipment manufacturers: GE medical systems, Philips medical systems,
+Siemens Healthineers.
+• Magnetic Field Strength: 1.5 & 3 T
+• MRI Sequences/ protocol: 3D T1 MPRAGE
+• Slice thickness: 1, 1.2
+• Approximately equal geographical distribution in USA: East coast, Central US
+regions, West coast.
+The distribution for age bands is as follows:
+Age group Count
+55-64 109
+65-69 56
+70-74 50
+75-79 29
+80-84 20
+85-90 16
+Page 4 of 8The mean age of subjects was found to be 68 ± 8.3 years.
+The table below provides the categorization of subjects according to selection
+criteria:
+Count Mean Standard
+Subgroups (mL) deviation
+(mL)
+ADNI-control 140 6.8 1
+Clinical Sub-
+ADNI-MCI 70 6.6 1.1
+groups
+ADNI-AD 70 5.5 1.1
+Male 140 6.6 1.1
+Gender
+Female 140 6.2 1.3
+1.5T 139 6.2 1.2
+Magnetic field
+strength 3 T 141 6.7 1.1
+1 118 6.7 1
+Slice thickness
+1.2 162 6.2 1.2
+East 100 6.5 1.2
+US Region West 87 6.3 1.3
+Central 93 6.5 1
+B. Ground Truth:
+1. 3 US Board Certified Radiologists performed manual segmentation of 280
+subjects’ MRI Brain scans using a widely accepted segmentation guideline
+method. This ground truth was combined into one tracing per case by the
+STAPLE (Simultaneous Truth and Performance Level Estimation) algorithm.
+The STAPLE-derived ground truth was then compared with segmentation
+provided by each radiologist and statistical tests were performed to ensure
+the validity of ground truth.
+2. NEUROShield™ algorithm provided automated segmentation for the
+Hippocampus brain structure with markings and labelling on all subjects
+using algorithms and performed segmentation and computed volumes.
+C. Statistical Analysis:
+1. Validation of Ground Truth: Ground truth validation using 3 radiologist
+segmentations was performed by comparing the segmentations obtained by
+these radiologists with the STAPLE annotations, utilizing Dice coefficient,
+sensitivity, specificity and Hausdorff distance.
+Statistical analysis revealed no significant differences between the ground
+truth and radiologist segmentations (p > 0.05) for all comparisons,
+supporting the reliability of the ground truth annotations and the consistency
+of the radiologist segmentations.
+2. Geometric comparison of NEUROShield™ with Ground Truth:
+Ground Truth was compared with the segmentation output generated by
+NEUROShield™ and validated using Dice score and Hausdorff
+distance. NEUROShield passed the criteria for both statistical methods.
+Page 5 of 83. Quantitative Comparison of volumes of NEUROShield™ (NS) with Ground
+Truth: STAPLE-derived ground truth building on the three US Board
+Certified Radiologists’ provided segmentations was used to calculate the
+volume of the Hippocampus brain structure for all the cases. ITK Snap was
+used for this purpose. These volumes were compared with the volumes
+computed by NEUROShield™ using correlation analysis, Bland-Altman
+plots, and relative volume difference. NEUROShield passed the criteria for
+all three of the statistical methods, showing correspondence between
+NEUROShield™ volume and STAPLE volume.
+4. Pass/fail criteria: The pass/fail criteria were defined by selecting thresholds
+for each measure and performing hypothesis testing for the same. The
+thresholds for Dice score and Hausdorff distance are 75% and 6.1mm
+respectively, whereas for correlation and relative volume difference the
+passing criteria was defined as 0.82 and 24.6% respectively. For mean
+difference in BA plots, the threshold selected for total hippocampus was
+1010 𝑚𝑚3
+5. Subgroup Error Analysis: For all the different subgroups, like magnetic field
+strength, gender, slice thickness, clinical subgroups and US geographical
+regions, the dice score values were above 90% and Hausdorff distance
+was less than 4 mm which represents a high level of accuracy of
+NEUROShield™ Hippocampus segmentation. Furthermore,
+NEUROShield™ passes the criteria both for correlation and relative volume
+differences for different subgroups.
+D. Results:
+1. The average dice coefficient and Hausdorff distance was found to be 0.91 and 3.8 mm
+respectively. The following table shows the 95% confidence interval for both.
+Measure Threshold NEUROShield™ 95 % Criteria
+confidence intervals (Pass/Fail)
+Dice 0.75 (0.90, 0.92) Pass
+Hausdorff distance 6.1 (3.57, 4.06) Pass
+2. The outcomes of subgroup error analysis are as follows:
+a) Clinical subgroups:
+Dice score Hausdorff distance (mm)
+Clinical
+Control MCI AD Control MCI AD
+subgroups
+Measured
+0.91 0.92 0.9 3.77 3.43 4.3
+value
+NEUROShield
+™ 95 %
+(0.9, 0.92) (0.91, 0.93) (0.88, 0.91) (3.42, 4.13) (3.03, 3.82) (3.75, 4.85)
+confidence
+intervals
+Criteria Pass Pass Pass Pass Pass Pass
+Page 6 of 8b) Gender:
+Dice score Hausdorff distance (mm)
+Gender Female Male Female Male
+Measured value 0.91 0.91 3.92 3.71
+NEUROShield™ 95 %
+(0.90,0.92) (0.90,0.92) (3.5,4.3) (3.4,4.02)
+confidence intervals
+Criteria Pass Pass Pass Pass
+c) Magnetic field strength:
+Dice score Hausdorff distance (mm)
+MRI strength 3T 1.5T 3T 1.5T
+Measured value 0.92 0.9 3.66 3.9
+NEUROShield™
+95 % confidence (0.92,0.93) (0.89, 0.91) (3.36, 3.96) (3.59, 4.37)
+intervals
+criteria Pass Pass Pass Pass
+d) Slice thickness:
+Dice score Hausdorff distance (mm)
+slice thickness 1 mm 1.2mm 1 mm 1.2mm
+Average value 0.92 0.9 3.5 4
+NEUROShield™
+95 % confidence (0.92,0.93) (0.89,0.91) (3.21, 3.8) (3.68,4.41)
+intervals
+criteria Pass Pass Pass Pass
+e) US geographical regions:
+Dice score Hausdorff distance
+Region East US West US Central US East US West US Central US
+Average
+0.91 0.9 0.92 3.78 3.94 3.73
+value
+Page 7 of 895 %
+confidence (0.9, 0.92) (0.88, 0.91) (0.91, 0.93) (3.37, 4.19) (3.43, 4.45) (3.38, 4.09)
+intervals
+Criteria Pass Pass Pass Pass Pass Pass
+The analysis of Neuroshield hippocampus segmentation revealed that the overall dice score
+values were above 90% and Hausdorff distance consistently below 4mm, reflecting a remarkable
+level of accuracy. These findings affirm the precision in both correlation and relative volume
+differences for segmenting hippocampal structures.
+VIII. Conclusions:
+This comprehensive evaluation demonstrates the reliability and effectiveness of NeuroShield in
+hippocampal segmentation. The assessment concludes that Neuroshield is a highly accurate
+device/tool for its intended use, thereby promising significant contributions to neuroimaging
+research and clinical applications.
+Page 8 of 8

@@ -1,0 +1,807 @@
+Brainomix Limited
+℅ Gwilym Owen
+Head of Quality and Regulatory
+Suite 11-14, Suffolk House, 263 Banbury Road
+Oxford, Oxfordshire OX2 7HN
+UNITED KINGDOM
+February 23, 2023
+Re: K221564
+Trade/Device Name: Brainomix 360 e-ASPECTS
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological computer-assisted diagnostic software for lesions suspicious of cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: January 20, 2023
+Received: January 23, 2023
+Dear Gwilym Owen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.govK221564 - Gwilym Owen Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K221564
+Device Name
+Brainomix 360 e-ASPECTS
+Indications for Use (Describe)
+Brainomix 360 e-ASPECTS is a computer-aided diagnosis (CADx) software device used to assist the clinician in the
+assessment and characterization of brain tissue abnormalities using CT image data.
+The software automatically registers images and uses an Atlas to segment and analyze ASPECTS regions. Brainomix 360
+e-ASPECTS extracts image data from individual voxels in the image to provide analysis and computer analytics and
+relates the analysis to the atlas defined ASPECTS regions. The imaging features are then synthesized by an artificial
+intelligence algorithm into a single ASPECTS (Alberta Stroke Program Early CT) Score.
+Brainomix 360 e-ASPECTS is indicated for evaluation of patients presenting for diagnostic imaging workup with known
+MCA or ICA occlusion, for evaluation of extent of disease. Extent of disease refers to the number of ASPECTS regions
+affected which is reflected in the total score. Brainomix 360 e-ASPECTS provides information that may be useful in the
+characterization of ischemic brain tissue injury during image interpretation (within 6 hours from time last known well).
+Brainomix 360 e-ASPECTS provides a comparative analysis to the ASPECTS standard of care radiologist assessment by
+providing highlighted ASPECTS regions and an automated editable ASPECTS score for clinician review. Brainomix 360
+e-ASPECTS additionally provides a visualization of the voxels contributing to the automated ASPECTS score and the
+voxels excluded from the automated ASPECTS score.
+Limitations:
+1. Brainomix 360 e-ASPECTS is not intended for primary interpretation of CT images. It is used to assist physician
+evaluation.
+2. Brainomix 360 e-ASPECTS has been validated in patients with known MCA or ICA occlusion prior to ASPECTS
+scoring.
+3. Brainomix 360 e-ASPECTS is not suitable for use on brain scans displaying neurological pathologies other than acute
+stroke, such as tumours or abscesses, haemorrhagic transformation and hematoma.
+4. Use of Brainomix 360 e-ASPECTS Module in clinical settings other than brain ischemia within 6 hours from time last
+known well, caused by known ICA or MCA occlusions has not been tested.
+5. Brainomix 360 e-ASPECTS has only been validated and is intended to be used in patient populations aged over 21.
+6. Brainomix 360 e-ASPECTS has been validated and is intended to be used on Siemens Somatom Definition scanners.
+7. Brainomix 360 e-ASPECTS is not intended for mobile diagnostic use. Images viewed on a mobile platform are
+compressed preview images and not for diagnostic interpretation.
+Contraindications/Exclusions/Cautions:
+• Patient motion: Excessive patient motion leading to artifacts that make the scan technically inadequate.
+• Haemorrhagic Transformation, Hematoma.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+FORM FDA 3881 (6/20) Page 1 of 2 PSC Publishing Services (301) 443-6740 EFCONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 2 of 2Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+K221564
+Oxford OX2 7HN
+510(K) Summary of Safety and Effectiveness
+Date of summary: 23rd February 2023
+Submitter’s name: Brainomix Limited
+Submitter’s address: Brainomix Limited, Suites 11-14 Suffolk House, 263 Banbury Road,
+Oxford. OX2 7HN. United Kingdom
+Submitter’s contact: Gwilym Owen
+Telephone number: +44 (0)1865 582730
+Device Proprietary Name: Brainomix 360 e-ASPECTS
+Device Common Name(s): CADx
+Classification Name: Class II
+Product Code: POK
+Regulation No: 21 C.F.R. §892.2060
+Classification Panel: Radiology Devices
+Brainomix 360 e-ASPECTS is Substantially Equivalent to the following Legally Marketed device:
+Predicate Devices
+510(k) Number Trade Name Manufacturer
+K200760 Rapid ASPECTS iSchemaView Inc
+Indications for Use
+Brainomix 360 e-ASPECTS is a computer-aided diagnosis (CADx) software device used to assist the
+clinician in the assessment and characterization of brain tissue abnormalities using CT image data.
+The software automatically registers images and uses an Atlas to segment and analyze ASPECTS
+regions. Brainomix 360 e-ASPECTS extracts image data from individual voxels in the image to provide
+analysis and computer analytics and relates the analysis to the atlas defined ASPECTS regions. The
+imaging features are then synthesized by an artificial intelligence algorithm into a single ASPECTS
+(Alberta Stroke Program Early CT) Score.
+Brainomix 360 e-ASPECTS is indicated for evaluation of patients presenting for diagnostic imaging
+workup with known MCA or ICA occlusion, for evaluation of extent of disease. Extent of disease
+refers to the number of ASPECTS regions affected which is reflected in the total score. Brainomix 360
+e-ASPECTS provides information that may be useful in the characterization of ischemic brain tissue
+injury during image interpretation (within 6 hours from time last known well).
+1Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Brainomix 360 e-ASPECTS provides a comparative analysis to the ASPECTS standard of care
+radiologist assessment by providing highlighted ASPECTS regions and an automated editable
+ASPECTS score for clinician review. Brainomix 360 e-ASPECTS additionally provides a visualization of
+the voxels contributing to the automated ASPECTS score and the voxels excluded from the
+automated ASPECTS score.
+Limitations:
+1. Brainomix 360 e-ASPECTS is not intended for primary interpretation of CT images. It is used
+to assist physician evaluation.
+2. Brainomix 360 e-ASPECTS has been validated in patients with known MCA or ICA occlusion
+prior to ASPECTS scoring.
+3. Brainomix 360 e-ASPECTS is not suitable for use on brain scans displaying neurological
+pathologies other than acute stroke, such as tumours or abscesses, haemorrhagic
+transformation and hematoma.
+4. Use of Brainomix 360 e-ASPECTS Module in clinical settings other than brain ischemia within
+6 hours from time last known well, caused by known ICA or MCA occlusions has not been
+tested.
+5. Brainomix 360 e-ASPECTS has only been validated and is intended to be used in patient
+populations aged over 21.
+6. Brainomix 360 e-ASPECTS has been validated and is intended to be used on Siemens
+Somatom Definition scanners.
+7. Brainomix 360 e-ASPECTS is not intended for mobile diagnostic use. Images viewed on a
+mobile platform are compressed preview images and not for diagnostic interpretation.
+Contraindications/Exclusions/Cautions:
+• Patient motion: Excessive patient motion leading to artifacts that make the scan technically
+inadequate.
+• Haemorrhagic Transformation, Hematoma.
+Device Description
+Brainomix 360 e-ASPECTS is a stand-alone software device which uses machine learning algorithms
+to automatically process NCCT (Non-contrast CT scans) brain image data to provide an output
+ASPECTS score based on the Alberta Stroke Program Early CT Score (ASPECTS) guidelines.
+The post-processing image results and ASPECTS score are identified based on regional imaging
+features and overlayed onto brain scan images. e-ASPECTS provides an automatic ASPECTS score
+based on the input CT data for the physician. The score includes which ASPECTS regions are
+identified based on regional imaging features derived from non-contrast computed tomography
+(NCCT) brain image data. The results are generated based on the Alberta Stroke Program Early CT
+2Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Score (ASPECTS) guidelines and provided to the clinician for review and verification. At the discretion
+of the clinician, the scores may be adjusted based on the clinician’s judgment.
+Brainomix 360 e-ASPECTS can connect with other DICOM-compliant devices, for example to transfer
+NCCT scans from a Picture Archiving and Communication System (PACS) to Brainomix 360 e-ASPECTS
+software for processing.
+Results and images can be sent to a PACS via DICOM transfer and can be viewed on a PACS
+workstation or via a web user interface on any machine contained and accessed within a hospital
+network and firewall and with a connection to the Brainomix 360° e-ASPECTS software (e.g. a LAN
+connection)
+Brainomix 360 e-ASPECTS notification capabilities enable clinicians to preview images through via e-
+mail notification with result image attachments.
+Images that are previewed via e-mail are compressed, are for preview purposes only, and not
+intended for diagnostic use beyond notification.
+Brainomix 360 e-ASPECTS is not intended for mobile diagnostic use. Notified clinicians are
+responsible for viewing non-compressed images on a diagnostic viewer and engaging in appropriate
+patient evaluation and relevant discussion with a treating physician before making care-related
+decisions or requests.
+Brainomix 360 e-ASPECTS provides an automated workflow which will automatically process image
+data received by the system in accordance with pre-configured user DICOM routing preferences.
+Once received, image processing is automatically applied. Once any image processing has
+completed, notifications are sent to pre-configured users to inform them that the image processing
+results are ready. User can then access and review the results and images via the Web User Interface
+case viewer or PACS viewer.
+Brainomix 360 e-ASPECTS principal workflow for NCCT includes the following key steps:
+• NCCT Image Loading.
+• Automated image analysis and processing to identify and visualize the voxels which have
+been included in the ASPECTS score and the voxels which have been excluded from the
+ASPECTS score (Also referred to as a ‘heat map’).
+• Automated image analysis and processing to register the subject image to an atlas to
+segment and highlight ASPECTS regions and to display whether or not each region is
+qualified as contributing to the ASPECTS score.
+• Notifications and alerts to users.
+• Generation of a summary results report.
+• Presentation of results for review and analysis by users.
+3Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Once the physician has been notified of availability of the ASPECTS score, the system requires that
+the physician confirms that the case in question is for an ICA or MCA occlusion. The ASPECTS results,
+including the ASPECTS score, indication of affected side, affected ASPECTS regions and voxel-wise
+analysis (shown as a heatmap of voxels ’contributing to e-ASPECTS score’ and a heat map of voxels
+‘excluded from e-ASPECTS score’) can be exported as a report and/or sent to the Picture Archiving
+and Communications System (PACS).
+Technological Characteristics
+Brainomix 360 e-ASPECTS is a machine learning implementation using the processing pipeline below.
+Brainomix 360 e-ASPECTS provides an automatic ASPECT score based on the case input file for the
+physician. The score includes which ASPECT regions are identified based on a voxel-wise analysis of
+non-contrast computed tomography (NCCT) brain image data based on the random forest machine
+learning technique. The results are generated based on the Alberta Stroke Program Early CT Score
+(ASPECTS) guidelines and provided to the clinician for review and verification.
+ASPECTS regions are generated as an overlay by registering the subject NCCT scan to an atlas. The
+Brainomix 360 e-ASPECTS algorithm analyses the voxels in the subject NCCT scan to identify voxels
+contributing to, or excluded from, the e-ASPECTS score. The regions then contribute towards the
+determination of an ASPECTS score which must be reviewed by the physician.
+ASPECTS regions identified as contributing to the ASPECTS score are highlighted and labelled for the
+physician. The voxel-wise analysis is visualized for the physician as shaded heat maps showing voxels
+contributing to the e-ASPECTS score and voxels excluded from the e-ASPECTS score.
+Physicians can, at their discretion and depending on their level of agreement with the processing
+results, manually edit the ASPECTS score by manually selecting ASPECTS regions to be included or
+excluded from the calculation of the ASPECTS score.
+The following figure provides the general layout of the ASPECTS display as presented by Brainomix
+360 e-ASPECTS
+4Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Substantial Equivalence Discussion
+Both proposed and predicate devices have the same intended use. Both devices are computer-aided
+diagnosis (CADx) software devices used to assist clinicians in the assessment and characterization of
+brain tissue abnormalities using CT image data.
+Both devices use an atlas to segment and identify ASPECTS regions and use artificial intelligence
+algorithms to analyse image data to facilitate the evaluation of extent of disease and to identify and
+count the affected ASPECTS regions to generate an ASPECTS score. Both devices display and
+highlight the affected ASPECTS regions along with the automatically generated ASPECTS score
+Both devices are not intended for primary interpretation of CT images and both require that cases
+processed meet pre-requisite criteria such that a primary diagnosis of ICA or MCA occlusion has
+already been made by clinicians prior to accessing the processing results and the resulting ASPECTS
+score.
+Both devices are indicated for cases within 6 hours from time last known well.
+Both devices include a gating condition requiring users to confirm that the case in question is for a
+confirmed ICA or MCA occlusion before processing results are made available.
+Both devices include pre-processing steps to straighten NCCT scans and to register the NCCT scans to
+an atlas of ASPECTS regions in order to identify and segment ASPECTS regions on the subject NCCT
+scan.
+5Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+In both cases, the algorithms identify signs indicative of ischemic damage and relate these to the
+segmented ASPECTS regions in order to determine whether or not individual ASPECTS regions are
+included as contributing to a reduced ASPECTS score.
+In both cases, the segmented ASPECTS regions are labelled and presented to users in the software
+User Interface with the regions highlighted depending on whether they have been determined to
+affect the e-ASPECTS score or not. In both cases, users can manually edit and override the
+automated result for one or more ASPECTS regions by selecting the regions.
+Both predicate and proposed devices use trained machine learning AI algorithms to analyse NCCT
+scans to identify signs indicative of ischemic damage. Both devices use a random forest machine
+learning technique to classify tissue in brains scans to identify both early/acute ischemic changes
+and old/non-acute ischemic changes to differentiate old or prior signs of stroke from the acute
+stroke for which the ASPECTS methodology is intended. In both devices, signs of non-acute ischemic
+change are masked to ensure that these do not contribute towards the determination of the output
+ASPECTS score.
+The following principal difference exists between Brainomix 360 e-ASPECTS and the predicate
+device:
+In addition to highlighting affected ASPECTS regions which is a common technical characteristic of
+both subject and predicate devices, the Brainomix 360 e-ASPECTS device includes the visualization of
+the analysis of individual voxels underlying the scoring of ASPECTS regions and the overall ASPECTS
+score as a heat map.
+Characteristic/Parame Brainomix 360 e-ASPECTS – iSchemaView Rapid ASPECTS -
+ter Proposed Device Predicate Device (K200760)
+Product Code POK POK
+Regulation 21 C.F.R. §892.2060 21 C.F.R. §892.2060
+6Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Indications for Use Brainomix 360 e-ASPECTS is a Rapid ASPECTS is a computer-aided
+computer-aided diagnosis (CADx) diagnosis (CADx) software device
+software device used to assist the used to assist the clinician in the
+clinician in the assessment and assessment and characterization of
+characterization of brain tissue brain tissue abnormalities using CT
+abnormalities using CT image data. image data. The Software
+automatically registers images and
+The software automatically segments and analyzes ASPECTS
+registers images and uses an Atlas Regions of lnterest (ROIs). Rapid
+to segment and analyze ASPECTS ASPECTS extracts image data for
+regions. Brainomix 360 e-ASPECTS the ROI(s) to provide analysis and
+extracts image data from individual computer analytics based on
+voxels in the image to provide morphological characteristics. The
+analysis and computer analytics imaging features are then
+and relates the analysis to the atlas synthesized by an artificial
+defined ASPECTS regions. The intelligence algorithm into a single
+imaging features are then ASPECTS (Alberta Stroke Program
+synthesized by an artificial Early CT) Score. Rapid ASPECTS is
+intelligence algorithm into a single indicated for evaluation of patients
+ASPECTS (Alberta Stroke Program presenting for diagnostic imaging
+Early CT) Score. workup with known MCA or ICA
+occlusion, for evaluation of extent
+Brainomix 360 e-ASPECTS is of disease. Extent of disease refers
+indicated for evaluation of patients
+to the number of ASPECTS regions
+presenting for diagnostic imaging affected which is reflected in the
+workup with known MCA or ICA total score. This device provides
+occlusion, for evaluation of extent information that may be useful in
+of disease. Extent of disease refers the characterization of early
+to the number of ASPECTS regions ischemic brain tissue injury during
+affected which is reflected in the image interpretation (within 6
+total score. hours). Rapid ASPECTS provides a
+comparative analysis to the
+Brainomix 360 e-ASPECTS provides
+ASPECTS standard of care
+information that may be useful in
+radiologist assessment using the
+the characterization of ischemic
+ASPECTS atlas definitions and atlas
+brain tissue injury during image
+display including highlighted ROIs
+interpretation (within 6 hours from
+and numerical scoring.
+time last known well).
+7Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Brainomix 360 e-ASPECTS provides Limitations:
+a comparative analysis to the
+ASPECTS standard of care 1. Rapid ASPECTS is not intended
+radiologist assessment by for primary interpretation of CT
+providing highlighted ASPECTS images, it is used to assist
+regions and an automated editable physician evaluation.
+ASPECTS score for clinician review.
+Brainomix 360 e-ASPECTS 2. Rapid ASPECTS has been
+additionally provides a validated in patients with known
+visualization of the voxels MCA or ICA Occlusion prior to
+contributing to the automated ASPECTS scoring.
+ASPECTS score and the voxels
+3. Use of the Rapid ASPECTS
+excluded from the automated
+Module in clinical settings other
+ASPECTS score.
+than early brain ischemia (within 6
+hours) caused by known ICA or
+Limitations:
+MCA occlusions has not been
+1. Brainomix 360 e-ASPECTS tested.
+is not intended for primary
+interpretation of CT 4. Rapid ASPECTS has been
+images. It is used to assist
+validated and is intended to be
+physician evaluation.
+used on GE Lightspeed VCT
+2. Brainomix 360 e-ASPECTS
+Scanners.
+has been validated in
+patients with known MCA
+Contraindications/Exclusions/Cauti
+or ICA occlusion prior to
+ASPECTS scoring. ons:
+3. Brainomix 360 e-ASPECTS
+is not suitable for use on • Patient Motion: excessive motion
+brain scans displaying leading to artifacts that make the
+neurological pathologies
+scan technically inadequate.
+other than acute stroke,
+such as tumors or
+• Hemorrhagic Transformation,
+abscesses, hemorrhagic
+Hematoma
+transformation and
+hematoma.
+4. Use of Brainomix 360 e- • Very thin or no Ventricles
+ASPECTS Module in clinical
+settings other than brain
+ischemia within 6 hours
+from time last known well,
+caused by known ICA or
+8Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Characteristic/Parame Brainomix 360 e-ASPECTS – iSchemaView Rapid ASPECTS -
+ter Proposed Device Predicate Device (K200760)
+MCA occlusions has not
+been tested.
+5. Brainomix 360 e-ASPECTS
+has been validated and is
+intended to be used on
+Siemens Somatom
+Definition scanners.
+6. Brainomix 360 e-ASPECTS
+has only been validated
+and is intended to be used
+in patient populations
+aged over 21 years.
+7. Brainomix 360 e-ASPECTS
+is not intended for mobile
+diagnostic use. Images
+viewed on a mobile
+platform are compressed
+preview images and not
+for diagnostic
+interpretation.
+Contraindications/Exclusions/Cauti
+ons:
+• Patient motion: Excessive
+patient motion leading to
+artifacts that make the
+scan technically
+inadequate
+• Hemorrhagic
+Transformation,
+Hematoma
+Environment of use Clinical/Hospital environment Clinical/Hospital environment
+Energy used and/or None – software only application. None – software only application.
+delivered The software application does not The software application does not
+deliver or depend on energy deliver or depend on energy
+delivered to or from patients delivered to or from patients
+Primary Users Neuroradiologist/Clinician Neuroradiologist/Clinician
+9Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Characteristic/Parame Brainomix 360 e-ASPECTS – iSchemaView Rapid ASPECTS -
+ter Proposed Device Predicate Device (K200760)
+Clinical Stroke/Head Stroke/Head
+Application/Anatomic
+al Region
+Standard of Care ASPECTS Scoring ASPECTS Scoring
+Representation
+Design: Modalities for CT CT
+image processing and
+visualization
+Technical ML/AI/Random Forest ML/AI/Random Forest
+Implementation
+Image Overlay ASPECTS regions, highlighted by ASPECTS Atlas ROIs, highlighted by
+algorithms. Voxel-wise analysis algorithms.
+visualized as a heat map.
+Gating Conditions Users must confirm ICA or MCA Users must confirm LVO prior to
+occlusion prior to accessing accessing Rapid ASPECTS results
+Brainomix 360 e-ASPECTS results
+Design: PACS View process and analyze medical same
+functionality images. performs standard PACS
+functions with respect to querying
+and listing
+Design: DICOM Yes Yes
+compliance
+Design: Computer Standard off-the-shelf server or same
+Platform virtual server
+Design: Data Acquires medical image data from same
+acquisition DICOM compliant imaging devices
+and modalities
+Alters Standard of In parallel to In parallel to
+Care Workflow
+Materials N/A – Software only device same
+Biocompatibility N/A – Software only device same
+Sterility N/A – Software only device same
+Electrical Safety N/A – Software only device same
+Mechanical Safety N/A – Software only device same
+Chemical Safety N/A – Software only device same
+Thermal Safety N/A – Software only device same
+Radiation Safety N/A – Software only device same
+10Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Performance Data
+The following performance data were provided in support of the substantial equivalence
+determination.
+Software Verification and Validation Testing
+Brainomix 360 e-ASPECTS complies with DICOM (Digital Imaging and Communications in Medicine) –
+Developed by the American College of Radiology and the National Electrical Manufacturers
+Association. NEMA PS 3.1 - 3.20
+Brainomix 360 e-ASPECTS is tested against its user needs and intended use by the successful
+execution of planned software verification and validation testing included in this submission.
+Algorithm validation testing has additionally been performed using phantom data with known
+properties.
+The results of software verification and validation and algorithmic testing demonstrate that
+Brainomix 360 e-ASPECTS has met all design requirements and specifications associated with the
+intended use of the software.
+Stand-alone Performance Testing
+Stand-alone performance testing was conducted to comply with special controls for this device type.
+Stand-alone performance testing demonstrated that the proposed device provides accurate
+representation of key processing parameters under a range of clinically relevant parameters and
+perturbations associated with the intended use of the software. The stand-alone performance
+testing demonstrates the generalized performance for a range of typical patient demographics and a
+typical range of cases with confounding factors and including radiologically normal cases which is the
+same as for the predicate device. The standalone performance dataset was additionally enriched to
+include a greater number of cases within the low ASPECTS and late time-window sub-groups to
+demonstrate generalizability across these groups.
+The stand-alone performance testing dataset comprised 256 non-contrast CT scans from patients
+with suspected and later confirmed acute ischemic stroke with available follow up imaging at 24
+hours, from 8 different USA institutions. Patients were admitted between March 2014 and March
+2020. The median age was 71 years, and 45% were female. Median NIHSS was 18 with an
+interquartile range of 12 to 22. 141 patients presented within 6 hours of time last seen well, 62
+presented between 6 and 16 hours and 53 were unknown onset time. 180 patients had a proximal
+vessel occlusion (internal carotid artery or M1 segment or middle cerebral artery) and 76 were non-
+proximal. Ground truth ASPECTS score was <7 in 43 patients and >6 in 213 patients.
+11Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Overall performance in 256 patients showed an area under the curve of 83% (81-85, 95% CI), with a
+sensitivity of 68% (57-72) and a specificity of 97% (86-98).
+This stand-alone performance testing demonstrates that e-ASPECTS performance generalises to a
+range of image acquisition and reconstruction parameters encountered in multiple clinical sites and
+for a range of scanner types and manufacturers.
+Stand-alone performance results were generated to demonstrate generalizable performance for a
+range of typical patient demographics (including patient sex, age, site of occlusion, and ASPECTS
+score) and within individual ASPECTS regions. Consistent performance was observed in subgroups
+dichotomised by median age, and subgroups defined by sex. Performance was slightly lower in the
+non-proximal vessel occlusion subgroup (AUC, 78% versus 84%) although this was not statistically
+significant. Consistent performance was also observed between the grouped cortical ASPECTS
+regions compared to grouped basal ganglia ASPECTS regions, although at the level of the individual
+ASPECTS region performance did vary. Performance was lower in the M4, M6, and internal capsule
+regions, although this difference was not statistically significant.
+Digital phantom testing
+Specific validation has been carried out to test the heatmaps. This testing made use of synthetic
+digital phantom data created to provide a ground truth against which the performance of the
+heatmaps can be assessed and demonstrated. For clarity, we report that this testing showed a
+correlation between the volumes of the e-ASPECTS heatmaps and the volumes of synthetic
+hypodensities generated in the phantom dataset.
+The heatmaps are generated and visualized to provide transparency of the basis of the ASPECTS
+score. The phantom testing results show a correlation (r>=0.95) between the volumes of e-ASPECTS
+heatmaps and the volume of synthetic hypodensities generated in the 200 digital phantom dataset.
+Clinical Studies
+A multiple reader multiple case (MRMC) cross-over study was conducted to assess performance of
+Brainomix 360 e-ASPECTS. The MRMC study evaluated the performance of 10 clinical readers (4
+neurologists and 6 radiologists) when scoring the ASPECTS for 54 clinically representative NCCT
+retrospective scans with and without the aid of Brainomix 360 e-ASPECTS. Data truthing was
+performed by three expert neuroradiologists with access to clinical data and follow up imaging.
+The MRMC study dataset comprised 54 non-contrast CT scans from patients with acute ischemic
+stroke affecting the middle cerebral artery territory and eligible for acute reperfusion therapy.
+Patients must have had no evidence of intracranial hemorrhage and imaging data had to be of
+adequate quality with associated demographic and follow up imaging available. Patients aged 21
+years and younger were excluded. The median age was 72 years, and 48% were female. Median
+NIHSS was 17 with an interquartile range of 12 to 21. 36 patients presented within 6 hours of time
+12Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+last seen well, 10 presented between 6 and 16 hours and 8 were unknown onset time. 40 patients
+had a proximal vessel occlusion (internal carotid artery or M1 segment or middle cerebral artery)
+and 14 were non-proximal. Ground truth ASPECTS score was <7 in 12 patients and >6 in 42 patients.
+Comparison of the area under the curve (AUC) for each reader with and without the support of the
+e-ASPECTS tool showed a statistically significant improvement of 0.02 from 0.81 to 0.83 (p=0.028)
+which was the primary endpoint for the study. When comparing reader performance with the
+ground truth, the improved AUC in the primary endpoint was driven by an increase in both the
+sensitivity (positive percentage agreement, from 66 to 70%) and a small improvement in specificity
+(negative percentage agreement, 96%) when assisted by e-ASPECTS compared to unassisted reading.
+Overall percentage agreement (accuracy) also improved in line with the AUC result from 93 to 94%.
+Subgroup analysis based on the clinical training of the reader (radiologist versus neurologist)
+demonstrates a consistent impact of Brainomix 360 e-ASPECTS across reader groups. Analysis of
+individual reader ROC curves showed greater magnitude of increases in AUC were observed in users
+with lower unassisted performances (“lower performers”), and smaller changes in readers with
+higher unassisted performance (“high performers”). The overall ASPECTS score was more consistent
+between readers with use of e-ASPECTS. The range in AUC between users was also narrower with
+Brainomix 360 e-ASPECTS than unassisted indicating a reduction in the variation of performance
+between different readers when Brainomix 360 e-ASPECTS outputs are available.
+Subgroup analysis of the individual regions within the ASPECTS scoring system showed that the
+impact of e-ASPECTS is consistent in both deep and cortical ASPECTS regions.
+As the study used retrospective data, there were no specific safety endpoints in the reader study.
+This study demonstrates substantial equivalence of the Brainomix 360 e-ASPECTS software for
+improving reader accuracy, compared to the predicate device. The results showed statistically
+significant improvement in the agreement between the readers and a reference standard when
+using the Brainomix 360 e-ASPECTS software compared to routine clinical practice.
+Risk Benefit Analysis
+Risk Benefit Summary
+Summary of Benefits This device provides a systematic, automated
+analysis of NCCT scans of the head to provide a
+standardized, automated ASPECT score for
+Stroke workup.
+The clinical reader study, which included 4
+neurologists and 6 neuroradiologists,
+13Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+demonstrated a statistically significant
+improvement in the readers’ AUC (0.02
+increase, with 0.04 sensitivity improvement
+and 0.01 specificity improvement) when
+scoring was performed in conjunction with
+the e-ASPECTS output.
+In a subgroup analysis, the benefit of the
+software was most substantial among the
+“lower performers” (clinical readers with a
+lower unaided performance compared to the
+ground truth) whereas “high performers”
+were minimally affected by the device
+output. Both cohorts included a mix of US
+board certified neurologist and
+neuroradiologist readers, indicating potential
+benefit for less experienced clinicians
+evaluating NCCT for ASPECTS.
+It is important to note that ASPECTS
+evaluations can be challenging, particularly
+for less experienced clinicians, and studies
+have shown varying levels of interobserver
+agreement for ASPECTS evaluation. Overall,
+the system should provide more consistent
+and timely benefit of aided reads for less-
+experienced or less confident users in the
+evaluation of overall ASPECTS.
+Timely, consistent and accurate assessments of
+acute ischemic patients with known MCA and
+ICA occlusions can help ensure that physicians
+determine appropriate patient management at
+the right time. ASPECTS may be used in the
+assessment of patients for consistency with
+patient selection for neurothrombectomy and
+other acute stroke therapeutic interventions.
+Proper and timely patient selection increases
+the likelihood for successful therapeutic
+interventions proven to reduce long term
+disability. The duration of the effect is lifetime.
+Based on the data provided it is not possible to
+accurately predict the exact likelihood of
+14Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+patient benefit. The study demonstrates
+improvement in the assessment for readers
+interpreting NCCT scans for overall ASPECTS
+assessment.
+This device additionally also provides
+transparent AI processing enabling users to
+understand how the automated output has
+been determined and enables users to perform
+a more technically informed review of the
+automated output. This is a significant benefit
+which may help mitigate risks related to false
+negatives or false positives in the automated
+output, particularly for more challenging cases.
+Summary of the Risks There are minimal potential risks associated
+with the use of the device.
+Incorrect scoring which may result in false
+positive results and result to incorrect patient
+management with possible adverse effects such
+as, unnecessary additional medical imaging
+and/or unnecessary additional diagnostic
+workup.
+Incorrect scoring which may result in false
+negative results may lead to complications,
+including incorrect diagnosis and delay in
+disease management.
+The device could be misused to analyze images
+from an unintended patient population or on
+images acquired with incompatible imaging
+hardware or incompatible image acquisition
+parameters, leading to inappropriate diagnostic
+information being displayed to the user.
+Device failure could lead to the absence of
+results, delay of results or incorrect results,
+which could likewise lead to inaccurate patient
+assessment.
+15Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+Summary of additional factors However, based on the performance data and
+the application of mitigating measures
+(including but not limited to general controls
+and special controls established for this device
+type), use of the device is unlikely to decrease
+diagnostic performance of the user and
+possible misuse of the device does not present
+additional risks compared with misuse of
+other types of radiological image processing
+devices.
+The device includes a gating condition in
+software to help ensure that the software is not
+used on stroke mimics or the incorrect patient
+population.
+The physician may either confirm or overrule
+the device
+Heatmap provides additional transparency on
+regions evaluated by the ASPECTS, which may
+be used by the clinician to qualify or correct
+device outputs
+The study was enriched to cover the range of
+ASPECT scores; and, the readers in practice may
+not experience a significant improvement in
+determining ASPECTS.
+This device may improve the diagnostic
+accuracy of less experienced or less confident
+physicians in rating NCCT for the ASPECT score
+in the context of acute ischemic stroke caused
+by ICA or MCA occlusion (confirmed using
+vascular imaging such as CTA or MRA).
+Conclusion This device shows positive improvement in
+diagnostic accuracy in comparison to the
+reference standard.
+Although some performance data may suggest
+that sensitivity for some ASPECTS regions may
+be diminished or inconsistent in comparison to
+other region however, sample size limitations
+16Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+limit conclusions in this regard. The clinical
+reader study evidence provided demonstrates
+improvement in the overall performance of
+aided readers compared to the unaided
+readers. The greatest benefit was observed for
+the “lower performers” – bringing them to the
+level of the “higher performers” while avoiding
+adversely impacting “high performers”
+accuracy.
+The software gating conditions and other
+warnings integrated in the software UI are
+expected to be helpful in ensuring appropriate
+use of the device and directing clinician
+attention to particular regions which may be
+more difficult to interpret, both for users and
+for the device.
+Prescriptive Statement
+Caution: Federal law restricts this device to sale by of on the order of a physician.
+Conclusion
+In conclusion, the predicate device has the same intended use and substantially similar indications
+for use and technological characteristics as Brainomix 360 e-ASPECTS. Performance data
+demonstrates that Brainomix 360 e-ASPECTS performs as intended within the same clinically
+relevant parameters for the intended use as the predicate device.
+The predicate device was cleared based in part on the results of clinical studies, therefore a clinical
+study was required to support substantial equivalence. The clinical data demonstrates that
+Brainomix 360 e-ASPECTS shows a significant improvement in the agreement between the readers
+and a reference standard when using the Brainomix 360 e-ASPECTS software compared to routine
+clinical practice. Brainomix 360 e-ASPECTS is intended to improve reader performance in estimating
+an overall ASPECTS score but may be less sensitive for some ASPECTS regions such as the IC and M4-
+M6 regions based on the performance data disclosed. The risk/benefit profile of Brainomix 360 e-
+ASPECTS remains favorable based on the favorable impact on readers’ overall aided performance in
+calculating an ASPECTS score (as measured in the reader study), and the inherent inter-reader
+variability in identifying individual affected ASPECTS regions.
+Brainomix 360 e-ASPECTS has been designed, verified and validated in compliance with 21 CFR Part
+820.30 requirements and has been designed to meet the requirements associated with ANSI AAMI
+17Brainomix Limited
+Suites 11-14
+Suffolk House
+263 Banbury Road
+Oxford OX2 7HN
+ISO 14971:2007/(R)2016. Software verification and validation, performance testing and risk
+management demonstrates that Brainomix 360 e-ASPECTS is safe and effective for use as intended
+and described in its indications for use.
+We propose that Brainomix 360 e-ASPECTS is substantially equivalent to the Rapid ASPECTS
+predicate.
+18

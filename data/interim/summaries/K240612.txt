@@ -1,0 +1,350 @@
+Avicenna.AI
+℅ John Smith
+Partner
+Hogan Lovells, US LLP
+555 Thirteenth Street, NW
+Washington, District of Columbia 20004
+May 31, 2024
+Re: K240612
+Trade/Device Name: Cina-VCF
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: March 5, 2024
+Received: March 5, 2024
+Dear John Smith:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.10
+Silver Spring, MD 20993
+www.fda.govK240612 - John Smith Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK240612510(K) SUMMARY
+AVICENNA.AI’s CINA-VCF
+K240612
+Submitter
+Applicant:
+AVICENNA.AI
+ZI Athelia, 297 Av. du Mistral Bât. A,
+13600 La Ciotat France
+Contact Person:
+Stephane Berger
+Regulatory Manager
+Phone: +33 6 12 12 28 13
+E-mail: stephane.berger@avicenna.ai
+Date prepared: May 28, 2024
+Device Identification
+Name of Device: CINA-VCF
+Classification Name: Radiological computer-assisted triage
+and notification software
+Regulation No: 21 CFR § 892.2080
+Product Code: QFM
+Regulatory Class: Class II
+Classification Panel: Radiology devices
+Predicate Device
+The CINA-VCF device is substantially equivalent to the following predicate device with regard to
+indications for use, performance, and technological characteristics:
+510(k): K222692
+Trade Name: BriefCase
+Manufacturer: Aidoc Medical Vision Ltd.
+Classification Name: Radiological computer-assisted triage and notification software
+Regulation No: 21 CFR § 892.2080
+Product Code: QFM
+Regulatory Class: Class II
+Device DescriptionCINA-VCF is a radiological computer-assisted triage and notification software device.
+CINA-VCF runs on a standard “off the shelf” server/workstation and consists of VCF Image Processing
+Application, which can be integrated, deployed and used with the CINA Platform (cleared under
+K200855) or other compatible medical image communications devices. CINA-VCF receives non-
+enhanced or contrast-enhanced CT scans (which include the chest and/or abdomen) identified by the
+CINA Platform or other compatible medical image communications device, processes them using
+algorithmic methods involving execution of multiple computational steps to identify suspected
+presence of Vertebral Compression Fractures (VCF) findings and generates results files to be
+transferred by CINA Platform or a similar medical image communications device for output to a PACS
+system or workstation for worklist prioritization.
+DICOM images are received, recorded and filtered before processing. The series are processed
+chronologically by running algorithms on each series to detect suspected positive findings of a
+vertebral compressions fracture (VCF).
+The device uses deep learning models to detect VCF at the T1-L5 level. The models were trained end-
+to-end on a dataset of 886 series collected from multiple centers in the USA and France satisfying the
+device protocol and representing a large distribution of scanner models from Siemens, Philips, GE
+and Canon (formerly Toshiba), acquisition protocols, spine presentation and fracture location and
+severity. Additional models, trained on subsets of this dataset, are used to locate the spine, identify
+the vertebra bodies and exclude vertebra which have been subjected to vertebroplasty or contains
+orthopedic material.
+The Worklist Application displays all incoming suspect cases, each notified case is marked with an
+icon. In addition, compressed, grayscale, unannotated images that are captioned “not for diagnostic
+use” is displayed as a preview function. This compressed preview is meant for informational purposes
+only, does not contain any marking of the findings, and is not intended for diagnostic use beyond
+notification.
+Presenting the specialist with worklist prioritization facilitates earlier triage by allowing prioritization of
+images in the PACS. Thus, the suspect case receives attention earlier than would have been the case
+in the standard of care practice alone.
+The CINA Platform is an example of medical image communications platform for integrating and
+deploying the CINA-VCF image processing applications. It provides the necessary requirements for
+interoperability based on the standardized DICOM protocol and services to communicate with existing
+systems in the hospital radiology department such as CT modalities or other DICOM nodes (DICOM
+router or PACS for example). It is responsible for transferring, storing, converting formats, notifying of
+suspected findings and displaying medical device data such as radiological data. The CINA Platform
+server includes the Worklist client application which receives notifications from the CINA-VCF Image
+Processing application.Intended Use / Indications for Use
+CINA-VCF is a radiological computer aided triage and notification software indicated for use in patients
+aged 50 years and over undergoing non-enhanced or contrast-enhanced CT scans which include the
+chest and/or abdomen.
+The device is intended to assist hospital networks and appropriately trained medical specialists within
+the standard-of-care bone health setting in workflow triage by flagging and communication of
+suspected positive cases of Vertebral Compression Fractures (VCF) findings.
+CINA-VCF uses an artificial intelligence algorithm to analyze images and highlight cases with detected
+findings on a standalone application in parallel to the ongoing standard of care image interpretation.
+The device does not alter the original medical image, and it is not intended to be used as a diagnostic
+device.
+The results of CINA-VCF are intended to be used in conjunction with other patient information and
+based on professional judgment to assist with triage/prioritization of medical images. Notified clinicians
+are ultimately responsible for reviewing full images per the standard of care.
+Summary of Performance Data
+The following performance data were provided in support of the substantial equivalence determination.
+Software Verification and Validation Testing
+CINA-VCF complies with DICOM (Digital Imaging and Communications in Medicine) – Developed by
+the American College of Radiology and the National Electrical Manufacturers Association. NEMA PS
+3.1 - 3.20.
+Avicenna.AI conducted extensive performance validation testing and software verification and
+validation testing of the CINA-VCF device as standalone software. CINA-VCF is tested against its user
+needs and intended use by the successful execution of planned software verification and validation
+testing included in this submission.
+Software performance, validation and verification testing demonstrated that the CINA-VCF met all
+design requirements and specifications associated with the intended use of the software.
+Standalone Performance Testing
+Avicenna.AI conducted a retrospective, multicenter, multinational and blinded study with the CINA-
+VCF application with the primary endpoint to evaluate the software’s performance in identifying
+vertebral compression fractures (VCF) on non contrast-enhanced/contrast-enhanced Chest and/or
+Abdominal CT images performed for another clinical indications than for thoraco-lumbar vertebral
+compression fractures assessments, including at least three (3) consecutive measurable vertebrae in
+the T1-L5 portion of the spine, in 474 clinical anonymized cases.The data was provided from multiple US (66.9%) and OUS (33.1%) clinical sites. There were 180
+(37.9%) positive cases (CT with VCF) and 294 (62.1%) negative cases included in the analyses. The
+data was acquired by 4 different scanner makers and 38 different scanner models.
+Multiple subgroups of interest were considered in the analysis. Mean age of patients included in the
+study was 72.1 ± [SD] 10.1 yo (MIN = 50 yo and MAX = 100 yo) and 50.8% were female. Data were
+acquired from different regions across the US to account for race/ethnicity in the intended US patient
+population. Additional scanner parameters considered were slice thickness, number of detector rows,
+and kVp ranges, contrast vs non-contrast, imaging protocol (chest and/or abdomen), reconstruction
+kernel (soft/standard). Detailed subgroup analysis were reported in the labeling.
+Device Area Under the Receiver Operating Characteristic curve (ROC AUC) was computed against
+the ground truth established by consensus of three US-board-certified expert radiologists, as the
+primary endpoint, in accordance with the established required technical method under the QFM
+product code. A case was considered positive if at least one moderate or severe vertebral compression
+fracture located within the thoracic or lumbar spine was identified by the experts.
+Sensitivity, Specificity and Accuracy, were also assessed as additional analyses.
+The secondary endpoint was CINA-VCF time-to-notification, which was compared to the predicate
+device for true positive cases only, as provided by the predicate device - BriefCase (Aidoc Medical -
+K222692).
+The ROC AUC was 0.974 [95% CI: 0.962 - 0.986], which exceeded the 0.95 performance goal, thus,
+achieving the primary endpoint.
+Sensitivity and Specificity were 95.2% [95% CI: 90.7% – 97.9%] and 92.9% [95% CI: 89.4% – 96.5%],
+respectively. Similarly, the overall agreement (Accuracy) was 93.7% [95% CI: 91.1% - 95.7%], which
+represents very good predictions.
+The CINA-VCF prioritization and triage effectiveness (time-to-notification) was evaluated by the
+standalone per-case processing time of the device, which corresponds to time between the end of the
+DICOM reception (made available for VCF image processing) and the end of processing (positive or
+negative identification). The results are presented below:
+Table 1: Time-to-Notification for CINA-VCF Image Processing Application
+Time-to-
+MEAN ± SD MEDIAN 95% CI MIN MAX
+Notification (seconds)
+CINA-VCF
+All cases 23.4 ± 8.4 21.0 [22.7 - 24.2] 9.0 60.0
+(N = 474)
+CINA-VCF
+True Positive cases 21.7 ± 7.5 20.0 [20.5 - 22.8] 9.0 45.0
+(N = 158)
+The mean [95% CI] time-to-notification for all included cases (n = 474) was estimated to be 23.4 [95%
+CI: 22.7 – 24.2] seconds for CINA-VCF.When taking into account only true positive cases (n = 158), the mean [95% CI] time-to-notification
+was 21.7 [95% CI: 20.5 – 22.9] seconds for CINA-VCF and 117.2 [95% CI: 98.64 – 135.85] seconds
+for BriefCase, the selected predicate device.
+The performance testing of the CINA-VCF device establishes that the subject device is as safe and
+effective as the predicate device and compatible with the same clinical use, since the performances
+demonstrated the clinical effectiveness of the subject device and its ability to provide effective
+prioritization and triage, which is substantially equivalent to that of the predicate device. This
+establishes that CINA-VCF device achieves its intended use and is substantially equivalent to the
+predicate device.
+Substantial Equivalence
+The subject CINA-VCF and the predicate BriefCase device are both intended to assist hospital
+networks and appropriately trained medical specialists within the standard-of-care bone health setting
+in workflow triage by flagging and communication of suspected positive cases of Vertebral
+Compression Fractures (VCFx) findings based on the analysis of medical images acquired from
+radiological signal acquisition systems. The CINA device provides the CINA Platform in which the
+subject CINA-VCF prioritization and triage application can be integrated, deployed and used. The
+labeling of the subject and the predicate devices clearly states that the devices are not for diagnostic
+use. The subject CINA-VCF device and the predicate BriefCase are software packages with
+substantially similar technological characteristics and principles of operation, and incorporate deep
+learning AI algorithms that process images, and software to send notifications and to display
+unannotated preview images. In both devices, the labeling instructs the user to further evaluate and
+diagnose based only on the original images in the local PACS.
+The subject CINA-VCF and the predicate BriefCase device operate in parallel to the standard of care
+workflow in the sense that they do not change the original image, do not provide any marking on the
+output preview, and do not remove images from the standard of care FIFO (First-in-first-out) queue,
+thus not disturbing standard interpretation of the images by the attending specialists. The subject and
+predicate devices achieve time-to-notification performance improvements in a similar range of time
+and thus contribute similarly to effective triage and early involvement of the specialist in evaluating
+suspected images of vertebral compression fractures.
+The standalone performance and effectiveness assessment studies demonstrated that the CINA-VCF
+device performs as intended is therefore substantially equivalent to the BriefCase predicate device.
+The table below compares the key features of the subject and the predicate devices.
+Table 2: Comparison of key features between CINA-VCF and predicate device (Aidoc Medical
+Vision Ltd)Subject device: CINA-VCF Predicate device: BriefCase Software
+Software (K222692)
+Intended Use CINA-VCF is a radiological BriefCase is a radiological computer aided
+/ Indications computer aided triage and triage and notification software indicated
+notification software indicated for
+for Use for use in the analysis of chest and
+use in patients aged 50 years and
+abdominal CT images. The device is
+over undergoing non-enhanced or
+intended to assist hospital networks and
+contrast-enhanced CT scans which
+appropriately trained medical specialists
+include the chest and/or abdomen.
+The device is intended to assist within the standard-of-care bone health
+hospital networks and setting in workflow triage by flagging and
+appropriately trained medical communication of suspected positive
+specialists within the standard-of-
+cases of Vertebral Compression Fractures
+care bone health setting in
+(VCFx) findings.
+workflow triage by flagging and
+BriefCase uses an artificial intelligence
+communication of suspected
+positive cases of Vertebral algorithm to analyze images and highlight
+Compression Fractures (VCF) cases with detected findings on a
+findings. standalone application in parallel to the
+CINA-VCF uses an artificial ongoing standard of care image
+intelligence algorithm to analyze
+interpretation. The device does not alter
+images and highlight cases with
+the original medical image and is not
+detected findings on a standalone
+intended to be used as a diagnosis device.
+application in parallel to the
+ongoing standard of care image The results of BriefCase are intended to
+interpretation. The device does not be used in conjunction with other patient
+alter the original medical image, information and based on their
+and it is not intended to be used as
+professional judgment, to assist with
+a diagnostic device.
+triage/prioritization of medical images.
+The results of CINA-VCF are
+Notified clinicians are responsible for
+intended to be used in conjunction
+viewing full images per the standard of
+with other patient information and
+care.
+based on professional judgment to
+assist with triage/prioritization of
+medical images. Notified clinicians
+are ultimately responsible for
+reviewing full images per the
+standard of care.
+User Trained medical specialists within Hospital networks and appropriately
+population standard-of-care bone health trained medical specialists within the
+settings standard of-care bone health setting
+Anatomical Chest and/or abdomen. Chest and abdomen
+region of
+interest
+Data Non-enhanced / contrast- Chest and abdominal CT scans
+acquisition enhanced CT scans of the chest
+protocol and/or abdomen.
+Passive Yes Yes
+notification-Subject device: CINA-VCF Predicate device: BriefCase Software
+Software (K222692)
+only, parallel
+workflow tool
+Interference No No
+with standard
+workflow
+Algorithm Artificial intelligence algorithm Artificial intelligence algorithm
+Preview Presentation of compressed, Presentation of compressed, low-quality,
+images grayscale, unannotated images grayscale, unannotated image that is
+that is marked “not for diagnostic captioned “not for diagnostic use”
+use”
+Alteration of No No
+original
+image
+Removal of No. The device operates in parallel No. The device operates in parallel with
+cases from with the standard of care, which the standard of care, which remains the
+worklist remains the default option for all default option for all cases.
+queue cases.
+Structure -VCF image processing application - AHS module (orchestrator, image
+- Compatibility of use with the CINA acquisition);
+Platform device (worklist and - ACS module (image processing);
+Image Viewer) or other medical - Aidoc Desktop application for workflow
+image communications device integration (feed and non-diagnostic
+Image Viewer).
+Conclusion
+CINA-VCF and BriefCase have the same intended use and substantially similar indications,
+technological characteristics, and principles of operation. The following is a summary of the substantial
+equivalence comparison:
+- The predicate device is legally marketed.
+- CINA-VCF has the same intended use as the predicate device, i.e., Aidoc Medical Vision
+Ltd. 's BriefCase, and therefore it may be found substantially equivalent.
+- CINA-VCF and the predicate device have very similar indications for use.
+- CINA-VCF has similar technological characteristics as the predicate device, i.e., the
+deployment of an artificial intelligence algorithm with a database of images.- Standalone performance study demonstrates that the CINA-VCF and the predicate
+BriefCase raise the same types of safety and effectiveness questions, namely, accurate
+detection of findings within the processed study.
+Accordingly, the subject CINA-VCF device is substantially equivalent to the predicate BriefCase device

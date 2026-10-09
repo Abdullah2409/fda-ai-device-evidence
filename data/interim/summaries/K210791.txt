@@ -1,0 +1,275 @@
+eko.ai Pte. Ltd. d/b/a Us2.ai
+July 27, 2021
+℅ Jared Seehafer
+Regulatory Consultant
+Enzyme Corporation
+611 Gateway Blvd., Suite 120
+SOUTH SAN FRANCISCO CA 94080
+Re: K210791
+Trade/Device Name: Us2.v1
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: June 17, 2021
+Received: June 24, 2021
+Dear Jared Seehafer:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.27
+Silver Spring, MD 20993
+www.fda.govK210791 - Jared Seehafer Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureEko.ai Pte. Ltd. d/b/a Us2.ai 510(k) - Us2.v1
+5 510(k) Summary
+Table 5-1. Subject Device Overview.
+Submission Number: K210791
+Submitter’s Name: Eko.ai Pte. Ltd. (d/b/a Us2.ai)
+Address: 2 College Road, #02-00, Singapore 169850
+Contact Person: Jared Seehafer
+Title: Regulatory Consultant
+Telephone Number: 415-857-9554
+Fax Number: 415-367-1279
+Email: jared@enzyme.com
+Date Summary Prepared: July 15, 2021
+Device Proprietary Name: Us2.v1
+Model Number: V 1.0.0
+Common Name: Us2.v1
+Regulation Number: 21 CFR 892.2050
+Regulation Name: System, Image Processing, Radiological
+Product Code: QIH
+Device Class: Class II
+Trade name: EchoMD Automated Ejection Fraction
+Software
+Manufacturer: Bay Labs, Inc.
+(now known as Caption Health, Inc.)
+290 King Street
+San Francisco, CA 94107
+Predicate Device
+Regulation Number: 21 CFR 892.2050
+Regulation Name: System, Image Processing, Radiological
+Device Class: Class II
+Product Code: LLZ
+510(k) Number: K173780
+510(k) Clearance Date: June 14, 2018
+Section 5 5-1Eko.ai Pte. Ltd. d/b/a Us2.ai 510(k) - Us2.v1
+5.1 Device Description
+Us2.v1 is an image post-processing analysis software device used for viewing and
+quantifying cardiovascular ultrasound images in DICOM format. The device is intended to
+aid diagnostic review and analysis of echocardiographic data, patient record management
+and reporting.
+The software provides an interface for a skilled sonographer to perform the necessary
+markup on the echocardiographic image prior to review by the prescribing physician. The
+markup includes: the cardiac segments captured, measurements of distance, time, area and
+blood flow, quantitative analysis of cardiac function, and a summary report.
+The software allows the sonographer to enter their markup manually. It also provides
+automated markup and analysis, which the sonographer may choose to accept outright, to
+accept partially and modify, or to reject and ignore. Machine learning based view
+classification and border detection form the basis for this automated analysis. Additionally,
+the software has features for organizing, displaying and comparing to reference guidelines
+the quantitative data from cardiovascular images acquired from ultrasound scanners.
+5.2 Indications for Use
+Us2.v1 is a software platform that automatically processes, analyses and makes
+measurements on acquired transthoracic cardiac ultrasound images, producing a full report
+with measurements of several key cardiac structural and functional parameters. The data
+produced by this software is intended to be used to support qualified cardiologists or
+licensed primary care providers for clinical decision-making based on DICOM images
+produced by FDA approved ultrasound devices. Us2.v1 is indicated for use in adult
+patients. Us2.v1 has not been validated for the assessment of congenital heart disease,
+valve disease, pericardial disease, and/or intra-cardiac lesions (e.g. tumours, thrombi).
+Please note the following limitations:
+● Poor image capture will lead to poor annotations and subsequent measurements.
+Multiple image quality algorithms are used to filter out images of poor quality.
+● Our software complements good patient care and does not exempt the user from the
+responsibility to provide supervision, clinically review the patient, and make
+appropriate clinical decisions.
+● If no gender is present, female referenced guideline values will be used for conclusions.
+● If Body Surface Area (BSA) is not present, indexed values cannot be provided.
+● During image acquisition, inappropriate use of the echo machine, use of non-cardiac
+ultrasound probes, use of suboptimal settings (e.g. gain, contrast, depth), or lack of
+electrocardiogram capture may lead to lower accuracy of the software.
+Section 5 5-2Eko.ai Pte. Ltd. d/b/a Us2.ai 510(k) - Us2.v1
+5.3 Summary of Technological Characteristics Comparison
+Table 5-2 shows the similarities and differences between the technological characteristics
+of the two products. Testing demonstrates that the differences do not raise new questions of
+safety or effectiveness.
+Table 5-2. Summary of Technological Characteristics Comparison.
+Topic Predicate Device Subject Device
+Physical Software package that operates Same
+Characteristics utilizing off-the-shelf hardware
+DICOM Standard The software processes DICOM Same
+Compliance compliant image data
+Modalities Cardiac echocardiogram Same
+User Interface The software is designed for use on Same
+a personal computer that has been
+received images from a compatible
+PACS
+Automation level Fully automated, including clip Same
+selection
+User Yes Yes
+confirmation/
+rejection of result
+Manual editing Yes (on PACS workstation) Yes (in application)
+of automated
+result by user
+Automated Ejection Fraction Region Measurement
+LV DecT
+calculations
+LV MV-A
+LV MV-Adur
+LV MV-E
+LV e’ lateral
+LV e’ septal
+LV a’ lateral
+LV a’ septal
+LV s’ lateral
+LV s’ septal
+LV LVEDV MOD biplane
+LV LVEF MOD biplane
+LV LVESV MOD biplane
+LV LVSV MOD biplane
+LV IVSd
+LV LVIDd
+LV LVIDs
+LV LVPWd
+LV E/e’ mean
+RV RVIDd
+LA LAESV MOD biplane
+RA Raa
+TrV TR Vmax
+Section 5 5-3Eko.ai Pte. Ltd. d/b/a Us2.ai 510(k) - Us2.v1
+5.4 Performance Data
+Us2.v1 was developed and tested in accordance with Us2.ai’s Design Control processes. The
+device has been subject to extensive safety and performance testing. Non-clinical verification
+and validation test results established that the device meets its design requirements and intended
+use. Specifically, software verification was conducted at unit, module, and system integration
+levels. Risk management analysis generated multiple risk mitigation measures and verification
+activities. A Cybersecurity Analysis and data security testing were conducted to verify that data
+and patient protected health information security measures are included in the design of the
+software. A Human Factors/Usability Engineering study performed according to the principles
+of AAMI/ANSI HE75 was performed to validate device’s usability within the intended user
+population.
+A formal retrospective non-interventional validation study was conducted using 600 previously-
+acquired echocardiograms to evaluate the performance of the device for each claimed
+measurement. The patient dataset was constructed to provide a balanced range of gender and
+body mass index levels. A blinded, anonymized series of 600 unique echocardiographic studies
+was selected for analysis. Of these, 421 are samples of patients with heart failure with reduced
+ejection fraction. The remaining 179 examinations were from normal subjects. Both cohorts of
+subjects were selected from sets of previously annotated and overread studies with robust
+inclusion criteria (see below).
+Additional demographic information and vital signs at the time of examination are available in
+Table 1.
+Two subject cohorts were used for analysis across 600 studies:
+- HFrEF Subjects: 421 studies
+- Normal Subjects: 179 studies
+Inclusion criteria were:
+HFrEF Subjects
+Subjects eligible for inclusion in this study met all of the following criteria at screening:
+1. Written informed consent for the original study.
+2. Men and women ≥ 18 years of age.
+3. HFrEF subjects (heart failure with LVEF < 40% determined at the site)
+4. NYHA Functional class II-IV.
+Normal Subjects
+Subjects eligible for inclusion in this study met all of the following criteria at screening:
+1. Written informed consent for obtained.
+2. Males and females (of non-childbearing potential) between 18 and 55 years of
+age, inclusive
+Section 5 5-4Eko.ai Pte. Ltd. d/b/a Us2.ai 510(k) - Us2.v1
+3. Body weight > 55.0 kg and body mass index within 18.0 to 32.0 kg/m2, inclusive
+4. In good health, in the opinion of the Investigator, as determined by the following:
+a. A physical examination at screening and medical history with no
+clinically significant abnormalities
+b. Not taking medications for the treatment of any chronic or episodic
+medical disease or condition
+c. Vital signs within the ranges below measured while the subject is supine after
+3 minutes rest. May re-check vital signs twice at screening.
+* heart rate 40-90 beats per minute; systolic blood pressure (BP)
+100-140 mmHg; diastolic BP 50-95 mmHg; respiration rate <25
+breaths per minute; oxygen saturation: 95-100%
+5. Acoustic windows adequate for accurate transthoracic echocardiograms, confirmed
+by the echocardiography core laboratory
+6. Normal cardiac structure and function, as determined by the echocardiography
+core laboratory, or if abnormalities are present, they are deemed not clinically
+significant LVEF > 55%
+7. Normal electrocardiogram (ECG) or, if abnormalities are present, they are deemed
+not clinically significant by the Investigator
+Table 1. Demographics of Cohort
+Normal Cohort HFrEF Cohort
+Age 40.0 (± 7.5) years 64.3 (± 12.5) years
+% Male 72.6% 67.4%
+Height 168.1 (± 9.4) cm 172.2 (± 10.3) cm
+Weight 76.6 (± 9.2) kg 93.4 (± 24.9) kg
+Heart Rate 62.7 (± 7.1) bpm 72.2 ( ± 11.9) bpm
+Systolic Blood Pressure 112.0 (± 9.7) mmHg 124.6 (± 18.1) mmHg
+Diastolic Blood Pressure 71.2 (± 7.9) mmHg 74.1 (± 11.5) mmHg
+Test datasets were strictly segregated from algorithm training datasets. The primary
+performance metric is the reference-scaled individual equivalence coefficient (IEC, Barnhart,
+2007) across three human readers and one automated read performed by Us2.v1.
+We define our success criterion as a non-inferiority margin, ∆= 0.25, such that Us2.v1 is
+deemed interchangeable with the reference if IEC + 1.96*SD(IEC) < ∆. Compared to reference
+standard echocardiographic human measurements made in triplicate by the independent
+Cardiovascular Imaging Core Laboratory at Brigham and Women’s Hospital, the 95%
+confidence intervals of automated Us2.v1 measurements all fell below the pre-specified non-
+inferiority margin of 0.25 for IEC.
+Section 5 5-5Eko.ai Pte. Ltd. d/b/a Us2.ai 510(k) - Us2.v1
+Based on the performance as documented in the sum of this testing, the Us2.v1 device has
+a safety and effectiveness profile that is similar to the predicate EchoMD Automated
+Ejection Fraction Software device.
+5.5 Substantial Equivalence Conclusion
+Us2.v1 is an image processing software which has similar intended use and indications for
+use statement as the predicate device. The two devices have similar technological
+characteristics: both use machine learning algorithms to automate the measurement of
+transthoracic cardiac images. Though the subject device provides more measurements than
+the predicate, this does not in and of itself produce different questions of safety and
+effectiveness. This 510(k) submission includes information on the Us2.v1 technological
+characteristics, as well as performance data and verification and validation activities
+demonstrating that Us2.v1 is as safe and effective as the predicate, and does not raise
+different questions of safety and effectiveness.
+Section 5 5-6

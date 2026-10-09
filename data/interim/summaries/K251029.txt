@@ -1,0 +1,536 @@
+August 21, 2025
+Vista AI, Inc.
+James Rogers
+Regulatory Affairs and Strategic Quality Assurance
+431 Florence Street
+Suite 100
+Palo Alto, California 94301
+Re: K251029
+Trade/Device Name: Vista OS, Vista AI Scan, RTHawk
+Regulation Number: 21 CFR 892.1000
+Regulation Name: Magnetic Resonance Diagnostic Device
+Regulatory Class: Class II
+Product Code: LNH
+Dated: April 2, 2025
+Received: July 18, 2025
+Dear James Rogers:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.08.00
+Silver Spring, MD 20993
+www.fda.govK251029 - James Rogers Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K251029 - James Rogers Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D.
+Assistant Director
+DHT8C: Division of Radiological
+Imaging and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K251029
+Device Name
+Vista OS, Vista AI Scan, RTHawk
+Indications for Use (Describe)
+Vista OS is an accessory to 1.5T and 3.0T whole-body magnetic resonance diagnostic devices (MRDD). It is intended to
+operate alongside, and in parallel with, the existing MR console to acquire traditional, real-time and accelerated images.
+Vista OS software controls the MR scanner to acquire, reconstruct and display static and dynamic transverse, coronal,
+sagittal, and oblique cross-sectional images that display the internal structures and/or functions of the entire body. The
+images produced reflect the spatial distribution of nuclei exhibiting magnetic resonance. The magnetic resonance
+properties that determine image appearance are proton density, spin-lattice relaxation time (T1), spin-spin relaxation time
+(T2) and flow. When interpreted by a trained physician, these images provide information that may assist in the
+determination of a diagnosis.
+Vista OS is intended for use as an accessory to the following MRI systems:
+Manufacturers: GE Healthcare (GEHC), Siemens Healthineers
+Field Strength: 1.5T and 3.0T
+GE Software Versions: 12, 15, 16, 23, 24, 25, 26, 30
+Siemens Software Versions: N4/VE; NX/VA
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFVista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+510(k) Summary
+Vista OS; Vista AI Scan; RTHawk
+K251029
+Administrative Information
+Submitter Name Vista AI, Inc.
+Submitter Address 431 Florence Street
+Suite 100
+Palo Alto, CA 94301
+Establishment Registration # 3011767965
+Primary Contact James Jochen Rogers
+FDA Regulatory Affairs, Quality Assurance, and Clinical Studies
+T: 724.713.2298
+E: jr@vista.ai
+Submission Date April 2, 2025
+Device Information
+Trade / Proprietary Name Vista OS, Vista AI Scan, RTHawk
+Common Name RTHawk
+Product Version RTHawk 3.3.0
+Regulation Number 892.1000
+Regulation Name Magnetic resonance diagnostic device (MRDD)
+Regulatory Class Class II
+Device Classification Name System, Nuclear Magnetic Resonance Imaging
+Classification Panel Radiology
+Classification Product Code LNH
+1Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+Predicate Device(s)
+510(k) # Device 510(k) Sponsor Clearance Date
+K212233 RTHawk, HeartVista Cardiac Package HeartVista, Inc. October 5, 2021
+Device Description
+The Vista AI "Vista OS” product provides a seamless user experience for performing MRI
+studies on GE and Siemens scanners. The underlying software platform that we use to
+accomplish this task is called "RTHawk".
+RTHawk is a software platform designed from the ground up to provide efficient MRI data
+acquisition, data transfer, image reconstruction, and interactive scan control and display of
+static and dynamic MR imaging data. It can control MR pulse sequences provided by Vista
+AI and, on scanners that support it, it can equally control MR pulse sequences provided by
+the scanner vendor. Scan protocols can be created by the user that mix and match among
+all available sequences.
+RTHawk is an accessory to clinical 1.5T and 3.0T MR systems, operating alongside, and in
+parallel with, the MR scanner console with no permanent physical modifications to the MRI
+system required.
+The software runs on a stand-alone Linux-based computer workstation with color monitor,
+keyboard and mouse. It is designed to operate alongside, and in parallel with, the existing
+MR console with no hardware modifications required to be made to the MR system or
+console. This workstation (the "Vista Workstation") is sourced by the Customer in
+conformance with specifications provided by Vista AI, and is verified prior to installation.
+A private Ethernet network connects the Vista Workstation to the MR scanner computer.
+When not in use, the Vista Workstation may be detached from the MR scanner with no
+detrimental, residual impact upon MR scanner function, operation, or throughput.
+RTHawk is an easy-to-use, yet fully functional, MR Operating System environment. RTHawk
+has been designed to provide a platform for the efficient acquisition, control, reconstruction,
+display, and storage of high-quality static and dynamic MRI images and data.
+Data is continuously acquired and displayed. By user interaction or data feedback,
+fundamental scan parameters can be modified. Real-time and high-resolution image
+2Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+acquisition methods are used throughout RTHawk for scan plane localization, for tracking of
+patient motion, for detection of transient events, for on-the-fly, sub-second latency
+adjustment of image acquisition parameters (e.g., scan plane, flip angle, field-of-view, etc.)
+and for image visualization.
+RTHawk implements the conventional MRI concept of anatomy- and indication-specific
+Protocols (e.g., ischemia evaluation, valvular evaluation, routine brain, etc.). Protocols are
+pre-set by Vista AI, but new protocols can be created and modified by the end user.
+RTHawk Apps (Applications) are composed of a pulse sequence, predefined fixed and
+adjustable parameters, reconstruction pipeline(s), and a tailored graphical user interface
+containing image visualization and scan control tools. RTHawk Apps may provide real-time
+interactive scanning, conventional (traditional) batch-mode scanning, accelerated scanning,
+or calibration functions, in which data acquired may be used to tune or optimize other Apps.
+When vendor-supplied pulse sequences are used in Vista OS, parameters and scan planes
+are prescribed in the Vista interface and images reconstructed by the scanner appear on the
+Vista Workstation. RTHawk Apps and vendor-supplied sequences can be mixed within a
+single protocol with a unified user experience for both.
+Machine Learning Use in Vista OS
+The AI algorithms within the Vista OS system are designed to assist MRI technologists
+which are always in control of the scan process. The software automates aspects of MRI
+setup and parameter selection to help reduce exam time, simplify the workflow, and increase
+reliability. The AI models are employed to perform specific tasks such as:
+● Prescription Localization: The AI provides an initial estimate of image prescriptions,
+which the technologist can adjust.
+● Cardiac Segmentation: The AI provides measurements of the subject’s anatomy to
+aid in optimizing imaging parameters, which the technologist can modify.
+● Artifact Detection: The AI alerts the technologist to poor image quality resulting from
+breathing artifacts or irregular rhythm.
+● Cardiac Motion Registration: The AI improves image quality by reducing motion
+across images when scanned in the cardiac short-axis view.
+No clinical decisions are made by the software. The outputs of the AI models are imaging
+acquisition settings and preliminary analyses useful for assisting the acquisition of images,
+which are then visually presented to the technologist. The technologist retains the ability to
+reject or modify the AI's outputs.
+3Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+The system uses neural networks for image analysis, with no generative AI employed.
+These models have a multi-layered architecture that reduces data to the most relevant set
+for inline image analysis.
+RTHawk operates compatible MR scanners within the safety parameters listed below:
+Safety Parameter Safety Level
+Magnetic Field Strength 1.5T, 3.0T
+Operating Modes IEC 60601-2-33 1st Level Operating Mode
+Safety Parameter Display SAR, dB/dt
+Max SAR < 4 W/kg whole-body
+Max dB/dt 1st Level Operating Mode
+Indications for Use
+Vista OS is an accessory to 1.5T and 3.0T whole-body magnetic resonance diagnostic
+devices (MRDD). It is intended to operate alongside, and in parallel with, the existing MR
+console to acquire traditional, real-time and accelerated images.
+Vista OS software controls the MR scanner to acquire, reconstruct and display static and
+dynamic transverse, coronal, sagittal, and oblique cross-sectional images that display the
+internal structures and/or functions of the entire body. The images produced reflect the
+spatial distribution of nuclei exhibiting magnetic resonance. The magnetic resonance
+properties that determine image appearance are proton density, spin-lattice relaxation time
+(T1), spin-spin relaxation time (T2) and flow. When interpreted by a trained physician, these
+images provide information that may assist in the determination of a diagnosis.
+Vista OS is intended for use as an accessory to the following MRI systems:
+Manufacturers:: GE Healthcare (GEHC), Siemens Healthineers
+Field Strength:: 1.5T and 3.0T
+GE Software Versions:: 12, 15, 16, 23, 24, 25, 26, 30
+Siemens Software Versions:: N4/VE; NX/VA
+4Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+Performance Data
+Vista OS was designed, developed, and validated to conform with all applicable
+requirements and standards to establish the device’s safety and effectiveness. Quality
+assurance measures employed during the development of Vista OS include:
+● Code reviews
+● Design reviews
+● Unit and integration level testing
+● Verification testing, including System and Manual testing
+● Safety testing, including SAR, dB/dt, and acoustic noise
+● Performance testing, including SNR and uniformity
+● Validation testing
+Vista AI has made general use of the FDA Recognized Consensus Standards listed in the
+table below, as applicable to device features and components:
+Reference # Title
+IEC 60601-2-33:2022-08 Medical electrical equipment - Part 2-33: Particular requirements
+(Ed. 4.0) for the basic safety and essential performance of magnetic
+resonance equipment for medical diagnosis (radiology)
+IEC 60601-1:2020 (Ed. Medical electrical equipment - Part 1: General requirements for
+3.2) basic safety and essential performance; Section 14 Programmable
+Electrical Medical Systems (PEMS)
+MS1-2008 Determination of Signal-to-Noise Ratio (SNR) in Diagnostic
+Magnetic Resonance Imaging
+MS3-2008 Determination of Image Uniformity in Diagnostic Magnetic
+Resonance Images
+MS4-2010 Acoustic Noise Measurement Procedure for Diagnostic Magnetic
+Resonance Imaging Devices
+MS8-2016 Characterization of the Specific Absorption Rate (SAR) for
+Magnetic Resonance Imaging Systems
+NEMA PS3.1 - 3.20 Digital Imaging And Communications In Medicine (DICOM) Set
+(2023e)
+ISO 14971:2019 Medical Devices - Application Of Risk Management To Medical
+Devices
+Tests conducted according to the above-referenced standards demonstrate that Vista OS
+meets the requirements for its intended use and demonstrates substantial equivalence to the
+predicate device.
+5Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+Vista OS AI Model Training and Verification
+Vista OS neural-network models were developed and trained using industry-standard
+methods for partitioning and isolating training, tuning, and internal testing datasets.
+Neural-network parameters and weights were updated on the training data and evaluated on
+the tuning data at each epoch. Upon full training, the model's generalizability was assessed
+on the independent internal testing dataset (preceding clinical verification). Model
+development data was partitioned by unique anonymous patient identifiers to prevent
+overlap across training, internal testing, and clinical verification datasets.
+After training the Vista OS models, clinical verification testing was performed for each new
+feature to assess clinical performance. Clinical assessments were performed by
+independent board-certified radiologists or cardiologists who were not involved in any aspect
+of model development (including providing labels for training, tuning or internal testing).
+Clinicians involved in clinical assessment were blinded to patient clinical information. Data
+used in clinical verification were obtained from multiple clinical sites representing diverse
+ethnic groups, genders, and ages. The clinical verification data was isolated from data used
+internally for training and tuning.
+Summary of Clinical Verifications
+To test the automatic detection of motion artifacts in Cine Cartesian SSFP, 120 sample
+images collected from prior versions of Vista OS were assessed for the presence of clinically
+significant artifacts. Among images assessed, 81% were collected from male patients, 50%
+from 1.5 Tesla scanners, and 84% were scanned using GE scanners. Patient ages ranged
+from 20 to 80 years. Test data was segregated from training and tuning data and used only
+once in final clinical verification. The primary acceptance criterion for this test was 80%
+agreement between neural-network assessment at its default sensitivity level and the
+cardiologist reader.
+To test the automatic detection of ungateable cardiac waveforms, 100 sample ECGs were
+assessed for suitability for a high-quality gated MR examination. Among waveforms
+assessed, 64% were collected from 1.5 Tesla scanners and 68% were collected using GE
+scanners. 37% of test waveform data did not specify a gender. Of the remaining 63%, 75%
+were collected from male patients. Patient ages ranged from 18 to 100 years. Test data was
+segregated from training and tuning data and used only once in final clinical verification. The
+primary acceptance criterion for this test was 80% agreement between neural-network
+assessment at its default sensitivity level and the cardiologist reader.
+To test automatic cardiac image denoising, 209 sample image series collected from prior
+versions of Vista OS were assessed along with paired image series that were denoised
+using default parameters. Among image series assessed, 79% were collected from male
+6Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+patients, 67% from 1.5 Tesla scanners, and 67% were scanned using GE scanners. Patient
+ages ranged from 25 to 85 years. Test data was segregated from training and tuning data
+and used only once in final clinical verification. The primary acceptance criterion for this test
+was that the denoising should not detract from diagnostic accuracy in all cases, and that the
+diagnostic quality of the denoised data be judged superior to its paired non-denoised series
+in more than 80% of test cases.
+To test automatic brain localizer prescriptions, 323 sample image localizations were
+assessed across all provided localizer orientations. Among images assessed, 26% were
+collected from male patients, 95% from 1.5 Tesla scanners, and 86% were scanned using
+GE scanners. Patient ages ranged from 30 to 88 years. Test data was segregated from
+training and tuning data and used only once in final clinical verification. Acceptance criteria
+for this test included mean error in plane angulation of less than 3 degrees with standard
+deviation less than 5 degrees, and a mean plane position error less than 5 mm with standard
+deviation less than 15 mm.
+To test automatic prostate localizer prescriptions, 329 sample image localizations were
+assessed across all provided localizer orientations. Among images assessed, 100% were
+collected from male patients, 25% from 1.5 Tesla scanners, and 5% were scanned using GE
+scanners. Patient ages ranged from 49 to 76 years. Test data was segregated from training
+and tuning data and used only once in final clinical verification. Acceptance criteria for this
+test included mean 3D Intersection-over-Union (IoU) metrics of at least 0.65 for each
+volumetric scan prescription.
+To test automatic prediction of velocity-encoding VENC for cine flow studies, 42 sample
+VENC peak estimates were assessed. Among images assessed, 86% were collected from
+male patients, 21% from 1.5 Tesla scanners, and 21% were scanned using GE scanners.
+Patient ages ranged from 37 to 75 years. Test data was segregated from training and tuning
+data and used only once in final clinical verification. The primary acceptance criterion for this
+test was that the average velocity error should be less than 10% individually for all vessels
+and views.
+The results of all above clinical verification studies evaluating the performance of Vista OS
+models have demonstrated that their performance meets or exceeds the specified
+acceptance criteria for each of the tasks being assessed. In addition, all automations are
+provided as an additional aid to the trained operator who has the final decision power to
+accept or reject any suggestion or image enhancement that is provided. Therefore, the
+clinical performance of Vista OS has been adequately verified to meet the requirements for
+its intended use and demonstrates substantial equivalence to the predicate device.
+7Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+Technological Comparison to Predicate Device
+Both the subject device and the predicate device software are intended as an accessory to
+1.5T and 3.0T MRI systems, and are intended to integrate and interact seamlessly with the
+operating system software within those MRI systems. Both devices support all coils available
+on the specific installation’s MRI console. Neither device supports software-controlled patient
+table movements and shifts. Both devices support remote access to and imaging on the
+specific installation’s MRI system.
+The submitted Vista OS software is comprised of the following functional modules which are
+also present in the predicate device:
+● Acquisition - responsible for the transfer of MR raw data from the MR scanner to the
+Vista Workstation
+● Analysis - contains the image post-processing tools
+● Application - Vista APPs. Each APP is comprised of a pulse sequence, user
+parameters, a reconstruction pipeline, and a specific user interface
+● Information System - the central repository of all relevant MRI system configuration,
+patient, study, scan, etc., parameters associated with the current patient study
+● Reconstruction - responsible for the efficient processing of raw data to generate MR
+images via a flexible, pipelined topology
+● Scan Control - responsible for low-latency network transfer of controlling orders for
+APPs, APPs parameters modifications, and dynamic information from the MR host in
+response to user or program requests
+● Sequencer - creates and provides a specific set of pulse sequence waveforms to
+control the MR scanner
+● Storage - obtains current patient and scan information, performs non-volatile local
+storage, exports images and data in DICOM format, and logs events.
+● Visualization - implements all aspects of the user interface, including APP selection,
+controls to modify APP parameters, image display, image analysis, graphical slice
+prescription, and image review, save, and export.
+As with the predicate device, RTHawk Apps (Applications) are composed of a pulse
+sequence, predefined fixed and adjustable parameters, reconstruction pipeline(s), and a
+tailored graphical user interface containing image visualization and scan control tools.
+RTHawk Apps provide real-time interactive, batch-mode, and accelerated scanning, as well
+as calibration functions, in which data acquired may be used to tune or optimize other Apps.
+Orthogonal, oblique, and double oblique imaging planes are fully supported. Vista OS
+consists of a collection of default protocols containing a combination of RTHawk Apps and
+vendor-provided pulse sequences, and functions and features of those Apps are unchanged
+from the predicate device.
+In this submission, notable changes include:
+8Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+● Automatic detection of motion artifacts in Cine Cartesian SSFP
+● Automatic detection of ungateable cardiac waveforms
+● New AI-based image denoising applicable to cardiac image acquisitions
+● A new Brain Localizer App is provided to automatically localize several standard
+views in the brain
+● A new Prostate Localizer App is provided to automatically localize several standard
+views in the prostate
+● Extended the Cardiac Localizer App to provide automatic localization of additional
+views
+● A new Frequency Scout App is provided to automatically determine the frequency
+offset that minimizes SSFP banding artifacts in the four-chamber view
+● A new Cine Flow Calibration App option performs a high-VENC Cine Flow scan and
+then automatically determines the optimal VENC setting for subsequent scans
+● A new inversion pulse is used in the Cardiac T1 Map App to improve inversion
+efficiency
+● Support for new GE software versions HD16, SV25, and MR30.1
+● Compatibility with the newer Ubuntu 24.04 operating system version
+● Product name change to "Vista AI Scan" / “Vista OS”
+Instructions for use are included within the device labeling, and the information provided
+enables the user to operate the device in a safe and effective manner.
+The following compares the modified device to the predicate device K212233:
+Attribute RTHawk 3.0.0, K212233 RTHawk 3.3.0: Subject Device
+Device Name RTHawk, HeartVista Cardiac Package Vista OS, Vista AI Scan, RTHawk
+Indications for Use RTHawk is an accessory to 1.5T and 3.0T Vista OS is an accessory to 1.5T and 3.0T
+whole-body magnetic resonance diagnostic whole-body magnetic resonance diagnostic
+devices (MRDD or MR). It is intended to devices (MRDD). It is intended to operate
+operate alongside, and in parallel with, the alongside, and in parallel with, the existing MR
+existing MR console to acquire traditional, console to acquire traditional, real-time and
+real-time and accelerated images. accelerated images.
+The HeartVista Cardiac Package is a collection Vista OS software controls the MR scanner to
+of RTHawk Apps designed to acquire, acquire, reconstruct and display static and
+reconstruct and display cardiovascular MR dynamic transverse, coronal, sagittal, and
+(CMR) images. RTHawk produces static and oblique cross-sectional images that display the
+dynamic transverse, coronal, sagittal, and internal structures and/or functions of the entire
+oblique cross-sectional images that display the body. The images produced reflect the spatial
+internal structures and/or functions of the entire distribution of nuclei exhibiting magnetic
+body. The images produced reflect the spatial resonance. The magnetic resonance properties
+distribution of nuclei exhibiting magnetic that determine image appearance are proton
+resonance. The magnetic resonance properties density, spin-lattice relaxation time (T1),
+that determine image appearance are proton spin-spin relaxation time (T2) and flow. When
+density, spin-lattice relaxation time (T1), interpreted by a trained physician, these
+9Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+spin-spin relaxation time (T2) and flow. When images provide information that may assist in
+interpreted by a trained physician, these the determination of a diagnosis.
+images provide information that may assist in Vista OS is intended for use as an accessory to
+the determination of a diagnosis. the following MRI systems:
+RTHawk is intended for use as an accessory to Manufacturers:: GE Healthcare (GEHC),
+the following MRI systems: Siemens Healthineers
+Manufacturers: GE Healthcare (GEHC), Field Strength:: 1.5T and 3.0T
+Siemens Healthineers GE Software Versions:: 12, 15, 16, 23, 24, 25,
+Field Strengths: 1.5T and 3.0T 26, 30
+GE Software Versions: 12, 15, 16, 23, 24, 25, Siemens Software Versions:: N4/VE; NX/VA
+26
+Siemens Software Versions: N4/VE; NX/VA
+Scanner GE Healthcare, Siemens Healthineers GE Healthcare, Siemens Healthineers
+Compatibility
+Magnetic Field 1.5T, 3.0T 1.5T, 3.0T
+Strengths
+Shift/Advance Table No No
+Imaging Planes Transverse, Coronal, Sagittal, Oblique, Transverse, Coronal, Sagittal, Oblique,
+Double Oblique Double Oblique
+Pulse Sequences
+B0 Mapping B0 Mapping
+Brain Localizer
+Cardiac Localizer Cardiac Localizer
+Cardiac T1 Map Cardiac T1 Map
+Cardiac T2 Map Cardiac T2 Map
+Cardiac T2* Map Spiral Cardiac T2* Map Spiral
+Cardiac T2* Map Cartesian Cardiac T2* Map Cartesian
+Cartesian Shimming Cartesian Shimming
+Cine Cartesian SSFP Cine Cartesian SSFP
+Cine DE Cal Cine DE Cal
+Cine Flow Calibration
+Cine Spiral SSFP Cine Spiral SSFP
+FB DE GRE Cal FB DE GRE Cal
+FB DE GRE FB DE GRE
+10Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+FB DE SSFP FB DE SSFP
+FB MS Tagging GRE FB MS Tagging GRE
+FB Multi-Slice GRE FB Multi-Slice GRE
+FB Multi-Slice SSFP FB Multi-Slice SSFP
+Frequency Scout
+Gated 3D MRA GRE Gated 3D MRA GRE
+Gated High-Res GRE Gated High-Res GRE
+Gated Double-IR FSE Gated Double-IR FSE
+HART GRE HART GRE
+HART SSFP HART SSFP
+Multi-Slice Cine Flow Multi-Slice Cine Flow
+Multi-Slice DE GRE Multi-Slice DE GRE
+Multi-Slice DE SSFP Multi-Slice DE SSFP
+Nav 3D DE GRE Nav 3D DE GRE
+Noise Measurement Noise Measurement
+Prostate Localizer
+Real-Time Loc GRE Real-Time Loc GRE
+Real-Time Loc SSFP Real-Time Loc SSFP
+Real-Time Color PC Real-Time Color PC
+Single-BH 3D DE GRE Single-BH 3D DE GRE
+Stack of Spiral Cine Flow Stack of Spiral Cine Flow
+Time-Course GRE Time-Course GRE
+Wait Wait
+Remote Imaging and Yes Yes
+Support
+Automated Scan Yes Yes
+Planning
+11Vista AI, Inc.
+431 Florence Street, Suite 100
+Palo Alto, CA 94301
++1 650-800-7937 | info@vista.ai | vista.ai
+Conclusion
+Based upon verification testing and compliance with voluntary standards, the Company
+believes that Vista OS and RTHawk are substantially equivalent to the predicate device, and
+do not raise any new questions of safety or effectiveness.
+12

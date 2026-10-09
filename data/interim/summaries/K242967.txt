@@ -1,0 +1,477 @@
+February 25, 2025
+Fitbit
+Dinesh Puppala
+Regulatory Affairs Lead
+215 Fremont Street
+San Francisco, California 94105
+Re: K242967
+Trade/Device Name: Loss of Pulse Detection
+Regulation Number: 21 CFR 870.2790
+Regulation Name: Photoplethysmograph Analysis Software For Over-The-Counter Use
+Regulatory Class: Class II
+Product Code: SDY
+Dated: September 25, 2024
+Received: September 26, 2024
+Dear Dinesh Puppala:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.04
+Silver Spring, MD 20993
+www.fda.govK242967 - Dinesh Puppala Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K242967 - Dinesh Puppala Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jennifer W. Shih -S
+Jennifer Kozen
+Assistant Director
+Division of Cardiac Electrophysiology,
+Diagnostics, and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K242967
+Device Name
+I Loss of Pulse Detection
+Indications for Use (Describe)
+Loss of Pulse Detection is a software-only mobile medical application that is intended to be used
+with compatible consumer wrist-worn products to analyze pulse data to identify loss of pulse events
+and provide audio, visual, and haptic alerts to the user.
+If the user remains unresponsive to these alerts, Loss of Pulse Detection will attempt to prompt a call
+to emergency services through the user's connected compatible hardware, such as a smartphone or
+smartwatch.
+Loss of Pulse Detection is intended for over-the-counter (OTC) use. It is not intended to provide a
+notification on every loss of pulse event and the absence of an alert is not intended to indicate that
+no such event has occurred; rather the Loss of Pulse Detection is intended to opportunistically
+surface an alert of possible loss of pulsatility when sufficient data are available for analysis.
+These data are only captured when the user is still. Loss of Pulse Detection is not intended to
+replace traditional methods of diagnosis, treatment, or monitoring.
+Loss of Pulse Detection has not been tested for and is not intended for use in people under 22 years
+of age. It is also not intended for use in individuals previously diagnosed with a high risk for sudden
+cardiac death such as those with coronary artery disease, cardiomyopathy and/or unexplained
+syncope/fainting.
+Type of Use (Select one or both, as applicable)
+FPrescription Use (Part 21 CFR 801 Subpart D) XOver-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."510(K) Summary
+1. Submitter Information:
+Fitbit LLC
+215 Fremont Street,
+San Francisco, CA 94105
+Contact Person:
+Dinesh Puppala
+Regulatory Affairs Lead
+Phone: (650)-267-1263
+Email: puppalad@google.com
+Date Prepared: Feb 19, 2025
+2. Subject Device Information
+Name of Device: Loss of Pulse Detection
+Common or Usual Name: Loss of Pulse Detection
+Classification Name: Photoplethysmograph Analysis Software For Over-The-Counter Use
+Regulatory Class: Class II
+Product Code: SDY - 21 CFR 870.2790
+3. Predicate Device
+Fitbit Irregular Rhythm Notifications
+(K212372)
+4. Indications for Use
+Loss of Pulse Detection is a software-only mobile medical application that is intended to be used with
+compatible consumer wrist-worn products to analyze pulse data to identify loss of pulse events and
+provide audio, visual, and haptic alerts to the user.
+If the user remains unresponsive to these alerts, Loss of Pulse Detection will attempt to prompt a call to
+emergency services through the user's connected compatible hardware, such as a smartphone or
+smartwatch.
+Loss of Pulse Detection is intended for over-the-counter (OTC) use. It is not intended to provide a
+notification on every loss of pulse event and the absence of an alert is not intended to indicate that no
+such event has occurred; rather the Loss of Pulse Detection is intended to opportunistically surface an
+alert of possible loss of pulsatility when sufficient data are available for analysis.
+These data are only captured when the user is still. Loss of Pulse Detection is not intended to replace
+traditional methods of diagnosis, treatment, or monitoring.
+Loss of Pulse Detection has not been tested for and is not intended for use in people under 22 years of
+age. It is also not intended for use in individuals previously diagnosed with a high risk for sudden cardiac
+death such as those with coronary artery disease, cardiomyopathy and/or unexplained syncope/fainting.
+Confidential
+15. Device Description
+Intended Use
+Photoplethysmograph analysis software for over-the-counter use. A photoplethysmograph analysis
+software device for over-the-counter use analyzes photoplethysmograph data and provides information
+for identifying loss of pulse. This device is not intended to provide a diagnosis.
+Technological Characteristics
+The Loss of Pulse detection SaMD is intended to be used for the detection of loss of pulse using
+photoplethysmography (PPG) and accelerometer sensors present in a wrist worn consumer wearable
+device. Upon detection of loss of pulse, when the smartwatch is worn, the feature will prompt haptic and
+audio alerts and notifications to the user and prompt the user’s compatible hardware to call emergency
+services if the user is unresponsive to the notifications and alerts. This is an opt-in feature and will be off
+by default.
+The Loss of Pulse detection SaMD comprises a software component that resides on the compatible
+consumer wearable device (from here on referenced as a “smartwatch”) and a user facing mobile
+application that resides on general purpose compatible consumer mobile devices such as a smartphone
+(from here on referenced as “Smartphone”). The software component on the smartwatch analyzes pulse
+data collected by photoplethysmography (PPG) and accelerometry sensors from qualified smartwatch,
+using an algorithm employing digital signal processing (DSP) and features-based machine learning based
+on a convolutional neural network (CNN) to detect possible loss of pulse events.
+Summary of Substantial Equivalence
+Subject Device Predicate Device Equivalence
+Loss of Pulse Detection Fitbit Irregular Rhythm Discussion
+K242967 Notification
+K212372
+Intended Use Photoplethysmograph Photoplethysmograph analysis Same
+analysis software for software for over-the-counter
+over-the-counter use. A use. A photoplethysmograph
+photoplethysmograph analysis analysis software device for
+software device for over-the-counter use analyzes
+over-the-counter use analyzes photoplethysmograph data
+photoplethysmograph data and provides information for
+and provides information for identifying irregular heart
+identifying loss of pulse. This rhythms. This device is not
+device is not intended to intended to provide a
+provide a diagnosis. diagnosis.
+Confidential
+2Indications for Loss of Pulse Detection is a The Fitbit Irregular Rhythm Similar
+Use software-only mobile medical Notifications is a software-only
+application that is intended to be mobile medical application that Both devices are software-only
+used with compatible consumer is intended to be used with mobile medical applications
+wrist-worn products to analyze compatible consumer wrist-worn intended for use with
+pulse data to identify loss of products to analyze pulse rate compatible consumer
+pulse events and provide a data to identify episodes of wrist-worn products. They both
+notification to the user. irregular heart rhythms utilize PPG analysis software to
+identify potential irregular heart
+suggestive of atrial fibrillation
+rhythms, analyze pulse data,
+(AFib) and provide a notification
+and provide notifications to the
+If the user remains unresponsive to the user.
+user if an irregular heart rhythm
+to these alerts, Loss of Pulse
+is detected. Neither device is
+Detection will attempt to prompt The Fitbit Irregular Rhythm
+intended to provide a diagnosis
+a call to emergency services Notifications is intended for
+or monitor the outcome of their
+through the user's connected over-the-counter (OTC) use. It is
+alerts. Additionally, both
+compatible hardware, such as a not intended to provide a
+devices are intended for users
+smartphone or smartwatch. notification on every episode of
+over 22 years old and are not
+irregular rhythm suggestive of
+intended for individuals with
+Loss of Pulse Detection is AFib and the absence of a pre-existing cardiac conditions.
+intended for over-the-counter notification is not intended to
+(OTC) use. It is not intended to indicate no disease process is
+provide a notification on every present; rather the Fitbit Irregular
+loss of pulse event and the Rhythm Notifications is intended
+absence of a notification is not to opportunistically surface a
+intended to indicate no disease notification of possible AFib
+process is present; rather the when sufficient data are available
+Loss of Pulse Detection is for analysis.
+intended to opportunistically
+surface a notification of possible These data are only captured
+pulselessness when sufficient when the user is still. Along with
+data are available for analysis. the user’s risk factors, the Fitbit
+Irregular Rhythm Notifications
+These data are only captured can be used to supplement the
+when the user is still. Loss of decision for AFib screening. The
+Pulse Detection is not intended Fitbit Irregular Rhythm
+to replace traditional methods of Notifications is not intended to
+diagnosis or treatment. replace traditional methods of
+diagnosis or treatment.
+The Fitbit Irregular Rhythm
+Notifications has not been tested
+for and is not intended for use in
+people under 22 years of age. It
+is also not intended for use in
+Loss of Pulse Detection has not individuals previously diagnosed
+been tested for and is not with AFib.
+intended for use in people under
+22 years of age. It is also not
+intended for use in individuals
+Confidential
+3previously diagnosed with a high
+risk for sudden cardiac death
+such as those with coronary
+artery disease, cardiomyopathy
+and/or unexplained
+syncope/fainting.
+Use Environment Home/General Use Home/General Use Same
+Both are intended for home
+use.
+Anatomical Site Wrist-worn consumer wearable Wrist-worn consumer wearable Same
+with PPG sensors. with PPG sensors.
+Both use consumer grade
+wrist-worn devices to gather
+signals from PPG sensors.
+User interface Mobile application run within Mobile application run within Same
+the Pixel watch consumer app. the Fitbit consumer app
+Both devices include a mobile
+application component that is
+run within a consumer
+application on the user’s
+mobile device (smartphone).
+This mobile application serves
+the purpose of the User
+Interface for both devices.
+Use Method Collects and analyzes pulse data Collects and analyzes Similar
+during periods that meet input tachograms (based on pulse data)
+signal quality requirements during periods of stillness or Both devices analyze sensor
+(including stillness in the recent sleep using input from PPG data from the PPG sensor and
+past) using input from PPG sensors. only analyze data that meet
+sensors. input signal quality
+requirements. Stillness is part
+of both devices’ input signal
+quality requirements. Both
+devices limit the analysis
+window to time periods
+relevant to the irregular heart
+rhythm being detected. The
+use of the term “tachogram”
+by the predicate device refers
+to subsets of the PPG sensor
+data cropped to approximate
+individual R-R intervals, and
+does not meaningfully alter
+the use method, as both the
+Confidential
+4subject and predicate devices
+use signal processing
+algorithms to analyze PPG
+sensor data.
+Both devices are passive
+background screening tools
+and users cannot initiate
+readings.
+Both devices opportunistically
+surface a notification to the
+user.
+Limiting Factors Motion, hand, and finger Motion, hand and finger Same
+movements during pulseless movements, dark tattoos on the
+period; tattoos on the wrist; wrist, inadequate blood flow. Both devices have similar
+inadequate blood flow. limiting factors.
+Does not continuously monitor Does not continuously monitor
+for signs of loss of pulse for signs of AFib. Both devices are not intended
+for continuous monitoring.
+A lack of notification does not A lack of notification does not
+indicate an absence of an indicate an absence of AFib. A lack of notification does not
+underlying loss of pulse indicate an absence of an
+irregular rhythm for both
+devices.
+Compatible Consumer wrist-worn products Consumer wrist-worn products Same
+devices with PPG sensors (e.g., with PPG
+smartwatch) that have been sensors (e.g., smartwatch or Both devices are compatible
+qualified for use with the Loss of fitness tracker) that have been with qualified wrist worn
+Pulse Detection feature qualified for use products with PPG sensors
+with Fitbit Irregular Heart that have been qualified for
+Rhythm Notifications use with the respective feature.
+The subject device is
+compatible with a subset of
+consumer wrist-worn products
+on which the predicate is
+qualified (i.e., smartwatches).
+Principles of Pulse rate data is gathered from a Pulse rate data gathered from a Similar
+Operation consumer wrist-worn device. consumer wrist-worn device is
+The algorithm analyzes the data uploaded to a server. The Both devices have the same
+and classifies it as having signs algorithm analyzes the data and basic principle of operation,
+of an irregular heart rhythm, loss classifies it as having signs of with nonmaterial differences
+of pulse, or no signs thereof. AFib or no signs of AFib. When stemming from the particular
+When signs of loss of pulse are signs of AFib are detected a irregular pulse rhythm that is
+detected, a notification is notification is surfaced to the intended to be detected. Both
+surfaced to the user. user through the mobile devices analyze pulse data
+Confidential
+5application. from consumer wrist-worn
+devices. Apparent differences
+such as algorithmic analysis
+on the watch in the subject
+device and the server on the
+predicate have no material
+impact on safety or
+effectiveness. Both devices
+opportunistically surface
+notifications to the user if an
+irregular pulse rhythm is
+detected.
+6. Performance Data
+Testing verifying the performance requirements of the subject device was conducted and is included in this
+premarket notification, the results of which support substantial equivalence. A summary of the testing is
+included below:
+Algorithm Development
+The Loss of Pulse Detection algorithm identifies potential loss of pulse events. The algorithm includes a
+machine learning component that consists of a convolutional neural network, which analyzes data from
+photoplethysmography (PPG) and accelerometer sensors. The algorithm was developed on a dataset
+consisting of over one hundred thousand hours of free-living data across hundreds of participants who
+experienced no loss of pulse events and 99 participants who experienced simulated loss of pulse events
+induced by an arterial occlusion model. The dataset used for model development was split at the
+participant level into training, validation, and held-out test sets The Loss of Pulse Detection algorithm was
+trained on the training split and evaluated on the validation set. When algorithm development was
+complete, the algorithm was locked and the algorithm was evaluated on the held-out test set. The training,
+validation, and test splits used for development included data from diverse participants with varied age,
+sex, BMI, and skin tone.
+Bench Testing/Non-Clinical Testing
+The Loss of Pulse Detection utilizes signals derived from compatible consumer
+grade wrist-worn products. The wrist-worn products were qualified for use with the software to ensure
+that the data provided could meet signal attribute and quality requirements necessary for heart rhythm
+analysis and detect adequate PPG signal quality. Bench testing included product signal acquisition testing,
+aggressor testing for known challenge conditions potentially impacting the quality of PPG signal
+acquisition, and accuracy assessment of the inputs to the Loss of Pulse Detection that were derived from
+the wrist-worn products. Qualification testing was repeated for all qualified wrist-wearable products. The
+algorithm was tested to ensure that it accepted and rejected data correctly and that it can correctly analyze
+the input data.
+Confidential
+6Software Testing Summary
+The Loss of Pulse Detection presents a “Basic Documentation” Software Documentation Level based on
+the risks of device software function in the context of the device’s intended use as defined in FDA’s
+Guidance for the Content of Premarket Submissions for Device Software Functions (June 14, 2023)
+(Guidance Document). Testing of the mobile application demonstrates that the Loss of Pulse Detection
+feature adequately performs all the necessary functionalities including education/onboarding and
+generating user notifications when pulselessness is identified.
+Human Factors Testing Summary
+A Human Factors Validation Study was designed to evaluate the critical and noncritical tasks associated
+with the use of the device. The Human Factors Validation Study was performed using a simulated version
+of the Loss of Pulse Detection within the Pixel watch mobile app, representative of the final app. 19 users
+were recruited from the general population for the study, with the goal of recruiting at least 15 intended
+users. During the test session, each participant performed various tasks within representative, naturalistic
+use scenarios. These tasks included setup and onboarding, responding to an initial check-in, responding to
+an escalation, triggering emergency response services, and passive feature use. The first evaluation
+activity (setup and onboarding) included a self-selection component where participants indicated whether
+or not they are an intended Loss of Pulse Detection application user, resulting in 16 intended and 3
+unintended users. Participants also performed a knowledge task to evaluate critical tasks that could not be
+evaluated during the simulated use scenarios.
+During each evaluation activity, use errors, instances of moderator assistance, close calls, and difficulties
+were documented. Open-ended questions were used to collect participants’ subjective assessments of the
+root cause(s) associated with any such event and to collect participants’ feedback on the product’s
+use-safety. Data was consolidated and analyzed with a focus on events with the potential for serious harm
+(critical tasks). The human factors testing found that the loss of pulse detection feature was safe and
+effective for the intended users, uses, and use environments.
+Real World Evidence Summary
+Real-world evidence (RWE) indicates users are able to respond to haptic, audio, and visual feedback and
+de-escalate based solely on reading the device labeling. A sample of data from RWE shows that users
+clear >98% of notifications from the pre-phone call gates in real-world free-living conditions. There was,
+on average, 1 phone call placed by Loss of Pulse Detection in 75 person-years of real-world use.
+Clinical Testing Summary
+The Loss of Pulse Detection (LPD) software, intended for use with wrist-worn devices, was clinically
+validated in a study. The study aimed to evaluate the software's ability to detect loss of pulse events and
+initiate an emergency call.
+A total of 135 participants were enrolled in one clinical study and 21 participants in another clinical
+study. The participants included a racially and ethnically diverse population, including adults of diverse
+sex and age. The results from the clinical validation study showed a sensitivity of 69.3% (95% CI: 64.3%,
+7
+74.1%)
+Confidentialacross 135 users and a sensitivity of 64.5% (95% CI: 55.7% to 74.2%) after adjusting for performance
+after a simulated collapse. The specificity was analyzed using evaluable data from 131 participants from
+the first study. It showed a day-level specificity of 99.965% (95% CI 99.804, 99.999). A total of 5 adverse
+events were reported. No adverse events reported were related to the LPD software. Most adverse events
+were identified as possible anticipated risks in the study protocol, namely skin irritation from wearing a
+consumer wrist-worn device. Demographic characteristics of the study population are summarized in the
+table below.
+Clinical validation study Clinical validation study
+(pulseless and pulsatile) (pulseless)
+N 135 21
+Age
+≤35 16.3% (22) 14.3% (3)
+36–59 38.5% (52) 61.9% (13)
+60+ 45.2% (61) 23.8% (5)
+Sex
+Female 60.7% (82) 47.6% (10)
+Male 39.3% (53) 52.4% (11)
+Monk skin tone
+1–4 40.7% (55) 28.6% (6)
+5–6 35.6% (48) 66.7% (14)
+7–8 20.7% (28) 4.8% (1)
+9–10 3.0% (4) 0.0% (0)
+Individual
+typology angle scale
+1 3.0% (4) 0.0% (0)
+2 5.9% (8) 9.5% (2)
+3 11.1% (15) 28.6% (6)
+4 11.1% (15) 33.3% (7)
+5 43.0% (58) 19.0% (4)
+6 25.9% (35) 9.5% (2)
+Body mass index
+<18.5 0.7% (1) 4.8% (1)
+Confidential
+8Clinical validation study Clinical validation study
+(pulseless and pulsatile) (pulseless)
+18.5– <25 18.5% (25) 47.6% (10)
+25– <30 27.4% (37) 38.1% (8)
+≥30 53.3% (72) 9.5% (2)
+7. Conclusion
+The Loss of Pulse Detection and its predicate have the same Intended Use, similar Indications for Use,
+similar technological characteristics and principles of operation. The technological differences between
+the subject Loss of Pulse Detection and its predicate, Fitbit Irregular Rhythm Notifications, are in relation
+to the very specific formulation of the respective algorithms. However, any such differences do not raise
+new or different questions of safety or effectiveness. Moreover, testing and clinical data provided in the
+submission demonstrate that the subject device meets all Special Controls and operates in a manner that is
+as safe and effective as the predicate device. Therefore, Loss of Pulse Detection is considered
+substantially equivalent to the predicate device.
+Confidential
+9

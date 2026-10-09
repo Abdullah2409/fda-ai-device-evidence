@@ -1,0 +1,410 @@
+June 17, 2022
+Digital Diagnostics Inc.
+℅ Kelliann Payne
+Partner
+Hogan Lovells US LLP
+1735 Market St., Floor 23
+Philadelphia, Pennsylvania 19103
+Re: K213037
+Trade/Device Name: IDx-DR v2.3
+Regulation Number: 21 CFR 886.1100
+Regulation Name: Retinal Diagnostic Software Device
+Regulatory Class: Class II
+Product Code: PIB
+Dated: September 21, 2021
+Received: May 17, 2022
+Dear Kelliann Payne:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act'sK213037 - Kelliann Payne Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Elvin Ng
+Assistant Director
+DHT1A: Division of Ophthalmic Devices
+OHT1: Office of Ophthalmic, Anesthesia,
+Respiratory, ENT and Dental Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K213037
+Device Name
+IDx-DR v2.3
+Indications for Use (Describe)
+IDx-DR is indicated for use by healthcare providers to automatically detect more than mild diabetic retinopathy (mtmDR)
+in adults diagnosed with diabetes who have not been previously diagnosed with diabetic retinopathy. IDx-DR is indicated
+for use with the Topcon NW400.
+Type of Use (Select one or both, as applicable)
+X Prescription Use (Part 21 CFR 801 Subpart D) E Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number"
+FORM FDA 3881 (6120) Page 1 of 1 PSC PublisAing Servics (301) 443-6740 EF510(k) Summary
+K213037
+I. Submitter
+Digital Diagnostics Inc.
+2300 Oakdale Blvd.
+Coralville, IA 52241
+Phone: 319-248-5620
+Contact Person: Ashley Miller
+Date Prepared: June 14, 2022
+II. Device
+Name of Device: IDx-DR v2.3
+Common or Usual Name: Diabetic Retinopathy Detection Device
+Classification Name: Retinal diagnostic software device
+Regulatory Class: II
+Regulation: 21 CFR 886.1100
+Product Code: PIB
+III. Device Description
+The IDx-DR device is an autonomous, artificial intelligence (AI)-based system for the
+automated detection of more than mild diabetic retinopathy (mtmDR). It consists of
+several component parts (see Figure 1 below).
+The component parts of IDx-DR are summarized as follows:
+• IDx-DR Analysis: Software that analyzes the patient’s images and determines
+exam quality and the presence/absence of mtmDR.
+• IDx-DR Client: A software application component running on a computer,
+usually connected to the fundus camera, at the user site. Using this software, the
+user can transfer images to IDx-DR Analysis via IDx-DR Service and receive
+results back.
+• IDx-DR Service: IDx-DR Service comprises a general exam analysis service
+delivery software package. IDx-DR Service contains a webserver front-end that
+securely handles incoming requests, a database that stores user information, and a
+logging system that records information about each transaction through IDx-DR
+Service. IDx-DR Service is also primarily responsible for device cybersecurity.
+The Topcon NW400 fundus camera is attached to a computer, where IDx-DR Client is
+installed. Guided by the IDx-DR Client, end-users acquire two fundus images per eye to
+1K213037
+be dispatched to IDx-DR Service. IDx-DR Service is installed on a server hosted at a
+secure datacenter. From IDx-DR Service, images are transferred to IDx-DR Analysis
+System. No information other than the fundus images is required to perform the analysis.
+IDx-DR Analysis System, which runs on dedicated servers hosted in the same secure
+datacenter as IDx-DR Service, processes the fundus images and returns information on
+the exam quality and the presence or absence of more than mild diabetic retinopathy
+(mtmDR) to IDx-DR Service. IDx-DR Service then transports the results to the IDx-DR
+Client that displays them to the user.
+Figure 1: IDx-DR Components
+IV. Indications for Use
+IDx-DR is indicated for use by healthcare providers to automatically detect more than
+mild diabetic retinopathy (mtmDR) in adults diagnosed with diabetes who have not been
+previously diagnosed with diabetic retinopathy. IDx-DR is indicated for use with the
+Topcon NW400.
+V. Predicate Device
+IDx-DR, Diabetic Retinopathy Detection Device, K203629
+This predicate has not been subject to a design-related recall.
+No reference devices were used in this submission.
+VI. Purpose of Submission
+The purpose of this 510(k) submission is to modify the following: the image quality
+classifier of the IDx-DR Analysis System, from version 2.1.1 to 2.3.0; update IDx-DR
+Service from version 1.1.2 to 1.2.0; and update IDx-DR Client from v3.3.0 to v3.5.0.
+2K213037
+VII. Comparison of Technological Characteristics with the Predicate Device
+The main technological principle for both the subject and predicate devices is AI-based
+technology to analyze specific pathologic features from fundus retinal images. The
+subject device has the same intended use and indications for use as those cleared under
+K203629.
+The major technological differences that exist between each component of the subject
+and predicate devices are described below.
+IDx-DR Service
+• Updated to look up the IDx-DR Analysis System version and sends it to IDx-DR
+Client for display on the user interface.
+IDx-DR Client
+• Updated to provide clear language of “exam completed” after repeated imaging
+attempts have resulted in an insufficient image quality output. The result output
+and report will remain unchanged, indicating exam quality was insufficient and a
+diagnostic result is not provided.
+• Updated to visually communicate image quality feedback by adding a green
+checkmark or a red “X” to images on the submission feedback screen.
+IDx-DR Analysis System
+• The image quality classifier of the subject device was replaced with a new image
+quality classifier.
+• Updated to improve the speed of the device.
+Table 1 provides a comparison between the technical characteristics and indications for
+use of the subject and predicate devices.
+Table 1: Comparison of the Subject and Predicate Device
+Subject Device Predicate Device Discussion
+IDx-DR v2.3 IDx-DR v2.0, K203629
+Component IDx-DR Client v3.5.0 IDx-DR Client v3.2.0 See above for the
+Software IDx-DR Analysis System IDx-DR Analysis System major
+Versions v2.3.0 v2.1.1 technological
+IDx-DR Service v1.2.0 IDx-DR Service v1.1.2 differences
+between each
+component of the
+subject and
+predicate device.
+Technological Artificial intelligence Artificial intelligence Equivalent
+Principle software as a medical device. software as a medical device.
+3K213037
+Subject Device Predicate Device Discussion
+IDx-DR v2.3 IDx-DR v2.0, K203629
+Indications for For use by healthcare For use by healthcare Equivalent
+Use providers to automatically providers to automatically
+detect more than mild diabetic detect more than mild diabetic
+retinopathy in adults retinopathy in adults
+diagnosed with diabetes who diagnosed with diabetes who
+have not been previously have not been previously
+diagnosed with diabetic diagnosed with diabetic
+retinopathy. retinopathy.
+Indicated Topcon NW400 fundus Topcon NW400 fundus Equivalent
+Camera camera camera
+Inputs Macula- and disc-centered Macula- and disc-centered Equivalent
+color fundus images with 45° color fundus images with 45°
+field of view, 2 per eye. field of view, 2 per eye.
+Outputs Detection of diabetic Detection of diabetic Equivalent
+retinopathy and referral retinopathy and referral
+decision: decision:
+• mtmDR detected: Refer to • mtmDR detected: Refer to
+an eye care professional an eye care professional
+• mtmDR not detected: • mtmDR not detected:
+Rescreen in 12 months Rescreen in 12 months
+• Insufficient image quality • Insufficient image quality
+Architecture User facing client software User facing client software Equivalent
+transfers images to and transfers images to and
+receives results from analysis receives results from analysis
+software through a web software through a web
+server. server.
+Workflow The graphical user interface The graphical user interface Equivalent
+includes on-screen prompts to includes on-screen prompts to
+guide the user through the guide the user through the
+image acquisition workflow image acquisition workflow
+one image at a time and one image at a time and
+submission of the exam. submission of the exam.
+VIII. Performance Data
+The following performance data were provided in support of the substantial equivalence
+determination.
+A. Summary of Non-clinical Studies
+IDx-DR was identified as having a major level of concern as defined in the FDA
+guidance document Guidance for the Content of Premarket Submissions for Software
+Contained in Medical Devices. The software documentation includes:
+4K213037
+1. Software/Firmware Description
+2. Device Hazard Analysis
+3. Software Requirement Specifications
+4. Architecture Design Chart
+5. Software Design Specifications
+6. Traceability
+7. Software Development Environment Description
+8. Verification and Validation Documentation
+9. Revision Level History
+10. Unresolved Anomalies
+11. Cybersecurity
+A comprehensive risk analysis was performed on IDx-DR with identification and detailed
+description of the hazards, their causes and severity, as well as acceptable methods for
+control of the identified hazards. A description of acceptable verification and validation
+activities, at the unit, integration, and system level, including test protocols with pass/fail
+criteria and a report of the results, was provided. The expected impact of various
+hardware features on performance was assessed and minimum specifications for
+acceptable images for analysis were specified.
+The cybersecurity considerations of data confidentiality, data integrity, data availability,
+denial of service attacks, and malware were adequately addressed utilizing platform
+controls, application controls, and procedure controls, and evidence was provided for the
+intended performance of the controls. Risks related to failure of various software
+components and their potential impact on patient reports and operator failures were also
+adequately addressed in the risk analysis. This software documentation information
+provided sufficient evidence of safe and effective software performance.
+A full characterization of the technical parameters of all of the components of the
+software, including a description of the algorithms that analyzes the patient’s images to
+determine exam quality and the diagnostic screening of diabetic retinopathy, has been
+provided. IDx-DR requires one optic disc-centered image and one macula centered image
+from a fundus camera with at least 22 pixels per degree on the retina. So, a 1000 pixel
+field of view diameter for a 45 degree field of view image.
+The IDx-DR artificial intelligence device design has the ability to perform analysis on the
+specific disease features that are important to a retina specialist for diagnostic screening
+of diabetic retinopathy. Future algorithm improvements will be made under a consistent
+medically relevant framework. A protocol was provided to mitigate the risk of algorithm
+changes leading to changes in the device technical specifications, which would lead to
+changes in false positive or false negative results. These changes could significantly
+affect clinical functionality or performance specifications directly associated with the
+intended use of the device. The protocol specifies the level of change in device
+5K213037
+specifications that could significantly affect the safety or effectiveness of the device,
+triggering the requirement for a new 510(k) premarket notification submission before
+commercial introduction. The protocol incorporates a risk management approach and
+other approaches provided in the FDA guidance document Deciding When to Submit a
+510(k) for a Software Change to an Existing Device: Guidance for Industry and FDA
+Staff in development, validation, and execution of the device changes.
+Usability
+Usability validation testing was performed under simulated-use to assess the user
+interface (IDx-DR Client) of the subject device. The testing was performed in an
+environment equivalent to the intended use environment of IDx-DR with subjects that
+had no prior experience using the IDx-DR Client. The critical task for the IDx-DR system
+is the ability to capture four images of sufficient quality. The purpose of the usability
+validation test plan was to demonstrate that the intended image capture workflow and
+training methodology can successfully be used by the intended operators to capture four
+retinal images. The results of the usability validation study indicated that no existing
+critical tasks were impacted by the modification and no new critical tasks were
+introduced, and demonstrated that previously untrained camera operators could capture
+four retinal images of sufficient quality following the imaging protocol and using the
+indicated camera system and standardized training and operating materials.
+B. Summary of Clinical Performance Testing
+A retrospective study was conducted to validate the clinical performance of the modified
+IDx-DR (“IDx-DR v2.3). Data previously collected from the pivotal study of the
+predicate (“IDx-DR v2.0”; Abràmoff et al. Digital Medicine 2018;1:39) was analyzed to
+evaluate the performance of the upgraded Analysis component. The three co-primary
+endpoints are sensitivity, specificity, and “diagnosability” (the proportion of evaluated
+participants for whom IDx-DR returns a diagnostic result). The secondary endpoints are
+positive predictive value (PPV) and negative predictive value (NPV).
+Data from the 892 participants evaluated during the pivotal study were used to evaluate
+the modified algorithm; of these, images from 850 participants were available for
+analysis and diagnosable by the clinical reference standard, thus were evaluable for
+performance. Of the “first submission” images (i.e., first images taken and without
+pharmacologic pupil dilation), IDx-DR v2.3 was able to analyze images from 552 of the
+850 participants (64.9%) and IDx-DR v2.0 was able to analyze images from 533 of the
+850 subjects (62.7%). Of the “final submission” images (after following the as-needed
+pharmacologic pupil dilation image acquisition protocol), IDx-DR v2.3 was able to
+analyze images from 809 of the 850 participants (95.2%) and IDx-DR v2.0 was able to
+analyze images from 819 of the 850 participants (96.4%).
+6K213037
+Table 2 presents the diagnosability for participants who were diagnosable by both the
+subject and predicate devices based on images from the “first” and “final submission” for
+each participant from the pivotal study.
+Table 2: Diagnosability Results for the Subject and Predicate Devices Based on First
+and Final Submissions
+Pivotal Study Device Subject Device
+Characteristic
+(IDx-DR v2.0) (IDx-DR v2.3)
+Diagnosability of first
+submission images
+Point Estimate 62.71% (533/850) 64.94% (552/850)
+95% Confidence Interval1 (59.40%, 65.89%) (61.67%, 68.08%)
+Diagnosability of final
+submission images
+Point Estimate 96.35% (819/850) 95.18% (809/850)
+95% Confidence Interval2 (94.86%, 97.51%) (93.51%, 96.52%)
+1Calculated using the modified Wald method
+2Calculated using an exact binomial model
+Table 3 presents the sensitivity and specificity for participants who were diagnosable by
+both the subject and predicate devices based on images from the “final submission” for
+each participant from the pivotal study.
+Table 3: Performance Results for the Subject and Predicate Devices Based on Final
+Submissions
+Pivotal Study Device Subject Device
+Characteristic
+(IDx-DR v2.0) (IDx-DR v2.3)
+Sensitivity*
+Point Estimate 87.37% (173/198) 87.69% (171/195)
+95% Confidence Interval1 (81.93%, 91.66%) (82.24%, 91.95%)
+Specificity*
+Point Estimate 89.53% (556/621) 90.07% (553/614)
+95% Confidence Interval1 (86.85%, 91.83%) (87.42%, 92.32%)
+1Calculated using an exact binomial model
+*Excludes exam quality insufficient images, 31 for IDx-DR v2.0, 41 for IDx-DR v2.3
+Table 4 presents the PPV and NPV for participants who were diagnosable by both the
+subject and predicate devices based on images from the “final submission” for each
+subject from the pivotal study.
+7K213037
+Table 4: Secondary Performance for the Subject and Predicate Devices Based on
+Final Submissions
+Pivotal Study Device Subject Device
+Characteristic
+(IDx-DR v2.0) (IDx-DR v2.3)
+Positive Predictive Value
+Point Estimate 72.69% (173/238) 73.71% (171/232)
+95% Confidence Interval1 (66.56%, 78.25%) (67.55%, 79.25%)
+Negative Predictive Value
+Point Estimate 95.70% (556/581) 95.84% (553/577)
+95% Confidence Interval1 (93.71%, 97.20%) (93.87%, 97.32%)
+1Calculated using an exact binomial model
+Additional analyses were performed to include submissions that were non-diagnosable by
+the respective version of IDx-DR but were diagnosable by the reference standard.
+Table 5 presents the worst-case imputations for IDx-DR v2.0 and IDx-DR v2.3 based on
+images from the final submission for each participant from the pivotal study, wherein the
+non-diagnosable submissions are assumed to have IDx-DR results disagreeing with the
+reference standard.
+Table 5: Worst-Case Final Submission Performance by IDx-DR Device Version
+Pivotal Study Device Subject Device
+Characteristic
+(IDx-DR v2.0) (IDx-DR v2.3)
+Sensitivity
+Point Estimate 85.22% (173/203) 84.24% (171/203)
+95% Confidence Interval1 (79.58%, 89.80%) (78.48%, 88.96%)
+Specificity
+Point Estimate 85.94% (556/647) 85.47% (553/647)
+95% Confidence Interval1 (83.02%, 88.52%) (82.52%, 88.10%)
+Positive Predictive Value
+Point Estimate 65.53% (173/264) 64.53% (171/265)
+95% Confidence Interval1 (59.46%, 71.25%) (58.44%, 70.29%)
+Negative Predictive Value
+Point Estimate 94.88% (556/586) 94.53% (553/585)
+95% Confidence Interval1 (92.77%, 96.52%) (92.37%, 96.23%)
+1Calculated using an exact binomial model
+Table 6 presents the best-case imputations for IDx-DR v2.0 and IDx-DR v2.3 based on
+images from the final submission for each participant from the pivotal study, wherein the
+non-diagnosable submissions are assumed to have IDx-DR results agreeing with the
+reference standard.
+8K213037
+Table 6: Best-Case Final Submission Performance by IDx-DR Device Version
+Pivotal Trial Device Subject Device
+Characteristic
+(IDx-DR v2.0) (IDx-DR v2.3)
+Sensitivity
+Point Estimate 87.68% (178/203) 88.18% (179/203)
+95% Confidence Interval1 (82.36%, 91.87%) (82.92%, 92.28%)
+Specificity
+Point Estimate 89.95% (582/647) 90.57% (586/647)
+95% Confidence Interval1 (87.37%, 92.16%) (88.05%, 92.71%)
+Positive Predictive Value
+Point Estimate 73.25% (178/243) 74.58% (179/240)
+95% Confidence Interval1 (67.22%, 78.71%) (68.58%, 79.97%)
+Negative Predictive Value
+Point Estimate 95.88% (582/607) 96.07% (586/610)
+95% Confidence Interval1 (93.98%, 97.32%) (94.20%, 97.46%)
+1Calculated using an exact binomial model
+The results of the clinical study support a determination of substantial equivalence
+between IDx-DR v2.3 and IDx-DR v2.0.
+IX. Conclusions
+The modified IDx-DR device is substantially equivalent to the predicate IDx-DR device
+cleared under K203629. The modifications do not raise new questions of safety and
+effectiveness of the device. The subject and predicate devices have the same indications
+for use, technological characteristics, and performance specifications.
+9

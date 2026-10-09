@@ -1,0 +1,262 @@
+December 16, 2022
+Hyperfine, Inc.
+℅ Christine Kupchick
+Sr. Regulatory Specialist
+351 New Whitfield St.
+GUILFORD CT 06437
+Re: K223268
+Trade/Device Name: BrainInsight™
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: October 21, 2022
+Received: October 24, 2022
+Dear Christine Kupchick:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.govK223268 - Christine Kupchick Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D.
+Assistant Director
+Magnetic Resonance and Nuclear Medicine Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureBrainInsightÔ
+510(k) SUMMARY
+K223268
+510(K) SUBMITTER
+Company Name: Hyperfine, Inc.
+Company Address: 351 New Whitfield St
+Guilford, CT 06437
+CONTACT
+Name: Christine Kupchick
+Telephone: (203) 343-3404
+Email: ckupchick@hyperfine.io
+Date Prepared: December 13, 2022
+DEVICE IDENTIFICATION
+Trade Name: BrainInsightÔ
+Common Name: Automated Radiological Image Processing Software
+Regulation Number: 21 CFR 892.2050
+Product Code: QIH
+Regulatory Class: Class II
+PREDICATE DEVICE INFORMATION
+The subject BrainInsight is substantially equivalent to the predicate BrainInsight (K220815). The
+predicate device has not been subject to a design-related recall.
+DEVICE DESCRIPTION
+BrainInsight is a fully automated MR imaging post-processing medical software that provides image
+alignment, whole brain segmentation, ventricle segmentation, and midline shift measurements of brain
+structures from a set MR images. The BrainInsight processing architecture includes a proprietary
+automated internal pipeline based on machine learning tools. The output annotated and segmented
+images are provided in standard image format using segmented color overlays and reports that can be
+displayed on third-party workstations and FDA-cleared Picture Archive and Communications Systems
+(PACS). The high throughput capability makes the software suitable for use in routine patient care as a
+support tool for clinicians in assessment of low-field (0.064 T) structural MRIs. BrainInsight provides
+overlays and reports based on 0.064 T 3D MRI series of T1 Gray/White, T2-weighted, T2-Fast, and FLAIR
+images.
+1INDICATIONS FOR USE
+BrainInsight is intended for automatic labeling, spatial measurement, and volumetric quantification of
+brain structures from a set of low-field MR images and returns annotated and segmented images, color
+overlays and reports.
+INTENDED PATIENT POPULATION
+The table below shows the intended patient population.
+Application Patient Population T1 Gray/White T2 T2-Fast FLAIR
+Midline Shift Ages 2+ V V V V
+Lateral Ventricles Ages 2+ V V V V
+Whole Brain Ages 18+ V V N/A N/A
+TECHNOLOGICAL CHARACTERISTICS
+The subject device has the same indications for use, fundamental technology, and operating principles,
+as the predicate (K220815). Therefore, the subject device is substantially equivalent to the predicate.
+SUBSTANTIAL EQUIVALENCE DISCUSSION
+The table below compares the subject device to the predicate.
+Attribute Subject BrainInsight Predicate BrainInsight (K220815)
+BrainInsight is intended for automatic labeling,
+spatial measurement, and volumetric
+Indications for Use quantification of brain structures from a set of Same
+low-field MR images and returns annotated and
+segmented images, color overlays and reports.
+Target Anatomical
+Brain Same
+Sites
+● Adult and pediatric (≥ 2 years) - Lateral
+Adult (≥ 18 years) - Lateral ventricles,
+Patient Population ventricles and midline shift applications
+midline shift, and whole brain applications
+● Adult (≥ 18 years) - Whole brain application
+● Automated measurement of brain tissue
+volumes and structures of AI-reconstructed
+low-field MR images
+Technology ● Automatic segmentation and quantification Same
+of brain structures of AI-reconstructed low-
+field MR images using machine learning
+tools
+MR images are automatically sent to
+Method of Use BrainInsight, and processed images are Same
+automatically returned in ~7 minutes
+● No software required
+User Interface /
+● Operates in a serverless cloud environment
+Physical Same
+● User interface through PACS (multiple
+Characteristics
+vendors)
+Operating System Supports Linux Same
+2Automated internal pipeline that performs:
+● segmentation
+Processing
+● volume calculation Same
+Architecture
+● distance measurement
+● numerical information display
+● MRI Scanner: Hyperfine Swoop FSE MRI T1- ● MRI Scanner: Hyperfine Swoop FSE
+Gray/White Contrast, T2, T2-Fast and FLAIR MRI T1 and T2 scans acquired with
+Data Source
+scans acquired with specified protocols specified protocols
+● Supports DICOM format as input ● Supports DICOM format as input
+Provides volumetric measurements of brain
+structures:
+● Includes segmented color overlays and
+Output morphometric reports Same
+● Supports DICOM format as output of results
+that can be displayed on DICOM
+workstations and PACS
+Automated quality control functions:
+Automated quality control functions:
+● Tissue contrast check
+● Tissue contrast check
+● Scan protocol verification
+● Scan protocol verification
+Safety ● Atlas alignment check
+● Atlas alignment check
+● Results must be reviewed by a trained
+● Results must be reviewed by a trained
+physician
+physician
+● LV segmentation output quality check
+PERFORMANCE
+As part of demonstrating substantial equivalence to the predicate, a risk analysis was completed to
+identify the risks associated with the software modifications. Software verification as related to the
+modifications was performed per IEC 62304:2006 and as recommended in the FDA Guidance, “Guidance
+for the Content of Premarket Submissions for Software Contained in Medical Devices.” The subject
+device passed all the testing in accordance with internal requirements and applicable standards to
+support substantial equivalence.
+Each model was trained using a training dataset to optimize parameters and a separate validation
+dataset to select the best set of parameters. Comparing the training and validation metrics helps to
+monitor and prevent overfitting. The datasets were augmented to improve robustness using standard
+techniques that apply transformations to the input data. The testing dataset was separate from training
+and validation datasets. Each subject was assigned a unique identifier and all subjects in training and
+validation data were excluded from the test set.
+The data collection for the training and validation datasets were done at multiple sites. Each site used
+the T1-Gray/White contrast and T2, T2-Fast and FLAIR sequences from the FDA cleared Hyperfine Swoop
+Portable MR imaging system. The datasets were annotated by multiple experts. The entire group of
+training image sets was divided into segments and each segment was given to a single expert. The
+expert’s determination became the ground truth for each image set in their segment. Each model and
+application were validated using an appropriate sample size to yield statistically significant results. All
+test images were acquired using Swoop software versions 8.3 and 8.4. The test set had the following
+distribution:
+3Category Data Distribution
+● >2 to 12 years - 20.6%
+Age ● >12 to <18 years – 8.8%
+● >18 to 90 years – 70.6%
+Gender ● 33% F / 41% M / 25% Anonymized
+● Stroke (Infarct)
+● Hydrocephalus
+Pathology ● Hemorrhage (SAH, SDH, IVH, IPH)
+● Mass/Edema
+● Tumor
+Quantitative evaluation was performed to validate performance using software. The performance of the
+model and the annotators to the consensus-based annotation was computed to ensure that the model
+performance is no worse than the average annotator. The acceptance criteria were defined based on
+non-inferiority testing, in which the model discrepancy to the annotators can be no worse than the
+average annotator discrepancy.
+Midline Shift
+T1 T2 T2-Fast FLAIR
+Discrepancy
+Model 0.99 0.76 1.00 0.90
+Mean Annotator 1.42 1.00 1.38 1.21
+Lateral Ventricle Left
+T1 T2 T2-Fast FLAIR
+Discrepancy
+Model 0.17 0.20 0.16 0.12
+Mean Annotator 0.18 0.24 0.18 0.12
+Lateral Ventricle Right
+T1 T2 T2-Fast FLAIR
+Discrepancy
+Model 0.19 0.22 0.15 0.13
+Mean Annotator 0.19 0.24 0.16 0.13
+The mean absolute error was used to calculate the error range for midline shift. Ground truth for
+midline shift was determined based on the average shift distance of all annotators.
+4Application T1 Error T2 Error T2-Fast Error FLAIR Error
+Midline Shift 1.01 mm 0.80 mm 0.89 mm 0.75 mm
+The mean Dice coefficient was used to calculate the error range for the lateral ventricles and whole
+brain. Ground truth for segmentation is calculated using Simultaneous Truth and Performance Level
+Estimation (STAPLE).
+Application Dice Overlap [%] Volume Differences [%]
+T1 Device Annotator Device Annotator
+Left Ventricle 85 90 25 9
+Right Ventricle 83 90 26 11
+Whole Brain 95 97 3 2
+Application Dice Overlap [%] Volume Differences [%]
+T2 Device Annotator Device Annotator
+Left Ventricle 84 88 27 21
+Right Ventricle 82 87 26 20
+Whole Brain 96 97 5 5
+Application Dice Overlap [%] Volume Differences [%]
+T2-Fast Device Annotator Device Annotator
+Left Ventricle 86 91 26 17
+Right Ventricle 86 92 23 13
+Application Dice Overlap [%] Volume Differences [%]
+FLAIR Device Annotator Device Annotator
+Left Ventricle 89 93 9 7
+Right Ventricle 88 94 11 8
+5The test results show high accuracy of BrainInsight performance as compared to the reference and
+annotators and the subject device met all acceptance criteria.
+CONCLUSION
+Based on the indications for use, technological characteristics, performance results, and comparison to
+the predicate, the subject BrainInsight has been shown to be substantially equivalent to the predicate
+and does not present any new issues of safety or effectiveness.
+6

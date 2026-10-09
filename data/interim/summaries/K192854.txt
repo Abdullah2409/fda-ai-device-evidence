@@ -1,0 +1,574 @@
+Therapixel March 25, 2020
+℅ Ms. Cindy Domecus
+Principal
+Domecus Consulting Services LLC
+1171 Barroihet Drive
+HILLSBOROUGH CA 94010
+Re: K192854
+Trade/Device Name: MammoScreen
+Regulation Number: 21 CFR 892.2090
+Regulation Name: Radiological computer assisted detection and diagnosis software
+Regulatory Class: Class II
+Product Code: QDQ
+Dated: February 10, 2020
+Received: February 11, 2020
+Dear Ms. Domecus:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.14
+Silver Spring, MD 20993
+www.fda.govK192854 – Ms. Cindy Domecus Page 2
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary
+K192854
+This 510(k) summary of safety and effectiveness information is prepared in accordance
+with the requirements of 21 CFR § 807.92.
+Applicant Information:
+510(k) Owner: Therapixel
+Village By CA - Le Theseus,
+Rue Claude Daunesse,
+06560 Valbonne
+France
+Phone: +33 9 72 55 20 39
+Submission Correspondent:
+Cindy Domecus, R.A.C. (US & EU)
+Regulatory Consultant to Therapixel
+Phone: 650.343.4813
+Fax: 650.343.7822
+Email: domecusconsulting@comcast.net
+Additional Contact:
+Quentin de Snoeck
+RA/QA/CA Manager at Therapixel
+Phone: +33 9 72 55 20 39
+Email: qdesnoeck@therapixel.com
+Date Summary Prepared: March 18th, 2020
+Page 1 of 21
+510(k) submission MammoScreen™Device Information:
+Trade Name: MammoScreen
+Common Name: Computer-Assisted Detection Device
+Device Classification Name: Radiological Computer Assisted Detection/Diagnosis Software For
+Lesions Suspicious For Cancer
+Regulation Number: 892.2090
+Regulation Class: Class II
+Product Code: QDQ
+Submission type Traditional 510(k)
+Predicate Device:
+The predicate device is TransparaTM, cleared under K181704.
+Device Description:
+MammoScreen is a software-only device for aiding interpreting physicians in identifying focal
+findings suspicious for breast cancer in screening FFDM (full-field digital mammography)
+acquired with compatible mammography systems. The product consists of a processing server and
+a web interface. The software applies algorithms for recognition of suspicious calcifications and
+soft tissue lesions. These algorithms have been trained on large databases of biopsy proven
+examples of breast cancer, benign lesions and normal tissue.
+MammoScreen automatically processes FFDM and the output of the device can be used by
+radiologists concurrently with the reading of mammograms. The user interface of MammoScreen
+has several functions:
+a) Activation of computer aided detection (CAD) marks to highlight locations, known as findings,
+where the device detected calcifications or soft tissue lesions suspicious for cancer.
+b) Association of findings with a score, known as the MammoScreen Score, which characterizes
+findings on a 1-10 scale, with increasing level of suspicion. Only the most suspicious findings
+(with a MammoScreen score equal or greater than 5) are initially marked to limit the number of
+findings to review. The user shall also review findings with score of 4 or lower.
+c) Indication, with matching markers, when findings corresponding to the same findings are
+detected in multiple views of the FFDM.
+MammoScreen is configured as a DICOM Web compliant node in a network and receives its input
+images from another DICOM node, called "the DICOM Web Server”. The MammoScreen output
+will be displayed on the screen of a personal computer compliant with requirements specified in
+the User Manual.
+The image analysis unit includes machine learning components trained to detect positive findings
+(calcifications and soft tissue lesions).
+Page 2 of 21
+510(k) submission MammoScreen™Indication for Use:
+MammoScreen™ is intended for use as a concurrent reading aid for interpreting physicians, to
+help identify findings on screening FFDM acquired with compatible mammography systems and
+assess their level of suspicion. Output of the device includes marks placed on findings on the
+mammogram and level of suspicion scores. The findings could be soft tissue lesions or
+calcifications. The level of suspicion score is expressed at the finding level, for each breast and
+overall for the mammogram. Patient management decisions should not be made solely on the basis
+of analysis by MammoScreen™.
+Intended patient population
+The device is intended to be used in the population of women undergoing screening FFDM.
+Warnings and precautions
+Patient management decisions should not be made solely on the basis of analysis by
+MammoScreen.
+Predicate and Subject Device Comparison:
+Subject Device Predicate Device Substantially
+Equivalent?
+MammoScreen TransparaTM
+K181704
+Classification 21 CFR 892.2090 SAME Yes, identical.
+Regulation
+Radiological Computer Assisted
+Detection And Diagnosis Software
+Medical Class II SAME Yes, identical.
+Device
+Classification
+Product Code QDQ SAME Yes, identical.
+Level of Moderate SAME Yes, identical.
+Concern
+Intended Use A concurrent reading aid for SAME Yes, identical.
+physicians interpreting screening
+FFDM acquired with compatible
+mammography systems, to identify
+findings and assess their level of
+suspicion.
+Target patient Women undergoing FFDM SAME Yes, identical
+population screening mammography
+Page 3 of 21
+510(k) submission MammoScreen™Subject Device Predicate Device Substantially
+Equivalent?
+MammoScreen TransparaTM
+K181704
+Target user Physicians interpreting FFDM SAME Yes, identical
+population screening mammograms
+Design Software-only device SAME Yes, identical
+Indication for MammoScreen™ is intended for The ScreenPoint Transpara™ Yes, identical
+Use use as a concurrent reading aid for system is intended for use as a
+interpreting physicians, to help concurrent reading aid for
+identify findings on screening physicians interpreting
+FFDM acquired with compatible screening mammograms, to
+mammography systems and assess identify regions suspicious for
+their level of suspicion. Output of breast cancer and assess their
+the device includes marks placed on likelihood of malignancy.
+findings on the mammogram and
+Output of the device includes
+level of suspicion scores. The
+marks placed on suspicious
+findings could be soft tissue lesions
+soft tissue lesions and
+or calcifications. The level of
+suspicious calcifications;
+suspicion score is expressed at the
+region‐based scores, displayed
+finding level, for each breast and
+upon the physician’s query,
+overall for the mammogram. Patient
+indicating the likelihood that
+management decisions should not
+cancer is present in specific
+be made solely on the basis of
+regions; and an overall score
+analysis by MammoScreen™.
+indicating the likelihood that
+cancer is present on the
+mammogram.
+Patient management decisions
+should not be made solely on
+the basis of analysis by
+Transpara™.
+Page 4 of 21
+510(k) submission MammoScreen™Subject Device Predicate Device Substantially
+Equivalent?
+MammoScreen TransparaTM
+K181704
+Score Finding level: Finding level: Both scores are
+substantially
+10-point scale score indicating the Continuous score 1-100
+equivalent.
+level of suspicion of malignancy indicating the level of
+(from low suspicion to high suspicion of malignancy (from Both scores increase
+suspicion). low suspicion to high with the level of
+suspicion). suspicion. The
+minimum (resp. the
+Breast level: maximum) of the both
+Breast level: scores describes the
+The same 10-point scale score as
+same status.
+finding level. The score of a breast None
+is equal to the maximum score of At the Exam level,
+the findings detected in this breast. both scores have a 10-
+point scale.
+Exam level:
+Exam-level of suspicion resulting
+directly from the maximum score of Exam level:
+both breasts (1-to-1 mapping
+10-point scale score indicative
+between the score and the exam-
+of higher frequency of cancer
+level of suspicion).
+positive
+Finding Findings are by-default displayed Upon user request by clicking Both are the
+discovery when score is equal or higher to 5. in a position of the image also demonstration of the
+detected by TransparaTM. same intention:
+Upon user request for findings of
+reducing the number
+score equal or less to 4.
+of findings the user
+has to review. In this
+sense, both are
+equivalent.
+Page 5 of 21
+510(k) submission MammoScreen™Subject Device Predicate Device Substantially
+Equivalent?
+MammoScreen TransparaTM
+K181704
+Performances Reader study: Reader study:
+Despite a slightly
+- 240 cases - 240 cases
+higher performance of
+- 14 radiologists - 14 radiologists
+MammoScreen
+compared to
+Reading time (two sessions mean): Reading time: Transpara™, gains
+are still comparable
+- 57,67 seconds (unaided - 146 seconds (unaided
+and do not raise new
+session) session)
+questions regarding
+- 64, 13 seconds (with - 149 seconds (with
+safety and
+MammoScreen) Transpara™)
+effectiveness of the
+device.
+AUC: AUC:
+- radiologists AUC - radiologists AUC
+(unaided) = 0,769 (unaided) = 0,866
+- standalone AUC = 0,786 - standalone AUC =
+0,887
+Features Distinguishes two types of Distinguishes two types of
+suspicious findings (calcifications suspicious findings Despite some
+and soft tissue lesions). (calcifications and soft tissue differences between
+lesions). the predicate device
+and MammoScreen,
+The CAD output provided by the features are still
+server includes the location and the The CAD output provided by comparable and do
+outline of findings. the server includes the location not raise new
+and the outline of findings. questions regarding
+safety and
+MammoScreen processing server is effectiveness of the
+a standalone system WITH a user Transpara™ processing server device.
+interface. is a standalone system
+WITHOUT a user interface.
+Imaging FFDM SAME Yes, identical
+Modality
+Page 6 of 21
+510(k) submission MammoScreen™Subject Device Predicate Device Substantially
+Equivalent?
+MammoScreen TransparaTM
+K181704
+Fundamental In MammoScreen, a range of SAME Yes, identical
+scientific medical image processing and
+technology machine learning techniques are
+implemented. The system includes
+‘deep learning’ modules for
+recognition of suspicious
+calcifications and soft tissue
+lesions. These modules are trained
+with very large databases of biopsy-
+proven examples of breast cancer
+and normal tissue.
+Table 7.1 Comparison between subject and predicate device
+Discussion:
+The indication for use of MammoScreen is very similar to that of the predicate device. Both
+devices are intended to be used by clinicians interpreting digital mammogram images, to help them
+with localizing and characterizing suspicious findings. The devices are both intended to be used
+concurrently with the reading of images and are not intended as a replacement for the review of a
+clinician or their clinical judgement. Both devices target the same findings, the same patient and
+user populations and use the same imaging modality. Also, both devices have a Moderate Level
+of Concern.
+Both devices give a score. The scoring system is not the same, but is based on similar principles:
+providing users with a level of suspicion for malignancy from low (score 1) to high (score 10 or
+100). TransparaTM exhibits some minor differences though:
+- at the finding level, TransparaTM uses a 1-100 score of TransparaTM while the MammoScreen
+score has a 10-point scale. Indeed, Therapixel believes, based on questionnaire submitted
+to 15 radiologists, that interpretability of less granular scale is easier for users (how shall a
+difference between a score of 41 and 43 be interpreted for instance?)
+- at the breast level, TransparaTM does not provide a score. Therapixel considers that this level
+is required for better interpretability at exam level, scores are equivalent. However, using
+TransparaTM, the user cannot determine with precision to which of the breast (if not both),
+and where in the breast(s) this overall score applies. On the contrary, Therapixel’s score
+(and the indication of the exam-level of suspicion that directly results from it) is directly
+connected to one of the breasts (or both) and indicated as such, and exactly where in the
+breast (finding) thanks to the scoring consistency (a breast inherits from the maximum
+score of its findings, and the exam inherits from the maximum score of both breasts). Doing
+so makes the algorithm decision more explicit, and easier to interpret from a user point of
+view.
+Page 7 of 21
+510(k) submission MammoScreen™Both scores increase with the level of suspicion. The minimum (resp. the maximum) of the both
+scores describes the same status. At the Exam level, both scores have a 10-point scale.
+Both scores are substantially equivalent, the minor differences do not raise further or different
+questions of performance or safety.
+In conclusion, these differences do not raise different questions of safety and effectiveness of the
+device when used as labeled. The overall design of MammoScreen is very similar to that of the
+predicate device. Both devices have the same intended use, very similar indications for use, and
+minor differences between MammoScreen and the predicate device do not raise different questions
+of safety and effectiveness which are equivalent.
+Non-clinical Testing
+MammoScreen is a software-only device. The level of concern for the device is determined as
+Moderate Level of Concern.
+Tests have been performed in compliance with the following recognized consensus standards:
+● IEC 62304 Edition 1.1 2015-06 - Medical device software - Software life-cycle processes
+● IEC 62366-1 Edition 1.0 2015-02 - Medical devices - Application of usability engineering
+to medical devices.
+MammoScreen has successfully completed integration and verification testing and beta validation.
+In addition, potential hazards have been evaluated and mitigated, and have acceptable levels.
+Page 8 of 21
+510(k) submission MammoScreen™Standalone Performance Testing
+Standalone performance testing of MammoScreen assesses the performance of MammoScreen–
+algorithms in the absence of a clinician and includes mammograms of women acquired with
+devices from two manufacturers: Hologic® and GE®.
+The following graph shows the ratio of positive cases over all cases processed by both GE® and
+Hologic® devices that fall into each score:
+Figure 7.2.-Repartition of positive cases per MammoScreen scores for Hologic® and GE® combined
+Mammogram level
+Standalone performance of the MammoScreen-AI algorithm in characterizing positive and
+negative US FFDM acquired on Hologic® devices, and performance comparison with FFDM
+acquired on GE® devices, are given in the table below:
+Hologic® GE® Combined FOM -FOM
+GE HOL
+ROC
+0.868 (0.851, 0.885) 0.887 (0.875, 0.898) 0.883 (0.873, 0.892) 0.018 (-0.002, 0.039)
+AUC
+Page 9 of 21
+510(k) submission MammoScreen™Sensitivity 0.844 (0.815, 0.872) 0.849 (0.827, 0.871) 0.847 (0.829, 0.864) 0.005 (-0.032, 0.042)1
+Specificity 0.705 (0.689, 0.722) 0.738 (0.728, 0.747) 0.729 (0.721, 0.737) 0.032 (0.014, 0.051)
+Figure 7.3: ROC curves of MammoScreen-AI algorithm at mammogram level on US Hologic® FFDM (blue), GE® FFDM
+(orange), and on both types combined (green). Sensitivity and specificity at the chosen standalone regime (MS6) are shown with
+a blue dot for each case.
+Breast level
+Standalone performance of the MammoScreen-AI algorithm in characterizing positive and
+negative breasts on US FFDM acquired on acquired on Hologic® devices, and performance
+comparison with FFDM acquired on GE® devices, are given in the table below:
+Hologic® GE® Combined FOM -FOM
+GE HOL
+ROC
+0.901 (0.886, 0.915) 0.916 (0.906, 0.926) 0.911 (0.902, 0.919) 0.015 (-0.002, 0.033)
+AUC
+Sensitivity 0.813 (0.781, 0.843) 0.830 (0.808, 0.853) 0.823 (0.805, 0.841) 0.017 (-0.023, 0.056)
+Specificity 0.840 (0.831, 0.848) 0.846 (0.840, 0.851) 0.844 (0.839, 0.849) 0.006 (-0.004, 0.016)
+1 Due to the lower bound of the 95% CI being close to the non-inferiority margin (-0.03), 10,000 bootstrap replicates were used instead
+of 2,000.
+Page 10 of 21
+510(k) submission MammoScreen™Figure 7.4: ROC curves of MammoScreen-AI algorithm at breast level on US Hologic® FFDM (blue), GE® FFDM (orange), and
+on both types combined (green). Sensitivity and specificity at the chosen standalone regime (MS6) are shown with a blue dot for
+each case.
+Finding level
+Standalone performance of the MammoScreen-AI algorithm in detecting and characterizing
+positive findings (soft tissue lesions and calcifications) on FFDM acquired on Hologic® devices,
+and comparison with FFDM acquired on GE® devices, are given in the tables below.
+Two characteristics are considered: The Free-Response ROC (FROC) and the Localized ROC
+(LROC).
+FROC curve shows the sensitivity of finding detection and characterization as a function of the
+average number of false marks per image. It illustrates how performant an algorithm is at detecting
+and characterizing positive findings while keeping the number of false marks as low as possible.
+The drawback of FROC curves is that the x-axis has virtually no limit and that the curve area is
+not bound to unit square. Therefore, no simple unique measure (such as the AUC) may be derived
+from FROC curves to compare between several of such curves. However, it is still valuable
+information as it accounts for the average number of false marks per image.
+LROC curves are generally used when only one positive finding per case shall be localized. It
+shows the sensitivity of correctly marking a positive case (a case is considered as correctly marked
+Page 11 of 21
+510(k) submission MammoScreen™if the algorithm placed a mark at a reasonable distance from the ground truth location – here in a
+15mm radius from the ground truth) as a function of the false positive rate (a negative case is
+considered a false positive if the algorithm has placed one or more marks on it). LROC curve areas
+are bound to unit square, allowing to derive single measures to describe them such as AUC.
+For MammoScreen, LROC curves at the breast level are used. This allows to measure how
+performant the algorithm is at marking the correct finding within a breast (in either of the 2 views
+of the breast) as a function of the false positive breast rate (i.e., rate of placing false marks in either
+of the 2 views of a negative breast).
+In addition to FROC and LROC analysis, the performance of four detection Operating Points (OP)
+is reported. Those correspond to the three OP made corresponding to visualization levels made
+available to users via the MammoScreen user interface, using the Filtering slider (refer to section
+5.3.1.1 Filtering of findings) and corresponding to MammoScreen scores 1, 3 and 5 respectively.
+MammoScreen Score MS1 MS3 MS5
+Filtering slider Left (Lowest Middle (Lowest Right (Low Suspicion
+position Suspicion shown) Suspicion hidden) hidden)
+Soft tissue lesions
+Hologic® GE® Combined FOMGE-FOMHOL
+LROC AUC (primary) 0.837 (0.811, 0.861) 0.900 (0.884, 0.916) 0.877 (0.862, 0.890) 0.064 (0.034, 0.095)
+Sensitivity @ MS1 0.942 (0.921, 0.963) 0.976 (0.964, 0.987) 0.962 (0.951, 0.973) 0.034 (0.010, 0.060)
+Sensitivity @ MS3 0.926 (0.902, 0.949) 0.966 (0.951, 0.978) 0.950 (0.937, 0.963) 0.039 (0.012, 0.067)
+Sensitivity @ MS5 0.774 (0.735, 0.811) 0.852 (0.824, 0.879) 0.822 (0.799, 0.843) 0.080 (0.032, 0.128)
+Specificity @ MS1 0.109 (0.102, 0.116) 0.166 (0.161, 0.172) 0.150 (0.146, 0.155) 0.058 (0.048, 0.067)
+Specificity @ MS3 0.233 (0.222, 0.242) 0.222 (0.216, 0.228) 0.225 (0.219, 0.230) -0.011 (-0.022, 0.002)
+Specificity @ MS5 0.780 (0.771, 0.791) 0.801 (0.795, 0.807) 0.795 (0.790, 0.800) 0.021 (0.010, 0.032)
+FROC Sensitivity @ MS1 0.895 (0.872, 0.915) 0.952 (0.940, 0.963) 0.930 (0.918, 0.940) 0.057 (0.033, 0.081)
+Sensitivity @ MS3 0.878 (0.854, 0.901) 0.943 (0.930, 0.955) 0.918 (0.906, 0.929) 0.064 (0.038, 0.090)
+Sensitivity @ MS5 0.750 (0.718, 0.782) 0.835 (0.814, 0.855) 0.802 (0.784, 0.819) 0.084 (0.047, 0.121)
+Avg false marks @ MS1 1.819 (1.815, 1.824) 1.268 (1.266, 1.270) 1.424 (1.422, 1.426) NA
+Avg false marks @ MS3 1.182 (1.171, 1.193) 1.026 (1.021, 1.031) 1.070 (1.066, 1.075) NA
+Avg false marks @ MS5 0.294 (0.286, 0.302) 0.218 (0.214, 0.222) 0.239 (0.235, 0.243) NA
+Page 12 of 21
+510(k) submission MammoScreen™Calcifications
+Hologic® GE® Combined FOMGE-FOMHOL
+LROC AUC (primary) 0.974 (0.959, 0.985) 0.930 (0.912, 0.948) 0.942 (0.928, 0.954) -0.044 (-0.067, -0.021)
+Sensitivity @ MS1 0.994 (0.979, 1.000) 0.971 (0.953, 0.987) 0.978 (0.964, 0.989) -0.023 (-0.043, -0.001)
+Sensitivity @ MS3 0.994 (0.979, 1.000) 0.971 (0.953, 0.987) 0.978 (0.964, 0.989) -0.023 (-0.043, -0.001)
+Sensitivity @ MS5 0.962 (0.930, 0.988) 0.804 (0.764, 0.844) 0.851 (0.820, 0.879) -0.158 (-0.209, -0.108)
+Specificity @ MS1 0.549 (0.537, 0.561) 0.645 (0.638, 0.652) 0.619 (0.613, 0.625) 0.096 (0.083, 0.110)
+Specificity @ MS3 0.584 (0.573, 0.597) 0.658 (0.652, 0.665) 0.638 (0.632, 0.644) 0.074 (0.061, 0.088)
+Specificity @ MS5 0.869 (0.861, 0.878) 0.909 (0.905, 0.913) 0.898 (0.894, 0.901) 0.040 (0.031, 0.048)
+FROC Sensitivity @ MS1 0.994 (0.984, 1.000) 0.941 (0.923, 0.956) 0.957 (0.944, 0.969) -0.052 (-0.072, -0.033)
+Sensitivity @ MS3 0.994 (0.984, 1.000) 0.938 (0.920, 0.955) 0.955 (0.941, 0.968) -0.055 (-0.075, -0.036)
+Sensitivity @ MS5 0.942 (0.916, 0.968) 0.779 (0.747, 0.809) 0.828 (0.805, 0.851) -0.163 (-0.202, -0.124)
+Avg false marks @ MS1 0.870 (0.867, 0.873) 0.531 (0.529, 0.532) 0.627 (0.625, 0.628) NA
+Avg false marks @ MS3 0.753 (0.748, 0.759) 0.479 (0.477, 0.482) 0.557 (0.554, 0.559) NA
+Avg false marks @ MS5 0.238 (0.232, 0.245) 0.122 (0.119, 0.125) 0.155 (0.152, 0.158) NA
+Figure 7.5: LROC (left) and FROC (right) curves on US soft tissue lesions only.
+Page 13 of 21
+510(k) submission MammoScreen™Figure 7.6: LROC (left) and FROC (right) curves on US calcifications only.
+Page 14 of 21
+510(k) submission MammoScreen™Per-MammoScreen score analysis
+Mammogram level
+Figure 7.8 : Repartition of screening FFDM per MammoScreenTM score at mammogram level.
+Left: Repartition of screening FFDM per score for Hologic® and GE® manufacturers.
+Right: Probability of discovering a positive FFDM per score.
+Page 15 of 21
+510(k) submission MammoScreen™Breast level
+Figure 7.9: Repartition of screening FFDM per MammoScreenTM score at breast level.
+Left: Repartition of screening FFDM per score for Hologic® and GE® manufacturers.
+Right: Probability of discovering a positive FFDM per score.
+Page 16 of 21
+510(k) submission MammoScreen™Table 7.2: NPV, specificity, NPV, sensitivity at mammogram level for each of the MammoScreenTM scores on a simulated screening distribution (95% confidence interval in
+brackets).
+Hologic®
+FOM MS1 MS2 MS3 MS4 MS5 MS6 MS7 MS8 MS9 MS10
+1.0000 1.0000 0.9991 0.9984 0.9979 0.9956 0.9939 0.9928 0.9922 0.9922
+NPV (1.0000 - 1.0000)
+(1.0000 - 1.0000) (0.9987 - 0.9995) (0.9977 - 0.9991) (0.9970 - 0.9987) (0.9946 - 0.9964) (0.9927 - 0.9948) (0.9916 - 0.9938) (0.9911 - 0.9932) (0.9911 - 0.9932)
+0.0162 0.0460 0.2175 0.5632 0.7185 0.9690 0.9942 0.9987 1.0000 1.0000
+Specificity
+(0.0129 - 0.0196) (0.0390 - 0.0533) (0.2051 - 0.2309) (0.5424 - 0.5805) (0.7015 - 0.7332) (0.9627 - 0.9739) (0.9922 - 0.9968) (0.9968 - 0.9998) (1.0000 - 1.0000) (1.0000 - 1.0000)
+0.0078 0.0079 0.0082 0.0097 0.0158 0.0221 0.1049 0.2443 0.3788 1.0000
+PPV
+(0.0068 - 0.0089) (0.0069 - 0.0091) (0.0071 - 0.0094) (0.0084 - 0.0111) (0.0134 - 0.0180) (0.0185 - 0.0250) (0.0863 - 0.1267) (0.1804 - 0.3734) (0.1662 - 0.7885) (1.0000 - 1.0000)
+1.0000 1.0000 1.0000 0.9764 0.8882 0.8073 0.4584 0.2294 0.0844 0.0000
+Sensitivity (0.0000 - 0.0000)
+(1.0000 - 1.0000) (1.0000 - 1.0000) (1.0000 - 1.0000) (0.9617 - 0.9862) (0.8397 - 0.9302) (0.7331 - 0.8737) (0.4040 - 0.5177) (0.1956 - 0.2693) (0.0643 - 0.1036)
+GE®
+FOM MS1 MS2 MS3 MS4 MS5 MS6 MS7 MS8 MS9 MS10
+1.0000 1.0000 0.9996 0.9992 0.9988 0.9973 0.9965 0.9955 0.9953 0.9952
+NPV
+(1.0000 - 1.0000) (1.0000 - 1.0000) (0.9994 - 0.9997) (0.9987 - 0.9994) (0.9982 - 0.9991) (0.9969 - 0.9978) (0.9960 - 0.9969) (0.9950 - 0.9960) (0.9947 - 0.9958) (0.9947 - 0.9958)
+0.0409 0.0610 0.4238 0.6339 0.7741 0.9808 0.9973 1.0000 1.0000 1.0000
+Specificity
+(0.0372 - 0.0448) (0.0558 - 0.0655) (0.4108 - 0.4338) (0.6232 - 0.6442) (0.7659 - 0.7822) (0.9786 - 0.9838) (0.9962 - 0.9982) (1.0000 - 1.0000) (1.0000 - 1.0000) (1.0000 - 1.0000)
+0.0048 0.0050 0.0051 0.0079 0.0115 0.0166 0.1015 0.3154 1.0000 1.0000
+PPV
+(0.0042 - 0.0053) (0.0044 - 0.0055) (0.0045 - 0.0056) (0.0070 - 0.0088) (0.0103 - 0.0127) (0.0148 - 0.0184) (0.0861 - 0.1235) (0.2385 - 0.4166) (1.0000 - 1.0000) (1.0000 - 1.0000)
+1.0000 1.0000 1.0000 0.9626 0.8936 0.7992 0.4513 0.2579 0.0516 0.0078
+Sensitivity
+(1.0000 - 1.0000) (1.0000 - 1.0000) (1.0000 - 1.0000) (0.9529 - 0.9731) (0.8288 - 0.9233) (0.7325 - 0.8514) (0.4054 - 0.5004) (0.2236 - 0.2983) (0.0398 - 0.0635) (0.0035 - 0.0130)
+Page 17 of 21
+510(k) submission MammoScreen™Clinical Testing
+This investigation was a retrospective multi reader multi case study meant to compare cancer
+detection performance of radiologists reading with the aid of MammoScreen to the reading results
+of the same cohort of radiologists without any decision support.
+The main objective of this investigation was to determine whether the radiologist performance
+when using MammoScreen is superior to unaided radiologist performance for interpretation of 2D
+Full Field Digital Screening Mammograms.
+To do this, 240 mammographic screening images acquired at a US center have been collected. For
+each exam, the cancer status has been verified by either biopsy results (for all cancer positive cases
+and some of the negative cases) or an adequate follow-up (for negative cases only) and used as
+gold standard. The images have been read by 14 radiologists with and without the aid of
+MammoScreen, the interpretation of the standalone MammoScreen has been recorded as well.
+Finally, the algorithm’s interpretation, the radiologist interpretation using the help of the algorithm
+and the unaided radiologist interpretation of every mammogram have been compared to the “gold
+standard”. Those pairwise comparisons, have been used to numerically compute the primary and
+secondary endpoints (AUC under the ROC curve, Sensitivity and Specificity) to compare
+radiologist performance when using the system and without using it and standalone algorithm
+performance.
+The performance characteristics of radiologists taking part to the clinical investigation was
+improved when using MammoScreen support, with the average AUC going from 0.77 to 0.8
+(difference = 0.028; P = 0.035) (Figure 7.10.1). The AUC was higher with the aid of
+MammoScreen for 11 of the 14 radiologists (Figure 7.10.2).
+Figure 7.10.1– Average ROC curves of all readers when unassisted (blue) and assisted (orange) with
+MammoScreen.
+Page 18 of 21
+510(k) submission MammoScreen™Figure 7.10.2- Left: ROC curves of all readers when unassisted. Right: ROC curves of all readers when assisted
+with MammoScreen.
+Performances were also measured at breast and lesion level; the overall performance improvement
+was found to be statistically significant at both breast (in terms of AUC) and lesion (in terms of
+pAUC) level confirming the trend of the analysis at mammogram level (Figure 7.10.3).
+Figure 7.10.3 – Average ROC curves of all readers when unassisted (blue) and assisted (orange) with
+MammoScreen at breast level (a) and lesion level (b).
+Page 19 of 21
+510(k) submission MammoScreen™On average, reading time per case increased when using MammoScreen in both reading sessions.
+During the first session the average reading time was 60.82 seconds (95% confidence interval:
+59.25 seconds, 62.39 seconds) for the unaided reading condition and 68.65 seconds (95%
+confidence interval: 66.92 seconds, 70.39 seconds) when using MammoScreen. For the second
+reading session the average time was lower with respect to the first session, 54.52 seconds (95%
+confidence interval: 52.97 seconds, 56.07 seconds) for the unaided reading condition and 59.61
+seconds (95% confidence interval: 58.05 seconds, 61.17 seconds) when using MammoScreen.
+Differences in reading time with and without the use of MammoScreen changed as a function of
+the MammoScreen score (P < 0.05): for score equal or lower than 4 during the first reading session
+radiologists increased their reading time by 1% when using MammoScreen, while during the
+second reading session the use of MammoScreen made them decrease their reading time by 2%.
+For score higher than 4 in both reading sessions the use of MammoScreen increased the average
+reading time of about 14%, the maximum increase in reading time did not exceed 15s.
+The standalone analysis of MammoScreen has shown that the algorithm exhibits performances
+comparable (non-inferior) to those of an experienced radiologist as confirmed by the absence of
+statistical effect (p>0.05) and by the lower confidence interval of the difference of AUC being
+equal or superior to the effect size (-0.03). Indeed, the performance of the standalone
+MammoScreen (AUC = 0.79) was found to be non-inferior to the average performance of unaided
+radiologists (AUC = 0.77) (Figure 7.10.4).
+Figure 7.10.4– Comparison of unassisted radiologists, assisted radiologists, and standalone MammoScreen ROC
+curve
+Page 20 of 21
+510(k) submission MammoScreen™Conclusions
+Non-clinical and clinical performance tests demonstrate that MammoScreen is safe and effective.
+Results of the primary analysis of the clinical test demonstrate that use of MammoScreen improves
+detection of breast cancer in mammograms. Descriptively, improvement was observed to depend
+negligibly on lesion type and the total reading time was not observed to increase with the use of
+MammoScreen. In addition, the sensitivity of the readers tended to increase with the use of
+MammoScreen without decreasing specificity.
+Radiologists improved their diagnostic performance in the detection of breast cancer with 2D
+FFDM (Full-Field Digital Mammography) by using MammoScreen. The overall conclusion of this
+clinical investigation is that the MammoScreen improves the diagnostic performance of
+radiologists in the detection of breast cancer without slowing down their average reading time.
+Finally, in standalone testing, MammoScreen breast cancer detection performance was observed
+to approach the average performance of the clinical study radiologists when reading mammograms
+unaided.
+Based on the Intended Use, Indications for Use, product technical information, performance
+evaluation, and standards compliance provided in this premarket notification, MammoScreen has
+been shown to be substantially equivalent to the cited predicate device.
+Page 21 of 21
+510(k) submission MammoScreen™

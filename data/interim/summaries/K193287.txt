@@ -1,0 +1,226 @@
+November 20, 2020
+ADM Diagnostics, Inc.
+℅ Robin Martin
+Co-Founder, Regulatory Strategist
+Kinetic Compliance Solutions, LLC
+PO Box 2134
+MILWAUKEE WI 53201
+Re: K193287
+Trade/Device Name: CorInsights MRI
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: October 15, 2020
+Received: October 19, 2020
+Dear Robin Martin:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.20
+Silver Spring, MD 20993
+www.fda.govK193287 - Robin Martin Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary K193287
+Submission Date: November 18, 2020
+Submitter Information:
+Submitted By: Dawn Matthews, CEO
+ADM Diagnostics, Inc.
+555 Skokie Blvd; Suite 500
+Northbrook, IL 60062
+Secondary Contact: Robin Martin
+Kinetic Compliance Solutions, LLC
+Milwaukee, WI 53201
+Device Information:
+Trade Name: CorInsights MRI
+Common Name: Medical Image Processing Software
+Classification Name: System, Image Processing, Radiological, Picture archiving and
+communication system
+Device Classification: 21 CFR 892.2050
+Predicate Device(s): K170981 NeuroQuant
+LLZ
+Device Description: CorInsights MRI is a fully automated MR medical image
+processing software intended for automatic labeling, visualization
+and volumetric quantification of identifiable brain structures from
+DICOM formatted magnetic resonance images. The resulting
+output consists of a pdf report for review, which can be used in
+research and clinical use, and a DICOM image showing the
+anatomical structure boundaries identified by the software.
+The proposed device provides morphometric measurements based
+on T1 MRI series. The output of this software only device includes
+morphometric reports that provide comparison of measured
+volumes to age and gender-matched reference data and an image
+volume that has been annotated with color overlays representing
+each segmented region.The architecture has a proprietary automated internal process that
+includes artifact correction, atlas-based segmentation, volume
+calculation, and report generation.
+Quality control measures include automated quality control
+including image header checks to verify that the scan acquisition
+protocol and provided data adhere to system requirements, an
+image morphometry check, a tissue contrast check, and value
+range checks.
+Indications for Use: The CorInsights MRI Medical Image Processing Software is
+intended for automatic labeling, visualization and volumetric
+quantification of segmentable brain structures from MR images.
+Volumetric measurements are compared to reference percentile
+data. CorInsights MRI is intended for adults age 45 to 95.
+Comparison to Predicate: Functionally, both devices include the ability to automatically
+label, visualize and conduct volumetric quantification of
+segmentable brain structures from MR images. Performance
+testing outlined below demonstrated equivalent performance in
+segmentation accuracy and reproducibility compared to published
+predicate values.
+The predicate device indications include lesion analysis. The
+proposed CorInsights MRI does not. There is no significant impact
+to safety or efficacy based on this.
+Both systems are used by medical professionals, such as
+radiologists, neurologists and neuroradiologists, as well as by
+clinical researchers, as a support tool in assessment of structural
+MRIs.
+The proposed device employs the same fundamental scientific
+technology and the change in indications does not impact the
+intended use of the device.
+Performance Testing: No mandatory performance standards have been established for
+this device (Section 514 of the Act).
+The following testing was conducted / standards complied with to
+support the substantial equivalence of the proposed device to the
+predicate: Software testing was conducted to verify performance in accordance
+with FDA’s guidance document entitled “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.”
+ In addition, the following standard was followed for DICOM
+Conformance: DICOM NEMA PS 3.1 - 3.20 (2016)
+Digital Imaging and Communications in Medicine (DICOM) Set
+ Animal testing was not required to demonstrate substantial
+equivalence for the CorInsights MRI device.
+ Performance Validation: The following performance data was
+analyzed to support substantial equivalence:
+Category Performance
+Accuracy
+CorInsights MRI hippocampal volume accuracy was tested using 80 subjects
+from the HaRP database as ground truth (Boccardi, et al.).
+ CorInsights MRI measured hippocampal volume with an IntraClass
+Correlation coefficient of 0.95 and a DICE coefficient of 83% left (standard
+deviation 2.5%) and 83% right (standard deviation 2.7%) and a mean
+absolute percentage difference of 6.2% left (standard deviation 4.4%) and
+5.9% right (standard deviation 5.1%) as compared to ground truth volumes.
+CorInsights MRI cortical segmentation accuracy was tested using 80
+subjects from a variety of databases with manual ground truth segmentation
+generated by neuroanatomy experts.
+ CorInsights MRI measured total gray volume with an IntraClass Correlation
+coefficient of 0.99, a DICE coefficient of 95% (standard deviation 1.6%),
+and a mean absolute percentage difference of 4.5% (standard deviation,
+1.8%).
+ CorInsights MRI measured cortical subregions with DICE coefficients
+ranging from 81-93% and a mean absolute percentage difference range of
+4.6% to 13.8% across all regions.
+CorInsights MRI Intracranial Volume (ICV) and ventricular accuracy were tested
+using an additional 70 subjects from a variety of databases with manual ground
+truth segmentation generated by neuroanatomy experts.
+ CorInsights MRI measured ICV with an IntraClass Correlation coefficient
+of 0.89, a DICE coefficient of 95% (standard deviation 1.1%) and a mean
+absolute percentage difference of 5.2% (standard deviation of 4.4%).
+ CorInsights MRI measured ventricular accuracy with an IntraClass
+Correlation coefficient of 0.98 (left and right), a DICE coefficient of 88%
+left (standard deviation 5.2%) and 87% right (standard deviation 5.6%) and
+a mean absolute percentage difference of 13.9% left (standard deviationCategory Performance
+9.2%) and 15.2% right (standard deviation 9.9%) compared to ground truth
+volumes.
+Reproducibility
+In test-retest processing of two different scans from the same subject on
+the same scanner on the same day, CorInsights MRI measured volumes
+with an average IntraClass Correlation coefficient of 0.97, a DICE
+coefficient of 89% (standard deviation 4.0%) and a mean absolute
+percentage difference range of 0.7% to 5.8% with an average of 2.3%
+(standard deviation 2.7%) across all volumes listed in its report.
+Normative The CorInsights MRI reference database was developed using T1 weighted MRI
+Reference scans from 269 male and 331 female individuals of age 42 to 95 who were
+Database clinically diagnosed to be cognitively normal.
+Development
+In addition, these individuals were confirmed to be negative for amyloid pathology,
+and negative for a variety of other potential confounding abnormalities including
+overt vascular disease as evidenced by white matter lesions, stroke or tumor,
+normal pressure hydrocephalus, and with no history of traumatic brain injury or
+severe neuropsychiatric illness as documented with the data set or provided in the
+data set’s inclusion criteria. This screening was performed to ensure that the
+CorInsights MRI reference represented normal values without potential influence
+by disease, even when asymptomatic.
+Validation of Testing of CorInsights MRI included scans acquired from scanners with 1.5T and
+Volume 3T field strengths, using accelerated and non-accelerated acquisition sequences,
+Measurement and representing a variety of scanner models from Siemens, GE, and Philips.
+in Clinically
+Relevant Cases Validation testing was conducted using patient scans from ages 45 to 95, with a
+broad spectrum of clinical diagnoses including cognitively normal, Mild Cognitive
+Impairment, typical and atypical Alzheimer’s disease, and non-Alzheimer’s
+dementias. Alzheimer’s disease (AD) cases (confirmed for amyloid positivity)
+included late onset AD, Early Onset AD, Posterior Cortical Atrophy (PCA),
+Logopenic Progressive Aphasia, and Corticobasal Syndrome. Non-Alzheimer’s
+cases included behavioral variant (bv) Frontotemporal Dementia (FTD), semantic
+variant (sv) FTD, Nonfluent Primary Progressive Aphasia, Primary Progressive
+Aphasia (other), amyloid negative Corticobasal Syndrome, vascular disease,
+moderate to severe white matter disease, and ventricular enlargement. Mild
+Cognitive Impairment (MCI) cases included early MCI, late MCI, and persons who
+converted to a clinical diagnosis of dementia at 12 months post-scan.Category Performance
+Volumes measured by CorInsights MRI were tested using normal subject scans, as
+well as data sets expected to have below normal gray tissue volumes or above
+normal ventricle volumes based upon well-established literature. These data sets
+included individuals with diagnoses of MCI, MCI who converted to a clinical
+diagnosis of AD at 12 months post-scan, late onset AD, Early Onset AD, bvFTD,
+svFTD, and PCA. CorInsights MRI values were compared to the percentile and z-
+score ranges expected based upon peer reviewed published literature for these data
+sets, and were confirmed to be in these ranges. Relationships between regions
+based on z-score ranking were also compared to published data and were in
+agreement with the literature. In all cases, the cognitively normal test group was
+confirmed not to differ from the normative reference group or reference values.
+In total, more than 1,400 scans from over 1,100 individuals were used in testing of
+CorInsights MRI.
+Clinical: A clinical investigation was not required to demonstrate substantial
+equivalence to the predicate device.
+Conclusion: The above testing supports that the proposed device is as safe,
+effective and performs as well as the legally marketed predicate in
+its intended use. Therefore, the proposed device is substantially
+equivalent to the predicate.

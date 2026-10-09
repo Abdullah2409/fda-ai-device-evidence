@@ -1,0 +1,474 @@
+September 8, 2023
+CorVista Health, Inc.
+Gabrielle Zaeska
+Vice President Regulatory Affairs
+7144 13th Place NW, Suite 2200
+Washington, District of Columbia 20012
+Re: K232686
+Trade/Device Name: CorVista® System
+Regulation Number: 21 CFR 870.2380
+Regulation Name: Cardiovascular machine learning-based notification software
+Regulatory Class: Class II
+Product Code: QXX, DQK
+Dated: September 1, 2023
+Received: September 1, 2023
+Dear Gabrielle Zaeska:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK232686 - Gabrielle Zaeska Page 2
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Stephen C. Browning -S
+LCDR Stephen Browning
+Assistant Director
+Division of Cardiac Electrophysiology,
+Diagnostics and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureCorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Summary of 510(k)
+CorVista Health, Inc. [510(k) Number - K232686]
+This 510(k) Summary is in conformance with 21 CFR 807.92
+Submitter: CorVista Health, Inc. (“CorVista Health”)
+7144 13th Place NW, Suite 200
+Washington, DC 20012
+Phone: 919-619-7581
+Fax: 919-573-9105
+Primary Contact: Gabrielle Zaeska
+Vice President, Regulatory Affairs & Quality
+CorVista Health, Inc.
+Email: gzaeska@corvista.com
+Phone: 612-267-5004
+Fax: 919-573-9105
+Alternate Contact: Tom McDougal
+Principal Regulatory Affairs Specialist
+CorVista Health, Inc.
+Email: tmcdougal@corvista.com
+Phone: 919-813-2724 ext 1058
+Fax: 919-573-9105
+Date Prepared: 1 September 2023
+Trade Name: CorVista® System
+Common Name: Cardiovascular machine learning-based notification software
+Classification: Class II
+Regulation Number: 21 CFR 870.2380
+Classification Panel: Cardiovascular
+Product Code: QXX
+Subsequent Product Code: DQK
+CorVista® System Traditional 510(k) Page 1 of 12CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Predicate Device:
+Predicate
+Trade / Device Name Viz HCM
+510(k) Submitter / Holder Viz.ai, Inc.
+510(k) Number DEN230003
+Regulation Number 21 CFR 870.2380
+Classification Panel Cardiovascular
+Product Code QXO
+The predicate device has not been subject to a design-related recall.
+Device Description
+The CorVista® System is a non-invasive medical device system comprised of several hardware
+and software components that are designed to work together to allow a physician to evaluate the
+patient for the presence of cardiac disease, or cardiac disease indicators, using a static detection
+algorithm.
+The CorVista System has a modular design, where disease-specific “Add-On Modules” will
+integrate with a single platform, the CorVista Base System, to realize its intended use. The
+CorVista Base System is a combination of hardware, firmware, and software components with the
+functionality to acquire, transmit, store, and analyze data, and to generate a report for display in a
+secure web-based portal. The architecture of the CorVista Base system allows for integration with
+indication-specific “Add-Ons” which perform data analysis using a machine learned detection
+algorithm to indicate the likelihood of specific diseases at point of care. The CAD Add-On
+indicates the likelihood of significant Coronary Artery Disease (CAD). The analysis is presented
+for interpretation by healthcare providers in conjunction with their clinical judgment, the patient’s
+signs, symptoms, and clinical history as an aid in diagnosis.
+Indications for Use
+The CorVista® System analyzes sensor-acquired physiological signals of patients presenting with
+cardiovascular symptoms (such as chest pain, dyspnea, fatigue) to indicate the likelihood of
+significant coronary artery disease. The analysis is presented for interpretation by healthcare
+providers in conjunction with their clinical judgment, the patient’s signs, symptoms, and clinical
+history as an aid in diagnosis.
+Substantial Equivalence
+The CorVista System is substantially equivalent to its predicate device, Viz HCM (DEN230003).
+The table below provides a detailed comparison of the CorVista System to the predicate device.
+CorVista® System Traditional 510(k) Page 2 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Table 1. Detailed Comparison of the Subject and Predicate Device
+Characteristic Subject Device Chosen Predicate Device with Comparison
+Justification
+Intended Use The CorVista® System is Viz HCM is intended to non- Same
+intended to non-invasively invasively analyze physiological
+analyze physiological signals signals using machine learning
+using machine learning techniques to suggest the
+techniques to indicate the likelihood of a cardiovascular
+likelihood of a cardiovascular disease or condition
+disease or condition
+Indications for Use The CorVista® System Viz HCM is intended to be used in Different - This difference does
+analyzes sensor-acquired parallel to the standard of care to not change the intended use of the
+physiological signals of patients analyze recordings of 12-lead device. The safety and
+presenting with cardiovascular ECG made on compatible ECG effectiveness of the CorVista
+symptoms (such as chest pain, devices. Viz HCM is capable of System in its intended use
+dyspnea, fatigue) to indicate the analyzing the ECG, detecting signs population has been confirmed
+likelihood of associated with hypertrophic through testing.
+significant coronary artery cardiomyopathy (HCM), and
+disease. The analysis is allowing the user to view the ECG
+presented for interpretation by and analysis results. Viz HCM is Any differences in the indications
+healthcare providers in indicated for use on 12-lead ECG for use do not affect the safety and
+conjunction with their clinical recordings collected from patients effectiveness of the CorVista
+judgment, the patient’s signs, 18 years of age or older. Viz HCM System and have been addressed
+symptoms, and clinical history is not intended for use on patients through clinical and bench testing
+a s an aid in diagnosis. with implanted pacemakers. and supported by general and
+special controls.
+Viz HCM is limited to analysis of
+ECG data and should not be used
+in-lieu of full patient evaluation or
+relied upon to make or confirm
+diagnosis. Viz HCM identifies
+patients for further HCM follow-
+up and does not replace the current
+CorVista® System Traditional 510(k) Page 3 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Characteristic Subject Device Chosen Predicate Device with Comparison
+Justification
+standard of care methods for
+diagnosis of HCM. The results of
+the device are not intended to rule-
+out HCM follow-up.
+Product Codes (primary) QXX (primary predicate) QXO Different – codes reflect the
+(21 CFR 870.2380) (21 CFR 870.2380) disease state detected and
+hardware components. This
+difference does not change the
+(subsequent product code) (reference predicates) intended use of the device
+DQK DQK
+(21 CFR 870.1425) (21 CFR 870.1425)
+Operation Mode Spot-check Viz HCM (DEN230003) Same
+Spot-check
+Motion Non-motion HemoSphere Advanced Same
+Monitoring Platform, HemoSphere
+ClearSight Module (K201446) and
+Workmate Claris™ System v1.2
+(K210392)
+Both secondary predicates are
+i ntended for non-motion.
+Patient Population Adult patients presenting with Viz HCM (DEN230003) Different - This difference does
+cardiovascular symptoms not change the intended use of the
+Adult patients device. The safety and
+effectiveness of the CorVista
+System in its intended use
+population has been confirmed
+through testing.
+CorVista® System Traditional 510(k) Page 4 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Characteristic Subject Device Chosen Predicate Device with Comparison
+Justification
+Environment of Use Professional healthcare Viz HCM (DEN230003) Same
+environment (i.e., local
+physician offices, clinics and Hospital and pre-hospital settings
+hospital settings) with cellular
+or Wifi
+Prescription vs. Off- Prescription Viz HCM (DEN230003) Same
+the-Shelf
+Prescription
+Technological Characteristics
+Algorithm Machine learning-based Viz HCM (DEN230003) Same
+algorithm
+Machine learning-based algorithm
+Algorithm Calculation Likelihood of significant CAD Viz HCM (DEN230003) Different – The output of the
+and Output derived from calculated VCG CorVista System provides users
+and PPG features and patient Presence of signs of HCM derived with the likelihood of significant
+demographics. from ECG signal. CAD for a given patient. The
+primary predicate indicates the
+presence of signs of HCM. These
+signs are equivalent in concept to
+the calculated features that are
+used as the inputs to the CorVista
+machine-learning process and
+resultant algorithm. Both devices
+process signals to provide
+information to users on
+cardiovascular disease and as such
+the intended use is not impacted
+by this difference. The safety and
+effectiveness of the CorVista
+System has been confirmed
+through testing.
+CorVista® System Traditional 510(k) Page 5 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Characteristic Subject Device Chosen Predicate Device with Comparison
+Justification
+Ground Truth for Guideline-driven ground truth Viz HCM (DEN230003) Different – The validation of the
+Model Training and via invasive catheterization or two devices differs in the level of
+Validation core-lab adjudicated CTA Cardiologist-adjudicated signs of a ground truth that is used to
+disease from ECG waveform validate performance. The
+CorVista System has been
+validated using the patient’s
+disease state as ground truth, while
+the predicate device utilizes the
+presence of signs that suggest
+disease. This difference does not
+impact the shared general intended
+use of providing information on
+cardiovascular status. The safety
+and effectiveness of the CorVista
+System has been confirmed
+through testing.
+Measured Synchronously acquired cardiac HemoSphere Advanced Same – The measured
+Physiological electrical signals (acquired in Monitoring Platform, HemoSphere physiological parameters of the
+Parameters orthogonal axes via VCG) and ClearSight Module (K201446) and CorVista System are a subset of
+hemodynamic signals (acquired Workmate Claris™ System v1.2 those measured by the secondary
+via photoplethysmography (K210392) predicate devices. The safety and
+(PPG)) effectiveness of the CorVista
+K210392: System has been confirmed
+Oximetry, heart rate, and through testing.
+additional cardiovascular
+parameters (e.g., blood pressure,
+oxygen delivery, etc.)
+K201446:
+Electrocardiograph and
+intracardiac electrical signals
+CorVista® System Traditional 510(k) Page 6 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Characteristic Subject Device Chosen Predicate Device with Comparison
+Justification
+Data Displayed Likelihood of significant Viz HCM (DEN230003) Different - Display of the
+Coronary Artery Disease likelihood of disease is of superior
+(CAD) Notification Flag for patients who diagnostic value compared to a
+require further HCM follow-up notification flag used in the
+predicate device, therefore the
+safety and effectiveness is non-
+inferior compared to the predicate.
+The clinical performance of the
+CorVista System for the intended
+disease and output has been
+confirmed through testing.
+Application Site Trunk & Digits HemoSphere Advanced Same – The CorVista System
+Monitoring Platform, HemoSphere utilizes a subset of the application
+ClearSight Module (K201446) and sites utilized by the secondary
+Workmate Claris™ System v1.2 predicate devices.
+(K210392)
+The secondary predicates have
+application sites including the
+Trunk (K210392) and Digits
+(K201446).
+Data Output Tablet easy-to-read display Viz HCM (DEN230003) Different - This difference does
+(LCD), Mobile App, and Web not change the intended use of the
+App Mobile app device. The safety and
+effectiveness of the CorVista
+System has been confirmed
+through testing.
+CorVista® System Traditional 510(k) Page 7 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Characteristic Subject Device Chosen Predicate Device with Comparison
+Justification
+Hardware Seven-Channel Lead Set, HemoSphere Advanced Different - This difference does
+PPG Sensor, Monitoring Platform, HemoSphere not change the intended use of the
+Capture Device (Tablet) ClearSight Module (K201446) and device. The safety and
+Workmate Claris™ System v1.2 effectiveness of the CorVista
+(K210392) System has been confirmed
+through testing.
+The secondary predicates utilize
+lead sets, oximeter cables,
+computer systems, etc.
+Software CorVista Health Proprietary Viz HCM (DEN230003) Different - This difference does
+Algorithm, not change the intended use of the
+CorVista Health Proprietary Viz.ai Proprietary Algorithm, device. The safety and
+Application Viz.ai Proprietary Application effectiveness of the CorVista
+System has been confirmed
+through testing.
+Physical
+Degree of Protection Type CF – Applied Part HemoSphere Advanced Same – The degree of protection
+Against Electric Shock Monitoring Platform, HemoSphere against electrical shock is the same
+ClearSight Module (K201446) and as the secondary predicate devices
+Workmate Claris™ System v1.2 and is appropriate for the intended
+(K210392) use environment. The safety and
+effectiveness of the CorVista
+Type BF and CF Applied Parts System has been confirmed
+(K201446) through testing.
+Type CF – Applied Part
+( K210392)
+CorVista® System Traditional 510(k) Page 8 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Characteristic Subject Device Chosen Predicate Device with Comparison
+Justification
+Functional and Safety IEC 60601-1 HemoSphere Advanced Different - This difference does
+Testing IEC 60601-1-2 Monitoring Platform, HemoSphere not change the intended use of the
+IEC 60601-2-25 ClearSight Module (K201446) and device. All devices completed
+IEC 80601-2-61 Workmate Claris™ System v1.2 Functional and Safety testing
+IEC 60259 (K210392) pursuant to their design and
+IEC 62133 intended use. The safety and
+AIM 7351731 K201446: effectiveness of the CorVista
+ANSI IEEE C63.27 IEC 60601-1 System has been confirmed
+FCC 47CFR Part 15 Subpart C IEC 60601-1-2 through testing.
+IEC 60601-1-6
+IEC 60601-1-8
+IEC 60601-2-34
+IEC 60601-2-57
+IEC 60601-2-49
+IEC 80601-2-49
+Wireless Co-existence
+K210392:
+IEC 60601-1
+I EC 60601-1-2
+Biocompatibility ISO 10993 HemoSphere Advanced Different - This difference does
+Surface contact Monitoring Platform, HemoSphere not change the intended use of the
+Skin ClearSight Module (K201446) and device. All devices completed
+Limited duration (<24 hours) Workmate Claris™ System v1.2 biocompatibility testing pursuant
+(K210392) to their level of patient contact.
+The safety and effectiveness of the
+K201446: ISO 10993 (via CorVista System has been
+predicates) confirmed through testing.
+K210392: Connected devices
+completed biocompatibility
+CorVista® System Traditional 510(k) Page 9 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+Summary of Non-Clinical Testing
+As part of the product development process and risk assessment, a series of non-clinical
+verification/validation testing and supplemental studies were conducted on both the hardware
+and software features of the CorVista System to ensure the device operates as intended. As
+summarized below, all the studies demonstrated acceptable performance to the protocols tested.
+• Software Verification and Validation: The CorVista Base System and CAD Add-On
+Module underwent verification and validation testing to demonstrate the software
+operates and performs according to written and pre-approved specifications. Results of
+the CorVista Base System and CAD Add-On Module verification and validation testing
+demonstrate acceptance criteria were met.
+• Performance Bench Testing: A series of standard bench testing has been performed on
+the CorVista Base System including battery lifecycle, signal quality, wireless
+coexistence, label integrity, and other functional verification. All studies demonstrated
+acceptance criteria were met.
+• Electrical & EMC Safety Testing: Electrical and EMC safety testing has been performed
+on the CorVista Base System. All studies demonstrated acceptance criteria were met. All
+elements of the CorVista System were determined to meet acceptable performance to the
+following standards:
+o IEC 60601-1
+o IEC 60601-1-2
+o IEC 60601-2-25
+o IEC 80601-2-61
+o IEC 60259
+o IEC 62133
+o EC53:2013
+o AIM 7351731
+o ANSI IEEE C63.27
+o FCC 47CFR Part 15 Subpart C
+• Biocompatibility: CorVista Health conducted biocompatibility testing in accordance with
+FDA’s Guidance “Use of International Standard ISO 10993-1, ‘Biological evaluation of
+medical devices - Part 1: Evaluation and testing within a risk management process’” and
+ISO 10993-1:2018. The following biocompatibility testing was successfully completed
+on the CorVista Capture™ device’s patient contacting materials:
+o Cytotoxicity – MEM Elution Testing per ISO 10993-5:2009, Biological
+Evaluation of Medical Devices-Part 5: Tests for In Vitro Cytotoxicity
+o Maximization Testing for Delayed-Type Hypersensitivity in Hartley Guinea Pigs
+per ISO 10993-10:2010, Biological Evaluation of Medical Devices – Tests for
+Irritation and Skin Sensitization
+o Intracutaneous (Intradermal) Reactivity Testing in New Zealand White Rabbits
+per ISO 10993-10:2010, Biological Evaluation of Medical Devices – Tests for
+Irritation and Skin Sensitization
+CorVista® System Traditional 510(k) Page 10 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+• Human Factors / Usability: CorVista Health conducted Human Factors / Usability testing
+in accordance with FDA’s Guidance “Applying Human Factors and Usability
+Engineering to Medical Devices.” Human Factors / Usability Testing was conducted in
+two different studies to cover the CorVista System and CAD Add-On Module.
+• Shelf Life / Cleaning Validation: CorVista Health conducted studies to support the shelf
+life and cleaning of the CorVista System.
+o A cleaning validation study of the CorVista System was conducted utilizing
+FDA’s Guidance “Reprocessing Medical Devices in Health Care Settings:
+Validation Methods and Labeling,” AAMI TIR 12: 2020, AAMI TIR 30: 2011,
+ASTM F3208-20, and ASTM F3293-18. Based on the results of this validation,
+the CorVista Base System can be cleaned effectively following the Instructions
+for Use.
+o An accelerated aging study was conducted in accordance with ASTM F1980 to
+simulate a 2-year shelf life. Test results demonstrated that the device is safe and
+effective for use throughout a 2-year use life.
+Summary of Clinical Testing
+The performance of the CorVista® System to indicate the likelihood of significant coronary artery
+disease (CAD) was evaluated through subgroups enrolled in a prospective, multicenter, non-
+randomized, repository study. The study was designed to collect and store acquired physiological
+signals paired with subject meta-data, including clinical outcomes data from subjects within the
+intended use population. The study included IRB approved clinical protocols with informed
+consent for each patient. All subjects were consecutively and prospectively enrolled and met the
+established inclusion/exclusion criteria.
+Male and female study subjects (N=1,816) were enrolled into two groups based on their reference
+standard (invasive coronary angiography (ICA) and Computed Tomography Angiography (CTA)).
+These subjects were divided into populations A and B for Sensitivity and Specificity testing:
+• Population A (found to be positive for significant CAD+): Used for Sensitivity Testing.
+• Population B (subjects determined to be negative for significant CAD-): Used for
+Specificity Testing.
+Sensor-acquired physiological signals were collected from the subjects using the CorVista
+Capture™ device based on the scheduling of their diagnostic imaging procedure. To assess device
+performance in the intended use population, the actual CAD classification (CAD+ or CAD-) of
+each subject (as determined by their reference procedure) was compared to the algorithm
+prediction results derived from the CorVista System with CAD Add-On Module.
+The validation population (A and B) used for performance testing included symptomatic subjects
+with a range of cardiovascular symptoms and risks factors which prompted the use of ICA and
+CTA for CAD evaluation. The diagnostic performance of the CorVista System in this broad
+CorVista® System Traditional 510(k) Page 11 of 12
+K232686CorVista® System Traditional 510(k) Request
+CorVista Health, Inc. Summary of 510(k)
+population was demonstrated to be 88% sensitivity and 51% specificity, with a 0.80 AUC-ROC.
+These results are comparable to the rule out performance of coronary computed tomography
+angiography (CCTA). The CorVista System is designed to be used in conjunction with the
+healthcare provider’s clinical judgment, the patient’s signs, symptoms, and clinical history as an
+aid in diagnosis. Please refer to the Instructions for Use for further information.
+CVH further conducted an evaluation of repeatability and reproducibility of the CAD Add-On
+output (i.e., CAD Score) using subjects prospectively enrolled in the IDENTIFY study. For
+repeatability, subjects had 5 signals collected by the same study coordinator according to the
+Instructions for Use. For reproducibility, subjects had 3 signals collected, with each signal being
+collected by a different study coordinator. The resulting statistics demonstrate that the CorVista
+System produces CAD score results that are both repeatable and reproducible.
+Substantial Equivalence Conclusion
+The CorVista System has an identical intended use to the legally marketed predicate device
+(DEN230003). Differences between the CorVista System and the predicate device
+(DEN230003) do not raise new questions of safety or effectiveness. Based on the clinical
+testing, non-clinical performance and safety testing of the CorVista System, the CorVista System
+is substantially equivalent to the legally marketed predicate device (DEN230003).
+CorVista® System Traditional 510(k) Page 12 of 12
+K232686

@@ -1,0 +1,434 @@
+TeraRecon, Inc. July 12, 2019
+℅ Megha Jain
+QARA Manager
+4000 East, 3rd Ave, Suite 200
+FOSTER CITY CA 94402
+Re: K191585
+Trade/Device Name: iNtuition-Structural Heart Module
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: June 11, 2019
+Received: June 14, 2019
+Dear Megha Jain:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.05
+Silver Spring, MD 20993
+www.fda.govK191585 - Megha Jain Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure4.4TeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+K191585
+Date of Summary: 09 July 2019
+510(k) Summary of Safety and Effectiveness
+iNtuition-Structural Heart Module
+(As required by 21 CFR 807.92(c))
+Submitter: TeraRecon, Inc. Contact erson: Magha Jain
+Applicant: 4000 E 3rd Ave, Suite 200 QARA Manager
+Sponsor: Foster City, CA 94402 Ph: 650 -372-1100
+Establishment: Fax: 650 -372-1101
+Registration#: 2954793 Email: mjain@terarecon.com
+Device Information:
+Name of Device: iNtuition-Structural Heart Module
+Common Name: Medical Imaging System
+Classification Name: § 892.2050, Picture Archiving and Communications System
+Product Code: LLZ
+Classification Panel: Radiology
+Device Classification: Class II
+Predicate Devices::
+- 3mensio Workstation (K153736) (Primary predicate device)
+- iNtuition (K121916) (Secondary predicate device)
+Indications for Use:
+iNtuition-Structural Heart Module is a software solution that is intended to assist
+Cardiologists, Radiologists and Clinical Specialists with the visualization and measurements
+of structures of the heart and vessels.
+iNtuition-Structural Heart Module enables the user to:
+• Visualize and measure (diameters, lengths, angles, areas and volumes) structures of
+the heart and vessels for pre-operative planning and sizing for cardiovascular
+interventions and surgery, and for post-operative evaluation.
+• Quantify calcium (volume, density).
+iNtuition-Structural Heart Module has the following tools and features that facilitate:
+• Automatic and manual centerline detection.
+• Segmentation of cardiovascular structures.
+• Measurement tools (diameters, lengths, areas, volumes, angles) for the dimensions
+of vessels and structures.
+5-1TeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+• Calcium quantification and scoring.
+• Various visualization techniques: 2D/3D/4D visualization, MPR, Curved MPR,
+Stretched MPR, MIP, MinIP, Raysum and MAR.
+• Capture and Report.
+Device Description:
+iNtuition-Structural Heart Module is an optional image post-processing software module
+using iNtuition (K121916) standard features and part of its optional features. It is a software
+device generally used with the off-the-shelf hardware, offered in various configurations, with
+the simplest configuration being a stand-alone workstation capable of image review,
+communications, archiving, database maintenance, remote review, reporting and basic 3D
+capabilities. It can also be configured as a server with some, or with all, or none of its optional
+features.
+Whether provided as a workstation or a server, the iNtuition-Structural Heart Module software
+is designed to provide access by a local user physically sitting at the computer hosting the
+iNtuition server software, and/or by one or more remote users who concurrently connect to the
+server using a freely-downloadable thin client application or through a zero-footprint web
+viewer (with conference capabilities) over local network or internet.
+iNtuition-Structural Heart Module is iNtuition (K121916) based optional feature and employs
+all standard features offered by iNtuition such as convenient image manipulation tools like
+drawing of region of interests, manual and automatic segmentation of structures, image
+assessment and measurement tools – linear, diameter, perimeter, angle, area and volume and
+tools that support the creation of reports, transmitting and storing this report in digital form
+and tracking historical information about the studies analyzed by the software. iNtuition
+Vessel analysis and calcium scoring features are utilized to support automatic and manual
+centerline extraction and analysis and calcium quantification.
+iNtuition-Structural Heart Module:
+• Supports the visualization and quantification of coronary vessels and cardiac
+structures for anatomic and pre- or post-operative evaluations through guided clinical
+workflows.
+• Enables the assessment and measurement of different structures of the heart, e.g.
+aorta, aortic valves, mitral valve, pulmonic valve, atria and atrial appendages, and
+ventricles.
+• Provides analysis of the feasibility of a transapical, transfemoral or subclavian
+approach to structures for replacement or repair procedures via 3D measurements.
+• Uses the same iNtuition (K121916) Vessel Analysis and Calcium modules.Enables
+5-2TeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+assessment and measurement of vessels and can help identify calcifications, aneurysms
+and other anomalies to quickly and reliably prepare for various types of vascular
+procedures.Supports the creation, transmission and storage of a report in digital form. It
+can also track historical information about the studies analyzed by the software.Displays
+results analysis, that can be printed as hardcopy or saved in a variety of formats to a
+hard disk, network, PACS system or CD/DVD/USB.
+Comparison Technological Characteristics:
+A comparison of the technological characteristics of the predicates and subject device is given in
+the table below:
+New Device Predicate Device Predicate Device
+(Secondary) (Primary)
+Device Name iNtuition-Structural Heart iNtuition 3mensio Workstation
+Module
+Manufacturer Terarecon, Inc. Terarecon, Inc. Pie Medical Imaging
+510(k) Number K191585 K121916 K153736
+Indication for Use
+iNtuition-Structural Heart - To receive, store, transmit, 3mensio Workstation enables
+Module is a software solution post- process, display and visualization and measurement
+that is intended to assist allow manipulation of of structures of the heart and
+Cardiologists, Radiologists and reports and medical images vessels for:
+Clinical Specialists with the from acquisition devices, - Pre-operational planning
+visualization and measurements including optical or other and sizing for
+of structures of the heart and non-DICOM format images, cardiovascular
+vessels. DICOM images with interventions and surgery
+modality type XA, US, CR, - Postoperative evaluation
+iNtuition-Structural Heart DR, SPECT, NM and MG, - Support of clinical
+Module enables the user to: and images from volumetric
+diagnosis by quantifying
+medical scanning devices
+dimensions in coronary
+Indications for Use - Visualize and measure such as EBT, CT, PET or
+arteries
+(diameters, lengths, angles, MRI. To provide access to
+- Support of clinical
+areas and volumes) images derived data and
+diagnosis by quantifying
+structures of the heart and derived images via client-
+calcifications (calcium
+vessels for pre- operative server software, web
+scoring) in the coronary
+planning and sizing for browser and mobile
+arteries
+cardiovascular technology.
+interventions and surgery,
+- To facilitate the above, the
+and for post- operative - Visualization in 2D/3D and
+3mensio Workstation provides
+evaluation. 4D are supported for single
+general functionality such as:
+- Quantify calcium (volume, or multiple datasets. or
+- Segmentation of
+density) combinations thereof. Tools
+cardiovascular structures
+are provided to define and
+- iNtuition-Structural Heart edit paths through structures - Automatic and manual
+Module has the following tools such as center lines, which centerline detection
+and features that facilitate: may be used to analyze - Visualization and image-
+- Automatic and manual cross- sections of structures, reconstruction techniques:
+or to provide flythrough 2D review, Volume
+centerline detection.
+visualizations rendered Rendering, MPR, Curved
+- Segmentation of cardiovascular
+along such a centerline. MPR, Stretched CMRP,
+structures.
+5-3TeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+- Measurement tools (diameters, Segmentation of regions of Slabbing, MIP, AIP,
+- lengths, areas, volumes, angles) interest and quantitative MinIP
+analysis tools are provided,
+for images of vasculature,
+pathology and morphology,
+including distance, angle,
+volume, histogram, ratios
+thereof, and tracking of
+quantities over time. A
+database is provided to track
+and compare results using
+published comparison
+techniques such as RECIST
+and WHO. Calcium scoring
+for quantification of
+atherosclerotic plaque is
+supported.
+5-4TeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+New Device Predicate Device Predicate Device
+(Secondary) (Primary)
+for the dimensions of vessels Support is provided for digital Measurement and annotation
+and structures. image processing to derive tools
+Calcium quantification and metadata or new images from input Reporting tools
+scoring. image sets, for internal use or for
+Various visualization forwarding to other devices using
+techniques: 2D/3D/4D the DICOM protocol. Image
+visualization, MPR, Curved processing tools are provided to
+MPR, Stretched MPR, MIP, extract metadata to derive
+MinIP, Raysum and MAR. parametric images from
+Capture and Report. combinations of multiple input
+images, such as temporal phases, or
+images co-located in space but
+acquired with different imaging
+parameters, such as different MR
+pulse sequences, or different CT
+image parameters (e.g. dual
+energy).
+iNtuition is designed for use by
+healthcare professionals and is
+intended to assist the physician in
+diagnosis, who is responsible for
+making all final patient
+management decisions.
+Interpretation of mammographic
+images or digitized film screen
+images is supported only when the
+software is used without
+compression and with an FDA-
+Approved monitor that offers at
+least 5Mpixel resolution and meets
+other technical specifications
+reviewed and accepted by the FDA.
+iNtuitionMOBILE provides
+wireless and portable access to
+medical images. This device is not
+intended to replace full
+workstations and should be used
+only when there is no access to a
+workstation. Not intended for
+diagnostic use when used via a web
+browser or mobile device.
+Technical Characteristics
+- CT, MR, Nuc, PET, - CT, MR, Nuc, PET, Angio, - CT data in DICOM
+Angio, US/Echo, US/Echo, SPECT, CR/DR format (vendor
+SPECT, Review independent)
+Data Type - CR/DR Review - 2D, 3D, 4D Medical Image
+- 2D, 3D, 4D Medical review including cine play
+Image review including
+cine play
+- Manual through - Manual through - Manual through
+Input Patient Data keyboard/mouse keyboard/mouse keyboard/mouse
+- Command line interface - Command line interface - Command line interfaceTeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+- Importing - Importing - Exporting
+- Exporting - Exporting - Deleting
+- Deleting - Deleting - Anonymizing (no
+Study list - Search - Search automatic deletion of
+functionality - Anonymization - Anonymization original patient data)
+- Search
+- Automatic and manual - Automatic and manual - Realign orthogonal
+centerlines centerlines MPR's
+- Centerline edits and - Centerline edits and - Segmentation toolset:
+refinements. refinements. - Automatic segmentation
+- Vessel Analysis - Vessel Analysis - Automatic centerline
+- Automatic and manual - Automatic and manual - Manual centerline
+Centerline
+segmentation of segmentation of structures - Centerline editing
+Extraction and
+structures - Segmentation editing - Undo/Redo operations
+- Segmentation editing
+- Volume sculpting
+- Linear (length, diameter, - Linear (length, diameter, - Linear (length and
+perimeter), distance pair, perimeter), distance pair, diameter), angular and
+angular and ROI angular and ROI ROI measurements
+measurements measurements - Volume measurements
+- Area measurements - Area measurements - C-arm angulation
+- Volume measurements - Volume measurements calculation
+including volumetric including volumetric - Text and arrow
+histogram, VOI and TVA histogram, VOI and TVA for annotations
+for Time Volume Time Volume Analysis for - Calcium scoring for
+Analysis for heart heart chamber segmentation
+assessment of calcium in
+chamber segmentation and analysis
+the aortic root
+and analysis - C-arm angulation calculation - Calcium scoring for
+- C-arm angulation - Text and arrow annotations assessment of calcium in
+Image Assessment calculation - Anatomy ID (Landmark Label the coronary arteries
+- Text and arrow Selection) - Segmentation and
+annotations - Calcium scoring for analysis of coronary
+- Anatomy ID (Landmark assessment of calcium in the artery tree centerline
+Label Selection) aortic root
+- Calcium scoring for - Calcium scoring for
+assessment of calcium in assessment of calcium in the
+the aortic root coronary arteries
+- Calcium scoring for - Segmentation and analysis of
+assessment of calcium in coronary artery tree centerline
+the coronary arteries - Synchronized side-by- side
+- Segmentation and review
+analysis of coronary - Synchronized center of
+artery tree centerline
+rotation viewing
+- Synchronized side-by- - Findings workflow for
+side review
+temporal correlative analysis
+- Synchronized center of - 2D/3D Batch movie tool and
+rotation viewing
+export
+- Findings workflow for
+temporal correlative
+analysis
+- 2D/3D Batch movie tool
+and exportTeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+New Device Predicate Device Predicate Device
+(Secondary) (Primary)
+- Volume rendering, MIP, - Volume rendering, - Orthogonal, oblique,
+MPR, MinIP, Raysum - MIP, MPR, MinIP, double oblique, curved,
+(ThickMPR) - Raysum (ThickMPR) cross-curved, stretched
+Image Assessment - 3D triangulation - 3D triangulation - MPR rendering
+Rendering
+- Perspective endoluminal - Perspective endoluminal view - MIP, AveIP, MinIP and
+view color volume slabs
+- Medial Axial Reformat (MAR)
+- Medial Axial Reformat - MIP volume rendering
+- Curved Planar Reformat
+(MAR) - Color volume rendering
+(CPR)
+- Curved Planar Reformat - Double-oblique MIP and MPR - Grayscale volume
+(CPR) rendering
+- Image enhancement filters
+- Double-oblique MIP and - 2D slice review and stack
+- Synchronized side-by- side
+MPR comparison
+viewing
+- Image enhancement - 4D cine
+- Synchronized center of
+filters - Interactive VOI clipping
+rotation viewing
+- Synchronized side-by- - Cube View - Multi-tissue color and
+side viewing
+opacity control
+- Synchronized center of - Workflow templates - Active presets
+rotation viewing - Multi-Mask Display (multi-
+- User-defined presets
+- Cube View object display)
+- Workflow templates - User-defined measurement
+protocols
+- Multi-Mask Display
+- Editing tools: crop, cut, free-
+(multi- object display)
+hand
+- User-defined
+measurement protocols
+- Editing tools: crop, cut,
+free- hand
+- Structured reporting with - Structured reporting with xml, -
+xml, text, xls output text, xls output - Printout
+Storage of Results - Word and html report - Word and html report - Session state
+- DICOM SC - DICOM SC - PDF format
+- Workflow scenes: restore - Workflow scenes: restore - DICOM PDF report
+saved state saved state
+Conferencing and Conferencing and Collaboration
+Collaboration Conferencing and N/A
+Collaboration
+Operating System Microsoft Windows Microsoft Windows Microsoft Windows
+Summary of Clinical Performance Tests:
+iNtuition-Structural Heart Module did not require clinical studies to demonstrate its safety
+and effectiveness.
+General Safety and Effectiveness Concerns:
+iNtuition-Structural Heart Module doesn’t present any safety concerns or effectiveness.
+iNtuition- Structural Heart Module has the same standard and part of optional features,
+technological characteristics, and similar indications for use than its predicates.TeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+iNtuition-Structural Heart Module instructions for use are included within the device labeling
+provided in Volume 013 and in Appendix A, and the information provided in the labeling
+will enable the user to operate the device in a safe and effective manner.
+Risk management is ensured via risk analysis, which is used to identify and mitigate potential
+hazards from early design phase till design software validation and release. These potential
+hazards are controlled during software development by verification and validation testing.
+Furthermore, the software operators are healthcare professionals who are responsible for
+making all final patient management decisions.
+Conformance Standards:
+There are no applicable FDA mandated performance standards for this device. However,
+voluntary standards such as DICOM, various in-house standard operating procedures are in
+place and have been utilized in the production of the software.
+The device complies with the following conformance standards:
+- ISO 14971:2007- Medical devices - Application of risk management to medical
+devices.
+- IEC 62304:2006/A1:2015 - Medical device software - Software life cycle processes.
+- IEC 62366-1:2015 - Medical Devices - Application of usability engineering to
+medical devices.
+- NEMA PS 3.1-3.20 (2016) - Digital Imaging and Communications in Medicine
+(DICOM) set.
+Performance Data
+The verification and Validation tests have been performed to address the indication for use,
+the technological characteristics claims, requirement specifications and risk management
+results.
+Substantial Equivalence:
+In all material aspects, iNtuition-Structural Heart Module is substantially equivalent to the
+predicate devices. Performance testing was carried out according to internal company
+procedures. Software testing and validation were done according to written test protocols
+established before testing was conducted. Test results were reviewed by designated technical
+professionals before being formalized and after ensuring that the software fully satisfies all
+expected and previously defined system requirements and features. Test results support the
+conclusion that iNtuition- Structural Heart Module performance satisfies the design intent
+and is equivalent to its predicate devices.TeraRecon, Inc. iNtuition-Structural Heart Module 510(K)
+Conclusion:
+iNtuition-Structural Heart Module, as described in this premarket notification, has similar
+indication for use and same technical characteristics as the predicate devices, and therefore, is
+substantially equivalent in terms of basic design, features and intended use to those predicates.
+In summary, TeraRecon, Inc., believes that iNtuition-Structural Heart Module is an optional
+feature of iNtuition (K121916) and doesn’t present any new safety or effectiveness risks to
+users and is substantially equivalent to and performs as well as the predicate devices.

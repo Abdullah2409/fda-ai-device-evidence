@@ -1,0 +1,314 @@
+Zebra Medical Vision Ltd. July 16, 2020
+℅ Flair Bar
+VP Operations
+Shefayim Commercial Center,
+P.O. Box 25
+Shefayim, 6099000
+ISRAEL
+Re: K200905
+Trade/Device Name: HealthMammo
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: June 17, 2020
+Received: June 22, 2020
+Dear Flair Bar:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.16
+Silver Spring, MD 20993
+www.fda.govK200905 - Flair Bar Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure5. 510 (k) Summary
+510(K) Summary - HealthMammo
+Zebra Medical Vision Ltd.
+510(k) Number – K200905
+I. Applicant’s Name: Zebra Medical Vision Ltd.
+Shefayim Commercial Center
+PO Box 25
+Shefayim, 6099000
+ISRAEL
+Telephone: +972-9-8827795
+Fax: +972-9-8827795
+Date Prepared: July 13, 2020
+II. Device
+Trade Name: HealthMammo
+Classification Name:
+QFM - Radiological Computer-Assisted Prioritization Software
+Regulation Number:
+892.2080
+Classification:
+Class II, Radiology
+III. Predicate Device:
+The HealthMammo device is substantially equivalent to the following device:
+Proprietary Name CmTriage
+Premarket Notification K183285
+Classification Name Radiological Computer-Assisted Prioritization Software
+Regulation Number 21 CFR 892.2080
+Product Code QFM
+Regulatory Class II
+IV. Device Description
+Zebra’s HealthMammo solution is a software product that automatically analyzes 2D FFDM
+screening mammograms and notifies PACS/workstation of the presence of suspicious findings in
+5-1
+Zebra Medical Vision Ltd.the scan. This passive-notification allows for worklist prioritization of the specific scan and assists
+clinicians in viewing prioritized scans before others. The device aim is to aid in prioritization and
+triage of radiological medical images only. It is a software tool for MQSA interpreting physicians
+reading mammograms and does not replace complete evaluation according to the standard of care.
+The Zebra’s HealthMammo device works in parallel to and in conjunction with the standard care
+of workflow. After a mammogram has been performed, a copy of the study is automatically
+retrieved and processed by the HealthMammo device. The device performs the analysis of the
+study and returns a notification about suspected finding to the PACS/workstation which flags it
+through the worklist interface or alternatively, the Zebra Worklist will notify the user through a
+desktop application. The clinician is then able to review the study earlier than in standard of care
+workflow.
+The primary benefit of the product is the ability to reduce the time it takes to alert physicians to
+the presence of a suspicious finding. The software does not recommend treatment or provide a
+diagnosis. It is meant as a tool to assist in improved workload prioritization of suspicious cases.
+The final diagnosis is provided by a clinician after reviewing the scan itself..
+The following modules compose the HealthMammo software:
+Data input and validation: Following retrieval of a study, the validation feature assessed the
+input data (i.e. age, modality, view) to ensure compatibility for processing by the algorithm.
+HealthMammo algorithm: Once a study has been validated, the algorithm analyzes the 2D
+FFDM screening mammogram for detection of suspected findings.
+IMA Integration feature: The study analysis and the results of a successful study analysis is
+provided to IMA, to then be sent to the PACS/workstation for prioritization.
+Error codes feature: In the case of a study failure during data validation or the analysis by the
+algorithm, an error is provided to the system.
+V. Intended Use/Indication for Use:
+The Zebra HealthMammo is a passive notification for prioritization-only, parallel-workflow
+software tool used by MQSA-qualified interpreting physicians to prioritize patients with
+suspicious findings in the medical care environment. HealthMammo utilizes an artificial
+intelligence algorithm to analyze 2D FFDM screening mammograms and flags those that are
+suggestive of the presence of at least one suspicious finding at the exam-level. HealthMammo
+produces an exam-level output to a PACS/Workstation for flagging the suspicious case and allows
+worklist prioritization.
+MQSA-qualified interpreting physicians are responsible for reviewing each exam on a display
+approved for use in mammography according to the current standard of care. HealthMammo
+device is limited to the categorization of exams, does not provide any diagnostic information
+beyond triage and prioritization, does not remove images from the interpreting physician’s
+5-2
+Zebra Medical Vision Ltd.worklist, and should not be used in lieu of full patient evaluation, or relied upon to make or confirm
+diagnosis.
+The HealthMammo device is intended for use with complete 2D FFDM mammography exams
+acquired using validated FFDM systems only.
+VI. Technological Characteristics Compared to Predicate Device:
+The technological characteristics, e.g., overall design, mechanism of action, mode of operation,
+performance characteristics, etc., and the intended use of the HealthMammo device are
+substantially equivalent to the predicate device cited above.
+A comparison of the technological characteristics with the predicate is summarized below.
+Technological Proposed Device Predicate Device Summary
+Characteristics HealthMammo cmTriage (K183285)
+Indication for The Zebra HealthMammo is a cmTriage is a passive notification Same
+Use/Intended Use passive notification for for prioritization-only, parallel-
+prioritization-only, parallel- workflow software tool used by
+workflow software tool used by radiologists to prioritize specific
+MQSA-qualified interpreting patients within the standard-of-
+physicians to prioritize patients care image worklist for 2D FFDM
+with suspicious findings in the screening mammograms.
+medical care environment. cmTriage uses an artificial
+HealthMammo utilizes an intelligence algorithm to analyze
+artificial intelligence algorithm 2D FFDM screening
+to analyze 2D FFDM screening mammograms and flags those that
+mammograms and flags those are suggestive of the presence of
+that are suggestive of the at least one suspicious finding at
+presence of at least one the exam level. These flags are
+suspicious finding at the exam- viewed by the radiologist via their
+level. HealthMammo produces Picture Archiving and
+an exam-level output to a Communication System (PACS)
+PACS/Workstation for flagging worklist. The decision to use
+the suspicious case and allows cmTriage codes and how to use
+worklist prioritization. MQSA- cmTriage codes is ultimately up
+qualified interpreting physicians to the radiologist. cmTriage does
+are responsible for reviewing not send a proactive alert directly
+each exam on a display to the radiologist. Radiologists are
+approved for use in responsible for reviewing each
+mammography according to the exam on a diagnostic viewer
+current standard of care. according to the current standard
+HealthMammo device is limited of care. cmTriage is limited to the
+to the categorization of exams, categorization of exams, does not
+does not provide any diagnostic provide any diagnostic
+information beyond triage and information beyond triage and
+prioritization, does not remove prioritization, does not remove
+images from the interpreting images from the radiologist’s
+physician’s worklist, and should worklist, and should not be used
+not be used in lieu of full patient in lieu of full patient evaluation,
+evaluation, or relied upon to or relied upon to make or confirm
+5-3
+Zebra Medical Vision Ltd.make or confirm diagnosis. The diagnosis. cmTriage is for
+HealthMammo device is prescription use only.
+intended for use with complete
+2D FFDM mammography
+exams acquired using validated
+FFDM systems only.
+Notification-only, Yes Yes Same
+parallel workflow
+tool
+User Interpreting physician Radiologist Same
+Identify patients with Yes Yes Same
+prespecified
+clinical condition
+Alert to finding Yes; passive notification Yes; passive notification flagged Same
+flagged for review for review
+Independent of Yes; No cases are removed from Yes; No cases are removed from Same
+standard of care worklist worklist
+workflow
+Modality FFDM screening mammograms FFDM screening mammograms Same
+FFDM manufacturer Hologic Vendor agnostic Different, the
+subject device
+processes 2D
+FFDM scans
+acquired by
+Hologic systems,
+while the predicate
+device may receive
+scans acquired from
+alternative vendors.
+Body part Breast Breast Same
+Artificial Intelligence Yes Yes Same
+algorithm
+Limited to analysis of Yes Yes Same
+imaging data
+Inclusion Criteria - 2D FFDM screening - 2D FFDM screening Same
+mammograms mammograms
+- Biopsy proven cancer studies - Biopsy proven cancer studies
+(soft tissues and micro- (soft tissues and micro-
+calcifications) calcifications)
+- BIRADS 1 and 2 normal - BIRADS 1 and 2 normal cases
+cases with 2 year follow-up with 2 year follow-up
+Studies with 4 standard views Studies with 4 standard views
+(LCC, LMLO, RCC, RMLO) (LCC, LMLO, RCC, RMLO)
+Exclusion Criteria - Studies that do not include all - Studies that do not include all 4 Same
+4 views views
+5-4
+Zebra Medical Vision Ltd.- Digital Breast tomosynthesis - Digital Breast tomosynthesis
+studies studies
+- 3D studies - 3D studies
+Studies that do not comply with Studies that do not comply with
+the inclusion criteria the inclusion criteria
+Aids prompt Yes Yes Same
+identification of
+cases with indicated
+findings
+Multiple operating Yes; 3 optional operating points No; single operating point Different,
+points HealthMammo
+provides an
+additional 2
+operating points.
+Performance
+complies with DEN
+170073 Special
+control 1(iii).
+Preview Images Presentation of notification and Presentation of notification and Same
+preview of the study for initial preview of the study for initial
+assessment not meant for assessment not meant for
+diagnostic purposes. The device diagnostic purposes. The device
+operates in parallel with the operates in parallel with the
+standard of care, which remains standard of care, which remains
+the default option for all cases. the default option for all cases.
+Where results are PACS / Workstation PACS / Workstation Same
+received
+VII. Performance Data:
+Safety and performance of HealthMammo has been evaluated and verified in accordance with
+software specifications and applicable performance standards through Software Development and
+Validation & Verification Process to ensure performance according to specifications, User
+Requirements and Federal Regulations and Guidance documents, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices”.
+The performance of the HealthMammo device has been validated in a performance study for triage
+of 2D FFDM screening mammogram cases. The data included a retrospective cohort of 835
+anonymized 2D FFDM screening mammograms from the USA, UK, and Israel, including 435
+cases positive with biopsy confirmed cancers and 400 cases negative for breast cancer (BIRADS1
+and BIRADS2 with a two-year follow up of a negative diagnosis), as well as confounding
+variables.
+The test set was constructed to ensure that confounding factors present in the population were
+addressed in the data and consistent with the population of women undergoing breast cancer
+screening. Confounding factors that were considered include: 1) Lesion Type; 2) Breast Density
+5-5
+Zebra Medical Vision Ltd.3) Age; and 4) Histology Type. The stand-alone detection and triage accuracy was measured on
+this cohort versus the ground truth.
+The HealthMammo device detection accuracy was validated for three different operating points
+and met the prespecified performance goals for accuracy in terms of the AUC as well as sensitivity,
+and specificity for all defined operating points. Overall, the HealthMammo was able to
+demonstrate an area under the ROC curve (AUC) of 0.9661 (95% CI: [0.9552, 0.9769]), which is
+comparable with the predicate device, and exceeds the required technical method under the QFM
+product code for effective triage with an AUC >95%.
+Sensitivity and Specificity goals were set based on the performance in the Breast Cancer
+Surveillance Consortium (BCSC) study and compared to the performance of the predicate device,
+CmTriage (K183285). The “standard mode,” “high specificity,” and “high sensitivity” operating
+points correspond to the reported human performance in the BCSC study, and are also established
+by the predicate device.
+Sensitivity and specificity of the HealthMammo was reported for the three operating points, all of
+which met their performance goals. The first operating point, “standard mode,” reported a
+sensitivity of 89.89% (95% CI: [86.69%;92.38%]) and a specificity of 90.75% (95% CI:
+[87.51%;93.21%]). The second operating point, “high sensitivity” reported a sensitivity of 94.02%
+(95% CI: [91.39%;95.89%]) and a specificity of 83.50% (95% CI: [79.55%;86.82%]). The “high
+specificity” operating point, reported a sensitivity of 84.14% (95% CI: [80.41%;87.27%]) and a
+specificity of 94.00% (95% CI: [91.23%;95.94%]). These three operating points demonstrated
+good performance compared with the standard of care reported in the BCSC study, and were found
+substantially equivalent to the predicate device (K183285).
+Furthermore, we assessed the processing time of the HealthMammo which reflects the time it takes
+for the device to analyze the study and send a notification to the worklist. The average processing
+time of the HealthMammo was 2.9 minutes, a timing that is substantially equivalent to the
+predicate.
+VIII. Conclusion
+The subject HealthMammo device and the CmTriage predicate device (K183285) are both
+software-only devices intended to aid in triage of radiological images, within the standard of care
+workflow. The labeling of both devices are limited to the categorization of exams and are not to
+be used in-lieu of full patient evaluation or relied upon to make or confirm diagnosis.
+Both devices operate in parallel to the standard of care workflow in the sense that they do not
+change the original image, and do not remove cases from the standard of care. The minor
+differences between the subject device and the predicate raise no new issues of safety or
+effectiveness. In addition, performance testing demonstrates that the HealthMammo performs as
+5-6
+Zebra Medical Vision Ltd.intended. The HealthMammo device is therefore substantially equivalent to the CmTriage
+predicate.
+5-7
+Zebra Medical Vision Ltd.

@@ -1,0 +1,332 @@
+Genesis Software Innovations
+Matt Miller
+Director of Technology Development
+2851 Charlevoix Dr. SE Suite 327
+Grand Rapids, MI 49546
+April 4, 2024
+Re: K240172
+Trade/Device Name: Preview Shoulder
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: March 7, 2024
+Received: March 7, 2024
+Dear Matt Miller:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.09
+Silver Spring, MD 20993
+www.fda.govK240172 - Matt Miller Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A)for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K240172
+I
+Device Name
+I Preview Shoulder
+Indications for Use (Describe)
+The Preview Shoulder software is intended to be used as a tool for orthopedic surgeons to develop
+pre-operative shoulder plans based on a patient CT imaging study.
+The import process allows the user to select a DICOM CT scan series from any location that the
+user's computer sees as an available file source.
+3D digital representations of various implant models are available in the planning software. Preview
+Shoulder allows the user to digitally perform the surgical planning by showing a representation of the
+patient's shoulder anatomy as a 3D model and allows the surgeon to place the implant in the
+patient's anatomy.
+The software allows the surgeon to generate a report, detailing the output of the planning activity.
+Experience in usage and a clinical assessment are necessary for a proper use of the software. It is
+to be used for adult patients only and should not be used for diagnostic purposes.
+Type of Use (Select one or both, as applicable)
+[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."K240172
+510(k) Summary
+Date Prepared: March 7, 2024
+Submitter: Genesis Software Innovations
+2851 Charlevoix Dr. SE Suite 327
+Grand Rapids, MI 49546
+Contact: Matt Miller
+Director of Technology Development
+Genesis Software Innovations
+(616) 294-1026 Ext. 5
+matt.miller@genesissoftwareinnovations.com
+Proprietary Name: Preview Shoulder
+Common Name: Pre-operative planning software
+Classification Name: Picture archiving and communications system
+Regulation Number: 21 CFR Section 892.2050
+Classification Code: QIH
+Review Panel: Radiology
+Substantially
+Equivalent Device: Genesis Software Innovations, Preview Shoulder (K210556)
+Reference Device: Pixmeo SARL, Osirix MD (K101342)
+Device Description:
+The Preview Shoulder, a 3D total shoulder arthroplasty (TSA) surgical planning
+software, is a standalone software application which assists the surgeon in planning
+reverse and anatomic shoulder arthroplasty. Preview Shoulder includes 3D digital
+representations of implants for placement in images used for surgical planning. Preview
+Shoulder is a secure software application used by qualified or trained surgeons and is
+accessed by authorized users.
+The primary function of Preview Shoulder is to receive and process DICOM CT
+image(s) of patients. Preview Shoulder can be used to place an implant in the original
+1K240172
+CT image and place an implant in the 3D model of reconstructed bone. The Preview
+Shoulder allow the user to perform surgical planning and generate an output surgical
+report. Preview Shoulder does not provide a diagnosis or surgical recommendation.
+The surgeon is responsible for selecting and placing the implant model for pre-surgical
+planning purposes.
+Indications for Use:
+The Preview Shoulder software is intended to be used as a tool for orthopedic surgeons
+to develop pre-operative shoulder plans based on a patient CT imaging study.
+The import process allows the user to select a DICOM CT scan series from any location
+that the user’s computer sees as an available file source.
+3D digital representations of various implant models are available in the planning
+software. Preview Shoulder allows the user to digitally perform the surgical planning by
+showing a representation of the patient’s shoulder anatomy as a 3D model and allows
+the surgeon to place the implant in the patient’s anatomy.
+The software allows the surgeon to generate a report, detailing the output of the
+planning activity.
+Experience in usage and a clinical assessment are necessary for a proper use of the
+software. It is to be used for adult patients only and should not be used for diagnostic
+purposes.
+Comparison of Technological Characteristics:
+The Preview Shoulder fundamental technological characteristics are similar to those of
+the predicate device as noted in the following table.
+Proposed Device Predicate Device
+Genesis Software Genesis Software
+Characteristic Innovations Innovations Significant Differences
+Preview Shoulder Preview Shoulder
+(K240172) (K210556)
+Product Code QIH QIH N/A
+Regulation 21 CFR 892.2050 21 CFR 892.2050 N/A
+Number
+Intended Use Preoperative planning Preoperative planning N/A
+software for surgery software for surgery
+Indications for The Preview Shoulder The Preview Shoulder N/A
+use software is intended to be software is intended to be
+2K240172
+used as a tool for used as a tool for
+orthopedic surgeons to orthopedic surgeons to
+develop pre-operative develop pre-operative
+shoulder plans based on shoulder plans based on
+a patient CT imaging a patient CT imaging
+study. study.
+The import process allows The import process allows
+the user to select a the user to select a
+DICOM CT scan series DICOM CT scan series
+from any location that the from any location that the
+user’s computer sees as user’s computer sees as
+an available file source. an available file source.
+3D digital representations 3D digital representations
+of various implant models of various implant models
+are available in the are available in the
+planning software. planning software.
+Preview Shoulder allows Preview Shoulder allows
+the user to digitally the user to digitally
+perform the surgical perform the surgical
+planning by showing a planning by showing a
+representation of the representation of the
+patient’s shoulder patient’s shoulder
+anatomy as a 3D model anatomy as a 3D model
+and allows the surgeon to and allows the surgeon to
+place the implant in the place the implant in the
+patient’s anatomy. patient’s anatomy.
+The software allows the The software allows the
+surgeon to generate a surgeon to generate a
+report, detailing the output report, detailing the output
+of the planning activity. of the planning activity.
+Experience in usage and Experience in usage and
+a clinical assessment are a clinical assessment are
+necessary for a proper necessary for a proper
+use of the software. It is use of the software. It is
+to be used for adult to be used for adult
+patients only and should patients only and should
+not be used for diagnostic not be used for diagnostic
+purposes. purposes.
+Subspecialties Preview Shoulder allows Preview Shoulder allows N/A
+the surgeon to perform the surgeon to perform
+the pre-surgical planning the pre-surgical planning
+for the following for the following
+subspeciality: subspeciality:
+Upper Limb: Total Upper Limb: Total
+Shoulder Replacement Shoulder Replacement
+Type of Use Prescription Only Prescription Only N/A
+Patient Adults Adults N/A
+Population
+End User Surgeons Surgeons N/A
+Computer Personal Computer or Personal Computer or N/A
+Workstation Workstation
+Operating Windows or MacOS Windows or MacOS N/A
+System
+3K240172
+Device The software is installed The software is installed N/A
+Availability and started from the and started from the
+user’s computer. user’s computer.
+Images source Receives medical images Receives medical images N/A
+from various sources from various sources
+locally available to the locally available to the
+user’s computer. user’s computer.
+Preview Shoulder does Preview Shoulder does
+not communicate directly not communicate directly
+to a PACS system. to a PACS system.
+Data The software processes The software processes Similar
+processing the CT image, which the CT image, which
+allows the implant to be allows the implant to be Post-processing algorithm
+overlapped/ placed in overlapped/ placed in is added to further refine
+both the original scan both the original scan the 3D mesh quality.
+images and/or the 3D images and/or the 3D
+model reconstruction of model reconstruction of Algorithm is added to
+the bone for surgical the bone for surgical calculate humerus-side
+planning. planning. features used for implant
+selection, placement, and
+pre-surgical planning.
+Digital overlap The software allows the The software allows the Similar
+of implant rendering to be implant rendering to be
+prosthetic overlapped/placed in the overlapped/placed in the Humerus implants are
+material 3D model reconstruction 3D model reconstruction added to implant planning
+of the bone that results of the bone that results library.
+from the processed CT from the processed CT
+image(s). image(s).
+The software facilitates The software facilitates
+the placement and the placement and
+rendering of scapula and rendering of scapula
+humerus implants for implants for anatomic
+anatomic partial or total partial or total shoulder
+shoulder arthroplasty and arthroplasty and reverse
+reverse total shoulder total shoulder
+arthroplasty. arthroplasty.
+Interactive Yes Yes N/A
+model
+positioning
+Interactive Yes Yes N/A
+model
+dimensioning
+Model rotation Yes Yes N/A
+Support for Yes Yes N/A
+digital
+prosthetic
+materials
+provided by
+the
+manufacturers
+Automatic No No N/A
+Calibration
+4K240172
+Pre-surgical Yes Yes N/A
+planning
+Contact with No No N/A
+the patient
+Control of life No No N/A
+supporting
+devices
+Human Yes Yes N/A
+intervention for
+image
+interpretation
+Ability to add Yes Yes N/A
+additional
+modules when
+available
+Non-Clinical Testing Summary:
+Software Verification and Validation testing was performed on the Preview Shoulder,
+and documentation is provided as recommended by FDA’s Guidance for Industry and
+FDA Staff, “Content of Premarket Submissions for Device Software Functions”. The
+software is considered as a “basic documentation level” since a failure or latent design
+flaw would not present a hazardous situation with a probable risk of death or serious
+injury to either a patient, user of the device, or others in the environment of use, prior to
+the implementation of risk control measures. The Verification and Validation testing
+was performed to assess the safety and effectiveness of the device, to demonstrate the
+processing of patient images to produce accurate and repeatable 3D reconstructed
+bones and surgical coordinates provided to the surgeon. Testing verified that the
+system performs as intended. The software has been verified via code reviews and
+automated and manual testing. The measurement capabilities of the Preview Shoulder
+were validated to be significantly equivalent to a benchmark tool with CT rendering
+measurement capabilities, Osirix MD (K101342). All validation testing was performed
+on a fully configured system using anonymized patient shoulder CT images to emulate
+intended use. All user features have been validated by surgeons.
+Clinical Testing Summary:
+Clinical testing was not necessary to demonstrate substantial equivalence of the
+Preview Shoulder to the predicate device.
+5K240172
+Overall Conclusion:
+Based on the information presented in this submission, Genesis Software Innovations
+concludes that the Preview Shoulder is similar to the predicate devices in regard to
+indications, principles of operation, and technological characteristics. Additionally,
+verification and validation tests demonstrate the safety and efficacy of the device to
+meet its intended use and specifications. Genesis Software Innovations believes that
+the proposed device, Preview Shoulder, is similar to its identified predicate device and
+is as safe and effective as its predicate device without raising any new safety and/or
+effectiveness concerns.
+6

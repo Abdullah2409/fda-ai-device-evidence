@@ -1,0 +1,469 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+IDX-DR
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Retinal diagnostic software device. A retinal diagnostic software device is a
+prescription software device that incorporates an adaptive algorithm to evaluate
+ophthalmic images for diagnostic screening to identify retinal diseases or conditions.
+NEW REGULATION NUMBER: 21 CFR 886.1100
+CLASSIFICATION: Class II
+PRODUCT CODE: PIB
+BACKGROUND
+DEVICE NAME: IDx-DR
+SUBMISSION NUMBER: DEN180001
+DATE OF DE NOVO: January 12, 2018
+CONTACT: IDx, LLC
+2300 Oakdale Blvd
+Coralville, IA 52241
+INDICATIONS FOR USE
+IDx-DR is indicated for use by health care providers to automatically detect more than
+mild diabetic retinopathy (mtmDR) in adults diagnosed with diabetes who have not been
+previously diagnosed with diabetic retinopathy. IDx-DR is indicated for use with the
+Topcon NW400.
+LIMITATIONS
+Prescription Use only: Federal (USA) law restricts this device for sale by or on the order
+of a physician.
+Warnings
+ IDx-DR is only designed to detect diabetic retinopathy. IDx-DR is not intended to detect
+concomitant diseases. Patients should not rely on IDx-DR for detection of any other
+disease.
+De Novo Summary (DEN180001) Page 1 of 13 People with diabetes may be at elevated risk of glaucoma and should be seen by an eye
+care provider for glaucoma screening in accordance with recognized patient management
+recommendations. IDx-DR does not screen for glaucoma.
+ Patients should be informed that IDx-DR does not treat retinopathy and that their images
+are analyzed to determine whether further examination is needed by an eye care provider.
+Physicians should review IDx-DR results and advise patients of recommended referrals
+to an eye care provider for evaluation and potential treatment.
+ If IDx-DR is not able to generate a screening result on a patient who has been
+pharmacologically dilated, the patient may have vision threatening diabetic retinopathy,
+or other abnormalities including cataract. Such a patient should be seen by an eye care
+provider for evaluation.
+ Patients with an IDx-DR output indicating diabetic retinopathy should be immediately
+referred to an eye-care provider for further screening and treatment. In cases where the
+IDx-DR test provides no result, the patient should always be immediately retested or
+referred to an eye care provider. In cases where the IDx-DR test does not detect the
+presence of referable disease, the patient should be strongly encouraged to test again at an
+appropriate point in the future.
+ Do not use IDx-DR to screen for diabetes mellitus – IDx-DR is only for use in people
+already diagnosed with diabetes mellitus.
+ IDx-DR is designed to work with good quality, in-focus, digital retinal color images of
+the fovea and disc. Do not submit retinal color images that are of poor quality, retinal
+color images that were not made with a digital fundus camera, retinal images that are not
+in color, images of other tissues or objects other than the retina, or color images that were
+obtained by scanning images.
+ IDx-DR is only intended to be used with images acquired with a Topcon TRC-NW400.
+Refer to the FDA approved label of the Topcon TRC-NW400 for relevant
+contraindications, warnings, and precautions.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The IDx-DR consists of several components. A fundus camera is attached to a computer, where
+the IDx-DR Client is installed. The Client allows the user to interact with the server-based
+analysis software over a secure internet connection. Using the Client, users identify two fundus
+images per eye to be dispatched to IDx-Service. IDx-Service is installed on a server hosted at a
+secure datacenter. IDx-DR Analysis, which runs inside IDx-Service, processes the fundus images
+and returns information on the image quality and the presence or absence of mtmDR to IDx-
+Service. IDx- Service then returns the results to the IDx-DR Client.
+De Novo Summary (DEN180001) Page 2 of 13The component parts of IDx-DR illustrated above are summarized here and further described in
+the following sections:
+ IDx-DR Analysis: the analysis software that analyzes the patient’s images and determines
+exam quality and the presence/absence of diabetic retinopathy. Additional information about
+IDx-DR Analysis is provided below.
+ IDx-DR Client: a software application component running on a computer, usually connected
+to the fundus camera, at the customer site. Using this software, the customer can transfer
+images to IDx-DR Analysis via IDx-Service and receive results back. IDx-DR Client does
+not require installation and runs on all Windows computers locally. It requires an internet
+connection to work. In a case where an exam could not be analyzed due to image quality or
+an image acquisition protocol error, quality feedback is provided to help the operator acquire
+high quality exams and successfully obtain a result after resubmission.
+ IDx-Service: a general exam analysis service delivery software package, managed in a
+separate software project with its own set of product and software requirements. IDx-Service
+contains a webserver front-end that securely handles incoming requests, a database that
+stores customer information, and a logging system that records information about each
+transaction through IDx-Service. IDx-Service is also primarily responsible for device
+cybersecurity.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+SOFTWARE
+Software version IDx-DR 2.0.0 US was identified as having a major level of concern as
+defined in the FDA guidance document “Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices.” The software documentation
+included:
+1. Software/Firmware Description
+2. Device Hazard Analysis
+De Novo Summary (DEN180001) Page 3 of 133. Software Requirement Specifications
+4. Architecture Design Chart
+5. Software Design Specifications
+6. Traceability
+7. Software Development Environment Description
+8. Revision Level History
+9. Unresolved Anomalies
+10. Cybersecurity
+A comprehensive risk analysis was provided for the software with detailed description of
+the hazards, their causes and severity as well as acceptable methods for control of the
+identified hazards. IDx provided a description, with test protocols including pass/fail
+criteria and report of results, of acceptable verification and validation activities at the
+unit, integration and system level. The expected impact of various hardware features on
+performance was assessed and minimum specifications for acceptable images for analysis
+were specified.
+The cybersecurity considerations of data confidentiality, data integrity, data availability,
+denial of service attacks and malware were adequately addressed using platform controls,
+application controls and procedure controls and evidence was provided for the controls
+performance as intended. Risks related to failure of various software components and
+their potential impact on patient reports and operator failures were also adequately
+addressed in the risk analysis. This software documentation information provided
+sufficient evidence of safe and effective software performance.
+IDx has provided a full characterization of the technical parameters of all the components
+of the software, including a description of the algorithms that analyzes the patient’s
+images, determines exam quality and the diagnostic screening of diabetic retinopathy.
+IDx-DR requires one optic disc centered image and 1 macula centered image from a
+fundus camera with at least 1000 by 1000 pixels per image. The impact of the applicable
+image quality characteristics are described in the Image Quality and Human Factors
+Validation Testing sections below.
+The IDx-DR artificial intelligence device design has the ability to perform analysis on the
+specific disease features that are important to a retina specialist for diagnostic screening
+of DR. IDx will make future algorithm improvements under a consistent medically
+relevant framework. A protocol was provided to mitigate the risk of algorithm changes
+leading to changes in the device’s technical specifications, which would lead to changes
+in false positive or false negative results. These changes could significantly affect clinical
+functionality or performance specifications directly associated with the intended use of
+the device. The protocol specifies the level of change in device specifications that could
+significantly affect the safety or effectiveness of the device, triggering the requirement
+for a 510(k) premarket notification submission before commercial introduction. This
+protocol implements the recommendations provided in the FDA guidance document
+“Deciding When to Submit a 510(k) for a Software Change to an Existing Device:
+Guidance for Industry and FDA Staff.”
+De Novo Summary (DEN180001) Page 4 of 13SUMMARY OF CLINICAL INFORMATION
+IDx conducted a pivotal clinical study with 900 patients who were enrolled at 10 primary
+care sites. The target population was asymptomatic persons, ages 22 and older, who had
+been diagnosed with diabetes and had not been previously diagnosed with diabetic
+retinopathy (DR). The study population was enriched by targeting enrollment of subjects
+with elevated Hemoglobin A1c (HbA1C) levels for a portion of the study in order to
+increase the likelihood of enrolling patients with more serious DR. Before any participant
+was recruited, IDx-DR operator trainees had to attest that they had not previously
+performed ocular imaging. They then underwent a one-time standardized four hour
+training program on how to acquire images, how to improve image quality if IDx-DR
+gave an insufficient quality output, and how to submit images for analysis to IDx-DR. No
+additional training was provided to any of the IDx-DR operators for the duration of the
+study. A diagnosis of diabetes was defined as meeting the criteria established by either
+the World Health Organization (WHO) or the American Diabetes Association (ADA);
+Hemoglobin A1c (HbA1c ≥ 6.5% based on repeated assessments; Fasting Plasma
+Glucose (FPG) ≥ 126 mg/dL (7.0 mmol/L) based on repeated assessments; Oral Glucose
+Tolerance Test (OGTT) with two-hour plasma glucose (2-hr PG) ≥ 200 mg/dL (11.1
+mmol/L) using the equivalent of an oral 75g anhydrous glucose dose dissolved in water;
+or symptoms of hyperglycemia or hyperglycemic crisis with a random plasma glucose
+(RPG) ≥ 200 mg/dL (11.1 mmol/L). During the study, the IDx-DR operator made sure
+that for every participant, a final IDx-DR output of more than mild DR (mtmDR)
+detected (defined below), more than mild DR not detected, or insufficient quality, was
+obtained. After the novice operator had generated an IDx-DR result, but during the same
+visit, each participant underwent additional retinal imaging captured by a professional
+ophthalmic photographer who had been certified by the Fundus Photography Reading
+Center (FPRC). The professional ophthalmic photographer remained masked at all times
+to the IDx-DR output and used a different, FDA-cleared camera system (Topcon 3D
+OCT-1 Maestro) to obtain dilated four widefield stereo color fundus photography, lens
+photography for media opacity assessment, and macular optical coherence tomography
+(OCT) imaging.
+Fundus Photography Reading Center – Reference Standard
+These images were all sent to the FPRC, where the severity of retinopathy and diabetic
+macular edema (DME) were determined according to the Early Treatment for Diabetic
+Retinopathy Study severity (ETDRS) scale. These readings formed the reference standard
+for the study. The FPRC grading protocol consisted of the following: the four widefield
+stereo image pairs were read by three experienced and validated readers according to the
+well-established ETDRS scale, using a majority voting paradigm. The macular OCT
+images were read by the same readers for the presence of center involved DME according
+to the Diabetic Retinopathy Clinical Research Network (DRCR) grading paradigm. Each
+participant was categorized as mtmDR+ (ETDRS level 35 or higher and /or DME
+present), or mtmDR- (ETDRS level 10-20 and DME absent). The worst of two eyes were
+compared with the IDx-DR output at the participant level. Because DME can be
+identified on the basis of retinal thickening on stereoscopic fundus photographs, as well
+as on the basis of retinal thickening on OCT, performance using both definitions was
+De Novo Summary (DEN180001) Page 5 of 13analyzed. Stereoscopic fundus-based Clinically Significant DME (CSDME) was
+identified if there was either retinal thickening or adjacent hard exudates < 600μm from
+the foveal center, or a zone of retinal thickening > 1 disc area, part of which is less than 1
+disc diameter from the foveal center, according to the FPRC, in any eye. OCT based
+center involved DME was identified if a participant had central subfield (a 1.0mm circle
+centered on the fovea) thickness that was >300μm according to the FPRC, in any eye.
+Accordingly, the definition of mtmDR+: fundus mtmDR+ is defined as:
+ ETDRS level ≥ 35 (determined from fundus photographs) and/or
+ CSDME (determined from fundus photographs) and multimodal mtmDR+ is
+defined as:
+o ETDRS level ≥ 35 (determined from fundus photographs),
+and / or
+o CSDME (determined from fundus photographs)
+and / or
+o center-involved DME (determined from OCT).
+FPRC readers were masked to the IDx-DR system outputs at all times, masked to the
+fundus photograph reading when evaluating the OCT images, and masked to OCT
+readings when evaluating fundus photographs. A total of 900 participants were enrolled
+at 10 sites, of which 892 participants completed all procedures. A subset of 819 of these
+participants could be fully analyzed, giving an analyzable fraction of 92% (95% CI, 90%­
+93%). Median age was 59 years (range, 22-84 years); 47.5% of participants were male.
+For the entire group of participants, 16.1% were Hispanic, 83.3% were not Hispanic, and
+0.6% were unknown. Also, 63.4% were white, 28.6% African American, and 1.6%
+Asian. 7.1% had type 1 diabetes and 92.9% had type 2 diabetes. Overall mean HbA1C ±
+std was 9.4 ± 2.3mmol/l. Mean duration of diabetes was 12.7 ± 8.9 years, with a median
+of 11.0 and a range of 0.0 - 57.0 years. The 819 participants whose results could be fully
+evaluated and the 73 participants whose results could not be analyzed differed
+significantly with respect to lens status, while mean age, ethnicity, race, and HbA1C level
+were not significantly different.
+Study Endpoint Results
+A total of 900 participants were enrolled at 10 sites, of which 892 participants completed
+all procedures. Of the 892 participants completing all procedures, 40 had exams that
+could not be analyzed by the FPRC and 33 received an IDx-DR insufficient quality result
+or had a missing IDx-DR output. Thus, a subset of 819 of participants could be fully
+analyzed by the IDx-DR device to produce an IDx-DR disease output, giving an
+analyzable fraction of 92% (95% CI, 90%-93%). The primary outcomes were the
+sensitivity and specificity of IDx-DR. Performance thresholds were defined at 85.0% for
+sensitivity and 82.5% for specificity, reflecting anticipated enrollment numbers and pre­
+specified regulatory requirements. In addition to observed sensitivity and specificity,
+enrichment corrected sensitivity and specificity were calculated using logistic regression
+to evaluate whether performance would have been different if the study population had
+not been enriched with subjects with higher HbA1C levels. Analyses were based on the
+data from all participants who had valid results on both IDx-DR and the FPRC imaging
+De Novo Summary (DEN180001) Page 6 of 13and reading protocol, except where indicated; reported subgroup analyses were
+prespecified. A total of 198 mtmDR+ participants were fully analyzable according to the
+FPRC reading protocol, thus prevalence was 23.8% (198/819). Of these, 29 had CSDME
+according to fundus photography; 19 participants had center-involved DME according to
+OCT; and 42 participants had either CSDME and/or center involved DME, with
+corresponding prevalence of 3.5% for CSDME, 2.3% for center-involved DME, and
+5.1% for any DME according to both of these assessments. Average centerfield thickness
+was 239μm (+-0.05 μm) in the participants with CSDME (from fundus photographs
+only), and 304μm (+-0.06 μm) in the participants with center-involved OCT DME. IDx-
+DR correctly identified 173 of the 198 fully analyzable participants with fundus
+mtmDR+, thus observed sensitivity was at 87.4% (95%CI, 81.9% - 92.9%). Sensitivity
+corrected for enrichment was also high, at 87.2% (95% CI, 81.8% - 91.2%) to fundus
+mtmDR+, and 85.9% (95% CI, 82.5%-88.7%) to multimodal mtmDR+, i.e. including
+participants with either CSDME or center involved DME. There were no significant
+effects for age, sex, race, ethnicity, HbA1C, lens status or site, on sensitivity. The
+retrospective power was 93%. IDx-DR correctly identified, with an mtmDR positive
+output, 28 of 29 (96%; 95% CI, 83%-99%) participants with CSDME (fundus
+photographs only), 16 of 19 participants (84%; 95% CI, 62% - 94%) with center-involved
+DME (OCT only), and identified all participants with ETDRS level 43 or higher. Among
+the 621 fully analyzable participants who did not have fundus mtmDR according to
+FPRC grading, there were 556 participants with an mtmDR not detected output, thus
+observed specificity was 89.5% (95% CI, 86.9%-93.1%). Specificity corrected for
+enrichment was also high at 90.7% (95% CI, 88.3% - 92.7%) for fundus mtmDR-
+participants, and 90.7% (95% CI, 86.8%-93.5%) for multimodal mtmDR- participants.
+There were no significant effects of sex, ethnicity, race, HbA1C, lens status, or site, on
+specificity, while increased specificity was observed in subjects over 65 years of age (p =
+0.030). The retrospective power was 87%. Positive predictive value was 72.7% (173/238)
+and negative predictive value was 95.7% (556/581). In the 38 participants with AI system
+insufficient image quality, the prevalence of mtmDR was 10/38 (26%), comparable to the
+mtmDR prevalence in the fully analyzable dataset. Among the 73/892 non-analyzable
+participants, 35 (4%) lacked a completed FPRC grading. In the worst case scenario,
+assuming all of these 35 participants had mtmDR, the sensitivity and specificity would
+have been 80.7% (two-sided 95% CI, 76.7%-84.2%) and 89.8% (two-sided 95% CI,
+85.9% - 92.7%) respectively.
+The following summarizes the key performance results of the IDx-DR study:
+Sensitivity – 87%
+Specificity – 90%
+Imageability – 96%
+PPV (Positive Predictive Value) – 73%
+NPV (Negative Predictive Value) – 96%
+Image Quality Results
+Of the 857 participants that received a completed FPRC grading, 38 participants (4%)
+received an insufficient image quality output from IDx-DR after completion of IDx-DR
+imaging protocol. Thus image-ability, defined as the percentage of participants with a
+De Novo Summary (DEN180001) Page 7 of 13completed FPRC grading and a disease level output was high (819/852) or 96.1% (95.0%
+CI, 94.0-96.8%). For the IDx-DR imaging protocol, 76.4% of participants did not require
+pharmacologic dilation, while 23.6% did require dilation to obtain an IDx-DR disease
+level output. The majority of participants, 64.7%, completed the IDx-DR imaging
+protocol of four photographs the first time; 8.5% were able to complete the protocol after
+a single retry; 3.2% needed two retries; 19.7% needed three, 3.4% needed four; and 0.5%
+needed five retries. In this clinical study, the IDx-DR System was able to achieve
+sufficient performance when compared to the highest quality reference standard as
+determined by the FPRC, met predetermined sensitivity and specificity standards for the
+autonomous detection of more than mild DR or DME in people with diabetes but no
+history of DR in primary care settings.
+Precision Study
+A separate reproducibility and repeatability (precision) study was conducted involving 24
+participants. Participants in the substudy had already participated in the IDx-DR protocol:
+12 participants had mtmDR- based on the original FPRC grading and 12 had mtmDR+.
+Each participant in the sub-study completed the entire IDx-DR imaging protocol 10
+times, imaged by three different NW400 Operators on two different Topcon NW400
+fundus cameras. NW400 operators were instructed to give participants at least 15 minutes
+between exams. Each subject underwent the entire IDx-DR imaging protocol 10 times,
+i.e., 10 image sets per subject, 240 image sets in total. Five images from a single subject
+were determined to be of insufficient quality according to the IDx-DR and thus were
+omitted from analysis, the remaining 235 (97.9%) image sets were used for analysis. The
+binary output of IDx-DR was used to assess repeatability and reproducibility. For 23 out
+of 24 participants, the IDx-DR outputs were identical on all 10 imaging protocols for
+each of them, irrespective of camera, operator, or repeat. For one of the 24 subjects, 9 out
+of 10 IDx-DR outputs were identical as mild or more DR not detected, while 1 out of
+these 10 outputs was mild or more DR detected. Thus, there is almost complete
+agreement (99.6%) of IDx-DR outputs across repeats, operators and cameras.
+Human Factors Validation Testing Study
+Human Factors Validation Testing Study was performed to assess the user interface (IDx-
+DR Client). IDx’s human factors testing validated the setting in which the device is
+intended to be used. The IDx-DR workflow, training materials, and instructions were
+developed through a series pre-trial human factors testing. The standardized workflow,
+training program, and operator materials developed by this process were then
+implemented and tested during the IDx-DR clinical trial, which took place in the primary
+care setting. Final human factors validation results were successful in the IDx-DR clinical
+trial, as reflected by the data on subject imageability. This IDx-DR Human Factors
+Validation Test Plan empirically tested, improved upon, and validated the IDx-DR
+System (i.e. the camera, camera operation, the IDx-DR imaging protocol, and the
+standardized training and operational materials) in a real-world environment in order to
+mitigate the residual usability.
+The Human Factors Validation Test Plan occurred across two stages. The empirical
+testing first collected feedback in three “Phases” to improve usability of the IDx-DR
+De Novo Summary (DEN180001) Page 8 of 13Client, derive standardized training materials, and develop the validation test plan. Final
+testing was carried out as a part of the IDx-DX clinical trial, which validated the camera
+use, the imaging protocol, and the standardized system materials that enable the capture
+of four medical-grade retinal images by previously untrained camera operators for at least
+80% of the subjects imaged. The three Phases of initial empirical testing were carried out
+as follows: the camera and imaging protocol were tested and improved in Phase I and II.
+Training content and product image feedback controls were tested and improved in Phase
+III. To create consistent, scalable training, the training and operational materials were
+standardized prior to the IDx-DR1 clinical trial. The development of standardized
+training materials was tested by bringing in previously untrained photographers and
+training them under the Phase III consent and protocol. The critical task for the IDx-DR
+system is the ability to capture 4 images of sufficient quality. The purpose of the system
+validation test plan was to demonstrate that IDx’s intended image capture workflow and
+training methodology can successfully be used by previously untrained camera operators
+to capture four medical-grade retinal images from 80% or more of subjects who complete
+the full imaging protocol on a camera intended for use with IDx-DR IDx-DR System.
+The Human Factors Validation Plan was designed to validate the camera, imaging
+protocol, and standardized materials developed from empirical data gathered during
+Phases I, II, and III. Operators underwent training prior to the clinical trial as described
+below. As a part of training prior to the IDx-DR clinical trial, operators completed a
+trainee self-certification form, which includes documentation that they have successfully
+imaged 10 subjects.
+Clinical trial results indicating that previously untrained camera operators can capture
+four medical grade retinal images from the vast majority of subjects who complete the
+protocol using the IDx-DR System valid Camera, IDx-DR Imaging Protocol, and
+Standardized training and operational materials. Finally, the IDx-DR validation testing
+results show an image quality sufficient rate of 96%.
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+LABELING
+The device labeling is for primary care clinics and stable visually asymptomatic patients
+diagnosed with diabetes that have not been previously diagnosed with diabetic retinopathy.
+Several product warnings are included in the labeling that carefully specify the intended patient
+population, image acquisition factors that may impact IDx-DR results, and provide guidance for
+patient referral based on the IDx-DR screening result. These warnings were found to be
+appropriate. The labeling also provided a complete summary of the clinical trial procedures,
+patient population, and results. This summary includes prominent instructions regarding
+interpretation of the output as well as a representation of average variability observed in the
+device performance for various device outputs. Labeling intended for internal consideration was
+also provided which adequately described detailed steps and features that could affect accuracy
+of results.
+De Novo Summary (DEN180001) Page 9 of 13RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of a retinal diagnostic
+software device and the measures necessary to mitigate these risks.
+Identified Risk Mitigation Measures
+False positive results leading to Clinical performance testing;
+additional unnecessary medical Software verification, validation, and hazard analysis;
+procedures and
+ Diagnostic algorithm failure Protocol for technical specification changes
+ Software failure
+False negative results leading to delay Clinical performance testing;
+of further evaluation or treatment Software verification, validation, and hazard analysis;
+ Diagnostic algorithm failure Protocol for technical specification changes; and
+ Software failure Labeling
+Operator failure to provide images that Labeling,
+meet input quality specifications Training, and
+Human factors validation testing
+SPECIAL CONTROLS:
+In combination with the general controls of the FD&C Act, the retinal diagnostic software device
+is subject to the following special controls:
+1. Software verification and validation documentation, based on a comprehensive hazard
+analysis, must fulfill the following:
+a. Software documentation must provide a full characterization of technical parameters of
+the software, including algorithm(s).
+b. Software documentation must describe the expected impact of applicable image
+acquisition hardware characteristics on performance and associated minimum
+specifications.
+c. Software documentation must include a cybersecurity vulnerability and management
+process to assure software functionality.
+d. Software documentation must include mitigation measures to manage failure of any
+subsystem components with respect to incorrect patient reports and operator failures.
+2. Clinical performance data supporting the indications for use must be provided, including the
+following:
+a. Clinical performance testing must evaluate sensitivity, specificity, positive predictive
+value, and negative predictive value for each endpoint reported for the indicated disease
+or condition across the range of available device outcomes.
+De Novo Summary (DEN180001) Page 10 of 13b. Clinical performance testing must evaluate performance under anticipated conditions of
+use.
+c. Statistical methods must include the following:
+i. Where multiple samples from the same patient are used, statistical analysis must not
+assume statistical independence without adequate justification.
+ii. Statistical analysis must provide confidence intervals for each performance metric.
+d. Clinical data must evaluate the variability in output performance due to both the user and
+the image acquisition device used.
+3. A training program with instructions on how to acquire and process quality images must be
+provided.
+4. Human factors validation testing that evaluates the effect of the training program on user
+performance must be provided.
+5. A protocol must be developed that describes the level of change in device technical
+specifications that could significantly affect the safety or effectiveness of the device.
+6. Labeling must include:
+a. Instructions for use, including a description of how to obtain quality images and how
+device performance is affected by user interaction and user training.
+b. The type of imaging data used, what the device outputs to the user, and whether the
+output is qualitative or quantitative.
+c. Warnings regarding image acquisition factors that affect image quality.
+d. Warnings regarding interpretation of the provided outcomes, including:
+i. A warning that the device is not to be used to screen for the presence of diseases or
+conditions beyond its indicated uses.
+ii. A warning that the device provides a screening diagnosis only and that it is critical
+that the patient be advised to receive follow-up care.
+iii. A warning that the device does not treat the screened disease.
+e. A summary of the clinical performance of the device for each output, with confidence
+intervals.
+f. A summary of the clinical performance testing conducted with the device, including a
+description of the patient population and clinical environment under which it was
+evaluated.
+De Novo Summary (DEN180001) Page 11 of 13BENEFIT/RISK DETERMINATION
+The substantial benefits of early detection of mtmDR, including potential prevention of
+significant vision loss with the potential timely treatment of DR, are highly valuable to the
+intended population. Moreover, the high accuracy of the IDx-DR makes the potential risk of
+false negatives low. Accordingly, the probable benefits of the IDx-DR outweigh the probable
+risks.
+Summary of Benefits
+IDx-DR offers the important benefits of potential increased access to diabetic retinopathy
+screening for people with diabetes in a primary care setting. Earlier detection of mtmDR among
+these patients can help to enable the timely delivery of potentially sight saving interventions. The
+pivotal clinical study, which enrolled a total of 900 participants, demonstrated observed
+sensitivity for mtmDR 87.4%, with observed specificity of 89.5%. The device performed well
+across the range of study participant characteristics enrolled in the study. The vast majority of
+study participants had a screening diagnosis result. Among study participants who also had
+fundus photo reading center results (needed for study analysis), 96.1% (819/852) produced an
+IDx-DR output of mtmDR or negative for mtmDR. Thus, the clinical study successfully and
+robustly demonstrated safe and effective clinical performance of IDx-DR when used to
+automatically (without physician assistance) detect mtmDR.
+Summary of Risks
+The IDx-DR system, which makes use of a standard fundus camera, presents minimal physical
+harm risks to patients. As with most diagnostic tools, the principal risks are those of false
+negative results. A false negative result for mtmDR may result in delayed diagnosis and
+treatment if the patient is not referred to an eye care professional by the health care provider.
+This risk is mitigated by the health care provider’s recommendation for follow-up screenings.
+DR is understood to progress slowly and, thus, repeat screenings would provide additional
+opportunities to correctly identify the existence of mtmDR. In addition, all patients are
+recommended to see their eye care professional as usual to evaluate for other ophthalmic
+conditions not addressed by IDx-DR. Thus, some percentage of false negative subjects will be
+additionally screened for DR during their annual eye care exam. Other risks associated with the
+device are expected to be rare. A false positive result, for example, would mean an indication of
+disease in a patient who does not have clinical signs of diabetic retinopathy. This would result in
+a referral for further examination by an eye care professional which might lead to alarm fatigue.
+Given that examination by an eye care professional once per year is the recommended standard
+of care, this would not introduce any significant risk for the patient.
+Summary of Other Factors
+Device errors can arise from failure to operate the instrument correctly, or more broadly, failure
+to correctly interpret test results. These are mitigated by appropriate end user device training and
+a comprehensive user manual. Device labeling, which has been developed in accordance with 21
+CFR 809.10(b)(9), provides a detailed explanation of the interpretation of results.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+De Novo Summary (DEN180001) Page 12 of 13Benefit/Risk Conclusion
+In conclusion, given the available information above, the data support that for the screening of
+diabetic retinopathy in patients with diabetes, the probable benefits outweigh the probable risks for
+the IDx-DR. The device provides substantial benefits and the risks can be mitigated by the use of
+general controls and the identified special controls.
+CONCLUSION
+The De Novo request for the IDx-DR is granted and the device is classified under the following:
+Product Code: PIB
+Device Type: Retinal diagnostic software device
+Class: II
+Regulation: 21 CFR 886.1100
+De Novo Summary (DEN180001) Page 13 of 13

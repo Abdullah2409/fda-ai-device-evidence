@@ -1,0 +1,486 @@
+May 23, 2024
+VinBigData Joint Stock Company
+℅ Nguyet (Jun) Phan
+Regulatory Affairs Specialist
+Symphony Office Building, Chu Huy Man Street, Vinhomes Riverside Ecological
+Urban Area, Phuc Loi Ward, Long Bien District, Ha Noi
+VIETNAM
+Re: K233108
+Trade/Device Name: VinDr-Mammo
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological Computer Aided Triage And Notification Software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: April 10, 2024
+Received: April 23, 2024
+Dear Nguyet (Jun) Phan:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.10
+Silver Spring, MD 20993
+www.fda.govK233108 - Nguyet (Jun) Phan Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Yanna S. Kang -S
+Yanna Kang, Ph.D.
+Assistant Director
+Mammography and Ultrasound Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K233108
+I
+Device Name
+I VinDr-Mammo
+Indications for Use (Describe)
+The VinDr-Mammo is a passive notification for prioritization-only, a parallel-workflow software tool
+used by MQSA qualified interpreting physicians to prioritize patients with suspicious findings in the
+medical care environment. VinDr-Mammo utilizes an artificial intelligence algorithm to analyze 2D
+FFDM screening mammograms and flags those that are suggestive of the presence of at least one
+suspicious finding at the exam-level. VinDr-Mammo produces an exam-level output to a PACS/
+Workstation for flagging the suspicious case and allows worklist prioritization.
+MQSA qualified interpreting physicians are responsible for reviewing each exam on a display
+approved for use in mammography, according to the current standard of care. VinDr-Mammo device
+is limited to the categorization of exams, does not provide any diagnostic information beyond triage
+and prioritization, does not remove images from the interpreting physician's worklist, and should not
+be used in lieu of full patient evaluation, or relied upon to make or confirm diagnosis.
+The VinDr-Mammo device is intended for use with complete 2D FFDM mammography exams
+acquired using validated FFDM systems only.
+Type of Use (Select one or both, as applicable)
+[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."K233108 510(k) Summary
+I. Submission Sponsor
+VinBigData Joint Stock Company
+Symphony Office Building, Chu Huy Man Street, Vinhomes Riverside Ecological
+Urban Area, Phuc Loi Ward, Long Bien District, Ha Noi, Vietnam
+Telephone number: (+84) 968 496 314
+Contact: Phan (Jun) Minh Nguyệt
+Title: Regulatory Affairs Specialist
+Phone number: (+84) 326 066 2088
+Date Prepared: 19 April 2024
+Device Identification:
+Trade/Proprietary Name: VinDr-Mammo
+Common/Usual Name: Radiological computer aided triage and notification software
+Classification Name: Radiological computer aided triage and notification software
+Regulation Number: 21 CFR 892.2080
+QFM, Radiological Computer-Assisted Prioritization Software
+Product Code:
+For Lesions
+Device Class: Class II
+Classification Panel: Radiology
+II. Predicate Device
+The VinDr-Mammo device is substantially equivalent to the following device:
+PAGE 1 OF 15Proprietary Name CogNet QmTRIAGE
+Premarket Notification K220080
+Classification Name Radiological Computer-Assisted Prioritization Software
+Regulation Number 21 CFR 892.2080
+Product Code QFM
+Regulatory Class II
+III. Device Description
+The VinDr-Mammo is an innovative medical device designed to assist in the analysis
+and triage of 2D full-field digital mammogram (FFDM) screening mammograms.
+Operating as non-invasive computer-assisted software, known as SaMD, it employs a
+machine learning algorithm to identify potential suspicious findings within the images.
+Once identified, the system promptly notifies a PACS/workstation for further examination.
+This passive-notification feature enables radiologists to prioritize their workload efficiently
+and view studies in order of importance using standard PACS or workstation viewing
+software. It is important to note that the VinDr-Mammo software is intended solely to aid
+in the prioritization and triage of radiological medical images. It serves as a valuable tool
+for MQSA interpreting physicians who specialize in mammogram readings,
+complementing the standard of care. It should be emphasized that the device does not
+replace the need for a comprehensive evaluation as per established medical practices.
+During the algorithm's training, independent datasets from various global sites were
+utilized, ensuring a robust and diverse training experience.
+The VinDr-Mammo code can be viewed by radiologists on a Picture Archiving and
+Communication System (PACS), Electronic Patient Record (EPR), and/or Radiology
+PAGE 2 OF 15Information System (RIS) worklist and can be used to reorder the worklist: the
+mammographic studies with code 1 should be prioritized over those with code 0 and, thus,
+should be moved to the top of the worklist. As a software-only device, VinDr-Mammo can
+be hosted on a compatible host server connected to the necessary clinical IT systems such
+that DICOM studies can be received and the resulting outputs returned where they can be
+incorporated into the radiology worklist.
+The following modules compose the VinDr-Mammo software:
+ Data input and validation: Following retrieval of a study, the validation feature
+assessed the input data (i.e. age, modality, view) to ensure compatibility for
+processing by the algorithm.
+ VinDr-Mammo algorithm: Once a study has been validated, the algorithm analyzes
+the 2D FFDM screening mammogram for detection of suspected findings.
+ API Cognitive service: The study analysis and the results of a successful study
+analysis are provided through an API service, whose outputs will then be sent to the
+appropriate clinical IT system for viewing on a radiology worklist.
+ Error codes feature: In the case of a study failure during data validation or the
+analysis by the algorithm, an error is provided to the system.
+IV. Intended Use/Indication for Use
+The VinDr-Mammo is a passive notification for prioritization-only, a parallel-
+workflow software tool used by MQSA qualified interpreting physicians to prioritize
+patients with suspicious findings in the medical care environment. VinDr-Mammo utilizes
+an artificial intelligence algorithm to analyze 2D FFDM screening mammograms and flags
+those that are suggestive of the presence of at least one suspicious finding at the exam-
+level. VinDr-Mammo produces an exam-level output to a PACS/Workstation for flagging
+the suspicious case and allows worklist prioritization.
+MQSA qualified interpreting physicians are responsible for reviewing each exam
+on a display approved for use in mammography, according to the current standard of care.
+VinDr-Mammo device is limited to the categorization of exams, does not provide any
+PAGE 3 OF 15diagnostic information beyond triage and prioritization, does not remove images from the
+interpreting physician’s worklist, and should not be used in lieu of full patient evaluation,
+or relied upon to make or confirm diagnosis.
+The VinDr-Mammo device is intended for use with complete 2D FFDM
+mammography exams acquired using validated FFDM systems only.
+V. Technological Characteristics Compared to Predicate Device
+The technological characteristics, e.g., overall design, mechanism of action, mode
+of operation, performance characteristics, etc., and the intended use of the VinDr-Mammo
+device are substantially equivalent to the predicate device cited above.
+A comparison of the technological characteristics with the predicate is summarized below.
+Predicate Device
+Technological Proposed Device
+CogNet QmTRIAGE Summary
+Characteristics VinDr-Mammo
+(K220080)
+The VinDr-Mammo is The MedCognetics
+a passive notification (CogNet)
+for prioritization-only, QmTRIAGETM
+parallel-workflow software is a passive
+software tool used by notification for
+Indication for MQSA qualified prioritization-only,
+Use/Intended interpreting physicians parallel-workflow Same
+Use to prioritize patients software tool used by
+with suspicious MQSA qualified
+findings in the medical interpreting physicians
+care environment. to prioritize patients
+VinDr-Mammo utilizes with suspicious
+an artificial intelligence findings in the medical
+PAGE 4 OF 15algorithm to analyze care environment.
+2D FFDM screening QmTRIAGETM
+mammograms and utilizes an artificial
+flags those that are intelligence algorithm
+suggestive of the to analyze 2D FFDM
+presence of at least one screening
+suspicious finding at mammograms and
+the exam-level. VinDr- flags those that are
+Mammo produces an suggestive of the
+exam-level output to a presence of at least one
+PACS/Workstation for suspicious finding at
+flagging the suspicious the exam level.
+case and allows QmTRIAGETM
+worklist prioritization. produces an exam level
+MQSA qualified output to a
+interpreting physicians PACS/Workstation for
+are responsible for flagging the suspicious
+reviewing each exam study and allows for
+on a display approved worklist prioritization.
+for use in MQSA qualified
+mammography, interpreting physicians
+according to the current are responsible for
+standard of care. reviewing each exam
+VinDr-Mammo device on a display approved
+is limited to the for use in
+categorization of mammography,
+exams, does not according to the current
+provide any diagnostic standard of care. The
+PAGE 5 OF 15information beyond QmTRIAGE device is
+triage and limited to the
+prioritization, does not categorization of
+remove images from exams, does not
+the interpreting provide any diagnostic
+physician’s worklist, information beyond
+and should not be used triage and
+in lieu of full patient prioritization, does not
+evaluation, or relied remove images from
+upon to make or the interpreting
+confirm diagnosis. physician’s worklist,
+The VinDr-Mammo and should not be used
+device is intended for in lieu of full patient
+use with complete 2D evaluation, or relied
+FFDM mammography upon to make or
+exams acquired using confirm diagnosis.
+validated FFDM The QmTRIAGE
+systems only. device is intended for
+use with complete 2D
+FFDM mammography
+exams acquired using
+validated FFDM
+systems only.
+Notification-
+only, parallel Yes Yes Same
+workflow tool
+User Interpreting physician Interpreting physician Same
+PAGE 6 OF 15Yes; passive Yes; passive
+Alert to finding notification flagged for notification flagged for Same
+review review
+Independent of Yes; No cases are Yes; No cases are
+Same
+SoC workflow removed from worklist removed from worklist
+FFDM screening FFDM screening
+Modality Same
+mammograms mammograms
+FFDM
+manufacturers
+GE, Siemens, Fujifilm Hologic Same
+have been
+validated
+Body part Breast Breast Same
+AI algorithm Yes Yes Same
+Limited to
+analysis of Yes Yes Same
+imaging data
+- Standard 2D FFDM - Standard 2D FFDM
+screening screening
+mammograms mammograms
+Inclusion - Biopsy proven cancer - Biopsy proven cancer
+Equivalent
+Criteria studies (soft tissues and studies (soft tissues and
+microcalcifications) microcalcifications)
+- Biopsy-proven benign - BIRADS 1 and 2
+studies normal/benign cases
+PAGE 7 OF 15- BIRADS 1 and 2 with 2‐year follow‐up
+normal cases with 2‐ of a negative diagnosis
+year follow‐up of a - Female patients 22
+negative diagnosis and older
+- Bilateral Studies with - Bilateral Studies with
+4 standard views (LCC, 4 standard views (LCC,
+LMLO, RCC, RMLO) LMLO, RCC, RMLO)
+Similar, different
+criteria and
+scope are
+-Studies that do not intended to limit
+include all 4 views to specific
+-Digital Breast - Digital breast mammography
+Exclusion tomosynthesis studies tomosynthesis images methods. This
+Criteria - 3D studies - 2D synthetic views does not raise
+Studies that do not from tomosynthesis any questions
+comply with the regarding safety
+inclusion criteria or efficacy and
+use of
+mammography
+images
+Aids prompt
+identification of
+cases with Yes Yes Same
+indicated
+findings
+PAGE 8 OF 15Multiple
+operating No Applicable Not Applicable Same
+points
+Presentation of The device operates in
+notification and parallel with the
+preview of the study standard of care, which
+for initial assessment remains the default
+not meant for option for all cases.
+Preview Images diagnostic purposes. Encapsulated PDF Equivalent
+The device operates in stored
+parallel with the with original DICOM
+standard of care, which study and may be
+remains the default downloaded and
+option for all cases. viewed as a PDF.
+Where results
+PACS / Workstation PACS / Workstation same
+are received
+VI. Performance Data
+Safety and performance of VinDr-Mammo has been evaluated and verified in
+accordance with software specifications and applicable performance standards through
+Software Development and Validation & Verification Process to ensure performance
+according to specifications, User Requirements and Federal Regulations and Guidance
+documents, “Guidance for the Content of Premarket Submissions for Software Contained
+in Medical Devices”.
+The performance of the VinDr-Mammo device has been validated in two separate
+pivotal studies. The first study employed 2D digital mammograms (FFDM) provided by
+the Radiological Society of North America (RSNA) via their RSNA Screening
+PAGE 9 OF 15Mammography Breast Cancer Detection AI Challenge. The second was a performance
+study for triage of 2D FFDM screening mammogram cases from two Vietnamese hospitals.
+The RSNA dataset was used to demonstrate the generalizability of the device to the
+demographics of the US population. The data set consisted of 1000 2D FFDM
+mammogram exams including 252 cases positive for cancer with histologically proven and
+748 cases negative for breast cancer (BI-RADS 1, BI-RADS 2 and biopsy-proven benign)
+with a two-year follow-up of a negative diagnosis. A table of results is provided below:
+Metrics Mean Lower 95% CI bound Upper 95% CI bound
+Sensitivity 0.889 0.849 0.926
+Specificity 0.906 0.885 0.927
+AUC 0.958 0.945 0.970
+A summary of the DDSM dataset characteristics are provided in the table below:
+Characteristics Quantity/Type
+Characteristics Quantity/Type
+Number of Studies 1000
+Number of Images 5126
+Number of Patients 1000
+Density A 100
+Density B 400
+Density C 400
+Density D 100
+Age (<40) 14
+Age (40-49) 266
+Age (50-59) 266
+PAGE 10 OF 15Characteristics Quantity/Type
+Age (60-69) 251
+Age (70-79) 155
+Age (≥80) 46
+Ethnicity Representative of the US Population
+Scanner Type Unknown
+Due to lack of scanner information from the RSNA dataset, a secondary dataset of
+2D FFDM from a frontline Vietnamese hospital (Hanoi Medical University Hospital) was
+used to demonstrate the generalizability to different screening modalities. The data
+included a retrospective cohort of 1864 anonymized 2D FFDM mammograms, including
+466 cases positive with biopsy-confirmed cancers and 1398 cases negative for breast
+cancer (BIRADS1, BIRADS2 and biopsy-proven benign) with a two-year follow-up of a
+negative diagnosis.
+To ensure the data addressed confounding factors present in the population of
+women undergoing breast cancer screening, the test set was carefully constructed. Several
+factors, such as lesion type, breast density, age, and histology type, were considered. The
+accuracy of stand-alone detection and triage was measured on this cohort against the
+ground truth. A table of results is provided below:
+Metrics Mean Lower 95% CI bound Upper 95% CI bound
+Sensitivity 0.906 0.879 0.931
+Specificity 0.911 0.896 0.926
+AUC 0.965 0.957 0.971
+A summary of the Vietnamese data set characteristics are provided in the table below:
+PAGE 11 OF 15Characteristics Quantity/Type
+Number of Studies 1864
+Number of Images 5126
+Number of Patients 1864
+Density A 180
+Density B 746
+Density C 746
+Density D 192
+Age (<40) 327
+Age (40-49) 430
+Age (50-59) 421
+Age (60-69) 388
+Age (70-79) 231
+Age (≥80) 67
+Ethnicity Vietnamese
+Hologic (Selenia Dimensions 3000) 517
+Siemens (Mammomat Inspiration) 499
+Fujifilm (AMULET Innovality) 482
+GE (Senographe Essential ADS) 366
+The aggregate results for both the RSNA and Vietnamese data sets are provided in
+the table below:
+Metrics Mean Lower 95% CI bound Upper 95% CI bound
+Sensitivity 0.900 0.877 0.921
+Specificity 0.910 0.897 0.922
+PAGE 12 OF 15AUC 0.962 0.957 0.971
+This performance is substantially equivalent to that of the predicate (K220080). A
+table of the predicate results is provided below:
+Metrics Mean Lower 95% CI bound Upper 95% CI bound
+Sensitivity 0.870 _ _
+Specificity 0.890 _ _
+AUC 0.957 0.936 0.973
+To further assess VinDr-Mammo's performance, we analyzed results across four
+key factors: breast density, age group, scanner model, and lesion type. The following tables
+illustrate how the Area Under the Curve (AUC) metric remains consistent across these
+various subgroups.
+Breast Density RSNA Test set VinDr Test set
+A
+0.964 (0.922-0.994) 1.000 (1.000-1.000)
+B
+0.967 (0.952-0.981) 0.990 (0.983-0.996)
+C 0.946 (0.922-0.967) 0.908 (0.886-0.928)
+D 0.949 (0.922-0.975) 0.947 (0.912-0.975)
+Age group RSNA Test set VinDr Test set
+Age (<40)
+1.000 (1.000-1.000) 0.988 (0.975-0.997)
+Age (40-49)
+0.969 (0.947-0.985) 0.920 (0.894-0.943)
+PAGE 13 OF 15Age (50-59) 0.952 (0.915-0.983) 0.964 (0.948-0.978)
+Age (60-69) 0.941 (0.921-0.960) 0.993 (0.986-0.997)
+Age (70-79)
+0.952 (0.916-0.982) 0.974 (0.933-0.997)
+Age (≥80)
+0.928 (0.873-0.977) 0.974 (0.939-0.997)
+Scanner model RSNA Test set VinDr Test set
+Hologic
+- 0.968 (0.952-0.982)
+Siemens
+- 0.999 (0.997-1.000)
+Fujifilm
+- 0.969 (0.944-0.988)
+GE 0.982 (0.961-0.996)
+-
+Lesion type RSNA Test set VinDr Test set
+Mass
+- 0.966 (0.951-0.979)
+Calcification
+- 0.963 (0.951-0.974)
+A secondary endpoint was established to determine time performance of VinDr-
+Mammo to ensure that mammograms can be processed, and notification results returned
+for use by radiologists within minutes which is clinically acceptable. Lastly the timing
+performance for the device was shown to be an average of 2.8 minutes at a network speed
+of 10Mbits/s upload and 36Mbits/s download. This is well within the clinical operational
+expectations of the breast if biopsy-proven benign screening.
+VII. Clinical Performance Data
+PAGE 14 OF 15There was no human clinical testing required to support the substantial equivalence
+of the subject device. The non-clinical testing detailed in this submission supports the
+substantial equivalence of the device.
+VIII. Conclusion
+VinDr-Mammo has the same intended uses and similar indications, technological
+characteristics, and principles of operation as MedCognetics. The minor differences
+between the subject device and the predicate raise no new issues of safety or effectiveness.
+Performance data demonstrates that VinDr-Mammo performs as intended. Thus, VinDr-
+Mammo is substantially equivalent to the legally marketed predicate device.
+PAGE 15 OF 15

@@ -1,0 +1,546 @@
+Build Correspondence Convert to PDF
+August 28, 2025
+Twinsight
+Meghan McFadden
+Quality and Regulatory Affairs Engineer
+Biopolis
+5 avenue du Grand Sablon
+La Tronche, 38700
+France
+Re: K250290
+Trade/Device Name: SurgiTwin
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: LLZ, QIH
+Dated: January 31, 2025
+Received: January 31, 2025
+Dear Meghan McFadden:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.08.00
+Silver Spring, MD 20993
+www.fda.govK250290 - Meghan Mcfadden Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K250290 - Meghan Mcfadden Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb
+Assistant Director
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K250290
+I
+Device Name
+SurgiTwin
+Indications for Use (Describe)
+SurgiTwin is a web-based platform designed to help healthcare professionals carry out pre-operative
+planning for knee reconstruction procedures, based on their patients' imported imaging studies.
+Experience in usage and a clinical assessment is necessary for the proper use of the system in the
+revision and approval of the output of the planning.
+The system works with a database of digital representations related to surgical materials supplied by
+their manufacturers. SurgiTwin generates a PDF report as an output. End users of the generated
+SurgiTwin reports are trained healthcare professionals. SurgiTwin does not provide a diagnosis or
+surgical recommendation.
+Type of Use (Select one or both, as applicable)
+[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+510(k) Summary
+This 510(k) summary of safety and effectiveness is being submitted in accordance with the
+requirements of 21 CFR 807.92.
+1. Submitter
+Twinsight
+5 avenue du Grand Sablon
+38700 La Tronche
+France
+Contact Person: Meghan McFadden
+Quality and Regulatory Affairs Engineer
+Email: qara@twinsight-medical.com
+Phone: +33 6 68 02 05 61
+Date Summary Prepared: 29 August, 2025
+2. Device
+2.1. SurgiTwin
+Trade Name/Common Name: SurgiTwin
+Classification Name: Medical image management and processing system
+(21 C.F.R. § 892.2050)
+Regulatory Class: Class II
+Product Code: LLZ, QIH
+510(k) Number: K250290
+3. Legally Marketed Predicate Device
+3.1. Peekmed web
+510(k) Product Name Clearance Date
+K240926 PeekMed web December 2024
+510(k) Summary: SurgiTwin
+1K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+4. Device Description Summary
+SurgiTwin is a semi-automated Software as a Medical Device (SaMD) that assists health
+care professionals in the pre-operative planning of total knee replacement surgery. Using a
+series of algorithms, the software creates 2D segmented images, a 3D model, and relevant
+measurements derived from the patient’s pre-dimensioned medical images. The software
+interface allows the user to adjust the plan manually to verify the accuracy of the model and
+achieve the desired clinical targets. SurgiTwin generates a PDF report as an output.
+SurgiTwin does not provide a diagnosis or surgical recommendation.
+The intended patient population is patients over 22 undergoing total knee replacement
+surgery without any existing material in the operated lower limb.
+5. Intended Use/Indications for Use
+SurgiTwin is a web-based platform designed to help healthcare professionals carry out
+pre-operative planning for knee reconstruction procedures, based on their patients' imported
+imaging studies. Experience in usage and a clinical assessment is necessary for the proper
+use of the system in the revision and approval of the output of the planning.
+The system works with a database of digital representations related to surgical materials
+supplied by their manufacturers. SurgiTwin generates a PDF report as an output. End users
+of the generated SurgiTwin reports are trained healthcare professionals. SurgiTwin does not
+provide a diagnosis or surgical recommendation.
+5.1. Contraindications
+SurgiTwin is contraindicated as follows:
+1. Patients under 22 years of age
+2. Presence of orthopedic hardware in the limb to be operated
+3. Pathological anomaly in the limb to be operated including fracture, tumor, or
+significant bone loss
+4. Patients with severe limb deformities
+5. Contraindications for each implant as indicated by the implant manufacturer
+5.2. Indications for Use Comparison
+SurgiTwin assists the surgeon in pre-surgical planning of the knee, while the predicate
+allows planning in the knee, hip, upper limb, and foot. The anatomical region and surgical
+procedure covered in SurgiTwin are included in its predicate. Comparison of the indications
+for use therefore supports the substantial equivalence of SurgiTwin and its predicate.
+510(k) Summary: SurgiTwin
+2K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+6. Technological Comparison to Predicate
+SurgiTwin has been evaluated in comparison to its predicate device regarding intended use,
+indications for use, design, function, and technology. Both the subject device and its
+predicate are medical software designed to assist healthcare professionals in orthopedic
+pre-surgical planning for the adult musculoskeletal system within a clinical setting.
+Appropriate clinical judgment and experience are mandatory for the use of both devices.
+The two devices follow the same workflow, share similar use requirements (such as internet
+connectivity and user verification and approval of outputs), and offer comparable planning
+functionalities, including model representation, digital overlap of prosthetic material, and
+support for both 2D and 3D environments. Additionally, both devices generate a final
+planning report that incorporates selected images with templates, measurements, and
+textual descriptions of the patient and/or the planned surgical procedure.
+The analysis of technological differences between SurgiTwin and the predicate device
+performed in the context of this 510(k) submission supports substantial equivalence. A
+summary of this comparison is presented in the table below.
+510(k) Summary: SurgiTwin
+3K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+Table 1: Summary of predicate and subject device characteristics and rationale for substantial equivalence
+SurgiTwin
+Peekmed web Substantially
+Characteristic Subject Device Justification and rationale
+K240926 Equivalent?
+K250290
+Product Code LLZ, QIH LLZ, QIH Yes –
+Regulation Number 21 CFR 892.2050 21 CFR 892.2050 Yes –
+Medical Image Management And Medical Image Management And
+Regulation Name Yes –
+Processing System Processing System
+SurgiTwin is a web-based platform
+designed to help healthcare
+professionals carry out pre-operative
+planning for knee reconstruction
+PeekMed web is a system designed to procedures, based on their patients'
+help healthcare professionals carry out imported imaging studies. Experience in
+pre-operative planning for several surgical usage and a clinical assessment is
+procedures, based on their imported necessary for the proper use of the
+patients’ imaging studies. Experience in system in the revision and approval of
+Yes The last three sentences have been
+usage and a clinical assessment is the output of the planning.
+Intended Use See added for clarification but do not alter the
+necessary for the proper use of the system
+justification intended use compared to the predicate.
+in the revision and approval of the output The system works with a database of
+of the planning. The multi-platform system digital representations related to surgical
+works with a database of digital materials supplied by their
+representations related to surgical manufacturers. SurgiTwin generates a
+materials supplied by their manufacturers. PDF report as an output. End users of
+the generated SurgiTwin reports are
+trained healthcare professionals.
+SurgiTwin does not provide a diagnosis
+or surgical recommendation.
+510(k) Summary: SurgiTwin
+4K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+SurgiTwin
+Peekmed web Substantially
+Characteristic Subject Device Justification and rationale
+K240926 Equivalent?
+K250290
+This medical device consists of a
+This medical device consists of a decision
+decision support tool for qualified
+support tool for qualified healthcare
+healthcare professionals to quickly and
+professionals to quickly and efficiently
+efficiently perform the pre-operative
+perform the pre-operative planning for
+planning for total knee arthroplasty SurgiTwin allows the surgeon to perform
+several surgical procedures, using medical
+procedures, using medical imaging with the pre-surgical planning efficiently in the
+imaging with the additional capability of
+the additional capability of planning the knee, while the predicate allows planning
+planning the 2D or 3D environment. The
+2D or 3D environment. The system is Yes in the hip, knee, upper limb, and foot. The
+system is designed for the medical
+Indications for Use designed for medical specialties within See anatomical region and surgical procedure
+specialties within surgery and no specific
+surgery and no specific use environment justification covered in SurgiTwin are included in its
+use environment is mandatory, whereas
+is mandatory. The typical use predicate. Comparison of the indications
+the typical use environment is a room with
+environment is a room with a computer. for use therefore supports substantial
+a computer. The patient target group is
+The intended patient group is patients equivalence.
+adult patients who have an injury or
+over 22 years old identified to require
+disability diagnosed previously. There are
+knee reconstruction surgery without any
+no other considerations for the intended
+existing material in the operated lower
+patient population.
+limb.
+510(k) Summary: SurgiTwin
+5K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+SurgiTwin
+Peekmed web Substantially
+Characteristic Subject Device Justification and rationale
+K240926 Equivalent?
+K250290
+SurgiTwin is contraindicated as follows:
+- Patients under 22 years of age
+- Presence of orthopedic Contraindications are added as a
+hardware in the joint to be precautionary measure to enhance user
+operated awareness and ensure safe and
+- Pathological anomaly in the limb Yes appropriate use of the device within its
+Contraindications No contraindications specific to this device. to be operated including fracture, See intended population. They do not indicate
+tumor, or significant bone loss justification a fundamental difference in SurgiTwin’s
+- Patients with severe limb technological characteristics, intended
+deformities use, or performance compared to the
+- Contraindications for each predicate.
+implant as given by the implant
+manufacturer
+SurgiTwin allows the surgeon to perform
+the pre-surgical planning efficiently in the
+knee, while PeekMed® web allows
+PeekMed web allows the surgeon to SurgiTwin allows the surgeon to Yes planning in the hip, knee, upper limb, and
+Clinical Purpose efficiently perform orthopedic pre-surgical efficiently perform orthopedic See foot. The anatomical region and surgical
+planning in the musculoskeletal system pre-surgical planning in the knee justification procedure covered in SurgiTwin are
+included in its predicate. Comparison of
+the general purpose therefore supports
+substantial equivalence.
+PeekMed web allows the surgeon to
+perform the pre-surgical planning in the
+following anatomical regions: SurgiTwin allows the surgeon to Yes
+Anatomical Regions - Hip efficiently perform orthopedic See See justification above.
+- Knee pre-surgical planning in the knee justification
+- Upper limb
+- Foot
+510(k) Summary: SurgiTwin
+6K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+SurgiTwin
+Peekmed web Substantially
+Characteristic Subject Device Justification and rationale
+K240926 Equivalent?
+K250290
+Patient Population Adults Adults Yes
+End Users Healthcare Professionals Healthcare Professionals Yes –
+Software is cloud-based (not installable) Software is cloud-based (not installable)
+and can be displayed on any personal and can be displayed on any personal
+Device Availability Yes –
+device or workstation that can run on a device or workstation that can run on a
+web browser web browser
+Distributed system (cloud-based). This
+Distributed system (cloud-based). This
+distributed system is a combination of
+distributed system is a combination of
+Software Architecture software modules placed on servers that Yes –
+software modules placed on servers that
+are able to communicate with each
+are able to communicate with each other.
+other.
+The workflow is as follows: Import case The workflow is as follows: Import case
+images, configure images, identify the images, configure images, identify the
+Workflow Yes –
+case, pre-surgical planning, and export the case, pre-surgical planning, and export
+case. the case.
+Internet Connection Required Required Yes
+Receives medical images from various Receives medical images from various
+Image Source Yes –
+sources sources
+The software processes data to provide an The software processes data to provide
+Data Processing overlap and dimensioning of digital an overlap and dimensioning of digital Yes –
+representations of the prosthetic material representations of the prosthetic material
+Digital overlap of Allows the overlap of models and the Allows the overlap of models and the
+Yes –
+templates intersection of the models intersection of the models
+Interactive model
+Yes Yes Yes –
+positioning
+510(k) Summary: SurgiTwin
+7K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+SurgiTwin
+Peekmed web Substantially
+Characteristic Subject Device Justification and rationale
+K240926 Equivalent?
+K250290
+Interactive model
+Yes Yes Yes –
+dimensioning
+Model Rotation Yes Yes Yes –
+Support for digital
+prosthetic materials
+Yes Yes Yes –
+provided by the
+manufacturers
+Contact with the patient No No Yes –
+Control of life supporting
+No No Yes –
+devices
+Human intervention for
+Yes Yes Yes –
+image interpretation
+Tools for surgical
+Yes Yes Yes –
+simulation and planning
+Preoperative annotation Yes Yes
+Yes –
+and analysis
+Provides values Yes, including distance and angle Yes, including distance and angle Yes
+–
+for measurement measurement measurement
+Automatic bone
+Yes Yes Yes –
+segmentation
+Machine learning
+models for image Yes Yes Yes –
+segmentation
+510(k) Summary: SurgiTwin
+8K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+SurgiTwin
+Peekmed web Substantially
+Characteristic Subject Device Justification and rationale
+K240926 Equivalent?
+K250290
+MPR View Yes Yes Yes –
+Automatic placement of Yes Yes Yes
+–
+anatomical landmarks
+Approval of anatomical Yes Yes
+-
+landmarks by user
+Modification of Yes No Yes
+See discussion of technological
+anatomical landmarks See
+differences below.
+justification
+510(k) Summary: SurgiTwin
+9K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+6.1. Discussion of Technological Differences
+The device and its predicate have the following differences:
+1. SurgiTwin supports automatic landmark placement while PeekMed web supports
+both manual and automatic landmark placement. Landmark placement is required to
+be validated by the qualified orthopedic surgeon using the software in order to
+generate the planning results.
+2. SurgiTwin allows the surgeon to perform the pre-surgical planning in the knee, while
+PeekMed® web allows planning in the hip, knee, upper limb, and foot.
+The assessment of these technological differences supports substantial equivalence of
+SurgiTwin to its predicate because:
+1. The automatic landmarking feature is designed to streamline the placement of
+landmarks on each bone before surgical planning, but is not intended to provide
+medical advice on their positioning. The qualified user must review and validate the
+landmark placement before proceeding with surgical planning. In addition,
+performance testing and validation confirmed that the automatic landmarking feature
+is more accurate than that of the predicate. The requirement for user approval
+ensures that clinicians review landmark placement before continuing.
+2. The anatomical region and surgical procedure covered in SurgiTwin are included in
+its predicate.
+7. Performance Data
+Nonclinical performance testing performed on SurgiTwin supports substantial equivalence to
+the predicate device. Testing was performed in accordance with the following FDA guidance
+documents:
+● Content of Premarket Submissions for Device Software Functions
+● Cybersecurity in Medical Devices: Quality System Considerations and Content of
+Premarket Submissions
+● Applying Human Factors and Usability Engineering to Medical Devices
+● Technical Performance Assessment of Quantitative Imaging in Radiological Device
+Premarket Submissions
+● Off-The-Shelf Software Use in Medical Devices
+The following testing was performed:
+A. Verification activities to ensure that all features were correctly implemented to meet
+system requirements and fulfill acceptance criteria.
+B. The machine learning (ML) model incorporated into SurgiTwin was developed,
+trained, tested, and validated for its performance.
+a. ML Model Development and Testing Information
+510(k) Summary: SurgiTwin
+10K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+ML models were developed with datasets from multiple sites. The ML model was
+trained with 81% of the dataset and tested with the remaining 19%. This dataset
+was designed to represent the intended use population.
+b. Subgroup Definition
+Datasets were divided according to the following subgroups:
+○ Demographics
+● Patient Sex
+● Patient Age
+○ Equipment and protocols for image collection
+● Institution Name
+● Institution Location
+● Manufacturer
+● Image slice thickness
+The CT image parameters in the final test dataset fall within the acceptable input
+specifications for the SurgiTwin system:
+○ 0.3 mm to 5 mm pixel spacing and slice interval for hip-only and ankle-only
+scans
+○ 0.3 mm to 1.0 mm for scans including the knee region
+c. Acceptance Criteria
+The acceptance criteria for the segmentation ML model are shown in the following
+table:
+Metric Acceptance Criteria
+Mean DSC > 0.95
+Mean voxel based AHD < 1.0mm
+5th percentile of the DSC > 0.9
+95th percentile of the boundary based HD 95 < 2.5mm
+d. Reference Standard
+Comparison of the performance of the segmentation ML model against the
+predefined ground truth met the acceptance criteria for the model performance.
+e. Independence of Training and Validation Data
+To prevent data leakage, external validation datasets were collected separately from
+the development data. The validation dataset was labeled by different individuals
+510(k) Summary: SurgiTwin
+11K250290
+Twinsight
+Traditional 510(k) Premarket Notification
+SurgiTwin
+from the training dataset.
+The results from testing confirm that the ML model demonstrates acceptable
+performance for its intended population.
+C. The automatic landmark function was validated using a study to compare automatic
+landmarking performance to manual landmark placement by expert annotators. The
+system met predefined clinical acceptance criteria.
+D. A validation study was conducted to compare metrics generated by SurgiTwin to
+those from manual annotations by expert annotators. The system met predefined
+clinical acceptance criteria for all measurements.
+E. A validation study was performed to confirm the accuracy and clinical acceptability
+of the default implant placement algorithm. All acceptance criteria were met.
+F. A validation study was performed to verify the clinical acceptability of the
+osteophyte removal function. All acceptance criteria were met.
+G. External validation tests were performed by qualified personnel in an environment
+simulating the real end-user environment using a pre-defined test protocol. All
+acceptance criteria were met.
+Nonclinical performance testing demonstrated that the subject device fulfills its intended use
+with an acceptable performance according to clinical acceptance criteria for all functions.
+These tests will be repeated and updated when appropriate to ensure that the software
+continues to meet performance criteria. Performance testing of SurgiTwin therefore supports
+substantial equivalence to its predicate.
+8. Conclusion
+Based on the information presented in this 510(k) submission, SurgiTwin has been
+determined to be substantially equivalent to the legally marketed predicate device in terms of
+indications for use, intended use, design, technology, and performance.
+510(k) Summary: SurgiTwin
+12

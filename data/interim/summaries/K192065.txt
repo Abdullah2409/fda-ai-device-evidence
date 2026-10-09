@@ -1,0 +1,279 @@
+September 18, 2019
+Siemens Medical Solutions USA, Inc.
+℅ Ms. Veronica Padharia
+Regulatory Affairs Specialist
+2501 N Barrington Road
+HOFFMAN ESTATES IL 60192
+Re: K192065
+Trade/Device Name: syngo.via RT Image Suite
+Regulation Number: 21 CFR 892.5050
+Regulation Name: Medical charged-particle radiation therapy system
+Regulatory Class: Class II
+Product Code: MUJ
+Dated: July 31, 2019
+Received: August 1, 2019
+Dear Ms. Padharia:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.07
+Silver Spring, MD 20993
+www.fda.govK192065 – Ms. Veronica Padharia Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK192065
+A0027510(K)SUMMARY K192065
+FOR
+SYNGO.VIA RTIMAGE SUITE
+Submitted by:
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19355
+Date Prepared: June 25, 2019
+This summary of 510(k) safety and effectiveness information is being submitted in accordance with the
+requirements ofSMDA 1990 and 21 CFR §807.92.
+I.Submitter
+Importer/Distributor
+Siemens Medical Solutions USA, Inc.
+40 Liberty Boulevard
+Malvern, PA 19355
+Establishment Registration Number
+2240869
+Manufacturing Site
+Siemens Healthcare GmbH
+Siemensstr. 1
+D-91301Forchheim, Germany
+Establishment Registration Number
+3004977335
+Contact Person
+Veronica Padharia
+Regulatory Affairs Specialist, CNMT
+Siemens Medical Solutions, Inc. USA
+2501 N. Barrington Road
+Hoffman Estates, IL 60192
+Phone: (630) 877-5761
+Fax: (847) 304-6023
+email: veronica.padharia@siemens-healthineers.com
+II.Device Name and Classification
+Product Name: syngo.via RT Image Suite
+Propriety Trade Name: syngo.via RT Image Suite
+Classification Name: System, Planning, Radiation Therapy Treatment
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.5050
+Device Class: Class II
+Product Code: MUJ
+III.Predicate Device
+Predicate Device:
+Trade Name: syngo.via RT Image Suite
+510(k) Number: K173635
+Clearance Date: 01/12/2018
+Classification Name: System, Planning, Radiation Therapy Treatment
+Classification Panel: Radiology
+CFR Section: 21 CFR §892.5050
+A0029Device Class: Class II
+Product Code: MUJ
+Recall Information: There have been no recalls for this device
+IV.Device Description
+The subject device with the current software version SOMARIS/8 VB40 is an image analysis software
+for viewing, manipulation, 3D and 4D visualization, comparison of medical images from multiple
+imaging modalities and for the segmentation of tumors and organs-at-risk, prior to dosimetric planning
+and response assessment in radiation therapy. syngo.via RT Image Suite combines routine and
+advanced digital image processing and visualization tools for easy manual and software assisted
+contouring of volumes of interest, identification of points of interest, sending isocenter points to an
+external laser system, registering images and exporting final results. syngo.via RT Image Suite
+supports the medical professional with tools to use during different steps in radiation therapy case
+preparation. At a high-level, the following features have been modified:
+1. Beam Placement
+2. Reference Point Management
+3. Patient Marking
+4. Contouring
+5. Structure Set Management
+V.Indications for Use
+syngo.via RT Image Suite is a 3D and 4D image visualization, multi-modality manipulation and
+contouring tool that helps the preparation and response assessment of treatments such as, but not
+limited to those performed with radiation (for example, Brachytherapy, Particle Therapy, External
+Beam Radiation Therapy).
+It provides tools to efficiently view existing contours, create, edit,modify, copy contours of regions of
+the body, such as but not limited to, skin outline, targets and organs-at-risk. It also provides
+functionalities to create and modify simple treatment plans. Contours, images and treatment plans can
+subsequently be exported to a Treatment Planning System.
+The software combines following digital image processing and visualization tools:
+(cid:120) Multi-modality viewing and contouring of anatomical, functional, and multi-parametric
+images such as but not limited to CT, PET, PET/CT, MRI, Linac Cone Beam CT (CBCT)
+images and dose distributions
+(cid:120) Multiplanar reconstruction (MPR) thin/thick, minimum intensity projection (MIP), volume
+rendering technique (VRT)
+(cid:120) Freehand and semi-automatic contouring of regions-of-interest on any orientation including
+oblique
+(cid:120) Creation of contours on any type of images without prior assignment of a planning CT
+(cid:120) Manual and semi-automatic registration using rigid and deformable registration
+(cid:120) Supports the user in comparing, contouring, and adapting contours based on datasets acquired
+with different imaging modalities and at different time points
+(cid:120) Supports the user in comparing imagesand contours of different patients
+(cid:120) Supports multi-modality image fusion
+(cid:120) Visualization and contouring of moving tumors and organs
+(cid:120) Management of points of interest including but not limited to the isocenter
+(cid:120) Management of simple treatment plans
+(cid:120) Generation ofa synthetic CT based on multiple pre-define MR acquisitions
+A0030VI. Comparison of Technological Characteristics with the Predicate Device
+As with the predicate device, the subject device supports viewing, manipulation, 3D and 4D
+visualization, comparison of medical images from multiple imaging modalities and the segmentation of
+tumors and organs-at-risk, prior to dosimetric planning and response assessment in radiation therapy.
+At a high-level a tabular summary of the subject and predicate device’s technological differences is
+provided as Table 4below for the software version SOMARIS/8 VB40:
+Feature Comparison of the Subject Device to the Predicate Device
+Beam Creation of new geometric treatment plans for photon radiotherapy. The syngo.via workflow
+Placement supports a more user intuitive workflow (i.e. a more modern look and feel).
+Modification: Beam placement auto shape now also allows in creating rectangular block
+fields.
+Reference Reference Point Management allows the user to edit the position, color, and type of Points of
+Point Interest (POI).
+Management
+Modification: The workflow for reference point creation has been simplified and a
+streamlined workflow for breast iso-centering has been implemented.
+Patient Sending of reference points with offset details to a laser system.
+Marking
+Modification:Support of simplified workflow for breast iso-centering. Enabled by combining
+improvements in iso-centering contouring the breast. It identifies the breast boundaries and
+suggests a proper iso-center for breast treatment.
+Routine Routine Contouring tools (e. g. freehand drawing tools, creation of margins etc.)
+Contouring
+Modificationsinclude capability of interpolating contours, 3D Pan/Scale options, and option
+to add rectangular and ellipse as contour shapes, improvement in nudge tool to enable auto
+filling of the inner part of a closed contour, and restricting the margin extension to external
+contour.
+Advanced Advanced Contouring tools (automatic contouring of different structures, nudge 3D tool,
+Contouring contour interpolation etc.). Automatic contouring of pelvic and head/neck regions, support of
+Rapid Results Technology.
+Modification: This subject device provides the following extensions:
+(cid:120) Automatic Contouring can be applied on further structures (thoracic and abdominal
+regions)
+(cid:120) A new deep learning-based approach that uses an adversarial network has been
+implemented
+Structure Set The Structure Set Management provides the following functionality:
+Management (cid:120) Loading and storing of DICOM RT structure sets, creating, editing and deletion of
+structures and POIs.
+(cid:120) Creating, editing and deletion of structure templates.
+(cid:120) Customize predefined structure database with mapping to international nomenclature
+schemes.
+Modificationincludes simplifying the user interface.
+Table 1Differences in Technical Characteristics
+VII. Performance Data
+The following performance data were provided in support of the substantial equivalence determination.
+Software Verification and Validation
+Software Documentation for a Major Level of Concern software per FDA’s Guidance Document
+“Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices”
+issued on May 11, 2005 is also included as part of this submission. The performance data
+demonstrates continued conformance with special controls for medical devices containing software.
+The Risk Analysis was completed, and risk control implemented to mitigate identified hazards. The
+testing supports that all software specifications have met the acceptance criteria. Testing for
+verification and validation support the claim of substantial equivalence.
+A0031Non-Clinical Testing Summary
+Non-clinical tests (integration and functional) were conducted for syngo.via RT Image Suite during
+product development. Performance tests were conducted to test the functionality of the syngo.via RT
+Image Suite. The modifications described in this Premarket Notification were supported with
+verification/validation testing. These tests have been performed to test the ability of the included
+features of the subject device. The results of these tests demonstrate that the subject device performs as
+intended. The result of all conducted testing was found acceptable to support the claim of substantial
+equivalence.
+Clinical Testing Summary
+The results of the evaluation show improved performance of the subject device syngo.via RT Image
+Suite (software version SOMARIS/8 VB40), compared to the predicate device syngo.via RT Image
+Suite (software version SOMARIS/8 VB30). The detailed report is provided in support of the device
+modifications.
+The organ-at-risk (OAR) segmentation of the subject device consists of a region of interest detection
+based on anatomical landmarks, followed by a Deep Image-to-Image Network performing organ
+segmentation. Those both parts of the segmentation algorithm were validated separately using a testing
+set of 32 datasets.
+The detection rate of the subject device improved for the OAR Brain, Liver, Kidney Left, and Kidney
+Right compared to the predicate device, achieving 100% for all evaluated organs.
+The segmentation quality was assessed by comparing a manually annotated ground truth with the
+algorithm result using the distance measure Average Symmetric Surface Distance (ASSD) and the
+overlap measure DICE coefficient. The mean ASSD computed for the subject device ranged between
+0.64 mm (for Femur Head Right) and 3.04 mm (for Heart) and improved for all evaluated OAR. The
+mean DICE coefficient ranged between 0.85 (for Prostate and Rectum) and 0.97 (for Heart). The
+results for mean ASSD and mean DICE coefficient both demonstrate the improved segmentation
+quality provided by the subject device compared to the predicate device.
+Standards
+Siemens claims conformance to the following performance standards:
+Recognition Product Title of Standard Publication Standards
+Number Area Date Development
+Organization
+12-300 Radiology Digital Imaging and Communications in 06/27/2016 NEMA
+Medicine (DICOM) Set; PS 3.1 –3.20
+13-32 Software Medical Device Software –Software Life 08/20/2012 AAMI, ANSI,
+Cycle Processes; 62304:2006 (1stEdition) IEC
+5-40 Software/ Medical devices –Application of risk 08/20/2012 ISO
+Informatics management to medical devices; 14971
+Second Edition 2007-03-01
+5-114 General I Medical devices -Part 1: Application of 06/27/2016 IEC
+(QS/RM) usability engineering to medical devices
+IEC 62366-1:2015
+Summary
+This subject device provides tools designed help the medical professional in contouring and evaluating
+volumes of interest, for example gross target volumes, or organs-at-risk. The fundamental software
+technology which is provided within the scope of the subject device is already cleared and remains
+unchanged in comparison to the predicate device. The Indications for Use for the subject device
+remains unchanged. The modifications described in this Premarket Notification were supported with
+verification and validation testing and clinical performance evaluation. The Risk analysis was
+completed and risk control implemented to mitigate identified hazards.
+A0032General Safety and Effectiveness Concerns
+The device labeling contains instructions for use and any necessarycautions and warnings to provide
+for safe and effective use of the device. Risk management is ensured via a hazard analysis, which is
+used to identify potential hazards. These potential hazards are controlled during development,
+verification and validation testing. syngo.via RT Image Suite is designed to fulfill the requirements of
+the applicable safety and performance standards as listed above.
+VIII.Conclusions
+The predicate device was cleared based on non-clinical testing including verification and validation,
+phantom tests, and supportive literature. The results of these tests demonstrate that the predicate device
+is adequate for the intended use. The subject device is also tested using the same methods as used for
+the predicate devices. The comparisonof technological characteristics, non-clinical performance data,
+and software validation included in this submission demonstrates that the subject device is as safe and
+effective when compared to the predicate devices that are currently marketed for the same intended
+use. Since both devices were tested using the same methods, Siemens believes that the data generated
+from the syngo.via RT Image Suite testing supports a finding of substantial equivalence.
+A0033

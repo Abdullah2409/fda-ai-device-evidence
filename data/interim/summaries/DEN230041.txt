@@ -1,0 +1,452 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+SLEEP APNEA FEATURE
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Over-the-counter device to assess risk of sleep apnea. An over-the-counter device to
+assess risk of sleep apnea is intended to provide a notification of the risk of sleep apnea in
+users who have not been previously diagnosed with sleep apnea. This device uses
+software algorithms to analyze input sensor signals and provide a risk assessment for
+sleep apnea. It is not intended to provide a standalone diagnosis, replace traditional
+methods of diagnosis (e.g., polysomnography), assist clinicians in diagnosing sleep
+disorders, or be used as an apnea monitor.
+NEW REGULATION NUMBER: 21 CFR 868.2378
+CLASSIFICATION: Class II
+PRODUCT CODE: QZW
+BACKGROUND
+DEVICE NAME: Sleep Apnea Feature
+SUBMISSION NUMBER: DEN230041
+DATE DE Novo RECEIVED: May 31, 2023
+SPONSOR INFORMATION:
+Samsung Electronics Co., Ltd
+Samsung Research America
+665 Clyde Avenue,
+Mountain View, CA 94043 USA
+INDICATIONS FOR USE
+The Sleep Apnea Feature is indicated as follows:
+The Sleep Apnea Feature is an over-the-counter (OTC) software-only, mobile medical
+application operating on a compatible Samsung Galaxy Watch and Phone.
+This feature is intended to detect signs of moderate to severe obstructive sleep apnea in
+the form of significant breathing disruptions in adult users 22 years and older, over a two-
+night monitoring period. It is intended for on demand use.This feature is not intended for users who have previously been diagnosed with sleep
+apnea. Users should not use this feature to replace traditional methods of diagnosis and
+treatment by a qualified clinician. The data provided by this device is also not intended to
+assist clinicians in diagnosing sleep disorders.
+LIMITATIONS
+DON'T use this Sleep apnea feature if you've already been diagnosed with sleep apnea.
+DON'T use this Sleep apnea feature if you're under 22 years old.
+Your Galaxy Watch can't catch every case of obstructive sleep apnea. The watch only checks for
+possible moderate to severe obstructive sleep apnea and can't detect central sleep apnea.
+DON'T use this Sleep apnea feature if you've been diagnosed with any of these conditions:
+• Movement related conditions: Parkinson's, Tremor, Periodic Leg Movement During Sleep
+(PLMS)
+• Cardiac conditions: Congestive Heart Failure (CHF), atrial fibrillation
+• Lung conditions: Chronic Obstructive Pulmonary Disease (COPD), chronic bronchitis,
+emphysema, pulmonary fibrosis.
+You shouldn't use this sleep apnea feature if you're pregnant or have temporary symptoms of
+impaired breathing from flu, allergies, asthma, or any other condition, because your results may
+be inaccurate.
+DON'T change the dose or schedule of any medications based on results from this feature.
+Always talk to your doctor first.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+The Samsung Sleep Apnea Feature leverages wrist-worn PPG and actigraphy technology to
+create an over-the-counter (OTC) assessment of moderate-to-severe obstructive sleep apnea for
+adults. When enabled, the device utilizes the wearable platform's PPG-derived Sp02 to monitor
+the user's sleep for repetitive, relative decreases in their blood oxygenation indicative of
+significant breathing disruptions associated with sleep apnea. Each on-demand assessment period
+requires two successful nights of observation within 10 days. After two qualifying assessment
+nights, the device will display the result on the wearable, after which, the user is guided to the
+phone for additional information. This provides the user with health information so that they may
+seek out medical attention. No raw signal data, including the Sp02 signal, is provided to the user
+nor is it able to be shared with clinicians.
+The Samsung Sleep Apnea Feature consists of two mobile medical applications, one on the
+wearable (e.g., Samsung Galaxy Watch) and the other on the connected mobile phone (e.g.,
+De Novo Summary (DEN230041) Page 2 of 12Samsung Galaxy Phone), both commercial off-the-shelf general computing platforms.
+Communications between the two devices are accomplished by encrypted Bluetooth/BLE
+connection via standard protocols for data transfer. The wearable component of the Sleep Apnea
+Feature runs in the wearable's operating system allowing it to verify the
+identification/qualification of the hardware, request Sp02/accelerometer signals via private
+APIs, display information on the screen display, and send data and receive commands to the
+phone Sleep Apnea Feature on the associated phone. The phone component of the Sleep Apnea
+feature provides a UI for onboarding, labeling, and status as well as the ability for device
+updates.
+Sleep Apnea Classification Algorithm
+The Sleep Apnea Feature evaluates sleep sessions by leveraging the platform's capabilities to
+acquire PPG signals and derive Sp02 values from those signals. After performing PPG and
+Sp02 signal quality checks, the algorithm performs this function using 3 steps.
+1. Pre-Processing: Sp02 signal interpolation, segmentation, and feature extraction.
+2. Respiratory Event Classification: Identify presence of relative Sp02 drop in each 1-
+minute window.
+3. eAHI Estimation and Classification: Enumerate relative Sp02 dips, per-night comparison
+to the 15 events/hour estimated Apnea/Hypopnea Index (eAHI) threshold.
+To account for internight variability, the device requires two nights of sleep data indicating
+moderate-to-severe sleep apnea within 10 days. The possible combinations for this two-night
+voting, and if it results in a notification of insufficient data or a classification, are provided in
+Table 1.
+Table 1. Determination of the Results Based on Two Nights Within 10 days.
+i Classification Night 1 Night 2
+Didn't detect signs of Moderate- eAHI < 15 or > 15 or Insufficient
+to-Severe Obstructive Sleep eAHI < 15 Data (only if previous qualifying
+Apnea night eAHI <15)
+Detected signs of Moderate-to-
+eAHI > 15 eAHI > 15
+Severe Obstructive Sleep apnea
+Sleep Time <3 Hours
+Insufficient Data Notification
+Sp02 coverage < 70%
+The Sleep Apnea Feature includes machine learned algorithms. During their development
+datasets from representative populations were utilized from over 1000 subjects, split into
+separate training, tuning, and testing datasets, all maintained independently from the final
+verification and validation activities.
+Device Software Function Inputs
+The wearable hardware platform contains green/red/infrared PPG and accelerometer sensors to
+provide data to platform software functions that in turn process the data and output 3 data
+streams: "Sleep On/Off', "Sleep Off Delay", and Sp02 Data. These 3 data streams serve as
+inputs for the device software function algorithm blocks, while also providing data to other non-
+medical applications, such as Samsung Health's Sleep Tracking application.
+De Novo Summary (DEN230041) Page 3 of 12The Sp02 signal provided by the platform is qualified by utilizing multi-channel PPG signal
+quality and similarity calculations, while rejecting periods of noise and motion. If the segments
+are determined to be valid, the platform then calculates a Sp02 value for each of the four
+channels of qualifying signals. Finally, the four data channels are integrated into single stream of
+Sp02 values.
+The device software function independently verifies sufficient duration and continuity of Sp02
+as it comes from the platform, verifying sufficient Sp02 abundance and continuity to
+appropriately evaluate sleep sessions. The device outputs an Insufficient Data Notification if the
+provided Sp02 signal is not sufficient for classification.
+Multiple Function Device Products
+This product has functions subject to FDA premarket review as well as functions that are not
+subject to FDA premarket review. Specifically, the Samsung wearable and phone host numerous
+other functions for non-medical, general wellness and/or general consumer purposes.
+Consistent with FDA's guidance titled, "Multiple Function Device Products: Policy and
+Considerations," FDA assessed the other functions only to the extent that they either could
+adversely impact the safety and effectiveness of the functions subject to FDA premarket review
+or they are included as a labeled positive impact that was considered in the assessment of the
+functions subject to FDA premarket review. Samsung identified and assessed the risk of the
+presence of the other functions that directly contributes to the device software function, as well
+as those that stand apart, as a part of its System Risk Analysis. The assessment concluded that
+the identified risks posed by the other functions are minimal and do not impact the safety or
+effectiveness of the device.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+SOFTWARE
+Samsung Sleep Apnea Feature has a Moderate Level of Concern (LOC). Appropriate
+documentation was provided to support the validation of the software for a Moderate
+LOC in accordance with FDA's 2005 guidance titled, "Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices."
+CYBERSECURITY
+Samsung approach to cybersecurity aligns with FDA's 2014 guidance titled, "Content of
+Premarket Submissions for Management of Cybersecurity in Medical Devices." The
+device also conforms to the cybersecurity requirements identified in Section 524B to the
+FD&C Act.
+PERFORMANCE TESTING - BENCH
+Evaluation of Input Signal Quality
+De Novo Summary (DEN230041) Page 4 of 12The wearable platform is responsible for acquiring the signals used by the Sleep Apnea
+Feature. The PPG input signal quality depends on various biological and environmental
+factors, which can introduce variable noise components in the signal. To support the
+ability of the device software function to perform as intended, the following bench testing
+summarized in Table 2 was submitted.
+Table 2. Wearable Hardware Platform Bench Verification Testing Overview
+'teSiiiigitent Approach and Purpose
+Verify that the platform provides
+SpO2Data Integrity
+5p02 data at the correct frequency
+Verify that the platform provides
+Accelerometer Sensor
+accelerometer data with a minimum
+Performance
+sensitivity and a maximum noise
+Table 3 summarizes on-human testing that verify the Sp02 and Sleep platform functions
+are capable of producing quality data for the device software function to utilize.
+Table 3. Wearable Platform On-Human Verification Testing Overview
+Testing Item Approach and Purpose
+Reprocess prior clinical validation data to ensure
+updates to the platform sleep detection capability
+Sleep Time
+does not impact clinical performance. The current
+platform is verified during the clinical validation.
+On human sleep test conducted in split healthy and
+On-human Sleep
+sleep apnea subjects to verify real world performance
+5p02 Accuracy
+of the updated hardware and/or Sp02 platform.
+On human sleep test conducted in split healthy and
+On-human Sleep sleep apnea subjects to verify real world Sp02 signal
+Sp02 Coverage coverage of the updated hardware and/or Sp02
+platform.
+Comparing Wearable Sp02 to Arterial Line Sa02 per
+On-human Stationary
+IS080601-2-61:2017 to verify Sp02 capability's
+Sp02 Accuracy
+accuracy on subjects of varied skin tones
+On human bench testing to verify that low perfusion
+Low Perfusion does not reduce the accuracy of Sp02 capability on
+subjects of varied skin tones
+Samsung also provided platform interface specifications necessary to ensure the device
+software function would continue to perform as intended over time.
+De Novo Summary (DEN230041) Page 5 of 12SUMMARY OF CLINICAL INFORMATION
+A non-randomized, open-label, multi-center, single-blind study was conducted in an enriched
+adult population with an accredited sleep lab recruiting and enrolling subjects, analyzing study
+results, and writing the clinical study report. The study compared the result from the Samsung
+Sleep Apnea Feature, the Device Under Test (DUT), with physician's assessment on
+corresponding PSG from an FDA-cleared PSG device as the clinical gold standard. The objective
+was to validate that the Samsung Sleep Apnea Feature is capable of correctly differentiating and
+identifying general population wearable users who show signs of moderate-to-severe obstructive
+sleep apnea (AHI >15) and those users who do not show signs of moderate-to-severe obstructive
+sleep apnea (AHI <15), as measured by sensitivity and specificity, respectively.
+There were no device related adverse events. Out of 620 enrolled subjects, a total of 47 subjects
+did not complete the investigation.
+Study Results
+The Samsung Sleep Apnea Features' sensitivity was 82.7% (167 out of 202 subjects) with a 95%
+confidence interval of [76.7%, 87.6%], which passes the predetermined acceptance criteria. The
+DUT's specificity was 87.7% (235 out of 268) with a 95% confidence interval of [83.1%,
+91.4%], which did not pass the acceptance criteria. The Clopper-Pearson exact binomial interval
+was used to determine the confidence interval for sensitivity and specificity.
+The single night classification percent agreement between PSG and DUT is 84.2% (791 out of
+930 nights). The device data insufficiency rate is 16.7% (205 out of 1229 nights).
+While the proposed device did not pass the specificity acceptance criteria, a post-hoc analysis of
+the false positive subjects showed that of the 33 false positive subjects, 23 subjects (69.7%) had
+at least one night of positive PSG for moderate-to-severe obstructive sleep apnea (AHI > 15). Of
+these 23 subjects, 10 subjects also had mild sleep apnea (AHI? 5) on their second night and did
+not have a previous sleep apnea diagnosis. Though false positives by definition of the study
+design, the positive DUT classification benefited these 10 previously undiagnosed subjects,
+directing them to appropriate care and potential treatment. Considering the benefit received by
+these 10 subjects, a modified calculation increases specificity to 91.1% (95% lower confidence
+bound of 86.9%) surpassing the pre-specified specificity acceptance criteria.
+Subgroup Analyses
+Performance variations were observed among different subpopulation during this study.
+While demographic subgroups were not statistically powered for conclusive comparisons of
+performance, the observed performance trends in these subgroups were found to be acceptable.
+During the study, 399 subjects exhibited consistent PSG results across both nights of the
+study; 89 subjects had a normal PSG, 108 subjects had mild OSA, 91 subjects had moderate
+OSA, and 111 subjects had as severe PSG. The feature correctly identified all 89 normal
+subjects, 98 of the 108 mild subjects, 60 of the 91 moderate subjects, and 107 of the 111 severe
+subjects. A follow-up analysis of the False Negative subjects within the moderate group
+indicated that in 22 out of the 31 subjects, the reference reported < 20 AHI on one of the two
+nights (12 of which report < 17 AHI). Similarly, in 24 out of the 31 subjects, the device reported
+De Novo Summary (DEN230041) Page 6 of 12that 1 out of the 2 nights was OSA positive (eAHI > 15). This analysis indicates that a significant
+portion of these false negative subjects are on the border of mild and moderate sleep apnea,
+making them difficult to classify. However, the device still benefited majority of the moderate
+group. The device also educates the user on common OSA symptom in device labeling through
+UI elements, making them more aware of their sleep apnea condition, and advises them to seek
+medical care if they are unwell regardless of the result. These borderline users can also choose to
+test again in a few months, where the device is likely to produce a positive classification if their
+sleep apnea has worsened.
+For age, the subgroups were those under 40 years old (n = 160, sensitivity of 73.7%, specificity
+of 92.6%), those between 40 and 55 years old (n = 150, sensitivity of 87.9%, specificity of
+86.9%), and those over 55 years old (n = 160, sensitivity of 82.7%, specificity of 79%). For
+gender, the subgroups were male (n = 244, sensitivity of 86.1%, specificity of 83.5%) and female
+(n = 226, sensitivity of 76.7%, specificity of 90.9%). For BMI, the subgroups were those with
+BMI lower than 25 (n = 99, sensitivity of 70%, specificity of 91%) and those with BMI greater
+than 25 (n = 371, sensitivity of 83.3%, specificity of 86%). For skin tone, the subgroups were
+those with light skin tone (Fitzpatrick Scale 1 and 2, n = 116, sensitivity of 74.1%, specificity of
+94.8%), those with medium skin tone (Fitzpatrick Scale 3 and 4, n = 245, sensitivity of 85.7%,
+specificity of 82.7%), and those with darker skin tone (Fitzpatrick Scale 5 and 6, n = 109,
+sensitivity of 87.5%, specificity of 90.9%).
+In populations where the disease is less prevalent, such as females (76.7% sensitivity,
+90.9% specificity), Fitzpatrick Skin Tone I or II (lighter skin tone, 74.1% sensitivity, 94.8%
+specificity), BMI under 25 (70% sensitivity, 91% specificity), and age under 40 (73.7%
+sensitivity, 92.6% specificity), a trade off to achieve higher specificity at the expense of lower
+sensitivity is desirable for overall population accuracy of the device. Since disease prevalence in
+these groups is lower, the absolute number of users at risk of a false negative classification is
+also lower relative to other subgroups. Conversely, performance in the age over 55 group showed
+lower specificity and higher sensitivity, which is similarly desirable for this subpopulation.
+In the subpopulation where optical Sp02 technology is known to have lower performance
+(i.e., darker skin pigmentation), the DUT's sleep apnea classification accuracy exceeded that of
+the general population (sensitivity 87.5%, specificity 90.9%).
+Finally, the clinical study had 47 subjects with low baseline perfusion. In these subjects,
+the sensitivity and specificity of the device were 100% and 94.1%, respectively.
+Combined with passing all other endpoints in this study, it can be concluded that the
+device possesses an appropriate level of performance for general population obstructive sleep
+apnea assessment.
+Human Factors and Usability Study
+As an OTC device, the Human Factors Summative study included two separate portions:
+a Self-Selection portion and a Performance Testing portion. For the Self-Selection portion, a
+group of twenty adult consumers from the general public were given the Samsung Sleep Apnea
+Feature and the device's labeling to determine if they were an intended or non-intended user of
+De Novo Summary (DEN230041) Page 7 of 12the device. In this session, 16 correctly identified as intended users and 4 correctly identified as
+non-intended users.
+The performance testing portion consisted of 5 simulated use scenarios to evaluate the
+participants behavior after receiving the result classifications. It also included a knowledge
+question section focused on the participants' understanding of the product's limitations, to verify
+that they would not over rely on information from the product.
+During the summative study, one use error occurred that was associated with a critical
+task, where the participant said they would not contact the doctor after receiving the notification
+despite suffering from sleep related symptoms. In the follow-up exchange, this participant was
+demonstrated to be biased toward delay of treatment behavior due to prior healthcare
+experiences. However, the participant did respond correctly to knowledge questions indicating
+the correct action was to contact an HCP because of symptoms.
+Overall, participants were successful in completing onboarding and enabling the device
+and answered knowledge questions correctly regarding safe use and limitations of the device.
+The result of the summative study supports the conclusion that the Samsung Sleep Apnea
+Feature can be used safely and effectively by the intended users, for the intended uses, and in the
+intended use environments.
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+LABELING
+The labeling for the device is sufficient and satisfies the requirements of 21 CFR 801.109. The
+labeling consists of Instructions for Use and an onboarding sequence. The Instructions for Use
+include the indications for use; a description of the device, precautions; a detailed summary of
+the clinical data collected in support of the device; a list of adverse events; and instructions for
+the safe use of the device.
+Please see the Limitations section above for important contraindications, warnings, and
+precautions presented in the device labeling.
+RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of an over-the-
+counter device to assess risk of sleep apnea.
+Risks to Health Mitigation Measures
+False negative resulting in failure Clinical performance testing
+to assess risk of sleep apnea and Non-clinical performance testing
+delay of further evaluation or Software verification, validation, and hazard analysis
+treatment Labeling
+_
+False positive resulting in Clinical performance testing
+additional unnecessary medical Non-clinical performance testing
+De Novo Summary (DEN230041) Page 8 of 12Risks to Health Mitigation Measures _
+procedures Software verification, validation, and hazard analysis
+Labeling
+'
+Misinterpretation and/or Human factors testing
+overreliance on device output, Labeling
+leading to:
+• Failure to seek treatment
+despite sleep apnea
+symptoms
+• Discontinuing or
+modifying treatment for
+sleep apnea
+Poor quality sensor data input to Non-clinical performance testing
+the device software function Software verification, validation, and hazard analysis
+resulting in incorrect sleep apnea Human factors testing
+assessment Labeling
+Electrical shock, burn, or Electrical safety testing
+interference with other devices (for Electromagnetic compatibility (EMC) testing
+device hardware components) Labeling
+Adverse tissue reaction (for device Biocompatibility evaluation
+hardware components)
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the over-the-counter device to assess
+risk of sleep apnea is subject to the following special controls:
+(1) Clinical performance testing must demonstrate that the device performs as intended under
+anticipated conditions of use. This testing must fulfill the following:
+(i) Testing must include a study population representative of the intended use
+population for the device, including subjects symptomatic and asymptomatic of sleep
+apnea. Any selection criteria or sample limitations must be fully described and
+justified.
+(ii) The assessment must demonstrate output consistency using the expected range of
+data sources and data quality encountered in the intended use population and
+environment.
+(iii) The assessment must evaluate device performance across all applicable subgroups
+(e.g., age, gender, body mass index (BMI), skin-tone, etc.).
+(iv) The assessment must compare device performance with a clinical comparator device
+(e.g., polysomnography) to demonstrate the required accuracy and/or sensitivity and
+specificity of the output measure(s). Justification for the clinical comparator as
+ground truth must be provided.
+(v) For devices with machine learning-based algorithms, the clinical validation must be
+completed using a dataset that is separate from the training dataset.
+De Novo Summary (DEN230041) Page 9 of 12(2) Non-clinical performance data must demonstrate that the device performs as intended
+under anticipated conditions of use. Performance testing must demonstrate hardware
+compatibility and the ability of the device software and hardware to provide adequate input
+signal quality and handle noisy or missing data and poor signal quality.
+(3) Performance data must be provided to demonstrate the electromagnetic compatibility
+(EMC) and electrical, mechanical, and thermal safety of any device hardware components.
+(4) Any device hardware components that are skin-contacting must be demonstrated to be
+biocompatible.
+(5) Software verification, validation, and hazard analysis must be performed. Software
+documentation must include:
+(i) Full characterization of the technical specifications of the software, including the
+detection algorithm and its inputs and outputs.
+(ii) A description of the expected impact of all applicable sensor acquisition hardware
+characteristics, associated hardware specifications, and processing software; and
+(iii) A description of all mitigations for failure of any subsystem components (including
+signal detection, signal analysis, data display, and storage) on output accuracy.
+(6) Human factors and usability testing must demonstrate the following:
+(i) The user can correctly use the device based solely on reading the directions for use;
+and
+(ii) The user can correctly interpret the device output and understand when to seek
+medical care.
+(7) Labeling must include:
+(i) A description of what the device measures and outputs to the user;
+(ii) Hardware platform and operating system requirements;
+(iii) The type of sensor data used, including specifications of compatible hardware used
+for data acquisition;
+(iv) Warnings identifying sensor acquisition factors or subject conditions or
+characteristics that may impact measurement results;
+(v) Information for interpretation of the measurements, including a statement that the
+device is not intended to replace traditional methods of diagnosis (e.g.,
+polysomnography) nor intended to be used as an apnea monitor;
+(vi) A summary of the clinical performance testing with the device, including both the
+device's overall performance as well as performance across all relevant subgroups.
+BENEFIT-RISK DETERMINATION
+Sleep apnea is a severely underdiagnosed disease, with as much as 90% of the population living
+with sleep apnea undiagnosed'. Studies demonstrate that the prevalence of moderate-to-severe
+sleep apnea can be as high as 27.5% and has been steadily increasing in the past several
+decades2•3.
+De Novo Summary (DEN230041) Page 10 of 12A user may not realize that they are experiencing obstructive sleep apnea symptoms until after
+they have spoken with a clinician, receive a referral to a sleep specialist, and wait 2 to 10 months
+for a sleep study4. It is estimated that only 20% of patients report their sleep-related symptoms to
+their primary care physician to initiate obstructive sleep apnea testing5. Due to high barriers to
+diagnosis and treatment, patients may decide that it is not worth the time and effort to pursue a
+diagnosis and therefore remain undiagnosed and untreated.
+The Samsung Sleep Apnea Feature provides users with an accessible assessment for this
+underdiagnosed disease, providing evidence to encourage the user to pursue clinical attention
+toward necessary diagnosis and treatment. By encouraging the general population to be more
+cognizant of their sleep condition, the device can reduce the negative consequences of
+undiagnosed obstructive sleep apnea.
+Both the clinical and usability risks of the device have been evaluated and use of the device itself
+presents no significant direct risks to the users. Like other disease assessment devices, the key
+clinical risks of this proposed device are false positive and false negative classifications. False
+positive result can lead to user inconvenience, unnecessary additional testing and a burden to the
+medical system. False negatives may lead the user to think that they do not need to consult a
+clinician when they have moderate-to-severe sleep apnea. These risks were quantified by
+sensitivity and specificity in the clinical study, which demonstrated the device's safety and
+effectiveness in identifying the two sleep apnea classes.
+The Usability Engineering Report supports the conclusion that the Samsung Sleep Apnea Feature
+can be used safely and effectively by the intended users, for the intended uses, and in the
+intended use environments. The device's UI elements reinforce to the user that they should
+contact their physician if they have sleep-related symptoms, mitigating the risk of false
+negatives. The study also demonstrated that users understand the non-diagnostic nature of the
+device, as well as to contact a healthcare professional if the device shows signs of moderate-to-
+severe OSA or if they are experiencing symptoms related to OSA, regardless of the device
+results.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information above, for the following indication statement:
+The Sleep Apnea Feature is an over-the-counter (OTC) software-only, mobile medical
+application operating on a compatible Samsung Galaxy Watch and Phone.
+This feature is intended to detect signs of moderate to severe obstructive sleep apnea in
+the form of significant breathing disruptions in adult users 22 years and older, over a two-
+night monitoring period. It is intended for on demand use.
+De Novo Summary (DEN230041) Page 11 of 12This feature is not intended for users who have previously been diagnosed with sleep
+apnea. Users should not use this feature to replace traditional methods of diagnosis and
+treatment by a qualified clinician. The data provided by this device is also not intended to
+assist clinicians in diagnosing sleep disorders.
+The probable benefits outweigh the probable risks for the Sleep Apnea Feature. The device
+provides benefits, and the risks can be mitigated by the use of general controls and the identified
+special controls.
+References
+1. Finkel KJ, Searleman AC, Tymkew H, Tanaka CY, Saager L, Safer-Zadeh E, Bottros M,
+Selvidge JA, Jacobsohn E, Pulley D, Duntley S, Becker C, Avidan MS. Prevalence of
+undiagnosed obstructive sleep apnea among adult surgical patients in an academic
+medical center. Sleep Med. 2009 Aug;10(7):753-8. doi: 10.1016/j.sleep.2008.08.007.
+Epub 2009 Jan 30. PMID: 19186102.
+2. Peppard, Paul E., et al. "Increased prevalence of sleep-disordered breathing in adults."
+American journal of epidemiology 177.9 (2013): 1006-1014.
+3. Heinzer, Raphael, et al. "Prevalence of sleep-disordered breathing in the general
+population: the HypnoLaus study." The Lancet Respiratory Medicine 3.4 (2015): 310-
+318.
+4. Flemons, W. Ward, et al. "Access to diagnosis and treatment of patients with suspected
+sleep apnea." American journal of respiratory and critical care medicine 169.6 (2004):
+668-672.
+5. US Preventive Services Task Force. Screening for Obstructive Sleep Apnea in Adults:
+US Preventive Services Task Force Recommendation Statement. JAMA.
+2022;328(19):1945-1950. doi:10.1001/jama.2022.20304
+CONCLUSION
+The De Novo request for the Sleep Apnea Feature is granted, and the device is classified as
+follows:
+Product Code: QZW
+Device Type: Over-the-counter device to assess risk of sleep apnea.
+Regulation Number: 21 CFR 868.2378
+Class: II
+De Novo Summary (DEN230041) Page 12 of 12

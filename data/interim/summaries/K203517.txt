@@ -1,0 +1,305 @@
+DeepHealth, Inc. April 16, 2021
+A. Gregory Sorensen, M.D.
+President and CEO
+1000 Massachusetts Ave
+CAMBRIDGE MA 02138
+Re: K203517
+Trade/Device Name: Saige-Q
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological Computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: March 19, 2021
+Received: March 19, 2021
+Dear Dr. Sorensen:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.24
+Silver Spring, MD 20993
+www.fda.govK203517 - A. Gregory Sorensen, M.D. Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK203517
+510(k) SUMMARY
+DeepHealth’s Saige-Q
+501(k) Submission Number K203517
+Submitter:
+DeepHealth, Inc.
+1000 Massachusetts Avenue
+Cambridge, MA 02138
+Phone: 617-970-3817
+Email: sorensen@deep.health
+Contact Person: A. Gregory Sorensen
+Date Prepared: November 30, 2020
+Name of Device: Saige-Q™
+Common or Usual Name: Medical Imaging Software
+Classification Name: Radiological Computer-Assisted Triage and Notification Software
+Regulatory Class: Class II (21 CFR 892.2080)
+Product Code: QFM
+Predicate Devices
+CureMetrix, Inc., cmTriage, K183285
+Device Description
+Saige-Q is a software workflow device that processes Digital Breast Tomosynthesis (DBT) and
+Full-Field Digital Mammography (FFDM) screening mammograms using artificial intelligence
+to act as a prioritization tool for interpreting radiologists. By automatically indicating whether a
+given mammogram is suspicious for malignancy, Saige-Q can help the user prioritize or triage
+cases in their worklist (or queue) that may benefit from prioritized review.
+Saige-Q takes as input a set of x-ray mammogram DICOM files from a single screening
+mammography study (FFDM or DBT). The software first checks that the study is appropriate
+for Saige-Q analysis and then extracts, processes and analyses the DICOM images using an
+artificial intelligence algorithm. As a result of the analysis, the software generates a Saige-Q
+code indicating the software’s suspicion of the presence of findings suggestive of breast
+cancer. For mammograms given a Saige-Q code of “Suspicious,” the software also generates
+a compressed preview image, which is for informational purposes only and is not intended for
+diagnostic use.
+The Saige-Q code can be viewed by radiologists on a picture archiving and communication
+system (PACS), Electronic Patient Record (EPR), and/or Radiology Information System (RIS)
+worklist and can be used to reorder the worklist. As a software-only device, Saige-Q can be
+hosted on a compatible host server connected to the necessary clinical IT systems such that
+DICOM studies can be received and the resulting outputs returned where they can be
+incorporated into the radiology worklist.
+The Saige-Q codes can be used for triage or prioritization. For example, “Suspicious” studies
+could be given prioritized review. With a worklist that supports sorting, batches of
+mammograms could also be sorted based on the Saige-Q code.
+Page 1Intended Use / Indications for Use
+Saige-Q is a software workflow tool designed to aid radiologists in prioritizing exams within the
+standard-of-care image worklist for compatible full-field digital mammography (FFDM) and
+digital breast tomosynthesis (DBT) screening mammograms. Saige-Q uses an artificial
+intelligence algorithm to generate a code for a given mammogram, indicative of the software’s
+suspicion that the mammogram contains at least one suspicious finding. Saige-Q makes the
+assigned codes available to a PACS/EPR/RIS/workstation for worklist prioritization or triage.
+Saige-Q is intended for passive notification only and does not provide any diagnostic
+information beyond triage and prioritization. Thus, it is not intended to replace the review of
+images or be used on a stand-alone basis for clinical decision-making. The decision to use
+Saige-Q codes and how to use those codes is ultimately up to the interpreting radiologist. The
+interpreting radiologist is responsible for reviewing each exam on a diagnostic viewer and
+evaluating each patient according to the current standard of care.
+Summary of Technological Characteristics
+Saige-Q is a software only device that consists of several core components that perform the
+following functions: 1) receive mammogram study data as DICOM files, 2) preprocess the
+DICOM files and check that the study is appropriate for analysis, 3) analyze the study images
+using an artificial intelligence algorithm, 4) generate outputs based on the analysis and 5) send
+the outputs to the appropriate clinical IT system for viewing on a radiology worklist.
+The receiving and sending components are configured at the time of installation in conjunction
+with clinical IT staff. The software should be installed on a compatible host machine that is
+connected to the appropriate clinical IT systems (e.g., RIS, PACS and/or EPR) that enable the
+device to receive DICOM studies and return Saige-Q outputs.
+The preprocessing component of the device performs two functions. The first function is to
+check that the study is appropriate for analysis. For example, if the study is not a mammogram,
+Saige-Q will not proceed with analysis. Saige-Q is compatible with FFDM and DBT
+mammogram studies acquired using Hologic mammography equipment. The second function
+is to preprocess the images to be analyzed. The preprocessed images become the input to
+the AI algorithm, which generates the Saige-Q code using deep neural networks that have
+been trained on large numbers of mammograms where cancer status is known.
+The technical components described above are also found in the predicate device, though the
+exact implementation may vary. One difference relative to the predicate device is Saige-Q’s
+ability to process DBT mammograms, which requires an additional AI model. A comprehensive
+comparison with the predicate device is provided in the following table:
+Subject device Predicate device Summary
+Saige-Q cmTriage
+DeepHealth Inc. CureMetrix.
+K183285
+Regulation 21 CFR 892.2080 - 21 CFR 892.2080 - Same
+number Radiological Computer- Radiological Computer-
+Assisted Prioritization Assisted Prioritization Software
+Page 2Software
+Product code QFM QFM Same
+Class II II Same
+Intended use Saige-Q is a software cmTriage is a passive Both devices have the
+workflow tool designed to aid prioritization-only, parallel- same intended use
+radiologists in prioritizing workflow software tool used by per 21 CFR 892.2080
+exams within the standard-of- radiologists to prioritize specific
+care image worklist for full- patients within the standard-of-
+field digital mammography care image worklist for 2D
+(FFDM) and digital breast FFDM screening mammograms.
+tomosynthesis (DBT) cmTriage uses an artificial
+screening mammograms. intelligence algorithm to
+Saige-Q uses an artificial analyze 2D FFDM screening
+intelligence algorithm to mammograms and flags those
+generate a code for a given that are suggestive of the
+mammogram, indicative of presence of at least one
+the software’s suspicion that suspicious finding at the exam
+the mammogram contains at level. These flags are viewed by
+least one suspicious finding. the radiologist via their PACS
+Saige-Q makes the assigned worklist. The decision to use
+codes available to a cmTriage codes and how to use
+PACS/EPR/RIS/workstation cmTriage codes is ultimately up
+for worklist prioritization or to the radiologist. cmTriage
+triage. does not send a proactive alert
+directly to the radiologist.
+Saige-Q is intended for
+passive notification only and Radiologists are responsible for
+does not provide any reviewing each exam on a
+diagnostic information diagnostic viewer according to
+beyond triage and the current standard of care.
+prioritization. Thus, it is not
+intended to replace the review cmTriage is limited to the
+of images or be used on a categorization of exams, does
+stand-alone basis for clinical not provide any diagnostic
+decision-making. The information beyond triage and
+decision to use Saige-Q codes prioritization, does not remove
+and how to use those codes is images from the radiologist’s
+ultimately up to the worklist, and should not be used
+interpreting radiologist. The in lieu of full patient evaluation,
+interpreting radiologist is or relied upon to make or
+responsible for reviewing confirm diagnosis.
+each exam on a diagnostic
+viewer and evaluating each cmTriage is for prescription use
+patient according to the only.
+current standard of care.
+Technical The device provides triage or The device provides triage or Same
+Method notification that is informed notification that is informed by
+by artificial intelligence artificial intelligence
+algorithms. algorithms.
+Page 3Anatomical Site Breast Breast Same
+Clinical Breast cancer Breast cancer Same
+condition
+Notification- Yes Yes Same
+only, parallel
+workflow tool
+Alert to finding Passive notification flagged Passive notification flagged for Same
+for review review
+Preview Image Preview of the Preview of the study for initial Same
+study for initial assessment, assessment, not meant for
+not meant for diagnostic diagnostic purposes.
+purposes. The device operates in parallel
+The device operates in with the standard of care, which
+parallel with the standard of remains the default option for
+care, which remains the all cases.
+default option for all cases.
+Multiple Yes; 3 operating points Yes; a continuous range of Similar but Saige-Q
+operating operating points. uses a more
+points conservative
+approach by pre-
+specifying a discrete
+number of operating
+points.
+Independent of Yes; no cases are removed Yes; no cases are removed from Same
+standard of care from worklist worklist
+workflow
+End users Radiologists Radiologists Same
+Type of FFDM and DBT screening FFDM screening mammograms. Both devices operate
+mammograms mammograms. on screening
+mammograms (x-ray
+images), but
+cmTriage is intended
+for FFDM cases only
+whereas Saige-Q is
+intended for both
+FFDM and DBT
+cases.
+Deployment On-premise On-premise with cloud Different, but does
+processing not raise any new
+questions regarding
+safety and
+effectiveness.
+Output device The end user interacts with The end user interacts with the There is no
+Page 4the output of the device in the output of the device in the significant difference.
+facility’s PACS/EPR/RIS facility’s PACS software
+software (worklist). (worklist).
+Software levels Moderate Moderate Same
+of concern
+Performance Data
+DeepHealth conducted two retrospective, blinded, multi-center studies to evaluate the
+standalone performance of Saige-Q, one study using FFDM and a separate study using DBT
+mammograms. The primary objective was the same for each study: to assess the sensitivity
+and specificity of Saige-Q relative to radiologist performance, as estimated by BCSC. The
+secondary objective was to assess the processing time performance when executing Saige-
+Q software on FFDM and separately on DBT mammograms to ensure processing times are
+within clinically acceptable ranges.
+Data for the FFDM study was collected from eight clinical sites across two states in the United
+States with 501 malignant exams and 832 normal exams. Data for the DBT study was collected
+from six clinical sites across two states in the United States, with 517 malignant exams and
+1011 normal exams. The test dataset excludes screening BI-RADS 0 cases that were
+determined to be benign after diagnostic workup. DeepHealth had never collected data from
+the clinical sites previous to this study either for training or testing. Malignant exams were
+confirmed using pathology reports from biopsied lesions and normal cases were confirmed
+with a negative clinical interpretation (BIRADS 1 or 2) followed by another negative clinical
+interpretation at least two years later. Each case was reviewed by two independent expert
+radiologists (and an adjudicator if discordance was observed) to establish the reference
+standard for each case.
+In the FFDM study, Saige-Q achieved an overall area under the receiver operating
+characteristic curve (AUC) of 0.966 (95% CI: [0.957, 0.975]). In the DBT study, Saige-Q
+achieved an overall AUC of 0.985 (95% CI: [0.979, 0.990]) on the DBT data. This performance
+meets or exceeds the performance of the predicate device and exceeds the requirement
+specified for the QFM product code for effective triage with an AUC >0.95.
+The primary endpoints of the studies consisted of sensitivity and specificity targets to validate
+that Saige-Q operates with a 95% CI for both sensitivity and specificity above the 80% CI
+reported in BCSC data.
+The primary endpoint for FFDM was successfully met with Saige-Q demonstrating a specificity
+at 86.9% sensitivity of 92.2% (95% CI: [90.2%, 93.8%]) and a sensitivity at 88.9% specificity
+of 91.2% (95%: [88.4%, 93.4%]).
+The primary endpoint for DBT was also successfully met with Saige-Q demonstrating a
+specificity at 86.9% sensitivity: 98.3% (95% CI: [97.3%, 99.0%]) and a sensitivity at 89.9%
+specificity of 95.7% (95% CI: [93.6%, 97.2%]).
+A sub-analysis of performance by lesion type (soft tissue densities vs. calcifications), breast
+density (dense vs. non-dense), age, and lesion size showed similar performance across sub-
+categories. For instance, on FFDM, Saige-Q achieved an AUC of 0.964 (95% CI: [0.954,
+Page 50.974]) on soft tissue densities and an AUC of 0.973 (95% CI: [0.958, 0.988]) on calcifications.
+For DBT, Saige-Q achieved an AUC of 0.983 (95% CI: [0.977, 0.990]) on soft tissue densities
+and an AUC of 0.989 (95% CI: [0.983, 0.996]) on calcifications. For breast density, Saige-Q
+achieved an AUC of 0.959 (95% CI: [0.945, 0.973]) on dense breasts and an AUC of 0.972
+(95% CI: [0.961, 0.984]) on non-dense breasts for FFDM exams. For DBT, Saige-Q achieved
+an AUC of 0.980 (95% CI: [0.971, 0.988]) on dense breasts and an AUC of 0.988 (95% CI:
+[0.981, 0.996]) on non-dense breasts.
+The secondary endpoints required the processing time for each FFDM and DBT mammogram
+to be within clinical operational expectations of breast cancer screening. The median
+processing time for FFDM was 15.5 seconds and was 196.8 seconds for DBT. These
+processing times are within the clinical expectations for screening mammograms.
+Based on the clinical performance as documented in the pivotal clinical study, Saige-Q has a
+safety and effectiveness profile that is similar to the predicate device.
+Conclusions
+Saige-Q is as safe and effective as cmTriage. Saige-Q has the same intended uses and similar
+indications, technological characteristics, and principles of operation as its predicate device.
+The minor differences in indications do not alter the intended use of the device and do not
+affect its safety and effectiveness when used as labeled. In addition, the minor technological
+differences between Saige-Q and its predicate device raise no new issues of safety or
+effectiveness. Performance data demonstrate that Saige-Q is as safe and effective as
+cmTriage. Thus, Saige-Q is substantially equivalent to the legally marketed predicate device.
+Page 6

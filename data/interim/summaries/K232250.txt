@@ -1,0 +1,348 @@
+January 11, 2024
+Stryker Instruments
+Ms. Patti Arndt
+Principal Specialist, Regulatory Affairs
+1941 Stryker Way
+Portage, Michigan 49002
+Re: K232250
+Trade/Device Name: SurgiCount+ System
+Regulation Number: 21 CFR 880.2750
+Regulation Name: Image Processing Device For Estimation Of External Blood Loss
+Regulatory Class: Class II
+Product Code: PBZ
+Dated: July 28, 2023
+Received: November 13, 2023
+Dear Ms. Arndt:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.07
+Silver Spring, MD 20993
+www.fda.govK232250 - Patti Arndt Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Mark Digitally signed by
+Mark Trumbore -S
+Trumbore -SDate: 2024.01.11
+09:52:45 -05'00'
+Mark Trumbore, Ph.D.
+Assistant Director
+DHT4A: Division of General Surgery Devices
+OHT4: Office of Surgical and Infection Control Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K232250
+Device Name
+SurgiCount+ System
+Indications for Use (Describe)
+The SurgiCount+ System Software is a multifunctional software application intended to be used as an adjunct in the
+estimation of blood loss and management of surgical sponges and other absorbent items. The system incorporates three
+distinct software configurations: Triton AI, SC+ Sponge Counting, and Triton QBL. Additionally, combined workflows
+(SC+ AI and SC+QBL) are provided for use in clinical environments that require both the tracking of absorbent surgical
+items and estimation of patient blood loss.
+The Triton AI configuration is intended to be used with surgical sponges, software, hardware and accessory devices that
+have been validated for use with the application to estimate the hemoglobin (Hb) mass contained on used surgical
+sponges. The configuration is also intended to calculate an estimate of blood volume on used surgical sponges from the
+estimated Hb mass and a user-entered patient Hb value. The validated surgical sponges, hardware, software, accessory
+devices and Hb mass ranges are listed in the Instructions for Use.
+The SC+ Sponge Counting configuration is intended for use as an adjunctive technology for augmenting the manual
+process of counting, displaying and recording the number of RFID-tagged absorbent articles used during surgical
+procedures, and providing a non-invasive means of locating RFID-tagged absorbent articles within an operating room and
+surgical sites.
+The Triton QBL (Quantification of Blood Loss) configuration is intended to be used to record the weight of used surgical
+sponges and other absorbent items in order to calculate the quantity of fluid volume on the sponges/absorbent items.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFSurgiCount+® System
+Stryker Instruments
+510(k) Summary: K232250
+510(k) Summary
+I. Submitter
+Stryker Instruments
+1941 Stryker Way
+Portage, MI 49002
+Phone: 269-323-7700, 1-800-253-3210
+Email: Kim.Wiersema@stryker.com
+II. Contact Person
+Ms. Patti L. Arndt
+Principal Specialist, Regulatory Affairs
+1941 Stryker Way
+Portage, MI 49002
+Phone: 269-888-0233
+Email: Patti.Arndt@stryker.com
+Date Prepared: January 9, 2024
+III. Device
+Name of Device: SurgiCount+ System
+Common or Usual Name: External Blood Loss Estimation System
+Classification Name: Image Processing Device for Estimation of External
+Blood Loss (21 CFR 880.2750)
+Regulatory Class: II
+Product Code: PBZ
+IV. Predicate Device Pixel 3 Sponge System
+K163507
+The predicate device has not been subject to a design related recall.
+No reference devices were used in this submission.
+V. Device Description
+The SurgiCount+ [SC+] System Software is a multi-functional software application that
+is intended to be used as an adjunct in the estimation of blood loss and management of
+surgical sponges and other surgical substrates. The system incorporates three distinct
+software configurations: Triton AI, SC+ Sponge Counting, and Triton Quantitative Blood
+Loss [QBL]. Additionally, combined workflows (SC+AI and SC+QBL) are provided for
+Page 1 of 6SurgiCount+® System
+Stryker Instruments
+510(k) Summary: K232250
+use in clinical environments that require both the tracking of absorbent surgical items
+and estimation of patient blood loss. Two of the five software configurations (Triton AI
+and SC+AI) are Class II functions. The remaining configurations are Class I functions.
+The Class II Triton AI software configuration estimates the hemoglobin (Hb) mass
+contained on used surgical sponges using an AI algorithm that analyzes the image of
+each sponge. It also calculates an estimate of blood volume on used surgical sponges
+from the estimated Hb mass and a user-entered patient Hb value. The Triton AI
+software configuration's sponge counting functionality has been modified to enhance the
+product’s surgical sponge counting/management functionality, compared to the
+predicate device. New workflow steps allow users to scan, identify, and count RFID-
+tagged surgical sponges and other absorbent items, and to locate missing surgical
+sponges inside the operating room and, noninvasively, in surgical sites.
+The SaMD product includes the following nonmedical device and Class I consumable
+and hardware accessories: a mobile device (Apple iPad Pro), RFID-tagged surgical
+sponges/absorbent items, an RFID reader, a bluetooth-enabled scale, and a stand (or
+optional wall mount) that houses the hardware accessories and connects the accessory
+devices to electrical power.
+VI. Indications for Use
+The SurgiCount+ System Software is a multifunctional software application intended to
+be used as an adjunct in the estimation of blood loss and management of surgical
+sponges and other absorbent items. The system incorporates three distinct software
+configurations: Triton AI, SC+ Sponge Counting, and Triton QBL. Additionally, combined
+workflows (SC+ AI and SC+QBL) are provided for use in clinical environments that
+require both the tracking of absorbent surgical items and estimation of patient blood
+loss.
+The Triton AI configuration is intended to be used with surgical sponges, software,
+hardware, and accessory devices that have been validated for use with the application
+to estimate the hemoglobin (Hb) mass contained on used surgical sponges. The
+configuration is also intended to calculate an estimate of blood volume on used surgical
+sponges from the estimated Hb mass and a user-entered patient Hb value. The
+validated surgical sponges, hardware, software, accessory devices and Hb mass
+ranges are listed in the Instructions for Use.
+The SC+ Sponge Counting configuration is intended for use as an adjunctive
+technology for augmenting the manual process of counting, displaying, and recording
+the number of RFID-tagged absorbent articles used during surgical procedures, and
+providing a non-invasive means of locating RFID-tagged absorbent articles within an
+operating room and surgical sites.
+Page 2 of 6SurgiCount+® System
+Stryker Instruments
+510(k) Summary: K232250
+The Triton QBL (Quantification of Blood Loss) configuration is intended to be used to
+record the weight of used surgical sponges and other absorbent items in order to
+calculate the quantity of fluid volume on the sponges/absorbent items.
+VII. Comparison of Technology Characteristics with the Predicate Device
+The Indications for Use Statement has been updated but is unchanged with respect to
+its representation of the product’s intended use. New indications for use (i.e., associated
+medical conditions/diseases/patient populations) were not proposed. The modified
+product remains an adjunctive technology that is intended to be used to estimate
+external patient blood loss and in the management of surgical sponges. Key changes
+include a product name change and an updated description of the modified SaMD
+product, neither of which impact the safety and effectiveness of the device.
+Essential device functions for the SaMD product include the processing of images for
+the estimation of external patient blood loss and the management of surgical sponges.
+The SurgiCount+ System uses the same technology as the predicate device to estimate
+blood loss; its sponge counting functionality, however, is enhanced.
+Image Processing for the Estimation of External Blood Loss: Using a qualified mobile
+device camera, the SaMD product instructs the user to scan/image blood-containing
+surgical sponges and other absorbent items used during a medical or surgical
+procedure. The Application then processes the images using proprietary AI Algorithms.
+The algorithms generate the same output for a given input (are fixed) and have been
+trained using machine learning techniques to recognize the sponges and to estimate Hb
+mass and blood loss volume on the imaged substrates.
+Sponge Counting and Management: The SurgiCount+ System’s sponge counting
+function uses ultra-high frequency (UHF) RFID technology to scan, count, and locate
+RFID-tagged surgical sponges. The handheld, reusable, and wireless RFID reader
+emits an electromagnetic field that activates items labeled with passive RFID tags within
+its range. The reader’s firmware uses a defined communication protocol, and its
+antenna transmits RF energy between 902-928 MHz. The Application collects and
+manages the data received from the reader. By comparing the RFID-tagged absorbent
+articles “counted in” to a surgical procedure to the articles “counted out,” the Application
+is able to display the number and identity of any missing absorbent articles. The
+predicate software system "counts" sponges by displaying the number of sponges
+imaged by the device for the primary purpose of blood loss estimation.
+The predicate and subject devices are identical with respect to their intended use and
+essential performance. As shown in the following table, the key difference between the
+two devices is the augmentation of the predicate system’s sponge counting and
+management functionality.
+Page 3 of 6SurgiCount+® System
+Stryker Instruments
+510(k) Summary: K232250
+Key Feature/ Predicate Subject Comparison
+Characteristic Device Device
+Pixel 3 SurgiCount+
+Sponge System
+System (K232250)
+(K163507)
+Product Type: SaMD SaMD Same
+Product Product
+Intended Use: Image-based Image-based Same
+estimation of estimation of
+external external
+patient blood patient blood
+loss and loss and
+surgical surgical
+sponge sponge
+management management
+Clinical Workflows Single Multifunctional Same
+Workflow Software
+Device with Predicate device
+Five functionality is
+Workflows replicated or
+augmented in the
+modified device
+(Triton AI and
+SC+AI
+Workflows).
+Essential Function Estimation of Estimation of Same
+Hb/Blood Hb/Blood
+Volume on Volume on The incorporated
+Imaged Imaged AI Algorithm is
+Surgical Surgical identical across
+Sponges Sponges the two systems.
+The subject
+device meets the
+same accuracy
+specification as
+developed and
+required for the
+predicate system.
+Page 4 of 6SurgiCount+® System
+Stryker Instruments
+510(k) Summary: K232250
+Key Feature/ Predicate Subject Comparison
+Characteristic Device Device
+Pixel 3 SurgiCount+
+Sponge System
+System (K232250)
+(K163507)
+Implementation of Device System uses Similar
+Sponge counts and RFID-tagged
+Counting/Management displays the surgical Modifications
+Functionality number of substrates augment/enhance
+imaged and an RFID the basic sponge
+sponges bar code counting
+reader to functionality
+count/manage provided by the
+and locate predicate system
+surgical
+sponges
+VIII. Performance Data
+Extensive software verification and validation activities were completed for the
+SurgiCount+ System. All test cases passed and fully traced to the product’s Risk
+Analysis and Software Design Specification. Unit, regression, and system-level testing
+also was conducted and confirmed that the software functioned as designed.
+Cybersecurity design planning and testing ensured that the software was architected
+and designed to minimize cybersecurity threats.
+Non-clinical (bench) testing was conducted to validate the performance of the
+SurgiCount+ System and demonstrated compliance with the product’s Special Controls.
+(1) Hemoglobin (Hb) Algorithm Performance Validation
+Testing was conducted to evaluate the accuracy of the Hb algorithm in estimating the
+Hb mass on surgical sponges, compared to the known Hb mass on each sponge as
+determined by a reference assay. It was shown that the limits of agreement between the
+actual hemoglobin mass and sHbL measured by the SurgiCount+ software fell within
+the acceptance limit of ±1.99 g Hb.
+(2) Sponge Recognition Algorithm (SRA) Performance Validation
+Test results demonstrated that the SRA had a failure rate (sum of false images and
+failed detection) of 0.19%, when used to detect a representative 18x18 inch sponge
+type. This was well below the acceptance criterion of less than or equal to 6.5%.
+Page 5 of 6SurgiCount+® System
+Stryker Instruments
+510(k) Summary: K232250
+(3) Electromagnetic Compatibility (EMC)Testing
+The SurgiCount+ System conforms with IEC 60601-1-2 and demonstrates
+electromagnetic compatibility (EMC) safety and effectiveness in the hospital
+environment.
+(4) Wireless Coexistence Testing
+Wireless coexistence testing was conducted on the system in accordance with ANSI
+C63.27 and AAMI TIR 69. The SurgiCount+ System functioned as designed in the
+presence of Wi-Fi and Bluetooth interferers that were no closer than 30 cm away from
+the SurgiCount+ System’s iPad.
+(5) Human Factors Validation
+Fifteen nurses participated in a complete, end-to-end, usability validation of the
+SurgiCount+ System. The validation study included the SurgiCount+ System’s critical
+tasks and use scenarios, the facilitators’ evaluation of the users’ performance working
+through clinically realistic scenarios, users’ input on usability and safety of the system,
+and residual use-error risk analysis. The validation study concluded that the
+SurgiCount+ System is reasonably safe and effective for its intended users and use
+environment and that all use risks were effectively mitigated. No significant residual or
+new usability risks were found.
+IX. Conclusions
+The SurgiCount+ System has the same intended use as the predicate Triton Sponge
+System. Both the subject and predicate devices are used to estimate blood loss on
+used surgical sponges and to count/manage surgical substrates. The SurgiCount+
+System shares the same technological characteristics as the predicate device and
+includes new UFH RFID technology that enhances the product’s ability to identify, count,
+and locate surgical sponges. Software and non-clinical performance testing raised no
+new questions of safety or effectiveness and support the substantial equivalence of the
+modified device to its legally marketed predicate.
+Page 6 of 6

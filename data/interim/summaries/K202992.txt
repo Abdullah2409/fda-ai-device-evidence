@@ -1,0 +1,314 @@
+Aidoc Medical, Ltd. April 14, 2021
+J. Smith, M.D., J.D.
+Partner
+Hogan Lovells US LLP
+555 Thirteenth Street NW
+WASHINGTON DC 20004
+Re: K202992
+Trade/Device Name: BriefCase for RibFx Triage
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer aided triage and notification software
+Regulatory Class: Class II
+Product Code: QFM
+Dated: March 1, 2021
+Received: March 1, 2021
+Dear Dr. Smith:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.23
+SilverSpring, MD 20993
+www.fda.govK202992 - John J. Smith, M.D., J.D. Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary
+Aidoc Medical, Ltd.'s BriefCase (K202992)
+Submitter:
+Aidoc Medical, Ltd.
+3 Aminadav St.
+Tel-Aviv, Israel
+Phone: +972-73-7946870
+Contact Person: N. Epstein, Ph.D.
+Date Prepared: March 1, 2021
+Name of Device: BriefCase for RibFx Triage
+Classification Name: Radiological computer-assisted triage and notification software
+device
+Regulatory Class: Class II
+Product Code: QFM (21 C.F.R. 892.2080)
+Predicate Device: BriefCase (K190072, for PE)
+Device Description
+BriefCase is a radiological computer-assisted triage and notification software device. The
+software system is based on an algorithm programmed component and is comprised of a standard
+off-the-shelf operating system, the Microsoft Windows server 2012 64bit, and additional
+applications, which include PostgreSQL, DICOM module and the BriefCase Image Processing
+Application. The device consists of the following three modules: (1) Aidoc Hospital Server (AHS)
+for image acquisition; (2) Aidoc Cloud Server (ACS) for image processing; and (3) Aidoc Worklist
+Application for workflow integration, installed on the radiologist' desktop and provides the user
+interface in which notifications from the BriefCase software are received.
+DICOM images are received, saved, filtered and de-identified before processing. Filtration
+matches metadata fields with keywords. Series are processed chronologically by running the
+algorithms on each series to detect suspected cases. The software then flags suspect cases by
+sending notifications to the Worklist desktop application, thereby prompting triage and prioritization
+by the attending radiologist. As the BriefCase software platform harbors several triage algorithms,
+the user may opt to filter out notifications by pathology, e.g., a chest radiologist may choose to filter
+out notifications on LVO cases, and a neuro-radiologist would opt to divert PE notifications. Where
+several medical centers are linked to a shared PACS, a user may read cases for a certain center
+but not for another, and thus may opt to filter out notification by center. Activating the filter does
+not impact the order in which notifications are presented in the Aidoc worklist application.
+The Worklist Application displays the pop-up text notifications of new suspected studies when they
+come in. Notifications are in the form of a small pop-up containing patient name, accession number
+and the relevant pathology (e.g., RibFx). A list of all incoming suspect cases is also displayed.
+Hovering over a notification or a case in the worklist pops up a compressed, low-quality, grayscale,
+unannotated image that is captioned "not for diagnostic use" and is displayed as a preview function.
+023This compressed preview is meant for informational purposes only, does not contain any marking
+of the findings, and is not intended for primary diagnosis beyond notification.
+Presenting the radiologist with notification facilitates earlier triage by prompting the user to assess
+the relevant original images in the PACS. Thus, the suspect case receives attention earlier than
+would have been the case in the standard of care practice alone.
+Intended Use / Indications for Use
+BriefCase is a radiological computer aided triage and notification software indicated for use in the
+analysis of chest CTs (with or without contrast). The device is intended to assist hospital networks
+and appropriately trained medical specialists in workflow triage by flagging and communication of
+suspect cases of three or more acute Rib fracture (RibFx) pathologies.
+BriefCase uses an artificial intelligence algorithm to analyze images and flag suspect cases on a
+standalone desktop application in parallel to the ongoing standard of care image interpretation.
+The user is presented with notifications for suspect cases. Notifications include compressed
+preview images that are meant for informational purposes only and not intended for diagnostic use
+beyond notification. The device does not alter the original medical image and is not intended to
+be used as a diagnostic device.
+The results of BriefCase are intended to be used in conjunction with other patient information and
+based on their professional judgment, to assist with triage/prioritization of medical images. Notified
+clinicians are responsible for viewing full images per the standard of care.
+Comparison of Technological Characteristics
+The subject BriefCase for Rib Fracture (RibFx) triage and predicate device BriefCase for
+Pulmonary Embolism (PE) triage (K190072) are identical in all aspects and defer only with respect
+to the training of the algorithm on RibFx and PE images, respectively.
+Both devices are radiological computer-aided triage and notification software programs. Both
+devices are artificial intelligence deep-learning algorithms incorporated software packages for use
+with DICOM 3.0 compliant CT scanners, PACS, and radiology workstations. Both devices are
+intended to aid in triage and prioritization of radiological images. The predicate device processes
+CTPAs and is indicated for PE triage, while the subject device processes chest images (with or
+without contrast) and is indicated for RibFx triage. Both devices are intended to provide radiologists
+with notifications and unannotated preview images of suspect studies for the purpose of triage.
+Both software devices notify the attending radiologist of the availability of radiological images for
+review based on computer aided image analysis. Both devices send notifications and low-quality
+compressed previews to the radiology workstations' desktop. Both devices feature a notification
+filter in the user interface. Notifications are for informational purpose only and are meant to prompt
+the radiologist to start triage of a flagged case, upon which he may decide after observing the
+unannotated, low quality preview on his desktop, to turn to the local PACS to perform evaluation
+of the original series earlier than would have been the case without BriefCase.
+Thus, the subject and predicate BriefCase raise the same types of safety and effectiveness
+questions, namely, accurate detection of findings within the processed study. It is important to note
+that, like the predicate, the subject device does not remove cases from the standard of care reading
+queue does not modify them and does not de-prioritize unflagged cases. Both devices operate in
+parallel with the standard of care, which remains the default option for all cases.
+024A table comparing the key features of the subject and predicate devices is provided below.
+Table 1. Key feature comparison
+Predicate Device Subject Device
+Aidoc Briefcase for PE triage Aidoc Briefcase for RibFx triage
+(K190072) (K202992)
+Intended Use / BriefCase is a radiological computer aided BriefCase is a radiological computer aided
+Indications for triage and notification software indicated triage and notification software indicated for
+Use for use in the analysis of non-enhanced use in the analysis of chest CTs (with or
+head CT and CTPA images. The device is without contrast). The device is intended to
+intended to assist hospital networks and assist hospital networks and appropriately
+trained radiologists in workflow triage by trained medical specialists in workflow triage
+flagging and communication of suspected by flagging and communication of suspect
+positive findings of Intracranial cases of three or more acute Rib fracture
+Hemorrhage (ICH) and Pulmonary (RibFx) pathologies.
+Embolism (PE) pathologies. For the PE
+pathology, the software is only intended to BriefCase uses an artificial intelligence
+be used on single-energy exams. algorithm to analyze images and flag
+suspect cases on a standalone desktop
+BriefCase uses an artificial intelligence application in parallel to the ongoing
+algorithm to analyze images and highlight standard of care image interpretation. The
+cases with detected findings on a user is presented with notifications for
+standalone desktop application in parallel suspect cases. Notifications
+to the ongoing standard of care image include compressed preview images that
+interpretation. The user is presented with are meant for informational purposes only
+notifications for cases with suspected and not intended for diagnostic use
+findings. Notifications include compressed beyond notification. The device does not
+preview images that are meant for alter the original medical image and is not
+informational purposes only and not intended to be used as a diagnostic device.
+intended for diagnostic use beyond
+notification. The device does not alter the The results of BriefCase are intended to be
+original medical image and is not intended used in conjunction with other
+to be used as a diagnostic device. patient information and based on their
+professional judgment, to assist with
+The results of BriefCase are intended to be triage/prioritization of medical images.
+used in conjunction with other Notified clinicians are responsible for
+patient information and based on viewing full images per the standard of
+professional judgment, to assist with care.
+triage/prioritization of medical images.
+Notified clinicians are responsible for
+viewing full images per the standard of
+care.
+User Radiologist Appropriately trained medical specialist
+population
+Anatomical Chest Chest
+region of
+interest
+025Predicate Device Subject Device
+Aidoc Briefcase for PE triage Aidoc Briefcase for RibFx triage
+(K190072) (K202992)
+Inclusion/ Inclusion Criteria Inclusion criteria
+Exclusion CTPA protocols. - Chest CTs (with or without contrast).
+criteria Single energy exams. - Single energy exams.
+Scans performed with 64-slice scanner - Scans performed with a 64 or greater
+or greater number of detectors. number of detectors.
+Scans performed on adults/transitional - Scans performed on adults/transitional
+adults 18 years of age. adults 18 years of age.
+Slice thickness 0.5 -3.0 mm axial. - Slice thickness; 0.5 -5.0 mm axial.
+Exclusion Criteria Exclusion Criteria
+All studies that are technically All studies that are technically
+inadequate, including studies with inadequate, including studies with motion
+motion artifacts, severe metal artifacts, artifacts, severe metal artifacts, or
+sub-optimal bolus or inadequate field of inadequate field of view.
+view.
+Data CTPA protocol Chest CTs (with or without contrast)
+acquisition
+protocol
+View DICOM DICOM Information about the patient, DICOM Information about the patient, study
+data study and current image and current image
+Segmentation No; device does not mark, annotate, or No; device does not mark, annotate, or
+of region of direct users' attention to a specific location direct users' attention to a specific location
+interest in the original image in the original image
+Algorithm Artificial intelligence algorithm with Artificial intelligence algorithm with database
+database of images of images
+Notification/Pri Yes Yes
+oritization
+Preview Presentation of a low-quality, compressed, Presentation of a low-quality, compressed,
+images grayscale preview image that is captioned grayscale preview image that is captioned
+"Not for diagnostic use". "Not for diagnostic use".
+Alteration of No No
+original image
+Removal of No. The device operates in parallel with the No. The device operates in parallel with the
+cases from standard of care, which remains the default standard of care, which remains the default
+worklist queue option for all cases. Unflagged cases are option for all cases. Unflagged cases are not
+not de-prioritized. de-prioritized.
+Structure AHS module (image acquisition). AHS module (image acquisition).
+ACS module (image processing). ACS module (image processing).
+Aidoc Worklist application for workflow Aidoc Worklist application for workflow
+integration (worklist and non-diagnostic integration (worklist and non-diagnostic
+basic Image Viewer). basic Image Viewer).
+Performance Data
+Pivotal Study Summary
+Performance data were collected on an entirely new data set of RibFx images in a retrospective,
+blinded, multicenter, multinational study. Cases and reports were selected that have not been
+026previously reviewed using BriefCase software. No patient data were reused between the training
+and the pivotal datasets. Ground truthing was performed by two radiologists with an additional third
+radiologist to resolve inconsistencies.
+Data was acquired consecutively, without differentiating between patient classes, thus including
+all patient classes, i.e., ED, inpatients, and outpatients.
+Primary Endpoint
+The primary endpoint was to evaluate the software's performance in identifying three or more acute
+rib fractures in chest CTs (with or without contrast), in 279 cases from 3 clinical study sites (2 in
+the US, one OUS, 70.9% of the cases were collected from the US sites). There were 91 ground
+truth positive cases (cases with 3 or more rib fractures) and 188 ground truth negative cases
+included in the analysis.
+AUC was 0.976 (95% Cl: 0.960, 0.991). Sensitivity was 96.7% (95% Cl: 90.6%, 99.4%) and
+specificity was 90.4% (95% Cl: 85.2%, 94.3%). Because the 95% Cl lower bound of AUC
+exceeded 0.95 and sensitivity and specificity both exceeded 80%, the study's primary endpoints
+were met.
+Secondary Endpoint
+Briefcase's potential clinical benefit of worklist prioritization for true positive RibFx cases was
+evaluated by comparing the standard-of-care metric of time-to-exam-open to the software's time-
+to-notification metric for RibFx, in two US-based study sites where the time-to-exam-open
+information was available.
+The BriefCase time-to-notification includes the time to get the DICOM exam, de-identify it,
+upload it to the cloud, analyze and send a notification on a suspected positive case back to
+the worklist application.
+The standard of care time-to-open-exam consists of the time from scan acquisition to when
+the radiologist first opened the exam for review.
+The standard of care metric was compared to the BriefCase time-to-notification in the two US-
+based study sites for 67 True Positive cases (i.e., identified as positive both by the reviewers as
+well as the BriefCase device), and the results are reported in the Table 2 below.
+The standard of care time-to-exam-open (89.4 minutes: 95% Cl: 56.0-122.7; Median 66.0, IQR
+50.7) was substantially longer than the parallel time-to-notification of the BriefCase device (4.2
+minutes, 95% Cl: 3.9-4.5; Median 4.2, IQR 1.8). The mean difference of 85.2 minutes (95% Cl:
+51.8-118.6; Median 63.1, IQR 50.1) for these two metrics is substantial and assuming the
+radiologist receives a notification on a true positive RibFx case and acts on it immediately, it can
+on average save more than one hour compared to the time-to-exam-open in a first in first out
+(FIFO) reading queue. The difference value of 85.2 is based on the study of 67 cases from 2 study
+sites and may vary in practice.
+027Table 2. Time saving data
+N Lower Upper
+Mean
+Parameter Confidence Confidence Median IQR
+estimate
+Limit Limit
+Time-to- exam-open in
+67 89.4 56.0 122.7 66.0 50.7
+the standard of care
+Time-to-notification of
+67 4.2 3.9 4.5 4.2 1.8
+BriefCase RibFx
+Difference 67 85.2 51.8 118.6 63.1 50.1
+NPV was 99.6% (95% Cl: 99.2%-100.0%) and PPV was 52.9% (95% Cl: 39.1%-62.1%).
+Thus, the reported time savings data demonstrates that radiologists may have the opportunity to
+be involved in the clinical workflow substantially earlier due to the notifications from the BriefCase
+device. Performance validation data suggest that when using the subject BriefCase for RibFx
+triage, the radiologists may have the same benefit in time saving as with using the BriefCase for
+PE triage.
+Conclusions
+The subject BriefCase for RibFx triage and the predicate BriefCase for PE triage devices are both
+intended to aid in prioritization and triage of radiological images for the indications of rib fractures
+and Pulmonary Embolism, respectively. Both devices are software packages with similar
+technological characteristics and principles of operation, both incorporating deep learning Al
+algorithms that process images, and software to send notifications and unannotated compressed
+preview images to the radiologists' workstation. In both devices, the labeling states that the device
+is not for diagnostic use and instructs the user to further evaluate and diagnose based only on the
+original images in the local PACS.
+Both devices operate in parallel to the standard of care workflow in the sense that they do not
+change the original image, do not provide any marking on the output preview, and do not remove
+images from the standard of care FIFO queue, thus not disturbing standard interpretation of the
+images by the attending radiologists. Both devices notify the radiologist of time-sensitive critical
+cases within the range of several minutes, and thus contribute similarly to the standard of care
+workflow turnaround time reduction through preemptive triage.
+The BriefCase device for RibFx triage is thus substantially equivalent to the BriefCase for PE triage.
+028

@@ -1,0 +1,438 @@
+Siemens Medical Solutions USA, Inc.
+℅ Jiayan Liu
+Regulatory Affairs Manager
+400 W. Morgan Road
+ANN ARBOR MI 48108
+Re: K222428 November 14, 2022
+Trade/Device Name: syngo Dynamics (Version VA40F)
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: September 29, 2022
+Received: October 4, 2022
+Dear Jiayan Liu:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.govK222428 - Jiayan Liu Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK222428syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+K222428
+510(k) Summary
+syngo Dynamics (Version VA40F)
+In accordance with 21 CFR §807.92, the following summary of safety and effectiveness is provided.
+I. SUBMITTER 21CFR § 807.92(a)(1)
+Siemens Medical Solutions USA, Inc.
+400 W. Morgan Road
+Ann Arbor, MI 48108
+Contact Person: Jiayan Liu
+Phone: +1 (734) 604-7870
+Email: jiayan.liu@siemens-healthineers.com
+Date Prepared: November 7, 2022
+II. DEVICE 21CFR § 807.92(a)(2)
+Device Trade Name syngo Dynamics (version VA40F)
+Common Name Medical image management and processing system
+Classification Name System, Image Processing, Radiological
+Classification Panel Radiology
+Regulation Number 21 CFR §892.2050
+Product Code QIH
+III. LEGALLY MARKETED PREDICATE DEVICES 21CFR § 807.92(a)(3)
+Predicate Device
+Device Trade Name syngo Dynamics (Version VA40E)
+510(k) Number K220832
+Product Code LLZ
+This predicate has not been subject to a design-related recall.
+IV. DEVICE DESCRIPTION SUMMARY 21CFR § 807.92(a)(4)
+Siemens Healthineers Page 1 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+This premarket notification addresses the Siemens Healthineers syngo Dynamics (Version VA40F)
+Medical Image Management and Processing System (MIMPS).
+syngo Dynamics is a software only medical device which is used with common IT hardware.
+Recommended configurations are defined for the hardware required to run the device, and hardware is
+not considered as part of the medical device.
+syngo Dynamics is intended to be used by trained healthcare professionals in a professional healthcare
+facility to review, edit, and manipulate image data, as well as to generate quantitative data, qualitative
+data, and diagnostic reports.
+syngo Dynamics is a digital image display and reporting system with flexible deployment – it can
+function as a standalone medical device that includes a DICOM Server or as an integrated module
+within an Electronic Health Record (EHR) System with a DICOM Archive that receives images from
+digital image acquisition devices such as ultrasound and x-ray angiography machines. There are three
+deployments: Standalone, EHR/EHS Integrated, and Multi-Modality Cardiovascular (MMCV).
+MMCV deployment functions as a standalone medical device with capability of natively support 2D
+and 3D CT and MR image types.
+The use of syngo Dynamics is focused on cardiac ultrasound (echocardiography), angiography (x-ray),
+cardiac nuclear medicine (NM), CT and MR studies that cover both adult and pediatric medicine. Also
+supported is vascular ultrasound and ultrasound in Obstetrics/Gynecology and Maternal Fetal Medicine
+(fetal echocardiography during pregnancy).
+syngo Dynamics is based on a client-server architecture. The syngo Dynamics server processes the
+data from the connected imaging modalities, and stores data and images to a DICOM server and routes
+them for permanent storage, printing, and review. The client provides the user interface for interactive
+image viewing, reporting, and processing; and can be installed on network connected workstations.
+syngo Dynamics provides various semi-automated anatomical visualization tools.
+syngo Dynamics offers multiple access strategies: A Workplace that provides full functionality for
+reading and reporting; A Remote Workplace that provides additionally compressed images with access
+to full fidelity images for reading and reporting; and a browser based WebViewer that provides access
+to additionally compressed images and reports from compatible devices (including mobile devices).
+In the United States, monitors (displays) should not be used for diagnosis, unless the monitor (display)
+has specifically received 510(k) clearance for this purpose.
+V. INTENDED USE/INDICATIONS FOR USE 21CFR § 807.92(a)(5)
+syngo Dynamics is a multimodality, vendor agnostic Cardiology image and information system
+intended for medical image management and processing that provides capabilities relating to the
+review and digital processing of medical images.
+syngo Dynamics supports clinicians by providing post image processing functions for image
+manipulation, and/or quantification that are intended for use in the interpretation and analysis of
+medical images for disease detection, diagnosis, and/or patient management within the healthcare
+institution’s network.
+syngo Dynamics is not intended to be used for display or diagnosis of digital mammography images in
+the U.S.
+Indications for Use Comparison
+Siemens Healthineers Page 2 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+Predicate Device
+Subject Device
+syngo Dynamics VA40E
+syngo Dynamics VA40F
+K220832
+syngo Dynamics is a multimodality, vendor syngo Dynamics is a multimodality, vendor
+agnostic Cardiology image and information agnostic Cardiology image and information
+system intended for medical image management system intended for medical image management
+and processing that provides capabilities relating and processing that provides capabilities relating
+to the review and digital processing of medical to the review and digital processing of medical
+images. images.
+syngo Dynamics supports clinicians by providing syngo Dynamics supports clinicians by providing
+post image processing functions for image post image processing functions for image
+manipulation, and/or quantification that are manipulation, and/or quantification that are
+intended for use in the interpretation and analysis intended for use in the interpretation and analysis
+of medical images for disease detection, of medical images for disease detection,
+diagnosis, and/or patient management within the diagnosis, and/or patient management within
+healthcare institution’s network. healthcare institution’s network.
+syngo Dynamics is not intended to be used for syngo Dynamics is not intended to be used for
+display or diagnosis of digital mammography displaying of digital mammography images for
+images in the U.S. diagnosis in the U.S.
+The subject device, syngo Dynamics (Version VA40F) is a new version of the predicate device, syngo
+Dynamics VA40E (K220832). The Indications for Use for the subject device and the predicate device are
+identical. There were no fundamental changes to the device as a cardiology-focused information and
+imaging management software.
+Neither the subject nor the predicate device is indicated for any specific disease, condition, or patient
+population, and both are intended to support healthcare professionals in the healthcare institutions’
+environment.
+Both the subject and predicate devices share the same contraindication that they are not intended to be
+used for display or diagnosis of digital mammography images in the U.S.
+Indications for Use/Intended Use Comparison Summary and Conclusion
+The Indications for Use were assessed in accordance with the following FDA Guidance Documents:
+• The 510(k) Program: Evaluating Substantial Equivalence in Premarket Notifications [510(k)]
+• Food and Drug Administration Staff Guidance for Industry, General/Specific Intended Use
+The results of this evaluation determined that the Indications for Use for the subject device and the
+predicate device are fundamentally the same, and only includes minor updates. As such, Siemens
+Healthineers is of the opinion that the Intended Use and Indications for Use are similar to the predicate
+device.
+VI. COMPARISON OF TECHNOLOGICAL 21CFR § 807.92(a)(6)
+CHARACTERISTICS WITH THE PREDICATE DEVICE
+Siemens Healthineers Page 3 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+Predicate Device
+Subject Device Equivalency
+Attribute syngo Dynamics VA40E
+syngo Dynamics VA40F Analysis
+K220832
+Architecture Client-server Client-server Identical
+Supported • US • US Identical
+modalities • XA • XA
+• DX • DX
+• CT • CT
+• MR • MR
+• SC • SC
+• NM • NM
+• PT • PT
+Supported • Standalone medical device • Standalone medical device Identical
+deployment including a DICOM Server including a DICOM Server
+• Integrated model within an • Integrated model within an
+Electronic Health Record Electronic Health Record
+(EHR) System with a (EHR) System with a
+DICOM Archive DICOM Archive
+• Multimodality • Multimodality
+Cardiovascular (MMCV) Cardiovascular (MMCV)
+deployment with native deployment with native
+support of 2D/3D CT/MR support of 2D/3D CT/MR
+image types image types
+Image Within the network, the Within the network, the Identical
+Communication following communication following communication
+protocols are used: protocols are used:
+• TCP/IP: for communication • TCP/IP for communication
+and transport and transport
+• DICOM and HL7 at • DICOM and HL7 at
+application level application level
+• HTTP for communication • HTTP(S) for
+and transport of images, communication and
+MP4s and thumbnails transport of images, MP4s
+and thumbnails
+Image Data Lossless compression with Lossless compression with Identical
+Compression compression factor 2 to 3 and compression factor 2 to 3 and
+lossy compression (JPEG and lossy compression (JPEG and
+MP4) with higher compression MP4) with higher compression
+rate. rate.
+Siemens Healthineers Page 4 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+Predicate Device
+Subject Device Equivalency
+Attribute syngo Dynamics VA40E
+syngo Dynamics VA40F Analysis
+K220832
+Imaging • Window/Leveling • Window/Leveling Updated by
+Algorithms • Edge Enhancement • Edge Enhancement adding semi-
+• Digital Subtraction • Digital Subtraction automated
+• Multiplanar reconstruction • Multiplanar reconstruction ejection
+(MPR) (MPR) fraction
+• Maximum and Minimum • Maximum and Minimum
+Intensity Projection Intensity Projection
+(MIP/MinIP) (MIP/MinIP)
+• Volume Rendering • Volume Rendering
+Technique (VRT) Technique (VRT)
+• Gamma Correction • Gamma Correction
+• Manual and semi- • Manual calculation for left
+automated calculation for ventricular ejection fraction
+left ventricular ejection
+fraction (Auto EF)
+Quantitative • Pixel Size Evaluation • Pixel Size Evaluation Identical
+algorithms • Distance line • Distance line
+• Angle • Angle
+• volume • Volume
+Decision Ability to interface with a third- Ability to interface with a third- Identical
+Support party rules engine (BizTalk), party rules engine (BizTalk),
+where rules are configured by where rules are configured by
+the end customer to determine the end customer to determine
+clinical relevance of selected clinical relevance of selected
+observations. observations.
+Customers identify and store Customers identify and store
+selected patient data. selected patient data.
+Orchestrations provide a trigger Orchestrations provide a trigger
+to pull in previously stored to pull in previously stored
+relevant data for a given study. relevant data for a given study.
+Reporting • Customizable DICOM • Customizable DICOM Identical
+Structured Reporting Structured Reporting
+• Collaborative reporting • Collaborative reporting
+• Web reporting • Remote reporting
+Siemens Healthineers Page 5 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+Predicate Device
+Subject Device Equivalency
+Attribute syngo Dynamics VA40E
+syngo Dynamics VA40F Analysis
+K220832
+Access • Workplace (thick client)- • Workplace (thick client) – Similar.
+strategies for access for reading and access for reading and Additional
+imaging and reporting. reporting. portal access
+reporting • Remote Workplace (MP4 • Remote Workplace (MP4 for review and
+image display with access image display with access limited
+to full DICOM image for to full DICOM image for functionality
+US/XA and full DICOM US/XA and full DICOM in subject
+image for CT/MR) – access image for CT/MR) – access device.
+for reading and reporting for reading and reporting.
+• WebViewer – (Web Client • WebViewer- (Web Client
+with MP4 Image display) – with MP4 Image display) –
+Access for review only Access for review only
+• Portal – (Web Client for
+reading and reporting with
+limited functionality.)
+Mobile Device Yes –Through the Common Yes – Through WebViewer, Similar.
+Support Login and Portal Image Supports iOS and Android Additional
+Review, images can be viewed devices, but non-diagnostic use. portal access
+on mobile devices, WebViewer, for review and
+supports iOS and Android limited
+devices, but are non-diagnostic functionality
+use. in subject
+device.
+Long Term Provide long term archive and Provide long term archive and Identical
+Archive retrieve of DICOM studies retrieve of DICOM studies
+to/from either VNA (Vendor to/from either VNA (Vendor
+Neutral Archive) or HSM Neutral Archive) or HSM
+(Hierarchical Storage (Hierarchical Storage
+Management) archiving Management) archiving
+Systems. Systems.
+Hardware Software-only option for server Software-only option for server Identical
+Workstation: software only Workstation: software only
+(HW is not part of the medical (HW is not part of the medical
+device, but needs to meet device, but needs to meet
+recommended requirements as recommended requirements as
+specified by syngo Dynamics) specified by syngo Dynamics)
+Virtualization Provides virtualization of server Provides virtualization of server Identical
+and client machines and client machines
+Siemens Healthineers Page 6 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+Predicate Device
+Subject Device Equivalency
+Attribute syngo Dynamics VA40E
+syngo Dynamics VA40F Analysis
+K220832
+Operating Server: Server: Identical
+system Microsoft Windows server 2016 Microsoft Windows server 2016
+Standard edition (64 Standard edition (64
+bit) bit)
+Microsoft Windows Server Microsoft Windows Server
+2019 Standard Edition (64 2019 Standard Edition (64
+Bit) Bit)
+Client Software: Microsoft Client Software: Microsoft
+Windows 10 x64 version Windows 10 x64 version
+1803 or greater 1803 or greater
+Portal Website Host: Portal Website Host:
+Microsoft Windows Server Microsoft Windows Server
+2016 Standard edition (64-bit), 2016 Standard edition (64-bit),
+Microsoft Windows Server Microsoft Windows Server
+2019 Standard edition (64-bit) 2019 Standard edition (64-bit)
+Server: Server: Windows 2012 R2
+Windows 2012 R2 Server Server Standard Edition R2 (64-
+Standard Edition R2 (64-bit) bit)
+Portal Client: Portal Client:
+Windows 7 SP1 or higher (64- Windows 7 SP1 or higher (64-
+bit) bit)
+Portal Website Host: Portal Website Host: Windows
+Windows 2012 R2 Server 2012 R2 Server Standard
+Standard Edition R2 (64-bit) Edition R2 (64-bit)
+Deployment • The use of syngo Dynamics • The use of syngo Dynamics Identical
+strategy VA30 server/workplace in VA40E server/workplace in
+the context of the context of
+cardiovascular cardiovascular
+configuration. configuration.
+• EHR/EHS Integrated • EHR/EHS Integrated
+configuration with syngo configuration with syngo
+Dynamics server. Dynamics server.
+• Multi-modality • Multi-modality
+cardiovascular cardiovascular
+configuration with configuration with
+native/syngo server and native/syngo server and
+syngo Dynamics workplace syngo Dynamics workplace
+with native/syngo with native/syngo
+components. components.
+The functionalities of subject and predicate devices are fundamentally the same except for differences in
+image review features. Comparing with the predicate, the subject device is supplied with AI/ML
+algorithm that enable an optional semi-automated method (Auto EF) to calculate left ventricle ejection
+fraction using ultrasound images. Both subject and predicate devices have identical manual calculations
+Siemens Healthineers Page 7 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+of left ventricular ejection fraction (LV EF). The subject device has an additional capability for semi-
+automated calculation of LV EF on images selected by the user and under full control of the user
+including possible manual intervention, performing equivalently to the manual measurement with no new
+concerns for the safety and effectiveness.
+VII. PERFORMANCE DATA
+The following performance data were provided in support to demonstarte similarities to the predicate
+/previously cleared device.
+Clinical Testing 21CFR § 807.92(b)(1)
+No clinical studies were carried out for syngo Dynamics (Version VA40F). All performance testing
+was conducted in a non-clinical fashion as part of the verification and validation activities for the
+medical device.
+Summary of Non-Clinical Testing 21CFR § 807.92(b)(2)
+No performance standards for MIMPS have been issued under the authority of Section 514. Non-
+clinical testing was conducted for the device syngo Dynamics (Version VA40F) during product
+development. The modifications described in this Premarket Notification were supported with
+verification and validation testing.
+Siemens Healthineers claims conformance to the following recognized consensus standards:
+• NEMA PS 3.1 - 3.20 (2016)
+• ISO IEC 10918-1 First edition 1994-02-15
+• IEC 62366-1 Edition 1.1 2020-06 CONSOLIDATED VERSION
+• ISO 14971 Third Edition 2019-12
+• IEEE Std 3333.2.1-2015
+• IEC 62304 Edition 1.1 2015-06 CONSOLIDATED VERSION
+• IEC TR 80001-2-2 Edition 1.0 2012-07
+• IEC 82304-1 Edition 1.0 2016-10
+Software Verification and Validation
+In accordance with the FDA’s Guidance Document “Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices” issued on May 11, 2005, documentation is
+included within this submission for software of a Moderate Level of Concern. Non-clinical Testing was
+conducted during product development. Evidence provided within this submission demonstrates
+conformance with special controls for medical devices containing software.
+Cybersecurity considerations related to syngo Dynamics are included within this submission. Siemens
+Healthineers conforms to cybersecurity requirements by implementing a means to prevent unauthorized
+access, modification, misuse, denial of use or unauthorized use of information stored, accessed or
+transferred from a medical device to an external recipient.
+Risk Analysis, in compliance with ISO 14971 Third Edition, for syngo Dynamics (Version VA40F)
+was completed and risk control implemented to mitigate identified hazards. The testing results support
+that all the software specifications have met the acceptance criteria. Testing for verification and
+Siemens Healthineers Page 8 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+validation for the device was found acceptable in support to determine similarities to the predicate
+/previously cleared device.
+Validation Studies for AI/ML-enabled functions
+Auto EF
+To validate the syngo Dynamics (Version VA40F) Intended Use, standalone performance testing for
+Auto EF was conducted to assess the performance of Auto EF compared to the ground truth (reference
+standard) established using conventional methods.
+The test data (n = 150) represent 3 sites in the U.S. with geographic diversity from 2 different regions
+and are independent of the training data used for the training of the Auto EF algorithm. The test data
+are representative of the intended use population for Auto EF. They are balanced for gender and cover
+an age range from 21 to 93 years (average 64 years). The BMI ranges from 16.5 to 48.8 with an
+average of 27.9. Three ultrasound manufacturers (Philips, GE and Siemens) are included in the testing.
+Cases across the range of cardiac function are included.
+The ground truth was established by 2 experienced sonographers using a conventional manual method
+to establish left ventriular volumes and ejection fraction with the “Method of Disks” (MOD) also
+known as the Modified Simpson's Rule. The 2 sonographers worked independently of each other and
+did not have access to Auto EF when establishing the ground truth.
+Acceptance of the statistical data is a Pearson’s correlation coefficient r ≥ 0.800 between the biplane
+EF generated by Auto EF and the ground truth. This acceptance criterion has been previously used for
+the purpose of evaluating left ventricular ejection fraction in FDA cleared products (K210053).
+Additional acceptance criteria were defined with a total of 12 predetermined acceptance criteria.
+The Auto EF results are exceeding all 12 defined acceptance criteria. Biplane EF correlation was 0.827
+between Auto EF and ground truth (P<0.0001).
+The results of clinical data-based software validation for the subject device demonstrated equivalent
+performance in comparison to the reference generated using conventional manual analysis.
+VIII. CONCLUSIONS 21CFR § 807.92(b)(3)
+Performance tests were conducted to test the functionality of the device syngo Dynamics (Version
+VA40F). These tests have been performed to assess the functionality of the subject device. Results of
+all testing conducted were found acceptable in support to determine similarities to the predicate
+/previously cleared device.
+Device labeling contains instructions for use and any necessary cautions and warnings to provide for
+safe and effective use of this device. Risk management was implemented throughout the development
+process to control potential hazards.
+The device does not come in contact with the patient and is only used by trained professionals. The
+output of the device is evaluated by clinicians, providing for sufficient review to identify and intervene
+in the event of a malfunction.
+Siemens Healthineers believes that syngo Dynamics (Version VA40F) is safe and effective as the
+identified predicate device and does not introduce new safety and effectiveness concerns.
+Siemens Healthineers Page 9 of 10syngo Dynamics (Version VA40F) Traditional 510(k) Submission
+Substantial Equivalence Conclusion
+The comparison of intended use, technological characteristics, performance specifications, device
+hazards as well as verification and validation results demonstrate that syngo Dynamics is safe, effective
+and performs as well as the predicate device.
+In summary, Siemens Healthineers is of the opinion that syngo Dynamics (Version VA40F) does not
+introduce any new significant potential safety risks and is similar to the predicate device.
+Siemens Healthineers Page 10 of 10

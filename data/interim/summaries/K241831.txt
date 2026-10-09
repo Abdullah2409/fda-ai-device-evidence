@@ -1,0 +1,487 @@
+November 25, 2024
+ScreenPoint Medical B.V.
+Robin Barwegen
+VP of QA/RA
+Mercator II, 7th floor, Toernooiveld 300
+Nijmegen, Gelderland 6525 EC
+NETHERLANDS
+Re: K241831
+Trade/Device Name: Transpara (2.1.0)
+Regulation Number: 21 CFR 892.2090
+Regulation Name: Radiological Computer Assisted Detection And Diagnosis Software
+Regulatory Class: Class II
+Product Code: QDQ
+Dated: October 25, 2024
+Received: October 25, 2024
+Dear Robin Barwegen:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.04
+Silver Spring, MD 20993
+www.fda.govK241831 - Robin Barwegen Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K241831 - Robin Barwegen Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+YANNA S. KANG -S
+Yanna Kang, Ph.D.
+Assistant Director
+Mammography and Ultrasound Team
+DHT8C: Division of Radiological
+Imaging and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K241831
+I
+Device Name
+Transpara (2.1.0)
+Indications for Use (Describe)
+Transpara software is intended for use as a concurrent reading aid for physicians interpreting
+screening full-field digital mammography exams and digital breast tomosynthesis exams from
+compatible FFDM and DBT systems, to identify regions suspicious for breast cancer and assess
+their likelihood of malignancy. Output of the device includes locations of calcifications groups and
+soft-tissue regions, with scores indicating the likelihood that cancer is present, and an exam score
+indicating the likelihood that cancer is present in the exam. Patient management decisions should
+not be made solely on the basis of analysis by Transpara.
+Type of Use (Select one or both, as applicable)
+ZPrescription ]
+Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."K241831
+510(k) Summary Transpara®
+This 510(k) summary of safety and effectiveness information is prepared in accordance
+with the requirements of 21 CFR § 807.92.
+1. Submitter
+Manufacturer:
+ScreenPoint Medical B.V.
+Mercator II, 7th floor
+Toernooiveld 300
+6525 EC Nijmegen
+Netherlands
+www.screenpoint-medical.com
+Contact person:
+Robin Barwegen, VP of QA/RA
+Office: +31 24 3030045 | +31 24 2020020
+Mobile: +31 6 44077104
+Mercator II, 7th floor, Toernooiveld 300, 6525 EC Nijmegen, Netherlands
+Date:
+June 25, 2024
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:C2. Device
+Devicetradename Transpara2.1.0
+Device RadiologicalComputerAssistedDetectionandDiagnosis
+Software
+Classificationregulation 21CFR892.2090
+Panel Radiology
+Deviceclass II
+Productcode QDQ
+Submissiontype Traditional510(k)
+3. Legally marketed predicate device
+Devicetradename Transpara1.7.2
+LegalManufacturer ScreenPointMedicalB.V.
+Device RadiologicalComputerAssistedDetectionandDiagnosis
+Software
+Classificationregulation 21CFR892.2090
+Panel Radiology
+Deviceclass II
+Productcode QDQ
+Clearancenumber K221347
+4. Device description
+Transpara is a software only application designed to be used by physicians to improve
+interpretation of full-field digital mammography (FFMD) and digital breast tomosynthesis
+(DBT). Deep learning algorithms are applied to images for recognition of suspicious
+calcifications and soft tissue lesions (including densities, masses, architectural
+distortions, and asymmetries). Algorithms are trained with a large database of
+biopsy-proven examples of breast cancer, benign abnormalities, and examples of
+normal tissue.
+Transpara offers the following functions which may be used at any time in the reading
+process, to improve detection and characterization of abnormalities and enhance
+workflow:
+● AI findings for display in the images to highlight locations where the device
+detects suspicious calcifications or soft tissue lesions, along with region scores
+per finding on a scale ranging from 1-100, with higher scores indicating a higher
+level of suspicion.
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:C● Links between corresponding regions in different views of the breast, which may
+be utilized to enhance user interfaces and workflow.
+● An exam-based score which categorizes exams with increasing likelihood of
+cancer on a scale of 1-10 or in three risk categories labeled as ‘low’,
+‘intermediate’ or ‘elevated’.
+The concurrent use indication implies that it is up to the users to decide how to use
+Transpara in the reading process. Transpara functions can be used before, during or
+after visual interpretation of an exam by a user.
+Results of Transpara are computed in a standalone processing appliance which accepts
+mammograms in DICOM format as input, processes them, and sends the processing
+output to a destination using the DICOM protocol in a standardized mammography CAD
+DICOM format. Common destinations are medical workstations, PACS and RIS. The
+system can be configured using a service interface. Implementation of a user interface
+for end users in a medical workstation is to be provided by third parties.
+5. Indications for use
+Transpara is a software medical device for use in a healthcare facility or hospital with the
+following indications for use:
+Transpara software is intended for use as a concurrent reading aid for physicians
+interpreting screening full-field digital mammography exams and digital breast
+tomosynthesis exams from compatible FFDM and DBT systems, to identify regions
+suspicious for breast cancer and assess their likelihood of malignancy. Output of the
+device includes locations of calcifications groups and soft-tissue regions, with scores
+indicating the likelihood that cancer is present, and an exam score indicating the
+likelihood that cancer is present in the exam. Patient management decisions should not
+be made solely on the basis of analysis by Transpara.
+Intended user population
+Intended users of Transpara are physicians qualified to read screening mammography
+exams and digital breast tomosynthesis exams.
+Intended patient population
+The device is intended to be used in the population of women undergoing screening
+mammography or digital breast tomosynthesis.
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:CWarnings and precautions
+Transpara is an adjunct tool and not intended to replace a physicians’ own review of a
+mammogram. Decisions should not be made solely based on analysis by Transpara.
+6. Predicate device comparison
+The indication for use of Transpara 2.1.0 is similar to that of the predicate device. Both
+devices are intended for concurrent use by physicians interpreting breast images to help
+them with localizing and characterizing abnormalities. The devices are not intended as a
+replacement for the review of a physician or their clinical judgement.
+The overall design of Transpara 2.1.0 is the same as that of the predicate device. Both
+versions detect and characterize findings in radiological breast images and provide
+information about the presence, location, and characteristics of the findings to the user
+in a similar way. There are differences in the algorithmic components, which have
+changed to improve detection accuracy for FFDM and DBT. Furthermore, temporal
+comparison has been included to allow a comparison of the current exam with prior
+exams. In case prior exams are assessed, the suspicious regions on the current exam
+will be adjusted based on the comparison with prior exams.
+Changes do not raise different questions of safety and effectiveness of the device when
+used as labeled.
+7. Summary of non-clinical performance data
+In the design and development of Transpara 2.1.0, ScreenPoint applied the following
+voluntary FDA recognized standards and guidelines:
+StandardID Year/ StandardTitle FDA
+Edition Recognition#
+IEC62366-1 Edition1.1 Medicaldevices-Part1:Applicationofusability 5-129
+2020-06 engineeringtomedicaldevices
+ISO20417 Firstedition Medicaldevices–Informationtobesuppliedbythe 5-135
+2021-04 manufacturer
+Corrected
+version
+2021-12
+ISO14971 Third MedicalDevices-ApplicationOfRiskManagementTo 5-125
+Edition MedicalDevices
+2019-12
+IEC62304 Edition1.1 MedicalDeviceSoftware-SoftwareLifeCycle 13-79
+2015-06 Processes
+IEC82304-1 Edition1.0 Healthsoftware-Part1:Generalrequirementsfor 13-97
+2016-10 productsafety
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:CISO15223-1 Fourth Medicaldevices-Symbolstobeusedwithinformation 5-134
+edition tobesuppliedbythemanufacturer-Part1:General
+2021-07 requirements
+The following guidance documents were used to support this submission:
+ID Year Title
+FDA-1997-D- 2002 GeneralPrinciplesofSoftwareValidation
+0029
+FDA-2011-D- 2014 The510(k)Program:EvaluatingSubstantialEquivalencein
+0652 PremarketNotifications[510(k)]
+FDA-2015-D- 2016 PostmarketManagementofCybersecurityinMedicalDevices
+5105
+FDA-2011-D- 2016 ApplyingHumanFactorsandUsabilityEngineeringtoMedical
+0469 Devices
+FDA-2015-D- 2017 DesignConsiderationsandPre-marketSubmission
+4852 RecommendationsforInteroperableMedicalDevices
+FDA-2014-D- 2018 AppropriateUseofVoluntaryConsensusStandardsinPremarket
+0456 SubmissionsforMedicalDevices
+FDA-2018-D- 2019 RecommendedContentandFormatofNon-ClinicalBenchPerformance
+1329 TestingInformationinPremarketSubmissions
+FDA-2016-D- 2021 UniqueDeviceIdentificationSystem:FormandContentofthe
+1853 UniqueDeviceIdentifier(UDI)
+FDA-2009-D- 2022 Computer-AssistedDetectionDevicesAppliedtoRadiologyImagesand
+0593 RadiologyDeviceData-PremarketNotification[510(k)]Submissions
+FDA-2009-D- 2022 ClinicalPerformanceAssessment:Considerationsfor
+0503 Computer-AssistedDetectionDevicesAppliedtoRadiologyImagesand
+RadiologyDeviceDatainPremarketNotification(510(k))Submissions
+FDA-2019-D- 2022 TechnicalPerformanceAssessmentofQuantitativeImagingin
+1470 RadiologicalDevicePremarketSubmissions
+FDA 2023 CybersecurityinMedicalDevices:QualitySystemConsiderationsand
+2021-D-1158 ContentofPremarketSubmissions
+FDA-2021-D- 2023 ContentofPremarketSubmissionsforDeviceSoftwareFunctions
+0775
+FDA-2019-D- 2023 Off-The-ShelfSoftwareUseinMedicalDevices
+3598
+FDA-2023-D- 2023 CybersecurityinMedicalDevices:RefusetoAcceptPolicyforCyber
+1030 DevicesandRelatedSystemsUnderSection524BoftheFD&CAct
+FDA-2021-D- 2023 ElectronicSubmissionTemplateforMedicalDevice510(k)Submissions
+0872
+Transpara 2.1.0 is a software-only device. The recommended documentation level is
+Basic Documentation Level.
+Non-clinical performance tests
+Verification testing was conducted, which consisted of software unit testing, software
+integration testing and software system testing. The verification tests showed that the
+software application satisfied the software requirements.
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:CStandalone performance tests were conducted to demonstrate substantial equivalence
+with the predicate device. For these tests an independent dataset was used, which was
+acquired from multiple centers and had not been used for development of the
+algorithms. This testset contained FFDM and DBT mammograms acquired with devices
+from different manufacturers (FFDM: Hologic, GE, Philips, Siemens, and Fujifilm, DBT:
+Hologic, Siemens, GE and Fujifilm), representative for breast imaging practices
+performing screening and diagnostic assessment, collected from multiple clinical centers
+in seven EU countries and the US. For the inclusion of the normal exams in the test set
+the majority of exams had a normal follow-up of at least one year.
+The testset consisted of 10,207 exams, including 1,350 exams with biopsy-proven
+cancer. An overview is presented in table 1. In the dataset for 2D images, 57% of the
+biopsy-proven cancer findings are characterized as soft tissue lesions, while 36%
+present with calcifications. The median diameter of the lesions is 16.34 mm. At the exam
+level, 44% of biopsy-proven cancer cases involve invasive ductal carcinoma, while 19%
+present only with ductal carcinoma in situ. For 3D images, 61% of the biopsy-proven
+cancer findings in the dataset are characterized as soft tissue lesions, while 34%
+present with calcifications. The median diameter of the lesions is 15.57 mm. At the exam
+level, 48% of biopsy-proven cancer cases involve invasive ductal carcinoma, while 17%
+present only with ductal carcinoma in situ.
+Table1:Datausedforevaluationofstand-aloneperformance
+NumberofExams Normal Benign Cancer
+FFD
+5.730 4,830 150 750
+M
+DBT 4,477 3,757 120 600
+Total 10,207 8,587 270 1,350
+Exam based sensitivity for cancer detection in the testset was computed by taking the
+fraction of cancers that were correctly localized in at least one view (MLO or CC). False
+positive rates were computed in exams without cancer, by dividing the number of
+regions detected per image by the number of images. The results are demonstrated in
+the table below.
+Table2:Resultsoverallstand-aloneperformanceTranspara–SensitivityandAreaundertheROCCurve(AUC)
+Sensitivityfor Sensitivityfor Sensitivityfor Exam-basedAUC
+SensitiveMode SpecificMode ElevatedRisk
+(70%specificity) (80%specificity) (97%specificity)
+FFDM 97.4%(96.3-98.5) 95.2%(93.7-96.7) 80.8%(78.0-83.6) 0.960(0.953-0.966)
+DBT 96.9%(95.5-98.3) 95.1%(93.3-96.8) 78.4%(75.1-81.7) 0.955(0.947-0.963)
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:CAdditional performance testing for Transpara cancer detection consisted of the sets
+described in table 3. For each sub-analysis the AUC as well as the sensitivities at the
+most important operating points (70% specificity, 80% specificity, 97% specificity) was
+compared. The goal of these sub-analysis was to ensure that Transpara does not show
+any deviations in specific sub-groups.
+TotalNumberofExams Non-can
+TestDescription Subgroup Cancer
+(FFDM/DBTpooled) cer
+WhiteNon-Hispanic 529 728 89
+WhiteHispanic 324 255 69
+Black 351 253 37
+Ethnicity
+Turkish 189 149 27
+Asian 601 544 57
+Other 360 203 108
+Above50yearsold 13024 11523 1498
+AgeGroups
+Below50yearsold 2845 2637 208
+Mass<20mm 705 0 705
+LesionSize Mass20-50mm 573 0 573
+Mass>50mm 120 0 120
+Mass 917 0 917
+CalcificationGroups 541 0 541
+RadiologicalLesion
+Architectural
+Subtypes 663 0 663
+Distortion
+Asymmetries 52 0 52
+ILC 129 0 129
+HistologySubtypes IDC 432 0 432
+DCIS 183 0 183
+Screeningvs Screening 824 679 145
+Diagnostic(DBT) Diagnostic 3,931 3,454 477
+LowDensity(BIRADS
+5,154 4,582 572
+A+B)
+BreastDensity
+HighDensity
+4,982 4,263 719
+(BIRADSC+D)
+Table3:Datausedforsub-groupanalysisofstand-aloneperformanceforTransparaCancerDetection
+The results for the analysis do not show any deviations for specific sub-groups. The
+performance in the sub-groups meets the algorithm requirements.
+Transpara 2.1.0 comes with the introduction of Temporal Analysis. The testset for this
+feature consists of 5,724 exams, including 643 exams with biopsy-proven cancer. An
+overview is presented in table 4.
+NumberofExams Normal Benign Cancer
+FFD
+4,266 3,742 53 471
+M
+DBT 1,458 1,256 30 172
+Total 5,724 4,998 83 643
+Table4:Datausedforevaluationofstand-aloneperformanceofTemporalAnalysis
+Exam based sensitivity for cancer detection in the testset with temporal analysis was
+computed by taking the fraction of cancers that were correctly localized in at least one
+view (MLO or CC). False positive rates were computed in exams without cancer, by
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:Cdividing the number of regions detected per image by the number of images. The results
+are demonstrated in the table below.
+Sensitivityfor Sensitivityfor Sensitivityfor Exam-basedAUC
+SensitiveMode SpecificMode ElevatedRisk
+(70%specificity) (80%specificity) (97%specificity)
+FFDMwithout 95.7%(93.7- 94.5%(92.3- 78.9%(75.0- 0.954(0.941-
+TA 97.6) 96.7) 82.8) 0.965)
+95.7%(93.7- 95.4%(93.4- 82.7%(79.1- 0.958(0.946-
+FFDMwithTA
+97.6) 97.4) 86.4) 0.969)
+94.6%(91.2- 91.0%(86.7- 67.1%(59.9- 0.935(0.915-
+DBTwithoutTA
+98.0) 95.4) 74.2) 0.953)
+94.6%(91.2- 91.0%(86.7- 74.9%(68.3- 0.941(0.921-
+DBTwithTA
+98.0) 95.4) 81.4) 0.958)
+Table 5: Results overall stand-alone performance Transpara with and without Temporal Analysis – Sensitivity and
+AreaundertheROCCurve(AUC),whereTA=TemporalAnalysis
+Additional performance testing for Transpara cancer detection consisted of the sets
+described in table 3. For each sub-analysis the AUC is compared to Transpara without
+Temporal Analysis. The goal of these sub-analysis is to ensure that Transpara does not
+show any deviations in specific sub-groups.
+Total Number of Exams Non-can
+TestDescription Subgroup Cancer
+(FFDM/DBTpooled) cer
+0.9-1.5years 3,152 2,731 421
+PriorTimeIntervals
+1.5-6years 2,489 2,267 222
+Under50yearsold 909 876 33
+Between50-65
+AgeGroups 2,796 2,532 264
+yearsold
+Above65yearsold 1,375 1,173 202
+Singleprior 1,526 1,306 220
+SinglevsMulti-prior
+Multipriors 1,526 1,306 220
+LowDensity
+2,915 2,573 342
+(BIRADSA+B)
+BreastDensity
+HighDensity
+2,728 2,425 303
+(BIRADSC+D)
+ModalityofPriorTypefor FFDM 533 519 14
+DBTcurrent Synthetic 927 761 166
+SingleManufacturer 3,213 2,852 361
+ManufacturerType
+CrossManufacturer 1,053 943 110
+Table6:Datausedforsub-groupanalysisofstand-aloneperformanceforTransparawithTemporalAnalysis
+The results for the analysis do not show any deviations for specific sub-groups. The
+performance in the sub-groups meets the algorithm requirements.
+Based on standalone testing without temporal comparison it was concluded that
+Transpara 2.1.0 breast cancer detection performance for FFDM and DBT mammograms
+of compatible devices is non-inferior and superior to the performance of the predicate
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:Cdevice Transpara 1.7.2. With temporal comparison the performance of the device is
+superior to the performance without temporal comparison.
+The table below lists the manufacturers compatible with Transpara processing of exams
+without temporal comparison.
+Table7CompatibleManufacturersforstandaloneimageprocessing
+Standalone
+FFDM DBT
+Compatible Hologic,GE,Philips, Hologic,Siemens,GE
+manufacturers Siemens,andFujifilm andFujifilm
+The table below outlines the manufacturers compatible with Transpara for temporal
+comparison, including various combinations of mammography types.
+Table8CompatibleManufacturerfortemporalcomparison
+Current Prior
+SiemensFFDM HologicFFDM,SiemensFFDM
+GEFFDM HologicFFDM,GEFFDM
+HologicFFDM HologicFFDM,SiemensFFDM,GEFFDM
+HologicDBT+SM HologicDBT+SM,HologicFFDM
+8. Conclusions
+The data presented in this 510(k) includes all required information to support the review
+by FDA. Standalone performance tests with FFDM and DBT demonstrate that Transpara
+2.1.0 achieves non-inferior and superior detection performance compared to the
+predicate device.
+ScreenPoint has applied a risk management process in accordance with FDA
+recognized standards to identify, evaluate, and mitigate all known hazards related to
+Transpara 2.1.0. These hazards may occur when accuracy of diagnosis is potentially
+affected, causing either false-positives or false-negatives. All identified risks are
+effectively mitigated and it can be concluded that the residual risk is outweighed by the
+benefits.
+As described above, the subject device, Transpara 2.1.0, and the predicate device have
+the same intended use. While there are differences in technological characteristics,
+these differences were evaluated with performance testing as described and the
+technological differences do not raise different questions of safety and effectiveness.
+Therefore, the results of the testing demonstrate that the subject device, Transpara
+2.1.0, is substantially equivalent to the predicate device.
+Transpara® 510(k)Submission
+RedID:BLW-REG-001-012
+Revision:C

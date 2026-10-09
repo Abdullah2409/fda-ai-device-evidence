@@ -1,0 +1,256 @@
+November 17, 2025
+Nobel Biocare c/o Medicim NV
+℅ Mieke Roelants
+RA Manager
+Stationsstraat 102
+MECHELEN, 2800
+BELGIUM
+Re: K252086
+Trade/Device Name: DTX Studio Assist
+Regulation Number: 21 CFR 892.2070
+Regulation Name: Medical Image Analyzer
+Regulatory Class: Class II
+Product Code: MYN, QIH
+Dated: October 14, 2025
+Received: October 14, 2025
+Dear Mieke Roelants:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.K252086 - Mieke Roelants Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K252086 - Mieke Roelants Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Lu Jiang
+Lu Jiang, Ph.D.
+Assistant Director
+Diagnostic X-Ray Systems Team
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K252086
+Device Name
+DTX Studio Assist
+Indications for Use (Describe)
+DTX Studio Assist is a Software Development Kit (SDK) designed to integrate with medical device software that displays
+two-dimensional dental radiographs. It contains a selection of algorithms that processes input data (two-dimensional
+radiographs) from the hosting application and returns a corresponding output to it.
+DTX Studio Assist is intended to support the measurement of alveolar bone levels associated with each tooth. It is also
+intended to aid in the detection and segmentation of non-pathological structures (i.e., restorations and dental anatomy).
+DTX Studio Assist contains a computer-assisted detection (CADe) function that analyzes bitewing and periapical
+radiographs of permanent teeth in patients aged 15 and older to identify and localize dental findings, including caries,
+calculus, periapical radiolucency, root canal filling deficiency, discrepancy at the margin of an existing restoration, and
+bone loss.
+DTX Studio Assist is not intended as a replacement for a complete dentist's review nor their clinical judgment which takes
+into account other relevant information from the image, patient history, and actual in vivo clinical assessment
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(k) Summary
+510(k) #: K252086 Prepared on: 2025-10-14
+Contact Details
+21 CFR 807.92(a)(1)
+I
+Applicant Name Nobel Biocare c/o Medicim NV
+Applicant Address Stationsstraat 102 Mechelen 2800 Belgium
+I
+Applicant Contact Telephone 003215 44 32 00
+�----------------------------�
+I
+Applicant Contact Mrs. Mieke Roelants
+I
+Applicant Contact Email DEN-MEC-DTX-Regulatory@envistaco.com
+Device Name
+21 CFR 807.92(a)(2)
+Device Trade Name DTX Studio Assist
+Common Name Medical image analyzer
+Classification Name Medical Image Analyzer
+Regulation Number 892.2070
+Product Code(s) MYN, QIH
+Legally Marketed Predicate Devices
+21 CFR 807.92(a)(3)
+Predicate# Predicate Trade Name (Primary Predicate is listed first) Product Code
+I
+K231898 DTX Studio Clinic 4.0 MYN
+1 K242437 Smile Dx MYN
+Device Description Summary
+21 CFR 807.92(a)(4)
+I
+DTX Studio Assist is a software development kit (SOK) that makes a selection of algorithms (including Al-based algorithms) available
+through a clean, well-documented API. DTX Studio Assist features are only available to licensed customers. The SOK has no user interface
+and is intended to be bundled with and used through other software products (hosting applications).
+Key functionalities of DTX Studio Assist include:
+Focus Area Detection on IOR images: The software features the Focus Area Detection algorithm which analyzes intraoral radiographs for
+potential dental findings (caries, periapical radiolucency, root canal filling deficiency, discrepancy at the margin of an existing
+restoration, bone loss and calculus) or image artifacts.
+Alveolar Bone Level Measurement: The software enables the measurements of mesial and distal alveolar bone levels associated with
+each tooth.
+Detection of historical treatments: The software enables automated detection and segmentation of dental restorations in IOR images to
+support dental charting which can be used during patient communication. The following restoration types are supported: amalgamrn11ngs, composite rn11ngs, prosmeuc crowns, onages, ImpIants, ImpIant aoutments, root canaI rn11ngs ana posts.
+Anatomy Segmentation: The software segments dental structures by assigning a unique label to each pixel in IOR images, including
+enamel, dentine, pulp, bone, and artificial structures.
+Intended Use/Indications for Use 21 CFR 807.92(a)(5)
+DTX Studio Assist is a Software Development Kit (SDK) designed to integrate with medical device software that displays two-dimensional
+dental radiographs. It contains a selection of algorithms that processes input data (two-dimensional radiographs) from the hosting
+application and returns a corresponding output to it.
+DTX Studio Assist is intended to support the measurement of alveolar bone levels associated with each tooth. It is also intended to aid in
+the detection and segmentation of non-pathological structures (i.e., restorations and dental anatomy).
+DTX Studio Assist contains a computer-assisted detection (CADe) function that analyzes bitewing and periapical radiographs of
+permanent teeth in patients aged 15 and older to identify and localize dental findings, including caries, calculus, periapical radiolucency,
+root canal filling deficiency, discrepancy at the margin of an existing restoration, and bone loss.
+DTX Studio Assist is not intended as a replacement for a complete dentist's review nor their clinical judgment which takes into account
+other relevant information from the image, patient history, and actual in vivo clinical assessment
+Indications for Use Comparison 21 CFR 807.92(a)(5)
+The subject device, DTX Studio Assist and the first predicate device DTX Studio Clinic 4.0 are predominantly equivalent in terms of
+Indications for Use regarding the CADe functionality (Focus Area Detection):
+Both devices are CADe systems that analyze intra oral radiographs to identify and localize dental findings such as caries, calculus,
+periapical radiolucency, root canal filling deficiency, discrepancy at the margin of an existing restoration, and bone loss. They are
+intended for use by dental professionals reviewing bitewing and periapical radiographs of permanent teeth in patients aged 15 years or
+older.
+The difference in Indications for Use between the subject and primary predicate device concerns the additional functionalities of DTX
+Studio Assist, which include:
+-Measurement of alveolar bone levels
+-Detection and segmentation of restorations
+-Segmentation of dental anatomy
+These additional functionalities are present in the secondary predicate device, Smile Dx (K242437), which also supports segmentation
+and measurement capabilities, including bone level assessment and identification of restorations and dental anatomy.
+Conclusion
+The subject device, DTX Studio Assist, encompasses the combined Indications for Use of both predicate devices. The differences in
+wording reflect the inclusion of additional functionalities and do not constitute a new intended use. The overall intended use,
+supporting dental professionals in the review of intraoral radiographs, remains consistent across the subject and predicate devices.
+Technological Comparison 21 CFR 807.92(a)(6)
+DTX Studio Assist and primary predicate device (DTX Studio Clinic 4.0 - K231898) share the following characteristics:
+-Supervised machine learning algorithms
+-Detection of six dental findings
+-Use of intraoral radiographs (bitewing and periapical)
+-Output via bounding boxes and segmentation masks
+-Intended use by dental professionals
+There are no technical differences between the Focus Area detection algorithm in DTX Studio Clinic 4.0 (primary predicate - K231898)
+and the algorithm in the current subject device.
+DTX Studio Assist and the secondary predicate device (Smile Dx - K242437) share the following characteristics:
+- Supervised machine learning algorithms-uetecrIon or canes ana penapIcaI raaioIucencIes
+-Segmentation of dental anatomy
+-Use of bitewing and periapical radiographs
+-Support measurement of mesial and distal alveolar bone levels
+-Intended use as an adjunct tool for dental professionals
+DTX Studio Assist is technologically different from the predicate devices as follows:
+-DTX Studio Assist is technologically different from the primary predicate device in that it includes only a limited subset of
+functionalities derived from DTX Studio Clinic; key features such as implant planning and other advanced capabilities are not part of DTX
+Studio Assist.
+-DTX Studio Assist is a Software Development Kit (SOK) that outputs structured results for integration into a hosting application, unlike
+predicate devices such as DTX Studio Clinic and Smile Dx which are stand-alone or web-based applications that display findings directly
+on radiographs; this architectural difference does not raise safety or effectiveness concerns, as the SD K's output is consistently
+interpreted and visualized by the host software in a controlled, documented, and validated environment.
+Non-Clinical and/or Clinical Tests Summary & Conclusions 21 CFR 807.92(b)
+DTX Studio Assist is designed and manufactured under the Quality System Regulations as outlined in 21 CFR § 820 and ISO 13485:2016
+Standards. This device is in conformance with the applicable parts of IEC 62304:2006/Amd 1 :2015 standard. Design Control Activities,
+including risk management following the ISO 14971 :2019, verification/validation testing, were conducted and are included in this
+submission.
+The performance of the subject device was verified and validated following the guidance provided in FDA Guidance General Principles
+of Software Validation. This documentation includes testing which demonstrates that the requirements for the features have been met.
+Software documentation for Basic Documentation Level of Concern description of respective V&V activities, per the FDA guidance
+document, "Content of Premarket Submissions for Device Software Functions" issued on June 14, 2023, is also included as part of this
+submission.
+Nonclinical Performance Testing Summary
+I.Focus Area Detection (CADe functionality-MYN)
+This functionality was originally cleared under K221921. The standalone performance testing results supporting this feature are included
+in that submission.
+II.New software feature performance testing
+Three new stand-alone validation studies were conducted to support the determination of substantial equivalence for the newly
+developed software features: the restoration detection and the Alveolar Bone level measurement algorithm.
+1.Restoration Detection Algorithm
+A standalone performance assessment was conducted to evaluate the DTX Studio Assist IOR Restoration Detection algorithm
+independently, without interaction from dental professionals, in identifying and segmenting eight types of dental restorations in
+intraoral radiographs (IORs). The study included 1,530 IOR images collected from dental practices across the United States and Europe.
+The dataset was composed of 41% bitewing and 59% periapical images, with 91% captured using digital sensors and 9% using
+photostimulable phosphor (PSP) plates. The patient population was 38% male and 62% female, with a broad age distribution. Images
+were sourced from nine U.S. states and multiple European sites to ensure geographic and demographic diversity. The study used a two­
+out-of-three consensus method to establish a reference standard. The algorithm achieved an overall sensitivity of 88.8% and specificity
+of 96.6%, with segmentation accuracy confirmed by a mean Dice score of 86.5%, closely matching inter-expert agreement
+2.Alveolar Bone Level (ABL) Measurement Algorithm
+A standalone performance assessment was conducted to evaluate the DTX Studio Assist IOR Alveolar Bone Level (ABL) Measurement
+algorithm independently, without interaction from dental professionals, in identifying anatomical landmarks and calculating mesial and
+distal ABL measurements in intra oral radiographs (IORs). The study included 274 IOR images collected from 30 dental practices across
+the United States and Europe. The dataset consisted of 45% bitewing and 55% periapical images, with 86% captured using digital
+sensors and 14% using photostimulable phosphor (PSP) plates. The patient population was 39% male and 60% female, with a broad age
+distribution. Images were sourced from multiple U.S and European sites to ensure geographic and demographic diversity. A two-out-of­
+three consensus method was used to establish a reference standard. The algorithm achieved a sensitivity of 93.2% and specificity of
+88.6% for ABL line segment matching. In addition, with an average mean average error of 0.26 mm, the ABL length measurements
+showed an MAE well below the 1.5 mm threshold, confirming the length is correctly measured by the algorithm.
+3.Anatomy Segmentation Algorithm
+A standalone performance assessment was conducted to evaluate the DTX Studio Assist IOR Anatomy Segmentation algorithm
+independently, without interaction from dental professionals, in identifying and segmenting key anatomical structures in intraoral
+radiograph images (Enamel, Dentine, Pulp, Jaw bone, artificial). The study included 220 IOR images collected from dental practices

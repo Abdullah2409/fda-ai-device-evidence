@@ -1,0 +1,1513 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+DentalMonitoring
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Dental Image Analyzer. A dental image analyzer is a prescription home use device that uses
+software intended to collect and analyze patient-specific, optical camera-based, intraoral images. The
+analyses are provided to dental health care professionals as an aid to diagnosis of oral health
+conditions and/or to monitor treatment progress.
+NEW REGULATION NUMBER: 872.1770
+CLASSIFICATION: Class H
+PRODUCT CODE: SBC
+BACKGROUND
+DEVICE NAME: DentalMonitoring
+SUBMISSION NUMBER: DEN230035
+DATE DE Novo RECEIVED: 05/04/2023
+SPONSOR INFORMATION:
+Dental Monitoring SAS
+Isabelle Puraye
+75 rue de Tocqueville
+Paris 75017
+INDICATIONS FOR USE
+DentalMonitoring is a medical device software using image processing algorithms to analyze pictures of the
+oral cavity (hereinafter Scans). Scans are taken using the DM App, a smartphone, and the manufacturer's
+proprietary hardware products. Scans are taken by the patient, a non-healthcare professional, or a healthcare
+professional. The Scan is taken in healthcare facilities, such as a dental practice, or in a non-healthcare
+environment, such as the patient's own home. For some clinical parameters, DentalMonitoring requires a 3D
+Model. The product is designed to assist healthcare professionals in remotely monitoring orthodontic
+treatments and treatment progress. The results of DentalMonitoring are intended to be used as an aid in
+diagnosis and monitoring, not on a stand-alone basis for clinical decision-making. DentalMonitoring is
+indicated for use for patients over the age of 6 and reports results solely on permanent teeth.
+DentalMonitoring can monitor the following clinical parameters:
+• oral hygiene: dental plaque / food residue;
+• soft tissue statement: gingival recession, black triangle;
+• dental statement: closure of extraction space, tooth wear;
+• alignment: closure of all anterior spaces; and
+• dental occlusion:
+o in 2D Monitoring: midline deviation, overbite/open bite, overjeto in 3D Monitoring: canine class, midline deviation, overbite/open bite, overjet
+Additionally, the following clinical parameters specific to orthodontic treatment types or phases can be
+monitored using DentalMonitoring:
+• for aligner treatments: tracking (seat/unseat), attachment loss, button loss;
+• for braces: bracket debonding, tie loss, self-ligating clips, passive archwire and auxiliaries; and
+• for thermoformed retainers: tracking (seat/unseat).
+Based on an initial 3D Model provided by a healthcare professional, DentalMonitoring can also provide
+healthcare professionals with 3D Models representative of the patient's dentition and treatment progress.
+This device is a prescription device and is not intended for over-the-counter use
+LIMITATIONS
+DentalMonitoring should not be used on patients under the age of 6.
+Dental Monitoring should not be used by patients presenting systemic conditions affective connective
+tissues not allowing them to open/close their buccal cavity sufficiently to acquire acceptable Scans.
+The following population should be assisted by a third party to perform Scans:
+• Children up to 12;
+• Adults or children visually impaired;
+• Adults or children hearing impaired;
+• Or any condition that might prevent the patient from adopting the right position to take a Scan.
+DentalMonitoring is not intended to replace standard practices for diagnosis or treatment. Final clinical
+decisions remain the sole responsibility of the healthcare professional. In order to establish a diagnosis,
+further examinations are required according to the current standard of care, such as dental radiographs
+and/or tactile examinations with instrumentation.
+DentalMonitoring results are limited only to elements visible in the input Scans. DentalMonitoring does
+not provide results on non-visible elements such as potential interproximal and lingual cavities.
+DentalMonitoring does not provide results on lingual surfaces.
+PLEASE REFER TO THE LABELING FOR A COMPLETE LIST OF WARNINGS, PRECAUTIONS
+AND CONTRAINDICATIONS.
+DEVICE DESCRIPTION
+DentalMonitoring is a standalone software with embedded artificial intelligence comprising machine
+learning and locked neural network algorithms. The product is composed of these parts: the Dashboard, the
+DM App along with a DM Cheek Retractor and DM ScanBox, and the Data Analysis Platform.Dashboard
+I
+I DM App
+Data Analysis
+J J
+Platform
+1. Patient profile set-up 2. Intraoral pictures 3 Analysis of acquired 4. Communication of
+aquisition intraoral pictures results
+The four steps are detailed below:
+1. Patient profile set-up: The healthcare professional sets up the patient profile through a web- based
+interface, Dashboard, accessible at www.dental-monitoring.com/doctor. During the patient profile
+set-up, the healthcare professional is prompted to set up a Protocol in order to select the clinical
+parameters they wish to monitor in accordance with the patient's treatment. During the set-up, the
+healthcare professional also determines the appropriate frequency at which the patient should use
+the DM App to take pictures of their intraoral cavity.
+2. Intraoral pictures acquisition: A set of pictures of the patient's intraoral cavity, hereinafter
+referred to as a Scan, is taken using the DM App along with a DM Cheek Retractor and DM ScanBox.
+The DM Cheek Retractor is an intraoral retraction device for the cheeks and lips to allow for
+sufficient space for image capture. The DM ScanBox is an extraoral holding apparatus for the
+smartphone that attaches to the DM Cheek Retractor. The DM App guides the user through the
+appropriate steps in order to obtain a complete Scan. This DM App is a mobile application installed
+on a smartphone; thus, the pictures are captured through the smartphone's main camera allowing
+the procedure to be totally non-invasive to the patient.3. Analysis of acquired intraoral pictures: The Scan is processed through the Data Analysis Platform.
+The Data Analysis Platform includes a technical processing phase and clinical processing phase,
+the latter being a clinical analysis to determine if any event has occurred within the clinical
+parameters the healthcare professional has set up to be monitored. The Data Analysis Platform uses
+Al comprising image processing algorithms and neural networks.
+4. Communication of results: Results of the analysis performed through the Data Analysis Platform
+are communicated to the healthcare professional through the Dashboard on one hand, and to the
+patient through the DM App on the other hand. Results are shared with the healthcare professional
+in an exhaustive fashion, providing them with detailed information. As for the patient, the results are
+communicated in accordance with the rules defined by the healthcare professional in the Protocol
+applied to the patient.
+DentalMonitoring enables HCPs to adapt the use of the product according to their needs depending on each
+patient's orthodontic treatment. DentalMonitoring comprises two types of monitoring: 2D Monitoring and
+3D Monitoring. Some clinical parameters are specific to either 2D Monitoring, or 3D Monitoring.
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+BIOCOMPATIBILITY/MATERIALS
+The DM Cheek Retractor were evaluated per ISO 10993-1(2020): "Biological evaluation of medical devices
+Part 1: evaluation and testing with a risk management" and ISO 7405-2018— Dentistry — evaluation of
+biocompatibility of medical devices used in dentistry. The proposed device passed cytotoxicity tests
+according to ISO 10993-5, skin sensitization according to ISO 10993-10, and irritation or intracutaneous
+reactivity according to ISO 10993-23.
+SOFTWARE
+DentalMonitoring has a Modate Level of Concern (LOC). Appropriate software documentation for was
+provided in compliance with the FDA guidance document "Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices" (issued in May 2005). Verification and validation
+(V&V) activities were performed and described at the unit and system level.
+CYBER SECURITY
+DentalMonitoring approach to cybersecurity aligns with FDA's 2020 guidance titled, "Guidance on
+Cybersecurity For Medical Devices" The device also conforms to the cybersecurity requirements identified
+in Section 524B to the FD&C Act.
+PERFORMANCE TESTING - BENCH
+AI/ML standalone testing
+Standalone performance of each neural network and algorithm was evaluated. Neural networks and
+algorithms were classified into three families according to the outputs they provide. A unique protocol was
+established per family in order to perform the evaluation, with acceptance criteria adapted to each neural
+network and algorithm. DentalMonitoring comprises technical neural networks and algorithms as well as
+clinical neural networks and algorithms. The standalone testing showed acceptable performance of criticalfeatures to demonstrate the device's ability to perform both it's clinical and technological functions.
+SUMMARY OF CLINICAL INFORMATION
+The Sponsor provided data from a Clinical Investigation Program to support the clinical performance of
+DentalMonitoring.
+DentalMonitorin Clinical Investigation Program
+List of
+Stud Overview of targeted
+Study type Study name (indication;
+y indications
+monitoring plan)
+code
+couples targeted
+(dental plaque / food
+residue; 2D)
+(gingival recession; 2D)
+(black triangle; 2D)
+(closure of extraction
+space; 2D)
+(closure of all anterior
+Qualitative indications
+spaces; 2D)
+with Reference Method
+(tracking (seat/unseat);
+Retrospective 21-001 Retrospective compatible with
+2D)
+DentalMonitoring picture
+(attachment loss; 2D)
+set review (button loss; 2D)
+(bracket debonding; 2D)
+(tie loss; 2D)
+(self-ligating clips; 2D)
+List of (indication;
+Stud Overview of targeted
+Study type Study name monitoring plan)
+Y indications couples targeted
+code
+(canine class; 3D)
+(midline deviation; 2D)
+(midline deviation; 3D)
+Prospective 21-002 Occlusion Occlusion indications (overbite/open bite; 2D)
+(overbite/open bite; 3D)
+(overjet; 2D)
+(overjet; 3D)
+(passive archwire and
+Archwire Passive archwire and auxiliaries; 2D)
+Prospective 21-003
+& auxiliaries indication (passive archwire and
+Auxiliaries auxiliaries; 3D)
+Updated 3D Updated 3D Model
+Prospective 21-004 (Updated 3D Model; 3D)
+Model indication
+Retrospective study
+DentalMonitoring evaluated the qualitative indications that were able to have the Reference Method used
+solely DentalMonitoring picture sets (= Scan). The study was performed using Scans retrospectively
+collected and involved a total of 15 US orthodontists.
+The Reference Method results were generated as follow:Scans were reviewed by a panel of three independent orthodontists with an assessment done per tooth
+/ interdental space.
+In case of non-dominant results, a consensus was established by the same group of three
+independent orthodontists. Dominant results and result of the consensus review were merged in
+order to generate the Reference Method initial outcome.
+Per indication, results presenting discrepancies between the Reference Method and the Candidate
+Method, i.e., False Positive results and False Negative results, were reviewed by one of the
+orthodontists among the 15 that took part in the study.
+Data was collected in order to qualify the patient demographics.Results per indication
+Dental plaque/food residue
+Characteristic 'E
+Age group
+12-22 years of age 367 (49.5%)
+> 22 years of age 4 (0.6%)
+<12 years old 369 (49.8%)
+Unknown 1 (0.1%)
+Location
+Central 420 (56.7%)
+i
+East Coast 209 (28.2%)
+US-Other 5(0.7%)
+West Coast 60 (8.1%)
+t
+Western 30 (4.0%)
+1
+Out of US 17 (2.3%)
+Treatment type
+Aligners 415 (56.0%)
+Brackets - Ceramic 9 (1.2%)
+Brackets - Self-ligating 128 (17.3%)
+,
+Brackets - Traditional i 135 (18.2%)
+Mixed 32 (4.3%)
+i
+None 5 (0.7%)
+a
+Retainers 17 (2.3%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive (Noticeable
+Negative Total
+or Slight)
+Positive (Noticeable or
+1,874 356 2,230
+Slight)
+DM
+Negative 362 2,472 2,834
+Result
+Total 2,236 2,828 5,064
+Final study results for dental plaque / food residue
+. 95% Cl Lower 95% CI Upper
+Result
+_ Bound Bound
+Sensitivity 82.5% 1 79.9% 84.8%
+Specificity 83.2% 80.5% 85.5%
+I 1
+Scans were taken using the following phone manufacturers: Apple, Samsung, Google, Motorola, LG,
+OnePlus, Huawei, Xiaomi, Essential PhoneGingival recession
+Characteristic I # (%)
+Age group
+12-22 years of age 205 (51.3%)
+? 22 years of age 194 (48.5%)
+4
+<12 years old 1(0.2%)
+Location
+Central 236 (59%)
+East Coast 96(24%)
+t
+West Coast 30 (7.5%)
+US - Other 5 (1.2%)
+4
+Out of US 12 (3%)
+Western 21(5.3%)
+Treatment type
+Aligners 205 (51.2%)
+Retainers 17(4.2%)
+Brackets - Ceramic 7(1.8%)
+Brackets - Self-ligating 68 (17%)
+Brackets - Traditional 82 (20.5%)
+Mixed treatment 20 (5%)
+No treatment 1 (0.3%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 77 18 95
+DM Negative 19 756 775
+Result
+Total 96 774 870
+Final study results for gingival recession
+95% CI Lower 95% CI Upper
+Result
+Bound Bound
+79.9% 70.3% 86.9%
+97.4% 95.8% 98.4%
+Scans were taken using the following phone manufacturers: Apple, Samsung, Google, Motorola, LG,
+Huawei, Essential Phone, Kyocera, OnePlus, and Wiko.Black triangle
+Characteristic # (%)
+Age group
+12 - 22 years of age 233 (62%)
+> 22 years of age 140(37.2%)
+< 12 years old 3 (0.8%)
+Location
+Central 231 (61.4%)
+East Coast 97 (25.8%)
+t
+West Coast 23(6.1%)
+Out of US 7 (1.9%)
+Z.
+Western 14 (3.7%)
+US-Other 4(1.1%)
+Treatment type
+I
+Aligners 166 (44.2%)
+i
+Retainers 12 (3.2%)
+Brackets - Ceramic 9 (2.4%)
+v
+Brackets - Self-ligating 79 (21%)
+t
+Brackets - Traditional 87 (23.1%)
+Mixed treatment 21(5.6%)
+No treatment 2 (0.5%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 179 12 191
+DM Negative 40 906 946
+Result
+Total 219 918 1,137
+Final study results for black triangle
+95% CI Lower 95% CI Upper
+Result
+Bound Bound
+Sensitivity 81.0% 73.9% 86.5%
+Specificity 98.4% 96.9% 99.2%
+Scans were taken using the following phone manufacturers: Apple, Samsung, Google, Motorola, LG,
+OnePlus, Huawei, and Xiaomi.Closure of extraction space
+Age group
+12-22 years of age 105 (41.3%)
+> 22 years of age 5 (2.0%)
+< 12 years old 142 (55.9%)
+Unknown 2 (0.8%)
+Location
+Central 137(53.9%)
+East Coast 67 (26.4%)
+US - Other 6 (2.4%)
+West Coast 25 (9.8%)
+Western 11(4.3%)
+out of US 8 (3.2%)
+Treatment type
+Aligners 125 (49.2%)
+Brackets - Ceramic 3(1.2%)
+Brackets - Self-ligating 55 (21.7%)
+Brackets - Traditional 44 (17.3%)
+Mixed treatment 1 16 (6.3%)
+None 1 (0.4%)
+Retainers 10(3.9%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 198 24 222
+DM Negative 0 256 256
+Result
+Total 198 280 478
+Final study results for closure of extraction space
+95% Cl Lower 95% Cl Upper'
+Result
+Bound Bound
+Sensitivity 100.0% 94.2%
+Specificity 91.8% 87.2% 94.9%
+Scans were taken using the following phone manufacturers: Apple, Samsung, LG, Google, Motorola,
+Essential Phone, Huawei, and Wiko.Tooth wear
+Age group
+12 - 22 years of age 200 (54.8%)
+> 22 years of age 164 (44.9%)
+< 12 years old 1 (0.3%)
+Location
+Central 232 (63.6%)
+East Coast 83 ( 22.7%)
+West Coast 22 (6.0%)
+Western 14 (3.8%)
+Out of US 11(3.0%)
+US-Other 3 (0.8%)
+Treatment type
+Aligners 162 (44.4%)
+Brackets - Ceramic 5 ( 1.4%)
+Brackets - Self-ligating 74 ( 20.3%)
+Brackets - Traditional 88 ( 24.1%)
+Mixed 1 (0.3%)
+Mixed treatment 22 (6%)
+None 1 (0.3%)
+Retainers 12 (3.3%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 89 21 110
+DM
+Negative 13 943 956
+Result
+Total 102 964 1,066
+Final study results for tooth wear
+95% CI 95% CI
+Result
+Lower Bound Upper Bound
+Sensitivity 84.5% 74.1% 91.2%
+Specificity j 97.0% 94.9% 98.2%
+Scans were taken using the following phone manufacturers: Apple, Samsung, LG, Google, Motorola,
+Huawei, and Essential Phone.Closure of all anterior spaces
+# (%)
+Characteristic
+Age group
+12 - 22 years of age 297 (57.5%)
+> 22 years of age 213 (41.3%)
+< 12 years old 4 (0.8%)
+Unknown 2 (0.4%)
+Location
+Central 307 (59.5%)
+East Coast 131 (25.4%)
+West Coast 38 (7.4%)
+Out of US 10 (1.9%)
+US - Other 4(0.8%)
+Western 26 (5.0%)
+Treatment type
+Aligners 248 (48.1%)
+Brackets - Ceramic 6 (1.2%)
+Brackets - Self-ligating 114 (22.1%)
+Brackets - Traditional 106 (20.5%)
+Mixed 2 (0.4%)
+Mixed treatment 21(4.1%)
+None 6(1.2%)
+Retainers 13 (2.5%)
+L
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 180 88 268
+DM Negative 3 442 445
+Result
+Total 183 530 713
+Final study results for anterior space closure
+95% Cl Lower 95% Cl Upper
+Result
+Bound Bound
+Sensitivity 983% . 94.9% 99.5%
+_L
+Specificity 83.3% 79.9% 86.3%
+_L.
+Scans were taken using the following phone manufacturers: Apple, Samsung, Google, Motorola, LG,
+Huawei, T-Mobile, Essential Phone, and Xiaomi.Tracking (seat/unseat)
+r-
+M
+Characteristic
+Age group
+112; 22( years of age 279 (44.8%)
+> 22 years of age 332 (53.3%)
+< 12 years old 9(1.4%)
+Unknown 3 (0.5%)
+Location
+Central 286 (45.9%)
+East Coast 192 (30.8%)
+out of US 17 (2.7%)
+US-Other 8(1.3%)
+West Coast 85(13.7%)
+Western 35 (5.6%)
+Treatment type
+Aligners 581 (93.3%)
+Brackets - Traditional 4 (0.6%)
+Mixed 1 (0.2%)
+Mixed treatment I 9 (1.4%)
+Retainers 28 (4.5%)
+Clinical performances are expressed as two different Sensitivities and Specificities since the parameter
+outputs three levels.
+• Sensitivity and Specificity of the product in its ability to detect people with the evaluated
+condition from people without; and
+n Sensitivity and Specificity of the product in its ability to discriminate the evaluated condition
+at a slight level from a noticeable levelDetection ot patients with the evaluated condition resenceiabsence
+Reference Result
+Positive (Noticeable
+Negative Total
+or Slight)
+Positive (Noticeable or
+1,360 165 1,525
+Slight)
+Iiir'l
+i Negative 101 1,697 1,798
+Total 1,461 1.862 3,323
+95% Cl Lower 95% Cl Upper
+Result
+Bound Bound
+Sensitivity 93.2% 91.3% 94.7%
+Specificity 86.2% 83.4% 88.6%
+Detection of patients with the level of the condition (slight/noticeable)
+Reference Result
+Noticeable Slight Total
+-..
+Noticeable 193 99 292
+I) \ I Slight 18 1,050 1,068
+Re 0111
+Total 211 1,149 1,360
+95% CI Lower 95% CI Upper
+Result
+Bound Bound_.
+Sensitivity 91.1% 85.9% 94.5%
+Specificity 90.5% 87.7% 92.7%
+Scans were taken using the following phone manufacturers: Apple, Samsung, Google, LG, Motorola,
+OnePlus, Huawei, Essential Phone, Wiko, and Xiaomi.Attachment loss
+Age group
+)12; 22[ years of age 146(41.9%)
+22 years of age 200(57.5%)
+< 12 years old 1 (0.3%)
+Unknown 1 (0.3%)
+Location
+Central 171 (49.1%)
+East Coast 109 (31.3%)
+West Coast 39(11.2%)
+US-Other 4(1.2%)
+Out of US 8 (2.3%)
+Western 17 (4.9%)
+Treatment type
+Aligners 330 (94.8%)
+Retainers 8 (2.3%)
+Brackets - Traditional 4(1.2%)
+Mixed treatment 6 (1.7%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 183 0 183
+DM Negative 3 579 582
+Result
+Total 186 579 765
+Final study results for attachment loss
+Sensitivity 98.2% 94.3% 99.4%
+Specificity 100.0% 98.7%
+Scans were taken using the following phone manufacturers: Apple, Samsung, Google, Motorola, LG.
+Xiaomi, OnePlus, and Essential Phone.Button loss
+Characteristic I # (%)
+Age group
+112; 22[ years of age 200 (52.5%)
+> 22 years of age 158 (41.5%)
+2.
+< 12 years old 20 (5.2%)
+Unknown T 3 (0.8%)
+Location
+,--- 4- -•-•
+Central 138 (36.2%)
+East Coast 125 (32.8%)
+West Coast 92 (24.1%)
+Out of US 4(1%)
+Western 16 (4.2%)
+T
+US-Other 6(1.6%)
+Treatment type 1
+Aligners 370(97.1%)
+Retainers 1 (0.3%)
++
+Brackets - Ceramic 1 (0.3%)
+I
+Brackets - Traditional 3 (0.8%)
+i
+Mixed treatment 6 (1.6%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 127 5 132
+DM Negative 2 525 527
+Result
+Total 129 530 659
+Final study results for button loss
+95% CI Lower 95% Cl Upper
+Result
+Bound Bound
+Sensitivity 98.4% 94.0% 99.6%
+Specificity 99.0% 96.9% 99.7%
+Scans were taken using the following phone manufacturers: Apple, Samsung, LG, Motorola, Google,
+and Huawei.Bracket debonding
+Age group
+)12; 22[ years of age 270(71.3%)
+> 22 years of age 107 (28.2%)
+< 12 years old 2 (0.5%)
+Location
+Central 291 (76.8%)
+East Coast 60 (15.8%)
+West Coast 16(4.2%)
+Out of US 1 (0.3%)
+Western 11(2.9%)
+Treatment type
+Aligners 1 (0.3%)
+Brackets - Ceramic 10 (2.5%)
+Brackets - Self-ligating 171(45.1%)
+Brackets - Traditional 150(39.6%)
+Mixed treatment 45 (11.9%)
+None 1 (0.3%)
+Retainers 1 (0.3%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 127 129
+DM Negative 2 528 530
+Result
+Total 129 530 659
+Final study results for bracket debonding
+95% Cl Lower. 95% Cl Upper
+Result
+Bound
+Sensitivity 98.4% 93.8% 99.6%
+99.6% 98.5% 99.9%
+Scans were taken using the following phone manufacturers: Apple, Samsung, Google, LG, Motorola, One
+Plus.Tie loss
+MEni==•11
+1-i
+Age group
+)12; 22[ years of age 240 (77.4%)
+> 22 years of age 66 (21.3%)
+< 12 years old 4(1.3%)
+Location
+Central 255 (82.2%)
+East Coast 39 (12.6%)
+West Coast 10(3.2%)
+Western 3 (1.0%)
+Out of US 3 (1.0%)
+Treatment type
+Aligners 1 (0.3%)
+Brackets - Ceramic 13 (4.2%)
+Brackets - Self-ligating 5 (1.6%)
+Brackets - Traditional 267(86.2%)
+Mixed 1 (0.3%)
+Mixed treatment 23 (7.4%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 111 15 126
+DM Negative 7 520 527
+Result
+Total 118 535 653
+Final study results for tie loss
+Sensitivity 93.3% 85.7% 97.0%
+Specificity 96.5% 94.0% 98.0%
+Scans were taken using the following phone manufacturers: Apple, Samsung, Motorola, LG, Google.Self-ligating clips
+Characteristic
+Age group
+112; 22[ years of age 217(66.8%)
+> 22 years of age 103 (31.7%)
+< 12 years old 5 (1.5%)
+Location
+Central 225 (69.3%)
+East Coast 69 (21.2%)
+Western 16(4.9%)
+West Coast 12 (3.7%)
+Out of US 3 (0.9%)
+Treatment type
+Brackets - Ceramic i 5 (1.5%)
+Brackets - Self-ligating 262 (80.6%)
+iT
+Brackets - Traditional I 21(6.5%)
+Mixed 2 (0.6%)
+1
+Mixed treatment 1 35 (10.8%)
+Final comparison between DentalMonitoring and Reference
+Reference Result
+Positive Negative Total
+Positive 71 48 119
+DM Negative 7 521 528
+Result
+Total 78 569 647
+Final study results for self-ligating clip
+, 95% Cl Lower 95% CI Upper
+Result
+Bound = Bound
+91.1% 82.5% 95.7%
+88.3% 84.1% 91.5%
+Scans were taken using the following phone manufacturers: Apple, Samsung, Google, LG, Motorola,
+Huawei, Kyocera, and OnePlus.Occlusion study
+DentalMonitoring evaluated the occlusion indications using 3D Models acquired with intraoral scanners as
+input data to the Reference Method. The study was performed using data collected prospectively. The study
+involved four sites located in the United States: three sites for patient enrollment and one site for generation
+of the Reference Method results.
+The Reference Method results were generated by measuring the occlusion parameters undergoing evaluation
+on 3D Models of the patients enrolled in the study. Measurements were done manually and performed in
+three replicates using a CAD/CAM software.
+Analysis was performed according to "Measurement Procedure Comparison and Bias Estimation Using
+Patient Samples; Clinical and Laboratory Standards Institute guideline", EP09c - Third Edition, 2018.
+Analysis comprised using a :Passing-Bablok regression analysis, including plots of Candidate Method
+verses Reference Method to calculate the slope, intercept, and correlation coefficient of the plot. Bias at
+levels of interest per study group were computed at the levels of interest and confidence intervals were
+calculated with the 95% Bootstrapping.
+Data was collected in order to qualify the patient demographics.Results per indication
+Canine class — 3D Monitoring
+A total of 215 patients rendering 297 results were included in the analysis. One patient could render
+multiple results corresponding to left canine class and right canine class.
+Characteristic # (%) .
+Gender
+Male 153 (71.2%)
+' Female 62 (28.8%)
+I
+Age group
+I..
+._ [6; 121 years of age 23 (10.7%)
+112; 22[ years of age I 75 (34.9%)
+...
+-1'
+> 22 years of age 117 (54.4%)
+.
+Race* i i
+'7'
+American Indian or Alaska Native 13 (6.0%)
+..
+Asian 10 (4.7%)
+_I_
+Black or African American I 12 (5.6%)
+-t
+Native Hawaiian or Other Pacific Islander 0 (0.0%)
+4
+- White I 168 (78.1%)
+--t-
+Unknown race 14 (6.5%)
+-
+Ethnicity ii
+Spanish origin I 32 (14.9%)
+.._
+Not Hispanic or Latino I 183 (85.1%)
+Income of the household (annual) i
+Less than $19,999 9 (4.2%)
+.t.
+•-i-
+$38,000-$44,999 3 (1,4%)
+_L
+i
+$45,000-$54,999 7 (3.3%)
+7
+$55,000-$64,999 14(6.5%)
+.
+$65,000-$74,999 i 11(5.1%)
+7
+$75,000-$99,999 25 (11.6%)
+$100,000 or more 69 (32.1%)
+_L
+Unknown I 66 (30.7%)
+Level of education
+.... 4
+1 < Highschool Diploma I 84 (39.1%)
+1
+i
+—
+H ighschool Diploma or Equivalent
+-1
+38 (17.6%)
+t- --I-
+1 Associates Degree 1 25 (11.6%)
+.. r.
+[. Bachelors Degree ..- 44 (20.5%)
+.
+1 Masters Degree i 20 (9.3%)
+i Doctoral Degree .I 4 (1.9%)
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.0.95
+Slope
+[0.92, 0.98]
+-0.10 mm
+Intercept
+[-0.14, -0.04]*
+-0.10 mm
+Bias at 0.00 mm
+[_0.18,0.00]*
+1
+-0.3%
+Bias at -2.00 mm
+-9.4 %
+Bias at 3.00 mm
+[-12.9, -5.3]
+-7.9%
+Bias at 5.00 mm
+[-11.0, -4.4]
+*Of note, the difference between the two 95% CI is due to the fact that the bootstrap is used for bias Cl calculation, whereas for the
+intercept and slope it is the standard CI calculation linked to Passing-Bablok regression that is used.Midline deviation — 2D Monitoring
+A total of 277 patients rendering 277 results were included in the analysis. One patient rendered a unique
+result.
+Characteristic # (%)
+Gender
+Male 191(69.0%)
+Female 86 (31.0%)
+Age group
+jr
+[6; 12] years of age 36 (13.0%)
+:
+]12; 22[ years of age 1 94 (33.9%)
+> 22 years of age 1 147(511%)
+;
+Race* -
+-4.- -
+American Indian or Alaska Native 1 12(4.3%)
+Asian
+-1
+11(4.0%)
+4
+Black or African American i 26(9.4%)
+Native Hawaiian or Other Pacific Islander
+-1
+0 (0.0%)
+White 1 215 (77.6%)
+Unknown race T 16 (5.7%)
+Ethnicity
+Spanish origin 1 37 (13.4%)
+:
+Not Hispanic or Latino 240 (86.6%)
+Income of the household (annual) 1
+Less than $19,999 1 12 (4.3%)
+$20,000-$37,999 1 14(5.1%)
+$38,000-$44,999
+-i"
+$45,000-$54,999 7 (2.5%)
+-1-
+$55,000-$64,999 1 14(5.1%)
+.-1
+$65,000-$74,999 18 (6.5%)
+L!°499,999 1 29 (10.5%)
+$100,000 or more 100 (36.1%)
+Unknown 77 (27.7%)
+Level of education
+< Highschool Diploma 1 100 (36.1%)
+Highschool Diploma or Equivalent i 54 (19.5%)
+Associates Degree L 31 (11:2%)
+_
+—Bachelors Degree —.8--(.2.11i.§-1730)
+-1
+Masters Degree 29 (10.5%)
+.
+Doctoral Degree i _5 (1.8%)
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.L0.93
+Slope
+[0.89, 0.97]
+Intercept
+[0.0, 0.0] [-0.05, 0.011*
+0.0 mm (0.03)
+[0.0, 0.0] [-0.07, 0.031*
+5.3%
+Bias at -2.0 mm
+[-0.8, 10.7]
+-8.9%
+Bias at 2.0 min
+[-13.6, -3.2]
+*Of note, the difference between the two 95% CI is due to the fact that the bootstrap is used for bias CI calculation, whereas for the
+intercept and slope it is the standard CI calculation linked to Passing-Bablok regression that is used.Midline deviation - 3D Monitoring
+A total of 291 patients rendering 294 results were included in the analysis. One patient rendered a unique
+result.
+Characteristic # (%)
+Gender
+Male 200 (68.7%)
+Female 91 (31.3%)
+Age group
+j
+r
+[6; 12] years of age 47 (16.2%)
+i
+]12; 22[ years of age i 98 (33.6%)
+> 22 years of age 1 146 (50.2%)
+Race*
+--i.- -
+American Indian or Alaska Native 1 12 (4. 1 V0 )
+-
+Asian 1 6(2.1%)
+4
+Black or African American i 26(8.9%)
+-
+Native Hawaiian or Other Pacific Islander 1 0 (0.0%)
+White 1 224 (77.0%)
+Unknown race T 30 (10.3%)
+Ethnicity
+Spanish origin 1 38(13.1%)
+:
+Not Hispanic or Latino 253 (86.9%)
+Income of the household (annual) 1
+Less than $19,999 1 12(4.1%)
+,
+$20,000-$37,999 16 (5.5%)
+7
+$38,000-$44,999 6(2.1%)
+$45,000-$54,999 7 (2.4%)
+...1
+$55,000-$64,999 15 (5.2%)
+$65,000-$74,999 18 (6.2%)
+L $75,000499,999
+.
+$100,000 or more 101 (34.7%)
+Unknown 83 (28.5%)
+Level of education
+< Highschool Diploma 109 (37.5%)
+Highschool Diploma or Equivalent i 55 (18.8%)
+Associates Degree j 36 (12.4%)
+_
+-
+Bachelors Degree 61(21.0%)
+-
+1
+Masters Degree 28 (9.6%)
+.
+Doctoral Degree i _2 (0.7%)
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.0.98
+[0.96, 1.00]
+-0.01 mm
+Intercept
+[-0.02, 0.011*
+-0.01 mm
+Bias at 0.0 mm
+[-0.03, 0.021*
+2.0%
+i Bias at -2.00 mm
+[-0.5, 4.8]
+-2.7%
+1 Bias at 2.00 mm
+[-5.2, -0.4]
+*Of note, the difference between the two 95% Cl is due to the fact that the bootstrap is used for bias Cl calculation, whereas for the
+intercept and slope it is the standard CI calculation linked to Passing-Bablok regression that is usedinterpretation of bias signsOverbite/open bite — 2D Monitoring
+A total of 285 patients rendering 301 results were included in the analysis. One patient could render
+multiple results corresponding to both central incisor couples.
+Characterish,•,' # (%)
+Gender
+Male 194(68.1%)
+Female 91 (3L9%)
+Age group
+jr
+[6; 12] years of age 36 (12.7%)
+]12; 22[ years of age i 87 (30.5%)
+> 22 years of age i i 162 (56.8%)
+Race* -
+American Indian or Alaska Native I 10(3.5%)
+Asian mi 11(3.9%)
+4
+Black or African American i 32 (11.2%)
+Native Hawaiian or Other Pacific Islander 1. 0 (0.0%)
+White 1 216 (75.8%)
+Unknown race T 21(7.4%)
+Ethnicity
+Spanish origin i 36(12.6%)
+!
+Not Hispanic or Latino 249 (87.4%)
+Income of the household (annual) I
+1
+Less than $19,999 11(3.9%)
+$20,000-$37,999 ' 16 (5.5%)
+$38,000-$44,999 8 (2,8%)
+$45,000-$54,999 7 (2.5%)
+._.1
+$55,000-$64,999 12 (4.2%)
+$65,000-$74,999 19 (6.7%)
+L $75,000499,999
+.
+$100,000 or more 103(36.1%)
+Unknown 76 (26.7%)
+Level of education
+< Highschool Diploma 102 (35.8%)
+Highschool Diploma or Equivalent i 51(17.9%)
+Associates Degree 1 31 (10:9%)
+_ _..._..._______...._
+—Bachelors Degree —6.5 (.22A)
+—1
+Masters Degree 32 (11.2%)
+4-
+Doctoral Degree 1 4 (1.4%)
+. ......._____ ._.....____
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.L0.95
+Slope
+95% CI = [0.91, 0.99]
+0.2 mm
+Intercept
+95% CI = [0.1, 0.31*
+0.2 mm
+Bias at 0.0 mm
+Bias at 3.0 mm
+95% CI = [-2.4, 3.7]
+-1.3%
+Bias at 5.0 mm
+95% CI = [-4.1, 1.2]
+1
+23%
+Bias at 7.0 nun
+95% CI = [-5.5, 0.5]
+*Of note, the difference between the two 95% CI is due to the fact that the bootstrap is used for bias Cl calculation, whereas for the
+intercept and slope it is the standard Cl calculation linked to Passing-Bablok regression that is used.Overbite / open bite — 3D Monitoring
+A total of 287 patients rendering 298 results were included in the analysis. One patient could render
+multiple results corresponding to both central incisor couples.
+Characteristi,•,' # (%)
+Gender
+Male 90 (31.4%)
+Female 197 (68.6%)
+Age group
+jr
+[6; 12] years of age 42 (14.6%)
+]12; 22[ years of age i 89(31%)
+> 22 years of age 1 156 (54.4%)
+Race*
+American Indian or Alaska Native I 10(3.5%)
+Asian mi 10 (3.5%)
+4
+Black or African American i 31(10.8%)
+Native Hawaiian or Other Pacific Islander 1. 0 (0.0%)
+White 1 217 (75.6%)
+Unknown race T 26 (9.9%)
+Ethnicity
+Spanish origin i 37 (12.9%)
+!
+Not Hispanic or Latino 250(87.1%)
+Income of the household (annual) I
+1
+Less than $19,999 11(3.8%)
+$20,000-$37,999 1 17 (5.9%)
+$38,000-$44,999 7 8 (2.8%)
+$45,000-$54,999 7 (2.4%)
+-1-
+$55,000-$64,999 1 12 (4.2%)
+.-1
+$65,000-$74,999 20(7.0%)
+4-
+i_ $75,000-$99,999 1 32 (11.2%)
+$100,000 or more 102(35.5%)
+Unknown 78 (27.2%)
+Level of education
+< Highschool Diploma 1 101 (35.2%)
+Highschool Diploma or Equivalent i 51(17.8%)
+Associates Degree J 33 (11.5%)
+_
+—Bachelors Degree 71 (24.7%)
+—1
+Masters Degree 29 (10.1%)
+4-
+Doctoral Degree I 2 (0.7%)
+.
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.I 0.97
+Slope
+L95% CI = [0.96, 0.99] _
+0.01 mm
+Intercept
+95% CI= [-0.02, 0.05]*
+0.01 mm
+Bias at 0.00 mm
+95% CI = [-0.03, 0.05]*
+-2.2%
+Bias at 3.00 mm
+95% CI = [-3.1, -1.5]
+-2.4%
+Bias at 5.00 mm
+95% CI = [-3.3, -1.4]
+Bias at 7.00 mm
+95% CI = [-3.5, -1.3]
+*Of note, the difference between the two 95% CI is due to the fact that the bootstrap is used for bias CI calculation, whereas for the
+intercept and slope it is the standard CI calculation linked to Passing-Bablok regression that is used.Overjet — 2D Monitoring
+A total of 208 patients rendering 245 results were included in the analysis. One patient could render
+multiple results corresponding to both central incisor couples.
+Characterish,•,' # (%)
+Gender
+Male 69 (33.2%)
+Female 139 (66.8%)
+Age group
+jr
+[6; 12] years of age 34 (16.3%)
+]12; 22[ years of age 70 (33.7%)
+i
+> 22 years of age 1 104 (50.0%)
+Race*
+American Indian or Alaska Native I 9 (4.3%)
+Asian mi 8 (3.8%)
+4
+Black or African American i 23 (11.1%)
+Native Hawaiian or Other Pacific Islander 1. 0 (0.0%)
+White 1 159 (76.5%)
+Unknown race T 16 (7.7%)
+Ethnicity
+Spanish origin i 32 (15.4%)
+!
+Not Hispanic or Latino 176 (84.6%)
+Income of the household (annual) i
+1
+Less than $19,999 10 (4.8%)
+$20,000-$37,999 ' 12 (5.8%)
+$38,000-$44,999 6 (2.9%)
+$45,000-$54,999 7 (3.4%)
+...1
+$55,000-$64,999 7 (3.4%)
+$65,000-$74,999 1 I (5.2%)
+_L_
+L $75,000-$99,999 21 (10.1%)
+.
+$100,000 or more 77 (37.0%)
+Unknown 57 (27.4%)
+Level of education
+< Highschool Diploma 87 (41.8%)
+Highschool Diploma or Equivalent i 35 (16.8%)
+Associates Degree 1 20 (9.6%)
+_ _..._..._______...._
+—Bachelors Degree 41(19.8%)
+Masters Degree 21(10.1%)
+4-
+Doctoral Degree 1 4 (1.9%)
+. ......._____
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.0.84
+Slope
+95% CI = [0.78, 0.89]
+-0.3 mm
+Intercept
+95% CI= [0.1, 0.4]*
+-0.3 mm
+Bias at 0.0 mm
+95% CI = [0.1, 0.51*
+— -
+-7.0%
+Bias at 3.0 mm
+95% CI = [-11.5 -3.5]
+-11.2%
+Bias at 5.0 mm
+95% CI = [-15.6, -7.1]
+1
+-13.0%
+Bias at 7.0 mm
+95% CI = [-18.2, -8.3]
+-14.1%
+Bias at 9.0 mm
+95% CI = [-19.8, -8.8]
+*Of note, the difference between the two 95% CI is due to the fact that the bootstrap is used for bias CI calculation, whereas for the
+intercept and slope it is the standard CI calculation linked to Passing-Bablok regression that is used.Overjet — 3D Monitoring
+A total of 263 patients rendering 292 results were included in the analysis. One patient could render
+multiple results corresponding to both central incisor couples.
+Characterist ,.,,. # (%)
+Gender
+Male 83 (31.6%)
+Female 180(68.4%)
+Age group
+j
+r
+[6; 12] years of age 48 (18.3%)
+]12; 22[ years of age 80 (30.4%)
+i
+> 22 years of age 1 135 (51.3%)
+Race*
+American Indian or Alaska Native I 10(3.8%)
+Asian mi 9(3.4%)
+4
+Black or African American i 29 (11.0%)
+Native Hawaiian or Other Pacific Islander 1. 0 (0.0%)
+White 1 202 (77.2%)
+Unknown race T 17 (6.5%)
+Ethnicity
+:
+Spanish origin 36 (13.7%)
+Not Hispanic or Latino 227 (86.3%)
+Income of the household (annual)
+Less than $19,999 11(4.2%)
+$20,000-$37,999 15 (5.7%)
+$38,000-$44,999 7 (2.7%)
+$45,000-$54,999 7 (2.7%)
+...1
+$55,000-$64,999 12 (4.5%)
+$65,000-$74,999 17 (6.5%)
+L $75,000-$99,999 25 (9.5%)
+.
+$100,000 or more 90 (34.2%)
+Unknown 79 (30.0%)
+Level of education
+< Highschool Diploma 100 (38.0%)
+Highschool Diploma or Equivalent i 45 (17.1%)
+Associates Degree i 28 (10.6%)
+_
+—
+Bachelors Degree 61(23.2%)
+—
+1
+Masters Degree 24 (9.2%)
+4-
+.
+Doctoral Degree i
+_
+5 (1.9%)
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.1.03
+Slope
+[1.01, 1.05]
+0.14 mm
+Intercept
+[0.09, 0.191*
+0.14 mm
+Bias at 0.00 mm
+[0.07, 0.231*
+7.2%
+Bias at 3.00 mm
+[6.0, 8.9]
+5.4%
+Bias at 5.00 mm
+[4.5, 6.7]
+4.7%
+Bias at 7.00 mm
+[3.7, 6.0]
+4.3%
+Bias at 9.00 mm
+[3.2, 5.6]
+*Of note, the difference between the two 95% CI is due to the fact that the bootstrap is used for bias CI calculation, whereas for the
+intercept and slope it is the standard CI calculation linked to Passing-Bablok regression that is used.Archwire and auxiliaries study
+DentalMonitoring evaluated the passive archwire and auxiliaries indication using 3D Models acquired with
+intraoral scanners as input data to the Reference Method. The study was performed using data collected
+prospectively. The study involved six sites located in the United States: five sites for patient enrollment and
+one site for generation of the Reference Method results.
+The Reference Method results were generated by performing a best fit on the acquired 3D Models. The best
+fit was performed per arch and per patient between the 3D Models acquired at two different timepoints. The
+best fits were done using a CAD/CAM software.
+Data was collected in order to qualify the patient demographics.Passive archwire and auxiliaries — 2D Monitoring
+Characteristic # (%)
+Gender
+Female 172 (63%)
+Male 101 (37%)
+Age group
+[6; 12] years of age 24 (9%)
+]12; 22[ years of age 197(72%)
+> 22 years of age 52 (19%)
+Race*
+American Indian or Alaska Native 8(3%)
+Asian 11(4%)
+Black or African American 48(18%)
+Native Hawaiian or Other Pacific Islander 1 (0.3%)
+White 190(70%)
+Refused to disclose 31(11%)
+Ethnicity
+Spanish origin 64 23%)
+Not Hispanic or Latino 209 (77%)
+Income of the household (annual)
+Less than $19,999 16 (6%)
+$20,000-$37,999 17 (6%)
+$38,000-$44,999 16 (6%)
+$45,000-$54,999 16 (6%)
+$55,000464,999 13 (5%)
+$65,000-$74,999 10 (4%)
+$75,000-$99,999 31(11%)
+$100,000 or more 76 (28%)
+Refused to disclose 78 (28%)
+Level of education
+< Highschool Diploma 175 (64%)
+Highschool Diploma or Equivalent 31(11%)
+Associates Degree 18(7%)
+Bachelors Degree 32(12%)
+Masters Degree 11(4%)
+Doctoral Degree 5 (2%)
+Not collected 1 (0%)
+Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.Reference Method
+Passive Active TOTAL
+Positive class: Passive 357 63 420
+Candidate Method Negative class: Active ! 43 267 310
+TOTAL I 400 330 1 730
+>
+95% CI Lower 95% CI Upper
+Result
+Bound Bound
+Sensitivity 89.0% 84.9% 92.1%
+4 4
+Specificity ; 80.4% 1' I 75.1% 1 ' 84.8% i
+iPassive archwire and auxiliaries — 3D Monitoring
+Characteristic # (OA)
+Gender
+Female 166 (62%)
+Male 103 (38%)
+Age group
+[6; 12] years of age 27 (10%)
+]12; 22[ years of age 196 (73%)
+> 22 years of age 46(17%)
+Race*
+American Indian or Alaska Native 9 (3%)
+Asian 11(4%)
+Black or African American 43 (16%)
+Native Hawaiian or Other Pacific Islander 1 (0.4%)
+White 189 (70%)
+Refused to disclose 31(12%)
+Ethnicity
+Spanish origin 64 (24%)
+Not Hispanic or Latino 209 (76%)
+Income of the household (annual)
+Less than $19,999 13 (5%)
+$20,000-$37,999 14(5%)
+$38,000-$44,999 12(4%)
+$45,000-$54,999 13(5%)
+$55,000-$64,999 15(6%)
+$65,000-$74,999 9(3%)
+$75,000-$99,999 34(13%)
+$100,000 or more 81(30%)
+Refused to disclose 78 (29%)
+Level of education
+< Highschool Diploma 174(65%)
+Highschool Diploma or Equivalent 28 (10%)
+Associates Degree 18 (7%)
+Bachelors Degree 30(12%)
+Masters Degree 12(4%)
+Doctoral Degree 4(1%)
+Not collected 3(1%)
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.16. Reference Method
+1
+Passive Active TOTAL
+Positive class: Passive 361 i 48 i 409
+Candidate Method Negative class: Active 39 i 282 1 321
+i
+TOTAL , 400 :I 330 !I 730
+- 95%; CI Lower 95% CI Upper
+Result
+Bound Bound
+Sensitivity 90.4% 86.7% 93.2%
+Specificity 85.5% 80.8% 89.2%
+Updated 3D Model study
+DentalMonitoring evaluated the Updated 3D Model indication using 3D Models acquired with intraoral
+scanners as the Reference Method. For each case, they compared the 3D Model generated by Dental Monitoring to
+the baseline 3D Model using a best fit between the two 3D objects. Each best fit renders a deviation value and this value is
+then used to quantify the absolute difference between the two 3D objects, which was used to calculate the mean absolute
+error (MAE). The study was performed using data collected prospectively. The study involved seven sites
+located in the United States: six sites for patient enrollment and one site for generation of the study
+results.
+The study results were generated by performing a best fit between the acquired 3D Models and the 3D
+Model generated by DentalMonitoring, i.e. Updated 3D Model. The best fit was performed per arch and
+per patient. The best fits were done using a CAD/CAM software.
+Data was collected in order to qualify the patient demographics.
+Characteristic
+Gender
+Female 80 (32.0%)
+Male 170 (68.0%)
+Age group
+.1._
+1j 12; 22[ years of age 114 (45.6%)
+> 22 years of age 136 (54.4%)
+Race*
+American Indian or Alaska Native 14(5.6%)
+..1._
+Asian 8 (3.2%)
+Black oorr African American 12(4.8%)
+Native Hawaiian or Other Pacific Islander 0 (0.0%)
+White 221 (88.4%)
+I Refused to disclose 4 (1.6%)
+I Ethnicity
+,r Spanish origin 22 (8.8%)
+.L
+,r—Not Hispanic or Latino 226(90.4%)
+Unknown 2 (0.8%)
+i
+1 Income of the household (annual)
+...
+[.-
+Jess than 819,999'
+1 $20,000-$37,999 i 18 (7.2%)
+: t-.
+I $38,000-$44,999 1 7 (2.8%)
+r-t4-5,-0-0-0---f, -94---- -----------------r - -----ii-(4-.-i6)-0)---- -
+i
+1 $55,000-$64,999 i 12 (4.8%)
+:
+E65,000-$74,999 ' 13 (5.2%)
+1
+HI S.75,000499,999 .I 32 (12.8%)
+11. 100,000 or more i 81(32.4%) 1
+H .4-
+I Refused to disclose i 66 (26.4%)
+i
+i Level of education I
+i-- -I
+1 < Highschool Diploma i 106 (42.1%)
+I.-. -11 -.
+1 Highschool Diploma or Equivalent
+I—. : ..-I
+1 Associates Degree ' 29 (11.6%)
+I—
+' Bachelors Degree i 53 (21.0%) j
+1 Masters Degree I 24 (9.5%)
+L
+1 Doctoral Degree I 5 (2.0%)
+1 Unknown 1 (0.4%)
+1
+*Of note, the race does not correspond to the total number of patients as some patients with mixed races were
+included in the analysis.
+# of # of
+Mean 95% Cl
+patients results
+Absolute
+Error
+(MAE)
+250 536 0.10 [0.093; 0.103]
+Human Factors Testing
+A Human factors validation testing was performed to demonstrate the usability of the device. Considering
+DentalMonitoring has two external user-facing interfaces, i.e. the Dashboard and the DM App, one study
+was performed for each of these interfaces.
+Dashboard study
+The Dashboard study enrolled two user groups:
+• doctors; and
+• practice employees.
+Doctors represented 17 participants while practice employees represented 16 participants.
+Testing took place in the United States in three cities, each located in different states.
+The testing shows that the Dashboard can be used safely and effectively by the user population. Most of
+the users used the device properly and there is no significative difference between the different groups of
+population. Even if some use errors and use difficulties were observed, they cannot cause any harm to the
+users based on the performed analysis of the root cause. Furthermore, in the Dashboard, no tasks are
+considered as critical.
+DM App study
+The DM App study was divided into two parts: validation of the healthcare professional-facing interface
+De Novo Summary (DEN230035) Page 40which offers some of the features of the Dashboard, and validation of the patient-facing interface.
+The DM App healthcare professional-facing interface study enrolled one user group constituted of doctors
+and practice employees. A total of 17 doctors along with 16 practice employees composed a testing group
+of 33 participants.
+Testing took place in the United States in three cities, each located in different states.
+The testing shows that the DM App healthcare professional-facing interface can be used safely and
+effectively by the user population. Most of the users used the device properly and there is no significative
+difference between the different groups of population. Furthermore, even if some use errors and use
+difficulties were observed, they cannot cause any harm to the users based on the performed analysis of
+the root cause.
+The DM App patient-facing interface study enrolled five user groups:
+• adults 22 years of age or older;
+• adolescents between 13 and 21 years old;
+• children: pairs of pediatric patients (6 to 12 years of age) and lay caregivers (22 years of age or
+older);
+• adults with disabilities: pairs of adult patients with disabilities who cannot independently use
+the product (22 years of age or older) and lay caregivers (22 years of age or older); and
+• healthcare professionals (includes doctors and practice employees).
+adults with healthcare
+Population group adults adolescents children
+disabilities professionals
+# of participants 16 15 15 17 17
+Testing took place in the United States in five cities, each located in different states. This study included
+use of the DM Cheek Retractor and DM ScanBox which are mandatory hardware products to be used with
+the DM App in order to appropriately acquire Scans.
+The testing shows that the DM ScanBox, the DM Cheek Retractor and the DM App, can be used safely
+and effectively by the user population. Most of the users used the device properly and there is no
+significative difference between the different groups of population. Furthermore, some use errors and
+use difficulties were observed; however, they are not expected to cause any harm to the users based on
+an analysis of the root cause that was conducted. Users were able to execute the relevant tasks directly
+or in workarounds within the patient profiles. The task errors identified were found to be non-critical and
+the testing was able to demonstrate that the device can be adequately used by the health care professional
+and patient according to the instructions for use.
+LABELING
+Labeling has been included. It comprises a user manual dedicated to healthcare professionals on one hand
+and a user manual dedicated to patients on the other hand.
+Labeling also includes the two distinct labels embedded in the Dashboard, and in the DM App.
+RISKS TO HEALTH
+De Novo Summary (DEN230035) Page 41The table below identifies the risks to health that may be associated with use of and the measures
+necessary to mitigate these risks.
+Identified Risk Potential Mitigation Measure
+Adverse tissue reaction Biocompatibility evaluation
+Use error/ improper device use leading to Labeling
+incorrect oral health information conveyed to Usability testing
+healthcare professional
+Software malfunction leading to inaccurate patient Software verification, validation, and hazard
+monitoring and diagnosis analysis,
+Software failure to identify or monitor the correct Clinical validation
+oral health condition leading to delayed treatment Software verification, validation, and hazard
+analysis
+Device failure to adequately capture image Non-clinical performance testing
+leading to incorrect identification or monitoring of Technological specifications
+oral health condition
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the Dental Image Analyzer is subject to the
+following special controls:
+(1) The patient-contacting components of the device must be demonstrated to be biocompatible.
+(2) Non-clinical performance testing data must demonstrate that the device performs as intended under
+anticipated conditions of use and must include full specifications of the hardware requirements and testing
+to demonstrate the specified hardware ensures adequate data for validated and accurate measurements;
+(3) Clinical performance data must demonstrate the accuracy and precision of the diagnostic and
+monitoring device algorithms to perform as intended under anticipated conditions of use.
+(4) Usability testing must demonstrate that the user can correctly use the device, based solely on reading
+the directions for use.
+(5) Software verification, validation, and hazard analysis must be performed.
+(6) Labeling must include:
+(i)Information on the patient population for which the device has been demonstrated to be
+effective.
+(ii)Information on how the device operates during the typical course of treatment
+(iii)A detailed summary of the device technical parameters, including compatible operating
+systems, hardware, and/or accessories.
+(iv)Instructions for cleaning of any reusable components.
+(v)Warning that the device is not intended to be used independently for diagnosis and that the
+device does not replace clinical decision making.
+(7) Patient labeling must be provided and must include:
+(i)Relevant contraindications, warnings, precautions, adverse effects/complications, and when to
+seek help from a dental healthcare professional.
+(ii)Information on how the device operates during the typical course of treatment.
+(iii)A detailed summary of the device technical parameters, including compatible operating
+systems, hardware, and/or accessories.
+(iv)Information on the patient population for which there is clinical evidence of effectiveness.
+(v)Instructions for cleaning of any reusable components.
+De Novo Summary (DEN230035) Page 42BENEFIT-RISK DETERMINATION
+The risks of the device are based on data collected in a clinical studies described above. Both the clinical
+and usability risks of the device have been evaluated and use of the device itself presents no significant
+direct risks to the user. The key clinical risk of this proposed device are the inability to identify or monitor
+the correct oral health condition leading to delayed treatment. The risks were quantified by sensitivity and
+specificity in the clinical study, which demonstrated the device's function. The risk of the proposed
+device is low.
+The probable benefits of the device are also based data collected in a clinical studies as described above.
+This device can be a benefit to the clinician to monitor orthodontic progress between scheduled
+appointments and facilitate additional interaction between patient and clinician, as needed. Additionally,
+the device can provide benefit by specifically identifying potential clinical scenarios and areas of concern
+that would require further evaluation/intervention. The device is not intended to replace regularly
+scheduled appointments and would be considered low risk, as it ultimately facilitates more interaction
+between the patient and clinician during treatment.
+PATIENT PERSPECTIVES
+This submission did not include specific information on patient perspectives for this device.
+BENEFIT/RISK CONCLUSION
+In conclusion, given the available information above, for the following indication statement:
+DentalMonitoring is a medical device software using image processing algorithms to analyze pictures of
+the oral cavity (hereinafter Scans). Scans are taken using the DM App, a smartphone, and the
+manufacturer's proprietary hardware products. Scans are taken by the patient, a non-healthcare
+professional, or a healthcare professional. The Scan is taken in healthcare facilities, such as a dental
+practice, or in a non-healthcare environment, such as the patient's own home. For some clinical
+parameters, DentalMonitoring requires a 3D Model.
+The product is designed to assist healthcare professionals in remotely monitoring orthodontic treatments
+and treatment progress. The results of DentalMonitoring are intended to be used as an aid in diagnosis and
+monitoring, not on a stand-alone basis for clinical decision-making.
+DentalMonitoring is indicated for use for patients over the age of 6 and reports results solely on
+permanent teeth.
+DentalMonitoring can monitor the following clinical parameters:
+• oral hygiene: dental plaque / food residue;
+• soft tissue statement: gingival recession, black triangle;
+• dental statement: closure of extraction space, tooth wear;
+• alignment: closure of all anterior spaces; and
+• dental occlusion:
+o in 2D Monitoring: midline deviation, overbite/open bite, overjet
+o in 3D Monitoring: canine class, midline deviation, overbite/open bite, overjet
+Additionally, the following clinical parameters specific to orthodontic treatment types or phases can be
+monitored using DentalMonitoring:
+De Novo Summary (DEN230035) Page 43• for aligner treatments: tracking (seat/unseat), attachment loss, button loss;
+• for braces: bracket debonding, tie loss, self-ligating clips, passive archwire and auxiliaries; and
+• for thermoformed retainers: tracking (seat/unseat).
+Based on an initial 3D Model provided by a healthcare professional, DentalMonitoring can also provide
+healthcare professionals with 3D Models representative of the patient's dentition and treatment progress.
+This device is a prescription device and is not intended for over-the-counter use.
+The probable benefits outweigh the probable risks for the DentalMonitoring. The device provides
+benefits and the risks can be mitigated by the use of general and the identified special controls.
+CONCLUSION
+The De Novo for the DentalMonitoring is granted and the device is classified as follows:
+Product Code: SBC
+Device Type: Dental Image Analyzer
+Regulation Number: 21 CFR 872.1770
+Class: Class II
+De Novo Summary (DEN230035) Page 44

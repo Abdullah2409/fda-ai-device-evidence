@@ -1,0 +1,232 @@
+MultiModal Imaging Services Corporation (dba HealthLytix) November 19, 2019
+℅ Stephen Kosnosky, PMP, ASQ CMQ/OE
+Quality and Regulatory Manager
+4747 Executive Drive, Suite 820
+SAN DIEGO CA 92121
+Re: K191278
+Trade/Device Name: RSI-MRI+
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: November 8, 2019
+Received: November 12, 2019
+Dear Mr. Kosnosky:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.09
+Silver Spring, MD 20993
+www.fda.govK191278 - Stephen Kosnosky, PMP, ASQ CMQ/OE Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK191278
+RSI-MRI+
+RSI-MRI+ is indicated for use as automatic post-acquisition image processing software for analysis of diffusion-
+weighted and anatomical magnetic resonance imaging data.
+RSI-MRI+ is intended for automatic fusion of derived diffusion-weighted MRI data with anatomical T2-weighted MR
+images.
+RSI-MRI+ is additionally intended to provide automatic prostate segmentation, quantification, and reporting of derived
+image metrics.
+RSI-MRI+ is not intended for use in pediatric populations.
+RSI-MRI+ is not intended to diagnose, treat, or prevent diseases or conditions.
+RSI-MRI+ is intended to be used in a variety of settings such as hospitals, clinics, and medical offices.
+Page 30 of 285510(k) Summary K191278
+Submission Information:
+MultiModal Imaging Services Corporation (dba HealthLytix)
+Submitter’s Name
+4747 Executive Drive, Suite 820
+Submitter’s Address
+San Diego, CA 92121
++001.619.340.0503
+Submitter Telephone
+Stephen Kosnosky PMP, ASQ CMQ/OE
+Contact Name
+Date Prepared Sept 18, 2019
+Trade or Proprietary RSI-MRI+
+Name
+Common or Usual Picture Archiving and Communications System
+Name
+System, Image Processing, Radiological) (21 CFR 892.2050)
+Classification Name
+Class II
+Regulatory Class
+LLZ
+Product Code
+Eigen ProFuse CAD (K173744)
+As of submission date this predicate device has not been subject to
+Predicate Device
+a design-related recall.
+No reference devices were used in this submission.
+Device Description:
+RSI-MRI+ is standalone software that is used by radiologists, urologists, and other clinicians to assist
+with analysis and interpretation of medical images. RSI-MRI+ accepts DICOM images using supported
+protocols and performs automatic post-acquisition analysis of diffusion-weighted magnetic resonance
+imaging (DWI) data and optional automated fusion of derived image data with anatomical T2-
+weighted MR images.
+HealthLytix Page 1 of 5
+Premarket Notification – RSI-MRI+Some of the features of RSI-MRI+ include:
+• Restricted Signal Map: The derived image data produced by RSI-MRI+ includes an enhanced
+DWI map (the Restricted Signal Map), which demonstrates improved conspicuity of restricted
+diffusion compared to standard DWI maps.
+• Color Fusion Series: RSI-MRI+ can be configured to produce a color fusion series which over-
+lays the Restricted Signal Map intensity onto the anatomical T2-weighted image series.
+• Automated Prostate Segmentation: RSI-MRI+ uses artificial intelligence (AI) powered by a
+deep learning algorithm to automatically segment the prostate on anatomical T2-weighted im-
+ages. The segmentation result is provided in the separate Prostate Segmentation Series.
+• Automated Segmentation Report: RSI-MRI+ generates a report of segmentation volume and
+images of the segmented prostate as a colored outline on the anatomical image.
+• Export: RSI-MRI+ outputs are provided in standard DICOM format, which is compatible with
+most third-party commercial PACS workstation software.
+NOTE: The RSI-MRI+ supported protocols differ from PI-RADS v2.1 in that they have lower in-plane resolution
+for T2W images and thicker slices for the GE DWI.
+Indications for Use:
+RSI-MRI+ is indicated for use as automatic post-acquisition image processing software for analysis
+of diffusion-weighted and anatomical magnetic resonance imaging data.
+RSI-MRI+ is intended for automatic fusion of derived diffusion-weighted MRI data with anatomical
+T2-weighted MR images.
+RSI-MRI+ is additionally intended to provide automatic prostate segmentation, quantification, and
+reporting of derived image metrics.
+RSI-MRI+ is not intended for use in pediatric populations.
+RSI-MRI+ is not intended to diagnose, treat, or prevent diseases or conditions.
+RSI-MRI+ is intended to be used in a variety of settings such as hospitals, clinics, and medical offices.
+Substantial Equivalence:
+HealthLytix Page 2 of 5
+Premarket Notification – RSI-MRI+The product’s technical features are substantially equivalent to the ProFuse CAD (K173744). Many of
+the features of the ProFuse CAD (K173744) software are included in RSI-MRI+. RSI-MRI+ is standalone
+software that runs on a network connected server or PC workstation. The RSI-MRI+ device accepts
+DICOM image data as input to perform image processing including diffusion series analysis, automatic
+segmentation, fusion of images, and automated reporting from MRI scans.
+At a high level, the subject and predicate devices are based on the following same technological
+elements:
+• Software devices
+• DICOM compatibility for input and output
+• Diffusion-series analysis
+• Image fusion
+• Automated reporting
+• MRI Image analysis
+• Display and measurement data may be viewed, accepted, or rejected by a clinician
+• For use in hospital, clinic, or medical office
+The following differences exist between the subject and predicate devices:
+• Image format compatibility (RSI-MRI+ is compatible with DWI-MRI, predicate has additional
+compatibility with MRI, CT, PET)
+• Contrast image processing (RSI-MRI+ does not contain this functionality)
+• Co-registration (RSI-MRI+ does not contain this functionality)
+• Image annotation (RSI-MRI+ does not contain this functionality)
+• Manual segmentation (RSI-MRI+ has automatic segmentation, predicate uses manual
+segmentation)
+• Image viewing (RSI-MRI+ does not contain this functionality, images are viewable on most 3rd
+party commercial PACS workstation software)
+HealthLytix Page 3 of 5
+Premarket Notification – RSI-MRI+Predicate Device:
+Function RSI-MRI+ ProFuse CAD
+(Subject Device) (K173744)
+Product Code LLZ LLZ
+DICOM Input DICOM compatible DICOM compatible
+Diffusion – series Post-processing analysis of Post-processing analysis of
+analysis Diffusion MRI data with Diffusion MRI data with single
+multi-compartment RSI compartment DWI model.
+model.
+Segmentation Automated Prostate Manual Prostate
+Segmentation: RSI-MRI+ Segmentation: ProFuse CAD
+software provides automatic has a marking feature that
+prostate segmentation, allows the user to manually
+quantification, and reporting segment the prostate and
+of derived image metrics. provides quantification and
+reporting of derived image
+metrics.
+Co-Registration Does not contain this Performs co-registration of
+functionality. images.
+Fusion Automated fusion of derived Automated fusion of derived
+Diffusion MRI data with Diffusion MRI data with
+anatomical MRI data anatomical MRI data in
+addition to other data sources
+Report Yes Yes
+DICOM output DICOM compatible DICOM compatible
+Data Source MRI Scanner MRI Scanner, CT Scanner, PET
+Scanner
+Safety Display/measurement data Display/measurement data
+can be viewed, accepted, or can be viewed, accepted, or
+rejected by a physician. rejected by a physician.
+Environment for Hospital, Clinic, Medical Hospital, Clinic, Medical Office,
+use Office Home Office
+Testing and Performance Data:
+The following performance data were provided in support of the substantial equivalence
+determination:
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket
+HealthLytix Page 4 of 5
+Premarket Notification – RSI-MRI+Submissions for Software Contained in Medical Devices”. All product and engineering specifications
+were verified and validated.
+Software validation was performed to demonstrate that RSI MRI+ processes DICOM images and
+presents the processed images and quantitative results in DICOM format. In all instances RSI-MRI+
+functioned as intended and outputs were created as expected.
+Performance testing included protocols demonstrating;
+- Increased conspicuity of the RSI-MRI+ Restricted Signal Map to standard DWI maps in regions
+of restricted diffusion
+- Accuracy of automated segmentation compared to manual radiologist segmentations
+- Diffusion signal normalization across acquisitions and scanners
+Retrospective clinical data (including professionally labeled regions-of-interest, T2-weighted
+anatomical data, and raw diffusion image series) were used for verification and validation of the
+diffusion analysis (diffusion signal normalization and Restricted Signal Map conspicuity).
+Nonclinical Testing and Performance Information
+Nonclinical and performance testing has been performed by designated individuals as required by
+HealthLytix quality procedures. Verification & Validation Test Plans were designed to evaluate all input
+functions, output functions, and actions performed by RSI-MRI+ in each operational mode. RSI-MRI+
+has been assessed and tested at the manufacturer's facility and has passed all in-house testing criteria
+including validating design, function and specifications. Measurement validation was performed on
+clinically acquired images and shows that RSI-MRI+ is safe and effective. Nonclinical and performance
+testing results are provided in the 510(k) and demonstrate that the predetermined acceptance criteria
+are met.
+Conclusion:
+The results of comparing the intended use, features and functionality, technological characteristics,
+mode of operation, and specifications of RSI-MRI+ with those of the predicate device demonstrate
+that RSI-MRI+ is substantially equivalent. Any differences between RSI-MRI+ and the predicate device
+do not raise any new questions of safety or effectiveness.
+HealthLytix Page 5 of 5
+Premarket Notification – RSI-MRI+

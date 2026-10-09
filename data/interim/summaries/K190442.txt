@@ -1,0 +1,494 @@
+Koios Medical, Inc. July 3, 2019
+℅ Mr. Lev Barinov
+VP of Clinical Excellence and Applied Research
+500 7th Avenue, 8th Floor
+NEW YORK NY 10018
+Re: K190442
+Trade/Device Name: Koios DS for Breast
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Computer-assisted diagnostic software for lesions suspicious for cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: June 27, 2019
+Received: June 28, 2019
+Dear Mr. Barinov:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.05
+Silver Spring, MD 20993
+www.fda.govK190442 – Mr. Lev Barinov Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2020
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K190442
+Device Name
+Koios DS for Breast
+Indications for Use (Describe)
+Koios Decision Support (DS) for Breast is a software application designed to assist trained interpreting physicians in
+analyzing the breast ultrasound images of patients with soft tissue breast lesions who are being referred for further
+diagnostic ultrasound examination. Koios DS for Breast is a machine learning-based decision support system, indicated as
+an adjunct to diagnostic ultrasound for breast cancer. Koios DS for Breast automatically classifies user-selected region(s)
+of interest (ROIs) containing a breast lesion into four BI-RADS-aligned categories (Benign, Probably Benign, Suspicious,
+Probably Malignant), and displays a continuous graphical confidence level indicator of where the lesion falls across all
+categories. Koios DS for Breast also automatically classifies lesion shape and orientation according to BI-RADS
+descriptors.
+The software requires a user to select up to two ROIs, from up to two orthogonal views, that represent a single lesion to be
+selected and processed. When utilized by an interpreting physician who has completed the prescribed training, this device
+provides information that may be useful in rendering an accurate diagnosis. Patient management decisions should not be
+made solely on the results of the Koios DS for Breast analysis. This device is intended to help trained interpreting
+physicians improve their overall accuracy as well as reduce inter- and intra-operator variability.
+Koios DS for Breast may also be used as an image viewer of multi-modality digital images, including ultrasound and
+mammography. The software includes tools that allow users to adjust, measure and document images, and output into a
+structured report.
+Limitations: Koios DS for Breast is not to be used on sites of post-surgical excision, or images with doppler, elastography,
+or other overlays present in them. Koios DS for Breast is not intended for the primary interpretation of digital
+mammography images. Koios DS for Breast is not intended for use on mobile devices.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFK190442
+5. 510(k) Summary of Safety and Effectiveness
+This 510(k) summary of safety and effectiveness information is submitted as part of the
+Pre-Market Notification in accordance with the requirements of 21 CFR Part 807, Subpart
+E and Section 807.92.
+1.Identification of Submitter:
+Submitter: Koios Medical Inc.
+Address: 500 7th Avenue
+8th Floor
+New York, NY 10018
+Phone: 732-529-5755
+Fax: 732-529-5757
+Contact: Lev Barinov
+Title: VP of Clinical Excellence & Applied Research
+Phone: 732-529-5755
+Fax: 732-529-5757
+Summary Date: February 21, 2019
+2.Identification of Product:
+Device Name: Koios DS for Breast, Version 2.0
+Device Common Name: Radiological Computer-Assisted Diagnostic Software
+Device Classification: 21 CFR 892.2060, Class II, POK
+Classification Name: Radiological Computer-Assisted Diagnostic Software (CADx) For
+Lesions Suspicious For Cancer
+Manufacturer: Koios Medical, Inc.
+3.Marketed Devices
+The Koios DS for Breast system is designed to assist trained interpreting physicians in
+analyzing the breast ultrasound images of patients with soft tissue breast lesions who have
+been referred for further diagnostic ultrasound examination. Ultrasound images of the
+breast should be acquired with a small parts linear array or dedicated breast ultrasound
+linear array transducers. The system provides a generated categorical output that aligns
+with or exceeds the sensitivity and specificity of radiologist chosen BI-RADS
+categorizations using computer vision and machine learning techniques. In terms of safety
+and performance, this software medical device is substantially equivalent to the devices
+listed below:
+Model: QuantX
+Manufacturer: Quantitative Insights, Inc.
+510(k) Number: DEN170022
+510(k) Summary Koios Medical, Inc.
+5-1Model: ClearView cCAD, Version 1.0
+Manufacturer: ClearView Diagnostics, Inc.
+510(k) Number: K161959
+4. Device Description
+Koios Decision Support (DS) for Breast is a software application designed to assist
+trained interpreting physicians in analyzing breast ultrasound images. The system
+provides image derived data via web triggering and remote analysis. The software device
+is a web application that is deployed to a Microsoft IIS web server and accessed by a user
+through a compatible client. Once logged in and granted access to the Koios DS for
+Breast application, the user examines selected breast ultrasound DICOM images. The
+user selects up to two Regions of Interest (ROIs) of two orthogonal views of a breast
+lesion for processing by Koios DS for Breast. The ROI(s) are transmitted electronically to
+the Koios DS for Breast server for image processing and the results are returned to the
+user for review.
+The Koios DS for Breast core engine characterizes image features using the ROI data to
+generate a categorical output that aligns to BI-RADS categories. The engine uses
+computer vision and machine learning techniques embedded within a software capable of
+reading, interpreting, analyzing, and generating findings from ultrasound data. The
+underlying engine draws upon knowledge learned from a large database of known cases,
+tying image features to their eventual diagnosis, to form a predictive model. The
+categorical output of the Koios DS for Breast engine is divided into four categories
+(Benign, Probably Benign, Suspicious, Probably Malignant), separated by three operating
+points, aligning with or exceeding the sensitivity and specificity of radiologist chosen BI-
+RADS categorizations. . The output of the system is a digital display to be used as a
+concurrent read. Koios DS for Breast is intended to support compliance with the ACR
+BI-RADS ultrasound lexicon classification form. The engine additionally classifies the
+region of interest on the basis of shape (Oval, Round, Irregular) and orientation (Parallel
+to Skin, Not Parallel).
+Koios DS for Breast results can be saved or transferred in three separate ways: in-transit
+transmission, PACS saving, and exporting results to third-party reporting software. In-
+transit transmission may be utilized when users wish to share analyses across viewing
+workstations. Results can be stored in in-transit memory for a preset period of time
+defined by a system administrator. These results are never locally cached, written to disk,
+or otherwise stored outside of in-transit memory. After that preset period of time, all
+510(k) Summary Koios Medical, Inc.
+5-2results are wiped from the local memory.
+Another method of saving is storing a report in the patient series on the PACS. After
+single or multiple breast lesion analyses have been performed and ultimately accepted by
+a trained interpreting physician, Koios DS for Breast can export a summary report to
+PACS as an addendum to the DICOM series that was selected for processing. This report
+serves as future reference and aid in comparison of cases requiring follow up. This
+functionality is strictly reserved for approved users.
+Koios DS for Breast also supports exporting results to third-party reporting software to
+facilitate the reporting process. Saving or exporting preferences can be configured by the
+system administrator and user.
+The Koios DS for Breast software is an ASP.NET web application that is deployed to an
+IIS Web Server inside a Windows operating system environment. The software does not
+require any specialized hardware, but the time to process ROIs will vary depending on
+the hardware specifications. If utilizing the recommended technical specifications, the
+time to generate and present results for two analyzed ROIs will be <= 2 seconds. The
+Koios DS for Breast processing software is a platform agnostic web service that queries
+and accepts DICOM compliant digital medical files from any DICOM compliant device.
+Koios DS for Breast is intended to be used on patients with soft tissue breast lesions who
+are being referred for further diagnostic ultrasound examination.
+5. Indications for Use
+Koios Decision Support (DS) for Breast is a software application designed to assist trained
+interpreting physicians in analyzing the breast ultrasound images of patients with soft tissue
+breast lesions who are being referred for further diagnostic ultrasound examination. Koios
+DS for Breast is a machine learning-based decision support system, indicated as an adjunct
+to diagnostic ultrasound for breast cancer. Koios DS for Breast automatically classifies
+user-selected region(s) of interest (ROIs) containing a breast lesion into four BI-RADS-
+aligned categories (Benign, Probably Benign, Suspicious, Probably Malignant), and
+displays a continuous graphical confidence level indicator of where the lesion falls across
+all categories. Koios DS for Breast also automatically classifies lesion shape and
+orientation according to BI-RADS descriptors.
+The software requires a user to select up to two ROIs, from up to two orthogonal views,
+that represent a single lesion to be selected and processed. When utilized by an interpreting
+physician who has completed the prescribed training, this device provides information that
+510(k) Summary Koios Medical, Inc.
+5-3may be useful in rendering an accurate diagnosis. Patient management decisions should
+not be made solely on the results of the Koios DS for Breast analysis. This device is
+intended to help trained interpreting physicians improve their overall accuracy as well as
+reduce inter- and intra-operator variability.
+Koios DS for Breast may also be used as an image viewer of multi-modality digital images,
+including ultrasound and mammography. The software includes tools that allow users to
+adjust, measure and document images, and output into a structured report.
+Limitations: Koios DS for Breast is not to be used on sites of post-surgical excision, or
+images with doppler, elastography, or other overlays present in them. Koios DS for
+Breast is not intended for the primary interpretation of digital mammography images.
+Koios DS for Breast is not intended for use on mobile devices.
+510(k) Summary Koios Medical, Inc.
+5-46. Substantial Equivalence Discussion
+Product QuantX ClearView cCAD Koios DS for Breast
+(DEN270022) (K161959)
+Characteristics CADx device used to Decision support device Decision support
+assist in the used to assist in the device used to assist in
+assessment and assessment and the assessment and
+characterization of characterization of characterization of soft
+breast abnormalities breast lesions using US tissue breast lesions
+using MR image data. image data. using US image data.
+Intended Use Diagnostic Aid using Diagnostic Aid using Diagnostic Aid using
+Machine Learning to Machine Learning to Machine Learning to
+characterize image generate BI-RADS characterize image
+features with user shape and orientation features with user
+provided ROIs to assessments coupled provided ROIs to
+generate a single with additional user generate categorical
+value relative to input BI-RADS output that aligns to
+reference descriptors to generate a BI-RADS and auto-
+abnormalities (QI preliminary BI-RADS classified shape and
+Score). bucket assessment. orientation.
+Target High-risk screening; Any patient that has an Patients with soft
+Population diagnostic workup; identified breast lesion tissue breast lesions
+evaluation of known that is referred for who are being referred
+disease diagnostic ultrasound for further diagnostic
+examination; excludes ultrasound
+high-risk screening examination.
+Modality Used Breast MR Data Breast Ultrasound Data Breast Ultrasound Data
+for Analysis
+Input Medical images Medical images Medical images
+provided in a DICOM provided in a DICOM provided in a DICOM
+format format format
+Output “QI” score mapped BI-RADS bucket Koios defined
+onto histograms of assessment of lesions categorical and
+distributions of based on auto-classified continuous outputs
+malignant and benign shape and orientation (confidence level
+lesions and user supplied inputs indicator) that align to
+BI-RADS and auto-
+classified shape and
+orientation
+Comparative Metric: AUC N/A Metric: AUC
+Performance Cases: 111 Cases: 900
+Testing Readers: 19 Readers: 15
+Physical Software Package Software Package Software Package
+Characteristics Operates on off-the- Operates on off-the- Operates on off-the-
+shelf hardware shelf hardware shelf hardware
+Storage Storage not supported Storage not supported Storage not supported
+Image Input DICOM DICOM DICOM
+510(k) Summary Koios Medical, Inc.
+5-5Description of Similarities and/or Differences:
+Indications for Use (IFU)
+Comparing the IFU of the primary predicate device QuantX (DEN170022) and Koios DS
+for Breast, there are several key similarities and differences outlined below:
+Both devices are intended to be utilized as diagnostic aids that operate on user-supplied
+Regions of Interest (ROIs). Koios DS for Breast’s core classification engine does not rely
+on registration or segmentation to function sothese requirements are not present in its IFU
+as compared to those for QuantX. In the case of QuantX, the IFU states “(t)he software
+automatically registers images, and segments and analyzes user-selected regions of
+interest (ROI).” Accordingly, the IFU for Koios DS for Breast does not contain a similar
+provision. The IFU for Koios DS for Breast requires that a user select up to two ROIs
+from up to two orthogonal views that represent a single lesion to be selected and
+processed.
+Both devices provide computer analytics based on morphological and enhancement
+characteristics that the QuantX device refers to as imaging (or radiomic) features that are
+then synthesized by an artificial intelligence algorithm into a single value. While the
+QuantX device generates a “QI score” which is analyzed relative to reference
+abnormalities, Koios DS for Breast generates a probability output that analyzes imaging
+features relative to a dataset of known ground truth that is then used to generate a
+categorical assessment. The categorical assessment provided by Koios DS for Breast
+aligns to BI-RADS and auto-classifies shape and orientation.
+The intended use population for QuantX includes patients presenting for high-risk
+screening, diagnostic imaging workup, or evaluation of known disease. Koios DS for
+Breast is intended to be used for assisting trained interpreting physicians in analyzing
+patients with soft tissue breast lesions who are being referred for further diagnostic
+ultrasound examination. This intended use includes patients presenting with any soft
+tissue breast lesion through any form of imaging or physical examination resulting in a
+referral for diagnostic ultrasound - thus covering diagnostic imaging workup or the
+evaluation of known disease. Koios DS for Breast is not indicated to be used for the
+evaluation of patients presenting for high-risk screening, which is the only clear
+difference in target populations between the predicate and Koios DS for Breast.
+Both the QuantX device and Koios DS for Breast are intended to be used as image
+viewers of multi-modality digital images including ultrasound and mammography. Both
+510(k) Summary Koios Medical, Inc.
+5-6sets of software include tools to allow users to measure and document images, and output
+the findings in structured DICOM formats. Neither platform is intended for primary
+interpretation of digital mammography images. Both platforms contain labeling
+instructions with a list of warnings.
+The secondary predicate device, cCAD (K161959), which was also developed by Koios
+Medical (fka ClearView Diagnostics, Inc.), differs in that it relied upon user-supplied BI-
+RADS descriptors and generated a BI-RADS bucket assessment. Similar to cCAD, Koios
+DS for Breast automatically assesses shape and orientation for user selected ROIs, but
+does not support the addition of user supplied BI-RADS descriptors to suggest a BI-
+RADS bucket assessment. In addition, although Koios DS for Breast may be utilized as a
+primary diagnostic viewer for ultrasound, warnings explicitly limit users from utilizing
+the platform for primary interpretation of mammography images along with labeling
+instructions with a list of warnings, precautions and contraindications.
+Modality
+QuantX is intended to be utilized on breast MR data, while Koios DS for Breast is intended
+to be utilized on breast ultrasound data. While this clearly differentiates the products, they
+are both aligned to the generic FDA device type (per DEN170022) for radiological
+computer-assisted software (CADx) for lesions suspicious for cancer.
+Koios DS for Breast shares the modality requirements of cCAD.
+Input
+Per the respective device descriptions of QuantX and Koios DS for Breast, the input to
+each consists of medical images provided in a DICOM format. While there are modality
+differences that are addressed above, the technical implementation for ingesting images for
+processing occurs via the same DICOM based interface.
+Koios DS for Breast shares the input requirements of ClearView Diagnostics’ cCAD
+product.
+Output
+The output of both systems differs in both information and style of display. The QuantX
+system outputs a “QI” score that is then mapped onto distributions of malignant and benign
+lesions. It does not explicitly compute a likelihood of malignancy, but instead relies on the
+user to interpret the QI score and its respective position in the benign/malignant histograms
+to impact their assessment of the lesion’s underlying risk. Conversely, Koios DS for Breast
+directly characterizes a lesion based on categorical and continuous outputs (confidence level
+510(k) Summary Koios Medical, Inc.
+5-7indicator) that are aligned to BI-RADS and auto-classifies shape and orientation. This
+allows for users to interpret the automated assessment alongside an existing risk
+stratification and feature description lexicon.
+In addition, Koios DS for Breast implements an automated assessment of shape and
+orientation as done by cCAD. The results are presented in a form substantially similar to
+the form provided by cCAD.
+Koios DS for Breast, does not provide a BI-RADS bucket assessment of lesions as cCAD
+does. Instead, Koios DS for Breast aligns its risk assessment to BI-RADS with categories
+chosen such that they align with or exceed the sensitivity and specificity of BI-RADS
+categorizations.
+Algorithm
+Koios DS for Breast and cCAD share a similar algorithm set, training data, and validation
+approach for automated shape and orientation assessment.
+While Koios DS for Breast and QuantX both aim to characterize lesions suspicious for
+cancer, their respective differences in modality necessitate differences in the algorithmic
+approach applied. Due to the fact that QuantX does not disclose their algorithmic approach,
+Koios Medical cannot speculate as to the underlying architecture of their system. Instead,
+Koios Medical aims to demonstrate equivalence through performance impact.
+Performance Testing
+Koios DS for Breast and cCAD share a similar algorithm set, training data, and validation
+approach for automated shape and orientation assessment. As such their performance
+results are directly comparable.
+When comparing clinical validation between Koios DS for Breast and QuantX, the
+sponsors used similar endpoints in their clinical studies. Both sponsors evaluated an Area
+Under the Curve (AUC) shift when comparing the performance of users alone versus users
+utilizing the respective software platform. The number of cases evaluated in the QuantX
+study was 111, while the Koios DS for Breast study evaluated a total of 900 cases. The
+number of readers utilized in the QuantX study was 19, while the Koios DS for Breast
+study used a total of 15 readers.
+While the results of QuantX study showed a mean AUC shift of +0.0487, the Koios DS for
+Breast study showed a mean shift of +0.037. The 95% CI was noticeably tighter for the
+AUC with a standard error of .0036 for Koios DS for Breast compared to .0254 when
+computing the MRMC estimated AUC via the trapezoidal rule. Further, the AUC of both
+510(k) Summary Koios Medical, Inc.
+5-8the first and second reads is considerably higher in the Koios DS for Breast study set than
+in the QuantX study with an AUC shift of .7090 to .7577 for QuantX and a shift from .836
+to .873 for Koios DS for Breast. While the absolute values for AUC may differ based on
+reader, data, and modality; the range for possible improvement has a smaller lower bound
+in the Koios DS for Breast clinical evaluation. In conclusion, the Koios DS for Breast study
+has demonstrated substantially equivalent performance to QuantX by showing a
+statistically significant acceptance of similar success criteria to QuantX with a smaller
+standard error.
+7. Clinical Performance Data
+A clinical study was executed to determine the effect of Koios DS for Breast on reader
+performance. The study objective was to determine the impact on Interpreting Physician
+(Reader) performance as defined by the area under the Receiver Operating Characteristic
+(ROC) Curve (AUC) when Koios DS for Breast and an ultrasound examination are
+combined (USE + DS), compared to USE Alone in patients that present with a soft tissue
+breast lesion through any form of imaging or physical examination and are referred for
+diagnostic ultrasound.
+The study consisted of 15 readers with varying levels of training and experience
+providing analysis on a randomized set of 900 patient cases presented with USE + DS
+and USE Alone in two reading periods separated by a 1-month wash-out, totaling 1800
+cases analyzed per reader. The reader set and dataset were distributed in accordance with
+FDA guidance and are explained in detail below:
+Reader Experience
+510(k) Summary Koios Medical, Inc.
+5-9Reader Experience Breakdown
+510(k) Summary Koios Medical, Inc.
+5-10Dataset Demographic Information
+The following patient demographics, as measured by the Breast Cancer Surveillance
+Consortium (2006-2009), were met to ensure populations representative of national rates:
+592 White women
+73 Hispanic women
+77 African American women
+133 Asian women
+25 cases that do not fall in the above categories
+The age distribution of patients included within the study were:
+• <40: 15.3% = 138
+• 40-49: 25.3% = 228
+• 50-59: 23.0% = 207
+• 60-74: 26.1% = 235
+• 75-84: 7.6% = 68
+• 85+: 1.0% = 9
+• N/A: 1.7% = 15
+Breast Density information for the clinical study was as follows:
+• BI-RADS 1: 12.8%
+• BI-RADS 2: 38.1%
+• BI-RADS 3: 33.2%
+• BI-RADS 4: 15.9%
+The lesion sizes included within the study ranged from 3-80mm with 332/900 (36.9%)
+<10mm, 229/900 (25.4%) 10-14mm, 132/900 (14.7% 15-19mm, and 200/900 (22.2%) >
+20mm. Size was unavailable for 7 lesions (0.8%). The minimum lesion size was 3mm.
+Per the primary endpoint of the study, ROC curves were generated and analyzed. All
+AUCs were computed via the trapezoidal approximation. Based on the standard error
+measurements, the error can be propagated to estimate the mean performance interface
+and 95% confidence interval. This was found to be 0.0370 (0.030, 0.044) at α = .05,
+satisfying the success criteria for the primary endpoint.
+To characterize the effect of Koios DS (USE + DS) system on inter-operator variability,
+the Kendall Tau-B correlation coefficient was computed in a pairwise manner for all
+readers. The metric is > 0 for all reader pairs. The standard error for USE + DS and USE
+Alone was computed to assess if the shifts in the metric were significant. The average
+Kendall Tau-B of USE Alone was .5404 (.5301, .5507) and the average Kendall Tau-B of
+510(k) Summary Koios Medical, Inc.
+5-11USE + DS was .6797 (.6653, .6941) with 95% CI demonstrating a significant increase in
+the metric (α = .05).
+Also assessed was the effect of Koios DS on intra-operator variability leveraging 150
+reads that did not switch from USE Alone to USE + DS across the washout session in the
+reader study (75 each). USE Alone class switching rate was 13.6% and the USE + DS
+class switching rate was 10.8% (p = 0.042), demonstrating a statistically significant
+reduction in intra-reader variability when using USE + DS.
+8. Non-Clinical Performance Data
+Malignancy Risk Classification:
+Bench testing was performed to ascertain the degree of concordance with trained
+interpreting physicians. Ground truth for malignancy risk classification was determined
+by pathology or 1-year follow-up for cases that were not biopsied. The system was
+analyzed on 900 lesions from 900 different patients set aside from the system’s training
+data for the purpose of validating performance. Each lesion is represented by two
+orthogonal images (e.g. radial and anti-radial), providing a total of 1800 images. System
+performance on the 900 cases reported an AUC of 88.2%.
+BI-RADS Descriptors:
+Bench testing was performed to ascertain the degree of concordance with trained
+interpreting physicians. Ground truth for shape and orientation was supplied by three
+MQSA certified radiologists. These physicians, all with over 20 years of experience and
+at least 3000 images read per year, evaluated this dataset on the aforementioned
+parameters. The system was used to analyze these 1300 cases on the same parameters.
+In the first test, the system was analyzed on 1204 cases which had a majority decision on
+shape and 1227 lesions which had a majority decision on orientation. The Koios DS for
+Breast system was able to achieve overall accuracy that fell within the 95% confidence
+interval of the radiologists’ performance, rendering them statistically equivalent.
+510(k) Summary Koios Medical, Inc.
+5-12Koios DS Cut Off for
+for Breast Koios DS for Proportion Point
+properly Breast estimate
+Category Identified Proportion 95% CI Conclusion
+Lesion [89.43% Within criteria established
+orientation 1125 91.12% 92.60%] 86.12% for clinical equivalence
+[85.68% Within criteria established
+Lesion shape 1066 87.62% 89.36%] 83.54% for clinical equivalence
+Koios DS performance for shape and orientation classification, when measured against majority decision
+In the second test, categorical agreement between each pair of readers was compared to
+agreement between each reader and the system. For this test, majority agreement was not
+enforced and all cases were analyzed for reader-reader and reader-system agreement.
+Agreement was estimated by means of calculating the Cohen’s Kappa coefficient for
+each pair. On average, for both shape and orientation, the level of agreement between two
+pairs of readers was not found to statistically differ from the level of agreement between
+readers and the system.
+: Reader vs Reader : System vs Reader
+Shape 𝜿𝜿0.769 [0.711, 0.826] 𝜿𝜿0.738 [0.679, 0.797]
+Orientation 0.728 [0.655, 0.801] 0.744 [0.675, 0.813]
+Average kappa coefficient and 95% confidence intervals for reader vs reader and system vs reader categorizations
+510(k) Summary Koios Medical, Inc.
+5-139. Conclusion
+Based on the substantial equivalence evaluation, which is derived from the nonclinical
+and clinical tests that demonstrate that the device is as safe, as effective, and performs as
+well as or better than the legally marketed device predicates, we have determined that the
+Koios DS for Breast product is substantially equivalent to DEN170022 and K161959.
+510(k) Summary Koios Medical, Inc.
+5-14

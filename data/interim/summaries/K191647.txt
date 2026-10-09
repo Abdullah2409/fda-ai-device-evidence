@@ -1,0 +1,286 @@
+Philips Healthcare December 20, 2019
+Eri Gremi
+Philips Ultrasound Inc.
+3000 Minuteman Road
+Andover, MA 01810-6302
+Re: K191647
+Trade/Device Name: QLAB Advanced Quantification Software 13.0
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture Archiving And Communications System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: November 22, 2019
+Received: November 25, 2019
+Dear Eri Gremi:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.12
+Silver Spring, MD 20993
+www.fda.govK191647 - Eri Gremi Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosurePhilips Ultrasound, Inc. Traditional 510(k)
+QLAB Advanced Quantification Software
+Modific ations
+510(k) Summary of Safety and Effectiveness
+This summary of safety and effectiveness is provided as part of the Premarket Notification in
+compliance with 21CFR. Part 807, Subpart E, Section 807.92
+1)Submitter’s name, address, telephone number, contact person
+Primary Contact: Eri Gremi
+Philips Ultrasound, Inc.
+3000 Minuteman Road
+Andover, MA 01810-6302
+Email: erdit.gremi@philips.com
+Tel: (978) 659-2980
+Fax: (978) 975-7324
+Date prepared: November 22 2019
+2)Name of the device, including the trade or proprietary name if applicable, the common or
+usual name, and the classification name, if known:
+Common/Usual Name: Picture archiving and communications system
+Proprietary Name: QLAB Advanced Quantification Software 13.0
+Classification Name: 21 CFR 892.2050, System, Image Processing,
+Radiological,
+Product code: QIH, Class II
+3)Substantially Equivalent Devices
+Primary Predicate Device
+QLAB Advanced Quantification Software K181264 June 7, 2018
+Reference Device
+TomTec-Arena TTA2 K150122 February 13, 2015
+Philips Ultrasound believes that the QLAB 13.0 modifications which are the subject of
+this 510(k) are substantially equivalent to QLAB K181264.
+4)Device Description
+Page 1 of 6Philips Ultrasound, Inc. Traditional 510(k)
+QLAB Advanced Quantification Software
+Modific ations
+Philips QLAB Advanced Quantification software (QLAB) is designed to view and quantify
+image data acquired on Philips ultrasound systems. QLAB is available either as a stand-alone
+product that can function on a standard PC, a dedicated workstation, and on-board Philips’
+ultrasound systems.
+The subject QLAB 3D Auto RV application integrates the segmentation engine of the cleared
+QLAB HeartModel (K181264) and the TomTec-Arena 4D RV-function (cleared under
+K150122) thereby providing a dynamic Right Ventricle clinical functionality. The proposed
+3D Auto RV application is based on the automatic segmentation technology of HeartModel
+applied to the Right Ventricle, and uses machine learning algorithms to identify the
+endocardial contours of the Right Ventricle.
+5) Indications for Use
+QLAB Advanced Quantification Software is a software application package. It is designed to
+view and quantify image data acquired on Philips ultrasound systems.
+6) Technological comparison to predicate devices
+The QLAB Advanced Quantification software with the modified Q-Apps has the same
+intended use and technological characteristics as the legally marketed predicate devices. A
+comparison of the proposed QLAB 3D Auto RV application to the currently marketed
+predicate device (QLAB) and reference device (TomTec-Arena TTA2) are provided in the
+tables below:
+Feature Currently Marketed Currently Marketed Proposed QLAB 3D Explanation of
+Predicate QLAB Reference TomTec-Arena Auto RV Differences
+(Predicate Device - TTA2 (Modified Device)
+K181264) (Reference Device -
+K150122)
+Indication QLAB Quantification Indications for use of Same as QLAB Not applicable
+for Use software is a software TomTec-Arena TTA2 (K181264)
+application package. software are quantification
+It is designed to view and reporting of
+and quantify image cardiovascular, fetal,
+data acquired on abdominal structures and
+Philips ultrasound function of patients with
+systems. suspected disease to
+support the physicians in
+the diagnosis
+Page 2 of 6Philips Ultrasound, Inc. Traditional 510(k)
+QLAB Advanced Quantification Software
+Modific ations
+Feature Currently Marketed Currently Marketed Proposed QLAB 3D Explanation of
+Predicate QLAB Reference TomTec- Auto RV (Modified Differences
+HeartModel (K181264) Arena TTA2 4D RV Device)
+(Reference Device -
+K150122)
+Application The HeartModel provides The TOMTEC The 3D Auto RV Q-App Integrates HeartModel
+description semi-automatic 3D ARENA 4D RV- is an integration of the auto-segmentation
+anatomical border Function provides a segmentation engine of technology with
+detection and morphological and the QLAB HeartModel TomTec Arena’s 4D-
+identification of the heart functional assessment and the TomTec-Arena RV algorithm for RV
+chambers for the end- of the right ventricle 4D RV-Function thereby border placement.
+diastole (ED) and end- based on a surface providing a dynamic
+systole (ES) cardiac model of the RV. Right Ventricle clinical
+phases. functionality.
+Quantification Semi-automatic border Functional assessment Integrates HeartModel Anatomical
+Technology of detection and of RV based on a RV auto-segmentation enhancement by Right
+RV identification of LV and surface model. technology with TomTec Ventricle
+LA chambers Arena’s 4D-RV
+algorithm for RV border
+placement
+2D RV No RV parameters  RVDd base (RVD1):  RVDd base (RVD1): Identical to 4D RV
+measurement Right Ventricle Right Ventricle predicate
+parameters Distance base (mm) Distance base (mm)
+ RVDd mid (RVD2):  RVDd mid (RVD2):
+Right Ventricle Right Ventricle
+Distance medial Distance medial (mm)
+(mm)  RVLd (RVD3): Right
+ RVLd (RVD3): Right Ventricle Distance
+Ventricle Distance Longitudinal (mm)
+Longitudinal (mm)  TAPSE: Tricuspid
+ TAPSE: Tricuspid annular plane systolic
+annular plane systolic excursion (mm)
+excursion (mm)  FAC: Fractional area
+ FAC: Fractional area change (%)
+change (%)  RVLS (free wall): right
+ RVLS (free wall): ventricular longitudinal
+right ventricular strain (free wall) (%)
+longitudinal strain  RVLS (Septum): right
+(free wall) (%) ventricular longitudinal
+ RVLS strain (septum) (%)
+(Septum): right
+ventricular
+longitudinal strain
+(septum) (%)
+2D RV No RV parameters  Global strain  Global strain Identical to 4D RV
+calculated  TAPSE: MMode  TAPSE: MMode predicate
+parameters measurement for measurement for
+movement of TV movement of TV
+between ED and ES between ED and ES
+Page 3 of 6Philips Ultrasound, Inc. Traditional 510(k)
+QLAB Advanced Quantification Software
+Modific ations
+ RV distance  RV distance
+measurements: 3 measurements: 3
+distance distance measurements
+measurements in the in the RV A4C in ED.
+RV A4C in ED.  RVD1: maximal short-
+ RVD1: maximal axis dimension in the
+short-axis dimension basal one third of the
+in the basal one third right ventricle
+of the right ventricle  RVD2: distance is
+ RVD2: distance is measured on 50% of
+measured on 50% of RVLd (RVD3) and
+RVLd (RVD3) and parallel to the RVD1
+parallel to the RVD1  RVD3: base–apex
+ RVD3: base–apex length
+length  Fractional area change
+ Fractional area (FAC)
+change (FAC)
+3D RV No RV parameters  EDV: End-diastolic  EDV: End-diastolic EDV measurement
+measurement Volume Volume includes semi-
+parameters  EDVI: End-diastolic  EDVI: End-diastolic automatic function
+Volume Index Volume Index introduced in
+ ESV: End-systolic  ESV: End-systolic 3DAutoRV. All other
+Volume Volume measurements identical
+ ESVI: End-systolic  ESVI: End-systolic to 4D RV predicate.
+Volume Index Volume Index
+ SV: Stroke Volume  SV: Stroke Volume
+ EF: Ejection Fraction  EF: Ejection Fraction
+3D RV No RV parameters  EF: Ejection Fraction  EF: Ejection Fraction Identical to 4D RV
+calculated  SV: Stroke Volume  SV: Stroke Volume predicate
+parameters
+Contour 3D surface model is 3D surface model is 3D surface model is Workflow
+Generation created semi- created based on user created semi- improvements for user
+automatically without defined anatomical automatically using convenience.
+user interaction. landmarks. User is machine learning Algorithm Training
+User is required to edit, able to edit the contour algorithms without user procedure is same
+accept or reject the of the surface model. interaction. User is able between the subject and
+contours to edit, accept or reject the predicate
+the contours or the HeartModel, except
+anatomical landmarks. that the algorithm is
+applied to LV in
+HeartModel, while to
+RV in subject 3D auto
+RV.
+Page 4 of 6Philips Ultrasound, Inc. Traditional 510(k)
+QLAB Advanced Quantification Software
+Modific ations
+7) Determination of Substantial Equivalence
+Non-clinical performance data
+The QLAB 13.0 modifications were tested in accordance with Philips internal processes.
+Verification and software validation data support the proposed modified QLAB 13.0
+software relative to the currently marketed unmodified QLAB software.
+Design Control activities to assure the safe and effective performance of the modified Q-
+Apps included but not limited to the following:
+• Requirements Review
+• Design Review
+• Risk Management
+• Software Verification and Validation
+Non-clinical V&V testing also included the Machine Learning Algorithm Training and the
+subsequent Validation Study performed for the proposed 3D Auto RV clinical applications.
+Software Verification and Validation testing were used to support substantial equivalence of
+the modified QLAB 13.0 to the predicate device.
+The results of a validation study show that the overall performance of the 3D Auto RV
+software generates RV end diastolic volume error rates below 15% for every data set tested
+compared to the predicate 4D RV. A root mean square error (RMSE) analysis showed that in
+comparison to the predicate 4D RV, 3D Auto RV measured end diastolic RV volumes with
+8.3 ml RMSE, end systolic RV volumes with 2.7 ml RMSE, and RV ejection fraction with
+2.7% RMSE. Test datasets were segregated from training data sets. The results of the
+validation show that when used as intended, the healthcare professional was able to
+successfully determine which contours required revision and was capable of revising in the
+“tracking revision” screen prior to accepting the measurements for a report to create accurate
+measurements of the RV volume.
+An external study published in the Journal of the American Society of Echocardiography
+which concludes that 3D Auto RV provides an accurate and highly reproducible
+quantification not needing any revision in one-third of patients and needing only minor
+revisions in the rest of patients. The users were able to discern the patients images which
+needed manual editing on all cases. Ground truth in this study was considered to be the cross-
+modality CMR. 3D Auto RV results all showed less than 15% difference from the CMR
+measurements of RV volume.
+Summary of Clinical Tests
+No clinical testing conducted in support of substantial equivalence.
+514 Performance Standards
+There are no Sec. 514 performance standards for this device.
+Page 5 of 6Philips Ultrasound, Inc. Traditional 510(k)
+QLAB Advanced Quantification Software
+Modific ations
+Prescription Status
+This is a prescription device. The prescription device statement appears in the labeling.
+Sterilization
+Not applicable. QLAB Advanced Quantification is a software only device.
+8) Conclusions
+Software Verification and Validation activities required to establish the performance,
+functionality, and reliability characteristics of the modified QLAB software with respect to
+the predicate were performed. Testing performed demonstrated that the proposed QLAB 13.0
+Advanced Quantification Software meets defined requirements and performance claims.
+Therefore, Philips concludes that the subject device is substantially equivalent to the
+predicate in terms of safety and effectiveness.
+Page 6 of 6

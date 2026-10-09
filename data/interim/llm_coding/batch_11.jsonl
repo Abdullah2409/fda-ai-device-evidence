@@ -1,0 +1,29 @@
+{"submission_number": "K161834", "llm_validated": "no", "quote": "", "reason": "only predicate comparison table; no testing/result reported"}
+{"submission_number": "K161959", "llm_validated": "yes", "quote": "achieve overall accuracy that fell within the 95% confidence interval of the radiologist performance", "reason": "real lesion images scored by physicians vs algorithm accuracy"}
+{"submission_number": "K162830", "llm_validated": "yes", "quote": "90% of the center of mass distances and surface distances were below 1.9mm and 0.8mm", "reason": "34 subjects' MRI data, Dice/distance accuracy reported"}
+{"submission_number": "K162855", "llm_validated": "no", "quote": "Firmware regression testing, design verification, system verification", "reason": "bench/firmware testing only, no patient data"}
+{"submission_number": "K163013", "llm_validated": "yes", "quote": "automatic labeling of WMHs was for 99.6% of the WMH volume identical to manual labeling", "reason": "12 patient datasets, agreement with manual labeling reported"}
+{"submission_number": "K163138", "llm_validated": "no", "quote": "", "reason": "only consensus-standard compliance listed, no patient testing"}
+{"submission_number": "K163253", "llm_validated": "no", "quote": "", "reason": "software verification/validation only, no patient data or result"}
+{"submission_number": "K163339", "llm_validated": "no", "quote": "No clinical performance data were needed to support substantial equivalence", "reason": "comparative bench testing only, no patient data"}
+{"submission_number": "K163622", "llm_validated": "no", "quote": "No clinical testing was performed", "reason": "bench and pig-lung testing only, explicitly no clinical testing"}
+{"submission_number": "K163623", "llm_validated": "yes", "quote": "tested against an independent data set of 230 studies, for which the 5 radiologists' consensus assessment", "reason": "retrospective patient images, accuracy vs radiologist consensus reported"}
+{"submission_number": "K163665", "llm_validated": "yes", "quote": "Autoscoring algorithm for ODI was compared with the Snore SAT monitor output...on data from 179 patients", "reason": "compared to reference device using 179 patients' data"}
+{"submission_number": "K163694", "llm_validated": "no", "quote": "", "reason": "only predicate comparison table and standards, no testing result"}
+{"submission_number": "K170069", "llm_validated": "no", "quote": "demonstrated that AmCAD-UV can be used to visualize and quantify the primary pulsatile", "reason": "vague capability claim, no quantified endpoint or criteria"}
+{"submission_number": "K170172", "llm_validated": "no", "quote": "random lines and angles have been drawn and measured by two different tools", "reason": "synthetic/phantom image measurements, not patient data"}
+{"submission_number": "K170250", "llm_validated": "no", "quote": "Test phantoms incorporating synthetic prostates were used to verify the accuracy", "reason": "phantom testing only, no real patient data"}
+{"submission_number": "K170540", "llm_validated": "yes", "quote": "Validation testing relied on expert radiologist visual assessments of mammography density", "reason": "no clinical testing required, but patient-scan accuracy assessed"}
+{"submission_number": "K170568", "llm_validated": "yes", "quote": "All clinical input requirements were validated against a gold standard", "reason": "ECG algorithm validated against clinical gold standard"}
+{"submission_number": "K170747", "llm_validated": "no", "quote": "28 phantom test data sets", "reason": "phantom/synthetic data only, not real patient data"}
+{"submission_number": "K170981", "llm_validated": "yes", "quote": "Dice's coefficients are in the range of 80-90%...for lesion segmentations...Dice's coefficient exceeds 80%", "reason": "accuracy vs expert manual segmentation of patient MRI scans"}
+{"submission_number": "K171056", "llm_validated": "no", "quote": "Clinical evidence was not necessary to show substantial equivalence", "reason": "explicitly no clinical performance data"}
+{"submission_number": "K171122", "llm_validated": "no", "quote": "No human clinical data was included to support substantial equivalence", "reason": "explicitly no human clinical data"}
+{"submission_number": "K171315", "llm_validated": "yes", "quote": "the overall agreement as well as positive percent agreement (PPA) and negative percent agreement (NPA), fulfilled the acceptance criteria", "reason": "patient blood samples vs manual microscopy meet acceptance criteria"}
+{"submission_number": "K171328", "llm_validated": "yes", "quote": "the similarity index (or Dice index) were 0.88 for the hippocampus, 0.91 for the thalamus", "reason": "1399 subjects' MRI scans, Dice/ICC accuracy reported"}
+{"submission_number": "K171936", "llm_validated": "no", "quote": "Clinical testing is not provided in support of this premarket notification", "reason": "bench testing only, explicitly no clinical testing"}
+{"submission_number": "K172122", "llm_validated": "no", "quote": "using a test fixture to create multiple fixed impedance loads representing different 'humans'", "reason": "simulated test fixture data, not real patients"}
+{"submission_number": "K172356", "llm_validated": "no", "quote": "did not require clinical studies to support the determination of substantial equivalence", "reason": "explicitly no clinical studies required"}
+{"submission_number": "K172385", "llm_validated": "no", "quote": "did not require clinical testing to establish substantial equivalence", "reason": "explicitly no clinical testing required"}
+{"submission_number": "K172507", "llm_validated": "no", "quote": "a SOZO system was compared against a IMED-Z system to verify correlation in outputs", "reason": "simulated test fixture data representing humans, not real patients"}
+{"submission_number": "K172803", "llm_validated": "no", "quote": "", "reason": "feature comparison table only; no performance/testing data given"}

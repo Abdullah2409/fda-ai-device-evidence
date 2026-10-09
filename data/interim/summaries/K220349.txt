@@ -1,0 +1,366 @@
+TeraRecon, Inc
+Michael Sosebee
+Official Correspondent
+4309 Emperor Blvd.
+Durham, North Carolina 27703
+August 12, 2022
+Re: K220349
+Trade/Device Name: TeraRecon Neuro
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: June 28, 2022
+Received: June 29, 2022
+Dear Michael Sosebee:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.govK220349 - Michael Sosebee Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT 8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT 8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK220349
+1 510(k) Summary
+TeraRecon Neuro version 2.0.0
+[in accordance with 21CFR 807.92]
+1.1 Submitter
+510(k) Sponsor: TereRecon, Inc.
+4309 Emperor Blvd.,
+Address:
+Durham, NC 27703, USA
+Michael Sosebee
+Contact Person:
+Senior Manager RAQA
+Email: msosebee@terarecon.com
+Contact Information:
+Phone: 704-651-6828
+Date Summary Prepared: 10Feb2022
+1.2 Subject Device
+Proprietary (Trade) Name of Subject Device TeraRecon Neuro
+Model Number 2.0.0
+Device Class 2
+Common / Classification Name System, Image Processing, Radiological
+Product Code LLZ
+Regulation Number 892.2050
+510(k) Number K220349
+1.3 Predicate Device
+Proprietary (Trade) Name of Predicate Device Neuro.AI Algorithm
+Model Number 1.0.0
+Device Class 2
+Common / Classification Name System, Image Processing, Radiological
+Product Code LLZ
+Regulation Number 892.2050
+510(k) Number K200750
+TeraRecon, Inc. 1 of 111.4 Device Description
+The TeraRecon Neuro algorithm version 2.0.0 is a modification of the predicate device Neuro.AI
+Algorithm (K200750), which was a modification of the predicate device, Intuition-TDA, TVA,
+Parametric Mapping (which was cleared under K131447). The predicate device Intuition -TDA, TVA,
+Parametric Mapping is an optional module/workflow for the Intuition system (K121916). The TeraRecon
+Neuro algorithm is an image processing software device that can be deployed as a Microsoft Windows
+executable on off-the-shelf hardware or as a containerized application (e.g., Docker container) that runs
+on off-the-shelf hardware or on a cloud platform. The device has limited network connectivity or external
+medical support.
+TeraRecon Neuro allows motion correction and processes, calculates and outputs brain perfusion analysis
+results for functional, dynamic, and derived imaging datasets acquired with CT or MRI. TeraRecon Neuro
+results are used for the analysis of dynamic brain perfusion image data, showing properties of changes in
+contrast over time. This functionality includes calculation of parameters related to brain tissue perfusion,
+vascular assessment and tissue blood volume.
+Outputs include parametric map of measurements including time to peak (TTP), take off time (TOT),
+recirculation time (RT), mean transit time (MTT), blood volume (BV/CBV), blood flow (BF/CBF), time
+to maximum (Tmax) and penumbra/umbra maps that are derived from combinations of measurement
+parameters, such as mismatch maps and hypoperfusion maps with volumes and ratios, as well as 2D and
+3D visualization of brain tissues and brain blood vessels (Note: Tmax, mismatch and hypoperfusion maps
+are only available for images of CT modality).
+When TeraRecon Neuro results are used in external viewer devices such as TeraRecon’s Intuition or
+Eureka medical devices, all the standard features offered by Intuition or Eureka are employed such as
+image manipulation tools like drawing the region of interest, manual or automatic segmentation of
+structures, tools that support creation of a report, transmitting and storing this report in digital form, and
+tracking historical information about the studies analyzed by the software.
+The TeraRecon Neuro algorithm outputs can be used by physicians to aid in the diagnosis and for clinical
+decision support including treatment planning and post treatment evaluation. The software is not intended
+to replace the skill and judgment of a qualified medical practitioner and should only be used by
+individuals that have been trained in the software’s function, capabilities and limitations. The device is
+intended to provide supporting analytical tools to a physician, to speed decision-making and to improve
+communication, but the physician's judgment is paramount, and it is normal practice for physicians to
+validate theories and treatment decisions multiple ways before proceeding with a risky course of patient
+management.
+TeraRecon, Inc. 2 of 111.5 Indications for Use
+The TeraRecon Neuro algorithm is an algorithm for use by trained professionals, including but not limited
+to physicians, surgeons and medical clinicians.
+The TeraRecon Neuro algorithm is a standalone image processing software device that can be deployed
+as a Microsoft Windows executable on off-the-shelf hardware or as a containerized application (e.g., a
+Docker container) that runs on off-the-shelf hardware or on a cloud platform. Data and images are
+acquired via DICOM compliant imaging devices. DICOM results may be exported, combined with, or
+utilized by other DICOM-compliant systems and results.
+The TeraRecon Neuro algorithm provides analysis capabilities for functional, dynamic, and derived
+imaging datasets acquired with CT or MRI. It can be used for the analysis of dynamic brain perfusion
+image data, showing properties of changes in contrast over time. This functionality includes calculation of
+parameters related to brain tissue perfusion, vascular assessment, tissue blood volume, and other
+parametric maps with or without the ventricles included in the calculation. The algorithm also include
+volume reformat in various orientation, rotational MIP 3D batch while removing the skull. This “tumble
+view” allows qualitative review of vascular structure in direct correlation to the perfusion maps for
+comprehensive review.
+The results of the TeraRecon Neuro algorithm can be delivered to the end-user through image viewers
+such as TeraRecon’s Aquarius Intuition system, TeraRecon’s Eureka AI Results Explorer, TeraRecon’s
+Eureka Clinical AI Platform, or other image viewing systems like PACS that can support DICOM results
+generated by the TeraRecon Neuro Algorithm.
+The TeraRecon Neuro algorithm results are designed for use by trained healthcare professionals and are
+intended to assist the physician in diagnosis, who is responsible for making all final patient management
+decisions.
+TeraRecon, Inc. 3 of 111.6 Summary of Technological Characteristics
+The TeraRecon Neuro algorithm version 2.0.0 (K220349) is substantially equivalent to the predicate
+device, Neuro.AI Algorithm (K200750). It has the same basic technological characteristics as the
+predicate device. The main difference between the subject device and the predicate device is the addition
+of three perfusions maps Tmax, Hypoperfusion and Mismatch along with improvements made to the
+quality of existing perfusions maps in version 1.0.0 BV, BF, MTT, TOT, TTP and RT. The subject and
+predicate devices both allow motion correction and process, calculate and output brain perfusion analysis
+results for functional, dynamic and derived imaging datasets acquired with CT or MRI. The subject and
+predicate device results are used for visualization and analysis of dynamic brain perfusion image data,
+showing properties of changes in contrast over time. This functionality includes calculation of parameters
+related to brain tissue perfusion, vascular assessment and tissue blood volume.
+Outputs include parametric map of measurements including time to peak (TTP), take off time (TOT),
+recirculation time (RT), mean transit time (MTT), blood volume (BV/CBV), blood flow (BF/CBF), time
+to maximum (Tmax) and penumbra/umbra maps that are derived from combinations of measurement
+parameters, such as mismatch maps and hypoperfusion maps with volumes and ratios, as well as 2D and
+3D visualization of brain tissues and brain blood vessels.
+TeraRecon Neuro can be used by physicians to aid in the diagnosis and for clinical decision support
+including treatment planning and post treatment evaluation.
+Both the subject and predicate devices are interoperable or compatible with CT and MR scanners, 3rd
+party hospital systems such as PACS, and the TeraRecon Intuition platform. Both devices are standalone
+software packages, the results of which can be consumed by and viewed by TeraRecon’s Eureka AI
+Results Explorer or by other image viewing systems that can support the results generated by the
+TeraRecon Neuro algorithm.
+The differences in technological characteristics do not raise any new or different questions of safety of
+effectiveness. Software verification and validation testing validates that the TeraRecon Neuro algorithm is
+as safe and effective as the predicate device in order to support a determination of substantial equivalence.
+See the table below for a description of the technological similarities and differences among the subject
+and predicate device.
+TeraRecon, Inc. 4 of 11Table 1: Technological Characteristics Comparison
+Reference Device Reference Device
+Predicate Device
+Subject Device (Used in Qualitative (Used in Qualitative
+Assessment) Assessment)
+Functionality Neuro.AI Algorithm version
+TeraRecon Neuro version 2.0.0
+1.0.0
+(TBD) FastStroke, CT Perfusion 4D iSchemaView RAPID
+(K200750)
+(K193289) (K182130)
+Areas of Use Same as predicate device Radiology and could also include Not specified in K193289’s Hospital LAN, inside the
+other clinical specialty areas 510(k) summary. Hospital Firewall
+such as emergency, neurology,
+surgery and more To be used by trained
+professionals.
+Radiological data network.
+Modality Same as predicate device Vendor-neutral - CT, MR and CT CT and MRI
+Support other volumetric imaging
+modalities.
+Images are exposed over time.
+Body Part Same as predicate device Head – entire brain or from Head and Body Not specified in K182130’s
+lower edge of the base of nucleus 510(k) summary
+to upper edge of the ventricles.
+DICOM® Same as predicate device NEMA PS 3.1 – 3.20 (2016) DICOM 3.0 image compatibility NEMA PS 3.1 – 3.20 (2016)
+formats
+TeraRecon, Inc. 5 of 11Reference Device Reference Device
+Predicate Device
+Subject Device (Used in Qualitative (Used in Qualitative
+Assessment) Assessment)
+Functionality Neuro.AI Algorithm version
+TeraRecon Neuro version 2.0.0
+1.0.0
+(TBD) FastStroke, CT Perfusion 4D iSchemaView RAPID
+(K200750)
+(K193289) (K182130)
+Operating Same as predicate device Microsoft Windows® executable Not specified in K193289’s The software runs on a standard
+System on off the shelf hardware and 510(k) summary off-the-shelf computer or a
+CentOS (Interoperability) virtual platform, such as
+VMware,
+and can be used to perform
+image viewing, processing and
+analysis of images. Data and
+images
+are acquired through DICOM
+compliant imaging devices.
+Linux-based server
+TeraRecon, Inc. 6 of 11Reference Device Reference Device
+Predicate Device
+Subject Device (Used in Qualitative (Used in Qualitative
+Assessment) Assessment)
+Functionality Neuro.AI Algorithm version
+TeraRecon Neuro version 2.0.0
+1.0.0
+(TBD) FastStroke, CT Perfusion 4D iSchemaView RAPID
+(K200750)
+(K193289) (K182130)
+Key Same as predicate device • Automatic arterial and venous CT perfusion 4D is an image The iSchemaView RAPID
+Functionality/ input function selection analysis software package, which provides both viewing and
+Feature and • Ventricle subtraction allows the user to produce analysis capabilities for
+Region-of- dynamic image functional and
+Interest (ROI) data and to generate information dynamic imaging datasets
+Markers with regards to changes in image acquired with CT Perfusion (CT-
+intensity over time. It supports P), CT Angiography (CTA), and
+the MRI including a Diffusion
+analysis of CT Perfusion images Weighted MRI (DWI) Module
+(in the head and body) after the and a Dynamic Analysis Module
+intravenous injection of contrast, (dynamic contrast-enhanced
+and imaging data for MRI and CT).
+calculation of the various The DWI Module is used to
+perfusion-related parameters (i.e. visualize local water diffusion
+regional blood flow, regional properties from the analysis of
+blood volume, diffusion - weighted MRI data.
+mean transit time and capillary The Dynamic Analysis Module
+permeability). is used for visualization and
+analysis of dynamic imaging
+data, showing properties of
+changes in contrast over time.
+This functionality includes
+calculation of parameters related
+to tissue flow (perfusion) and
+tissue blood volume.
+TeraRecon, Inc. 7 of 11Reference Device Reference Device
+Predicate Device
+Subject Device (Used in Qualitative (Used in Qualitative
+Assessment) Assessment)
+Functionality Neuro.AI Algorithm version
+TeraRecon Neuro version 2.0.0
+1.0.0
+(TBD) FastStroke, CT Perfusion 4D iSchemaView RAPID
+(K200750)
+(K193289) (K182130)
+Perfusion • Same as predicate device and • Time to peak (or Time to • Blood Flow • Blood Flow
+measurements • Time to Maximum (Tmax) Minimum) • Blood Volume • Blood Volume
+and color maps • Hypoperfusion maps and • Take off time (or Maximum • Mean Transit Time • Mean Transit Time
+volumes Slope of Increase) • Capillary Permeability • Time to Maximum
+• Mismatch maps • Recirculation time (RT) • Time to Maximum
+(penumbra/umbra maps that • Mean transit time (MTT)
+are derived from combinations • Blood volume (BV/CBV)
+of measurement parameters) • Blood flow (BF/CBF)
+and related volumes and ratios • User c onfigurable settings
+Graph Displays Same as predicate device Artery and Vein Fitted and Raw Not specified in K193289’s Not specified in K182130’s
+curves – time/activity 510(k) summary 510(k) summary
+Export • Same as predicate device and DICOM files Not specified in K193289’s Not specified in K182130’s
+Capability • Artery Intensity Profile 510(k) summary 510(k) summary
+Methods for Same as predicate device SVD Not specified in K193289’s Not specified in K182130’s
+Mathematical 510(k) summary 510(k) summary
+Modeling
+Arterial and Same as predicate device Automatic Not specified in K193289’s Arterial input function (AIF) and
+Venous Input 510(k) summary Venous output function (VOF)
+Function
+Selection
+TeraRecon, Inc. 8 of 11Reference Device Reference Device
+Predicate Device
+Subject Device (Used in Qualitative (Used in Qualitative
+Assessment) Assessment)
+Functionality Neuro.AI Algorithm version
+TeraRecon Neuro version 2.0.0
+1.0.0
+(TBD) FastStroke, CT Perfusion 4D iSchemaView RAPID
+(K200750)
+(K193289) (K182130)
+Containerization Same as predicate device • Neuro.AI Algorithm is hosted The configuration of RAPID is available in the
+/ dockerization on the Eureka platform within NeuroPackage enables the user following configurations:
+of algorithm that its own docker. The algorithm to open a single application, • Standard RAPID, which is
+enables is triggered based on input FastStroke, which provides them installed directly on a customer's
+interoperability data and generates result access to both the updated CT Linux-based server and
+with 3rd party which will be delivered to Perfusion 4D integrated with medical image
+results including third party system. and FastStroke applications. processing software such as
+viewing such • CT and MR Scanners commercial PACS.
+results • 3rd party hospital systems The capabilities in CT Perfusion • Virtual RAPID, wherein the
+such as a PACS server, EMR 4D user accesses RAPID online and
+or other and FastStroke can be offered uses it to process DICOM
+independently. images otherwise available on
+• TeraRecon Intuition
+his/her computer.
+• Visualization system
+• Other image viewing
+systems that can support
+results generated by the
+Neuro.AI Algorithm
+• Notification systems
+Ventricle Same as predicate device Setting allows software to Ventricle Segmentation Not specified in K182130’s
+Subtraction calculate maps with or without 510(k) summary
+ventricle included.
+TeraRecon, Inc. 9 of 111.7 Performance Data
+Safety and performance of the TeraRecon Neuro algorithm have been verified and validated through
+software testing, quantitative phantom testing and qualitative clinical user evaluation. Software
+development and testing were performed in accordance with IEC 62304:2006/AI:2015, Medical Device
+Software – Software life cycle processes, utilizing a risk-based testing methodology. Risk has been
+evaluated in accordance with ISO 14971:2007, Medical Devices – Application of Risk Management to
+Medical Devices. During software testing, all pre-defined acceptance criteria for the Neuro.AI Algorithm
+were met and all software test cases passed. The same verification and validation methodology, risk
+assessment and acceptance criterion were used for predicate device.
+To execute our clinical user evaluation TeraRecon worked with our evaluator Dr. Robert Falk, MD whom
+was presented with comparison maps generated by the subject device, the predicate device and two
+additional reference devices GE Medical Systems FastStroke CT Perfusion 4D (K193289) and
+ISchemaView RAPID (K182130). The evaluator was asked to confirm through qualitative assessment
+that the generated maps of TeraRecon Neuro are at least 85% substantially equivalent or better than the
+predicate and reference devices.
+Additionally, we performed a quantitative evaluation of Tmax measurements in comparison to the two
+reference devices. Considering the ground truth as the average Tmax measurement of the two reference
+devices for a given ROI, we calculated absolute error and absolute percent error for the subject device
+compared to ground truth. Acceptance criteria was defined as subject device limit of agreement for both
+metrics less than or equal than the limit of agreement of each predicate device compared to the ground
+truth.
+The results of the software testing and clinical user evaluation validate that the TeraRecon Neuro device
+meets its qualified requirements, performs as intended, and is as safe and effective as the predicate device.
+No new or different questions of safety or efficacy have been raised as a result of the verification and
+validation process.
+TeraRecon, Inc. 10 of 111.8 Conclusion
+The TeraRecon Neuro algorithm is as safe and effective as the predicate device, Neuro.AI Algorithm. The
+indications for use of the subject device falls within the scope of that for the predicate device. Many of the
+technological characteristics are the same for the subject and predicate devices. Differences in the
+technological characteristics between the subject and predicate devices have been addressed through
+software verification and validation testing and do not raise any new of different questions of safety and
+effectiveness.
+All risk were analyzed, and there are no new risks or modified risks that could result in significant harm
+which are not effectively mitigated in the predicate device. The analysis above supports a determination
+of Substantial Equivalence of the TeraRecon Neuro algorithm to the predicate device in terms of safety,
+efficacy, and performance.
+TeraRecon, Inc. 11 of 11

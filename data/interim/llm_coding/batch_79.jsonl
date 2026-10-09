@@ -1,0 +1,13 @@
+{"submission_number": "K260265", "llm_validated": "no", "quote": "sample clinical images were provided as claim evidence only", "reason": "bench/sample images only, no endpoint or result"}
+{"submission_number": "K260300", "llm_validated": "yes", "quote": "meeting the prespecified 1mm non-inferiority margin and additionally meeting superiority", "reason": "prospective 100-patient study vs CT/TEE reference"}
+{"submission_number": "K260316", "llm_validated": "yes", "quote": "mean Dice similarity coefficient: Subject Device 0.706", "reason": "100-patient comparison, Dice score reported"}
+{"submission_number": "K260320", "llm_validated": "yes", "quote": "ROC AUC in the standalone performance analysis was 0.9104", "reason": "2,412 mammograms, AUC/sensitivity/specificity reported"}
+{"submission_number": "K260322", "llm_validated": "no", "quote": "clinical acceptability of simulated treatment planning...was evaluated through bench testing", "reason": "bench testing with surgeon inputs, not patient data"}
+{"submission_number": "K260324", "llm_validated": "yes", "quote": "Intra-Class Correlation (ICC) 0.95...[0.92, 0.96]", "reason": "89-case retrospective validation vs expert ground truth"}
+{"submission_number": "K260332", "llm_validated": "yes", "quote": "sensitivity of 73.7%...and a specificity of 75.2%", "reason": "102,219-patient external validation vs echo ground truth"}
+{"submission_number": "K260378", "llm_validated": "yes", "quote": "high sensitivity (96.88%...), high specificity (87.29%...)", "reason": "6,246-radiograph standalone study plus reader study"}
+{"submission_number": "K260402", "llm_validated": "yes", "quote": "PCL-5; p < 0.046...CAPS-5; p < 0.0006", "reason": "randomized sham-controlled pivotal trial, 158 patients"}
+{"submission_number": "K260406", "llm_validated": "yes", "quote": "DICE score for hyperdenity(ies) lower CI bound was greater than 70%", "reason": "clinical study comparing output to radiologist ground truth"}
+{"submission_number": "K260419", "llm_validated": "no", "quote": "Clinical testing is not a requirement and has not been performed.", "reason": "no patient testing performed"}
+{"submission_number": "K260497", "llm_validated": "yes", "quote": "Pearson Correlation Coefficient 0.976...Pass", "reason": "147-patient CCTA clinical validation vs expert ground truth"}
+{"submission_number": "K260509", "llm_validated": "yes", "quote": "mean DSC of 0.91+/-0.14, 0.86+/-0.13, and 0.75+/-0.20", "reason": "structure Dice scores vs expert ground truth on patient images"}

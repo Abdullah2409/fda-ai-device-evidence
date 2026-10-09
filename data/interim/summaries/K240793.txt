@@ -1,0 +1,719 @@
+MSKai
+Wade Lloyd
+Chief Operating Officer
+6075 Poplar
+Suite 221
+Memphis, TN 38119
+December 16, 2024
+Re: K240793
+Trade/Device Name: MSKai
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: November 10, 2024
+Received: November 15, 2024
+Dear Wade Lloyd:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.04
+Silver Spring, MD 20993
+www.fda.gov2K 240793 - Wade Lloyd Page
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A)for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the3K 240793 - Wade Lloyd Page
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureI
+DEPARTMENT OF HEAL TH AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+�����
+Submission Number (if known)
+I K240793
+Device Name
+I MSKai
+Indications for Use (Describe)
+MSKai is an image identification, post-processing, measurement, and reporting software tool that
+provides qualitative viewing and quantitative spine measurements from previously-acquired T2
+weighted DICOM lumbar spine Magnetic Resonance Imaging (MRI) images for users' review,
+evaluation and analysis. It provides the following functionality to assist users in identifying,
+observing, measuring and reporting measurements:
+- Anatomy segmentation;
+- Anatomy labeling;
+- Anatomy measurement; and
+- Export of measurement results to a qualitative and quantitative report for user's evaluation,
+amendment and authorization
+MSKai does not serve as a diagnostic device by providing or recommending any type of medical
+diagnosis or treatment. MSKai simply provides users the ability to access objective and repeatable
+identification, segmentation, measurement and reported measurements of the Lumbar spine. The
+user is responsible for the indications of preferences and settings, confirming the software­
+generated measurements, and reviewing, confirming and approving draft reports based on their
+medical training.
+The device is intended to be used only by physicians, radiologist, hospitals and other medical
+institutions. Only T2 weighted DICOM images of MRI acquired from lumbar spine exams of
+patients aged 18 and above are acceptable input. MS Kai does not support DICOM images of
+patients that are pregnant, have post-operational complications, tumors, infections, or complex
+hardware.
+Type of Use (Select one or both, as applicable)
+D
+cg] Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+'�n agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."K240793
+MSKai
+510k Summary
+1. Submitter
+MSKai
+6075 POPLAR SUITE 221
+Memphis TN 38119
+United States
+Phone: (901) 498-6655
+Contact Person: Dr. Lloyd Wade, Ph.D.
+Position: Chief Operating Officer
+2. Device
+Common or Usual Name: MSKai
+Classification Name: Automated Radiological Image Processing Software
+Regulatory Class: 892.2050
+Product Code: QIH
+3. Predicate Devices
+Device Name: CoLumbo
+Manufacturer: Smart Soft Healthcare AD
+Classification Panel: Radiology
+Classification Name: Medical image management and processing system (21
+CFR 892.2050)
+Product Code: QIH
+Device Class: Class II 510(k)
+Number: K220497 (cleared on June 23, 2022)
+Device Name: AI-Rad Companion Brain MR
+Manufacturer: Siemens Healthcare GmbH
+Classification Name: Medical image management and processing system (21
+CFR 892.2050)
+Secondary Classification Name: Magnetic resonance diagnostic device
+Classification Product Code: LLZ Subsequent
+Product Code: LNH Classification Panel: Radiology
+Device Class: Class II 510(k)
+Number: K193290 cleared July 5, 2019
+Device Name: AI-Rad Companion (Cardiovascular)
+Manufacturer: Siemens Medical Solutions USA, Inc.
+Classification Name: Computed tomography x-ray system
+Regulation Number: 21 CFR 892.1750
+Classification Product Code: JAK
+Subsequent Product Code: LLZ
+Classification Panel: Radiology Device Class: Class II4. Device Description
+MSKai is a medical device (software) for inspecting and evaluating T2-weighted
+magnetic resonance imaging (MRI) of the lumbar spine. The software is an imaging
+interpretation tool that assists radiologists and neuro/ortho spine surgeons (“users”)
+to identify and measure lumbar spine features in medical images and document their
+interpretations in a report. The segmentation and measurements are classified using
+“alerts” based on rule-based algorithms. The user also identifies and classifies any
+other observations that the software may not annotate.
+The purpose of MSKai is to provide information regarding common spine
+measurements confirmed by the user. Every feature segmented, labeled, and
+measured by the software, based on the user-defined settings, must be reviewed
+and affirmed by the radiologist before the measurements of these features can be
+stored and reported. The software initiates adjustable measurements resulting from
+semi-automatic segmentation. If the user rejects a measurement the corresponding
+segmentation is rejected too. Segmentations are not intended to be a final output but
+serve the purpose of interpretation and calculating measurements. The device
+outputs are intended to be a starting point for a clinical workflow and should not be
+interpreted or used as a diagnosis. The user is responsible for confirming
+segmentation and all measurement outputs. The output is an aid to the clinical
+workflow of measuring patient anatomy and should not be misused as a diagnosis
+tool.
+User-confirmed/defined settings control the sensitivity of the software for labelling
+measurements in an image. The user (not the software) controls identifying out-of-
+range measurements, and, in every case once an out-of-range measurement is
+identified, the user must confirm or reject its presence.
+The software facilitates this process by labeling and mask segmenting around
+features of the relevant anatomy and displaying measurements based on these
+masks. The user maintains control of the process by inspecting the segmentation,
+measurements and labels upon which the measurements are based. The user may
+also examine other features of the imaging not annotated by the software to form a
+complete impression and diagnostic judgment of the overall state of disease,
+disorder, or trauma.
+5. Indications for Use
+MSKai is an image identification, post-processing, measurement, and reporting
+software tool that provides qualitative viewing and quantitative spine measurements
+from previously-acquired T2 weighted DICOM lumbar spine Magnetic Resonance
+Imaging (MRI) images for users' review, evaluation and analysis. It provides the
+following functionality to assist users in identifying, observing, measuring and
+reporting measurements:
+- Anatomy segmentation;
+- Anatomy labeling;- Anatomy measurement; and
+- Export of measurement results to a qualitative and quantitative report for user's
+evaluation, amendment and authorization
+MSKai does not serve as a diagnostic device by providing or recommending any
+type of medical diagnosis or treatment. MSKai simply provides users the ability to
+access objective and repeatable identification, segmentation, measurement and
+reported measurements of the Lumbar spine. The user is responsible for the
+indications of preferences and settings, confirming the software-generated
+measurements, and reviewing, confirming and approving draft reports based on their
+medical training.
+The device is intended to be used only by physicians, radiologist, hospitals and other
+medical institutions. Only T2 weighted DICOM images of MRI acquired from lumbar
+spine exams of patients aged 18 and above are acceptable input. MSKai does not
+support DICOM images of patients that are pregnant, have post-operational
+complications, tumors, infections, or complex hardware.
+6. Comparison of the Technological Characteristics with the Predicate
+Devices
+In comparison to the Predicate Device and the Reference Devices, the Subject
+Device provides comparable outputs in terms of segmentation, measurement and
+reporting. A tabular high-level comparison of the Subject Device and the Predicate
+Device is provided in the table below.Comparison of Technology Characteristics with Predicate Device
+Predicate Device Subject Device Remarks Discussion
+Columbo MSKai
+(K220497)
+· Radiologist · Radiologist Largely Similar
+Intended User
+· Neurosurgeons and · Neurosurgeons and
+Ortho/Spine Surgeons Ortho/Spine Surgeons
+Not subject to restrictions Not subject to restrictions
+other than above the age of other than above the age of
+Intended Patient 18, not pregnant, without 18, not pregnant, without
+Population postoperative complication, postoperative complication,
+scoliosis, tumors, infections, tumors, infections, complex
+fractures hardware
+Lumbar Spine Lumbar Spine · Similar to Predicate
+Device and Reference
+Supported Body Device 2
+Part
+· Different from Reference
+Device 1
+Yes, Segmentation and Yes, Segmentation and Same
+Segmentation
+Quantitative Analysis Quantitative Analysis
+Yes, Quantitative comparison Yes, Quantitative comparison Same
+Measurement of structure with normative of structure with normative
+data or user set thresholds data.
+Yes, Exploration of results Yes, Exploration of results Same. Reports
+with the findings for further with the findings for further radiologists of
+Reporting reporting. reporting. physicians evaluate,
+authorized and modify
+reports
+SaMD Yes Yes Same
+Deep Convolutional Image to Mask Region-based Similar
+Algorithm
+Image Neural Network Convolutional Neural Network
+MR MR Same as Predicate
+Supported
+device, similar to
+Modality
+reference devices.Comparison of Technology Characteristics with Reference Device (1)
+Predicate Device Subject Device Remarks Discussion
+AI-Rad Companion Brain MR MSKai
+(K193290)
+· Radiologist · Radiologist Largely Similar
+Intended User
+· Neurosurgeons and
+Ortho/Spine Surgeons
+Patient population above the Not subject to restrictions Largely Similar
+age of 22 years old. other than above the age of
+Intended Patient 18, not pregnant, without
+Population postoperative complication,
+tumors, infections, complex
+hardware
+Brain Lumbar Spine · Similar to Predicate
+Device and Reference
+Supported Body Device 2
+Part
+· Different from Reference
+Device 1
+Yes, Segmentation and Yes, Segmentation and Same
+Segmentation
+Quantitative Analysis Quantitative Analysis
+Yes, Quantitative comparison Yes, Quantitative comparison Same.
+Measurement of structure with normative of structure with normative
+data or user set thresholds. data.
+Yes, Exploration of results Yes, Exploration of results Same. Reports
+with the findings for further with the findings for further radiologists of
+Reporting reporting. reporting. physicians evaluate,
+authorized and modify
+reports
+Yes Yes Same
+SaMD
+Unclear Mask Region-based Similar
+Algorithm
+Convolutional Neural Network
+CT MR Same as Predicate
+Supported
+device, similar to
+Modality
+reference devices.Comparison of Technology Characteristics with Reference Device (2)
+Predicate Device Subject Device Remarks Discussion
+AI-Rad Companion MSKai
+Musculoskeletal
+(K193267)
+· Radiologist · Radiologist Largely Similar
+· Primary Care Physicians · Neurosurgeons and
+Intended User
+Ortho/Spine Surgeons
+· Specialty/Urgent Care
+Physicians
+Not subject to restrictions Not subject to restrictions Largely Similar
+other than above the age of other than above the age of
+22. 18, not pregnant, without
+Intended Patient
+postoperative complication,
+Population
+tumors, infections, complex
+hardware
+Thorax and Thoracic Spine Lumbar Spine · Similar to Predicate
+Device and Reference
+Supported Body Device 2
+Part
+· Different from Reference
+Device 1
+Yes, Segmentation and Yes, Segmentation and Same
+Segmentation
+Quantitative Analysis Quantitative Analysis
+Yes, Quantitative comparison Yes, Quantitative comparison Same.
+Measurement of structure with normative of structure with normative
+data or user set thresholds data.
+Yes, Exploration of results Yes, Exploration of results Same. Reports
+with the findings for further with the findings for further radiologists of
+Reporting reporting. reporting. physicians evaluate,
+authorized and modify
+reports
+Yes Yes Same
+SaMD
+3D Image to Image Network Mask Region-based Similar
+Algorithm
+Convolutional Neural Network
+CT MR Same as Predicate
+Supported
+device, similar to
+Modality
+reference devices.The Subject Device is substantially equivalent in comparison to the Predicate Device.
+The information regarding the Subject Device does not raise new questions about
+safety and effectiveness and demonstrates that MSKai is at least as safe and effective
+as the legally marketed devices.
+7. Performance Data
+7.1. Biocompatibility Testing
+Not applicable.
+7.2. Electrical Safety and Electromagnetic Compatibility (EMC)
+Not applicable.
+7.3. Animal Study
+Not applicable.
+7.4. Voluntary Conformance Standards performance testing demonstrated
+that MSkai complies with the following voluntary FDA recognized
+Consensus Standards listed in the table below.
+Recognition
+# Standard
+IEC 62304:2006/AMD 1:2015 Medical device software — Software life cycle processes
+13-79 — Amendment 1
+5-125 ISO 14971:2019 Medical devices — Application of risk management to medical devices
+IEC 62366-1:2015+AMD1:2020 Medical devices — Part 1: Application of usability
+5-129 engineering to medical devices
+ISO 15223-1:2016 Medical devices — Symbols to be used with medical device labels,
+5-117 labelling and information to be supplied — Part 1: General requirements
+NEMA PS 3.1 - 3.20 (2016) Digital Imaging and Communications in Medicine (DICOM)
+12-300 Set
+7.5 Non Clinical Tests
+MSKai has performed software design verification testing and a standalone
+performance assessment study, in accordance with the FDA guidance, General
+Principles of Software Validation; Final Guidance for Industry and FDA Staff, issued on
+January 11, 2002. All software requirements and risk analysis have been successfully
+verified and traced. The performance data demonstrates continued conformance with
+special controls for medical devices containing software.
+Software documentation for Basic Documentation level, per FDA Guidance for Industry
+and Food and Drug Administration Staff, Content of Premarket Submissions for Device
+Software Functions, issued on June 14, 2023, were provided. Remedy Logic conforms
+to the cybersecurity requirements by implementing a process of preventing
+unauthorized access, modifications, misuse or denial of use, or the unauthorized use of
+information that is stored, accessed or transferred from a medical device to an external
+recipient, per FDA Guidance for Industry and Food and Drug Administration Staff,
+Cybersecurity in Medical Devices: Quality System Considerations and Content of
+Premarket Submissions, issued on September 27, 2023, as well as FDA Guidance for
+Industry and Food and Drug Administration Staff, Postmarket Management ofCybersecurity in Medical Devices, issued on December 28, 2016. The vulnerability
+assessment and penetration testing demonstrated satisfactory security performance.
+The nonclinical test data demonstrated conformance with special controls and
+substantial equivalence to predicate devices’ performance.
+Standalone Software Performance Study
+To validate the MSKai software from a clinical perspective, a clinical data based
+standalone software performance assessment study was conducted in the U.S. Three
+blind independent data sets were used to train, test and measure within the model.
+Each data set was independent with no overlap of images across datasets.
+• Ground Truth dataset: 255 patient images
+• Pass/Fail Criteria dataset: 575 patient images
+• Testing dataset: 238 patient images
+The standalone software performance assessment study of MSKai included 238 MR
+image studies for 238 patients of different ages and racial groups, collected from five
+sites across the U.S (Table 7). The standalone software performance assessment study
+compared the MSKai software outputs without any editing by a radiologist to the ground
+truth defined by 3 neurosurgeons, 1 interventional radiologist, and 1 PhD in
+Biomechanics on segmentations and measurements. Measurement analysis was
+performed by 4 separate and independent experts (2 neurosurgeons.2 radiologist)
+Additionally, a confusion matrix analysis was conducted for pass/fail analysis of
+anatomical segmentation. Inter-ratter reliabilities were conducted in the experts who
+performance the training/testing measurements.Table 7
+Participant Demographics
+Number of Percent
+Subjects Total
+Total Number of Subjects 238 100.0%
+Gender-Male 125 52.5%
+Gender-Female 113 47.5%
+Age-18 through 21 51 21.4%
+55.4%
+Age-22 through 50 132
+Age-51 and above 55 23.2%
+Racial-Caucasian 146 61.3%
+Racial-Black/African
+American 55 23.1%
+Racial-Hispanic 28 11.7%
+Racial-American Indian 3 1.2%
+Racial-Other 6 2.5%
+Imaging Systems
+The 238 MR studies were acquired on MRI imaging systems made by three (3)
+manufacturers.
+Table 8
+Image Systems
+Number of MRI
+Manufacturer Exams Collected Percent total
+GE (1.5 & 3.0T) 116 48.7%
+Philips (1.5 & 3.0T) 80 33.6%
+Siemens (1.5 & 3.0T) 42 17.6%
+Total 238 100.0%
+Ground Truth
+To support model accuracy, error analysis is performed before and after applying data
+augmentation and pre-trained weights. Ground truth data, curated by five experts in a
+two-phase process, underpins model training. In order to have a blind tested model a
+dataset 255 images were utilized in the ground truth development with a second
+independent dataset of 238 patients being utilized for testing being measured by an
+independent group of 4 experts. A third dataset represented a pass/fail analysis for
+anatomy segmentation identification. This comprehensive approach supports MSKai’s
+aim of accurate, reliable spine image analysis in a clinical setting.
+Acceptance Criteria and Study Results
+Primary Endpoints: - For measurements, the maximum Mean Absolute Error (MAE) as
+defined as the upper limit of the 95% confidence interval for MAE is below apredetermined allowable error limit (MAE limit) for each measurement listed below.
+Table 10.
+Secondary Endpoints: - For segmentations of anatomical structures: the minimum
+Mean Dice Coefficient, defined as the lower limit of the 95% confidence interval for
+MDC, is above a predetermined allowable limit (MDC Limit) for each segmentation
+listed below. Table 9a.
+Table 9a
+Mean Dice Coefficient Results
+Mean Dice 95%
+Anatomy
+View Coefficient Confidence MDC
+Segmentation Limit
+(MDC) Interval (CI)
+Vertebral Body
+(L1) Sagittal 0.968 0.92-0.98 0.8
+Vertebral Body
+(L2) Sagittal 0.977 0.93-0.98 0.8
+Vertebral Body
+(L3) Sagittal 0.981 0.94-0.99 0.8
+Vertebral Body
+(L4) Sagittal 0.963 0.92-0.98 0.8
+Vertebral Body
+(L5) Sagittal 0.985 0.91-0.98 0.8
+Vertebral Body
+(S1) Sagittal 0.945 0.93-0.99 0.8
+L5/S1 Disc Sagittal 0.993 0.91-0.99 0.8
+L4/L5 Disc Sagittal 0.991 0.93-0.99 0.8
+L3/L4 Disc Sagittal 0.992 0.93-0.99 0.8
+L2/L3 Disc Sagittal 0.989 0.91-0.99 0.8
+L1/L2 Disc Sagittal 0.986 0.94-0.99 0.8
+Cord Canal Sagittal 0.983 0.93-0.99 0.8
+Axial Disc Axial 0.984 0.89-0.97 0.8
+Vertebral Body Axial 0.991 0.93-0.99 0.8
+Dural Sac Axial 0.978 0.90-0.98 0.8
+Nerve Root Axial 0.952 0.90-0.95 0.8
+Posterior Arch Axial 0.911 0.90-0.96 0.8Table 10
+Maximum Mean Absolute Error Results
+Mean 95%
+Structural
+View Absolute Confidence MAE
+Measurements Limit
+Error (MAE) interval
+Protruding Disc 1.11 -
+Sagittal 1.19mm 2mm
+Material (L5/S1) 1.68mm
+Protruding Disc 1.12 -
+Sagittal 1.22mm 2mm
+Material (L4/L5) 1.71mm
+Protruding Disc 1.14 -
+Sagittal 1.23mm 2mm
+Material (L3/L4) 1.65mm
+Protruding Disc 1.07 -
+Sagittal 1.19mm 2mm
+Material (L2/L3) 1.61mm
+Protruding Disc 1.11 -
+Sagittal 1.21mm 2mm
+Material (L1/L2) 1.63mm
+Intervertebral
+Sagittal 2.6o 1.58 - 2.45o 6o
+Angle (L5/S1)
+Intervertebral
+Sagittal 2.7o 1.61 - 2.59o 6o
+Angle (L4/L5)
+Intervertebral
+Sagittal 2.7o 1.57 - 2.54o 6o
+Angle (L3/L4)
+Intervertebral
+Sagittal 2.9o 1.64 - 2.62o 6o
+Angle (L2/L3)
+Intervertebral
+Sagittal 2.4o 1.66 - 2.48o 6o
+Angle (L1/L2)
+Vertebral Body
+0.62 -
+Height (Anterior) Sagittal 0.66mm 2mm
+0.91mm
+(L1)
+Vertebral Body
+0.61 -
+Height (Anterior) Sagittal 0.68mm 2mm
+0.88mm
+(L2)
+Vertebral Body
+0.61 -
+Height (Anterior) Sagittal 0.69mm 2mm
+0.93mm
+(L3)
+Vertebral Body
+0.58 -
+Height (Anterior) Sagittal 0.64mm 2mm
+0.91mm
+(L4)Vertebral Body
+0.61 -
+Height (Anterior) Sagittal 0.67mm 2mm
+0.91mm
+(L5)
+Vertebral Body
+0.62 -
+Height (Midline) Sagittal 0.94mm 2mm
+0.87mm
+(L1)
+Vertebral Body
+0.54 -
+Height (Midline) Sagittal 0.93mm 2mm
+1.03mm
+(L2)
+Vertebral Body
+0.61 -
+Height (Midline) Sagittal 0.96mm 2mm
+0.1.01mm
+(L3)
+Vertebral Body
+0.57 -
+Height (Midline) Sagittal 0.97mm 2mm
+1.13mm
+(L4)
+Vertebral Body
+0.57 -
+Height (Midline) Sagittal 0.94mm 2mm
+0.99mm
+(L5)
+Vertebral Body
+0.67 -
+Height Sagittal 0.92mm 2mm
+0.99mm
+(Posterior) (L1)
+Vertebral Body
+0.61 -
+Height Sagittal 0.93mm 2mm
+1.01mm
+(Posterior) (L2)
+Vertebral Body
+0.68 -
+Height Sagittal 0.91mm 2mm
+0.99mm
+(Posterior) (L3)
+Vertebral Body
+0.71 -
+Height Sagittal 0.92mm 2mm
+1.06mm
+(Posterior) (L4)
+Vertebral Body
+0.68 -
+Height Sagittal 0.93mm 2mm
+1.09mm
+(Posterior) (L5)
+Disc Height
+0.67 -
+(Anterior) Sagittal 0.91mm 2mm
+0.99mm
+(L5/S1)
+Disc Height 0.57 -
+Sagittal 0.90mm 2mm
+(Anterior) (L4/L5) 1.06mm
+Disc Height 0.62 -
+Sagittal 0.87mm 2mm
+(Anterior) (L3/L4) 1.03mmDisc Height 0.78 -
+Sagittal 0.89mm 2mm
+(Anterior) (L2/L3) 1.06mm
+Disc Height 0.71 -
+Sagittal 0.93mm 2mm
+(Anterior) (L1/L2) 1.23mm
+Disc Height 0.73 -
+Sagittal 0.93mm 2mm
+(Midline) (L5/S1) 1.12mm
+Disc Height 0.68 -
+Sagittal 0.90mm 2mm
+(Midline) (L4/L5) 1.01mm
+Disc Height 0.71 -
+Sagittal 0.89mm 2mm
+(Midline) (L3/L4) 1.13mm
+Disc Height 0.64 -
+Sagittal 0.91mm 2mm
+(Midline) (L2/L3) 1.03mm
+Disc Height 0.69 -
+Sagittal 0.92mm 2mm
+(Midline) (L1/L2) 1.11mm
+Disc Height
+0.58 -
+(Posterior) Sagittal 0.87mm 2mm
+1.03mm
+(L5/S1)
+Disc Height
+0.67 -
+(Posterior) Sagittal 0.93mm 2mm
+0.99mm
+(L4/L5)
+Disc Height
+0.66 -
+(Posterior) Sagittal 0.87mm 2mm
+1.07mm
+(L3/L4)
+Disc Height
+0.72 -
+(Posterior) Sagittal 0.93mm 2mm
+1.21mm
+(L2/L3)
+Disc Height
+0.58 -
+(Posterior) Sagittal 0.89mm 2mm
+0.91mm
+(L1/L2)
+Anterio-Lithesis 0.81 -
+Sagittal 1.04mm 2mm
+(L5/S1) 1.43mm
+Anterio-Lithesis 0.77 -
+Sagittal 1.02mm 2mm
+(L4/L5) 1.52mm
+Anterio-Lithesis 0.88 -
+Sagittal 1.05mm 2mm
+(L3/L4) 1.61mm
+Anterio- 0.84 -
+Sagittal 1.07mm 2mm
+Lithesis(L2/L3) 1.43mm
+Anterio-Lithesis 0.79 -
+Sagittal 1.02mm 2mm
+(L1/L2) 1.33mm
+Retro-Lithesis 0.82 -
+Sagittal 1.07mm 2mm
+(L5/S1) 1.51mmRetro-Lithesis 0.78 -
+Sagittal 1.049mm 2mm
+(L4/L5) 1.42mm
+Retro-Lithesis 0.81 -
+Sagittal 1.01mm 2mm
+(L3/L4) 1.29mm
+Retro-Lithesis 0.77 -
+Sagittal 1.05mm 2mm
+(L2/L3) 1.34mm
+Retro-Lithesis 0.83 -
+Sagittal 1.08mm 2mm
+(L1/L2) 1.27mm
+Lordotic Angle Sagittal 2.99o 2.01 - 3.62o 6o
+Protruding Disc 0.72 -
+Axial 0.97 mm 2mm
+Material 1.42mm
+Dural Sac 0.87 -
+Axial 1.3 mm 2mm
+Diameter 1.39mm
+The MSKai software was shown to produce segmentations and measurements accurate
+to within a prospectively defined margin of error around the Ground Truth. This accuracy
+was preserved for all critical subgroups, including MRI scanner manufacturer, patient
+age, gender and race.
+Training, Testing and Validation Data Independence:
+The MSKai software machine learning algorithm training and testing data used during
+the algorithm development, as well as validation data used in the U.S. standalone
+software performance assessment study were all independent data sets.
+7.6 Clinical Validation Study
+No human clinical study was conducted to support the pre-market clearance.
+8.0 Conclusions
+The MSKai software is as safe and effective as the predicate device. The subject device
+has the same intended uses and similar indications, technological characteristics, and
+principles of operation as its predicate device. The minor differences between subject
+and predicate device in indications do not alter the intended use.
+The software verification and validation testing data, including the standalone software
+performance assessment study data, supports the safety of the devices and
+demonstrates that the MSKai software performs as intended in the specified use
+conditions.
+Therefore, the MSKai software demonstrates substantial equivalence to the predicate.

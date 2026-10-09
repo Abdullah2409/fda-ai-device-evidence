@@ -1,0 +1,357 @@
+October 30, 2020
+Radformation, Inc.
+℅ Mr. Kurt Sysock
+Co-founder/CEO
+335 Madison Avenue, 16th Floor
+NEW YORK NY 10017
+Re: K200323
+Trade/Device Name: AutoContour
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: QKB
+Dated: September 19, 2020
+Received: September 22, 2020
+Dear Mr. Sysock:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.19
+Silver Spring, MD 20993
+www.fda.govK200323 – Mr. Kurt Sysock Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK200323Section 5. 510(k) Summary
+Radformation, Inc. 510(k) Submission 15 of 61This 510(k) Summary has been created per the requirements of the Safe Medical Device Act
+(SMDA) of 1990, and the content is provided in conformance with 21 CFR Part 807.92.
+5.1. Submitter’s Information
+Table 1 : Submitter’s Information
+Submitter’s Name: Kurt Sysock
+Company: Radformation, Inc.
+Address: 335 Madison Avenue, 16th Floor
+New York, NY 10017
+Contact Person: Alan Nelson
+Chief Science Officer, Radformation
+Phone: 518-888-5727
+Fax: ---------
+Email: anelson@radformation.com
+Date of Summary Preparation 9/16/2020
+5.2. Device Information
+Table 2 : Device Information
+Trade Name: AutoContour
+Common Name: AutoContour, AutoContouring, AutoContour Agent,
+AutoContour Web Application
+Classification Name: Class II
+Classification: Picture archiving and communications system
+Regulation Number: 892.2050
+Product Code: QKB
+Classification Panel: Radiology
+5.3. Predicate Devices Information
+Mirada RTx (K130393) & Workflow Box (K181572)
+Radformation, Inc. 510(k) Submission 16 of 615.4. Device Description
+AutoContour consists of 3 main components:
+1. An “agent” service designed to run on the Windows Operating System that is
+configured by the user to monitor a network storage location for new CT datasets
+that are to be automatically uploaded to:
+2. A cloud-based AutoContour automatic contouring service that produces initial
+contours and
+3. A web application accessed via web browser which allows the user to perform
+registration with other image sets as well as review, edit, and export the structure
+set containing the contours.
+5.5. Indications for Use
+AutoContour is intended to assist radiation treatment planners in contouring and
+reviewing structures within medical images in preparation for radiation therapy treatment
+planning.
+5.6. Technological Characteristics
+AutoContour (Subject Device) makes use of a Predicate Devices, Mirada RTx (K130393)
+& Workflow Box (K181572) for substantial equivalence comparison. Note that Workflow
+​
+Box utilizes Mirada RTx as its predicate device.
+​
+5.6.1. AutoContour vs. Mirada RTx (K130393) & Workflow Box (K181572)
+​ ​
+RTx is “intended to display and visualize 2D & 3D multi-modal medical image
+data” and “supports the loading and saving of DICOM RT objects and allows the
+user to define, import, display, transform, store and export such objects including
+regions of interest structure and dose volumes to radiation therapy planning
+systems” (https://www.accessdata.fda.gov/cdrh_docs/pdf13/K130393.pdf,
+​ ​
+accessed 1/20/2020).
+Workflow Box “is a system designed to allow users to route DICOM-compliant
+data to and from automated processing components… [including] processing
+components for automatically contouring imaging data using … machine learning
+based algorithms.”
+(https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181572.pdf, accessed
+​ ​
+1/20/2020)
+Table 3: Substantial Equivalence AutoContour vs. RTx & Workflow Box
+Characteristic Subject Device: Predicate Device: Predicate Device: Mirada
+AutoContour Workflow Box (K181572) RTx (K130393)
+Radformation
+Target Any patient type for Any patient type for Any patient type for whom
+Population whom relevant modality whom relevant relevant modality scan data
+scan data is available. modality scan data is is available.
+Radformation, Inc. 510(k) Submission 17 of 61(Substantially available.
+Equivalent)
+Energy Used None – software only None – software only None – software only
+and/or application. The software application. The application. The software
+Delivered application does not software application application does not
+deliver or depend on does not deliver or deliver or depend on
+energy delivered to or depend on energy energy delivered to or from
+from patients delivered to or from patients
+(Substantially patients
+Equivalent)
+Intended users Trained radiation Designed to be used by Designed to be used by
+oncology personnel trained clinicians trained clinicians
+(Substantially
+Equivalent)
+Design: Data Contains both an None – the proposed Yes.
+​
+Visualisation/Gr automated processing device has no data
+aphical User component and Data visualization
+Interface Visualisation / Graphical functionality. All data
+User Interface processing is
+(Substantially automated and does
+​
+Equivalent) not require user
+interaction. A control
+interface is provided for
+system administration
+and configuration only
+Design: View Window and level, pan, None – Not applicable Window and level, pan,
+manipulation zoom, cross-hairs, slice zoom, cross-hairs, slice
+and Volume navigation, fused views. navigation. Maximum or
+​
+rendering (Subject Device minimum intensity projection
+functionality is a subset (MIP), volume rendering,
+of Predicate Devices) color rendering, surface
+rendering, multi-planar
+reconstruction (MPR), fused
+​
+views, gallery views.
+​
+Design: Image Manual Rigid Registration for the Manual and Landmark
+registration registration. purposes of Rigid. Automatic multi-modal
+​
+(Subject Device replanning/re-contouring rigid. Mono-modal and
+functionality is a subset and atlas based multi-modal deformable
+of Predicate Devices) contouring. The registration. Motion correction
+algorithms used for in hybrid scans and gated
+image registration are scans. Registration for the
+the same for both purposes of
+predicate and proposed re-planning/recontouring and
+devices. atlas based contouring.
+Regions and Machine learning based Atlas Based contouring, 2D and 3D ROIs,
+Volumes of contouring and manual registration based semi-automatic ROI
+interest (ROI) ROI manipulation. re-contouring, machine definition, isocontour ROIs
+​
+(Subject Device using threshold and
+Radformation, Inc. 510(k) Submission 18 of 61functionality is a subset learning based percentage of maximum,
+of Predicate Devices) contouring one-click seed-pointing
+contouring, manual ROI
+​
+manipulation, ROI
+​
+transformation, Atlas-based
+contouring.
+Design: None – not applicable None – not applicable Intensity, Hounsfield units,
+Region/volume (Substantially activity and SUV
+of interest Equivalent) measurements including min,
+measurements max, mean, peak, standard
+and size deviation, total glycolytic
+measurements activity, median, histogram,
+max and mean ratio to
+reference region. Gray for RT
+Dose. Size measurements
+include 2D and 3D
+measurements including
+rulers and volume, line
+profile.
+Design: None – not applicable None – not applicable Regions table with charting
+Region/Volume (Substantially supports analysis of
+Quantification Equivalent) measurement over multiple
+studies using standard
+protocols such as RECIST,
+PERCIST and WHO
+Design: CT input for contouring CT, MR, DICOM Static and gated CT and
+​ ​ ​
+Supported or manual RTSTRUCT for image PET, and static MR, SPECT,
+​ ​
+modalities registration/fusion. processing. Any valid NM, DICOM RT
+MR, PET input for DICOM data for data
+manual routing
+registration/fusion only.
+DICOM RTSTRUCT for
+output
+(Minor differences)
+Design: No built-in reporting, Supports routing and Yes– Distribution of DICOM
+Reporting and supports exporting distribution of images to compliant Images into other
+data routing DICOM RTSTRUCT file. other DICOM nodes DICOM compliant systems.
+(Minor differences) including to custom Built-in basic reporting
+executables determined
+by the user.
+Compatibility Compatible with data Compatible with data Compatible with data from
+with the from any DICOM from any DICOM any DICOM compliant
+environment compliant scanners for compliant scanners for scanners for the applicable
+and other the applicable modalities. the applicable modalities. Compatible
+​ ​
+devices modalities. Compatible with Microsoft Windows.
+​ ​ ​
+Agent Uploader with Microsoft Integration with Mirada DBx
+component compatible Windows. Integration application launcher and data
+​
+with Microsoft Windows. with Mirada DBx browser.
+Radformation, Inc. 510(k) Submission 19 of 61Cloud-based automatic application launcher and
+contouring service data browser
+compatible with Linux.
+Web application Server
+based application
+compatible with Linux
+with frontend compatible
+with all modern web
+browsers..
+(Minor differences)
+Communication TCP/IP TCP/IP and SCP TCP/IP and SCP
+​ ​
+s/Networking (Subject Device
+functionality is a subset
+of Predicate Devices)
+Computer Agent Uploader Server based application Workstation and Server
+platform & supporting Microsoft supporting Microsoft based application supporting
+operating Windows 10 (64-bit) and Windows 10 (64-bit) and Windows Server 2008 R2,
+system Microsoft Windows Microsoft Windows SP1 and Windows 7 (64-bit)
+Server 2016. Server 2016.
+Cloud-based Server
+based automatic
+contouring application
+compatible with Linux.
+Web application Server
+based application
+compatible with Linux
+with frontend compatible
+with all modern web
+browsers.
+(Minor differences)
+Support for AutoContour is intended “Contours generated by “RTx supports the loading
+radiation to assist radiation Workflow Box may be and saving of DICOM RT
+treatment treatment planners in used as an input to objects and allows the user to
+planning contouring and reviewing clinical workflows define, import, display,
+structures within medical including, but not limited transform, store and export
+images in preparation for to, radiation therapy such objects including
+radiation therapy treatment planning” regions of interest structures
+treatment planning and dose volumes to
+(Subject Device intended radiation therapy planning
+use is a subset of systems.”
+predicate devices)
+Source for RTx & Workflow Box: (https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181572.pdf, accessed
+​ ​
+1/20/2020)
+As shown in Table 3, almost all technological characteristics are either
+substantially equivalent or a subset of the predicate devices’ technological
+characteristics.
+Radformation, Inc. 510(k) Submission 20 of 615.7. Discussion of differences
+Subset of the Predicate Device
+The comparison table above shows that several features of AutoContour are a
+subset of the features of the predicate device. This is because AutoContour’s
+indication for use is narrower in scope than the predicate device in that it is
+intended only “to assist radiation treatment planners in contouring and reviewing
+structures within medical images in preparation for radiation therapy treatment
+planning”. The design of AutoContour reflects that narrower scope and the
+features not shared between AutoContour are such that they can operate
+independently of the features that are not shared with the predicate devices, and
+therefore these differences do not create new questions regarding the safety and
+effectiveness of the device relative to the predicate devices.
+Minor differences
+The following minor differences exist, but do not represent any significant
+additional risks or decreased effectiveness for the device for its intended use:
+● Design: Supported modalities: AutoContour only supports CT image
+​
+sets as inputs specifically for the contouring feature, while MR and PET
+image set inputs are only supported for registration purposes. In the
+predicate devices, all modalities are available for the workflows. This does
+not affect the safety and effectiveness of the device as it relates to its
+indications for use as the vast majority of radiation treatment planning is
+performed on CT images, and where MR or PET modalities are
+necessary for localization, AutoContour does support manual registration
+with those modalities which can be used to guide the contouring of the CT
+image set.
+● Design: Reporting and data routing: AutoContour does not include
+​
+reporting features or direct data-routing with DICOM compliant systems -
+instead AutoContour simply produces a DICOM compliant RT Structure
+Set file that the user may import into a DICOM compliant treatment
+planning system. This does not raise new questions regarding the safety
+and effectiveness of the device since the scope of AutoContour’s
+indication for use is limited to making the contoured structures available
+for radiation treatment planning purposes and does not include managing
+or routing of the image data to various systems. The feature of managing
+or routing of the image data in this way is not a necessary component to
+achieve this goal, so not having this feature does not affect the safety or
+effectiveness of the device.
+● Compatibility with the environment and other devices / Computer
+platform & operating system: AutoContour utilizes different computer
+​
+platform & operating system for its 3 components, but this does not raise
+new questions regarding the safety and effectiveness of the device
+relative to the predicate device.
+Radformation, Inc. 510(k) Submission 21 of 615.7. Performance Data
+As with the Predicate Devices, no clinical trials were performed for AutoContour.
+Nonclinical tests were performed according to Radformation’s AutoContour Complete
+Test Protocol and Report, which demonstrates that AutoContour performs as intended
+per its indications for use. Further tests were performed on independent datasets from
+those included in training and validation sets in order to validate the generalizability of
+the machine learning model.
+Verification and validation tests were performed to ensure that the software works as
+intended and pass/fail criteria were used to verify requirements.
+5.8. Conclusion
+AutoContour is deemed substantially equivalent to the Predicate Devices, Mirada RTx
+(K130393) & Workflow Box (K181572). Verification and Validation testing and Hazard
+Analysis demonstrate that AutoContour is as safe and effective as the Predicate
+Devices. The minor technological differences between AutoContour and the Predicate
+Devices with regard to the intended use do not raise any questions on the safety and
+effectiveness of the Subject Device.
+Radformation, Inc. 510(k) Submission 22 of 61

@@ -1,0 +1,470 @@
+Vysioneer Inc March 19, 2021.
+℅ Chiu S. Lin
+Consultant
+33 Rogers Street, # 308
+CAMBRIDGE MA 02142
+Re: K203235
+Trade/Device Name: VBrain
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: QKB
+Dated: February 9, 2021
+Received: February 10, 2021
+Dear Chiu Lin:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.23
+Silver Spring, MD 20993
+www.fda.govK203235 - Chiu Lin Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureVysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+K203235
+Section 5 510(k) Summary
+5.1 Submitter
+Vysioneer Inc.
+33 Rogers St. #308, Cambridge, MA 02142
+Contact Person: Jen-Tang Lu, PhD (Chief Executive Officer)
+Phone: 609-865-8659
+Email: jt@vysioneer.com
+Date Summary Prepared: February 09, 2021
+5.2 Device Name
+Trade Name: VBrain
+Common Name: Radiological Image Processing Software for
+Radiation Therapy
+Regulation Number / Product Code: 21 CFR 892.2050 / QKB
+5.3 PREDICATE DEVICE
+Primary Predicate #1: AccuContour™, K191928, Xiamen Manteia Technology LTD
+Primary Predicate #2: MIM - MRT Dosimetry, K182624, MIM Software Inc.
+5.4 Intended Use / Indications for Use
+VBrain is a software device intended to assist trained medical professionals, during their clinical
+workflows of radiation therapy treatment planning, by providing initial object contours of known
+(diagnosed) brain tumors (i.e., the region of interest, ROI) on axial T1 contrast-enhanced brain
+MRI images.
+Section 5. Page 1 of 9Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+VBrain uses an artificial intelligence algorithm (i.e., deep learning neural networks) to contour
+(segment) brain tumor on MRI images for trained medical professionals’ attention, which is meant
+for informational purposes only and not intended for replacing their current standard practice of
+manual contouring process. VBrain does not alter the original MRI image, nor does it intend to
+be used to detect tumors for diagnosis. VBrain is intended only for generating Gross
+Tumor Volume (GTV) contours of brain metastases, meningiomas, and acoustic neuromas on
+axial T1 contrast-enhanced MRI images; It is not intended to be used with images of other brain
+tumors. The user must know the tumor type when they use VBrain. VBrain is intended to be
+used on adult patients only.
+Medical professionals must finalize (confirm or modify) the contours generated by VBrain, as
+necessary, using an external platform available at the facility that supports DICOM-RT
+viewing/editing functions, such as image visualization software and treatment planning system.
+5.5 Device Description
+VBrain is a software device indicated for use in the analysis of brain MRI images. The device
+consists of image preprocessing, deep learning neural networks, and postprocessing components,
+and is intended to assist trained medical professionals, during clinical workflows of radiation
+therapy treatment planning, by highlighting and contouring known (diagnosed) brain tumors on
+the axial T1 contrast-enhanced MRI images. The software is configured to work on a PACS
+network. Upon user’s request, it will pull patient scans or users can send corresponding MR images,
+and the device will utilize deep learning neural networks to generate contours for the
+detected/diagnosed brain tumors and export the results as DICOM-RT objects (using the RT
+Structure Set ROI Contour attribute, RTSTRUCT) back to the network. The medical professionals
+must finalize (confirm and modify) the contours produced by VBrain as necessary using an
+external platform that supports RT DICOM viewing/editing, such as a treatment planning system.
+5.6 Comparison with Predicate Devices
+VBrain is substantially equivalent to a combination of the primary predicate devices
+AccuContour™ (K191928) and MIM - MRT Dosimetry (K182624).
+The proposed device, VBrain, and the primary predicates, AccuContour™ (K191928) and
+K182624 (MIM - MRT Dosimetry), are all software devices intended to be used in the workflow
+of radiation therapy by providing tools of segmenting (contouring) of tumors and/or organs on
+MRI and/or CT images. Both the proposed device and AccuContour™ (K191928) are AI-based
+(deep learning) software regulated under the Product Code QKB (Radiological Image Processing
+Software For Radiation Therapy). On the other hand, both the proposed device and K182624
+(MIM - MRT Dosimetry) provide tools for tumor contouring. The only difference is that VBrain
+uses deep learning (neural networks) to automatically generate tumor contours as a starting point
+for user’s review and edit, while K182624 (MIM - MRT Dosimetry) provides a semi-automatic
+Section 5. Page 2 of 9Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+tool (propagation tool) that requires user’s input to start the image segmentation (contouring)
+process.
+Although the proposed new device, VBrain, uses a data-driven deep learning-based algorithm for
+contouring of known brain tumors, the primary predicate MIM - MRT Dosimetry (K182624) uses
+a semi-automatic algorithm that requires user’s input to start the contouring process. The specific
+design of the proposed device does not raise different questions of safety and effectiveness,
+because the new device only provides initial object contours of known (diagnosed) brain tumors
+for the medical professionals’ attention, which are meant for informational purposes only and not
+intended for replacing their current standard practice of manual contouring process. Medical
+professionals must use VBrain in conjunction with appropriate software to review and edit results
+generated automatically by VBrain. In addition, VBrain does not alter the original MRI image, nor
+does it intend to be used to detect tumors for diagnosis. The medical professionals must know the
+tumor type when they use VBrain. Consequently, the new device does not change any medical
+professionals’ workflow planning procedure and therefore does not raise different questions of
+safety and effectiveness.
+Please see Table 5-1 comparing the intended use and key technological characteristics of the
+proposed device and the predicate devices.
+Table 5-1. Comparison with the Predicate Devices.
+Xiamen Manteia
+MIM Software Inc.
+Company Vysioneer Inc. Technology LTD.
+(Primary)
+(Primary)
+Device Name VBrain AccuContour™ MIM - MRT Dosimetry
+510k Number Pending K191928 K182624
+Regulation No. 21CFR 892.2050 21CFR 892.2050 21CFR 892.2050
+Classification II II II
+Product Code QKB QKB LLZ
+It is used by radiation MIM software is used by
+VBrain is a software
+oncology department to trained medical
+device intended to assist
+register multimodality professionals as a tool to
+trained medical
+images and segment aid in evaluation and
+professionals, during
+(non-contrast) CT information management
+their clinical workflows
+images, to generate of digital medical
+of radiation therapy
+needed information for images. The medical
+Intended treatment planning, by
+treatment planning, image modalities
+Use/Indication for Use providing initial object
+treatment evaluation and include, but are not
+contours of known
+treatment adaptation. limited to, CT, MRI, CR,
+(diagnosed) brain tumors
+The product has two DX, MG, US, SPECT,
+(i.e., the region of
+image process functions: PET and XA as
+interest, ROI) on axial
+(1)Deep learning supported by
+T1 contrast-enhanced
+contouring: it can ACR/NEMA DICOM
+brain MRI images.
+automatically contour 3.0.
+Section 5. Page 3 of 9Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+VBrain uses an artificial the organ-at-risk,
+intelligence algorithm including head and neck, MIM assists in the
+(i.e., deep learning thorax, abdomen and following indications:
+neural networks) to pelvis (for both male and •Receive, transmit,
+contour (segment) brain female), store, retrieve,
+tumor on MRI images (2)Automatic display, print, and
+for trained medical Registration, and process medical
+professionals’ attention, (3)Manual Contour. images and DICOM
+which is meant for objects.
+informational purposes It also has the following •Create, display and
+only and not intended general functions: print reports from
+for replacing their (1)Receive, medical images.
+current standard practice add/edit/delete, transmit, •Registration, fusion
+of manual contouring input/export, medical display, and
+process. VBrain does not images and DICOM review of medical
+alter the original MRI data; images for diagnosis,
+image, nor does it intend (2)Patient management; treatment evaluation,
+to be used to detect (3)Review of processed and treatment planning.
+tumors for diagnosis. images; •Evaluation of cardiac
+VBrain is intended only left ventricular end-
+for generating Gross (4)Open and Save of diastolic volume,
+Tumor Volume (GTV) files. end-systolic volume, and
+contours of brain ejection
+metastases, fraction.
+meningiomas, and •Localization and
+acoustic neuromas on definition of objects,
+axial T1 contrast- such as tumors and
+enhanced MRI images; it normal tissues in
+is not intended to be medical images.
+used with images of •Creation,
+other brain tumors. The transformation, and
+user must know the modification of contours
+tumor type when they for applications
+use VBrain. VBrain is including, but not
+intended to be used on limited to, quantitative
+adult patients only. analysis, aiding adaptive
+Medical professionals therapy, transferring
+must finalize (confirm or contours to radiation
+modify) the contours therapy treatment
+generated by VBrain, as planning systems, and
+necessary, using an archiving contours for
+external platform patient follow-up and
+available at the facility management.
+that supports DICOM- •Quantitative and
+RT viewing/editing statistical analysis of
+functions, such as image PET/SPECT brain scans
+visualization software by comparing to other
+and treatment planning registered PET/SPECT
+system. brain scans.
+Section 5. Page 4 of 9Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+•Planning and
+evaluation of permanent
+implant brachytherapy
+procedures (not
+including
+radioactive
+microspheres).
+•Calculating absorbed
+radiation dose as a result
+of administering a
+radionuclide.
+When using device
+clinically, the user
+should only use FDA
+approved
+radiopharmaceuticals. If
+using with unapproved
+ones, this device should
+only be used for research
+purposes.
+Lossy compressed
+mammographic images
+and digitized film screen
+images must not be
+reviewed for
+primary image
+interpretations.
+Images that are printed
+to film must be printed
+using an FDA-approved
+printer for the diagnosis
+of digital mammography
+images.
+Mammographic images
+must be viewed on a
+display system that has
+been cleared by the FDA
+for the diagnosis of
+digital mammography
+images. The software is
+not to be used for
+mammography CAD.
+Segmentation Atlas-based algorithm
+(Contouring) Deep learning Deep learning and propagation tools
+Technology (requiring user’s input to
+Section 5. Page 5 of 9Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+start the image
+segmentation process)
+Microsoft Windows and
+Operating System Linux operating system Microsoft Windows Apple macOS operating
+systems
+Trained medical
+professionals including,
+but not limited to,
+radiologists, oncologists, It is used by radiation Trained medical
+User Population
+physicians, medical oncology department. professionals
+technologists,
+dosimetrists, and
+physicists.
+Segmentation Features: CT, MRI, CR, DX, MG,
+Non-Contrast CT US, SPECT, PET and
+Axial T1 contrast-
+Supported Modalities XA as supported by
+enhanced MRI images
+Registration Features: ACR/NEMA DICOM
+CT, MRI, PET 3.0.
+Qualified brain tumors - Organ-at-risk, including
+Localization and
+brain metastases, head and neck, thorax, Tumors and normal
+Definition of Objects
+meningiomas, and abdomen and pelvis (for tissues
+(ROI)
+acoustic neuromas both male and female)
+To support the intended Segmentation MIM Software Inc. has
+use of the VBrain AI performance test conducted performance
+software for brain tumor The segmentation and integration testing
+contouring performance test was on MIM - MRT
+(segmentation) performed on proposed Dosimetry software with
+performance, Vysioneer device and predicate a comparison to a
+conducted a device to evaluate the commercially available
+retrospective, blinded, automated segmentation solution for internal
+multicenter, accuracy. Two separate radionuclide dosimetry.
+multinational study with tests were performed. Standard quality control
+the VBrain software. The One test involved phantoms, simulated
+Performance Testing & test data sets consisted of images generated in phantoms based on the
+Software V & V 116 cases acquired from healthcare institutions in NEMA IEC Body
+4 different institutions (3 China using scanner Phantom, simulated
+US and 1 non-US). Five models available in phantoms based on
+metrics are evaluated: (1) China covering three patient data, and clinical
+lesion-wise sensitivity, major vendors. The other patient data were used
+(2) false-positive rate, (3) involved images for verification testing.
+lesion-wise Dice generated in healthcare All tests were performed
+coefficient, (4) average institutions in US using using standard clinical
+Hausdorff distance, and scanner models available acquisition and
+(5) average centroid in US covering three reconstruction protocols.
+distance between major vendors. The three The accuracy of planar
+major vendors were GE, corrections for
+Section 5. Page 6 of 9Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+VBrain’s segmentation Siemens and Philips. For attenuation, scatter, and
+and clinicians’ each body parts, all background were
+segmentation. All the intended organs were verified in simulated
+metrics were included in images of the phantoms. The average
+demonstrated to pass the US and China. Ground errors were less than
+performance goals. truthing of each image 12% for all regions
+Software verification was generated from the except for the smallest
+and validation testing consensus of at least region (2.6 cm) with
+were conducted, and three licensed 21% error for Lu-177
+documentation was physicians. DICE and 17% error for I-131
+provided as similarity coefficients where the partial volume
+recommended by FDA’s (DSC) was used for effect lowered accuracy
+Guidance for Industry evaluation. DSC values as expected. In all cases,
+and FDA Staff, were calculated on two the software passed its
+“Guidance for the sets of images for test performance
+Content of Premarket group and control group, requirements and met
+Submissions for respectively. According specifications
+Software Contained in to the results, it could be The accuracy of area-
+Medical Devices” for concluded that the DSC under-the curve (AUC)
+software devices of proposed device was calculations were
+identified as Major non-inferiority compared verified for different
+Level of Concern related with that of the predicate fitting options using
+to radiation therapy device. simulated data with
+t reatment planning. differences less than
+Registration 3.1% compared to
+performance test manual AUC
+The registration calculations which met
+performance test was predefined acceptance
+performed on proposed criteria when
+device and predicate considering the presence
+device to evaluate the of Poison noise in the
+automated registration image data.
+accuracy. Two separate The accuracy of the
+tests were performed. generation of CT-derived
+One test involved physical density maps
+images generated in were verified in clinical
+healthcare institutions in patient data and
+China using scanner compared to published
+models available in results with less than 5%
+China covering three difference for soft tissue
+major vendors. And the regions and less than
+image registration 10% difference for bone
+feature is tested on regions. The difference
+multi-modality image for lung density fell
+sets from same patients. within the range of
+The other involved most expected density values.
+images generated in
+healthcare institutions in The accuracy dose
+U.S. All fixed image and calculations using MIM
+Section 5. Page 7 of 9Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+most moving images -MRT Dosimetry was
+came from U.S and a verified in simulated
+small amount of moving phantoms and clinical
+images adopted from patient data for I-131
+online database were and Lu-177. The
+originally from non-US acceptance criterion for
+sources. All the scanner MIM - MRT Dosimetry
+models covered three is a difference of mean
+major vendors. And the dose of smaller or equal
+image registration to 20% in comparison to
+feature is only tested on a commercially available
+multi-modality image solution after correction
+sets from different of the standard phantoms
+patients. Both tests in the commercial
+covered various solution to match the
+modalities, including mass of the patient data.
+CT/CT, CT/MR and Additionally,
+CT/PET. The comparison of the Voxel
+Normalized Mutual S Value method in MIM
+Information (NMI) was -MRT Dosimetry to
+used for evaluation. NMI Local Deposition Model
+values were calculated values for Lu-177
+on two sets of images for showed a difference less
+both the proposed device than 1% for all organs
+and predicate device, tested. In all cases the
+respectively. The NMI software demonstrated
+value of proposed device acceptable agreement
+was compared with that between the different
+of the predicate device. dose methods.
+According to the results,
+it could be concluded
+that the NMI of
+proposed device was
+non-inferiority compared
+with that of the predicate
+device.
+5.7 Performance Data
+Vysioneer conducted a retrospective, blinded, multicenter, multinational study with the proposed
+device VBrain with the primary endpoint to evaluate the software’s performance on identifying
+axial T1 contrast-enhanced MRI scans containing brain metastases, acoustic neuromas, or
+meningiomas. The test dataset was an independent dataset consisting of 116 cases with 238
+tumors acquired consecutively and retrospectively from 4 different institutions (3 US and 1 non-
+US). The ground truth of each tumor contours was generated from the consensus of three
+board-certified radiation oncologists. Five metrics are evaluated: (1) lesion-wise sensitivity, (2)
+false-positive rate,
+Section 5. Page 8 of 9Vysioneer Inc.
+Traditional 510(k) Premarket Submission
+VBrain
+(3) lesion-wise Dice coefficient, (4) average Hausdorff distance, and (5) centroid distance between
+VBrain’s segmentation and ground-truth segmentation. VBrain meets all performance goals.
+Specifically, lesion-wise sensitivity of VBrain was observed to be 90.3% (95% CI: 86.1-93.7%)
+and the false-positive rate was observed to be 0.681 tumors/case (95% CI: 0.500-0.879)
+tumors/case). In addition, segmentation performance was measured with the lesion-wise Dice
+similarity coefficient (DSC) and average Hausdorff distance between VBrain’s segmentation and
+ground-truth segmentation in terms of lesion size. They were observed to be lesion-wise DSC:
+0.793 (95% CI: 0.775-0.811) and average Hausdorff distance in terms of lesion size: 5.0% (95%
+CI: 4.4-5.6%). Centroid distance between VBrain’s segmentation and ground-truth segmentation
+was measured in terms of lesion size and was observed to be 5.6% (95% CI: 5.0-6.2%).
+5.8 Software Verification and Validation
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices” for software devices
+identified as Major Level of Concern related to radiation therapy treatment planning.
+5.9 Conclusion
+In conclusion, Vysioneer Inc. has conducted performance testing on VBrain. In all the cases, the
+software passed its requirements for safety and effectiveness and does not introduce any new
+potential safety risks. It demonstrates that VBrain is substantially equivalent to and performs at
+least as safely and effectively as the listed predicate devices.
+Section 5. Page 9 of 9

@@ -1,0 +1,313 @@
+CASIS Cardiac Simulation & Imaging Software
+℅ Catherine Gloster
+Founder and Principal Consultant- Gloster Biomedical International
+Gloster Biomedical International
+577 N.Hope Ave, Suite 101
+SANTA BARBARA CA 93110
+September 30, 2022
+Re: K211611
+Trade/Device Name: QIR Suite
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: August 26, 2022
+Received: August 29, 2022
+Dear Catherine Gloster:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.00
+Silver Spring, MD 20993
+www.fda.govK211611 - Catherine Gloster Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices
+and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2020
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K211611
+Device Name
+QIR SUITE
+Indications for Use (Describe)
+QIR Suite is intended to be used for viewing, post-processing, and quantitative evaluation of cardiovascular Magnetic
+Resonance (MR) images in a DICOM (Digital Imaging and Communication in Medicine) Standard format. The software
+has been validated for use on adult patients.
+QIR Suite comprises QIR-MR for analysis of MR images. QIR-MR is composed of a viewer and analysis modules, and
+uses user inputs, standard algorithms, and/or automated deep learning detection algorithms.
+QIR Suite support the following functionalities:
+* Receive, store, transmit, post-process, display, and manipulate medical MR/CT images in the DICOM format (all
+transfer syntaxes supported including JPEG2000).
+* Client/server functionalities to connect to a PACS (Picture Archiving and Communication System), to a HL7 server.
+* Visualization of 2D and 2D + time of single or multiple MR datasets.
+* Segmentation of regions of interest.
+* Measurement of distances and areas.
+* Cardiac function MR analyses for the four chambers, including ejection fraction assessment, local myocardial mass,
+diastolic function, thickness and thickening.
+* 2D Flow studies.
+Each module generates an automated report of the analysis. QIR Suite allows connection and storage of analyses on a
+PACS and on a HL7 server.
+The software is not intended for use by patients, but rather by qualified medical professionals, experienced in examining
+and interpreting cardiovascular MR images to obtain diagnostic information as part of a comprehensive diagnostic
+decision-making process. QIR Suite cannot replace the diagnosis ofa qualified practitioner and cannot be regarded as a
+sole medical point-of-view. The final diagnosis is the sole responsibility of the practitioner.
+Type of Use (Select one or both, as applicable)
+X Prescription Use (Part 21 CFR 801 Subpart D) E Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+FORM FDA 3881 (7117) Page 1 of 2 PSC Pubshing Servics (301) 443-6740 EFThis section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."
+FORM FDA 3881 (7117) Page 2 of 2K211611
+510(k) SummarySubmitter
+Date prepared: September 26, 2022
+Company name: CASIS – CArdiac Simulation & Imaging Software
+Company address: 7 impasse des Boussenots
+21800 Quétigny
+FRANCE
+Contact person: Mr. Jean-Joseph CHRISTOPHE, CEO of CASIS
+Ph: +33-3-73-27-51-20
+Email: jjchristophe@casis.fr
+2. Device
+Trade name: QIR Suite
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management and Processing System
+Device class: Class II
+Product code: QIH
+Submission number: K211611
+3. Predicate device
+QIR Suite is substantially equivalent to Segment CMR of Medviso AB (K163076). This predicate
+is under the same regulation as QIR Suite (Table 1). Segment CMR is a software with
+functionalities to analyze cardiac magnetic resonance (MR) images, similar to QIR Suite.
+4. Reference Device
+In addition to this primary predicate, the software CVI42 (K141480) of Circle Cardiovascular
+Imaging was used as a Reference Device. This software is under the same regulation as QIR
+Suite, and is a software to analyze cardiac magnetic resonance (MR) images, similar to QIR
+Suite.
+15. Device description
+QIR Suite is a software for quantitative analyses of cardiovascular magnetic resonance images
+in the DICOM format. Analyses are performed using standardized and deep-learning
+algorithms. QIR Suite has been validated for adult patients. QIR Suite is intended to be used
+by qualified medical professionals, experienced in examining and evaluating cardiovascular
+MR images for the purpose of obtaining diagnostic information, as part of a comprehensive
+diagnostic decision-making process. QIR Suite cannot replace the diagnosis of a qualified
+practitioner and cannot be regarded as a sole medical point-of-view.
+6. Indications for use
+QIR Suite is intended to be used for viewing, post-processing, and quantitative evaluation of
+cardiovascular Magnetic Resonance (MR) images in a DICOM (Digital Imaging and
+Communication in Medicine) Standard format. The software has been validated for use on
+adult patients.
+QIR Suite comprises QIR-MR for analysis of MR images. QIR-MR is composed of a viewer and
+analysis modules, and uses user inputs, standard algorithms, and/or automated deep learning
+detection algorithms.
+QIR Suite support the following functionalities:
+• Receive, store, transmit, post-process, display, and manipulate medical MR/CT images
+in the DICOM format (all transfer syntaxes supported including JPEG2000).
+• Client/server functionalities to connect to a PACS (Picture Archiving and
+Communication System), to a HL7 server.
+• Visualization of 2D and 2D + time of single or multiple MR datasets.
+• Segmentation of regions of interest.
+• Measurement of distances and areas.
+• Cardiac function MR analyses for the four chambers, including ejection fraction
+assessment, local myocardial mass, diastolic function, thickness and thickening.
+• 2D Flow studies.
+Each module generates an automated report of the analysis. QIR Suite allows connection and
+storage of analyses on a PACS and on a HL7 server.
+The software is not intended for use by patients, but rather by qualified medical professionals,
+experienced in examining and interpreting cardiovascular MR images to obtain diagnostic
+information as part of a comprehensive diagnostic decision-making process. QIR Suite cannot
+replace the diagnosis of a qualified practitioner and cannot be regarded as a sole medical
+point-of-view. The final diagnosis is the sole responsibility of the practitioner.
+27. Comparison of technological characteristics with predicate devices
+Table 1: Technological Characteristics Comparison Table
+QIR Suite v4.1 Segment CMR
+Features
+(MR) (MR)
+Trade name QIR Suite Segment CMR
+Applicant name CASIS Medviso AB
+Regulation Name Medical Image Picture archiving
+Management and and communication
+Processing System system
+510(k) number K211611 K163076
+CE marked 2017 – (CE 0459) 2014 – (CE 0413)
+FDA Clearance date TBD April 5, 2017
+Regulatory Class II II
+Product code QIH* LLZ
+Automated System, image
+radiological image processing,
+processing software radiological
+Regulation 21 CFR 892.2050 21 CFR 892.2050
+Manufacturer CASIS Medviso AB
+(France) (Sweden)
+1. Patient population Adult Pediatric and Adult
+2. Receive, store, transmit,
+post process, display and
+Yes Yes
+allow manipulation of
+medical MR images
+3. Client/server functionality
+to connect to a PACS
+(Picture Archiving and Yes Yes
+Communication System) and
+to activate software license.
+4. Visualization of 2D and 2D
++ time of single or multiple Yes Yes
+datasets.
+5. Segmentation of regions
+Yes Yes
+of interest.
+6. Measurement of distance
+Yes Yes
+and area.
+7. Cardiac function analysis
+including ejection fraction
+assessment, local Yes Yes
+myocardial mass, thickness
+and thickening.
+8. Aorta study including
+length and area Yes Yes
+measurements, compliance,
+3QIR Suite v4.1 Segment CMR
+Features
+(MR) (MR)
+regurgitant fraction, and
+delay wave.
+8. Performance Data
+QIR Suite was subjected to extensive testing, verification, and validation during all stages of
+its development. According to “Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices”, QIR Suite is a medical device software with a
+“moderate” level of concern, a level of concern identical to its predicates.
+8.1 Verification and Validation Testing
+Verification and Validation testing is an integral part of CASIS software development process.
+QIR Suite has been tested according to specifications from the user need requirements.
+Software Requirement Specifications (SRSs) describe the functionalities to be implemented
+based on the product requirements. The Software Design Specifications (SDSs) describe how
+the requirements in the SRS are implemented. Before each new release, a series of automated
+Unit Tests are performed to ensure proper integration of all requirements, and that all SDS
+met the SRS. An exhaustive list of Software Integration Tests and Software Verification Tests
+were outlined in the Software Test Plan including the expected outcome of each test. The
+execution of the validation confirmed that all tests met their acceptance criteria. Therefore,
+the software has been validated. Manual testing, including formative and summative
+evaluations, were performed by CASIS’s engineers and a team of physicians and collaborators.
+8.2 Performance Testing and Substantial Equivalence
+Extensive testing was performed with QIR Suite and the predicates SEGMENT CMR to
+demonstrate that the output of each function of QIR Suite was substantially equivalent to the
+output of its predicate. Testing was performed using data of patients’ database from the US
+and Europe, with three brands of equipment (Siemens, Philips and GE) and with images
+acquired with 1.5 or 3 Tesla magnetic field.
+Each point in the Table 1 “Technological Characteristics Comparison Table » was evaluated
+against one of the predicates. Segment CMR was used for features 1 to 6; Circle CVI42 was
+used for features 7 and 8. Deep learning algorithms used in QIR Suite were evaluated against
+a ground truth.
+To validate quantitative parameters, measurements using patient examinations were
+performed on QIR Suite and on one of the predicates. The values were then compared in
+either or both of the following ways.
+4For each parameter, the measurements obtained in QIR Suite and in the predicate were
+plotted, with the QIR Suite value on the y axis and the CVI42 value on the x axis. A linear fit
+was then performed and a correlation coefficient R2 was calculated. For all measurements, a
+correlation coefficient above 0.95 was considered in good agreement. Furthermore, the
+absolute mean difference was calculated as follow. For each parameter, the absolute
+difference in percent between measurements in QIR Suite and in the predicate was calculated,
+then the average of the differences was measured. An absolute mean difference between
+data under 10% was considered excellent.
+Measurements were performed on a dataset comprised of MR images from patients from
+Europe, the USA, and India. These data were recorded using 3 different manufacturers
+(Siemens, Philips, and GE), and at different magnetic field intensity (1.5 and 3T). Due to
+anonymization, the pathologies and demographics of the patients were not known.
+For each comparison, the correlation coefficient between measurements performed in QIR
+Suite and the predicate was systematically above 0.97, with an average correlation above
+0.99. For all parameters, the absolute mean differences were well under 10%.
+For the distance measurements, the absolute mean difference between QIR Suite and
+Segment CMR showed a variation of 0.8% over 11 measurements, and the area measurements
+in both software showed a variation of 2.8% over 10 measurements.
+For all the cardiac function parameters, the absolute mean difference between QIR Suite and
+CVI42 is well under 5%, which is within the acceptable margin of error (acceptance criteria
+≤10%). The minimum correlation coefficient was 0.9792 and most R2 were above 0.99, with
+an average correlation coefficient over all reported values of 0.9954.
+For all the 2D flow parameters, the absolute mean difference between QIR-MR and CVI42 was
+under 10%, which is within the acceptable margin of error. The minimum correlation
+coefficient was 0.9590 and most R2 were above 0.99, with an average correlation coefficient
+over all reported values of 0.9907.
+The Deep Learning algorithms were evaluated using a Dice coefficient. The DICE coefficient
+evaluates the proximity between the algorithm outcome and the ground truth. For instance,
+a DICE value of 1 would mean no differences between the outcome of the algorithm and the
+ground truth. DICE measurements performed on large testing datasets gave a mean score of
+0.893 and 0.888 for the AG and AG+ algorithms respectively, and 0.908 for the Fast algorithm.
+These values are closed to previously published results.
+The performance testing demonstrated the safety and effectiveness of QIR Suite and
+demonstrated that the QIR Suite is substantially equivalent to legally marketed predicated
+devices Segment CMR.
+8.3 Clinical performance testing
+The subject of this premarket submission did not require clinical studies to support substantial
+equivalence.
+59. Conclusions
+QIR Suite and its predicate Segment CMR are support tools for analysis of cardiovascular MR
+images. These medical device softwares provide the clinician with relevant clinical data to
+support diagnoses. All analysis functionalities provided by QIR Suite are also provided by the
+predicate devices, and their Intended Use and Indications for Use are similar.
+The main difference between QIR Suite and Segment CMR is in the patient population. QIR
+Suite’s intended population is adults only, whereas Segment CMR also include pediatric
+patients. This difference does not raise safety or effectiveness concerns; and is clearly stated
+in QIR Suite’s Intended Use and Instruction for Use.
+Based on these analyses, we conclude that QIR Suite can be considered substantially
+equivalent to the predicate devices in Intended Use, Indications for Use, patient population,
+environment of use, technology characteristics, specifications, and performance. We
+conclude that QIR Suite is as safe and effective as the predicate devices Segment CMR. QIR
+Suite performs in accordance with its Intended Use as well than the legally marketed
+predicate devices currently on the market Segment CMR.
+6

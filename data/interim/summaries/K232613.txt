@@ -1,0 +1,495 @@
+Innolitics, LLC February 28, 2024
+℅ Meritxell Martinez
+Project Manager and Regulatory Specialist
+1101 West 34th St
+Austin, Texas 78705
+Re: K232613
+Trade/Device Name: CT Cardiomegaly
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: January 30, 2024
+Received: January 30, 2024
+Dear Meritxell Martinez:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).K232613 - Meritxell Martinez Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K232613
+Device Name
+CT Cardiomegaly
+Indications for Use (Describe)
+CT Cardiomegaly is a command line software application intended to be run on its own or as part of
+another medical device to automatically calculate linear and area based cardiothoracic ratio (CTR)
+from a CT image containing the heart.
+CT Cardiomegaly is designed to measure the maximal transverse diameter of heart and maximal
+inner transverse diameter of thoracic cavity and calculate the CTR from an axial CT slice containing
+the heart using a non-adaptive machine learning algorithm.
+Intended users of the software are aimed to the physicians or other licensed practitioners in the
+healthcare institutions, such as clinics, hospitals, healthcare facilities, residential care facilities and
+long-term care services.
+The system is suitable for adults and transitional adolescents (18 to 21 years old but treated as an adult).
+Its results are not intended to be used on a stand-alone basis for clinical-decision making or
+otherwise preclude clinical assessment of any disease.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFCT Cardiomegaly
+510(k) Summary
+K232613
+1.ADMINISTRATIVE INFORMATION
+Submitter Name Innolitics LLC
+Address 1101 West 34th St #550, Austin, TX 78705, US
+Phone Number +1 (512) 967-6088
+Fax Number N/A
+Company Representative Meritxell Martinez
+Additional Company Representatives Yujan Shrestha, MD
+Ethan Ulrich
+Andrew Smith, MD, PhD
+Steven Rothenberg, MD
+Jim Luker, RN, MS
+Email fda@innolitics.com
+Date Summary Prepared January 30th, 2024
+Documentation Prepared Using Innolitics Medtech OS Framework
+2.SUBJECT DEVICE INFORMATION
+Trade Name CT Cardiomegaly
+Subject Device K Number K232613
+Common Name Automated Radiological Image Processing Software
+Product Code QIH
+Regulation Number 892.2050
+Regulatory Class Class II
+Review Panel Radiology
+510(k) Summary Page 1 of 10CT Cardiomegaly
+510(k) Summary
+3. PREDICATE DEVICE INFORMATION
+Predicate Device Name EFAI Intelligent Cardiothoracic Ratio (iCTR) Assessment System
+Predicate Device K Number K212624
+Common Name EFAI iCTR
+Product Code QIH
+Regulation Number 892.2050
+Regulatory Class Class II
+Review Panel Radiology
+4. DEVICE DESCRIPTION
+The CT Cardiomegaly application is a software only (SaMD) medical device which includes
+automated algorithms and non-adaptive machine learning to analyze chest computed tomography
+(CT) images. CT Cardiomegaly is a command line software intended to be run on its own or as
+part of another medical device.
+CT Cardiomegaly scans the existing images for the presence of specific anatomical structures
+(i.e., heart and chest cavity). If the target structures are present, the software segments and
+performs automated measurements which may be helpful in assisting with the detection of
+certain diseases and/or conditions (i.e., cardiomegaly). The quantitative information is provided
+to the clinician in the form of a summary report. The clinician (using all available information)
+then decides if further diagnostic work-up, analysis or measurements are indicated.
+The results from CT Cardiomegaly are not intended to be used as the primary input for clinical-
+decision making or diagnosis.
+A reference standard was created to train the machine learning algorithms in CT Cardiomegaly.
+Data for training and testing were sampled from this database based on exclusion criteria. Data
+was also selected to ensure no site was shared by training and testing cohorts. The training
+dataset included 1600 unique patient cases from 267 unique sites across 20 U.S. states.
+510(k) Summary Page 2 of 10CT Cardiomegaly
+510(k) Summary
+5. INDICATIONS FOR USE
+CT Cardiomegaly is a command line software application intended to be run on its own or as
+part of another medical device to automatically calculate linear and area based cardiothoracic
+ratio (CTR) from a CT image containing the heart.
+CT Cardiomegaly is designed to measure the maximal transverse diameter of heart and maximal
+inner transverse diameter of thoracic cavity and calculate the CTR from an axial CT slice
+containing the heart using a non-adaptive machine learning algorithm.
+Intended users of the software are aimed to the physicians or other licensed practitioners in the
+healthcare institutions, such as clinics, hospitals, healthcare facilities, residential care facilities
+and long-term care services.
+The system is suitable for adults and transitional adolescents (18 to 21 years old but treated as an
+adult).
+Its results are not intended to be used on a stand-alone basis for clinical-decision making or
+otherwise preclude clinical assessment of any disease.
+5.1. Indications for Use Equivalence Discussion
+Both the subject (CT Cardiomegaly) and predicate device (EFAI Intelligent Cardiothoracic Ratio
+(iCTR) Assessment System) have similar indications for use, with the exception that the subject
+device analyzes CT images while the predicate device is limited to X-ray images.
+Another difference between the indications for use for both devices is that the predicate uses an
+artificial intelligence algorithm using an unknown framework while the subject device utilizes a
+non-adaptive machine learning algorithm using the MONAI framework.
+However, these are differences in technological characteristics that do not affect safety and
+effectiveness of the device, and have been supported with appropriate verification and validation
+testing.
+6. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS
+Characteristic CT Cardiomegaly EFAI Intelligent Substantial Equivalence Discussion
+Cardiothoracic Ratio
+(iCTR) Assessment
+System (K212624)
+Manufacturer Innolitics LLC Ever Fortune. AI Co., N/A
+Ltd.
+510(k) Summary Page 3 of 10CT Cardiomegaly
+510(k) Summary
+Characteristic CT Cardiomegaly EFAI Intelligent Substantial Equivalence Discussion
+Cardiothoracic Ratio
+(iCTR) Assessment
+System (K212624)
+Regulation 892.2050 892.2050 Same
+Number
+Regulatory Class Class II Class II Same
+Product Code QIH QIH Same
+Regulation Name Medical image processing Medical image processing Same
+and management system and management system
+Device Property SaMD SaMD Same
+Intended Use/ CT Cardiomegaly is EFAI Intelligent Both the subject (CT Cardiomegaly)
+Indications for Use software intended to be run Cardiothoracic Ratio and predicate device (iCTR) have
+on its own or as part of Assessment System (or identical indications for use, with the
+another medical device to iCTR) is a software for use exception that the subject device
+automatically calculate by hospital and clinics to analyzes CT images while the predicate
+linear and area based automatically assess the device is limited to X-ray images.
+cardiothoracic ratio (CTR) cardiothoracic ratio (CTR) Another difference between the
+from a CT image of a chest X-ray image from indications for use for both devices is
+containing the heart. the X-ray imager subject. that the predicate uses artificial
+CT Cardiomegaly is The iCTR is designed to intelligence algorithms using an
+designed to measure the measure the maximal unknown framework while the subject
+maximal transverse transverse diameter of heart device utilizes non-adaptive machine
+diameter of heart and and maximal inner learning algorithms using the MONAI
+maximal inner transverse transverse diameter of framework.
+diameter of thoracic cavity thoracic cavity and calculate However, these differences in
+and calculate the CTR from the CTR of a chest X-ray technological characteristics do not
+an axial CT slice image in posterior-anterior affect safety and effectiveness of the
+containing the heart using a (PA) chest view using an device, and have been supported with
+non-adaptive machine artificial intelligence verification and validation testing.
+learning algorithm. algorithm.
+Intended users of the Intended users of the
+software are aimed to the software are aimed to the
+physicians or other physicians or other licensed
+licensed practitioners in the practitioners in the
+healthcare institutions, healthcare institutions, such
+such as clinics, hospitals, as clinics, hospitals,
+healthcare facilities, healthcare facilities,
+residential care facilities residential care facilities and
+and long-term care long-term care services.
+services. The system is suitable for
+The system is suitable for adults between 20 - 80 years
+adults and transitional of age.
+adolescents (18 to 21 years Its results are not intended
+old but treated as an adult). to be used on a stand-alone
+Its results are not intended basis for clinical-decision
+to be used on a stand-alone making or otherwise
+basis for clinical-decision preclude clinical assessment
+510(k) Summary Page 4 of 10CT Cardiomegaly
+510(k) Summary
+Characteristic CT Cardiomegaly EFAI Intelligent Substantial Equivalence Discussion
+Cardiothoracic Ratio
+(iCTR) Assessment
+System (K212624)
+making or otherwise of cardiothoracic ratio
+preclude clinical (CTR) cases.
+assessment of any disease.
+Technical
+Characteristics
+Input CT image study Post-anterior (PA) view The input for the predicate device is a
+chest X-ray image 2-dimensional chest X-ray image, while
+the subject device’s input is an entire
+CT study. The subject device will select
+out of the CT study an axial slice
+containing the heart, if present, and
+perform measurements. The main
+difference is that the predicate operates
+on images that are post-anterior (PA)
+view chest X-ray, while the subject
+device’s operates on images that are
+axial CT. Nonetheless, this difference
+in imaging modality does not raise any
+new concerns and has been verified and
+validated in testing.
+Output files PDF and JSON Reports Reports, DICOM The output format of the predicate
+Secondary Capture device includes reports and DICOM
+series secondary capture series, while the
+subject device’s only output format is a
+report (in both PDF and JSON format).
+Thus, the subject device’s output
+format is a subset of the predicate’s
+available output formats (i.e., report).
+This lack of a feature does not raise any
+new concerns.
+Output Linear-based CTR and Linear-based CTR The predicate device outputs a linear-
+measurements area-based CTR based CTR measurement while the
+subject device outputs both linear and
+area-based CTR measurements.
+Although this output measurement of
+area-based CTR is not included in the
+predicate device, it does not raise
+different questions of safety or
+effectiveness and has been properly
+verified and validated in testing.
+Report Structure Report will be output in Report will be output in Both devices produce reports that
+the PDF and JSON the DICOM and JSON output CTR and patient information.
+file format which is file format which is One of the main differences between
+structured with following structured with following both devices is that the predicate only
+510(k) Summary Page 5 of 10CT Cardiomegaly
+510(k) Summary
+Characteristic CT Cardiomegaly EFAI Intelligent Substantial Equivalence Discussion
+Cardiothoracic Ratio
+(iCTR) Assessment
+System (K212624)
+information: information and function has one CTR output, while the subject
+1) CTR (both linear and tool: device outputs both linear-based CTR
+area-based) 1) CTR and area-based CTR. This difference is
+2) Patient information 2) adjustable annotation line further discussed in the row above.
+3) Reference value(s) (maximal inner border
+diameter of thoracic cavity Additionally, the predicate device
+and maximal diameter of presents the feature to modify the
+heart) annotation line, which is not available
+3) the trajectory of CTR in the subject device. However, CT
+(including chest X-ray) Cardiomegaly ’s indications for use
+4) Patient information explicitly state that the results produced
+by the device are not intended to be
+solely relied upon for clinical decision-
+making, nor do they replace the need
+for clinical assessment of any disease.
+Furthermore, the user manual of the
+device contains instructions mandating
+healthcare professionals to review the
+results presented in the report.
+Both devices produce reports that
+contain relevant patient information.
+The predicate device includes a
+trajectory of the CTR in the report. The
+subject device includes segmentations
+of the heart area and inner chest area.
+Lastly, the subject device introduces a
+feature to have user-specified reference
+value(s) stated in the report. The
+healthcare professional is able to set
+reference value(s) linear and area-based
+CTR, based on published literature or
+their practice of medicine. This feature
+is not found in the predicate device, but
+has been properly verified and
+validated.
+Intended Users Physicians or other Physicians or other Same
+licensed practitioners in licensed practitioners in
+the healthcare the healthcare
+institutions institutions
+Target Population Adults and transitional Adults of 20-80 years old Both devices have similar intended
+adolescents (18 to 21 years target populations. The subject device’s
+old but treated as an adult)" patient population age range has been
+supported by appropriate performance
+testing.
+510(k) Summary Page 6 of 10CT Cardiomegaly
+510(k) Summary
+Characteristic CT Cardiomegaly EFAI Intelligent Substantial Equivalence Discussion
+Cardiothoracic Ratio
+(iCTR) Assessment
+System (K212624)
+Location of Chest Chest Same
+anatomical
+structures
+Imaging Modality Computed Tomography Chest X-ray in Digital Although the predicate and subject
+(CT) Radiography (DR) device are compatible with different
+imaging modalities, this technological
+difference does not raise new questions
+of safety or effectiveness. Additionally,
+this difference has been properly
+supported with verification and
+validation testing.
+Intended Use Healthcare institutions Healthcare institutions Same
+Environment (Clinics, hospitals, (Clinics, hospitals,
+healthcare facilities, healthcare facilities,
+residential care facilities residential care facilities
+and long-term care and long-term care
+services) services)
+Software device Yes Yes Same
+that
+operates on off-the-
+shelf
+hardware
+Software devices Yes Yes Same
+uses
+software
+algorithms for
+image
+Diameter Yes - Automated Yes - Automated Same, with the main difference that
+Measurement diameter measurements are performed
+on an axial slice of the CT series for the
+subject device (not on chest x-ray, as
+done for the predicate).
+Storage Saved in JSON and Saved in JSON and Both devices store study reports in
+PDF file format DICOM file format text machine-readable JSON format.
+for DICOM and
+DICOM file format The predicate device also stores files in
+DICOM format. On the other hand, the
+subject device also outputs reports in
+PDF format. This difference in file
+format does not raise any new questions
+of safety or effectiveness, and is
+510(k) Summary Page 7 of 10CT Cardiomegaly
+510(k) Summary
+Characteristic CT Cardiomegaly EFAI Intelligent Substantial Equivalence Discussion
+Cardiothoracic Ratio
+(iCTR) Assessment
+System (K212624)
+supported by verification and validation
+testing.
+Software Ubuntu 20.04.5 LTS Ubuntu 18.04 Both devices have similar software
+Requirement (provided as a Docker (Web browser : requirements. The subject device
+container) chrome 88.0.4324.182 requires a newer version of the
+Docker 23.0.1 or above or above) operating system that runs inside a
+container. The main difference is that
+the predicate device is intended to run
+on a web browser while the subject
+device is a command line software
+intended to be run on its own or as part
+of another medical device. This
+technological difference does not raise
+any new questions of safety or
+effectiveness, and is supported by
+verification and validation testing.
+Algorithm type Machine learning based Artificial Intelligence Same. Machine learning based
+algorithm (non-adaptive) algorithm is a subset of artificial
+intelligence.
+7. PERFORMANCE DATA
+7.1. Software Verification and Validation Testing
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Device Software Functions”.
+The software verification and validation testing verified that the design requirements were
+successfully met. The Intended use and user needs were successfully validated.
+As the intended use, functionality and performance of CT Cardiomegaly and predicate device are
+equivalent, the result of the performance testing is evidence that CT Cardiomegaly performs in
+an equivalent manner to the EFAI Intelligent Cardiothoracic Ratio (iCTR) Assessment System.
+7.2. Performance Assessment
+A technical performance assessment was performed for CT Cardiomegaly to validate the
+accuracy for both linear-based CTR (i.e., Cardiothoracic Index) and area-based CTR (i.e., Heart
+to Chest Area Ratio) against the measurements provided by human readers using manual
+segmentation tools (i.e., reference standard).
+510(k) Summary Page 8 of 10CT Cardiomegaly
+510(k) Summary
+7.2.1. Reference Standard
+The reference standard for this assessment was established by three board-certified radiologists.
+Each radiologist provided a segmentation for the heart and the inner chest independently from
+the other radiologists. Measurement agreement among the three radiologists was very high for all
+measured values.
+7.2.2. Training and Testing Dataset
+Data was sampled from a database curated by the University of Alabama at Birmingham of over
+8,000 imaging studies from over 300 unique imaging sites. Data for training (1600 cases) and
+testing (275 cases) were sampled from this database based on exclusion criteria. Data was also
+selected to ensure no site was shared by training and testing cohorts.
+The testing dataset included 275 unique patients cases from sites across 12 U.S. states.
+Subgroups and confounders present in the dataset included patient demographics (age, sex, race,
+ethnicity), confounding conditions, and imaging characteristics (protocol, slice thickness,
+scanner manufacturer, presence or absence of contrast, kVp). Images were representative of
+numerous scanner manufacturers (e.g., GE, Siemens, Philips, Canon Medical Systems, Toshiba,
+Siemens Healthineers, United Imaging Healthcare) and imaging protocols (i.e., abdominal CT,
+chest CT, PET/CT and high-resolution chest CT). The data consisted of 142 male and 133
+female patients of different ethnicities aged 18-96 (median 62) years. Detailed subgroup analysis
+are reported in the labeling.
+7.2.3. Primary Endpoints
+Primary endpoints involved calculating the difference between the average measurement of the
+human readers and the subject device’s measurement. The experimental unit was per patient.
+Clinical performance testing showed strong agreement with physician-derived measurements,
+with an average difference less than 0.01. Additional analysis including the Bland Altman plot
+and Limits of agreement were also conducted and reported in labeling. The 95% limits of
+agreement were [-0.033, 0.035] and [-0.028, 0.035] for Cardiothoracic Ratio and Heart to Chest
+Area Ratio, respectively.
+Measurement Mean Absolute Mean Difference Mean Difference Standard Deviation Result
+Difference [95% CI] [95% CI] Target of Differences
+Cardiothoracic 0.009 [0.007, 0.011] 0.0012 [-0.0008, < 0.0100 0.0172 Pass
+Ratio 0.0033]
+Heart to Chest Area 0.009 [0.007, 0.010] 0.0036 [0.0017, < 0.0100 0.0161 Pass
+Ratio 0.0055]
+510(k) Summary Page 9 of 10CT Cardiomegaly
+510(k) Summary
+7.2.4. Secondary Endpoints
+Secondary endpoints of the clinical performance assessment included the precision of selecting
+the slice where the heart area is the largest (key heart slice detection) and the accuracy of heart
+and inner chest segmentations.
+Key Heart Slice Detection
+Value Mean Difference [95% Mean Difference Standard Deviation of Result
+CI] Target Differences
+Key Slice 0.46 mm [-0.49, 1.41] < 5 mm 0.49 mm Pass
+Position
+Segmentation Comparison
+Anatomical Structure Observed Dice [95% CI]
+Heart 0.95 [0.950, 0.956]
+Inner Chest 0.98 [0.982, 0.984]
+8. CONCLUSION
+CT Cardiomegaly is substantially equivalent to the identified predicate device EFAI Intelligent
+Cardiothoracic Ratio (iCTR) Assessment System (K212624). Specifically, CT Cardiomegaly has
+similar indications for use and technological characteristics compared to the previously cleared
+predicate device. The minor differences in the technological characteristics of CT Cardiomegaly
+and EFAI Intelligent Cardiothoracic Ratio (iCTR) Assessment System (e.g., including the
+identification of target anatomical structures and modalities supported) do not raise new issues of
+safety or effectiveness. The performance tests have been completed and successfully support the
+device performance. Therefore, CT Cardiomegaly is substantially equivalent to the predicate
+device.
+510(k) Summary Page 10 of
+10

@@ -1,0 +1,341 @@
+iSchemaView, Inc. March 31, 2020
+℅ Mr. James Rosa
+VP Quality and Regulatory
+433 Park Point Drive, Suite 220
+GOLDEN CO 80401
+Re: K193087
+Trade/Device Name: RAPID ICH
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological computer-assisted triage and notification software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: February 25, 2020
+Received: March 2, 2020
+Dear Mr. Rosa:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.14
+Silver Spring, MD 20993
+www.fda.govK193087 – Mr. James Rosa Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK193087iSchemaView’s - Traditional 510(k) RAPID ICH
+Section 5: 510(k) Summary (Ver. C) K193087
+510(k) Summary
+iSchemaView, Inc.’s RAPID ICH
+This document contains the 510(k) summary for the iSchemaView RAPID ICH. The content of
+this summary is based on the requirements of 21 CFR Section 807.92(c).
+Applicant Name and Address:
+Name: iSchemaView, Inc.
+Address: 433 Park Point Drive
+Ste. 220
+Golden, CO 80401
+Official Contact: Jim Rosa
+Phone: (303) 704-3374
+Email: rosa@ischemaview.com
+Summary Preparation Date: February 25, 2020
+Device Name and Classification:
+Trade Name: RAPID ICH
+Common Name: Radiological computer aided triage and notification software
+Classification: II
+Product Code: QAS
+Regulation No: 21 C.F.R. §892.2080
+Classification Radiology Devices
+Panel:
+Predicate Devices:
+The iSchemaView RAPID ICH is claimed to be substantially equivalent to the following legally
+marketed predicate device: Aidoc’s BriefCase (K180647).
+Device Description:
+RAPID ICH is a clinical module which operates within the integrated RAPID Platform to
+provide triage and notification prioritization of suspected intra-cranial hemorrhage (ICH). The
+RAPID ICH module consists of the core RAPID Platform software which provides the
+administration and services for the RAPID; and the RAPID ICH module which functions as one
+of many image processing modules hosted by the platform.
+RAPID Platform
+The RAPID platform is a software package that provides for the visualization and study of
+changes in tissue using digital images captured by diagnostic imaging systems including CT
+(Computed Tomography), CTA, XA3D and MRI (Magnetic Image Resonance), as an aid to
+physician diagnosis. RAPID can be installed on a customer’s Server or it can be accessed
+Page 5-1 of 5-8iSchemaView’s - Traditional 510(k) RAPID ICH
+Section 5: 510(k) Summary (Ver. C)
+online as virtual system. It provides viewing, quantification, analysis and reporting
+capabilities. The RAPID platform has multiple modules a clinician may elect to run and
+provide analysis for decision making.
+RAPID works with the following types of (DICOM compliant) medical image data:
+• CT (Computed Tomography)
+• CTA (Computed Tomography Angiography)
+• MRI (Magnetic Image Resonance) Note: not used in ASPECTS.
+• XA3D Multiphase
+RAPID acquires (DICOM compliant) medical image data from the following sources:
+• DICOM file
+• DICOM CD-R
+• Network using DICOM protocol
+RAPID provides tools for performing the following types of analysis:
+• selection of acute stroke patients for endovascular thrombectomy
+• volumetry of thresholded maps
+• time intensity plots for dynamic time courses
+• measurement of mismatch between labeled volumes on co-registered image volumes
+• Imaging features on non-contrast computed tomography
+• Imaging features based on density analysis for CT Angiography
+RAPID is a software-only device consisting of one or more RAPID Servers (dedicated or
+virtual and an iSchemaView Server). The RAPID Server is an image processing engine that
+connects to a hospital LAN, inside the Hospital Firewall. It can be a dedicated RAPID
+Server or a VM RAPID appliance, which is a virtualized RAPID Server that runs on a
+dedicated hospital server. Where available, the RAPID Server is placed logically in the
+demilitarized zone (DMZ) of the hospital's network to facilitate bidirectional secure
+connection between the (local) RAPID Server and the centralized iSchemaView Server.
+The iSchemaView Server is a dedicated server that provides a central repository for RAPID
+data. All iSchemaView Server data is stored on encrypted hard disks. It also provides a user
+interface for accessing RAPID data. It connects to a firewalled Data Center Network and has
+its own firewall for additional cyber/data security. The iSchemaView Server connects to one
+or more RAPID Servers via WAN. Available types of connection include VPN (Virtual
+Private Network - RFC2401 and RFC4301 Standards) Tunnel and SSH (Secure Shell).
+Page 5-2 of 5-8iSchemaView’s - Traditional 510(k) RAPID ICH
+Section 5: 510(k) Summary (Ver. C)
+RAPID System Overview
+RAPID ICH Module
+RAPID ICH provides an automatic analysis of received NCCT scan data for the triage and
+notification of ischemic hemorrhage (ICH). The application is selected via DICOM encoding
+which is processed by the DICOM handler within the RAPID Platform. Once the DICOM server
+identifies the selected ICH processing modality, the Job Manager initiates image processing
+using the ICH Module.
+Upon processing a case with suspicion of ICH, the clinical team is notified via messaging, the
+case has a suspicion of ICH. The notifications are sent to the PACS/Workstation, via email and
+to a mobile application. The notification provides the attending clinical team physician that
+suspicion of hemorrhage has been identified and immediate attention to the case should be given.
+The messaging provides notification and compressed image data of the case. The compressed
+preview is informational only and labeling identifies it as not to be used for diagnostic use and to
+review the data within the PACS/Workstation prior to making any diagnostic decisions. No
+additional information markings are added to the case.
+The notifications are pop-up messages or email with the appropriate case information and
+suspicion or non-suspicion of ICH labelled. In all cases, the normal standard of care workflow is
+adhered to, this ensures the case is still reviewed when non-suspicion is determined.
+Page 5-3 of 5-8iSchemaView’s - Traditional 510(k) RAPID ICH
+Section 5: 510(k) Summary (Ver. C)
+Indications for Use:
+RAPID ICH is a radiological computer aided triage and notification software indicated for use in
+the analysis of non-enhanced head CT images.
+The device is intended to assist hospital networks and trained radiologists in workflow triage by
+flagging and communication of suspected positive Intracranial Hemorrhage (ICH) findings in
+head CT images, namely Intracranial Hemorrhage (ICH).
+RAPID ICH uses an artificial intelligence algorithm to analyze images and highlight cases with
+suspected ICH on a server or standalone desktop application in parallel to the ongoing standard
+of care image interpretation. The user is presented with notifications for cases with suspected
+ICH findings. Notifications include compressed preview images, that are meant for informational
+purposes only and not intended for diagnostic use beyond notification. The device does not alter
+the original medical image and is not intended to be used as a diagnostic device.
+The results of RAPID ICH are intended to be used in conjunction with other patient information
+and based on professional judgment, to assist with triage /prioritization of medical images.
+Notified clinicians are responsible for viewing full images per the standard of care.
+Contraindications/Exclusions/Cautions:
+• RAPID ICH is one input to physician diagnosis for patients undergoing screening for acute
+hemorrhage or acute stroke.
+• Excessive patient motion may lead to artifacts that make the scan technically inadequate.
+• Presence of subacute stroke with mild hemorrhagic transformation may not be detected as
+suspected ICH.
+• For use with non-contrast scans. Presence of intravenous contrast may lead to false positive
+indication of suspected ICH.
+• Identification of suspected findings is not for diagnostic use beyond notification. Images that are
+previewed through email and the mobile application are compressed and are for informational
+purposes only and not intended for diagnostic use beyond notification.
+• Notified clinicians are responsible for viewing non-compressed images on a diagnostic viewer and
+engaging in appropriate patient evaluation and relevant discussion with a treating physician before
+making care-related decisions or requests.
+• RAPID ICH is limited to analysis of imaging data and should not be used in-lieu of full patient
+evaluation or relied upon to make or confirm diagnosis. Notified clinicians are responsible for
+viewing non-compressed images on a diagnostic viewer and engaging in appropriate patient
+evaluation and relevant discussion with a treating physician before making care-related decisions
+or requests.
+Comparison of Technological Characteristics:
+The subject and predicate devices are radiological computer-assisted triage and notification
+software programs. Both devices are artificial intelligence algorithms incorporated software
+packages for use with CT scanners, PACS, and workstations. Both devices process images
+intended to aid in prioritization and triage of radiological medical images. The subject and
+predicate device process NCCT images for ICH indication. Both devices are intended to provide
+Page 5-4 of 5-8iSchemaView’s - Traditional 510(k) RAPID ICH
+Section 5: 510(k) Summary (Ver. C)
+notifications and preview head images of potential findings to radiologists and other clinicians
+for the purpose of treatment planning and follow up.
+Both software devices notify a designated list of clinicians (the predicate device - a radiologist,
+the subject device – a clinician) of the availability of time sensitive radiological medical images
+for review based on computer aided image analysis performed by the device’s AI algorithm. The
+subject and predicate device sends notifications and compressed previews to the workstations’
+desktop of the radiologist. Additionally, the subject device sends an email (normal processing
+within RAPID Platform and previously cleared and mobile notification (similar to the predicate’s
+predicate device. Those notifications work in parallel to the standard of care. They prompt the
+clinician to start preemptive triage of a flagged case, upon which they may decide after observing
+the preview, to turn to the local PACS/Workstation to perform the evaluation. If a notification is
+found to be non-suspicious of ICH, the case still remains in the queue to be handled per the
+standard of care.
+The predicate and subject devices process CT images using similar techniques and a similar
+artificial intelligence algorithm. Specifically, the subject and predicate software utilize a deep
+learning algorithm trained on medical images. The deep-learning process allows for high
+accuracy in the detection of initial suspect locations. As a system, the RAPID ICH raises the
+same types of safety and effectiveness questions as the predicate; namely, accurate detection of
+findings within the reviewed and processed study on which a clinician can base a clinically
+useful triage/prioritization assessment considering all available clinical information.
+It is important to note that, like the predicate, the device does not remove cases from a reading
+queue. Again, both devices operate in parallel with the standard of care, which remains the
+default option for all cases.
+A table comparing the key features of the subject and predicate devices is provided below.
+Substantial Equivalence Table
+Comparison Aidoc Briefcase (K180647) RAPID ICH
+Feature
+Indications Aidoc Briefcase is a radiological RAPID ICH is a radiological
+for Use computer aided triage and computer aided triage and
+notification software indicated for notification software indicated for
+use in the analysis of non-enhanced use in the analysis of non-
+head CT images. enhanced head CT images. The
+The device is intended to assist device is intended to assist
+hospital networks and trained hospital networks and trained
+radiologists in workflow triage by radiologists in workflow triage by
+flagging and communication of flagging and communication of
+suspected positive findings of suspected positive findings of
+pathologies in head CT images, pathologies in head CT images,
+namely Intracranial Hemorrhage namely Intracranial Hemorrhage
+(ICH). (ICH).
+Page 5-5 of 5-8iSchemaView’s - Traditional 510(k) RAPID ICH
+Section 5: 510(k) Summary (Ver. C)
+Aidoc Briefcase uses an artificial RAPID ICH uses an artificial
+intelligence algorithm to analyze intelligence algorithm to analyze
+images and highlight cases with images and highlight cases with
+detected ICH on a standalone detected ICH on a standalone
+desktop application in parallel to the desktop application in parallel to
+ongoing standard of care image the ongoing standard of care
+interpretation. The user is presented image interpretation. The user is
+with notifications for cases with presented with notifications for
+suspected ICH findings. cases with suspected ICH
+Notifications include compressed findings. Notifications include
+preview images that are meant for compressed preview images that
+informational purposes only and not are meant for informational
+intended for diagnostic use beyond purposes only and not intended
+notification. The device does not for diagnostic use beyond
+alter the original medical image and notification. The device does not
+is not intended to be used as a alter the original medical image
+diagnostic device. The results of and is not intended to be used as a
+Aidoc Briefcase are intended to be diagnostic device. The results of
+used in conjunction with other RAPID ICH are intended to be
+patient information and based on used in conjunction with other
+professional judgment, to assist with patient information and based on
+triage/prioritization of medical professional judgment, to assist
+images. Notified clinicians are with triage/prioritization of
+responsible for viewing full images medical images. Notified
+per the standard of care. clinicians are responsible for
+viewing full images per the
+standard of care.
+Stroke/Head Stroke/Head Stroke/Head
+Removal of No No
+cases from
+worklist
+queue
+Primary NCCT NCCT
+Imaging
+Modalities
+Technical ML/AI/Neural Network ML/AI/Neural Network
+Implementati
+on
+Segmentation No, the device does not highlight or No, the device does not highlight
+of ROI direct a user’s attention to a specific or direct a user’s attention to a
+location in the image file. specific location in the image file.
+Page 5-6 of 5-8iSchemaView’s - Traditional 510(k) RAPID ICH
+Section 5: 510(k) Summary (Ver. C)
+Preview Presentation of a preview of the Presentation of a preview of the
+Images study for initial assessment not study for initial assessment not
+meant for diagnostic purposes. meant for diagnostic purposes.
+The device operates in parallel with The device operates in parallel
+the standard of care, which remains. with the standard of care, which
+remains.
+Primary Radiologist Clinician
+User(s)
+Alteration of No No
+original
+image data
+base
+Alters In parallel to In parallel to
+Standard of
+Care
+Workflow
+Notification/ Yes – PACS, Workstation Yes – PACS, Workstation, email,
+Prioritization mobile
+Performance Standards:
+RAPID ICH has been developed in conformance with the following standards, as
+applicable:
+EN ISO 14971:2012 Application of Risk Management to Medical Devices
+IEC 62304:2015 Medical device software – Software lifecycle processes
+NEMA PS 3.1 - 3.20 Digital Imaging and Communications in Medicine (DICOM)
+Performance Data:
+iSchemaView conducted a retrospective, blinded, multicenter, multinational study with the
+RAPID ICH software with the primary endpoint to evaluate the software’s performance in
+identifying noncontrast CT head images containing intracranial hemorrhage (ICH) findings in
+336 cases from US ( 4 Sites and 1 Multisite Study) and OUS sites (1 site, 1 multisite). There
+were approximately an equal number of positive and negative cases (images with ICH versus
+without ICH) included in the analysis.
+Sensitivity and specificity exceeded the 80% performance goal. Specifically, sensitivity was
+observed to be Se: 0.899 (95% CI: 0.847 – 0.935) and Sp: 0.943 (95% CI: 0.895 – 0.970).
+In addition, a secondary endpoint measure was RAPID ICH’s time to notification of suspicion
+non-suspicion as 2.28 min (95% CI: 2.24 - 2.33) was achieved.
+The RAPID ICH time-to-notification includes the time to get the DICOM exam, de-identify it (if
+required), analyze and send a notification back to the attending physician(s) email and mobile.
+Page 5-7 of 5-8iSchemaView’s - Traditional 510(k) RAPID ICH
+Section 5: 510(k) Summary (Ver. C)
+Prescriptive Statement:
+Caution: Federal law restricts this device to sale by or on the order of a physician.
+Safety & Effectiveness:
+RAPID ASPECTS has been designed, verified and validated in compliance with 21 CFR, Part
+820.30 requirements. The device has been designed to meet the requirements associated with EN
+ISO 14971:2012 (risk management) and the software development process conforms to ISO
+62304:2015. The RAPID ICH performance has been validated through the use of phantoms and
+retrospective case data and through the use of reader truthing of the data.
+Conclusion:
+In conclusion, iSchemaView’s RAPID ICH is substantially equivalent in technological
+characteristics, safety, and performance characteristics to the legally marketed predicate device,
+BriefCase (K180647); the two devices vary slightly in the notification pathway, the subject
+device has a mobile interface to allow messaging.
+The RAPID ICH is thus substantially equivalent to the BriefCase predicate device.
+Page 5-8 of 5-8

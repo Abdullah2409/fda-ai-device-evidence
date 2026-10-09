@@ -1,0 +1,157 @@
+Varian Medical Systems, Inc.
+℅ Mr. Peter Coronado
+Sr. Director of Regulatory Affairs
+3100 Hansen Way
+PALO ALTO CA 94304
+Re: K211881
+Trade/Device Name: AI Segmentation
+Regulation Number: 21 CFR 892.5050
+Regulation Name: Medical charged-particle radiation therapy system
+Regulatory Class: Class II
+Product Code: MUJ
+Dated: June 17, 2021
+Received: June 21, 2021
+Dear Mr. Coronado:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.27
+Silver Spring, MD 20993
+www.fda.govK211881 - Mr. Peter Coronado Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510( ) S
+K UMMARY
+The following information is provided as required by 21 CFR 807.92.
+SUBMITTER
+Name and Address: Varian Medical Systems
+3100 Hansen Way, m/s E110
+Palo Alto, CA 94304
+Contact Person: Peter J. Coronado
+Sr. Director, Regulatory Affairs
+Phone: 650-424-6320 | Fax: 650-646-9200
+submissions.support@varian.com
+Date Prepared: 27 August 2021
+DEVICE
+Subject Device Name: AI Segmentation
+Common/Usual Name: medical image segmentation software
+Product Code and Classification: Medical charged-particle radiation therapy system
+MUJ | 21 CFR 892.5050 | Class II
+PREDICATE DEVICE
+Predicate Device Name: AI Segmentation (K203469)
+DEVICE DESCRIPTION
+AI Segmentation is a web-based application, running in the cloud, that provides a combined deep learning
+and classical-based approach for automated segmentation of organs at risk, along with tools for structure
+visualization. This software medical device product is used by trained medical professionals and consists of a
+web application user interface where the results from the automated segmentation can be reviewed, edited,
+and selected for export into the compatible treatment planning system. AI Segmentation is not intended to
+provide clinical decisions, medical advice, or evaluations of radiation plans or treatment procedures.
+INDICATIONS FOR USE
+AI Segmentation uses CT images to segment patient anatomy for use in radiation therapy treatment planning.
+AI Segmentation utilizes a pre-defined set of organ structures in the following regions: head and neck, thorax,
+pelvis, abdomen. Segmentation results are subject to review and editing by qualified, expert radiation therapy
+treatment planners. Results of AI Segmentation are utilized in the Eclipse Treatment Planning System where it is
+the responsibility of a qualified physician to further review, edit as needed, and approve each structure.
+Product: AI Segmentation Page | 1COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE DEVICE
+The modified device, referred to as the “subject device” throughout this summary, is version 2.0 of AI
+Segmentation. The predicate device is version 1.0 of AI Segmentation, previously cleared under K203469.
+At a high level, both the predicate device and the subject device are based on the same characteristics:
+• Both devices are software-only medical devices.
+• Both devices are intended for use by medical professionals within the context of supporting
+radiotherapy treatment planning.
+• Both devices contain automated segmentation algorithms used to process radiological images in order
+to generate contouring of structures for a variety of anatomical sites.
+• Both devices include review interfaces and tools for users to independently assess the output.
+• Both devices are compatible with the Eclipse Treatment Planning System, which is Varian’s
+radiotherapy treatment planning software.
+The significant differences in the subject device compared with the predicate device are:
+1. Added and updated some AI models for automated segmentation and contouring
+a. Note: These algorithms are static and non-adaptive; they do not alter their behavior over time
+based on user input.
+2. Added simple editing tools for users
+PERFORMANCE DATA
+The following performance data was provided in support of the substantial equivalence determination.
+Software Verification and Validation Testing
+Software verification and validation testing was conducted and documentation was provided as recommended
+by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket Submissions for Software
+Contained in Medical Devices.” The software for this device was considered as a “major” level of concern.
+Non-clinical Testing and Performance Evaluation of Algorithms
+The submission includes non-clinical performance tests for automated contouring AI models that are updates
+to classical algorithms in the predicate device and other AI models that contour new additional structures.
+Performance evaluation of these algorithms followed the same approach used by the predicate device version.
+Each AI model was assessed using the DICE similarity index as a comparative measure of the auto-generated
+contours against ground truth contours for a given structure. Aggregated DICE scores for each AI model were
+then compared to literature values or against the performance of the prior model when evaluating an update
+to an existing algorithm. Clinical experts also evaluated the performance of these AI models during validation
+testing. A qualitative scoring system was used to measure the acceptability of auto-generated contours, with a
+target of 80% of expert scores designating the contours as “acceptable with minor or no adjustments”.
+Based on these test criteria, AI models in the subject device exhibited equivalent performance to the predicate.
+Product: AI Segmentation Page | 2Overall test results demonstrate conformance to applicable requirements and specifications.
+No animal studies or clinical tests have been included in this pre-market submission.
+Standards Conformance
+The subject device conforms in whole or in part with the following standards that address software
+development, safety, and usability:
+• IEC 62304 Edition 1.1 2015-06 Medical device software - Software life cycle processes
+• IEC 62366-1 Edition 1.0 2015-02 Application of usability engineering to medical devices
+• IEC 62083 Edition 2.0 2009-09 Requirements for the safety of radiotherapy treatment planning systems
+• IEC 82304-1 Edition 1.0 2016-10 Health software - Part 1: General requirements for product safety
+Argument for substantial equivalence to the predicate device
+A subset of software features and characteristics of the subject device are different from the predicate device.
+However, Varian considers these differences to be enhancements of the predicate, while the principle of
+operation of the subject device is the same as that of the existing predicate device. Verification and validation
+testing demonstrate that the subject device performs its intended use as designed through the product’s
+functional, usability, and safety requirements. Varian therefore believes that the subject device is substantially
+equivalent to the predicate device.
+CONCLUSION
+The predicate device was cleared based only on non-clinical testing, and no animal or clinical studies were
+performed for the subject device. The non-clinical data supports the safety of the device, and verification and
+validation testing demonstrate that the subject device should perform as intended in the specified use
+conditions. There were no remaining discrepancy reports (DRs) which could be classified as Safety or Customer
+Intolerable.
+Therefore, Varian considers AI Segmentation (version 2.0) to be substantially equivalent to the predicate
+device, AI Segmentation (version 1.0).
+Product: AI Segmentation Page | 3

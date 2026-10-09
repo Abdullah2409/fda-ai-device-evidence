@@ -1,0 +1,423 @@
+Aidoc Medical, Ltd.
+℅ John Smith
+Partner
+Hogan Lovells US LLP
+555 Thirteenth Street NW
+Washington, District of Columbia 20004
+July 12, 2024
+Re: K241727
+Trade/Device Name: BriefCase-Triage
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological Computer Aided Triage And Notification Software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: June 14, 2024
+Received: June 14, 2024
+Dear John Smith:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.00
+Silver Spring, MD 20993
+www.fda.govK241727 - John Smith Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+IK241727
+Device Name
+BriefCase-Triage
+Indications for Use (Describe)
+Briefcase-Triage is a radiological computer- aided triage and notification software indicated for use
+in the analysis of CTPA images, in adults or transitional adolescents aged 18 and older. The device
+is intended to assist hospital networks and appropriately trained medical specialists in workflow
+triage by flagging and communicating suspected positive cases of Pulmonary Embolism (PE)
+pathologies.
+Briefcase-Triage uses an artificial intelligence algorithm to analyze images and highlight cases with
+detected findings in parallel to the ongoing standard of care image interpretation. The user is
+presented with notifications for cases with suspected PE findings. Notifications include compressed
+preview images that are meant for informational purposes only and not intended for diagnostic use
+beyond notification. The device does not alter the original medical image and is not intended to be
+used as a diagnostic device.
+The results of Briefcase-Triage are intended to be used in conjunction with other patient information
+and based on their professional judgment, to assist with triage/prioritization of medical images.
+Notified clinicians are responsible for viewing full images per the standard of care.
+Type of Use (Select one or both, as applicable)
+HOver-The-Counter
+N Prescription Use (Part 21 CFR 801 Subpart D) Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."K241727
+510(k) Summary
+Aidoc Medical, Ltd.’s Briefcase-Triage
+Submitter:
+Aidoc Medical, Ltd.
+92 Yigal Alon St.
+Tel-Aviv, Israel
+Phone: +972-73-7946870
+Contact Person: Amalia Schreier, LL.M
+Date Prepared: July 11, 2024
+Name of Device: Briefcase-Triage
+Classification Name: Radiological computer-assisted triage and notification software
+device
+Regulatory Class: Class II
+Product Code: QAS ( 21 CFR 892.2080)
+Primary Predicate Device: Briefcase-Triage (PE triage, K222277)
+Device Description
+Briefcase-Triage is a radiological computer-assisted triage and notification software device.
+The software is based on an algorithm programmed component and is intended to run on a
+linux-based server in a cloud environment.
+The Briefcase-Triage receives filtered DICOM Images, and processes them chronologically by
+running the algorithms on each series to detect suspected cases. Following the AI processing, the
+output of the algorithm analysis is transferred to an image review software (desktop application).
+When a suspected case is detected, the user receives a pop-up notification and is presented with a
+compressed, low-quality, grayscale image that is captioned “not for diagnostic use, for prioritization
+only” which is displayed as a preview function. This preview is meant for informational purposes only,
+does not contain any marking of the findings, and is not intended for primary diagnosis
+beyond notification.
+Presenting the users with worklist prioritization facilitates efficient triage by prompting the user to
+assess the relevant original images in the PACS. Thus, the suspect case receives attention earlier
+than would have been the case in the standard of care practice alone.
+The algorithm was trained during software development on images of the pathology. As is customary
+in the field of machine learning, deep learning algorithm development consisted of training on
+1manually labeled (“tagged”) images. In that process, critical findings were tagged in all CTs in the
+training data set.
+Intended Use / Indications for Use
+BriefCase-Triage is a radiological computer aided triage and notification software indicated for use in
+the analysis of CTPA images in adults or transitional adolescents aged 18 and older. The device is
+intended to assist hospital networks and appropriately trained medical specialists in workflow triage
+by flagging and communication of suspected positive cases of Pulmonary Embolism (PE)
+pathologies.
+BriefCase-Triage uses an artificial intelligence algorithm to analyze images and highlight cases with
+detected findings in parallel to the ongoing standard of care image interpretation. The user is
+presented with notifications for cases with suspected PE findings. Notifications include compressed
+preview images that are meant for informational purposes only and not intended for diagnostic use
+beyond notification. The device does not alter the original medical image and is not intended to be
+used as a diagnostic device.
+The results of BriefCase-Triage are intended to be used in conjunction with other patient information
+and based on their professional judgment, to assist with triage/prioritization of medical images.
+Notified clinicians are responsible for viewing full images per the standard of care.
+Summary of Technological Characteristics
+The subject Briefcase-Triage for PE and the algorithm analysis module for the primary predicate
+Briefcase-Triage for PE (K222277) are identical in most aspects and differ with respect to their
+algorithm performance, due to training the subject device on a larger data set and additional
+operating points have been added to the pivotal study endpoints . In addition, the SW architecture
+was changed to separate the image communication platform from the Briefcase-Triage SW. The
+subject device consists of only the algorithm analysis module which can be integrated with image
+communication platforms that meet the Briefcase-Triage input and output requirements.
+Both the primary predicate and subject devices are radiological computer-aided triage and
+notification software programs. Both devices are artificial intelligence, deep-learning algorithms
+incorporated in software packages for use with DICOM compliant CT scanners, PACS, and radiology
+workstations.
+Both devices are intended to aid in triage and prioritization of radiological images and utilize the
+same design of deep learning algorithm trained on medical images. Both devices are intended to
+provide the specialists with notifications and unannotated, compressed, low-quality, and grayscale
+preview images of suspect studies for the purpose of preemptive triage.
+The subject and predicate Briefcase-Triage devices raise the same types of safety and effectiveness
+questions, namely, accurate triage of findings within the processed study. It is important to note that,
+like the predicate, the subject device neither removes cases from the standard of care reading
+queue nor de-prioritized cases. Both devices operate in parallel with the standard of care, which
+remains the default option for all cases. A table comparing the key features of the subject and the
+2primary predicate devices is provided below.
+Table 1. Key Feature Comparison
+Predicate Device Subject Device
+Aidoc Briefcase-Triage for PE Aidoc Briefcase-Triage for PE
+(K222277)
+Intended Use / BriefCase is a radiological computer Briefcase-Triage is a radiological
+Indications for aided triage and notification software computer- aided triage and notification
+Use indicated for use in the analysis of software indicated for use in the analysis
+CTPA images in adults or transitional of CTPA images, in adults or transitional
+adolescents aged 18 and older. The adolescents aged 18 and older. The
+device is intended to assist hospital device is intended to assist hospital
+networks and appropriately trained networks and appropriately trained
+medical specialists in workflow triage medical specialists in workflow triage by
+by flagging and communication of flagging and communicating suspected
+suspected positive findings of positive cases of Pulmonary Embolism
+Pulmonary Embolism (PE) (PE) pathologies.
+pathologies.
+Briefcase-Triage uses an artificial
+intelligence algorithm to analyze images
+BriefCase uses an artificial
+and highlight cases with detected findings
+intelligence algorithm to analyze
+in parallel to the ongoing standard of care
+images and highlight cases with
+image interpretation. The user is
+detected findings on a standalone
+presented with notifications for cases with
+desktop application in parallel to the
+suspected findings. Notifications include
+ongoing standard of care image
+compressed preview images that are
+interpretation. The user is presented
+meant for informational purposes only,
+with notifications for cases with
+and not intended for diagnostic use
+suspected PE findings. Notifications
+beyond notification. The device does not
+include compressed preview images
+alter the original medical image and is not
+that are meant for informational
+intended to be used as a diagnostic
+purposes only and not intended for
+device.
+diagnostic use beyond notification.
+The device does not alter the original The results of Briefcase-Triage are
+medical image and is not intended to intended to be used in conjunction with
+be used as a diagnostic device. other patient information and based on
+their professional judgment, to assist with
+triage/prioritization of medical images.
+The results of BriefCase are intended
+Notified clinicians are responsible for
+to be used in conjunction with other
+viewing full images per the standard of
+patient information and based on their
+care.
+professional judgment, to assist with
+triage/prioritization of medical images.
+Notified clinicians are responsible for
+3Predicate Device Subject Device
+Aidoc Briefcase-Triage for PE Aidoc Briefcase-Triage for PE
+(K222277)
+viewing full images per the standard of
+care.
+User
+Hospital networks and appropriately Hospital networks and appropriately
+population
+trained medical specialists trained medical specialists
+Anatomical Chest Chest
+region of
+interest
+Data CTPA CTPA
+acquisition
+protocol
+Notification-onl Yes Yes
+y (/notification
+alerts), parallel
+workflow tool
+Images DICOM DICOM
+format
+Interference No. No cases are removed from No. No cases are removed from
+with standard
+desktop app or deprioritized desktop app or deprioritized
+workflow
+Inclusion/ Inclusion criteria Inclusion criteria
+Exclusion ● CTPA protocols. ● CTPA protocols.
+criteria for
+● Single Energy or Dual Energy ● Single Energy or Dual Energy exams
+clinical
+exams
+● Performed on CT scanners with 64
+performance
+● Performed on CT scanners with or greater number of detectors
+testing
+64 or greater number of detectors
+● Scans performed on
+● Scans performed on adults/transitional adults ≥ 18 years
+adults/transitional adults ≥ 18 of age
+years of age
+● Slice thickness; 0.5 mm to 3.0 mm
+● Slice thickness; 0.5 mm to 3.0 mm axial slices
+axial slices
+4Predicate Device Subject Device
+Aidoc Briefcase-Triage for PE Aidoc Briefcase-Triage for PE
+(K222277)
+Exclusion Criteria Exclusion Criteria
+● All studies that are technically ● All studies that are technically
+inadequate, including studies with inadequate, including studies with
+motion artifacts, severe metal motion artifacts, severe metal
+artifacts, sub-optimal bolus timing artifacts, sub-optimal bolus timing
+or an inadequate field of view. or an inadequate field of view.
+Algorithm Artificial intelligence algorithm with Artificial intelligence algorithm with
+database of images. database of images.
+Structure - AHS module ( image acquisition); - Integrated with image routing module via
+image communication platform (ICP)
+- ACS module (image processing);
+(image acquisition).
+- Aidoc Desktop Application for
+- Algorithm module (image processing)
+workflow integration
+(Feed/Worklist (alternate names) - Integrated with desktop application for
+and non-diagnostic Image workflow integration (feed and
+Viewer). non-diagnostic Image Viewer).
+Performance Data
+Pivotal Study Summary
+Aidoc conducted a retrospective, blinded, multicenter study with the Briefcase-Triage software to
+evaluate the software’s performance in identifying CTPA images containing Pulmonary Embolism
+(PE) in 499 cases from 6 US-based clinical sites, compared to the ground truth as determined by
+three senior board-certified radiologists. The cases collected for the pivotal dataset were all distinct
+in time or center from the cases used to train the algorithm, as was used for the most recent
+clearance (K222277). Test pivotal study data was sequestered from algorithm development
+activities, and use of the data is managed by appropriate Quality Management System procedure s.
+Primary endpoints were sensitivity and specificity with an 80% performance goal. Secondary
+endpoints were Briefcase-Triage time-to-notification compared to the predicate device. Positive
+Predictive Value (PPV), Negative Predictive Value (NPV), Positive Likelihood Ratio (PLR), and
+Negative Likelihood Ratio (NLR) were also assessed.
+Primary Endpoint
+Sensitivity and specificity exceeded the 80% performance goal. Sensitivity was 94.39% (95% CI:
+90.41%, 97.07%) and Specificity was 94.39% (95% CI: 91.04%, 96.67%).
+5Secondary Endpoint
+In addition, the time-to-notification metric observed for the Briefcase-Triage software, when
+integrated with a compatible image communication platform, was compared to the equivalent metric
+of the predicate devices. The Briefcase-Triage time-to-notification includes the time to get the
+DICOM exam, de-identify it, upload it to the cloud, analyze and send a notification on a positive
+suspect case back to the desktop application.
+The Briefcase-Triage time-to-notification was measured for all True Positive cases (i.e., identified as
+positive both by the reviewers as well as the Briefcase-Triage device) and is given in Table 2 below.
+The Table also displays the same metric reported for the predicate Briefcase-Triage PE.
+The time-to-notification results obtained for the subject Briefcase-Triage device show comparability
+with the primary predicate with regard to time savings to the standard of care review. The
+Briefcase-Triage mean time-to-notification for the subject PE triage was 26.42 seconds (95% CI:
+25.3-27.54). The time-to-notification for the predicate PE was 78 seconds (95% CI 73.6-82.3).
+Table 2. Time-to- notification comparison for Briefcase-Triage devices (Seconds)
+Time -to-notification Mean N 95% Lower 95% Upper Median IQR
+Estimate CL CL
+(seconds)
+78.0 499 73.6 82.3 64.5 53.2
+Predicate K222277
+Processing Time
+26.42 499 25.3 27.54 23.81 14.74
+Briefcase-Triage +
+Image
+Communication
+Platform
+Time-To-Notification
+NPV was 98.96% (95% CI: 98.21%- 99.4%) and PPV was 74.79% (95% CI: 64.80%- 82.7%).
+PLR was 16.81 (95% CI: 10.43- 27.09) and NLR was 0.059 (95% CI: 0.034- 0.103).
+Thus, the reported similar time-to-notification data demonstrates that when using the subject
+Briefcase-Triage for PE the clinician may have the same benefit in time saving as with the predicate
+Briefcase-Triage for PE.
+As can be seen in Table 3 the mean age of patients whose scans were reviewed for PE was 62.1
+years, with a standard deviation of 17.3 years. Gender distribution was 48% male, and 51% female
+( T able 4 ). Scanner distribution can also be found in Table 5 below.
+6Table 3. Descriptive Statistics for Age
+Mean Std Min Median Max N
+Age
+(Years) 62.1 17.3 18 64 90 499
+Table 4. Frequency Distribution of Gender *
+Gender
+Ground Truth
+Female Male All
+Results
+N % N % N %
+Positive 100 20.0% 113 22.6% 213 42.6%
+Negative 154 30.8% 127 25.4% 281 56.2%
+All 254 50.8% 240 48.0% 494 98.8%
+* 5 cases were unknown for gender, 4 negative and 1 positive.
+* 1 case was excluded
+Table 5. Frequency Distribution of Manufacturer
+Manufacturer N %
+SIEMENS 201 40.3%
+GE 100 20.0%
+Canon 99 19.8%
+Philips 99 19.8%
+Total 499 100%
+Clinical Subgroups and Confounders:
+Pathologies present in negative cases: Fully negative; Heart & vascular; Chronic Lung diseases;
+Inflammatory; Trauma; Oncology and None of the above.
+Additional Operating Points:
+7In addition to the default operating point that was selected to maximize both sensitivity and
+specificity, four additional operating points (AOP) were selected to maximize specificity or sensitivity
+while maintaining a lower bound 95% confidence interval of 80% for sensitivity and specificity
+respectively:
+AOP1 :
+Sensitivity was 99.53% (95% CI: 97.42%- 99.99%) and Specificity was 86.67% (95% CI:
+82.16%-90.39%).
+AOP2 :
+Sensitivity was 97.66% (95% CI: 94.63%-99.24%) and Specificity was 91.93% (95% CI:
+88.14%-94.82%.
+AOP3 : Sensitivity was 91.59% (95% CI: 87.03%- 94.94%) and Specificity was 96.49% (95% CI:
+93.64%-98.3%).
+AOP4 : Sensitivity was 85.98% (95% CI: 80.6%-90.34%) and Specificity was 98.25% (95% CI:
+95.95%-99.43%).
+In summary, performance goals were achieved for the default and four additional operating points.
+Combined with the comparison results of time-to-notification metric with the predicate device, these
+data establish the achievement by the subject Briefcase-Triage of preemptive triage in the range of
+several minutes.
+Conclusions
+The subject Briefcase-Triage for PE and the predicate Briefcase-Triage for PE (K222277) are
+intended to aid in prioritization and triage of radiological images for the indications for suspected
+positive findings of Pulmonary Embolism (PE) pathologies. Both devices are software packages
+consisting of deep learning AI algorithms that process images and produce analysis results, which
+are displayed to the user by a prioritization alert and a compressed, low-quality, grayscale,
+unannotated preview image. In both devices, the labeling clearly states that the devices are not for
+diagnostic use and instructs the user to further evaluate and diagnose based only on the original
+images in the local PACS.
+Both devices operate in parallel to the standard of care workflow in the sense that they do not
+change the original image, do not provide any marking on the output preview, do not remove images
+from the standard of care FIFO queue and do not de-prioritize cases, thus not disturbing standard
+interpretation of the images. Both devices notify the radiologist of time-sensitive critical cases within
+the range of several minutes, and thus contribute similarly to the standard of care workflow
+turnaround time reduction through preemptive triage.
+The subject Briefcase-Triage device for PE is thus substantially equivalent to the primary predicate
+Briefcase-Triage for PE (K222277).
+8

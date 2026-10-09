@@ -1,0 +1,319 @@
+DE NOVO CLASSIFICATION REQUEST FOR
+ACUMEN HYPOTENSION PREDICTION INDEX FEATURE SOFTWARE
+REGULATORY INFORMATION
+FDA identifies this generic type of device as:
+Adjunctive predictive cardiovascular indicator. The adjunctive predictive
+cardiovascular indicator is a prescription device that uses software algorithms to analyze
+cardiovascular vital signs and predict future cardiovascular status or events. This device
+is intended for adjunctive use with other physical vital sign parameters and patient
+information and is not intended to independently direct therapy.
+NEW REGULATION NUMBER: 21 CFR 870.2210
+CLASSIFICATION: II
+PRODUCT CODE: QAQ
+BACKGROUND
+DEVICE NAME: Acumen Hypotension Prediction Index (HPI) Feature Software
+SUBMISSION NUMBER: DEN160044
+DATE OF DE NOVO: September 26, 2016
+CONTACT: Edwards Lifesciences LLC
+One Edwards Way
+Irvine, CA 92614
+INDICATIONS FOR USE
+The Edwards Lifesciences Acumen Hypotension Prediction Index (HPI) feature provides the
+clinician with physiological insight into a patient’s likelihood of future hypotensive events
+(defined as mean arterial pressure < 65 mmHg for at least one minute in duration) and the
+associated hemodynamics. The Acumen HPI feature is intended for use in operating room (OR)
+patients receiving advanced hemodynamic monitoring. The Acumen HPI feature is considered to
+be additional quantitative information regarding the patient’s physiological condition for
+reference only and no therapeutic decisions should be made based solely on the Hypotension
+Prediction Index (HPI) parameter.
+LIMITATIONS
+The sale, distribution, and use of the Acumen Hypotension Prediction Index Feature are
+restricted to prescription use in accordance with 21 CFR § 801.109.
+De Novo Summary (DEN160044) Page 1 of 14Inaccurate FloTrac/Cardiac Output (FT-CO) measurements can be caused by factors such as:
+x Improperly zeroed and/or leveled sensor/transducer
+x Over- or under-damped pressure lines
+x Excessive variations in blood pressure. Some conditions that cause BP variations include,
+but are not limited to:
+o Intra-aortic balloon pumps
+x Any clinical situation where the arterial pressure is deemed inaccurate or not
+representative of aortic pressure, including but not limited to:
+o Extreme peripheral vasoconstriction which results in a compromised radial
+arterial pressure waveform
+o Hyperdynamic conditions as seen in post liver transplant
+x Excessive patient movement
+x Electrocautery or electrosurgical unit interference
+x Aortic valve regurgitation may cause an over estimation of Stroke Volume / Cardiac
+Output calculated depending on the amount of valvular disease and the volume lost
+back into the left ventricle.
+The Hypotension Prediction Index, HPI, should not be used exclusively to treat the patients. A
+review of the patient’s hemodynamics is recommended prior to initiating treatment.
+Exercise caution when using dP/dt in patients with severe aortic stenosis, since the stenosis may
+reduce the coupling between the left ventricle and the afterload.
+PLEASE REFER TO THE LABELING FOR A MORE COMPLETE LIST OF WARNINGS,
+PRECAUTIONS AND CONTRAINDICATIONS.
+De Novo Summary (DEN160044) Page 2 of 14DEVICE DESCRIPTION
+The Acumen Hypotension Prediction Index Feature (“the device”) consists of software running
+on the Edwards Lifesciences EV1000 Platform (previously cleared under K100709, K110597,
+K131892, K140312, and K160552) paired with the FloTrac IQ extravascular blood pressure
+transducer (K152980) and a radial arterial catheter. The device includes the Hypotension
+Prediction Index (HPI), the Dynamic Arterial Elastance Parameter (Ea ), the Left Ventricular
+dyn
+Contractility Parameter (dP/dt), and additional graphical user interface features.
+HPI is an index related to the likelihood of a patient experiencing a hypotensive event (defined as
+mean arterial pressure (MAP) <65 mmHg for one minute in duration) within fifteen minutes,
+where zero (0) indicates low likelihood and one hundred (100) indicates high likelihood. The
+EV1000 Platform initiates a high priority alarm (red) when HPI exceeds 85. The Hypotension
+Prediction Index, HPI, should not be used exclusively to treat the patients. A review of the
+patient’s hemodynamics is recommended prior to initiating treatment.
+HPI is not defined by a single equation. HPI uses features extracted from FloTrac IQ
+measurements, some compared to an initial base value determined over the first 10 minutes of
+the patient monitoring session, to a data-driven model developed from retrospective analysis of
+an arterial waveform database collected from ICU and OR patients containing annotated
+hypotensive (defined as MAP <65 mmHG for at least 1 minute) and non-hypotensive events.
+The sensitivity, specificity, and area under the receiver operating characteristic for the first
+database of 52 subjects were 83.7%, 99.8%, and 0.95 respectively. The sensitivity, specificity,
+and area under the receiver operating characteristic for the second database of 204 subjects were
+65.8%, 99.4%, and 0.88 respectively.
+The accuracy of the presented measurements are based on several factors: the arterial line is
+reliable (not damped), the pressure sensor is well aligned and the arterial line zeroed properly is
+connected to the device, and patient demographics (age, gender, height, and weight) have been
+entered into the device. Usability testing demonstrated that users recognize that HPI is an
+adjunctive parameter.
+Ea is a physiologic parameter related to left ventricular afterload relative to the left ventricular
+dyn
+elastance. It is calculated by dividing Pulse Pressure Variation (PPV) by Stroke Volume
+Variation (SVV), or Ea = PPV/SVV.
+dyn
+dP/dt is a physiologic parameter related to the change in contractility of the left ventricle. It is
+calculated as the maximal first derivative of the arterial pressure waveform with respect to time.
+Additional graphical user interface features include the HPI High Alert Popup, which displays
+when HPI exceeds 85 for two consecutive 20-second updates or reaches 100 at any time, and the
+HPI Secondary Screen, which consolidates hemodynamic parameters into a single screen.
+De Novo Summary (DEN160044) Page 3 of 14Figure 1: (top, left) HPI displayed as a Key Parameter; (bottom, left) HPI High Alert Popup;
+(right) HPI Secondary Screen
+SUMMARY OF NONCLINICAL/BENCH STUDIES
+ELECTROMAGNETIC COMPATIBILITY AND ELECTRICAL SAFETY
+The device is a software feature installed on the EV1000 Platform. The EV1000 Platform
+conforms with FDA-recognized standards for basic safety and essential performance of
+Medical Electrical Equipment. These standards include:
+x IEC 60601-1:2005 + CORR. 1 (2006) + CORR. 2 (2007) with report of US National
+Differences - Medical Electrical Equipment, Part 1: General requirements for basic
+safety and essential performance
+x IEC 60601-1-2:2007 -Medical Electrical Equipment, Part 1-2: General requirements
+for safety – Collateral Standard: Electromagnetic compatibility – Requirements and
+tests.
+x IEC 60601-1-6:2010 -Medical Electrical Equipment, Part 1-6: General requirements
+for safety and essential performance – Collateral Standard: Usability.
+x IEC 62366:2007 - Medical Devices – Application of usability engineering to medical
+devices.
+x IEC 60601-1-8:2006 -Medical Electrical Equipment, Part 1-8: General requirements
+De Novo Summary (DEN160044) Page 4 of 14for basic safety and essential performance – Collateral Standard: General
+requirements, tests, and guidance for alarm systems in medical electrical equipment
+and medical electrical systems.
+x IEC 60601-2-49:2011 -Medical electrical equipment Part 2-49: Particular
+requirements for the basic safety and essential performance of multifunction patient
+monitoring equipment
+x IEC 60068-2-13:1985 -Basic environmental testing procedures - Part 2-13: Tests -
+Test M: Low air pressure
+Electromagnetic compatibility information was provided in accordance with the FDA
+Guidance Document, “Information to Support a Claim of Electromagnetic Compatibility
+(EMC) of Electrically-Powered Medical Devices – Guidance for Industry and Food and
+Drug Administration Staff” (issued July 11, 2016).
+SOFTWARE
+Software documentation was provided in accordance with the FDA Guidance Document,
+“Guidance for the Content of Premarket Submissions for Software Contained in Medical
+Devices,” (issued May 11, 2005) for a Moderate Level of Concern (LOC). A Moderate
+LOC is deemed appropriate as malfunction of the device software or a latent design flaw
+in the device software may lead to an erroneous diagnosis or a delay in the delivery of
+appropriate medical care, which would likely result in minor injury but would likely not
+result in serious injury or death due to the availability of other patient vital signs.
+Regression testing was performed to demonstrate that the device software does not
+adversely impact the performance of the cleared EV1000 Platform.
+Translation testing was performed to demonstrate that movement of the device software
+from the development environment to the EV1000 Platform does not adversely impact
+the intended performance of the EV1000 Platform.
+Algorithm unit testing was performed to demonstrate that the device software meets its
+software requirements. This testing was performed using publicly available and privately
+collected patient data. Additional details are provided in the “Summary of Clinical
+Information” section.
+Cybersecurity information was provided in accordance with the FDA Guidance
+Document, “Content of Premarket Submissions for Management of Cybersecurity in
+Medical Devices – Guidance for Industry and Food and Drug Administration Staff”
+(issued October 02, 2014).
+USABILITY TESTING
+Usability testing was necessary to mitigate the risk of delayed or incorrect treatment due
+De Novo Summary (DEN160044) Page 5 of 14to user misinterpretation or overreliance on the indicator. Test reports were provided in
+accordance with the FDA Guidance Document, “Applying Human Factors and Usability
+Engineering to Medical Devices – Guidance for Industry and Food and Drug
+Administration Staff” (issued February 02, 2016). Fifteen (15) clinical participants,
+including anesthesiologists, intensivists, Certified Registered Nurse Anesthetists
+(CRNAs), and Intensive Care Unit (ICU) nurses participated in the testing. Testing was
+performed in a simulated use environment using a sequence of tasks, including
+monitoring initiation, configuration of the screen, response to high alert, and end of case.
+Specifically, users were assessed for the understanding that after a high HPI result, other
+physiologic parameters should be considered before taking clinical action. Interview
+questions were administered to assess user understanding of the monitor features and the
+meaning of a different HPI values. At least 80% of participants met the acceptance
+criteria of agree or strongly agree for all items, including when separating subjects by
+clinical profession and years of experience.
+PERFORMANCE TESTING –ANIMAL
+Device performance was evaluated in five swine using a hemorrhagic model and a
+vasodilation model. In the hemorrhagic model, swine were bled by venous catheter
+insertion at 5-20 cc/min after baseline stabilization was established, then held at a
+MAP of 60 mm/hg for 15 minutes. In the vasodilation model, swine at a MAP of 85
+mm/hg were slowly administered nitroprusside (NTP) to reduce MAP to less than 65
+mm/hg for 15 minutes. Device outputs (HPI, Ea , and dP/dt) were recorded during
+dyn
+execution of both models. The device outputs were compared to animal status and
+proposed Indications for Use.
+De Novo Summary (DEN160044) Page 6 of 14SUMMARY OF CLINICAL INFORMATION
+Clinical validation of the HPI index used both publicly and privately collected data. Data utilized
+in the validation of the HPI Algorithm originated from two databases. The first database, the
+Edwards Lifesciences database, has archived data that were all collected via prospective, IRB/EC
+approved clinical protocols with informed consent for each patient. This database archive
+contains acute care OR patients (N=52) with wide ranges of procedures and with various acute
+conditions collected from global clinical sites. The patient data used for validation were all
+collected via prospective protocols. The second database came from a university hospital and
+included OR patients (n=204). The sensitivity, specificity, and area under the receiver operating
+characteristic for the first database were 83.7%, 99.8%, and 0.95 respectively. The sensitivity,
+specificity, and area under the receiver operating characteristic for the second database were
+65.8%, 99.4%, and 0.88 respectively.
+Pediatric Extrapolation
+In this De Novo request, existing clinical data were not leveraged to support the use of the device
+in a pediatric patient population.
+LABELING
+The labeling includes the following elements:
+a. A description of what the device measures and outputs to the user;
+“Acumen Hypotension Prediction Index (HPI) software, when active and when using
+a FloTrac IQ sensor, connected to a radial arterial catheter, provides the clinician with
+information regarding the likelihood of a patient trending toward a hypotensive vent,
+defined as mean arterial pressure (MAP) < 65 mmHg for at least one minute.”
+“HPI uses features extracted from FloTrac IQ measurements, some compared to an
+initial base value determined over the first 10 minutes of the patient monitoring
+session, to a data-driven model developed from retrospective analysis of an arterial
+waveform database collected from ICU and OR patients containing annotated
+hypotensive (defined as MAP <65 mmHG for at least 1 minute) and non-hypotensive
+events. HPI is displayed as an integer value between 0 and 100.”
+b. Warnings identifying sensor acquisition factors that may impact measurement results;
+De Novo Summary (DEN160044) Page 7 of 14“The accuracy of the presented measurements are based on several factors: the
+arterial line is reliable (not damped), the pressure sensor is well aligned and the
+arterial line zeroed properly is connected to the device, and patient demographics
+(age, gender, height, and weight) have been entered into the device.”
+c. Guidance for interpretation of the measurements, including a statement that the
+output is adjunctive to other physical vital sign parameters and patient information;
+De Novo Summary (DEN160044) Page 8 of 14“The Hypotension Prediction Index, HPI, should not be used exclusively to treat the
+patients. A review of the patient’s hemodynamics is recommended prior to initiating
+treatment.”
+“The Acumen HPI feature is considered to be additional quantitative information
+regarding the patient’s physiological condition for reference only and no therapeutic
+decisions should be made based solely on the Hypotension Prediction Index (HPI)
+parameter.”
+d. A specific time or a range of times before the predicted patient status or clinical event
+occurs, accounting for differences in patient condition and environment;
+“Patient has a high likelihood of experiencing a hypotensive event within 15 minutes”
+e. Key assumptions made during calculation of the output;
+“The HPI parameter uses data from the first ten minutes of monitoring to establish a
+‘base value’. Device performance during these first ten minutes may differ as a
+result.”
+De Novo Summary (DEN160044) Page 9 of 14f. The type(s) of sensor data used, including specification of compatible sensors for data
+acquisition;
+“Acumen Hypotension Prediction Index (HPI) software, when active and when using
+a FloTrac IQ sensor, connected to a radial arterial catheter, provides the clinician with
+information regarding the likelihood of a patient trending toward a hypotensive vent,
+defined as mean arterial pressure (MAP) < 65 mmHg for at least one minute.”
+g. The expected performance of the device for all intended use populations and
+environments; and
+“The Acumen HPI feature is intended for use in OR patients receiving advanced
+hemodynamic monitoring.”
+De Novo Summary (DEN160044) Page 10 of 14h. Relevant characteristics of the patients studied in the clinical validation (e.g., age,
+gender, race/ethnicity, patient condition) and a summary of validation results
+De Novo Summary (DEN160044) Page 11 of 14RISKS TO HEALTH
+The table below identifies the risks to health that may be associated with use of the adjunctive
+predictive cardiovascular indicator and the measures necessary to mitigate these risks.
+Identified Risk Mitigation Measures
+Delayed or incorrect treatment due to Software verification, validation, and
+erroneous device output resulting from hazard analysis
+software malfunction or algorithm error Non-clinical performance testing
+Clinical performance testing
+Labeling
+Delayed or incorrect treatment due to Usability assessment
+user misinterpretation or overreliance on Labeling
+indicator
+SPECIAL CONTROLS
+In combination with the general controls of the FD&C Act, the adjunctive predictive
+cardiovascular indicator is subject to the following special controls:
+1. A software description and the results of verification and validation testing based on a
+comprehensive hazard analysis and risk assessment must be provided, including:
+a. A full characterization of the software technical parameters, including algorithms;
+b. A description of the expected impact of all applicable sensor acquisition hardware
+characteristics and associated hardware specifications;
+c. A description of sensor data quality control measures;
+d. A description of all mitigations for user error or failure of any subsystem
+components (including signal detection, signal analysis, data display, and storage)
+on output accuracy;
+e. A description of the expected time to patient status or clinical event for all
+expected outputs, accounting for differences in patient condition and
+environment; and
+f. The sensitivity, specificity, positive predictive value, and negative predictive
+value in both percentage and number form.
+2. A scientific justification for the validity of the predictive cardiovascular indicator
+algorithm(s) must be provided. This justification must include verification of the
+algorithm calculations and validation using an independent data set.
+3. A human factors and usability engineering assessment must be provided that evaluates
+the risk of misinterpretation of device output.
+De Novo Summary (DEN160044) Page 12 of 144. A clinical data assessment must be provided. This assessment must fulfill the following:
+a. The assessment must include a summary of the clinical data used, including
+source, patient demographics, and any techniques used for annotating and
+separating the data.
+b. The clinical data must be representative of the intended use population for the
+device. Any selection criteria or sample limitations must be fully described and
+justified.
+c. The assessment must demonstrate output consistency using the expected range of
+data sources and data quality encountered in the intended use population and
+environment.
+d. The assessment must evaluate how the device output correlates with the predicted
+event or status.
+5. Labeling must include:
+a. A description of what the device measures and outputs to the user;
+b. Warnings identifying sensor acquisition factors that may impact measurement
+results;
+c. Guidance for interpretation of the measurements, including a statement that the
+output is adjunctive to other physical vital sign parameters and patient
+information;
+d. A specific time or a range of times before the predicted patient status or clinical
+event occurs, accounting for differences in patient condition and environment;
+e. Key assumptions made during calculation of the output;
+f. The type(s) of sensor data used, including specification of compatible sensors for
+data acquisition;
+g. The expected performance of the device for all intended use populations and
+environments; and
+h. Relevant characteristics of the patients studied in the clinical validation (including
+age, gender, race or ethnicity, and patient condition) and a summary of validation
+results.
+BENEFIT/RISK DETERMINATION
+The risks of the device are based on nonclinical laboratory and animal studies, as well as
+retrospective clinical data as described above. The primary risk would be fluid overload or
+subsequent treatment with vasopressor based on a false positive HPI reading when the
+anesthesiologist is only relying on that single reading.
+The probable benefits of the device are also based on nonclinical laboratory and animal studies,
+as well as retrospective clinical data as described above. The primary benefit of the HPI software
+is that it provides the physician with a predictive score that the patient may be trending toward a
+hypotensive event (defined as Mean Arterial Pressure < 65 mmHg for at least one minute in
+duration). For most patients, increased awareness to the increased risk for a hypotensive event
+De Novo Summary (DEN160044) Page 13 of 14may help prevent a hemodynamic deterioration by first diagnosing the underlying dysfunction
+and then treating it.
+Patient Perspectives
+This submission did not include specific information on patient perspectives for this device.
+Benefit/Risk Conclusion
+In conclusion, given the available information summarized above, the data support that for the
+intended use specified above, the probable benefits outweigh the probable risks for the Acumen
+Hypotension Prediction Index Feature Software. The device provides benefits and the risks can be
+mitigated by the use of general controls and the identified special controls.
+CONCLUSION
+The De Novo request for the Acumen Hypotension Prediction Index Feature Software is granted
+and the device is classified under the following:
+Product Code: QAQ
+Device Type: Adjunctive predictive cardiovascular indicator
+Class: II
+Regulation: 21 CFR 870.2210
+De Novo Summary (DEN160044) Page 14 of 14

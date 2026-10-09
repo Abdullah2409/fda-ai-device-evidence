@@ -1,0 +1,204 @@
+March 14, 2022
+Arterys Inc.
+℅ Marina Codari
+Head of Clinical Evidence
+51 Federal Street, Suite 305
+SAN FRANCISCO CA 94107
+Re: K203744
+Trade/Device Name: Arterys MICA
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH, LLZ
+Dated: February 8, 2022
+Received: February 11, 2022
+Dear Marina Codari:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.32
+Silver Spring, MD 20993
+www.fda.govK203744 - Marina Codari Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Laurel Burk, Ph.D.
+Assistant Director
+Diagnostic X-ray Systems Team
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureTraditional 510(k) Premarket
+Notification
+for
+Arterys® MICA
+K203744/S002
+Arterys Inc.
+2100 Fillmore Street #100, San
+Francisco, CA 94115, U.S.A
+Arterys Inc., Traditional 510(k)Section 5. 510(k) Summary
+Arterys Inc., Traditional 510(k)510(k) Summary
+1. General Information
+Date Prepared:December 17, 2020
+Date Updated: March 08, 2022
+Submitter Information
+Company Name Arterys Inc.
+Company Address 2100 Fillmore Street #100, San
+Francisco, CA 94115, U.S.A
+Contact Person John Axerio-Cilies
+CEO and CTO
+Contact Information Email: regulatory@arterys.com
+Phone: 1 (650) 391-7111
+Proposed Device
+Proprietary Name Arterys®MICA
+Common Name Medical image processing software
+Model Number AMM7
+Regulation Number 21 CFR 892.2050 Medical image management and processing system
+Product Code QIH/LLZ
+Regulatory Class II
+Predicate Device
+Predicate Device Arterys®MICA, K192437
+Product Code QIH/LLZ
+Arterys Inc., Traditional 510(k)2. Device Description
+Arterys MICA, already cleared as per the predicate, is adedicatedsoftwareapplicationused as a
+Digital Imaging and Communications in Medicine (DICOM) and non-DICOM information and
+data management system. Pre-existing DICOM images, such as CT or MR, are uploaded into
+Arterys MICA from a PACS or a scanner. Arterys MICA iscompletelyhostedinthecloudandis
+accessed using a compatible web browser bynavigatingtothefollowing https://app.arterys.com.
+Cloud servers are provided by Amazon Web Services (AWS) and service is accessible globally.
+The Viewer AI application of Arterys MICA is designed around a modular architecture of
+separate componentsthatmakeupabasicimageviewer.TheseincludetheStudylist,fromwhich
+studies are selected and opened, the image display (2D, 3D, MIP, etc), view synchronization,
+metadata information, and various navigational, measurement, and other action tools.
+Functionality provided by the Viewer AI is extended by the additional Cardio AI and Oncology
+AI application modules which add support for specificclinical workflows:
+● Cardiac Workflow Module: Evaluates multi-slice and multi-phase velocity-encoded
+cardiovascular magnetic resonance (MR) images to quantify blood flow and ventricular
+function. In addition, perfusion and delayed enhancement datasets are analyzed and
+quantified, and for parametric mapping, T1, T2, and T2* values are obtained to assess
+tissue changes in the myocardium, as well as ECV calculations.
+● Arterys MICA includes an optional OncologyAI modulewhichprovidesanalyticaltools
+to help the user assess and documentchangesinmorphologicalactivityatdiagnosticand
+therapy follow-up examinations. It is a tool used to supporttheoncologicalworkflow by
+helping the user confirm the absence or presence of lesions, including evaluation,
+quantification, follow-up, and documentation of any such lesions.
+Arterys MICA uses many deep learning algorithms to reduce many tedious, time-consuming
+manual steps, such as segmentation, landmark identification, etc. Theresultsof theseAI models
+are available on-screen to the user for furtherreviewandediting.Thesoftwaredoes notperform
+any functions that could not be accomplished by a trained user with a manual method; the
+purpose of the automationistosavetimeandautomatepotentialerror-pronemanualtasks,while
+allowing the results to be reviewed as per the normal clinical workflow.
+NOTE: The clinician retains the ultimate responsibility for makingthepertinentdiagnosisbased
+on their standard practices and visual comparison of images. Arterys MICA software is a
+complement to these standard procedures.
+Arterys Inc., Traditional 510(k)3. Indications for Use
+Indications for Use Statement forArterys MICAisas follows:
+Arterys® MICA software is a medical diagnostic application that displays, processes,
+stores, and transfersDICOM andnon-DICOM medicaldata.Itprovidesthecapabilityto
+store images and patient information, and perform filtering, digital manipulation, and
+quantitative measurements. The client software is designed to run on standard personal
+and business computers and on monitors/screens that meet appropriate technical
+specifications for image diagnosis.
+Arterys MICA includes an optional Cardio AI modulewhichisused toanalyzetheheart
+and its major vessels using multi-slice, multi-phase, and velocity-encoded
+cardiovascular MR images. It provides clinically relevant andreproducible,quantitative
+data, and has been tested and validated on MR images acquired fromboth1.5Tand3.0
+T MR Scanners.
+Arterys MICA includes an optional Oncology AI module which provides analytical
+tools to help the user assess and document changes in morphological activity at
+diagnostic and therapy follow-up examinations. It is a tool used to support the
+oncological workflow by helping the user confirm the absence or presence of lesions,
+including evaluation, quantification, follow-up, and documentation of any such lesions
+Arterys MICA software is intended to be used as a support tool by trained healthcare
+professionals to aidindiagnosis.Itisintendedtoprovideimageandrelatedinformation
+that is interpreted by a trained professional to render findings and/or diagnosis, but it
+does not directly generate any diagnosis or potential findings.
+4. Predicate Device Comparison
+The indications for use of the proposed device Arterys MICA is similar to the predicate device.
+They are intended to be used as a support tool by trained healthcare professionals to aid in
+diagnosis. The devices are intended to provide image and related information that is interpreted
+by a trained professional to render findings and/or diagnosis.
+The indications for use of theproposed deviceconsistsof theindicationsfor use statementof the
+predicate, Arterys MICA (K192437). Thedifferencesintheaddedindicationsfor use aremainly
+due toduplicationwithotherphrases intheexisting ArterysMICA (K192437) indicationsfor use
+statement and don’t raise different questions of safety and effectiveness.
+Arterys Inc., Traditional 510(k)The ability of Viewer AI to display annotations (segmentation, measurements, etc.) was
+expanded to integrate similar outputs of 3rd party models(boundingboxes, heatmaps,etc.).The
+safety and effectiveness of the 3rd party model is covered under the original manufacturer’s
+regulatory clearance; Arterys only displays the simple output.
+The cardiac MRI T1 and T2 workflows were added to the proposed Cardio AI product. The
+workflows and feature lists are in alignment with the SCMR (Society for Cardiovascular
+Magnetic Resonance) Post Processing Consensus Statement (https://scmr.org/page/guidelines).
+The workflows and calculations are based on published industry technical standards and
+peer-reviewed publications, resulting in no different questions of safety and effectiveness.
+The Arterys MICA software has the similar technological characteristics as the predicate device
+and has the same uses and applications as the predicate device. Differences include minor
+incremental updates to some of the existingsoftwarefeaturesfor user experienceimprovements.
+These software changes do not impact safety or efficacy of the device.
+5. Performance Data
+Safety and performance of Arterys MICA has been evaluated and verified in accordance with
+software specifications and applicable performance standards through software verification and
+validation testing. The software verification and validation activities were performedas per IEC
+62304:2006/AC:2015- Medical device software – Software life cycle processes and ISO
+14971:2019 Medicaldevices-- Applicationofrisk managementtomedicaldevices, inadditionto
+the FDA Guidance documents Guidance for the Content of PremarketSubmissions forSoftware
+Contained in Medical Devices and Content of Premarket Submission for Management of
+Cybersecurity in Medical Devices.
+Hundreds of software verification and validation testswererepeatedlyconductedthroughoutthe
+software development effort, with any defects logged andtracedtothefailedtests.Defectswere
+then fixed or were assessed for approval in the released product.
+In our validation assessment, we compared the average T1 and T2 values obtained with the
+Arterys software in delineated regions of interest (ROIs) to the average intensity valueobtained
+in a similar ROI delineated in OEM vendor generated inline maps. The results showed that the
+difference between calculated and expected T1 and T2 values were within predefined accuracy
+requirements (i.e., 30msand4msfor T1andT2values,respectively).T1andT2valuesderived
+with the Arterys software depends on the ROI selected by the user.
+Arterys Inc., Traditional 510(k)In the T1 workflow, endocardial and epicardial contours can be generated using adeeplearning
+model. The generated contours are user-modifiable.Thesecontoursareused toderiveGlobalT1
+values. A standalone performance assessment was performed on 90 Cardiac T1 Mapping MRI
+short axis (SAX) scans from 16 studies. As a result,thedeviceperformedas intendedcompared
+to ground-truth contours.
+6. Conclusion
+Based on the information submitted in this premarket notification, and based on the indications
+for use, technological characteristics and performance testing, Arterys MICA raises no new or
+different questions of safety and effectiveness and is substantially equivalent to the predicate
+device in terms of safety, efficacy and performance.
+Arterys Inc., Traditional 510(k)

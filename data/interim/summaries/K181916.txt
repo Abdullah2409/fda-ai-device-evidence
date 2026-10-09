@@ -1,0 +1,590 @@
+(cid:39)(cid:70)(cid:67)(cid:83)(cid:86)(cid:66)(cid:83)(cid:90)(cid:1)(cid:21)(cid:13)(cid:1)(cid:19)(cid:17)(cid:18)(cid:26)
+Hygieia, Inc
+Robert J Bard
+VP Regulatory Affairs
+28803 8 Mile Rd, Suite 101
+Livonia, Michigan 48152
+Re: K181916
+Trade/Device Name: d-Nav System
+Regulation Number: 21 CFR 868.1890
+Regulation Name: Predictive Pulmonary-Function Value Calculator
+Regulatory Class: Class II
+Product Code: NDC
+Dated: (cid:39)(cid:72)(cid:70)(cid:72)(cid:80)(cid:69)(cid:72)(cid:85)(cid:3)(cid:21)(cid:20)(cid:15)(cid:3)(cid:21)(cid:19)(cid:20)(cid:27)
+Received: (cid:39)(cid:72)(cid:70)(cid:72)(cid:80)(cid:69)(cid:72)(cid:85)(cid:3)(cid:21)(cid:25), 2018
+Dear Robert J Bard:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.03.05
+Silver Spring, MD 20993
+www.fda.govK181916-Robert J Bard Page 2
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+Alan M.
+Stevens -S
+(cid:71)(cid:80)(cid:83) Tina Kiang Ph.D.
+Acting Director
+Division of Anesthesiology,
+General Hospital, Respiratory,
+Infection Control, and Dental Devices
+Office of Device Evaluation
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2020
+Indications for Use
+See PRA Statement below.
+510(k) Number (if known)
+k181916
+Device Name
+d-Nav® System
+Indications for Use (Describe)
+The d-Nav® System calculates the next dose of insulin to aid in optimizing insulin management.
+The d-Nav System contains two user-interactive software elements:
+• The patient user interface software is intended for use by adults with Type 2 diabetes as an aid in optimizing insulin
+management. It resides on a hand-held device, e.g. cellular phone or enabled glucose meter, and is used to enter glucose
+event data and receive a recommended insulin dose.
+• The HCP user interface software tool is intended for use by Health Care Providers (HCPs) to set up the patient software
+for its intended use. Setup consists of entering the physician-prescribed, patient-specific starting insulin dose instructions
+(insulin prescription) and sending the information to the patient user software. Insulin instructions include the treatment
+algorithm (treatment plan), insulin drug, and dose(s).
+The d-Nav System also contains the d-Nav Get-Dose Library that provides the next insulin dose.
+The System can receive glucose measurement data entered manually into the patient user software or automatically via the
+cloud from a linked blood glucose meter. The d-Nav Get-Dose Library Recommend Dose function resides locally on the
+phone while the d-Nav Get-Dose Library Update Insulin Instruction function may reside locally on the phone or be hosted
+in the cloud. Configurations are as follows:
+Model 1: Patient user software resides on a hand-held device and uses manual glucose measurement entry. The Get-Dose
+Library Update Insulin Instruction function resides locally within the device.
+Model 2: Patient user software resides on a hand-held device and uses manual glucose measurement entry. The Get-Dose
+Library Update Insulin Instruction function resides in the cloud.
+Model 3: Patient user software resides on a hand-held device and uses automated glucose measurement entry. The Get-
+Dose Library Update Insulin Instruction function resides locally within the device.
+Model 4: Patient user software resides on a hand-held device and uses automated glucose measurement entry. The Get-
+Dose Library Update Insulin Instruction function resides in the cloud.
+Use of the d-Nav System is limited to Health Care Providers who have been trained by Hygieia or a Hygieia trained
+person on the use of the d-Nav System, including setup of the patient’s Phone App.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+FORM FDA 3881 (7/17) Page 1 of 2
+PSC Publishing Services (301) 443-6740 EFThis section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (7/17) Page 2 of 2Hygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 1 of 14
+510(k) SUMMARY
+This summary of 510(k) safety and effectiveness information is being submitted in accordance
+with the requirements of SMDA 1990 and 21 CFR 807.92
+510(k) Number: K181916
+Date of Summary: February 4, 2019
+Hygieia, Inc.
+Applicant
+28803 8 Mile Rd, Suite 101
+Livonia, MI 48152
+Correspondent: Name: Robert J Bard, JD
+Hygieia, Inc.
+28803 8 Mile Rd, Suite 101
+Livonia, MI 48152
+248-573-5040
+rbard@reglaw.net
+Trade Name d-Nav System Predicate
+K181916
+My Insulin Doser (MID)
+k082512
+Device Calculator, Drug Dose Same
+Classification Name: Predictive pulmonary-function Same
+value calculator.
+Regulation Number Same
+21CFR 868.1890
+Product Code NDC SameHygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 2 of 14
+1.0 DEVICE DESCRIPTION
+The d-Nav System is a software-based, prescription-only product designed to provide the next
+insulin dose recommendation as an aid for personal insulin management. The product
+integrates the Health Care Provider (HCP) prescribed starting insulin dose instructions with
+automated dosing guidance to the patient based on comparing regularly measured blood
+glucose data trends to a device specified target range. The d-Nav System contains two user-
+interactive software elements; the d-Nav Phone App and the d-Nav Website.
+• The Phone App is for use by persons with Type 2 diabetes as an aid in optimizing insulin
+management. The Phone App resides on a cellular phone and is used by the patient to
+enter glucose event data and receive a recommended insulin dose. The blood glucose data
+is obtained from an over-the-counter, cleared Blood Glucose (BG) device and entered into
+the software system either through manual BG data entry using the Phone App keypad or
+via a cloud-pushed mechanism from a linked blood glucose meter. The Phone-App allows
+change in insulin dose recommendations to be sent to the patient without concurrence from
+the prescriber.
+• The d-Nav Website is for use by Health Care Providers that have been trained by Hygieia or
+a Hygieia trained trainer on the use of Phone App and website to set up the patient’s Phone
+App software for its intended use. Setup consists of entering the physician prescribed,
+patient-specific starting insulin dose instructions and sending the information to the intended
+patient’s Phone App. Insulin instructions include the treatment algorithm (treatment plan),
+insulin drug, and dose(s).
+The d-Nav System also contains the d-Nav Get-Dose library that provides the next insulin dose.
+The System can receive glucose measurement data entered manually into the patient user
+software or automatically via the cloud from a linked blood glucose meter. The d-Nav Get-Dose
+Library Recommend Dose function resides locally on the phone while the d-Nav Get-Dose
+Library Update Insulin Instruction function may reside locally on the phone or be hosted in the
+cloud.Hygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 3 of 14
+System Architecture
+The following illustrates the architecture of the d-Nav System. Input into the system is glucose
+data from a glucose meter, either manual or via cloud. The Get-Dose Library is implemented
+either in the cloud or on the phone.
+d-Nav System Server (Cloud Implementation on AWS)
+‐ d-Nav Website
+‐ BGM Connect Webservice
+‐ Communication Webservice
+‐ d-Nav System Database
+‐ d-Nav SAAS Webservices and SAAS
+Database
+‐ d-Nav Get-Dose Library BGM data from cloud
+Manual BG Measurement
+‐ Algorithm Integration Library
+‐ d-Nav Phone App
+‐ Loc al d-Nav Get-Dose Library
+‐ Local Algorithm Integration Library
+‐ Phone App Local Storage
+Figure 1. Distribution of Software Components in the d-Nav System
+The d-Nav System consists of the following hardware components:
+ Mobile Phone: An iOS or Android mobile phone
+ d-Nav System Server: Cloud implementation deployed on Amazon Web Services (AWS)
+The d-Nav System consists of the following software components:
+ d-Nav Website & Webservices: 1) BGM Connect Webservice, 2) Communication Webservice
+ d-Nav System Database
+ d-Nav SAAS Webservices and SAAS Database
+ d-Nav Get-Dose Library
+ Algorithm Integration Library
+ d-Nav Phone AppHygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 4 of 14
+Software System Description
+The following system context diagram depicts the software components and their interaction
+within the d-Nav System. This diagram includes illustration of the four (4) d-Nav System
+Models.
+Figure 2. Components in d-Nav System Context
+Descriptions for the System Context Diagram Components:
+1) d-Nav System Server: The d-Nav System Server is a cloud server implemented and
+deployed on the Amazon AWS S3 server. The Server contains the following software
+components: 1) d-Nav Website (Microsoft IIS), 2) d-Nav System Database (Microsoft SQL
+Server), 3) BGM (Blood Glucose Meter) Connect Webservice, 4) CommunicationHygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 5 of 14
+Webservice and 5) d-Nav SAAS Webservice, and 6) SAAS Database (Microsoft SQL
+Server).
+2) d-Nav Website (Microsoft IIS): The d-Nav Website is utilized by an authorized Health Care
+Provider (HCP) to add a new Phone App user to the d-Nav System, set up their physician-
+prescribed, patient-specific starting insulin dose instructions, and Treatment Plan enable or
+disable a Phone App, and monitor the Phone App user’s insulin and glucose history.
+3) d-Nav System Database: This SQL database is located on the d-Nav System Server. The
+d-Nav System Database contains information regarding the system. The database contains
+1) website user login information, 2) d-Nav Phone App user information, 3) connected BGM
+information including the unique relation to users and the records of BG readings sent to the
+Phone App, 4) records of insulin instructions pushed to the Phone App, 5) records of
+glucose event data received from the users’ Phone App, and 6) insulin instruction updates
+received from the Phone App (generated by Get-Dose Library).
+4) BGM Connect Webservice: This webservice is used to send a BG reading to the d-Nav
+Phone App on the user’s phone. The BG reading is received by the webservice either
+directly from a linked meter or from a BGM manufacturer or other's cloud-based
+infrastructure.
+5) Communication Webservice: This webservice provides an endpoint for the d-Nav Phone
+App to communicate with the d-Nav System Server.
+6) Algorithm Integration Library/d-Nav SAAS Webservice: In the d-Nav System, there are
+two instances of the API that enables the d-Nav Get-Dose Library; 1) Algorithm Integration
+Library in the Phone App and 2) Algorithm Integration Library with the d-Nav SAAS
+Webservice implementation on the d-Nav System Server. Regardless of the deployment
+location in the system, the API functions to utilize the otherwise static/stateless d-Nav Get-
+Dose Library by wrapping it with state and persistence. In the cloud implementation, the d-
+Nav SAAS Webservice, returns all new data values to the Phone App because the Phone
+App needs to be in sync with the server.
+7) SAAS Database: This SQL database is located on the d-Nav System Server. The SAAS
+Database is utilized solely by the d-Nav SAAS Webservice. The database contains
+information specific to the user’s insulin treatment plan but no user personally identifiable
+information (PII). The information stored in the database is 1) Phone App instance unique
+identification values, 2) IDF history including the current insulin instructions and containing
+the selected treatment plan, insulin drug, and dose(s), and 3) the glucose event records with
+glucose data, event names, carbs (if applicable), recommended and recorded dose, and
+timestamp for each record.
+8) d-Nav Get-Dose Library: Upon receiving a request from the Phone App, the library
+calculates a new recommended insulin dose or updates current insulin instructions based onHygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 6 of 14
+glucose readings, user’s current insulin instructions, and history of events and instructions
+saved in the SAAS Database or Phone App Local Storage (based on system configuration,
+cloud or local).
+9) d-Nav Phone App: When the system operation is configured for local usage, the Phone
+App passes the glucose event data (glucose reading, event type, carb, dose, and
+timestamp) to the Algorithm Integration Library through a class level function call to request
+a new recommended dose or update the existing instruction instructions. When the system
+is configured for cloud server usage, the Phone App call to the d-Nav System Server (to
+pass a new glucose event data) becomes a REST API1 request, sent through the internet
+via a secure SSL connection. This request is received by the d-Nav SAAS Webservice.
+10)Phone App Local Storage: This SQLite database is located on the mobile phone. The
+Phone App Local Storage is utilized solely by the Algorithm Integration Library in the Phone
+App. The database contains information specific to the user’s insulin treatment plan but no
+user PII. The information stored in the database is 1) Phone App instance unique
+identification values, 2) IDF history including the current insulin instructions and containing
+the selected treatment plan, insulin drug, and dose(s), and 3) the glucose event records with
+glucose data, event names, carbs (if applicable), recommended and recorded dose, and
+timestamp for each record.
+2.0 SUBSTANTIALLY EQUIVALENT
+The Hygieia d-Nav System is substantially equivalent to the following Dose Calculator device.
+Table 1: Predicate Product
+Manufacturer and Product Cleared Predicate Product Regulatory Information
+Dimensional Dosing Systems, Inc. K Number: k082512
+My Insulin Doser (MID)/ Intelligent Dosing ProCode: NDC
+System (IDS) Regulation Number: 21 CFR 868.1890
+1 Representational State Transfer (REST) Application Program Interface (API)Hygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 7 of 14
+Table 2: Comparison of device under review and its predicates
+ATTRIBUTE PREDICATE SUBJECT DEVICE
+My Insulin Doser (MID)/
+1 Device name d-Nav System
+Intelligent Dosing System (IDS)
+2 Device Description Insulin Dose Calculator Same
+ Health Care Provider (HCP)
+3 Target population Same
+ Patients with diabetes
+ HCP – in professional setting
+4 Where used Same
+ Patient – at home or mobile
+ Single dose for dose decreases
+Dose calculator
+ Average response to similarly timed
+5 algorithm design Response-to-dose single dose
+dose over a 1-week period for both
+principle
+increases and decreases
+UI- containing System  HCP SW: IDS  HCP SW: Website
+6
+components  Patient SW: MID  Patient SW: Phone App
+HCP: Website via PC
+7 Platforms Web, PC, or Palm Pilot
+Patient: iOS, Android Smartphones
+HCP inputs are entered using the web- HCP inputs are entered using the
+8 HCP input process
+based IDS or PC Website through PC
+ Single Insulin dose  Insulin dose(s) based on Treatment
+ Desired (Glucose Target) Level Plan
+determine by prescriber  Basal
+ Twice daily mixed insulin
+ Basal-bolus
+ Current response (e.g. current  Basal-bolus with carbohydrate
+glucose level) counting
+ Insulin drug selection  Treatment Plan each with fixed target
+12 drugs available: glucose
+o Humalog  Starting insulin sensitivity factor (for
+o Humalog mix 75/25 basal-bolus plans)
+o Humulin 50/50  Starting insulin to carbohydrate ratio
+o Humulin 70/30 (for basal-bolus plan with carbohydrate
+o Insulin counting)
+o Lantus
+9 HCP inputs o Lente  Insulin drug selection
+o Levemir 11 drugs available:
+o Novolin 70/30 o Lantus
+o Novolog mix 70/30 o Basaglar
+o NPH o Tresiba
+o Regular (R) o Toujeo
+o Humalog
+o NovoLog
+o Apidra
+o Humalog Mix 75/25
+o NovoLog Mix 70/30
+o Humulin 70/30
+o Novolin 70/30Hygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 8 of 14
+ATTRIBUTE PREDICATE SUBJECT DEVICE
+Patient inputs data by keypad into
+Patient inputs data by mouse and
+software located on smartphone.
+keyboard (or keypad) into software
+10 Patient input process Glucose data can be obtained by manual
+located either on Web, PC, or Palm Pilot
+input or transfer from glucose meter via
+Manual inputs
+cloud
+ Marker: Fasting Glucose, Current  Glucose: Fasting, Current (e.g. Pre-
+(Random) Glucose, HgA1c, or Other Meal, Bedtime)
+Previous dose administered  Dose: record insulin dose to reflect
+actual dose taken
+11 Patient inputs  Event Type for current glucose
+ Insulin drug reading (e.g. Breakfast)
+ Last insulin dose  Carbs for Basal-bolus with Carb
+ Desired response (e.g. Fasting counting
+Glucose target)
+New insulin dose(s) to be used through
+12 Primary outputs Next insulin dose recommendation
+the next titration period.
+Patient Dosing Summary Patient Dosing History
+Log by date of: Log by date/time of:
+ Current Dose  Patient Insulin Instruction history
+ Suggested Dose  Patient Glucose Event data history
+ Current Marker (e.g. Fasting Glucose
+reading)
+Secondary outputs for  Predicted Marker (predicted /
+13
+HCP expected response)
+Patient Dosing with Chart: Data Export available
+Log by date/time of:
+ Unit Dose (current insulin dose)
+ Current Level (Marker level)
+ Desired Level (of Marker)
+Primary output for
+14 Next insulin dose recommendation Same
+Patient
+Dose Summary Report, a log by date of: Patient Dosing History
+ Current Marker (e.g. Fasting Glucose Log by date/time of:
+readings)  Glucose event data history
+ Current Dose  Current insulin instructions
+ Suggested Dose
+ Predicted Marker (predicted / Each Glucose Event record shows date,
+Secondary outputs for expected response) time, event type, blood glucose
+15
+Patient (Reports) reading, carbs if applicable, and
+Patient Dosage with Chart Report: insulin dose, if applicable.
+Log by date of:
+ Unit Dose (current insulin dose)
+ Current Level (Marker level)
+ Desired Level (of Marker)
+Chart plotting by date: various parameters
+Algorithm
+Fixed target range (e.g. glucose 80 – 130
+16 Glucose Target Adjustable target value mg/dL) Fixed range based on the
+Treatment Plan chosenHygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 9 of 14
+ATTRIBUTE PREDICATE SUBJECT DEVICE
+Magnitude of insulin
+17 adjustment as a Proportional to distance from target value Same
+function of target
+≤ ±20% but not to exceed pre-determined
+Limits on insulin
+18 ≤ ±20% max. number of units of insulin, except <
+adjustment
++30% for increases in Basal-Bolus plans
+Frequency of insulin
+19 Daily increase allowed Increase occur no greater than weekly
+adjustment (increase)
+Frequency of insulin
+20 Daily decrease allowed Same
+adjustment (decrease)Hygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 10 of 14
+Table 3: Intended/indications for Use Comparison of Subject Device and its Predicates
+ATTRIBUTES PREDICATE SUBJECT DEVICE
+The d-Nav® System calculates the next dose of insulin to aid in optimizing insulin management.
+Intended / My Insulin Doser/IDS calculates the next dose of
+indications for use insulin to optimize a diabetic patient’s individual The d-Nav System contains two user-interactive software elements:
+insulin management.
+•The patient user interface software is intended for use by adults with Type 2 diabetes as an aid in
+optimizing insulin management. It resides on a hand-held device, e.g. cellular phone or enabled
+glucose meter, and is used to enter glucose event data and receive a recommended insulin dose.
+•The HCP user interface software tool is intended for use by Health Care Providers (HCPs) to set
+up the patient software for its intended use. Setup consists of entering the physician-prescribed,
+patient-specific starting insulin dose instructions (insulin prescription) and sending the information
+to the patient user software. Insulin instructions include the treatment algorithm (treatment plan),
+insulin drug, and dose(s).
+The d-Nav System also contains the d-Nav Get-Dose Library that provides the next insulin dose.
+The System can receive glucose measurement data entered manually into the patient user
+software or automatically via the cloud from a linked blood glucose meter. The d-Nav Get-Dose
+Library Recommend Dose function resides locally on the phone while the d-Nav Get-Dose Library
+Update Insulin Instruction function may reside locally on the phone or be hosted in the cloud.
+Configurations are as follows:
+Model 1: Patient user software resides on a hand-held device and uses manual glucose
+measurement entry. The Get-Dose Library Update Insulin Instruction function resides locally within
+the device.
+Model 2: Patient user software resides on a hand-held device and uses manual glucose
+measurement entry. The Get-Dose Library Update Insulin Instruction function resides in the cloud.
+Model 3: Patient user software resides on a hand-held device and uses automated glucose
+measurement entry. The Get-Dose Library Update Insulin Instruction function resides locally within
+the device.
+Model 4: Patient user software resides on a hand-held device and uses automated glucose
+measurement entry. The Get-Dose Library Update Insulin Instruction function resides in the cloud.
+Use of the d-Nav System is limited to Health Care Providers who have been trained by Hygieia or a
+Hygieia trained person on the use of the d-Nav System, including setup of the patient’s Phone App.Hygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 11 of 14
+SE Discussion of Intended Use
+Both devices require a prescription from the treating clinician and both are set up by Health
+Care Providers in a professional setting and used by persons with diabetes in a home setting.
+The devices are both intended for use by healthcare professionals and their patients with Type
+2 diabetes for calculating insulin dose.
+The intended use of the d-Nav System is similar to that of the predicate, as both are software
+devices that calculate the next dose of insulin to aid in optimizing insulin management.
+Both devices calculate the insulin dose based on previous response to aid in optimizing insulin
+management. The predicate uses a single dose to calculate a dose response. The subject
+device uses both a single dose to calculate dose reductions and a weekly average based on the
+relative time point for that insulin dose (i.e. breakfast, or bedtime) to calculate both dose
+increases and decreases.
+Neither device is intended to be a substitute for clinical reasoning.
+Substantial Equivalence Discussion of Technological Characteristics
+Hygieia has referred to FDA’s document “The 510(k) Program: Evaluating Substantial
+Equivalence in Premarket Notifications [510(k)] - Guidance for Industry and Food and Drug
+Administration Staff (July 28, 2014)” while drafting this evaluation of substantial equivalence
+with the predicate device.
+Technological Characteristics
+In terms of technological characteristics, the subject and predicate devices have many
+similarities. We list the key similarities below. They both:
+ Are insulin dose calculator software systems
+ Include separate software components for usage by the Health Care Provider (in the
+professional setting) and for the patient (in the home)
+ Use a response-to-dose calculator algorithm that relies on current responses (e.g. blood
+glucose readings), current insulin instruction dose components, and a target response (e.g.
+blood glucose level) to calculate the next insulin dose recommendation
+ Support usage of a variety of insulin drugs, including basal insulin (e.g. Lantus), premixed
+insulin (e.g. Humulin 70/30), and bolus insulin drugs (e.g. Humalog, Regular (R))
+ Provide a history of responses (e.g. glucose readings) and insulin doses to both Health Care
+Providers and patients
+ Limit the maximum change in the next insulin dose recommendation
+ Instruct the patient to alter the next dose recommendation to reflect actual insulin dose
+taken so that such changes by the patient are recorded in the device memory for review by
+the Health Care Provider and patientHygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 12 of 14
+In terms of technological characteristics, the d-Nav System and predicate devices differ in
+several details. However, none of these differences rises to the level of being significant as per
+the previously mentioned FDA Guidance. See Table 2 for Comparison of the two devices.
+Discussion of Safety and Efficacy for Certain Differences
+The new technology of the d-Nav System does not raise any new issues of safety and/or
+efficacy when compare to the predicate.
+Cloud Feature: The d-Nav Phone App allows for the Get-Dose Library Update Insulin
+Instruction function to reside in the cloud, which means that, unlike the predicate device, titration
+may require cloud connectivity. The effect of dose titration is only applicable for the next time a
+similar dose will be given. For instance, if a breakfast dose resulted in a low glucose reading,
+then once connected to the cloud, the Get-Dose Library Update Insulin Instruction function will
+reduce the breakfast dose component. The user will not act upon the new recommendation until
+the next time they have breakfast which is expected to be in ~24 hours. Hygieia believes that in
+almost all cases, the user’s Phone App will be able to connect to the cloud sometime during that
+24 hour period. The labeling advises the prescriber that if the patient is unlikely to have reliable
+cloud connectivity, the Get-Dose Library should reside on the phone (Model 1 or 3). Conclusion:
+this new feature of having the titration functionality in the cloud does not raise any new safety or
+efficacy issues when compared to the predicate device.
+Manual vs Connected: The d-Nav Phone App allows the user an option to connect a third-
+party blood glucose meter via a cloud-to-cloud integration in addition to always allowing the
+manual entry of glucose if needed. The predicate device does not allow cloud or bluetooth
+connect and requires manual entry of glucose. Conclusion: the convenience feature in the d-
+Nav Phone App for blood glucose entry does not raise a new safety concern compared to the
+predicate device.
+Treatments: The d-Nav Phone App and the predicate device support several insulin products
+(see Table 4 below). Both devices require the prescriber to set the patients’ starting insulin dose
+and have a limit to the next dose titration recommendation. The differences are that the
+predicate device provides a single titration recommendation at a time and the d-Nav provides
+four (4) different treatment regimens (basal, twice daily pre-mixed, basal-bolus, and basal-bolus
+with carbohydrate counting). The d-Nav Phone App includes some safety-check conditions;
+stops titrations if the patient exceeds an allowable percent deviation from the recommended
+dose, or if the total daily dose exceeds the prescribers set threshold.
+The only other difference is that the d-Nav Phone App supports fast-acting insulin analogs
+rather than the bolus human insulin Regular (R) for bolus dosing supported by the predicate.
+Fast-acting insulin analogs have a shorter peak-time and a shorter duration compared to
+Regular insulin.
+Conclusion: the types of regimens and insulins supported by the d-Nav Phone App compared to
+the predicate device do not raise any new safety or efficacy concerns.Hygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 13 of 14
+Table 4: Supported Insulin Products
+Treatment plan Predicate device d-Nav Phone App
+Long acting (Basal) insulin  Lantus  Lantus
+ Levemir  Tresiba
+ Lente  Basaglar
+ NPH  Toujeo
+Pre-mixed insulin  Humalog mix 75/25  Humalog mix 75/25
+ Humulin 70/30  Humulin 70/30
+ Novolog Mix 70/30  Novolog Mix 70/30
+ Novolin 70/30  Novolin 70/30
+Bolus insulin  Regular (R)  Humalog
+ Novolog
+ Apidra
+3.0 PERFORMANCE DATA DEMONSTRATING SUBSTANTIAL EQUIVALENCE
+Risk Management
+A risk analysis was conducted in accordance with ISO 14971: 2007 – Medical devices —
+Application of risk management to medical devices.
+Cybersecurity Considerations
+A cybersecurity evaluation was conducted to ensure the mitigation of cybersecurity risks
+according to the FDA guidance, Content of Premarket Submissions for Management of
+Cybersecurity in Medical Devices.
+d-Nav System Verification and Validation
+The software Level of Concern for the d-Nav System is Major. Software System, Integration
+and Unit level verification and validation was performed on the d-Nav System according to FDA
+Guidance for the Content of Premarket Submissions for Software Contained in Medical Devices.
+(May 11, 2005) for software with a major level of concern. Test coverage included load testing
+of the server to ensure acceptable server performance.
+Human Factors testing
+Human factors testing was performed on the d-Nav System according to FDA Guidance –
+applying Human Factors and Usability Engineering to Medical Devices (February 3, 2016).
+Testing supported a determination of substantial equivalence.
+Comprehensiveness Assessment
+The requirements traceability matrix demonstrates that the requirements were fully covered by
+executing the steps.Hygieia, Inc.
+Premarket Notification – 510(k)
+d-Nav System
+Page 14 of 14
+4.0 CONCLUSION
+The intended use of the d-Nav System is equivalent to that of the predicate, as both are
+software devices that calculate the next dose of insulin to aid in optimizing insulin management.
+Where there are differences between the detailed functionality of the d-Nav System and the
+predicate, the differences do not raise different questions of safety and effectiveness (see
+Discussion of Safety and Efficacy for Certain Differences above).
+We conclude that the d-Nav System is substantially equivalent to the predicate.

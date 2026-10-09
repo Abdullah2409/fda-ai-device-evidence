@@ -1,0 +1,415 @@
+MEDIVIS, Inc. May 13, 2019
+℅ Ms. Amy Lynn
+Regulatory Affairs Consultant
+20 Jay Street, Suite 312
+BROOKLYN NY 11201
+Re: K190764
+Trade/Device Name: SurgicalAR
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: March 15, 2019
+Received: March 25, 2019
+Dear Ms. Lynn:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.03
+Silver Spring, MD 20993
+www.fda.govK190764 – Ms. Amy Lynn Page 2
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureSection 5 - 510(k) Summary K190764
+Company: MEDIVIS, Inc.
+Address: 20 Jay Street, Suite 312
+Brooklyn, New York, 11201
+Contact: Amy Lynn
+Regulatory Affairs Consultant
+Telephone Number: 954.600.8299
+Email: amylynncicatello@gmail.com
+Preparation Date: March 15, 2019
+Trade Name: SurgicalAR
+Device Common Name: System, Image Processing, Radiological
+Classification Regulation: 21 CFR 892.2050
+Classification Name: Picture archiving and communications system
+Class: II
+Panel: Radiology
+Product Code: LLZ
+Predicate Device: VitreaView (K163232)
+5.1 Device Description
+SurgicalAR is a software platform to be used by clinicians for the visualization of medical
+images in 3D to allow for surgical planning activities. The device takes pre-acquired 2D medical
+images and reconstructs 3D models that a clinician can then view on a stereoscopic, holographic
+display.
+The software application is used to:
+• Load patient CT/MR DICOM data
+• View DICOM data using a traditional computer monitor or in Augmented Reality (AR) using a
+head-mounted display, HMD.
+5.2 Intended Use
+SurgicalAR is a software device for display of medical images and other healthcare data. It
+includes functions for image review image manipulation, basic measurements and 3D
+visualization (MPR reconstructions and 3D volume rendering).
+Lossy compressed mammography images and digitized film screen images must not be reviewed
+for primary image interpretations. Mammographic images may only be interpreted using an FDA
+cleared display that meets technical specifications reviewed and accepted by FDA or displays
+accepted by the appropriate regulatory agency for the country in which it is used.Display monitors used for reading medical images for diagnostic purposes must comply with the
+applicable regulatory approvals and quality control requirements for their use and maintenance.
+SurgicalAR software is indicated for use by qualified healthcare professionals including, but not
+restricted to radiologists, non-radiology specialists, physicians and technologists.
+When accessing SurgicalAR software from a wireless stereoscopic head-mounted display
+(HMD) or mobile device, images viewed are for informational purposes only and not intended
+for diagnostic use.
+5.3 Operator profile
+Qualified healthcare professionals, including but not restricted to surgeons, radiologists, non-
+radiology specialists, physicians, and technologists.
+5.4 Patient population
+The device is software which allows for viewing of DICOM data. Therefore, there is no specific
+patient population.
+5.5 Intended use environment
+The software is intended to be used:
+• In operating rooms
+• In office environments within hospitals or at any other location with a computer
+• For informational only purposes at any location using the head-mounted display (HMD)
+5.6 Operating principle
+There are different operating principles such as viewing:
+• On desktop PCs with a traditional monitor the interaction with the software is performed
+with a mouse and/or keyboard;
+• On PCs with a touchscreen monitor the interaction with the software is performed with a
+touchscreen interface; or
+• On a head-mounted display the interaction with the software is performed using hand
+gestures.
+5.7 Part of the body or type of tissue applied or interacted with
+The device is software only which allows for the viewing of DICOM data. Therefore, it does not
+interact with any body and/or tissue part and the viewing is also not limited to any body and/or
+tissue part.
+5.8 Comparison to predicate device
+The SurgicalAR proposed device is substantially equivalent to the predicate device, K163232, as
+both devices have the same intended use and technological characteristics. While both devices do
+not have the exact same software features, the difference does not pose any safety and/or
+effectiveness questions. A full substantial equivalent discussion is provided in Section 12. The
+exact feature differences and omissions are detailed in the tables contained within Section 12.The proposed device slightly differs from the predicate device in two ways as listed below:
+First, the proposed device is not available for use through internet browsers like the predicate
+device. The predicate device allows access via an internet browser in addition to traditional
+installation on a PC’s hard drive. This design difference does not create new or additional safety
+risks regarding the use of the device but rather limits the scope of accessibility of SurgicalAR.
+Secondly, the proposed device does not contain all of the same features as the predicate device.
+The lack of features are not key features nor do they impact the function or intended use of the
+device.
+The table below demonstrates the similarities in technology and features between SurgicalAR
+and the predicate device.
+Predicate
+Subject Device
+Device Comparison
+Description
+Criteria VitreaView
+SurgicalAR
+(K163232)
+• Line
+Annotation and • Angle
+Yes Yes Same
+Measurement Tools • Ruler
+• Arrow
+• Runs within
+browser
+using HTML
+and Different.
+User Installation JavaScript Predicate allows
+No Yes
+Requirements only for access via
+• No Internet.
+installation is
+required on
+user’s machine
+• DICOM
+Data Type Yes Yes Same
+• Non-DICOM
+Supported
+• Image Zoom
+• Pan
+• Window Level
+•AutoWindow
+Different.
+• Level
+Predicate has
+Image • Reset
+No Yes “image invert”
+View/Manipulation • Scout Lines
+and “image
+• Image Rotate
+cine” features.
+• Image Flip
+• Magnify
+• Image Invert
+• Image Cine
+• HTTPS
+Data Encryption Yes Yes Same
+• SSLPredicate
+Subject Device
+Device Comparison
+Description
+Criteria VitreaView
+SurgicalAR
+(K163232)
+Patient Capable of displaying
+Demographic patient demographic Yes Yes Same
+Display information
+Co-planar linking:
+Linking • Autolink Yes Yes Same
+• Manual
+Users can be managed
+via an internal
+User and Password
+database, active Yes Yes Same
+Control
+directory, or parent
+application
+Same
+Stored on server Yes Yes
+Data Security
+Same
+Audit trail logged Yes Yes
+Audit Trail
+Database structure
+allows mapping users
+to groups internally or
+User Management mapping external
+groups (AD, parent
+application) to internal
+groups and role
+Different.
+Predicate allows
+Transmission Via the web with
+Yes for access via
+Modes Internet browsers No
+Internet.
+• JPEG for
+Lossy
+Same
+File Type Used data Yes
+Yes
+• PNG for
+Lossless data
+This viewing feature
+enables the display of
+reformatted CT and Same
+MPR Viewing Yes
+MR images into axial, Yes
+coronal and sagittal
+orientations
+This viewing feature
+enables the display of
+3D Volume 3D perspective views Same
+Yes
+Rendered Viewing of CT and MR image Yes
+sets that have been
+transformed intoPredicate
+Subject Device
+Device Comparison
+Description
+Criteria VitreaView
+SurgicalAR
+(K163232)
+volumes. It also
+provides presets to
+enable users to alter
+the visualization
+parameters
+of the 3D views to
+highlight features.
+This viewing feature
+provides a facility to
+Same
+Active Target Tool view a single target Yes Yes
+location within
+multiple images.
+This viewing feature
+provides a facility to
+Crosshair
+synchronize and scroll Same
+Navigation and Yes
+through multiple Yes
+Synchronization
+views at the same
+time.
+Different.
+Predicate
+contains a
+Ability to clone Ability to clone
+Yes “clone”
+images side by side images side by side. No
+copy/paste
+feature.
+Ability to close an Ability to close an
+image by clicking image by clicking an
+Same
+an “X” in the “X” in the upper-left Yes
+Yes
+upper-left portion portion of the
+of the view port viewport.
+Different.
+Ability to select Predicate has
+Ability to select locale
+locale and language support for
+and language settings Yes
+settings on the No multiple
+on the login screen.
+login screen languages.
+Ability to customize Different.
+Ability to the columns in the Predicate has
+customize the study directory by feature to
+columns in the selecting the Yes customize the
+No
+study directory by dropdown arrow on view of the
+selecting the the right side of each directory.
+dropdown arrow on column.Predicate
+Subject Device
+Device Comparison
+Description
+Criteria VitreaView
+SurgicalAR
+(K163232)
+the right side of
+each column.
+Proactive help tips
+appear for 10-15 Different.
+seconds to educate Predicate has
+Help Tips users on certain Yes feature to view
+No
+functionality that may “help tips”.
+not be obvious to a
+new user.
+Support for TIF Vitrea View can Same
+Yes
+Files display TIF files. Yes
+This viewing feature
+provides access of
+Vitrea View software
+on various iOS and
+Android tablet
+devices through the
+default internet
+browser. Key
+features are:
+• Two-finger
+pinch to
+zoom and
+Tablet Different.
+pan
+support for Predicate has
+• Touch and
+information support for iOS
+drag to
+purpose Yes and Android for
+scroll No
+only non-diagnostic
+• Double-tap to
+(Not for diagnostic viewing.
+access
+use)
+Gesture
+menu
+• Tap
+Carousel
+thumbnail,
+then tap
+Image Pane
+to swap
+images
+• Ambient
+Lighting
+Check
+This viewing feature Different.
+HMD support for provides access of Yes Proposed device
+No
+information SurgicalAR software has support forPredicate
+Subject Device
+Device Comparison
+Description
+Criteria VitreaView
+SurgicalAR
+(K163232)
+purpose only (not on consumer, off-the- HMDs for non-
+for diagnostic use) shelf-wireless, Wi-Fi diagnostic
+enabled, stereoscopic viewing.
+head-mounted display
+with minimum of 2GB
+RAM
+Ability to provide
+diagnostic quality
+medical image review
+Diagnostic
+for multi-dimensional Same
+quality medical Yes
+digital images Yes
+image review
+acquired from a
+variety of imaging
+devices
+5.9 Tests conducted
+Both design verification and design validation were successfully conducted as part of the testing
+for the SurgicalAR device.
+The purpose of the design verification activity was to ensure that the design output specifications
+met the design input requirements. Deviations associated with the written protocol were captured
+within the design verification report. These deviations did not negatively impact the device, it’s
+intended use, nor did they introduce additional risks. Therefore, it is concluded at the design
+verification was successful in that the design output specifications satisfactorily met the design
+input requirements.
+Design validation, including human factors and usability engineering, was conducted. Human
+factors and usability engineering testing was performed to assess user interactions with the
+device’s user interface. The purpose is to identify use errors that would or could result in
+serious harm to the patient or user. Human factors validation testing is also used to assess the
+effectiveness of risk management measures. The testing performed was simulated use. The
+design validation was successfully completed, and testing met all predetermined acceptance
+criteria. Furthermore, no additional risks to the safety or efficacy of the device were identified.
+5.10 Essential performance characteristics
+SurgicalAR is software for medical image visualization. A hardware shutdown, power failure or
+other hardware issue that makes the software inoperable does not cause harm. Therefore, no
+unacceptable risk arises if the hardware loses performance. The hardware does not have any
+essential performance characteristics. The software risks were analyzed to find risks in the
+intolerable range. No risks have been identified in the intolerable range. As such, no measures
+are considered essential performance characteristics. In summary, the SurgicalAR software does
+not have any essential performance characteristics.

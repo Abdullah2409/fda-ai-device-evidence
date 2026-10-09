@@ -1,0 +1,340 @@
+EVALUATION OF AUTOMATIC CLASS III DESIGNATION FOR
+DreaMed Advisor Pro
+DECISION SUMMARY
+A. DEN Number:
+DEN170043
+B. Purpose for Submission:
+De Novo request for evaluation of automatic class III designation for the DreaMed Advisor
+Pro
+C. Manufacturer and Instrument Name:
+DreaMed Diabetes, Ltd.: DreaMed Advisor Pro
+D. Type of Test or Tests Performed:
+Insulin Therapy Adjustment Device
+E. System Descriptions:
+1. Device Description:
+DreaMed Advisor Pro is a software device that is designed to provide insulin therapy
+adjustment recommendations to physicians to assist in the management of diabetes for
+patients with Type 1 diabetes using an insulin pump and a continuous glucose monitoring
+(CGM) system.
+The DreaMed Advisor Pro gathers and analyzes information inputted through qualified 3rd
+party Diabetes Management Systems (DMS), which collects biological input information
+from various diabetes devices. Diabetes device information required and used by DreaMed
+Advisor Pro includes glucose readings (CGM sensor readings with the option for capillary
+blood glucose measurements), insulin dosing logs, and meal data during daily routine care.
+Following data collection and analysis, the DreaMed Advisor Pro generates results
+containing summary data and recommendations for adjustments to the patient’s insulin
+therapy parameters, including: basal insulin delivery rate(s), insulin to carbohydrate ratio,
+and correction factor (insulin sensitivity)(b) (4) DreaMed
+Advisor Pro may also advise behavioral changes. Results are sent to a qualified 3rd party
+Diabetes Management Systems, which displays results to physicians and a report provided by
+DreaMed Diabetes. The physician can approve, reject or change the recommendations and
+issue the updated treatment plan to the patient.
+12. Principles of Operation:
+Algorithmic software device
+3. Modes of Operation:
+Does the applicant’s device contain the ability to transmit data to a computer, webserver,
+or mobile device?
+Yes ____X____ or No ________
+Does the applicant’s device transmit data to a computer, webserver, or mobile device
+using wireless transmission?
+Yes ____X____ or No ____X____
+4. Specimen Identification:
+Not Applicable
+5. Specimen Sampling and Handling:
+Not Applicable
+6. Calibration:
+Not Applicable
+7. Quality Control:
+Not Applicable
+8. Software:
+FDA has reviewed applicant’s Hazard Analysis and Software Development processes for
+this line of product types:
+Yes____X____ or No________
+F. Regulatory Information:
+1. Regulation section:
+21 CFR 862.1358
+22. Classification:
+Class II
+3 Product code:
+QCC
+4. Panel:
+Chemistry (75)
+G. Indications for Use:
+1. Indication(s) for Use:
+DreaMed Advisor Pro is a decision-support software intended for assisting healthcare
+professionals in the management of patients with Type 1 diabetes who:
+• use insulin pumps as their insulin delivery therapy;
+• monitor their glucose levels using either of the following:
+o CGM, or
+o CGM and self-management blood glucose meter
+• are above the age of 6 and under 65 years old; and
+• use rapid acting U-100 insulin analogs in their pump
+DreaMed Advisor Pro is indicated for use by healthcare professionals when analyzing
+continuous glucose monitoring (CGM), self-monitoring blood glucose (SMBG) and
+pump data to generate recommendations for optimizing a patient’s insulin pump settings
+for basal rate, carbohydrate ratio (CR), and correction factor (CF); without considering
+the full clinical status of a particular patient. DreaMed Advisor Pro does not replace
+clinical judgment.
+2. Special Conditions for Use Statement(s):
+• For prescription use only
+• For in vitro diagnostic use only
+• This device is not intended to to send recommendations directly to patients without
+initially being reviewed and approved by a healthcare professional (HCP).
+• This device cannot generate recommendations for patients who are unwilling or
+unable to use a CGM.
+• This device is not intended for use with patients who use automated insulin dosing
+systems (e.g., "closed-loop", "artificial pancreas”).
+• This device is not intended for use with patients who use insulin(s) other than U-100.
+3The Advisor Pro is designed to consider the pharmacodynamics and
+pharmacokinetics of U-100 insulin only. Using Advisor Pro with other types of
+insulin may lead to patient harm.
+• This device is not intended for use for patients treated with insulin injections,
+intravenous (IV) insulin, or a combination of insulin injections and/or IV insulin and
+insulin pump therapy. Since Advisor Pro analyzes the insulin dosing history from the
+insulin pump, it will be blind to insulin delivered by injections and/or IV insulin. This
+could result to a false conclusion about the changes to the patient's insulin pump
+settings and may lead to patient harm.
+• This device is not intended for patients using other concomitant non-insulin glucose
+lowering therapies. Since the Advisor Pro analyzes the insulin dosing history from
+the insulin pump, reducing glucose levels by other means will not be taken into
+consideration by Advisor Pro. This could result to a false conclusion about the
+changes to the patient's insulin pump settings and may lead to patient harm.
+• This device is not intended for use with patients under the age of 6 or above the age
+of 65.
+• This device is not intended for use in pregnant women.
+• DreaMed Advisor Pro is not recommended for patients who are taking medications
+that might affect CGM values, such as acetaminophen. Please refer to the warnings
+and contraindications of the patient’s CGM to determine whether said medications
+may falsely raise glucose readings of the sensor.
+3. Special Instrument Requirement(s):
+DreaMed performs integration testing with third party Diabetes Management Systems
+(DMS) to ensure that the DMS verifies that the medical devices providing data are
+approved or cleared for use in the geographical area where the HCP and patient are
+utilizing the system. Integration testing demonstrates that DreaMed has verified the
+integration between the DMS and DreaMed for the server and for the algorithm. A third
+party DMS is qualified through the DMS qualification plan and the integration test
+results.
+H. Standard/Guidance Documents Referenced:
+1. ISO 14971 Medical devices ‐ Application of Risk Management to Medical Devices.
+2. IEC 62366-1:2015 Medical Devices - Part 1: Application of Usability Engineering to
+Medical Devices
+3. IEC62304:2006 Medical Device Software - Software Life Cycle Processes
+4. ISO 15223-1 Medical Devices - Symbols To Be Used With Medical Device Labels,
+Labelling, And Information To Be Supplied - Part 1: General Requirements
+5. ISO 14155 Clinical Investigation Of Medical Devices For Human Subjects - Good
+Clinical Practice
+4I. Performance Characteristics:
+1. Analytical Performance:
+a. Accuracy:
+Not applicable.
+b. Precision/Reproducibility:
+Not applicable.
+c. Linearity:
+Not applicable.
+d. Carryover:
+Not applicable.
+e. Interfering Substances:
+Not applicable.
+2. Clinical Performance:
+There were two studies conducted to evaluate the DreaMed Advisor Pro in the clinical use
+setting. The first study (n=15) compared differences in the use of DreaMed Advisor Pro
+between expert endocrinologists and the DreaMed Advisor Pro. The second study (n=6)
+evaluated glycemic information in patients under the care of diabetes healthcare
+professionals compared to DreaMed Advisor Pro.
+The first study was an expert diabetes physician survey, conducted in 3 centers in Germany,
+Israel and Slovenia, with 3 physicians from each center participating. Uploads of 15 patients
+(children and adolescents with Type 1 Diabetes utilizing an insulin pump) including data of 3
+weeks of CGM, SMBG and insulin pump data were assessed. Each of the 9 experts received
+15 anonymized PDF files, and was asked to complete a form describing the proposed
+recommended changes to insulin dosing including the basal rate, carbohydrate ratio, and
+correction factors. In addition, each expert was asked to state if any behavioral or lifestyle
+changes were recommended. The results were compared to the Advisor Pro automated
+recommendations. The recommendations from the physicians at each site were also
+compared. The study results suggest that the recommendations of the DreaMed Advisor Pro
+were generally similar to the recommendations of expert physicians with respect to the basal
+rate as well as the carbohydrate ratio (CR). The results indicated that there was a difference
+between the physicians compared to DreaMed Advisor Pro and physician recommendations
+5for the correction factor (CF). The results also suggest that there was diversity between
+experts with regards to recommendations to the same data.
+The second study was a single center study, conducted at a pediatric hospital in Israel. A set
+of 6 subjects used the the algorithm and were compared to paired, randomized subjects (n=7)
+in the control group. Each subject completed two iterations of treatment recommendations,
+either guided by the Advisor Pro in the intervention group, or the expert physician in the
+control group. Endpoints were compared between the two groups (the study group guided
+treatment by the Advisor Pro and the control group guided by the physician) during 6 weeks
+before intervention and during the study period when the insulin dosing was adjusted. The
+results of this study suggest that percentage of CGM time within the sensor glucose range of
+70-180 mg/dL was increased during the intervention and, percentage of CGM readings below
+70 mg/dL was reduced in the Advisor Pro Group compared to the control group. The
+sponsor reports that no serious adverse events occurred in either group of the study. The
+other parameters relevant to diabetes management (total daily dose, average daily number of
+insulin boluses, amount of carbohydrates) did not demonstrate clear differences between the
+Advisor Pro and the control group.
+The findings from these two studies support the safety of use of the DreaMed Advisor Pro.
+The findings from the expert physician survey suggest that, in general, insulin dosing
+recommendations made by expert endocrinologists vary to similar degrees between insulin
+dosing recommendations made by DreaMed Advisor Pro and expert endocrinologists. The
+second study also supports the safety and clinical validity of the DreaMed Advisor Pro.
+However, given the small size, limited duration, general study design, and choice of
+endpoints used in these studies, it is not possible to make definitive conclusions about short-
+or long-term benefits related to time in range or glycemic control associated with use of the
+DreaMed Advisor Pro.
+DreaMed Diabetes, Ltd. also erformed a task analysis and a use-related risk analysis to
+identify potential use errors involved with use of DreaMed Advisor Pro and their associated
+harms and severities. Patients with type 1 diabetes regularly check in with their HCPs and the
+product is not intended to be used in an emergency situation. Human factors testing was
+performed to validate that these risks are likely mitigated to an acceptable level.
+As a simulated�use study, no actual treatment occurred. Participants were asked to interact
+with the product as they would in real life, but not actually change their pump settings or
+make recommendations for real patients since it was simulated. According to the Sponsor, all
+users in real life would have an opportunity to receive training before first time use of the
+product. Therefore, all study participants first received representative training on the product.
+After a break of at least 1 hour to allow for memory decay, participants were observed using
+the product in a one�on�one moderated simulated�use testing session that lasted up to 30
+minutes for lay user participants and up to 60 minutes for HCP participants.
+A total of 48 lay user participants (17 adult patients, 16 adult caregivers,15 pediatric patients)
+and 15 HCPs were included for analysis in the study. An additional two pediatric patients,
+one adult patient, and three HCPs were disqualified for not meeting the screening criteria or
+6representing anticipated users. All lay user paiiicipants repo1i ed being smaiiphone users and
+would consider using an app to help manage their (or the person they cai·e for) diabetes. All
+patients were diagnosed with type 1 diabetes and ai·e cmTently using an insulin pump.
+The design and results ofthe study were reviewed and found acceptable.
+J. Proposed Labeling:
+The labeling is sufficient and it satisfies the requirements of21 CFR Paiis 801and809, as
+applicable and the special controls for this type of device.
+K. Identified Risks to Health and Mitigation Measures
+Identified Risks to Health Required Mitie:ations
+Enoneous or extreme changes in insulin General Controls and special controls (1),
+dosing recommendations may cause (2), and (3)
+hypoglycemia or hyperglycemia.
+Inconect inte1pretation ofresults may lead to General Controls and special controls (1),
+inappropriate clinical decision making. and (3)
+Inconect understanding ofappropriate device General Controls and special controls (1),
+use may lead to inappropriate treatment (2), and (3)
+decisions.
+Patient haim due to insecme transmission of General Controls and special control (1)
+data. .
+Data co1111ption may lead to inappropriate General Controls and special control (1)
+treatment recommendations.
+L. Benefit/Risk Determination
+DreaMed Advisor Pro is a softwai·e device intended for assisting healthcare professionals in the
+management ofpatients with Type 1 diabetes who use insulin pumps as their insulin delive1y
+therapy, monitor their glucose levels (either by using CGM, or CGM and self-management blood
+glucose meter), and ai·e above the age of6 and under 65 yeai·s old. DreaMed Advisor Pro is
+indicated for use as an adjunctive device to support healthcai·e professionals when analyzing
+CGM, SMBG and insulin pump data to generate recollllllendations for optimizing a patient's
+insulin pump settings, without considering the full clinical status ofa paiiicular patient. It does
+not replace clinical judgement. DreaMed Advisor Pro is intended for use only with patients who
+use rapid acting U-100 insulin analogs in their pump.
+The DreaMed Advisor Pro offers benefits ofconvenience to patients by providing an automated
+analysis that is systematically conducted, potentially decreasing the bmden to healthcai·e
+7professionals in insulin pump adjustments, and thus allowing for the opportunity for patients to
+receive more frequent insulin pump adjustments. The DreaMed Advisor Pro also offers indirect
+benefits to patients, by offering potential benefits of convenience to healthcare professionals by
+potentially reducing the time necessary in adjusting insulin pump settings, as well as providing
+an automated analysis that is conducted systematically. Decreasing the time burden to healthcare
+professionals in making insulin pump adjustments, would allow for optimizing valuable office
+visit time with healthcare professionals.
+The two studies evaluating clinical use of the device (described above), conducted by the
+sponsor are not sufficient to demonstrate increased effectiveness with respect to traditionally
+recognized clinical outcomes, given limitations in study design, sample size, and population(s)
+studied. However, given the challenges in the current state of insulin pump management, as well
+the potential convenience and potential for more frequent optimization of insulin pump settings,
+there are likely benefits to patients in terms of more frequent opportunities to optimize insulin
+pump parameters.
+Potential risks associated with use of the DreaMed Advisor Pro are risks associated with
+suboptimal insulin dosing recommendations or diabetes management tips, which can be due to
+the risk of inaccurate CGM, SMBG, insulin delivery information, time mismatch or time zone
+changes. In addition, there is a risk of healthcare professional overreliance on the DreaMed
+Advisor Pro recommendations and diabetes management tips, without considering the clinical
+context.
+The potential clinical consequences of these risks are risks relating to acute and chronic
+consequences of hypoglycemia, hyperglycemia and suboptimal glucose control, which include
+hypoglycemia, severe hypoglycemia, hyperglycemia, diabetic ketoacidosis (DKA), worsening of
+glycemic control and diabetic complications. The potential clinical consequences of these
+known/probable risks are more than minimal. However, given the information provided
+supporting safe use of this device and the mitigations provided by the special controls established
+for this device type, along with general controls, the potential risks associated with use of the
+DreaMed Advisor Pro can be mitigated such that they are are not expected to be greater than the
+risks associated with insulin pump parameter titration without use of this device.
+There are mitigations against potentially inaccurate data (sensor glucose or blood glucose values)
+being used in the determination of recommendations provided by the DreaMed Advisor Pro.
+First, this device provides recommendations relating to insulin dosing and diabetes management
+tips to the healthcare provider, not directly to the patient. The healthcare professional could
+choose to reject potentially unsafe recommendations based on their training and clinical
+judgement.
+8Further, the device algorithm has designated limitations and parameters to changes which seem
+generally consistent with the scope of recommendations and diabetes management tips generated
+by the device and implementable in insulin pumps, and seem generally consistent with clinical
+decision making. Users of this device are required to use CGM, which provides them with
+additional feedback relating to glucose values, and helps to mitigate risks relating to potentially
+suboptimal recoilllllendations from this device.
+Fmther, the labeling clearly states that this device is intended to be used to suppo1t healthcare
+professionals when analyzing CGM, SMBG and pump data to generate insulin dosing
+suggestions, and that it does not replace clinical judgement. The labeling provides transparency
+to the healthcare professional so that the healthcare professional can be sufficiently aware of the
+intended use and functionality ofthe device, limitations of the device, as well as of situations in
+which the device should not be used. The device also has mechanisms to detennine "valid"
+data, and can "filter" data that is not considered valid. Finally, the healthcare professional has
+the ability to change or delete any of the recoilllllendations (insulin dosing related or diabetes
+management tip related) prior to this info1mation being available to their patient.
+There are risks relating to cybersecurity as well as risks relating to data conuption specific to use
+ofthis device. General and special controls are sufficient to mitigate against these risks.
+Overall, the potential benefits of the DreaMed Advisor Pro outweigh the potential risks that are
+mitigated by the assigned special controls and general controls for the proposed indications for
+use.
+M. Patient Perspectives:
+This submission did not include specific info1mation on patient perspectives for this device.
+Patient perspectives FDA considered for the DreaMed Advisor Pro include info1mation obtained
+through discussion with patients at public fonnns regarding their experience with continuous
+glucose monitoring systems, insulin dosing aids, and insulin pumps in general.
+N. Conclusion
+The info1mation provided in this de novo submission is sufficient to classify this device into
+class II under regulation 21 CFR 862.1358. FDA believes that the special controls, in
+combination with the general controls provide a reasonable assurance of the safety and
+effectiveness of the device type. The device is classified under the following:
+Product Code: QCC
+Device Type: Insulin Therapy Adjustment Device
+Class: II (special controls)
+Regulation: 21CFR862.1358
+9(a) Identification: An insulin therapy adjustment device is a device intended to
+incorporate biological inputs, including glucose measurement data from a continuous
+glucose monitor, to recommend insulin therapy adjustments adjustments as an aid in
+optimizing insulin therapy regimens for patients with diabetes mellitus.
+(b) Classification: Class II (special controls). The special controls for this device are
+1. Design verification and validation must include the following:
+(i) A complete description of the required data inputs, including timeframe
+over which data inputs must be collected and number of data points
+required for accurate recommendations.
+(ii) A complete description of the types of device outputs and insulin therapy
+adjustment recommendations, including how the recommendations are
+generated.
+(iii)Robust data demonstrating the clinical validity of the device outputs and
+insulin therapy recommendations.
+(iv) A robust assessment of all input data specifications, including accuracy
+requirements for continuous glucose monitors and other devices generating
+data inputs, to ensure accurate and reliable therapy adjustment
+recommendations. This assessment must include adequate clinical
+justification for each specification.
+(v) A detailed strategy to ensure secure and reliable means of data transmission
+to and from the device, including data integrity checks, accuracy checks,
+reliability checks, and security measures.
+(vi) Robust data demonstrating that users can understand and appropriately
+interpret recommendations generated by the device.
+(vii) An appropriate mitigation strategy to minimize the occurrence of dosing
+recommendation errors, and to mitigate the risk to patients of any residual
+dosing recommendation errors to a clinically acceptable level.
+2. The device must not be intended for use in implementing automated insulin dosing.
+3. Your 809.10(b) labeling must include:
+(i) The identification of specific insulin formulations that have been
+demonstrated to be compatible with use of the device.
+(ii) A detailed description of the specifications of compatible devices that
+provide acceptable input data (e.g., continuous glucose monitors, insulin
+pumps) used to provide accurate and reliable therapy adjustment
+recommendations.
+(iii) A detailed description of all types of required data (inputs) and dosing
+recommendations (outputs) that are provided by the device.
+(iv) A description of device limitations, and instructions to prevent possible
+disruption of accurate therapy adjustment recommendations (e.g., time
+zone changes due to travel).
+10

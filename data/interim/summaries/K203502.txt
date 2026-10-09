@@ -1,0 +1,198 @@
+MEDO DX Pte. Ltd. April 23, 2021
+Dornoosh Zonoobi
+CEO and Co-founder
+4560 TEC Centre, 10230 Jasper Avenue
+Edmonton, Alberta T5J4P6
+Canada
+Re: K203502
+Trade/Device Name: MEDO-Thyroid
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture Archiving And Communications System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: March 22, 2021
+Received: March 24, 2021
+Dear Dornoosh Zonoobi:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.24
+Silver Spring, MD 20993
+www.fda.govK203502 - Dornoosh Zonoobi Page 2
+801and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK203502
+Section 5. 510(k) Summary
+5.1. General Information
+510(k) Sponsor MEDO DX Pte. Ltd. (O/A MEDO.ai)
+Address MEDO DX Pte. Ltd. (O/A MEDO.ai)
+32 Carpenter Street, Singapore 059911
+Correspondence Dornoosh Zonoobi
+Person
+Contact Information 780-991-9462
+dornoosh@medo.ai
+Date Prepared November 20, 2020
+5.2. Proposed Device
+Proprietary Name MEDO-Thyroid
+Common Name MEDO-Thyroid
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+Product Code QIH
+Regulatory Class II
+5.3. Predicate Device
+Proprietary Name QLAB Advanced Quantification Software
+Common Name Kl91647
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+Product Code QIH
+Regulatory Class II
+5.4. Device Description
+MEDO-Thyroid is a cloud-based standalone software as a medical device (SaMD) that helps
+qualified users with image-based assessment of thyroid ultrasound images in adult patients of
+18 years and older. It is designed to support the workflow by helping the radiologist to
+evaluate, quantify, and generate reports for thyroid ultrasound images.
+MEDO-Thyroid Software takes as an input imported Digital Imaging and Communications
+in Medicine (DICOM) images from ultrasound scanners and allows users to upload, browse,and view images, measure thyroid lobes and thyroid nodule volumes of single frame and
+multi-frame ultrasound images, as well as create and finalize examination reports. It provides
+users with a specific toolset for viewing ultrasound Thyroid images, placing landmarks, and
+creating reports.
+Key features of the software are:
+* Single and multi-frame visualization
+* Cross Referencing
+* Manual and semi-automatic landmark placements
+* Thyroid Lobes (left and right) and thyroid nodule volume measurements
+* TI-RADS Score and Classification (based on user manual input)
+* Report generation
+5.5. Indications for Use
+MEDO-Thyroid is designed to view and quantify ultrasound thyroid image data using
+machine learning techniques to aid in analysis of thyroid lobes and identify thyroid nodules,
+including evaluation, quantification and documentation of any such nodule. The device is
+intended to be used on adult patient images of 18 years or older.
+5.6. Comparison of Technological Characteristics with the Predicate Device
+Predicate Device
+Feature
+QLAB Advanced
+Quantification (Kl91647)
+/ Subject Device
+Function MEDO-Thyroid
+Complies with DICOM Complies with DICOM
+Image input
+Standard Standard
+2D, 2D Cine, and 3D
+2D, 2D Cine, and 3D
+Scan type Ultrasound (Sing and Multi
+Ultrasound
+frame images)
+Image display
+Static Static
+mode
+Image navigation Adjust image brightness and Adjust image brightness and
+and manipulation contrast, slice-scroll, pane contrast, slice-scroll, pane
+tools layout, reset layout, reset
+Yes, capable of reviewing all
+Image review frames of multi-frame Yes
+(multi-slice) imageManual landmark
+Yes Yes
+placement
+Semi-automatic
+Yes, user-modifiable Yes, user-modifiable
+landmark placement
+* Volume (thyroid lobes and
+Quantitative user-identified thyroid * Distance
+analysis nodules * Area
+* Distance
+TI-RADS
+Yes, based on ACR Standard
+Classification
+guidelines and user manual No
+(based on user
+input
+manual input)
+Cross Referencing Yes No
+Report creation Yes No
+5.7. Performance Data
+Safety and performance of MEDO-Thyroid have been evaluated and verified in accordance
+with software specifications and applicable performance standards through software
+verification and validation testing. Additionally, the software validation activities were
+performed in accordance with IEC 62304:2006/AC:2015 - Medical device software -
+Software life cycle processes, in addition to the FDA Guidance document, "Guidancefor the
+Content ofPremarketS ubmissionsfor Software Containedi n Medical Devices."
+MEDO Thyroid-Al has been primarily trained and tested on the Philips, GE and Siemens
+ultrasound devices. The device has been tested using images acquired from the following
+ultrasound machines using high frequency linear transducers as described in Table 5.7.1 (below):
+Table 5.7.1: Breakdown of ultrasound machines used for testing
+Ultrasound Manufacturer Machine
+EPIQ 5G
+Philips iU22
+CX50
+GE LOGIQE9
+Siemens S2000Tables 5.7.2 and 5.7.3 (below) provide detailed breakdowns of device performance by ultrasound
+device subgroups:
+Table 5.7.2: Performance Analysis of device on thyroid lobe volume measurement
+for Ultrasound Device Subgroups
+Thyroid Lobe Volume (cc)
+Subgroup AI Ref. data ICC Maximum % Volume Error
+Siemens 4.27 ± 2.61 4.35 ± 2.66 0.974 (95% CI 0.967-0.978) 18.2% (95% CI 12.0-24.0)
+Philips 6.12 ± 3.73 5.95 ± 3.57 0.963 (95% CI 0.952-0.969) 21.1% (95% CI 16.5-25.0)
+GE 8.08 ±10.02 7.73 ± 9.99 0.974 (95% CI 0.969-0.977) 24.4% (95% CI 20.0-29.5)
+All 6.48 ± 6.54 6.29 ± 6.46 0.972 (95% CI 0.969-0.975) 21.7% (95% CI 19.0-24.8)
+Table 5.7.3: Performance Analysis of device on nodule volume measurement
+for Ultrasound Device Subgroups
+Thyroid Nodule Volume (cc)
+Subgroup AI Ref. data ICC Maximum % Volume Error
+Siemens 0.85 ± 1.19 0.87± 1.22 0.978 (95% CI 0.975-0.979) 17.4% (95% CI 12.0-24.0)
+Philips 1.76 ± 2.95 1.76 ± 3.07 0.972 (95% CI 0.967-0.975) 23.5% (95% CI 16.5-25.0)
+GE 1.83 ± 5.71 1.93 ± 6.34 0.974 (95% CI 0.969-0.977) 24.6% (95% CI 20.0-29.5)
+All 1.61 ± 3.71 1.64 ± 4.02 0.973 (95% CI 0.971-0.975) 22.9% (95% CI 20.0-26.0)
+The performance of the MEDO-Thyroid device has been successfully assessed on a nodule size
+range between 0.13 cc and 36.5 cc, and is independent of the sizes of nodules being measured.
+5.8. Conclusion
+Based on the information submitted in this premarket notification, and based on the
+indications for use, technological characteristics, and performance testing, MEDO-Thyroid
+raises no new questions of safety or effectiveness and is substantially equivalent to the
+predicate device in terms of safety, efficacy, and performance.

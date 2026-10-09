@@ -1,0 +1,754 @@
+n3CT
+?
+6~1
+BIOPLEXTM 2200 MEDICAL DECISION SUPPORT SOFTWARE FOR USE
+WITH THE BIOPLEX 2200 MULTI-ANALYTE DETECTION SYSTEM 510(k)
+SUMMARY
+Th is summary of 5 10(k) safety and effectiveness information is being submitted in accordance with the
+requirements of SMDA 1990 and 21 CFR 807.92.
+510(k) Number 151 0(k) Summary Report Date
+1.0 MANUFACTURER INFORMATION
+Medical Decision Support Software (MDSS) Manufacturing Site
+Manufacturer Address Bio-Rad Laboratories, Inc.
+Clinical Systems Division
+4000 Alfred Nobel Drive
+Hercules, CA 94547
+Telephone (510) 724-7000
+Establishment Registration No. 2915274
+Owner / Operator Bio-Rad Laboratories, Inc.
+4000 Alfred Nobel Drive
+Hercules, CA 94547
+Owner / Operator NO. 9929003
+Official Correspondent for the BioPlex 2200 ANA Screen
+Official Correspondent Address Bio-Rad Laboratories
+6565 185t1 Ave NEF
+Redmond, WA 98052
+Telephone 425-881-8300
+Establishment Registration No. 3022521
+Owner I Operator Bio-Rad Laboratories, Inc.
+4000 Alfred Nobel Drive
+Hercules, CA 94547
+_____ __ _____ ___ ___ ____ ___
+Official Correspondent Mr. Christopher Bentsen
+Telephone (425) 498-1709
+Fax (425) 498-1651
+2.0 CLASSIFICATION INFORMATION
+BioPlex 2200 Medical Decision Support Software (MOSS) Classification
+Classification Name Amphetamine Test System
+Common Name: Medical Decision Support Software
+ProduNcta Tmrea de BioPlex 2200 Medical Decision Support Software (MDSS) on the
+ProduNcta Tmrea de BioPlex 2200 Multi-Analyte Detection System
+Device Class Class 11
+Classification Panel Clinical Toxicology
+Regulation Number 862.3100
+BioPlex 2200 ANA Screen with MOSS 51 0(k) Summary (revised 10/24/05) Page 1 of 21BioPlex 2200 ANA Screen Classification
+Classification Name Antinuclear Antibody (Enz) me-Labeled). Anticen. Controls
+Common Name: Multi-Analyte Detection System. ANA Screen
+BioPlex 2200 ANA Screen on the
+BioPlex 2200 Multi-Analyte Detection System
+Device Class Class II
+Classification Panel Immunology and Microbiology
+Regulation Number 866.5100
+3.0 LEGALLY MARKETED EQUIVALENT (SE) DEVICES
+BioPlex 2200 System Comparative FDA Cleared Device 510(k) Product Decision
+Number Code Date
+Medical Decision Support Renedi HIS l)rtt. Pro System K941596 DNI March 27. 1995
+Software (MDSS)
+4.0 DEVICE DESCRIPTION
+Note: The Ibllowing product description is limited to the BioPlex 2200 ANA Screen Medical Decision
+Support Software (MDSS). A description of the BioPlcx 2200 ANA Screen on the BioPlex 2200 Multi-
+Analyle Detection System is incltded in the pre-market notification submission K041658. Please rcfer to
+K041658 tbr a description of-the BioPlex 2200 ANA Screen.
+I he BioPlex 2200 Medical Decision Support Softwatc (MI)SS) is a pattern recognition algorithm that can
+enhance the performance of the ANA Screen bh idcntikl ing associated diagnostic patterns among its multiple
+assay results. I he MDSS can suggest one or more possible disease associations afier idcnti1,ine patterns lfom
+the cleven ( I I) individual antibody results. The MDSS is based on the principles oflthe "k-nearenste ist hbor l
+(kNN) statistical technique. Each "unknown is compaied to a pie tstablished database that contains thc
+results for over 1.400 characterized scra/plasma. Results of MI)SS analysis ]all into one of the following
+general outcomes: Negative. No Association. or Association with l)istase. When the results of the MDSS
+analysis htll into the Association with Disease categor(. the MDSS soflwarie will propose a maximum of two
+disease classifications based upon the similarity of the current analysis to the stored results I he MDSS output
+can also aid in determining appropriate additional autoimmune serological testing. All possible MDSS disease
+associations wsith corresponding detinitions are listed in the fiollowing table. Note: MDSS outputs 9 through
+15 vwerc not observed in the clinical trial.
+Table: A IDSS Ouiput
+# NIDSS Text Output Internal
+Output
+Abbreviations
+I All antibody levels fbr systemic autrimmune disease are below pre-established cutotls. Negative
+MDSS outputs of "Negative or "No Association do not rule out autoimmune disease
+Patients with Rheumatoid Arthritis may result in an SI F association from MDSS thus MDSS
+associations from patients with RA should be interpreted w ith caution
+2 Antibody lev els show no association with NIDSS profiles fbr systemic autoimntune diseases. No Association
+MDSS outputs oltNegative or "No Association do not rule out autoimmune disease (NA)
+Patients with Rheumatoid Arthritis may result in an SIt! association from MIDSS. thus MDSS
+associations from patients wilh RA should be interprted willh caution.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 2 of 21NIDSS I'ext Output Internal
+Output
+Abbreviations
+3 Antibody levels show association with MDSS profiles for systemic autoimmunue disease. SLE
+Consider SI E. MDSS outputs of "Negative' or "No Association" do not rule out auloiminune
+disease. Palients with Rheumaloid Arthritis may result in an SIE association from MDSS.
+thus MDSS associations froom patients with RA should be interpreted with caution.
+4 Antlibody levels show association with MDSS profiles for systemic autoimmune disease. SS / SI T
+Consider SI F or Sjogren's syndromne M)SS outputs of "Negative' or "No Association do
+not rule out autoimmune disease. Patients with Rheumatoid Arthritis may result in an SfF
+association from MDSSfth us MI)SS associations hfom patients with RA should be
+interpreted with caution.
+5 Anlibody levels show associalion with MDSS profiles for systemic autoinminme disease. Polysmyositis
+Consider Polymnositis. MDSS outputs of "Negative' or "No Association( do not rile out
+auloimmune disease Patients with Rheumatoid Arthritis may result in an SLE association
+from MDSS. thus MDSS associations from patients with RA should be interprcled wvh
+caution.
+6 Antibody leve ls show association with MDSS profiles for s stemic aitoldmmune disease. Sclei oderma
+Consider Scleroderma. MDSS outputs of "Negative or "No Association do not rule out
+auloimmune disease. Patients with Rheumatoid Arthritis may result in an SI. L association
+from MDSS. thus MDSS associations from patients with RA should be interpreted with
+caution.
+7 Antibody levels show association wiill MIDSS profiles fbr sv sternic auttoitmunooe disease. MCI't / SlE!
+Couisider MCI ) or StE. MUSS outputs of Negative or "No Association dio not rule out
+autoimmune disease. Patients wi h Rheumatoid Arthritis may restill in an SI F association
+from MDSS. thus MDSS associations from patients with RA should be interpreted with
+caution.
+8 Antibody levels show association vith MDSS profiles for systemic atioittnnine disease SIE /
+Consider SI E or Scleroderma. MDSS outputs of Negative or "No Association Ldo not rule Sclerodernia
+out autoimmtune disease Patients with Rheumatoid Arthritis may result in an, SI .l association
+from MDSS, thus MDSS associations from patients with RA should be interpreted with
+caution.
+9* Anlibody levels show association with NIDSS profiles for systemuic autointmuine disease. Polymyosiis /
+Consider Polymvositis or SI F MDSS outputs of "Negative or "No Association do not nule SIE
+out autoimmune disease. Patients with Rheumatoid Arthritis may result in an SlE association
+from MDSS. thus MDSS associations from patients with RA should be interpreted with
+caution
+IO' Antibody levels show association with MDSS profiles for systemic autoimmune disease Polymvositis /
+Consider Polymvositis or MC I'). MDSS outputs of "Negative" or "No Association do not MCFD
+tile out autoimmune disease. Patients with Rheumatoid Arthritis may result in an St F
+association from MDSS, thus MDSS associations from patients with RA should be
+interpreted with caution.
+jj * Antibody levels show association with MDSS profiles for systemic auloiommtune disease Polymyosifis /
+Consider Polymvositis or Sjogren's syndrome. MI)SS outputs o[ "Negative' or "No SS
+Association" do not nile out autoitmmune disease. Patients with Rheumatoid Arthritis may
+result in an SLE associalion from MDSS. thus MDSS associations froom patitnts wi h RA
+should be interpreted wilh caution.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 3 of 21# MDSS lexI Output Internal
+Oulput
+Abbreviations
+12' Antibody levels show association with NIDSS profiles for systemic autoimmune disease. Polymvositis /
+Consider Polymvositis or Scleroderma MDSS outputs of "Negative" or "No Association do Scleroderma
+not nile out autoimmune disease. Patients w ith Rheumatoid Arthritis ma' result in an SI E
+association from MDSS. thus MDSS associations from patients with RA should be
+interpreted with caution.
+13* Antibody levels show association with MDSS profiles for systemic autoimmune disease. MCTD / SS
+Consider MC I) or Sjogren's syndrome. MDSS outputs of "Negafive" or "No Association"
+do not nile out autoimmune disease. Patients with Rheumatoid Arthritis may result in an S[E
+association from MDSS, thus MDSS associations from patients w~ith RA should be
+interpreted with caution
+14' Antihody levels show association with MDSS profiles for systemic autoimmune disease. MC I) /
+Consider MCUD or Scleroderma. MDSS outputs of 'Negative ' or "No Association do not Sclerodenna
+rule out autoimmune disease. Patients with Rheumaloid Ailhritis ma' result in an SLE
+association film MDSS, thus MDSS associations rotm patients waith RA should be
+interpreted with caution.
+15' Antibody levels show association with MDSS profiles for svsltcnic autoimmune disease. Scleroderma /
+Consider Scleroderma or Sjogren s syndrome. MDSS outputs of "Negative or "No SS
+Association do not rule out autoimmune disease Patients w tith Rhetmatoid Arthritis may
+result in an SI.F association from MDSS. thus M DSS associalions from patients with RA
+should be interpreted with caution
+*N ole these AIDSS oul/us it eri' not ohscived in the c/l.an l trial
+5.0 INTENDED USE
+I he BioPlex rm 2200 ANA Screen is intended for the qualitativ.e screening of specific antinuclear antibodies
+(ANA). the quantitative detection of antibody to dsDNA. and the semi-quantitative detection often (t 0)
+separate antibody assays (Chromatin. Ribosomal Protein. SS-A. SS-B. Sm. SmRNP. RNP. Scl-70. Jo-I.
+and Centromer e B) in human serum and/or EDTA or heparinizcd plasma. The test sy stem is used as an aid
+in the diagnosis of systemic autoimmune diseases.
+[ihe ANA Screen is intended for use with the Bio-Rad BioPlex 2200 System.
+fhe BioPlex 2200 Medical Decision Support Softwvare (MDSS). used in conjunction with the ANA Screen.
+is an optional laboratory tool that associates patient antibody results with predefined MDSS profiles that
+have been correlated with the following systemic aufoimmune diseases: Systemic Lupus Erythematosus
+(SL£), Mixed Connective [issue Disease (MC'I D). Sjdgrens Syn drome (SS), Scieroderma (Systemic
+Sclerosis) and Polymyositis.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 4 of 21
+1245.1 Indications For Use
+The BioPlexIM 2200 ANA Screen is intended fhr the qualitative screening of specific antinuclear antibodies
+(ANA). the quantitative detection of antibody to dsDNA, and the scmi-quantitative detection often (]0)
+separate antibody assays (Chromatin, Ribosomal Protein. SS-A. SS-B. Sm. SmRNP. RNP. Scl-70. Jo-] and
+Centromeje B) in human serum and/or FDTA or heparinized plasma.
+he ANA Screen is used to screen serum or plasma (ED'I A, heparin) samples and detect the presence of
+rI
+anlinuclear antibodies as an aid in the diagnosis of systemic autoimmune diseases (Systemic l.tupus
+Erythernatosus [SLUEJ, Mixed Connective Tissue Disease IMCID], Undifferentiated Connective Tissue
+Disease [UCFD], Sj.gren's Syndrome JSS]. Scleroderma [Systemic Sclerosis], Dermalomyositis,
+Polymyositis. Rheumatoid Arthritis IRA], CREST Syndronie. and Raynaud's Phenomenon) in conjunction
+with clinical findings and other laboratory tests;
+I he ANA Screen is intended fbr use with the Bio-Rad BioPlex 2200 System.
+The BioPlex 2200 Medical Decision Support Software (MD)SS), used in conjunction with the ANA Screen,
+is an optional laboratory tool that associates patient antibody results from the ANA Screen xvith predefined
+MDSS profiles that have been correlated with the following systemic autoimmune diseases: Systemic
+Lupus Erylhematosus (SLE), Mixed Connective [ issue Disease (MCTD). Sjdgren s Syndrome (SS).
+Scleroderma (Systemic Sclerosis) and Polymyositis.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 5 of 216.0 TECHNOLOGICAL CHARACTERISTICS
+Note: I he lollowing comparison information is limited to the BioPlex 2200 ANA Screen Medical Decision
+Support Software (MDSS). Comparison information for the BioPlex 2200 ANA Screen on the Biollex
+2200 Multi-Analytc Detection System is included in the pre-market notification submission K041658.
+currently under review by the US. Food and Drug Administration.
+The following table summarizes similarities and difference between the Bioplex 2200 Medical Decision
+Support Software and the Remedi I-S" Drug Profiling System (K 941596).
+Table I (a) Similarities betneen data processing modules
+Similarities between BioPlex 2200 Medical Decision Remedi ItS Drug Profiling System
+Data Processing Support Software
+Modules
+Input Library or training set data on test library of known drug spectra
+results from 1,130 patients. stored in memory.
+Function Data processing module for Data processing module for
+association of patient specific association of patient specific
+information with the current information wxith the current
+condition of the patient. condition of the patient
+Technology Computer based. software driven. Sophisticated computer algorithr.
+data driven a!gorithm.
+Output Test results as compared to l est results as compared to known
+training set. librar.
+Table 1( b) Differences betreen data processing modules
+Differences between BioPlex 2200 Medical Decision Remedi HS Drug Profling System
+Data Processing Support Software
+Modules
+Input Results from serological analysis Results from chromatographic
+of patient serum or plasma for analysis of patient urine or serum
+specilic autoantibodies, forldrugs.
+____________ _______
+Function Identification of possible disease Identification of possible drugs in
+associations, the biological specimen.
+Algorithm k-Nearest Neighbor data analysis Peak Identification for comparison of
+Technology algorithm and pre-established unknown to spectral library of drugs.
+medical database.
+Output List of test results in IU/ml and Al List of test results in the form of a
+(antibody index). Chromatogram.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 6 of 21
+1267.0 PERFORMANCE SUMMARY
+Note: Perolrmance testing summarized in this section is limited to additional clinical concordance and
+MDSS related claims added to the package insert since submission of K041658. BioPlex 2200 ANA Screen
+on the l3ioPlcx 2200 Multi-Analytc Detection System. Please refer to K041658 lor pertormance testing
+information relating to the original BioPlex 2200 ANA Screen submission.
+Clinical testing to evaluate the clinical performance of the BioPlex 2200 Medical Decision Support
+Software (MDSS) for use with the BioPlex 2200 Multi-Analyte Detection System. as well as the
+concordance of the BioPlex 2200 ANA Screen with clinical diagnosis lor seven targeted diseases was
+conducted at three sites located in the U.S. The study was conducted using 908 samples collected
+prospectively hom consecutive patients being seen in a rheumatology clinic and suspected of or with a
+history consistent with an autoimmune / connective tissue disease. A subset of214 subjects from this
+prospective population was collected and tested as matched serum, EDTA (N -214), and sodium
+heparinized plasma (N2 14) samples.
+Additionally. 222 normal blood donors were added to the MDSS analysis where they were presumed to be
+negative for autoimmune disease.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 7 of 217.1 BioPlex 2200 Ana Screen Clinical Concordance Analysis
+7.1.1 Targeted Disease Analysis
+In addition to traditional sensitivity. specificity and predictive vlulC analysis. the use o likelihood ratio
+analysis has been recommended for auloimmune testing. Performance ofl he ANA Screen was compared
+against five (5) targeted disease associations with results presented in the lbllowing table. Samples were
+prospectivyel collected from patients being seen in a rhcumatology clinic diagnosed using American
+College of Rheumatology (ACR) or appropriate established disease classification criteria for any mention
+of the tollowing targeted disease associations:
+* Systemic Lupus Erythematosus (SI.11)
+* Sj6gren-s Syndrome
+* Scleroderma (Systemic Sclerosis)
+* Mixed Connective Tissue Disease (MCTD)
+* Polymyositis
+Ta/e 7gcieied I)iseae ,lssoci/lions
+ItioPlex ANA Screen
+N 908
+Positive Negati e Total
+Targeted Cit1) Disease 280 134 414
+All Others
+I1In 3841 494
+non targeted and no CTID
+1otal 390 51 8 908
+Sensitivity 67.6% 95% C] 63.0 -72.3%
+Specificity 77.7% 95% C1 73.9-81.5%
+Overall Agreement 73. 1% 95% ('I 70.2 -76.1%
+Positive likelihood Ratio 3.04 95%0 CI 2.54 -3.62
+Negative Likelihood Ratio 0.42 95% (C1 0.36 -0.48
+Odds Ratio 7.29 95% CI 5.43 -9.80
+Prevalencc 45.6% 95% (1 42.3 48.9
+T'he above (as well as subsequent) statistical calculations are defined as lollows:
+Sensitivity: VP1/ (' lP4 N) x I00 Positive Likelihood Ratio: Sensitivity/(100-Specificity)
+Specificity: TN/(FP+TN) x I00 Negative Likelihood Ratio: (100-Sensitivity)/Specificity
+Prevalence: (TP+FN)/(TP+FN I FPf I N) x 100 Odds Ratio: (I'PxTN)/(FPxFN)
+Overall Agreement: (TP +TN)/(TP+FN+FP+ I'N) x 100 Prevalence: (TP+FN)/(TP+FN+FP+I N) x 100
+where
+TP -True Positive TN '[rue Negative
+FPP False Positive FN False Negative
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 8 of 217.1.2 Individual Disease Analysis
+Performance of the ANA Screen was compared against the predicate device in the five (5) targeted disease
+associations. They are shown in the following set of clinical concordance summary tables vwhere the area(s)
+in white represent autoantibodies that are clinically relevant for the specific disease classification being
+discussed. Fhe area(s) in light grey represent autoantibodies that are commonly observed for the specific
+disease classification. The area(s) in dark grey represent autoantibodies that arc not commonly associated
+with the specific disease classification. Patients may have multiple diagnoses and may be represented in
+several disease classifications.
+Systemic LIpus Eoruhemnaosus (SLIF,)
+Performance of the ANA Screen was compared against the predicate dev ice by testing samples
+prospectively collected from patients being seen in a rhcumatology clinic diagnosed using American
+College of Rheumatology (ACR) criteria lbr any mention of Slit. Ihe specimens were tested by both the
+ANA Screen and commercially available microplate EIA methods that were specific fbr the corresponding
+autoantibodies. Results are summarized in the followving table.
+Table: ANA Screen vs EI: (ClinicalD iagnosis -SLE
+N= 33222
+Bio-Rad and
+213 75 86 16 lot 34
+EIA Positive
+Bio-Rad Positive
+7 9 360 I 10 8 19 tO 13
+and EIA Negatiec
+Bio-Rad anti
+57 190 183 299 2J8 280 280 241 244
+E1A Negative
+Bio-Rad Negative
+and Il1A Positive
+% Ov~er~ alol Over~al l 81 %" 93% 81% 95% 96% 95% 92 93% 94%
+Agreement
+95%~M 95 1 % ~~~~~7879-- 77- 92- 94- 92- 90- 89- 91- ~
+Confidence Interval 86 96% 85% 97 98% 97% 96% 95% 97%
+Note: 95% confidence interval not calculated for antibodies not clinically relevant to disease.
+46 Bioplex dsDNA indeterminate and EIA dsDNA equivocal results are excluded from the calculations.
+I 5 EJA RNP equivocal results are excluded from Ihe calculations.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 9 of 21Prinur A)iog;-en's Syn'dome
+Performance of the ANA Screen was compared against the predicate device by testing samples
+prospectively collected from patients being seen in a rheumatology clinic diagnosed with an American-
+European Consensus Group criteria for any mention of Primary Sjdgren's Syndrome. I he specimens vwere
+tested by both the ANA Screen and commercially available microplate EIA methods that were specific lor
+the corresponding autoantibodies. Results are summarized in the blilowing table.
+Table: ANA Screen vs DA: Clinical Diagnosis - Primary Sjogren 's Symndrome
+N=16 N)iZ2},
+lBio-Rad and a owgn
+EHA Positive
+..:. >: , :*. .... 2 .~ i 5 i= E 5 5
+Bio-Rad Positive
+0 ,0 0 0 1 (1
+and EHA Negative
+Q
+lBio-Rad and
+FIA Negative
+Bio-Rad Neganive 0 5 ft I 0 , 0 > A
+and EA Positive :;
+%Overall
+0 I004N 100 f% 00 1o o% 94% 100 88 94% IWMA 100%WI W0%_
+Agreement
+95% k48 St 86 J~ 86 - 72- 8 64- 2- 86 8 8
+Confidence Inter-val 100%/1. Vb_~ 9fl4 ioo% I W/10 990%0 00%,, l 99% toor
+3 dsDNAIioPlex indeterminate and EtA equivocal results wer excluded from the calculations.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28105) Page 10 of 21Scicroderma (Svstemic Sclerosis)
+IPcrlbrmance of the ANA Screen was compared against the predicate device by testing samples
+prospcctively collected from patients being seen in a rheumatology clinic diagnosed using ACR criteria fir
+an' mention of Scleroderma. The specimens were tested by both the ANA Screen and commercially
+available microplate EIA methods that were specific for the corresponding autoantibodies. Results are
+summarized in the tollowing table.
+Table: AVA Screen vs EIA Clinical Diagnosis - Scleroderma (Systemic Sclerosis)
+#44
+N=44 en
+7~~~~~ U :C)a~} > 'g:* = 5 l ! :
+Bio- Rod and 12
+VIA Positive FU!O
+Bio-Rad Positive +. a 0
+A
+and IA Negative I 3C ; .
+Bio-Rad and L
+VIA Negative 4c~4(cid:143)~t~~4 ~ 4 8 3 44 3
+Bio-Rad Negative
+and EIA Positive :
+%Overall 75 % g %VW ,00%9W S $ [96% 100$
+Agreement
+95% 60- 84:- is 4~ U 92 299-S-8487
+- -
+(onidence Interval 90% 1% 10 % i 94000% i0 1 10 100% 100%
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9128/05) Page 11 of 21
+i13!Af ixed ( omwclive Iissue Disease (AIC7TD)
+Perlbrmance of the ANA Screen was compared against the predicate device by testing samples
+prospectively collected from patients seen in a rheumatology clinic wvho were diagnosed with an Alaracon-
+Segovia or Kahn criteria for any mention of MCID The specimens were tested by both the ANA Screen
+and commercially available microplate EIA methods that were specific fIr the corresponding
+autoantibodies. The high incidence of anti-chromatin antibodies in patients with MCTD has been
+previously documented. Results are summarized in the obllowing table.
+Table: ANA Scteen vs EIA Clinical Diagnosis- Mixed Conneclive Tissue Disease (MCTDi)
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~5
+B~io-Rad and H
+16~~~~~~~~~~~~~~~~~~~~~~~~m4~4,~$ % 1 >¢
+EIA Positive
+Bio-Rad Positivc
+and FIA Negalte !>M t '
+Rio-Rad and O
+FIA Negative < 4 > 1 4 t
+_ 0 XF, l Ii~: 0
+Bio-Rad Neg fine 0
+and FAA Posaitvc
+%O vcrallI I r. i 60& 100% 100% ; i 88% 100% ... ..... .. %t
+Agreement 940>
+95% Confidencc 86 - tv 8> 6 6 2 72 8> 8
+interval 100% 0% I0r 16.9% I170 9 9 0% 10
+BioPlex 2200 ANA Screen with MOISS 510(k) Summary (revised 91281Q5) Page 12 of 21
+1/ 2'olpvnivosilis
+Performance of the ANA Screen was compared against the predicate device by testing samples
+prospectively collected fiom patients seen in a rheumatology clinic who were diagnosed with literature
+criteria for Polymyositis. The specimens were tested by both the ANA Screen and commercially available
+microplate EIA methods that were specific for the corresponding autoantibodies. Note: I he presence of
+antibodies to Jo-I in patients diagnosed with Polvmyositis has been well documented. Results are
+summarized in the following table.
+Table AVA Screen vs AL: Clinical Diagnosis - Polymyositis
+01~~~ ~~~~~~~14 -& :l: i 7ri 3:
+>5<
+Bio-Rad and 6 ~< O5 ';)""t *~ 2 2
+EIA Positive
+Bio-Rad Positixve 5 44
+0 0 10 O V:t
+and EIA Negative :;"
+U
+Bio-Rad and
+3 '1 : 1 7 I2-rL : y
+]IA Negative
+Bio-Rad Negative 0
+3 = ,0 }- '
+and EIA Positive 4 : -
+9O4 verall
+75% ~?/o0 100% W01%
+Agreement :
+5%Confidence - N>8 :52 ;g2, 82
+Interval 91%9 100/. 100% I 4O I10000%% J0Oa
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 13 of 21
+1 33Von Tug;eled and No C'onncclie Tissue DIiseose
+Perfirmance ol the ANA Screen was compared against the predicate ,evice by testing samples prospectively
+coliccled Irom patients seen in a rheumatology clinic who ..ere not diagnosed vith a targeted connective
+tissue disease by established medical criteria. I he specimens "crc tested by both the ANA Screen and
+commercially available mricroplate VIA methods that were specific tor the corresponding autoantibodies.
+RCsults are summarized in the Ibllowing table.
+Ta1h/c A NA St-'een v5 ELI Clinical Iiagnosis -Non-Dn'geied and No Connective Tissue Diseave
+z U
+I
+N=494 Z cJ ' u < , , =~~~~...~.f..l~. ..~..~~ ~ ~ ~~~~ < ;~ ~ rs i~' ~ ~~~~~~ =:
+:
+>
+Biod'], 2200 and 79 MIR2-
+VIA Positive
+Positiv e and VIA 31 1 G 5 6
+Negative _____-___
+ll~e. 2200 and 34
+IA Negative
+_
+BioPlcx 2200 Negative
+and VIA Positive ________
+]ntcnal 814, 96A~ 93% l 99 99%> 0 10-i 9r;:x ~t: O 49
+81 ¢i; 14:?!: ::,3~:~ ::¢i:1 ~~~~~~~~13
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 14 of 217.2 MEDICAL DECISION SUPPORT SOFTWARE (MIDSS) PERFORMANCE ANALYSIS
+BmiPlex ANA Screen Medical Decision Support Solitware (MDSS) results, wvhen compared with disease
+classification by ACR- literature or appropriate established medical Criteria for targeted connective tissue
+disease I CTD). are presented in the following tables. T he MDSS can suggest one or more possible disease
+assciaion aferidentifying patterns I h lvn(I I) individual antibody results. ~g~inpoeO
+more possible disease associations may aid a physician in the dif-ferential diagnosis of-certain systemic
+auton-immurn diseases... since a recent study demonstrated only a 49% agreement between the referring and
+final diagnosis. In addition. MDSS can report that antibody levels show no association with MDSS defined
+patterns (No Association). or may report that all antibody results are below the established cut-offs
+(Negative). A total of 1,130 results, a combination of the 908 subjects seen in rheumnatology clinics and the
+222 normal blood donors presuImed to be negative for autoim-mune diseases. were analyzed.
+Note: It is sometimes difficult to distinguish 811 and Sjiogren's disease, even when both serological and
+clinical data are considered. The complexity inherent in diagnosing autoimnmune disease is further
+illustrated in a recent study that demonstrated only a 49% agreement between the referring physician and
+final diagnosis.
+MDSS dlescr iptions used in the following MDSS clinical performance tables are defined as follows:
+Negativ e to r all antibodies All antibody levels bor sys temnic autoimm-une disease are
+below pre-established cutoffs
+Positive fo r one or morec antibody Anv one of the BioPlex 2200 ANA I1I analytes is positive
+S1F Systemi c Lupus Frythemnatosus
+S8 Sjoicgin's Syndioni
+Sclcrodermai same
+M(' Il) Mixed Connective [1issue lDisease
+Polyrnyosi tis same
+No Association Antibhody levels show no association with MDSS detined
+patterns for systemic autoimnmune diseases
+7.2.1 MDSS vs. Disease Classification - Targeted and Non-Targeted Connective Tissue Diseases
+'The following table presents percent disease agreement of the MDSS output with the diagnosis provided by
+a physician. Data is presented as percent diseases agreement for patients with one or more positive
+antibodies and for patients wvithl a targeted connective tissue disease (TCTD) classification, regardless of-
+antibody response. The difference between disease agreements is the inclusion of negative results for all
+antibodies in the TCED patients. MDSS does not provide an association with a patient with negative test
+results for all antibodies.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9128/05) Page 15 of 21Table MDSS vs. Disease Casi Warion (V= I/3D)
+MI)SS Output *
+O/%D isease
+Agreement
+"0
+0~~~
+~~
+~ -
+~~~~~~~~
+Disease Classification . Patientsn
+b~y ~~~~~ ( ~~N ~.) ~ ~ < Crteia '. vith Patients wNith
+~0Positiv TCTD
+Q -
+by Crileria** 0= < ,. < ~ wih Ptenswt
+> (N)
+- >
+O-.~~~~~~~~~~~~~~P
+~/~~~~~~ 0
+ci
+Systemic L~upus 85.3% 56.0%
+Ervthemnatosus (SLE) 33 1 8 16 2 8 0 (186/218) (186/332)
+MiwCdo nnective~~ H ~ ostie CT
+Pi( NnInoICr Dry eS) -~s ~1 6 I 15 0 15 13 0 0 867 (1N3
+8p15..33%% 8116..37%%
+o EPrriisySavsrielhcoeldeDmy ioessri(if6sa1 s (S o U SJ,41 ~4) 3~2~ nd163c1 r mo2 31 ! 20038 1111895 3 21I2~ 3 ~9~o~71 6( 16/31 o 3381 ) 000 1 3/16) (8168.76%/1 ) (2((811118636.//33412%46)))
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+0 --___________ -- - --
+Bio MIx 220oANneSctiveen with MDSS 510 Summary (revised 9/28/05) Page 81.3% 81.3%
+lissue Discase 16 0 16 0 15 0 I 13 0 (3/) 316
+0
+c ({ M(- ID)
+3_3 3% 16.7%
+PoI> m5osilis 12 6 6 0 4 0 0 1 2*** (/)(/2
+Mi xloohTlee d Co nnective Tsu ies
+· See Appendix A/for a comp/lee list of possible 3lOSS ontpztis Nole: as indicated in Appendix A, not all M1DSS' outputs
+trer ohsen'ud in/the c/in ical ritiat .jdgen 's Syndrome a/one aind AaI'Tl /) tone life not oil/pitS of MDSS.
+* Targeted diseases pre sented include all patientsI i ilh eachI disease c/lasswfication. and patients ,,nai have naultiple
+disea~se c'la.stificat/ons. ir/d, the exceptionl of Primar) .S/Ogree 's Sl'ndrome
+·**h or these patients, tile M/).SS outputs suggesting Po-' o iti rfrenctehde disorder alone and niot in combination
+witi another Tar~geted ( onneetive tissue 1)isense.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 16 of 21
+1 367.2.2 MDSS Assignments in Patients with TCTD and a Positive Antibody Result
+laboratory measure ment of autoantibodies has historically been driven by a pmSUMpt c diagnosis For
+example. a request for anti-Sm wouel fLllow froom a presumptiv e diagnosis of SI.:E A positive result Ior anti-
+Sm would be supportive of the presumptive diagnosis. The table below presents the %0a greement ofl the
+MDSS output when a specific positive antibody result is present and Ihe diagnosis provided by the physician
+is consistent with the presence of that antibody. I he table shows that for such samples. the MDSS associations
+are in good agreement with the diagnosis by established medical criteria.
+Table: MDSS Assignments in Patients with T(7TD and a Positive /Inlibo(ch; Resull
+Positive Antibody Disease by Established MDSS Output** % Agreement 95%
+Test Results Medical Criteria* Confidence
+Interval
+dsDNA (N - I 119) SLE (N = 92) Any SI E (N -87) 87/92 or 95% 89-100%
+Chromatin (N = 168) SLE (N - 122) Anv SLE (N - 112) 112/122 or 92% 86-97%
+Ribosomal Protein SIE (N -30) An 5 ' S1E (N = 29) 29/30 or 97% 83-99%
+(N = 37)
+SSA (N 173) SS (N = I5) SS or SIP (N = 13) 13/15 or 87% 62-96%
+SILE (N = IIl) Any SLE1 (N = 106) 106/111 or 96% 91-100%
+SSP; (N 76) SS (N 13) SS or SE1E (N 13 ) 13/13 or 100% 83-100%
+Sin (N 60) SIE (N = 49) Any Sit-l (N 49) 49/49 or I 00% 99-110%
+SmRNP (N - 103) MCTI) (N = 15) MCI I) or SIT' 13/15 or 87% 62-96%
+(N '13)
+RNP (N = 112) MCTD (N = 15) MCTID or SIPE 13/15 or 87% 62-96%
+(N 13)
+Scl-70 (N = 23) Scleroderma (N = 7) Sclerodcrma: 5/7 or 71% 36-92%
+SLE or Scleroderma
+(N 5)
+Jo-I (N -6)** * Polymyositis (N - 2) Polyroyositis 2/2 or I 00% 43-1 000/%
+(N 2)
+Centromere (N = 38) Scleroderma (N = 12) Sclcroderma ; 1 I/12 or 92% 65-99%
+SLF or Sclcroderma
+(N = 111
+SLE (N = It) Any S1E (N 9) 9/1 1 or 82% 52-95%
+iTnageted diseases presented include, all patients with each disease class/i calion, and patients may have
+multiple disease classiflea/ions Establishedm edical criteria used in this studI include criteria
+established by the A mi-ican College of Rheumatology (A(1 ?).. 4merican-European Concenyus (Cro up
+.ilarcon-Segovia or Kahn as i'eI ais literatu e lrilcria for Pao/ Imn ositis
+**See .ppendix .I of/he In7srIctions PIor Use for ci complete list of possible AI D)SS outputs.
+*** Note The presence of antibodies to Jo- I in paltici1v diagnosecd iith PohlvTLosilis hav been ,,ell
+docinl,o nted
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 17 of 21
+3-77.2.3 MDSS Agreement with Disease Classification by Criteria
+For each of the targeted connective tissue diseases encountered in the clinical trial. the tables below present
+the number of patients with a positive antibody test and the number of correct MI)SS associations in addition
+to calculations of Odds Ratio, Positive Likelihood Ratio, and Negative Likelihood Ratio. Since some MDSS
+outputs contain more disease associations than the disease association under consideration. the results in the
+first table were calculated by excluding patients with other diseases listed in the output. The second table
+presents results where these patients were not excluded. Not all patients with a targeted connective tissue
+disease prodUce antibodies that may be detected with the BioPlex 2200 ANA Screen.
+Tble: AIDSS Agreement with Disease Classification( excluding patients with other ILU) SS associalions)
+Systemic Primary Mixed
+DisaseClasifcaton Lupus
+Disease Classification Enpu t sSj6gren's Scleroderma Connective Polymyositis
+Erythematosus
+by Criteria Syndrome (N = 44) Tissue Disease (N =1 2)
+(N=332) (N = 16) (N = 16)
+(N = 332)
+Positive Antibody 218 15 31 16 6
+Test(s)
+M DSS Associations 186 13 16 13 2
+Odds Ratio (OR) 12.8 479.8 22.1 481 2234
+OR 95G/% Confidence 9.1 -17.8 111,4 10 3-47T5 11 1 .7- 2071.9 11.9 -26676
+Interval 2065.6
+Positive Likelihood 6.17 90.8 14.4 91 0 186.3
+Ratio (PLR)
+(PLR) 95% Confidence 4.8-T 1.8 -
+(PtER) 91%9Confidence 4.8-7.9 4 7.9- 26 1 41.95 - 197.35 18.1 - 1919.2
+Interval 196.9
+Negative Likelihood 0.48 0.19 0.65 0.19 0.83
+Ratio (NLR)
+NLR 95% Confidence 0.43 -0.54 0.07 -0.52 0.52 -0.81 0.07 -0.52 0.65 - 1.07
+Interval
+Total N after exclusions 1059 798 798 800 I 130
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28105) Page 18 of 21Tale tDSS Agreeen with Disease Classification (includi palients wih mup DSS associations)
+Systemic Lopus Primary Mixed
+Disease Classification Erythematosus Sjijgren's Scleroderma Connective Polymyositis
+by Criteria (SLE) Syndrome (N = 44) Tissue Disease (N = 12)
+(N = 332) (N = 16) (N= 16)
+Positive Antibody 218 15 31 16 6
+Test(s)
+MDSS Associations 186 13 16 13 2
+Odds Ratio (OR) 7.9 162.1 23.3 196.8 223.4
+O O R te R9 95 5v % l / C C o o n n f f i i d d e e n n c c e e 5.9 -10.6 4 5 3 9 .8 .6 - I 1.3 -48.2 52.6 -735.4 1.9 -2667.6
+Interval 599.6
+Positive Likelihood 4.03 31.21 15.19 37.71 186.3
+Ratio (PLR)
+(PLR) 95% 3.3 -4.9 20.3 -47.9 8.8 -26.2 23.8- 59.8 18.1 -1919.2
+Confidence Interval
+Negative Likelihood 0.51 0.19 0.65 0.19 0.83
+Ratio (NLR)
+NLR 95/ :onfidcnce O --00.5.475 0.07 -0.53 0.52 -0.81 0.07 -0.53 (0.65- 1.07
+Interval
+Total N 1130 1130 1130 11301
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 19 of 21
+.397.2.4 MDSS vs. Non-Targeted Connective Tissue Diseases
+Some of the Clinical Disease Classifications encountered do not have an associated MDSS output. tIh ese non-
+targeted connectiv e tissue diseases should be classified as either Negativ e or No Association by MDSS.
+I towever. in some instances. a MDSS association wsas incorrectly presented. the MDSS results incorrectly
+associated wxith a targeted connective tissue disease can be classified as % Incorrect Association. The results
+are summarized in the Ittlowing table:
+'I able: MDSS xs. Non-Targeted Connective Tissue Diseases
+o
+c/)
+7z 0
+Clinical Disease % Incorrect
+Classification (N) n Association
+SC) ~~~~~ ~~<1o Ascito
+Dermatomyosifis- only 15 12 3 20% (3/15)
+R heumatoid Arthritis- onub 341 310 31' 9%(31/341)
+0
+Other CTD- only 45 36 9 20% (9/45)
+No C II) 77 77 61 16
+Blood Donor Samples 2222 222 214 8-
+* Of the 3 ] patients with only i heunitoid arrthrilis. 27 were associatedw ith SL£ by Mi)SS.
+Patients with Rheumato'id Arthriti na ryes ult in an SLE association from MDSS. 4 ddilionali/.
+patients with Rheumatoid/Irthritisw ho are receiving an/i- TFca blockers as part a/their therapy have
+been reported to pjroduce antibodies against both dsDN4 and Chromatin. For these reasonu, MDSS
+associations/fi'on patients with RheumatoidArthritiss hould be inteipretedw ith caution See also
+Limitations of the Procedure
+* * The clinical status of blood donors tested in this studv was not known
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28105) Page 20 of 21
+14 07.2.5 MDSS Correct Association with Disease Classification
+Traditional ev aluation strategies for diagnostic tests do not always directly apply to the evaluation of
+decision support systems. because decision support systems ollen do not provide one answer. and each
+subject may have more than one diagnosis. The percent correctness is defined for this study as the number
+of patients wvith a given MDSS association who also have that disease by ACR. literature. or established
+medical criteria. The percent correctness results illustrated in Fables T and U should be considered in
+conjunction with the following prev alence of disease observed in this slud): StE 29% (332/1 130),
+Sjogren's Syndrome 1.4% (16/1130). Scleroderma 3.9% (44/1130), Mixed Connective Tissue Disease
+1.4% ( 16/1130), Polymyositis 1.1% (12/1130). Other Connective Tissue Disease 36.9% (417/1130). and
+No Connective] -issue Disease 6.8/, (77/1 130). Note: the Correct Association values presented in the
+tollowing tables may change in diflerent patient populations.
+7Table Correct Association without any Targeted Disease Classification
+MDSS Output # by MDSS # Without any Correct 95% Confidence
+Targeted Disease Association Interval
+Negative 719 585 81.4% (585/719) 78.4- 84.3%
+No Association 89 57 64% (57/89) 53.3 -74.8
+Table: Coirect Associalioni'lthT ai eted -isease Classificaion
+# by Clinical Correct 95% Confidence
+NII)SS Output # by MDSS
+Diagnosis Association Interval
+S1.E only 198 142 71.7% (142/198) 65.1 -78.3%
+SLE or SS 42 35 83.3% (35/42) 70.2 -96.5°4,
+MCTD or SLE 37 30( 81.1% (30/37) 66.3 -95.9%
+Scleroderma 22 9 40.9% (9/22) 23.3 -61.3%
+SLE or
+Scleroderma 20 I I 55% (11/20) 342- 74.2%
+Polymyositis
+Ponlyirooi3 2 . 66.7% (2/3) 20.8 -93.9%
+* One of these 3 patients was diagnosed with Dermatomyositis.
+BioPlex 2200 ANA Screen with MDSS 510(k) Summary (revised 9/28/05) Page 21 of 21
+1414
+~~DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Drug Administration
+O7 C220T0 5
+~~2098 Gaither Road
+O7 C2T020 .5 ~
+Rockville MD 20850
+Bio-Rad Laboratories
+c/o Mr. Christopher Bentsen
+Manager, Regulatory, Quality and Clinical Affairs
+6565 th Ave., NE
+185
+Redmond, WA 98052
+Re: k043341
+Trade/Device Name: BioPleXTm 2200 ANA Screen with Medical Decision Support Software
+(MDSS) for use with the BioPleXTm 2200 Multi-Analyte Detection
+System
+Regulation Number: 21 CFR 862.3 100
+Regulation Name: Liquid Chromatography, Amphetamine
+Regulatory Class: Class II
+Product Code: NVI
+Dated: December 2, 2004
+Received: December 3, 2004
+Dear Mr. Bentsen:
+We have reviewed your Section 5 10(k) premnarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications for
+use stated in the enclosure) to legally marketed predicate devices marketed in interstate commerce
+prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to devices that
+have been reclassified in accordance with the provisions of the Federal Food, Drug, and Cosmetic
+Act (Act) that do not require approval of a premarket approval application (PMA). You may,
+therefore, market the device, subject to the general controls provisions of the Act. The general
+controls provisions of the Act include requirements for annual registration, listing of devices, good
+manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish
+further announcements concerning your device in the Federal Regzister.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act or
+any Federal statutes and regulations administered by other Federal agencies. You must comply with
+all the Act's requirements, including, but not limited to: registration and listing (21 CFR Part 807);
+labeling (21 CFR Part 80 1); good manufacturing practice requirements as set forth in the quality
+systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product radiation
+control provisions (Sections 531-542 of the Act); 21 CFR 1000-1 050.Page 2
+This letter will allow you to begin marketing your device as described in your Section 5 10(k)
+premarket notification. The FDA finding of substantial equivalence of your device to legally
+marketed predicate device results in a classification for your device and thus, permits your device to
+proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Office of Compliance at (240) 276-013 1. Also, please note the regulation entitled,
+"Misbranding by reference to premarket notification" (21CFR Part 807.97). You may obtain other
+general information on your responsibilities under the Act from the Division of Small
+Manufacturers, International and Consumer Assistance at its toll-free number (800) 638-2041 or
+(301) 443-6597 or at its Internet address
+http: //www. fda.gov/cdrh/dsma/dsmamain-html
+Sincerely yours,
+Robert L. Becker, Jr., M.D., PhD
+Director
+Division of Immunology and Hematology Devices
+Office of In Vitro Diagnostic Device Evaluation and Safety
+Center for Devices and Radiological Health
+EnclosureBio-Rad laboratories Pre-market Notification (k043341)
+BioPlex TM 2200 ANA Screen with MDSS September, 2005
+INI)ICATIONS FOR USE STATE;IIMENT
+510(k) Number (if known): 953?? t!
+Device Name: BioPlexT M2200 ANA Screen with Medical Decision Support
+Software (MDSS) for use with the BioPlex'" 2200 Multi-Analyte
+Detection System
+Indications for Use:
+Tihe BioPlexTM 2200 ANA Screen is intended for the qualitative screening of specific antinuclear antibodies
+(ANA), the quantitative dejection of antibody to dsDNA, and the semi-quantitative detection often (10)
+separate antibody assays (Chromatin, Ribosomal Protein, SS-A, SS-B, Sin, SmRNP, RNP, Scl-70, Jo-], and
+Centromere B) in human serum and/or EDTA or heparinized plasma.
+The ANA Screen is used to screen serum or plasma (EDTA, heparin) samples and detect the presence of
+antinuclear antibodies as an aid in the diagnosis of systemic autoimmune diseases (Systemic Lupus
+Erythematosus ISLE], Mixed Connective Tissue Disease [MCTD], Undifferentiated Connective Tissue
+Disease LUCTD], Sj6gren's Syndrome [SS], Scleroderma [Systemic Sclerosis], Dermatomyositis,
+Polymyositis, Rheumatoid Arthritis [RA], CREST Syndrome, and Raynaud's Phenomenon) in conjunction
+with clinical findings and other laboratory tests.
+The ANA Screen is intended for use with the Bio-Rad BioPlex 2200 System.
+Tlhe BioPlex 2200 Medical Decision Support Software (MDSS). used in conjunction with the ANA Screen.
+is an optional laboratory tool that associates patient antibody results from the ANA Screen with predefined
+MDSS profiles that have been correlated with the following systemic autoimmune diseases: Systemic
+Lupus Erythematosus (SLE), Mixed Connective Tissue Disease (MCTD), SjOgren's Syndrome (SS).
+Scleroderma (Systemic Sclerosis) and Polymvositis.
+Prescription Use: X AND/OR Over-The-Counter Use:
+(Per 21 CFR 801.109) (Optional Format 1-2-96)
+(PLEASE DO NOT WRITE BELOW THIS LINE- CONT INUE ON ANOTHER PAGE IF NEEDED)
+Concurrence of ('DRI1. Office ofI)evicc Evaluation (ODE)
+Page I of I
+DMdon Sign-off -
+Office of InV itro Difanot
+Device Evaluation and So*
+SI0(k) /<o/
+17'0

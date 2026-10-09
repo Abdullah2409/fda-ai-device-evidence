@@ -1,0 +1,236 @@
+October 30, 2020
+Whiterabbit.ai Inc.
+℅ Mr. Jason Su
+CTO and Co-founder
+3930 Freedom Cir., Ste 101
+SANTA CLARA CA 95054
+Re: K202013
+Trade/Device Name: WRDensity by Whiterabbit.ai
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: September 29, 2020
+Received: September 30, 2020
+Dear Mr. Su:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.19
+Silver Spring, MD 20993
+www.fda.govK202013 – Mr. Jason Su Page 2
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureSection 5. 510(k) Summary
+5.1 General Information
+510(k) Sponsor Whiterabbit AI Inc.
+Address 3930 Freedom Cir., Ste 101
+Santa Clara, CA 95054
+Correspondence Jason Su
+Person
+Contact Information 914-275-1097
+jason@whiterabbit.ai
+Date Prepared October 29, 2020
+5.2 Subject Device
+Proprietary Name WRDensity by Whiterabbit.ai
+Common Name WRDensity
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+Product Code QIH
+Regulatory Class II
+5.3 Predicate Device
+Proprietary Name Densitas densityai
+Premarket Notification K192973
+Classification Name System, Image Processing, Radiological
+Regulation Number 21 CFR 892.2050
+Product Code LLZ
+Regulatory Class II
+5.4 Device Description
+WRDensity is a standalone software application that automatically analyzes “for
+presentation” data from digital breast x-ray systems with a deep learning algorithm to assess
+breast tissue composition. WRDensity primarily generates two outputs for an exam, the
+Breast Density Level (BDL) and the Breast Density Level Probabilities (BDLP).
+Whiterabbit.ai Inc., Traditional 510(k) – WRDensityThe Breast Density Level is a categorical breast density assessment in accordance with the
+American College of Radiology (ACR) Breast Imaging Reporting and Data System
+(BI-RADS​®) Atlas 5th Edition breast density categories “A” through “D”. The BDL is the
+​
+primary output of WRDensity.
+The Breast Density Level Probabilities are the probabilities calculated by WRDensity for
+each of the four density categories. The BDLP is a secondary output that provides more
+information about the breast density of an exam and the device’s confidence level.
+WRDensity takes in images via a Digital Imaging and Communications in Medicine
+(DICOM) transfer from the facility’s mammography imaging system, Picture Archive and
+Communication Server (PACS), or DICOM router. After analysis, WRDensity sends
+outputs to be stored in the PACS and Radiology Information System (RIS). These outputs
+can then be reviewed by the radiologist on the mammography workstation as a DICOM
+Secondary Capture Image, a DICOM Structured Report, and in the RIS. These outputs can
+be configured to match user preferences.
+5.5 Indications for Use
+WRDensity is a software application intended for use with compatible full-field digital
+mammography and digital breast tomosynthesis systems. WRDensity provides an ACR
+BI-RADS 5th Edition breast density category to aid interpreting physicians in the
+assessment of breast tissue composition. WRDensity produces adjunctive information. It is
+not a diagnostic aid.
+5.6 Comparison of Technological Characteristics with the Predicate Device
+Table 5.1 Predicate Device Table
+Subject Device Predicate Device
+WRDensity densityai (K192973)
+Classification Automated Radiological Image System, Image Processing,
+Name Processing Software Radiological
+Product Code QIH LLZ
+Regulation 892.2050 892.2050
+Number
+Regulation Picture archiving and Picture archiving and
+Description communication system communication system
+Whiterabbit.ai Inc., Traditional 510(k) – WRDensityTable 5.2 Indications and Technological Characteristics Comparison
+Subject Device Predicate Device
+WRDensity densityai (K192973)
+Indications for WRDensity is a software Densitas densityai™ is a software
+Use application intended for use with application intended for use with
+compatible full field digital compatible full field digital
+mammography and digital breast mammography and digital breast
+tomosynthesis systems. tomosynthesis systems. Densitas
+WRDensity provides an ACR densityai™ provides an ACR
+BI-RADS Atlas 5th Edition breast BI-RADS Atlas 5th Edition breast
+density category to aid density category to aid interpreting
+interpreting physicians in the physicians in the assessment of
+assessment of breast tissue breast tissue composition. Densitas
+composition. WRDensity densityai™ produces adjunctive
+produces adjunctive information. information. It is not a diagnostic
+It is not a diagnostic aid. aid.
+Patient Symptomatic and Symptomatic and
+Population asymptomatic women asymptomatic women
+undergoing undergoing
+mammography mammography
+End Users Interpreting Physicians Interpreting Physicians
+Image Source FFDM FFDM
+Modalities Hologic Selenia Dimensions Hologic Selenia Dimensions
+Hologic Lorad Selenia Hologic Lorad Selenia
+GE Senographe Essential
+Synthetic 2D GE Senographe Pristina
+Hologic C-View Siemens MAMMOMAT
+Inspiration
+Siemens MAMMOMAT Novation
+DR
+Siemens MAMMOMAT Fusion
+Siemens MAMMOMAT
+Inspiration Prime
+Siemens MAMMOMAT
+Revelation
+Whiterabbit.ai Inc., Traditional 510(k) – WRDensitySynthetic 2D
+Hologic C-View
+Input: Image DICOM digital mammography DICOM digital mammography
+Data Format images – For Presentation; RCC, images – For Presentation; RCC,
+LCC, RMLO, LMLO LCC, RMLO, LMLO
+Output Data BIRADS 5th Ed. BIRADS 5th Ed.
+For each patient: For each patient:
+Whiterabbit.ai WRDensity Breast Densitas densityai™ breast density
+Density Level, and Breast Density grade
+Level Probability
+Measurement 4-category breast density scale 4-category breast density scale
+Scale from 5th Ed. ACR BI-RADS from 5th Ed. ACR BI-RADS Atlas
+Atlas 2013 2013
+Output Device Mammography Workstation, Mammography Workstation,
+PACS, RIS PACS, RIS
+Output DICOM Structured DICOM Structured
+Format Report and Secondary Report and Secondary
+Capture Capture
+Text labels presented in a
+radiologist’s PACS
+and RIS patient worklist.
+Deployment Virtual Machine Software Standalone computer
+Assessment Results per exam Results per exam
+Scope
+Assessment Image feature-based with deep Image feature-based
+Type learning
+Anatomical Breast Breast
+Location
+5.7 Performance Data
+Safety and performance of WRDensity have been evaluated and verified in accordance with
+​
+software specifications and applicable performance standards through software verification
+and validation testing. Additionally, software validation activities were performed in
+Whiterabbit.ai Inc., Traditional 510(k) – WRDensityaccordance with ​IEC 62304:2006/AC:2015 - Medical device software – Software life cycle
+processes, in addition to the FDA guidance document, ​“Guidance for the Content of
+​
+Premarket Submissions for Software Contained in Medical Devices.”
+The validation testing evaluated the performance of WRDensity along a number of
+dimensions, including:
+● Performance was assessed by comparing the Breast Density Level output to the
+radiologist consensus using accuracy, quadratically-weighted Cohen’s kappa, and
+confusion matrices. Performance on the four-class task and binary task, i.e. dense
+(BI-RADS C+D) vs. non-dense (BI-RADS A+B) were both assessed.
+● Consistency was assessed by evaluating the agreement, in terms of percentage of
+cases, between the BDL for the mediolateral oblique (MLO) and craniocaudal (CC)
+views of the same breast.
+● Reproducibility was assessed using the maximum root mean square error across all
+images between the predicted probabilities produced from an initial processing run
+and those produced in a second processing run on the same testing data.
+The output of WRDensity was compared against a consensus of five expert radiologists
+who independently assessed breast density on a test dataset that represented all compatible
+modalities and patient populations. The test dataset comprised 871 exams from unique
+patients. On the four-class task, WRDensity achieved a quadratically-weighted Cohen’s
+kappa of 0.90, 95% confidence interval [0.88, 0.92]. A confusion matrix demonstrating the
+level of agreement between the BDL and the radiologist consensus for each BI-RADS
+breast density category can be found in Figure 1.
+Whiterabbit.ai Inc., Traditional 510(k) – WRDensityFigure 1: Confusion matrix comparing the performance of WRDensity against the
+​
+radiologist consensus assessment of breast density for the four-class BI-RADS breast
+density task. The number of exams within each bin is shown in parentheses.
+On the binary task, WRDensity achieved a Cohen’s kappa of 0.88, 95% confidence interval
+[0.85, 0.91]. The confusion matrix is presented in Figure 2.
+Whiterabbit.ai Inc., Traditional 510(k) – WRDensityFigure 2: Confusion matrix comparing the performance of WRDensity against the
+​
+radiologist consensus assessment of breast density for the binary breast density task, dense
+(BI-RADS C+D) vs. non-dense (BI-RADS A+B). The number of exams within each bin is
+shown in parentheses.
+5.8 Conclusion
+Based on the information submitted in this premarket notification, and based on the
+indications for use, technological characteristics, and performance testing, WRDensity
+raises no new questions of safety or effectiveness and is substantially equivalent to the
+predicate device in terms of safety, efficacy, and performance.
+Whiterabbit.ai Inc., Traditional 510(k) – WRDensity

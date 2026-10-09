@@ -1,0 +1,181 @@
+September 27, 2022
+Neosoma, Inc.
+℅ Aly Abayazeed
+Co-founder and Chief Medical Officer
+44 Farmers Row
+GROTON MA 01450
+Re: K221738
+Trade/Device Name: NS-HGlio
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: September 1, 2022
+Received: September 2, 2022
+Dear Aly Abayazeed:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.05.00
+Silver Spring, MD 20993
+www.fda.govK221738 - Aly Abayazeed Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D.
+Assistant Director
+Magnetic Resonance and Nuclear Medicine Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary
+1.1 General Information K221738
+510(k) Sponsor Neosoma, Inc.
+Address 44 Farmers Row
+Groton, MA 01450
+Correspondence Aly H. Abayazeed, MD.
+Person Co-founder and Chief Medical Officer
+Contact Information aly.abayazeed@neosomainc.com
+443-804-8096
+Date Prepared June 14, 2022
+1.2 Proposed Device
+Proprietary Name NS-HGlio
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+Product Code QIH
+Regulatory Class II
+1.3 Predicate Device
+Proprietary Name NeuroQuant
+Premarket Notification K170981
+Classification Name Automated Radiological Image Processing Software
+Regulation Number 21 CFR 892.2050
+Product Code LLZ
+Regulatory Class II
+1.4 Device Description
+NS-HGlio is a non-invasive software as a medical device (SaMD) tool intended for
+labeling, visualization, and volumetric quantification of high-grade brain gliomas for a
+population that has been pathologically diagnosedtohavebraintumors.Thedeviceisused
+Page1as a tool by clinicians in determining the patient's disease conditions on pre- and
+post-operative MRI images. The device is not used for primary diagnosis.
+NS-HGlio device takes as an input imported Digital Imaging and Communications in
+Medicine (DICOM) images of high-grade braingliomaacquiredwith standardbraintumor
+MRI protocols and uses a deep learning methodology to semi-automatically label the
+different subcomponents of the high-grade glioma. Results are displayed on a Neosoma
+viewing software. Optionally, the software connects to clinicians’ applications (e.g.,
+PACS).
+1.5 Indications for Use
+NS-HGlio is intended for the semi-automatic labeling, visualization, and volumetric
+quantification of high-grade brain glioma (WHO grade 3 astrocytoma, WHO grade 4
+astrocytoma and WHO grade 4 glioblastoma) from a set of standard MRI images of male or
+female patients 18 years of age or older who are known to have pathologically proven
+high-grade glioma. Volumetric measurements may be compared to past measurements if
+available. NS-HGlio is not to be used for primary diagnosis, and is intended to be used by
+qualified clinical personnel as an additional source of information and is not intended to be
+the sole diagnostic metric.
+1.6 Comparison of Technological Characteristics with the Predicate Device
+Feature/ Subject Device: Predicate Device
+Function NS-HGlio NeuroQuant manufactured by
+CorTechs Labs
+K170981
+Type of Scans MRI: MRI:
+Acquired using four different MRI Neuroquant: 3D T1 pre-contrast scans
+sequences either in 2D or 3D using acquired with specified protocols
+a specified protocol
+Lesionquant: 3D FLAIR scan acquired
+(T1 pre-contrast, T1 post-contrast, with specified protocol
+T2 and FLAIR)
+Intended Brain Brain
+Anatomy
+Lesion Review 2D and 3D 2D
+Page2Feature/ Subject Device: Predicate Device
+Function NS-HGlio NeuroQuant manufactured by
+CorTechs Labs
+K170981
+Segmentation Semi-automatic and manual Semi-automatic and manual
+segmentation of high-grade glioma segmentation of brain structures
+Automated measurement of brain
+Quantification Volumetric measurement of the
+tissue volumes and structures and
+sub-components of high-grade
+lesions
+glioma
+- Provides volumetric - Provides volumetric measurements
+Output
+measurements of high-grade of brain structures and lesions
+brain glioma and - Includes segmented color overlays
+sub-components and morphometric reports
+- Includes segmented color - Automatically compares results to
+overlays of sub-components and reference percentile data and to prior
+reports scans when available
+- Automatically compares results
+to prior scans when available
+Image Format DICOM DICOM
+Report YES YES
+1.7 Performance Data
+Safety and performance of NS-HGlio have been evaluated and verified in accordance
+with software specifications and applicable performance standards through software
+verification and validation testing. Additionally, the software validation activities were
+performed in accordance with IEC 62304:2006/AC:2015 - Medical device software –
+Software life cycle processes, in addition to the FDAGuidance document,“Guidancefor
+the Content of Premarket Submissions for Software Contained in Medical Devices.”
+Page3The testing dataset consisted of 33 subjects and 132 MRIs used for the evaluation of the
+machine learning model performance. The test dataset was acquired from medical sites
+that were not included in the training dataset to ensure device generalizability. The data
+were acquired using standard of care MRI protocols on Siemens, GE, and Toshiba
+scanners. Followingthe realworldprevalenceof thehigh gradeglioma,thedata consisted
+of more males than femaleswithin theage rangeof18to 79andcoveringadiverse group
+of ethnic backgrounds.
+The reference standard (ground truth) was established using three US board certified
+neuroradiologists with expertise in measuring high grade gliomas. The dataset was
+evaluated using the DSC (Dice Similarity Coefficient) assessing the degree of overlap
+between device output and the reference standard as well as the Intraclass correlation
+coefficient (ICC) of the device output volumes and the reference standard.
+The device achieved a mean DSC of 0.88 with 95% CI of 0.86-0.90 on preoperative
+imaging and 0.80 with 95% CI of 0.77-0.83 on postoperative imaging which is higher
+than the mean DSC of the average of the three experts for the sametask,which was0.84
+on preoperative imaging and 0.74 for postoperative imaging respectively. The mean ICC
+was 0.98 with 95% CI of 0.97-0.99.
+1.8 Conclusion
+Based on the information submitted in this premarket notification, and based on the
+indications for use, technological characteristics, and performance testing, NS-HGlio
+raises no new questions of safety or effectiveness and is substantially equivalent to the
+predicate device in terms of safety, efficacy, and performance.
+Page4

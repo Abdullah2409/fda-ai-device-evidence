@@ -1,0 +1,624 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I. GENERAL INFORMATION
+Device Generic Name: Automated External Defibrillator
+Device Trade Name: Avive AED, Avive AED Pad Cartridge, Avive AED Training
+Cartridge, Avive USB Charging Cable, Avive USB Power Adaptor
+Device Procode: MKJ
+Applicant’s Name and Address: Avive Solutions, Inc.
+223 Mississippi Street, Unit 2
+San Francisco, CA 94107
+Date(s) of Panel Recommendation: None
+Premarket Approval Application (PMA) Number: P210015
+Date of FDA Notice of Approval: October 31, 2022
+II. INDICATIONS FOR USE
+The Avive Automated External Defibrillator (AED) is intended for emergency treatment
+of individuals who are exhibiting symptoms of cardiac arrest. A person in cardiac arrest:
+(cid:120) Is unresponsive; and
+(cid:120) Is not breathing normally.
+The Avive AED analyzes the patient’s electrocardiogram, interprets the cardiac rhythm,
+and automatically delivers an electrical shock to treat ventricular fibrillation or pulseless
+ventricular tachycardia.
+The Avive AED is indicated for adult and pediatric patients over 1 years of age. When a
+patient is less than 8 years old, or weighs less than 55 lbs., the Avive AED should be used
+in Child Mode. Otherwise, the Avive AED should be used in Adult Mode. Therapy
+should not be delayed in order to determine exact age and/or weight.
+III. CONTRAINDICATIONS
+Avive defibrillators should not be used if the patient is responsive or conscious.
+IV. WARNINGS AND PRECAUTIONS
+The warnings and precautions can be found in the Avive AED Owner’s Manual.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 1 of 17V. DEVICE DESCRIPTION
+Device Overview
+The Avive Automated External Defibrillator (AED) is a fully automatic, portable,
+battery operated AED containing the components and functionality required to treat
+victims of sudden cardiac arrest. The device is used with the disposable and user-
+replaceable Avive Pad Cartridge that securely attaches to the Avive AED and houses two
+self-adhesive, single use, non-sterile electrode pads used for treatment.
+The unit provides voice prompts and visual indicators suitable to guide trained and
+untrained users through a resuscitation sequence, which may include delivery of a
+defibrillation treatment and/or cardiopulmonary resuscitation (CPR). Upon activation, a
+user is instructed to apply the two electrode pads onto the bare skin of a patient who may
+be in cardiac arrest. Following placement of the electrode pads on a patient, the device
+records the patient’s electrocardiogram (ECG), analyzes the cardiac rhythm, and
+distinguishes between shockable and non-shockable cardiac rhythms. The Avive AED
+delivers an impedance-compensating, biphasic, truncated exponential (BTE) waveform
+configurable for both adult and pediatric (under 55lbs or between the ages of 1 – 8 years
+old) therapy, providing effective treatment of Ventricular Fibrillation (VF) or pulseless
+Ventricular Tachycardia (VT). Following shock delivery (if appropriate), the device
+prompts the user to perform CPR.
+The Avive AED is battery-powered via a rechargeable internal battery, and performs
+daily, weekly, and monthly self-tests to help ensure readiness for use. A status light on
+the unit provides a visual indication of whether the device is functional or not fully
+functional. A training mode is supported via insertion of the Avive Training Cartridge,
+whereby a user can interact with the AED through training scenarios. The Avive AED
+software is designed with cybersecurity in mind by implementing a secure software
+update process, communication authentication, and integrity checks for reliable data
+transfer and safe communication.
+Figure A provides an image of the Avive AED assembled with an Avive Pad Cartridge.
+Figure A. Avive AED
+PMA P210015: FDA Summary of Safety and Effectiveness Data 2 of 17Device Features
+Figure B. Avive AED User Interface
+Table A provides a detailed description of the user interface features of the Avive AED,
+referencing the labels in Figure B.
+Table A. Avive AED User Interface
+Label User Interface Description
+When pulled, the red tab reveals the packaged electrode pads, and
+A Pull Tab automatically powers on the Avive AED. The electrodes can be used for
+both adult and pediatric patients.
+Pressing the power button powers the AED on or off. When the AED is on,
+B Power Button
+this button is backlit, and when the AED is off this button is not backlit.
+Upon power on, the AED defaults to an adult energy level. Pressing the
+Child Button toggles the AED to a pediatric energy level. When set to the
+pediatric level, this button is backlit, and when set to the adult level, this
+C Child Button button is not backlit. If the Child Button is pressed accidentally, the button
+can be pressed again to revert to an adult energy level. The pediatric energy
+level is intended for patients less than 8 years old, or weighing less than 55
+lbs.
+Upon power on, the AED defaults to providing instruction in the English
+language. Pressing the Español Button toggles the AED to providing
+instruction in the Spanish language. When providing instruction in Spanish,
+D Español Button
+this button is backlit, and when providing instruction in English, this button
+is not backlit. If the Español Button is pressed accidentally, the button can
+be pressed again to revert to the English language.
+E USB Charging Port Used to recharge the AED’s internal battery.
+Located on either side of the AED, these lights flash red when the device is
+F Stand Back Lights analyzing the patient’s heart rhythm or delivering therapy, indicating not to
+touch the patient.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 3 of 17Label User Interface Description
+Provides audio voice prompts to guide users through a resuscitation
+G Speaker
+sequence.
+Contains two single use electrode pads used for treatment. The Pad
+H Pad Cartridge Cartridge is user replaceable, and pulling the red tab reveals the sealed
+electrode pads.
+The Avive AED provides a Status Light that indicates whether the device is
+J Status Light
+functional or not fully functional.
+In addition to the user interface features described in Table A, the AED contains core
+features and characteristics as described in Table B.
+Table B. List of Avive AED Features
+Avive AED Features Description
+The Avive AED delivers an impedance compensating, biphasic truncated
+Defibrillation Waveform exponential (BTE) waveform. The device has a non-escalating shock protocol that
+delivers a selected 150 J for adult patients and selected 50 J for pediatric patients.
+The device is compatible with self-adhesive electrode pads housed within the Avive
+Electrode Pads Pad Cartridge that are suitable for both adult & pediatric use. The pads are single-
+use, non-sterile, and user-replaceable.
+Rhythm Recognition The device has a proprietary algorithm for detecting whether a patient has a
+Detector shockable or non-shockable heart rhythm.
+The device allows the user to select whether the patient is an Adult or Pediatric
+Adult / Pediatric Mode patient via a button on the AED, which adjusts the defibrillation waveform
+accordingly.
+The device is a fully automatic AED, and provides audible warning prior to The
+Fully Automatic
+delivery of a defibrillation shock. Certain safety criteria must be satisfied before
+Defibrillator
+delivery of a shock.
+The device is activated via a power button or by pulling the red tab of the Avive
+Device Activation
+AED Pad Cartridge to reveal the packaged electrode pads.
+The device provides voice prompts and visual indicators suitable to guide trained,
+minimally trained, and untrained users through a resuscitation sequence. The device
+Audible User Instruction
+by default provides instruction in the English language and can be configured to
+provide instruction in the Spanish language via the Español Button on the AED.
+The device performs daily, weekly, and monthly self-tests to help ensure readiness
+Internal Self-Tests
+for use.
+The device provides a Status Light that indicates whether the device is functional or
+Visible Status Indicator
+not fully functional.
+The device provides a Training Mode whereby a user can interact with the AED
+Training Mode
+through training scenarios via installation of the Avive AED Training Cartridge.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 4 of 17Avive AED Features Description
+The device software can be updated, with security features built-in to prevent file
+Software Updates
+corruption and risk due to cybersecurity.
+Internal Rechargeable The device has a dedicated internal rechargeable battery that provides the power
+Battery necessary for AED operation.
+If the device is needed for emergency use and has a discharged internal battery, the
+unit is operable with reduced performance when connected to an appropriate USB
+Backup Power Charging power source. This allows for audio instruction, ECG analysis, patient defibrillation,
+and overall operation of the device when treatment would otherwise not be
+available.
+VI. ALTERNATIVE PRACTICES AND PROCEDURES
+Defibrillation is the only currently available treatment for termination of ventricular
+fibrillation (VF) or pulseless ventricular tachycardia (VT). Public access defibrillation is
+designed to provide potentially lifesaving treatment prior to the arrival of emergency
+personnel.
+VII. MARKETING HISTORY
+The Avive Automated External Defibrillator (AED) has not been marketed in the United
+States or any foreign country.
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+Below is a list of the potential adverse effects (e.g., complications) associated with the
+use of the device and AEDs in general.
+(cid:120) Failure to identify shockable arrythmia;
+(cid:120) Failure to deliver a defibrillation shock in the presence of VF or pulseless VT,
+which may result in death or permanent injury;
+(cid:120) Inappropriate energy delivery which could cause failed defibrillation or post-
+shock dysfunction;
+(cid:120) Myocardial damage;
+(cid:120) Fire hazard in the presence of high oxygen concentration or flammable anesthetic
+agents;
+(cid:120) Incorrectly shocking a pulse sustaining rhythm and inducing cardiac arrest;
+(cid:120) Bystander shock from patient contact during defibrillation shock;
+(cid:120) Interaction with pacemakers;
+(cid:120) Skin burns around the electrode pad placement area;
+(cid:120) Skin reaction due to sensitivity to materials used in electrode pad construction;
+and
+(cid:120) Minor skin rash.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 5 of 17For the specific adverse events that occurred in the clinical studies, please see Section X
+below.
+IX. SUMMARY OF NONCLINICAL STUDIES
+The Avive AED and accessories underwent bench evaluation, animal testing,
+biocompatibility evaluation, human factors and usability testing, as well as software
+verification and validation appropriate for devices having a major level of concern.
+Testing was conducted on key device subassemblies and the complete system.
+The Avive AED conforms to various international standards, including:
+(cid:120) IEC 60601-1, Medical Electrical Equipment – Part 1: General requirements for
+basic safety and essential performance
+(cid:120) IEC 60601-1-2, Medical Electrical Equipment – Part 1-2: General requirements
+for basic safety and essential performance – electromagnetic compatibility
+(cid:120) IEC 60601-1-6, Medical Electrical Equipment – Part 1-6: General requirements
+for basic safety and essential performance – usability
+(cid:120) IEC 60601-2-4, Medical Electrical Equipment – Part 2-4: General requirements
+for basic safety and essential performance of cardiac defibrillators
+(cid:120) IEC 62366, Application of Usability Engineering to Medical Devices
+(cid:120) IEC 62304, Medical device software – Software life cycle processes
+(cid:120) IEC 60601-1-11, Medical Electrical Equipment – Part 1-11: General requirements
+for basic safety and essential performance – Requirements for medical electrical
+equipment and medical electrical systems used in the home healthcare
+environment
+(cid:120) ISO 10993-1, Biological evaluation of medical devices — Part 1: Evaluation and
+testing within a risk management process
+A. Laboratory Studies
+Table C summarizes the major bench testing conducted to demonstrate safe and effective
+performance of the Avive AED System, including conformance to applicable international
+and consensus standards.
+Table C. Bench Testing
+Test Purpose Acceptance Criteria Result
+Basic Safety and
+Verify general requirements for
+Essential Performance Compliance to the listed
+the basic safety and essential Pass
+(IEC 60601-1, IEC international standards.
+performance of the device.
+60601-2-4)
+PMA P210015: FDA Summary of Safety and Effectiveness Data 6 of 17Verify general requirements for
+Electromagnetic the basic safety and essential
+Compliance to the listed
+Compatibility (EMC) performance of the device when Pass
+international standards.
+(IEC 60601-1-2) subjected to electromagnetic
+disturbances.
+Medical Electrical Verify general requirements for
+Systems used in the the basic safety and essential
+Compliance to the listed
+Home Healthcare performance of the device when Pass
+international standards.
+Environment (IEC subjected to conditions of the
+60601-1-11) home healthcare environment.
+Electrode Pad Verify cytotoxic, sensitization, and
+Compliance to the listed
+Biocompatibility (ISO irritation requirements for the Pass
+international standards.
+10993-1) device.
+Verify that the device meets Product specifications are
+Shelf Life, Service Life
+product specifications throughout met following the Pass
+and Reliability
+its labelled shelf / service life. conditioning and testing.
+Functional tests and visual
+Verify packaging configurations
+Packaging and inspections function as
+provide adequate product Pass
+Transportation intended following testing of
+protection.
+packaging configurations.
+Software requirements and
+Software Verification & Verify software requirements and
+software functionality Pass
+Validation software functionality.
+requirements are met.
+Verify that the device meets
+Product specifications for all
+AED System Functional product specifications across a
+functional and performance Pass
+and Performance tests range of functional and
+requirements are met.
+performance requirements.
+i. Biocompatibility Testing
+The only patient contacting portions of the Avive AED are the electrode pads
+contained in the Avive AED Pad Cartridge. The patient contacting materials of the
+electrode pads were tested in accordance with ISO 10993-5:2009 for cytotoxicity,
+and ISO 10993-10:2010 for irritation and sensitization. All tests passed for
+biocompatibility.
+ii. Shelf-Life, Service Life and Reliability
+The Avive AED System (AED, Pad Cartridge, and accessories) is provided non-
+sterile.
+Service life and reliability testing were conducted to demonstrate the labeled
+service life for the AED.
+Accelerated shelf life testing was conducted to demonstrate the labeled shelf life
+for the Pad Cartridge.
+iii. Packaging and Transportation
+Packaging configurations for the Avive AED, Avive AED Pad Cartridge, and
+accessories were functionally tested after environmental conditioning, storage and
+shipping simulations. All tests passed for transportation, distribution, and
+packaging tests.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 7 of 17iv. Software Verification and Validation
+The Avive AED software is defined as a Major level of concern according to the
+FDA guidance document entitled, “Guidance for the Content of Premarket
+Submissions for Software Contained in Medical Devices,” issued May 11, 2005.
+Software was developed and validated according to IEC 62304:2015.
+Documentation includes software level of concern, software description, hazard
+analysis, software FMEA, software requirements specification, software
+architecture diagrams, software design specifications, requirements traceability
+matrix, software development environment description, verification and validation
+documentation, revision level history, unresolved anomaly report, discussion of
+tools to detect run-time errors, and cybersecurity documentation.
+Software verification and validation testing conducted on the Avive AED included
+unit, integration, and system-level protocols and test reports with pre-defined
+pass/fail criteria. This testing demonstrated that the software in the Avive AED
+performed as intended.
+B. Animal Studies
+A GLP animal study is provided to support the reasonable assurance of safety and
+effectiveness of the Avive pediatric defibrillation waveform in the pediatric sub-
+population of children 1 to 8 years old. The study demonstrated that the Avive pediatric
+defibrillation waveform successfully defibrillated all animals in the pediatric animal
+model, without any safety related observations or concerns.
+i. Pediatric Defibrillation Waveform – Non-Clinical Animal Study
+The Avive pediatric waveform is an impedance-compensating, biphasic truncated
+exponential waveform with a selected energy of 50 J (non-escalating). A GLP
+animal study was conducted in two phases to validate the safety and effectiveness
+of the Avive pediatric waveform using a porcine model for pediatric patients
+between 1 and 8 years of age.
+ii. Safety phase
+Animal testing was performed on a total of 8 piglets weighing 10 – 24 kg. Four
+animals were assigned to the test (Avive) group, and four animals were assigned to
+the control (Philips) group. Following ~30 seconds of untreated ventricular
+fibrillation, all 8 animals were successfully resuscitated on the first defibrillation
+shock with a 50 J shock. Animals were survived for 24 hours, with blood panels
+taken periodically. Comparison of blood panels between the test and control
+devices found no significant differences in elevation of cardiac enzymes, or
+parameters indicative of cardiac tissue damage. There was no clinically significant
+abnormal clinical pathology, daily observations, macroscopic, or microscopic
+findings attributed to the use of the device in a 24-hour porcine model.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 8 of 17iii. Effectiveness Phase
+The objective of this phase was to establish whether the Avive pediatric waveform
+was comparable to known performance criteria expected of pediatric defibrillation
+waveforms. Animal testing was performed on a total of 6 piglets weighing 10 – 24
+kg. Ventricular fibrillation was induced, and defibrillation was attempted
+following ~30 seconds of untreated ventricular fibrillation. A total of 8 inductions
+were conducted on each animal. There were 48 first shocks delivered, of which 45
+or 94% achieved Return of Spontaneous Circulation (ROSC) within the first
+defibrillation shock. A total of 47/48 achieved ROSC within 2 defibrillation
+shocks, and 48/48 achieved ROSC within 3 defibrillation shocks. Neither CPR nor
+emergency medication were administered to any animals during the procedures.
+The study results rejected the null hypothesis that the Avive pediatric waveform
+was inferior to known performance criteria expected of pediatric waveforms and
+resulted in a 95% Confidence Interval of 92.6% – 100% with a non-inferiority p-
+value of 0.0004.
+C. Additional Studies
+i. Rhythm Recognition Detector
+The rhythm recognition detector is a neural network algorithm used to assess
+whether a patient has a shockable or non-shockable heart rhythm. The algorithm
+was developed using non-overlapping training, validation, and test datasets
+comprised of ECG rhythms from a variety of data sources that make up Avive’s
+internal ECG database of over 23,000 recordings. Demographic information for
+patient records in the ECG database is limited given the use case of a defibrillator,
+however, all datasets have a nearly equal number of male to female patient
+records, a representative range of patient age, and are collected from representative
+use scenarios to what the Avive AED is expected to encounter in field use. Final
+performance testing, reported in Table D, is evaluated using Avive’s internal ECG
+Test Dataset comprised of rhythms collected from defibrillators using
+representative multifunction electrodes. The final performance testing utilizes only
+one record per person. The Avive AED meets the requirements of IEC 60601-2-4
+and the performance goals established by the guidance from the American Heart
+Association (AHA) for arrythmia analysis algorithms.1
+1 Automatic External Defibrillators for Public Access Defibrillation: Recommendations for Specifying and Reporting Arrhythmia
+Analysis Algorithm Performance, Incorporating New Waveforms, and Enhancing Safety A Statement for Health Professionals
+From the American Heart Association Task Force on Automatic External Defibrillation, Subcommittee on AED Safety and
+Efficacy. Circulation. 1997;95(6):1677-1682.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 9 of 17Table D. Rhythm Recognition Performance Results
+Test Sample Performance Observed 90% One-Sided Lower
+Rhythm
+Size Goal Performance Confidence Limit
+Shockable
+Coarse V-Fib 274 >90% sensitivity 98.9% sensitivity 97.9%
+Rapid V-Tach 101 >75% sensitivity 99.0% sensitivity 97.4%
+Non-Shockable
+NSR 137 >99% specificity 100% specificity 100%
+AF, SB, SVT, Blockage,
+288 >95% specificity 99.3% specificity 98.5%
+Idioventricular, PVC’s
+Asystole 105 >95% specificity 100% specificity 100%
+Intermediate
+Fine VF 80 Report Only 92.5% Shock -
+Other VT 66 Report Only 86.4% Shock -
+ii. Adult Defibrillation Waveform
+The Avive adult waveform is an impedance-compensating, biphasic truncated
+exponential waveform with a selected energy of 150 J (non-escalating). A
+comparison demonstrating the similarity of the Avive adult waveform to the
+Philips adult waveform was completed, supporting the use of published clinical
+data in support of the Avive adult defibrillation waveform.
+X. SUMMARY OF PRIMARY CLINICAL STUDIES
+A. Study Design
+The final order entitled, “Effective Date of Requirement for Premarket Approval for
+Automated External Defibrillator Systems,” published by Food and Drug Administration
+on January 29, 2015 and republished on February 3, 2015, states that clinical study
+information can be leveraged for AEDs from both published studies and clinical data
+previously submitted to FDA under the 510(k) process. A comparison demonstrating the
+similarity of the Avive adult waveform to the Philips adult waveform was performed.
+Both devices deliver an impedance-compensating, biphasic truncated exponential
+waveform with a selected energy of 150 J. The comparison provides a side-by-side
+(cid:70)(cid:82)(cid:80)(cid:83)(cid:68)(cid:85)(cid:76)(cid:86)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:90)(cid:68)(cid:89)(cid:72)(cid:73)(cid:82)(cid:85)(cid:80)(cid:86)(cid:3)(cid:71)(cid:72)(cid:79)(cid:76)(cid:89)(cid:72)(cid:85)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:87)(cid:82)(cid:3)(cid:86)(cid:76)(cid:80)(cid:88)(cid:79)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:83)(cid:68)(cid:87)(cid:76)(cid:72)(cid:81)(cid:87)(cid:3)(cid:79)(cid:82)(cid:68)(cid:71)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:21)(cid:24)(cid:3)(cid:525)(cid:3)– (cid:21)(cid:19)(cid:19)(cid:3)(cid:525)(cid:3)(cid:76)(cid:81)(cid:3)(cid:21)(cid:24)(cid:3)
+(cid:525)(cid:3)(cid:76)(cid:81)(cid:70)(cid:85)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:86)(cid:15) including:
+(cid:120) Side-by-side oscilloscope capture of the voltage waveform;
+(cid:120) Side-by-side oscilloscope capture of the current waveform;
+(cid:120) Detailed parameters of both the Avive and Philips waveforms, including:
+o Delivered energy of the waveform;
+o Peak current of the first and second phase of the waveform;
+o Peak voltage of the first and second phase of the waveform;
+o Phase duration of the first and second phase of the waveform; and
+o Tilt percentage of the first and second phase of the waveform.
+The Philips adult wave form safety and effectiveness was supported through published
+clinical data for defibrillation, including studies by Schneider et al., Poole et al., and White
+PMA P210015: FDA Summary of Safety and Effectiveness Data 10 of 17et al and therefore, can be used to support the safety and effecteiveness of the Avive adult
+defibrillation waveform.
+The comparison demonstrates that the waveforms are almost identical. Consequently, the
+clinical data used in support of the adult defibrillation waveform was leveraged from
+published clinical data.2,3,4
+B. Safety and Effectiveness Results
+i. Safety Results
+The analysis of safety was based on the comparison to the Philips adult
+defibrillation waveform as discussed above X(A).
+ii. Effectiveness Results
+The analysis of effectiveness of the Philips biphasic adult waveform was based on
+the published clinical data for defibrillation, including studies by Schneider et al.,
+Poole et al., and White et al.
+1. Scneider et al. (2000)2
+A prospective, multicenter, out-of-hospital clinical trial was conducted to
+support adult defibrillation by comparing AEDs that delivered 150 J
+biphasic shocks with AEDs that delivered high-energy 200 - 360 J
+monophasic shocks. The Schneider et al. study delivered a sequence of up
+to three defibrillation shocks for the biphasic devices (150 J – 150 J – 150
+J). Monophasic units delivered 200 J – 200 J – 360 J shocks. Termination
+of VF for 5 seconds was the definition for defibrillation. Of 338 patients
+with an out-of-hospital cardiac arrest, 150 had a ardiac etiology, presented
+with VF, and were shocked with one of the AEDs. The results are
+summarized in Table E below.
+Table E. Biphasic vs. Monophasic waveform, Schneider, et al.
+Biphasic Patients Monophasic Patients P Value
+Number (%) Number (%)
+Defibrillation Efficacy
+1 shock 52/54 (96%) 36/61 (59%) <0.0001
+(cid:148)(cid:3)(cid:21)(cid:3)(cid:86)(cid:75)(cid:82)(cid:70)(cid:78)(cid:86) 52/54 (96%) 39/61 (64%) <0.0001
+(cid:148)(cid:3)(cid:22)(cid:3)(cid:86)(cid:75)(cid:82)(cid:70)(cid:78)(cid:86) 53/54 (98%) 42/61 (69%) <0.0001
+Patients defibrillated 54/54 (100%) 49/58 (84%) 0.003
+ROSC 41/54 (76%) 33/61 (54%) 0.01
+Survival to Hospital Admission 33/54 (61%) 31/61 (51%) 0.27
+Survival to Hospital Discharge 15/54 (28%) 19/61 (31%) 0.69
+2 Schneider T, et al. Multicenter, Randomized, Controlled Trial of 150-J Biphasic Shocks Compared with 200-J to 360-J
+Monophasic shocks in the Resuscitation of Out-of-Hospital Cardiac Arrest Victims. Circulation. 2000;102:1780-1787. doi:
+10.1161/01.CIR.102.15.1780.
+3 Poole J, et al. Low-Energy Impedance-Compensating Biphasic Waveforms Terminate Ventricular Fibrillation at High Rates in
+Victims of Out-of-Hospital Cardiac Arrest. Journal of Cardiovascular Electrophysiology. 1997;8:1373-1385.
+4 White R, et al. Transthoracic impedance does not affect defibrillation, resuscitation or survival in patients with out-of-hospital
+cardiac arrest treated with a non-escalating biphasic waveform defibrillator. Resuscitation. 2005;64(1):63–69.
+doi:10.1016/j.resuscitation.2004.06.02.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 11 of 17In the Schneider study, more adult patients were defibrillated with the
+biphasic waveform than a monophasic waveform (100% vs. 84%). A
+greater percentage of patients achieved return of spontaneous circulation
+(ROSC) after biphasic shock (76% vs. 54%). There was no statistical
+difference between the two waveforms for rates of survival to hospital
+admission and discharge.
+2. Poole et al. (1997)3
+The performance of the 150 J impedance-compensating biphasic
+waveform was observed in the out-of-hospital setting on 100 consecutive
+victims of sudden cardiac arrest across 12 EMS systems. Data was
+obtained from the AED PC card reporting system. Continuous
+defibrillation was defined as conversion to an organized rhythm for 5
+seconds or to asystole. Endpoints included: defibrillation efficacy of
+ventricular fibrillation (VF), restoration of an organized rhythm at the time
+of patient transfer to an advanced life support (ALS) team or to the
+emergency department (ED), and time from AED power-on to first
+defibrillation.
+A total of 202 VF episodes were handled in the 44 patients presenting with
+VF. A single 150 J biphasic shock defibrillated the initial VF episode in 39
+of 44 (89%) patients. 95% terminated VF after two shocks, and 99%
+terminated with 3 shocks or fewer. At patient transfer to ALS or ED care,
+an organized rhythm was present in 34 of 44 (77%) of patients presenting
+with VF. Asystole was present in 7 (16%) and VF in 3 (7%). The average
+number of shocks delivered per initial VF episode was 1.2 ± 0.5. A very
+(cid:90)(cid:76)(cid:71)(cid:72)(cid:3)(cid:85)(cid:68)(cid:81)(cid:74)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:83)(cid:68)(cid:87)(cid:76)(cid:72)(cid:81)(cid:87)(cid:3)(cid:85)(cid:72)(cid:86)(cid:76)(cid:86)(cid:87)(cid:68)(cid:81)(cid:70)(cid:72)(cid:86)(cid:3)(cid:11) (cid:22)(cid:25)(cid:3)(cid:525)(cid:3)(cid:87)(cid:82)(cid:3)(cid:20)(cid:26)(cid:20)(cid:3)(cid:525)(cid:12)(cid:3)(cid:90)(cid:68)(cid:86)(cid:3)(cid:72)(cid:91)(cid:75)(cid:76)(cid:69)(cid:76)(cid:87)(cid:72)(cid:71)(cid:15)(cid:3)
+confirming that automated impedance compensation maintains high
+efficacy without the need to either step-up energy levels or use high-energy
+shocks.
+The low-energy impedance-compensating biphasic waveform terminates
+long-duration VF at high rates in out-of-hospital cardiac arrest. Use of this
+waveform allows AED device characteristics consistent with widespread
+AED deployment and early defibrillation.
+3. White et al. (2004)4
+Cardiac arrest data from two EMS systems were analyzed retrospectively,
+totaling 102 out-of-hospital-cardiac-arrest patients. All witnessed arrests
+from patients who presented with a shockable rhythm and were treated
+initially by BLS personnel were included. Both EMS systems employed
+fixed low-energy biphasic AEDs (Forerunner, Philips Medical Systems).
+For each defibrillation and resuscitation outcome variable, differences in
+mean transthoracic impedance for successful versus unsuccessful
+outcomes were tested, and the effect of a call-to-shock time on overall
+outcome was also examined.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 12 of 17Initial shocks defibrillated 90% of patients. Cumulative success with two
+shocks was 98% and with three shocks was 99%. Patient impedance
+(cid:85)(cid:68)(cid:81)(cid:74)(cid:72)(cid:71)(cid:3)(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:21)(cid:26)(cid:3)(cid:525)(cid:3)(cid:87)(cid:82)(cid:3)(cid:20)(cid:24)(cid:21)(cid:3)(cid:525)(cid:17)(cid:3)(cid:3)(cid:41)(cid:76)(cid:85)(cid:86)(cid:87)-shock success, cumulative success
+through two shocks, and cumulative success through the first-shock series
+were unrelated to transthoracic impedance, as were BLS ROSC, pre-
+hospital ROSC, hospital admission, and discharge. Consistent with
+previous findings, call-to-shock time was highly predictive of survival.
+High impedance patients were defibrillated by the biphasic waveform used
+in this study at high rates with a fixed energy of 150 J and without energy
+escalation. Rapid defibrillation rather than differences in patient impedance
+accounts for resuscitation success.
+iii. Pediatric Extrapolation
+In this premarket application, existing clinical data was not leveraged to support
+approval of a pediatric patient population.
+iv. Human Factors
+Usability evaluation was performed throughout the development process. A
+summative usability study was conducted to support the conclusion that the user
+interface for the Avive AED System and associated labeling is safe and effective
+when used by trained and untrained lay users.
+The study included trained Life Support Professionals (n=34) and untrained Lay
+Users (n=36). All participants were asked to use the Avive AED to resuscitate a
+simulated patient during a simulated emergency-use scenario. Participants in each
+group were split evenly between a simulated adult patient and simulated pediatric
+patient. After simulated emergency use, participants were asked to perform several
+tasks related to maintenance of the Avive AED and comprehension of the
+instructions for use.
+The study results demonstrated that the Avive AED and associated labeling are
+safe and effective, from a usability standpoint, for the intended users, its intended
+use, and use environments.
+C. Financial Disclosure
+The Financial Disclosure by Clinical Investigators regulation (21 CFR Part 54) requires
+applicants who submit a marketing application to include certain information concerning
+the compensation to, and financial interests and arrangement of, any clinical investigator
+conducting clinical studies covered by the regulation. Avive presented three clinical
+studies to support safety and effectiveness, none of which were sponsored by Avive. None
+of the clinical investigators or study authors were full-time or part-time employees of
+PMA P210015: FDA Summary of Safety and Effectiveness Data 13 of 17Avive, and none had disclosable financial interests/arrangement with Avive, as defined in
+21 CFR Part 54.1(a), (b), (c), and (f). The information provided does not raise any
+questions about the reliability of the data.
+XI. PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+Medical Devices Act of 1990, this PMA was not referred to the Cardiovascular Devices
+Panel, an FDA advisory committee, for review and recommendation because the
+information in the PMA substantially duplicates information previously reviewed by this
+panel.
+XII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+A. Effectiveness Conclusions
+The effectiveness analysis is based on bench testing of the rhythm recognition detector,
+the comparison of the Avive adult defibrillation waveform, and animal testing of the
+Avive pediatric defibrillation waveform. The bench testing demonstrates that the rhythm
+recognition detector exceeds both the AHA recommendations and the IEC 60601-2-4
+standard for the basic safety and essential performance of cardiac defibrillators, for
+sensitivity and specificity for detecting shockable and non-shockable arrythmias.
+The similarity between the Avive adult defibrillation waveform and the waveform used in
+the Schneider et al., Poole et al., and White et al. studies supports the use of that publicly
+available data to support the clinical safety and effectiveness of the Avive adult waveform.
+Schneider et al. shows that more adult patients were defibrillated with the biphasic
+waveform than a monophasic waveform, and a higher percentage of patients achieved
+ROSC after biphasic shocks. Poole et al. shows that the low-energy impedance-
+compensating biphasic waveform terminates long-duration VF at high rates in out-of-
+hospital cardiac arrest. White et al. shows that high impedance patients were defibrillated
+by the biphasic waveform used in this study at high rates with a fixed energy of 150 J and
+without energy escalation.
+Pediatric defibrillation is supported by Avive animal testing, which demonstrates high first
+shock success using an impedance-compensating, fixed energy 50 J biphasic truncated
+exponential waveform.
+B. Safety Conclusions
+The risks of the device are based on nonclinical laboratory and animal studies as well as
+data collected in clinical studies conducted to support PMA approval as described above.
+The risks of the device are mitigated based on non-clinical testing and data collected from
+the published literature. The results from the non-clinical testing performed on the Avive
+AED demonstrated appropriate electrical and mechanical safety, electromagnetic
+compatibility, biocompatibility, reliability, shelf life, ability to withstand distribution,
+software performance, and overall system performance. Animal testing of the Avive
+PMA P210015: FDA Summary of Safety and Effectiveness Data 14 of 17pediatric defibrillation waveform demonstrated the safety of the 50 J waveform, which did
+not find any clinically significant abnormal clinical pathology, blood panels, macroscopic,
+or microscopic findings. Published clinical studies in support of the adult defibrillation
+waveform, along with summative human factors testing, further demonstrates the safety of
+the device.
+C. Benefit-Risk Determination
+The probable benefits of the device are also based on data collected in clinical studies
+conducted to support PMA approval as described above. AEDs are life-saving devices
+used in emergency situations. The benefit of early defibrillation is the survival of patients
+in sudden cardiac arrest. For every minute that passes between collapse of a patient in
+sudden cardiac arrest and defibrillation, survival rates decrease 7 – 10%.5 AEDs have been
+extensively shown to have a high benefit for patients.
+The magnitude of this benefit is either life or death. The published literature has no ability
+to predict which patients will experience a benefit or determine probability of benefit
+because of the differing pathophysiology of underlying cardiac arrest. The subpopulations
+have a high degree of heterogeneity of etiologies of cardiac arrest; therefore, variation in
+public health benefit cannot be determined. Likewise, the duration of effect is dependent
+on the underlying etiology and though valuable to the patient, is highly dependent on
+subsequent treatment of the underlying disease. Duration of effect is not related to the
+device.
+The probable risks of the device are also based on data collected in a clinical studies
+conducted to support PMA approval as described above. Patients put a high value on this
+treatment because it has the potential to save their lives. Patients are therefore willing to
+accept the risks of this treatment to achieve the benefit. If the treatment provides timely
+successful defibrillation, the patient will survive a life-threatening cardiac arrest situation
+and will be able to seek further treatment.
+This submission either did not include specific information on patient perspectives or the
+information did not serve as part of the basis of the decision to approve or deny the PMA
+for this device.
+In conclusion, given the available information above, the data support that for sudden
+cardiac arrest victims the probable benefits outweigh the probable risks.
+D. Overall Conclusion
+The data in this application support the reasonable assurance of safety and effectiveness of
+this device when used in accordance with the indications for use.
+XIII. CDRH DECISION
+5 American Heart Association. Rural and Community Access to Emergency Devices. AHA/HPFS/3/2013.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 15 of 17CDRH issued an approval order on October 31, 2022. The final clinical conditions of
+approval cited in the approval order are described below.
+1. The number of devices returned to the applicant for cause from domestic sources,
+with a breakdown into:
+a. Those returned for normal end-of-life; and
+b. Those returned with any alleged failures or malfunctions, including a
+summary of root causes and the frequency of occurrence for each identified
+root cause.
+2. A summary of information available to you related to individual domestic uses of
+your device that may include, but is not limited to:
+a. Defibrillation success and the number of shocks required for success; and
+b. Identification of any error codes or malfunctions during use and their related
+MDR number.
+3. A listing of any safety alerts, technical service bulletins, user communications, or
+recalls for devices under this PMA.
+The applicant’s manufacturing facilities have been inspected and found to be in
+compliance with the device Quality System (QS) regulation (21 CFR 820).
+XIV. APPROVAL SPECIFICATIONS
+Directions for use: See device labeling.
+Hazards to Health from Use of the Device: See Indications, Contraindications,
+Warnings, Precautions, and Adverse Events in the device labeling.
+Post-approval Requirements and Restrictions: See approval order.
+XV. REFERENCES
+A. Automatic External Defibrillators for Public Access Defibrillation: Recommendations for
+Specifying and Reporting Arrhythmia Analysis Algorithm Performance, Incorporating
+New Waveforms, and Enhancing Safety A Statement for Health Professionals From the
+American Heart Association Task Force on Automatic External Defibrillation,
+Subcommittee on AED Safety and Efficacy. Circulation. 1997;95(6):1677-1682.
+B. Schneider T, et al. Multicenter, Randomized, Controlled Trial of 150-J Biphasic Shocks
+Compared with 200-J to 360-J Monophasic shocks in the Resuscitation of Out-of-Hospital
+Cardiac Arrest Victims. Circulation. 2000;102:1780-1787. doi:
+10.1161/01.CIR.102.15.1780.
+C. Poole J, et al. Low-Energy Impedance-Compensating Biphasic Waveforms Terminate
+Ventricular Fibrillation at High Rates in Victims of Out-of-Hospital Cardiac Arrest.
+Journal of Cardiovascular Electrophysiology. 1997;8:1373-1385.
+D. White R, et al. Transthoracic impedance does not affect defibrillation, resuscitation or
+survival in patients with out-of-hospital cardiac arrest treated with a non-escalating
+PMA P210015: FDA Summary of Safety and Effectiveness Data 16 of 17biphasic waveform defibrillator. Resuscitation. 2005;64(1):63–69.
+doi:10.1016/j.resuscitation.2004.06.02.
+E. American Heart Association. Rural and Community Access to Emergency Devices.
+AHA/HPFS/3/2013.
+PMA P210015: FDA Summary of Safety and Effectiveness Data 17 of 17

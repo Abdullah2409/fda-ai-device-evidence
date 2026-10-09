@@ -1,0 +1,579 @@
+Axial Medical Printing Limited
+℅ Sujith Shetty
+Executive Vice President
+Maxis Medical LLC
+7052 Hollow Lake Way
+SAN JOSE, CALIFORNIA 95120
+Re: K222745
+Trade/Device Name: Axial3D Insight
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: June 2, 2023
+Received: June 2, 2023
+Dear Sujith Shetty:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK222745 - Sujith Shetty Page 2
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Wenbo Li
+for Jessica Lamb
+Jessica Lamb,
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging Devices and
+Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K222745
+Device Name
+Axial3DInsight
+Indications for Use (Describe)
+Axial3DInsight is intended for use as a cloud-based service and image segmentation framework for the transfer of
+DICOM imaging information from a medical scanner to an output file.
+The Axial3DInsight output file can be used for the fabrication of physical replicas of the output file using additive
+manufacturing methods.
+The output file or physical replica can be used for treatment planning.
+The output file or physical replica can be used for diagnostic purposes in the field of orthopedic trauma, orthopedic,
+maxillofacial, and cardiovascular applications.
+Axial3DInsight should be used with other diagnostic tools and expert clinical judgment.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFTraditional 510(k) Notification
+5 510(k) SummaryTraditional 510(k) Notification
+5.1 510(k) Summary
+This summary of 510(k) safety and effectiveness information is being submitted in accordance with
+the requirements of SMDA 1990 and 21 CRF 807.92.
+510 (k) number:_K222745
+5.2 Applicant Information
+Axial Medical Printing Limited
+17A Ormeau Avenue
+Belfast
+BT2 8HD
+United Kingdom
+Tel: +44 (0)28 90183590
+5.2.1 Contact Person
+Dr. Sujith Shetty, Executive Vice President, Maxis Medical, Consultant
+Email: sjshetty@maxismedical.com
+Phone: 1-408-887-3211
+5.3 Device Information
+Trade Name Axial3D Insight
+Common Name Automated Radiological Image Processing Software
+Regulation number 892.2050
+Regulation Name Medical Image Management and Processing System
+Regulatory Class II
+Product Code QIHTraditional 510(k) Notification
+5.4 Predicate Device
+Table 5-1 – Predicate Device
+Name Manufacturer 510(k)#
+Axial3D Cloud Segmentation Service Axial Medical Printing Limited K221511
+This predicate has not been subject to a design-related recall. No reference devices were used in
+this submission.
+5.5 Device Description
+Axial3D Insight is a secure, highly available cloud-based image processing, segmentation and 3D
+modelling framework for the transfer of imaging information either as a digital file or as a 3D printed
+physical model.
+5.5.1 Indications for Use
+Axial3D Insight is intended for use as a cloud-based service and image segmentation framework for
+the transfer of DICOM imaging information from a medical scanner to an output file.
+The Axial3D Insight output file can be used for the fabrication of physical replicas of the output file
+using additive manufacturing methods.
+The output file or physical replica can be used for treatment planning.
+The output file or the physical replica can be used for diagnostic purposes in the field of orthopedic
+trauma, orthopedic, maxillofacial, and cardiovascular applications.
+Axial3D Insight should be used with other diagnostic tools and expert clinical judgment.Traditional 510(k) Notification
+5.6 Comparison of Intended Use to Predicate and Reference Devices
+Table 5-2 – Predicate Device Comparison: Intended Use
+Axial3D Cloud
+Segmentation Mimics InPrint
+Axial3D Insight
+Attribute Service (Reference Comparison
+(Proposed Device)
+(Predicate Device)
+Device)
+Device Axial Medical Axial Medical
+Materialise N.V. N/A
+Manufacturer Printing Limited Printing Limited
+Device Name Axial3D Insight Axial3D Insight Mimics inPrint N/A
+Device Trade
+or Proprietary Axial3D Insight Axial3D Insight Mimics inPrint N/A
+Name
+510(k)
+TBD K221511 K173619 N/A
+Number
+Medical image Picture archiving Different –
+Device Automated
+management and and Updated based
+Regulation Radiological Image
+processing communications on additional
+Name: Processing Software
+system system processing
+Device
+Regulation 21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.2050 Equivalent
+Number:
+Different –
+Device
+Updated based
+Product QIH LLZ LLZ
+on additional
+Code:
+processing
+Device
+Classification Class II Class II Class II Equivalent
+FDA:
+Axial3D Insight is Axial3D Cloud Mimics inPrint is
+intended for use as a Segmentation intended for use
+cloud-based service Service is as a software
+and image intended for use interface and
+segmentation as a cloud based image
+Indication for
+framework for the service and segmentation Equivalent
+Use
+transfer of DICOM image system for the
+imaging information segmentation transfer of
+from a medical system for the DICOM imaging
+scanner to an output transfer of information from
+file. DICOM imaging a medicalTraditional 510(k) Notification
+Axial3D Cloud
+Segmentation Mimics InPrint
+Axial3D Insight
+Attribute Service (Reference Comparison
+(Proposed Device)
+(Predicate Device)
+Device)
+The Axial3D Insight information from scanner to an
+output file can be a medical output file. It is
+used for the scanner to an also used as pre-
+fabrication of output file. operative
+physical replicas of software for
+The Axial3D
+the output file using treatment
+Cloud
+additive planning. For this
+Segmentation
+manufacturing purpose, the
+Service output
+methods. Mimics inPrint
+file can be used
+output file can be
+The output file or for the fabrication
+used for the
+physical replica can of physical
+fabrication of
+be used for treatment replicas of the
+physical replicas
+planning. output file using
+of the output file
+additive
+The output file or
+using traditional
+manufacturing
+physical replica can
+or additive
+methods.
+be used for
+manufacturing
+diagnostic purposes The output file or
+methods.
+in the field of trauma, physical replica
+orthopedic, can be used for The physical
+maxillofacial, and treatment replica can be
+cardiovascular planning. used for
+applications. The physical diagnostic
+purposes in the
+replica can be
+field of
+Axial3D Insight used for
+orthopedic,
+should be used with diagnostic
+maxillofacial, and
+other diagnostic tools purposes in the
+cardiovascular
+and expert clinical field of
+applications.
+judgment. orthopedic,
+Mimics inPrint
+maxillofacial and
+can be used for
+cardiovascular
+diagnostic
+applications.
+purposes in the
+Axial3D Cloud
+field of
+Segmentation
+orthopedic,
+Service should
+maxillofacial, and
+be used in
+cardiovascular
+conjunction with
+applications.
+other diagnostic
+Mimics inPrint
+tools and expert
+should be used in
+clinical judgment.
+conjunction withTraditional 510(k) Notification
+Axial3D Cloud
+Segmentation Mimics InPrint
+Axial3D Insight
+Attribute Service (Reference Comparison
+(Proposed Device)
+(Predicate Device)
+Device)
+other diagnostic
+tools and expert
+clinical
+judgement.
+Axial Medical Axial3D Cloud Mimics inPrint is
+Printing Limiteds, Segmentation intended for use
+Axial3D Insight Service is as a software
+provides patient- intended for use interface and
+specific 1:1 scale as a cloud based image
+replica models, either service and segmentation
+as a digital file or as image system for the
+a 3D printed physical segmentation transfer of
+model. system for the DICOM imaging
+transfer of information from
+The digital file or 3D
+DICOM imaging a medical
+printed physical
+information from scanner to an
+model is intended to
+a medical output file. It is
+be used in
+scanner to an also used as pre-
+conjunction with the
+output file. operative
+DICOM images and
+software for
+expert clinical The Axial3D
+treatment
+judgement. The Cloud
+planning. For this
+Intended Use applications for using Segmentation Similar
+purpose, the
+the physical 3D Service output
+Mimics inPrint
+printed physical file can be used
+output file can be
+model as a for the fabrication
+used for the
+presurgical planning of physical
+fabrication of
+tool are as follows: replicas of the
+physical replicas
+output file using
+Preoperative
+of the output file
+additive
+planning of surgical
+using traditional
+manufacturing
+treatment options
+or additive
+methods.
+including planning for
+manufacturing
+surgical instruments, The output file or
+methods. The
+aiding decisions on physical replica
+physical replica
+implants, and aiding can be used for
+can be used for
+the surgical treatment
+diagnostic
+treatment plan., All planning.
+purposes in the
+planning using the The physical field of
+3D replica model replica can be orthopedic,
+should be carried out used for maxillofacial andTraditional 510(k) Notification
+Axial3D Cloud
+Segmentation Mimics InPrint
+Axial3D Insight
+Attribute Service (Reference Comparison
+(Proposed Device)
+(Predicate Device)
+Device)
+with the assistance diagnostic cardiovascular
+of the DICOM purposes in the applications.
+images field of Mimics inPrint
+Communication with orthopedic, should be used in
+the surgical team to maxillofacial and conjunction with
+discuss the surgical cardiovascular other diagnostic
+treatment plan in applications. tools and expert
+conjunction with Axial3D Cloud clinical
+judgement.
+DICOM images Segmentation
+Communication with Service should
+the patient to discuss be used in
+the surgical conjunction with
+treatment plan in other diagnostic
+conjunction with tools and expert
+DICOM images clinical judgment.
+Education tool for
+surgical planning.
+The 3D printed
+physical model can
+be used for surgical
+planning in the
+following
+applications:
+orthopedics and
+trauma, maxillofacial,
+and cardiovascular
+surgery.
+Used in Used in
+Used in conjunction conjunction with conjunction with
+Method of with other diagnostic other diagnostic other diagnostic
+Equivalent
+Use tools and expert tools and expert tools and expert
+clinical judgement. clinical clinical
+judgement. judgement.
+Environment Hospital Hospital Hospital Equivalent
+OTC or
+Prescription Prescription Use Prescription Use Prescription Use Equivalent
+DeviceTraditional 510(k) Notification
+Axial3D Cloud
+Segmentation Mimics InPrint
+Axial3D Insight
+Attribute Service (Reference Comparison
+(Proposed Device)
+(Predicate Device)
+Device)
+Level of
+Moderate Moderate Moderate Equivalent
+Concern
+Complies with FDA Complies with Complies with
+V&V Guidance FDA Guidance FDA Guidance Equivalent
+Requirement Requirement Requirement
+5.7 Comparison of Technological Characteristics to the Predicate Device and
+Reference Device
+Table 5-3 – Predicate Comparison: Technology
+Axial3D Cloud
+Axial3D Insight Segmentation Mimics InPrint
+Attribute (Proposed Service (Reference Comparison
+Device) (Predicate Device)
+Device)
+Method of Use software interface software interface software interface Equivalent
+Computer Microsoft Edge Internet Explorer 11 Windows 7 – 64bit The proposed
+Platform and (v104), Safari (v15) or equivalent Internet Explorer 8 device only
+Operating or Chrome (v103) and compatible requires
+System or equivalent Microsoft
+Intel Core 2 Duo /
+Edge (v104),
+AMD X2 AM2 or
+Safari (v15)
+equivalent
+or Chrome
+(v103) or
+equivalent
+to operate.
+Underlying
+hardware is
+irrelevant to
+the user as it
+is hosted by
+Axial Medical.
+The change
+does not
+affect
+establishingTraditional 510(k) Notification
+Axial3D Cloud
+Axial3D Insight Segmentation Mimics InPrint
+Attribute (Proposed Service (Reference Comparison
+Device) (Predicate Device)
+Device)
+substantial
+equivalence
+as the output
+of the
+proposed
+device and
+predicate
+devices is
+equivalent.
+Supported CT and CTA CT CT, MRI, X-ray The proposed
+Modalities device uses a
+subset of the
+predicate
+device image
+modalities
+Image Yes Yes Yes Equivalent
+registration
+Segmentation A combination of A combination of Combination of Equivalent
+Features automated tools automated tools automated tools
+with smart editing with smart editing with smart editing
+tools tools tools
+View Yes Yes Yes Equivalent
+Manipulation
+and Volume
+Rendering
+Regions and Orthopedics / Orthopedics / Orthopedics / Equivalent
+Volumes of Trauma Trauma Trauma
+Interest (ROI) Cardiovascular Cardiovascular Cardiovascular
+Cranio- Cranio- Cranio-Maxillofacial
+Maxillofacial Maxillofacial
+Region/volume Yes Yes Yes Equivalent
+of interest
+measurements
+and size
+measurementsTraditional 510(k) Notification
+Axial3D Cloud
+Axial3D Insight Segmentation Mimics InPrint
+Attribute (Proposed Service (Reference Comparison
+Device) (Predicate Device)
+Device)
+Region/Volume Yes Yes Yes Equivalent
+Quantification
+5.8 Performance Data
+5.8.1 Axial3D Insight Device Validation
+Axial3D performed software design verification and validation testing on all three software
+components of the device and the software documentation for a Moderate Level of Concern
+software in accordance with the FDA Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices May 11, 2015.
+Axial3D has conducted software verification and validation, in accordance with the FDA guidance,
+General Principles of Software Validation; Final Guidance for Industry and FDA Staff, issued on
+January 11, 2002. All software requirements and risk analysis have been successfully verified and
+traced.
+In addition to the human factors validation of the Axial3D Insight device, Axial3D conducted two
+validation studies - the Clinical Segmentation performance and the Intended Use of the device
+output - the 3D patient specific model.
+The Clinical Segmentation Performance study was conducted with 3 radiologists reviewing the
+segmentation of 12 cases across the fields of orthopedics, trauma, maxillofacial and cardiovascular.
+Axial3D adopted a peer reviewed medical imaging review framework of RADPEER to capture the
+assessment and feedback from the radiologists involved - all cases were scored within the
+acceptance criteria of 1 or 2a [1].
+The Intended Use validation study of the device was conducted with 9 physicians reviewing 12
+cases across the fields of Orthopedics, Trauma, Maxillofacial, and Cardiovascular, as defined in the
+Intended Use statement of the device. This study concluded successful validation of the 3D models
+produced by Axial3D demonstrating the device outputs satisfied end user needs and indications for
+use.
+5.8.2 AxialML Machine Learning Validation
+AxialML machine learning models are used to generate an initial segmentation of cases, however
+the output of these models is not used in isolation to produce the final 3D patient specific model.
+The segmentations produced by the AxialML machine learning models are used by Axial3D trainedTraditional 510(k) Notification
+staff who complete the final segmentation and validation of the quality of each 3D patient specific
+model produced.
+AxialML machine learning models were independently verified and validated before inclusion in the
+Axial3D Insight device. Details of the data used in the validation of each machine learning model is
+provided below.
+Table 5-4 – Software Validation Data
+Cardiac Neuro
+Ortho CT Trauma CT
+CT/CTa CT/CTa*
+Number of Images
+4,838 4,041 10,857 19,134
+Used for Validation
+Slice Spacing Range
+0.4 - 0.8 0.44 - 1.0 0.3 - 2.0 0.2 - 2.0
+(Min, Max [mm])
+Slice Spacing
+Average 0.54 0.63 0.79 0.76
+[mm]
+Pixel Size Range
+0.23 - 0.78 0.34 - 0.70 0.18 - 0.98 0.22 - 0.98
+(Min, Max [mm])
+Pixel Size Average
+0.46 0.51 0.44 0. 51
+[mm]
+*NeuroCT/CTa model is used for cardiology cases.
+The imaging scanner manufacturers and models used within the validation dataset are listed below.
+Table 5-5 – Imaging scanner manufacturers and models used for the validation datasets
+Manufacturer Model
+Lightspeed Pro 16
+Lightspeed Pro 32
+GE Medical Systems Revolution CT
+Optima CT660
+Discovery CT750 HD
+SOMATOM Definition Flash
+SOMATOM Definition Edge
+Siemens SOMATOM Definition AS
+SOMATOM Definition AS+
+SOMATOM PerspectiveTraditional 510(k) Notification
+Manufacturer Model
+SOMATOM Force
+Sensation 16
+AXIOM-Artis
+Emotion 16
+IQON Spectral CT
+iCT 128
+Phillips iCT 256
+Ingenuity Core 128
+Brilliance 62
+Aquillon PRIME
+Toshiba
+Aquillon PRIME SP
+The AxialML machine learning model training data used during the algorithm development was
+explicitly kept separate and independent from the validation data used.
+5.9 Conclusions:
+Based on the indications for use, product performance, and clinical information provided in this
+notification, the Axial3D Insight is considered substantially equivalent to the marketed predicate
+device, Axial3D Cloud Segmentation Service. Both the predicate device and the Axial3D Insight
+have similar DICOM segmentation and 3D model creation. This 510(k) notification contains the
+technological characteristics and validation and verification to demonstrate the Axial3D Insight does
+not raise any different questions regarding safety and effectiveness compared to the predicate,
+Axial3D Cloud Segmentation Service.

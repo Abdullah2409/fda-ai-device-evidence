@@ -1,0 +1,267 @@
+July 19, 2022
+Verily Life Sciences LLC
+Dinesh Puppala
+Regulatory Affairs Specialist
+269 East Grand Avenue
+South San Francisco, California 94080
+Re: K213357
+Trade/Device Name: Study Watch with Irregular Pulse Monitor (Home), Study Watch with Irregular
+Pulse Monitor
+Regulation Number: 21 CFR 870.2920
+Regulation Name: Telephone Electrocardiograph Transmitter And Receiver
+Regulatory Class: Class II
+Product Code: DXH, DPS
+Dated: July 18, 2022
+Received: July 18, 2022
+Dear Dinesh Puppala:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.govK213357 - Dinesh Puppala Page 2
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jennifer Shih Kozen
+Assistant Director
+Division of Cardiac Electrophysiology,
+Diagnostics and Monitoring Devices
+Office of Cardiovascular Devices
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary
+This summary of 510(k) safety and effectiveness information is submitted in accordance with the
+requirements of SMDA 1990 and 21 CFR 807.92.
+Date Prepared: July 15, 2022
+Submitter: Verily Life Sciences LLC
+Official Contact: Dinesh Puppala
+Senior Regulatory Affairs Specialist
+269 East Grand Ave
+South San Francisco, CA 94080, USA
+Telephone: (650)-267-1263
+E-mail: puppalad@google.com
+Proprietary Name: Study Watch with Irregular PulseMonitor
+Common Name: Telephone Electrocardiograph Transmitterand Receiver
+Classification: Class II Medical Device
+Regulation Number: 21 CFR 870.2920
+Product Code: DXH, DPS
+Predicate Device: Study Watch with Irregular PulseMonitor (K192415)
+Reason For Submission: Additional or Expanded Indications
+Interoperability with ZEUS System (Zio Watch), an iRhythm
+Technologies, Inc. software system
+Indications for Use
+The Study Watch with Irregular Pulse Monitor is indicated for use by adult patients (22 years and
+older) who have been diagnosed with, or are susceptible to developing, atrial fibrillation enabling
+them to monitor and record their heart rhythms. Study Watch is also intended to record, store,
+transfer, and display single-channel electrocardiogram (ECG) rhythms.
+The Study Watch with Irregular Pulse Monitor is intended for prescription use only.
+K213357 Page1of6Device Description
+The Study Watch with Irregular Pulse Monitor is a miniaturized physiological data monitoring device
+that is intended to record, store, transfer and display single-channel electrocardiogram (ECG) rhythms.
+The Study Watch with Irregular Pulse Monitor is intended to notify the user in the event of an irregular
+pulse, such as atrial fibrillation (AF), and recommend acquisition of an ECG. The device utilizes a band
+and proprietary watch that incorporates two dedicated sensing electrodes to obtain a single-channel ECG
+measurement. In practice, a healthcare professional (HCP) may prescribe the Study Watch with Irregular
+Pulse Monitor to a patient and recommend the capture and transmission of one or more ECG rhythms on
+a daily basis for analysis by the HCP. The patient uses prompts provided on the graphical user interface
+(GUI) of the watch to collect a real-time 45-second ECG measurement. The patient is able to capture an
+ECG rhythm on-demand by navigation to the ECG menu, upon receipt of an irregular pulse notification.
+While an animated ECG waveform is briefly displayed on the GUI of the watch, the patient will not have
+direct access to the collected waveform. Using the provided charging dock (Cradle) and Verily’s Study
+Hub or Watch App, the ECG measurements are securely transferred to Verily’s cloud server and are
+viewed by the HCP using a web portal. Additionally, data may be securely transferred to interoperable
+devices for further analysis. The web portal is solely intended for use by the HCP to view time-stamped
+ECG waveforms collected by the patient and does not include any analysis features. Collectively, the
+Study Watch consists of the wearable watch and band, the Study Hub or Watch app (used to transfer data
+from the watch to the cloud), a Cradle, and the web portal.
+Irregular Pulse Monitoring Algorithm
+The Irregular Pulse Monitoring Algorithm is responsible for processing PPG-based data collected by the
+Study Watch device to provide detection of irregular pulses over the patient’s wear period. The algorithm
+operates on a continuous basis by analyzing - once every 15 minutes - the prior 15-minutes of PPG-based
+data to detect the presence of an irregular rhythm, such as AF.
+Algorithm Training
+The algorithm was developed using machine learning techniques. The source of training data for the
+algorithm is continuous cardiac recordings from compatible cardiac monitors. The algorithm was trained
+using thousands of ECG data collected from iRhythm Technologies’ Zio devices, which have undergone
+Certified Cardiographic Technician (CCT) review. In addition, the algorithm was tuned using PPG data
+intervals recorded from devices similar to the Study Watch.
+Algorithm Validation
+The Study Watch AF Detection At Home (NCT04546763) data consists of free-living, multi-day PPG
+recordings obtained from the Study Watch, along with ECG-based rhythm labels obtained from reference
+iRhythm Technologies Zio XT Patches worn simultaneously.
+K213357 Page2of6Recording device Study Watch with Irregular Pulse Monitor
+Channel Wrist-based PPG
+Recording Length Up to 14 days
+Environment Ambulatory*
+Demographics Patients at least 22 years or older who are at risk of having an AF
+event, as determined by having a diagnosis of paroxysmal AF.
+Age: Median = 67 years; Range: 23-86 years
+Gender: 45.5% Female
+Regional Demographics (USA):
+Midwest: 8%,
+Mountain: 32%,
+West: 32%,
+Northeast: 14%,
+South: 13%
+*In-clinic during enrollment
+Substantial Equivalence Discussion
+Study Watch with Irregular Pulse Monitor is substantially equivalent to the predicate Study Watch
+(K192415) as both the proposed and predicate are intended to record, store, transfer, and display
+single-channel ECG rhythms in adults with known or suspected heart conditions. Both devices are
+indicated to detect irregular pulse in adults with a diagnosis of, or are susceptible to, AF. Similar to the
+predicate device, the proposed device is classified as a Telephone Electrocardiograph Transmitter and
+Receiver in accordance with 21 CFR 870.2920, Product Code DXH, DPS. It is of importance to note that
+both the Study Watch with Irregular Pulse Notification and the predicate device use two (2) dedicated
+sensing electrodes to obtain a single-channel ECG measurement.
+A comparative summary of the similarities and differences between the Study Watch with Irregular Pulse
+Monitor and the predicate Study Watch (K192415).
+K213357 Page3of6Table. Predicate Device Comparison Table
+Topic Proposed Device Predicate Device
+Manufacturer Verily Life Sciences, LLC Verily Life Sciences, LLC
+Study Watch with Irregular Pulse Study Watch with Irregular Pulse
+Model Name Monitor (Home) Monitor
+510(k) Number Subject Device: K213357 Predicate: K192415
+Intended Use/Indications The Study Watch with Irregular The Study Watch with Irregular
+for Use Pulse Monitor is indicated for use Pulse Monitor is indicated for use
+by adult patients (22 years and by adult patients (22 years and
+older) who have been diagnosed older) who have been diagnosed
+with, or are susceptible to with, or are susceptible to
+developing, atrial fibrillation developing, atrial fibrillation
+enabling them to monitor and enabling them to monitor and
+record their heart rhythms. Study record their heart rhythms. Study
+Watch is also intended to record, Watch is also intended to record,
+store, transfer, and display store, transfer, and display
+single-channel electrocardiogram single-channel electrocardiogram
+(ECG) rhythms. (ECG) rhythms.
+The Irregular Pulse Monitor is
+indicated for use in professional
+healthcare facilities.
+Prescription Yes (Both Home use & In-clinic No (Only In-clinic use)
+Device for Home use)
+Use
+Regulation Number 21 CFR 870.2920 21 CFR 870.2920
+Device Classification Telephone Electrocardiograph Telephone Electrocardiograph
+Name Transmitter Transmitter
+And Receiver And Receiver
+Product Code DXH, DPS DXH, DPS
+Target Population Adults diagnosed with, or are Adults diagnosed with, or are
+susceptible to developing, atrial susceptible to developing, atrial
+fibrillation fibrillation
+Anatomical Site Left hand fingers to right wrist or Left hand fingers to right wrist or
+vice versa (ECG); Wrist (PPG) vice versa (ECG); Wrist (PPG)
+Where Used Mobile/active users at rest Mobile/active users at rest
+(ambulatory) (ambulatory)
+Device Design Study Watch is a wearable Study Watch is a wearable
+miniaturized physiological data miniaturized physiological data
+monitoring and data collection monitoring and data collection
+K213357 Page4of6device for continuous recording device for continuous recording
+of physiological and of physiological and
+environmental data. The watch environmental data. The watch
+features single-lead ECG features single-lead ECG
+capability and a PPG sensor capability and a PPG sensor
+among other sensors. The watch among other sensors. The watch
+also includes an electronic circuit also includes an electronic circuit
+board, batteries, GUI that displays board, batteries, GUI that displays
+watch features and enables menu watch features and enables menu
+navigation. navigation.
+Mechanism of Action PPG: The Study Watch contains PPG: The Study Watch contains
+an optical sensor that collects the an optical sensor that collects the
+PPG waveform from blood flow PPG waveform from blood flow
+and this PPG raw data is utilized and this PPG raw data is utilized
+for non-medical heart rate data as for non-medical heart rate data as
+well as irregular pulse well as irregular pulse
+notification. notification.
+ECG: User completes circuit with ECG: User completes circuit with
+skin contact and hardware skin contact and hardware
+measures ECG waveform, which measures ECG waveform, which
+is stored and securely transferred is stored and securely transferred
+to the cloud via the proprietary to the cloud via the proprietary
+Study Hub. Study Hub.
+Additionally, data may be
+securely transferred to the cloud
+via Bluetooth and a mobile app.
+User Interface Patient: Study Watch Patient: Study Watch
+HCP: Web Portal HCP: Web Portal
+Interoperability with Zio Watch (Branded Study Not Interoperable with any third
+third party ECG & PPG Watch) is interoperable with the party systems
+Analysis Software ZEUS System (iRhythm
+systems Technologies)
+Principles of Operation PPG data collection (to detect PPG data collection (to detect
+irregular pulse) irregular pulse)
+ECG: acquisition (for rhythm) ECG: acquisition (for rhythm)
+Recording Length
+45 Seconds 60 Seconds
+Irregular Pulse In-clinic Use: In-clinic Use:
+Performance ( interval - Sensitivity: 98.3% Sensitivity: 85%
+level) Specificity: 100.0% Specificity: 96%
+K213357 Page5of6Home Use:
+Sensitivity: 96.1%
+Specificity: 98.1%
+The differences in technological characteristics associated with the proposed device in comparison to
+the predicate (K192415) have been evaluated through performance testing for the target population and
+there are no new questions of safety and effectiveness. Therefore, the proposed device is substantially
+equivalent to the predicate device.
+Non-Clinical Performance Data
+Performance Testing Bench
+Performance testing for the Study Watch with Irregular Pulse Monitor comprises verification and
+validation completed in a software environment using raw data collected via a prospective clinical study.
+Bench testing includes verification and validation of specifications related to software development and
+hardware sensor performance for the Study Watch with Irregular Pulse Monitor. All tests confirmed that
+the product met the predetermined acceptance criteria and that the features driving performance are
+substantially equivalent to those present in the specified predicate device.
+Clinical Performance Data
+Clinical validation performance testing was conducted to demonstrate that Study Watch with Irregular
+Pulse Monitor generates data that meets the clinical requirements for irregular pulse monitoring in target
+patients. Specifically, the prospective clinical study collected Study Watch PPG waveform (Test) data in
+a free-living (home use) setting from patients at risk of having AF and applied the PPG-based irregular
+pulse algorithm, using contemporaneous Zio Patch (Reference) ECG data as the ground truth. The
+presented data include the primary endpoints [per-interval sensitivity 96.1% (95% CI: 92.7 - 98.0) and
+specificity 98.1% (95% CI: 97.2 - 99.1)] showing that the PPG-based irregular pulse monitoring
+algorithm exceeds the pre-specified per-interval performance thresholds for sensitivity and specificity for
+continuous monitoring. This study demonstrated that the Study Watch with Irregular Pulse Monitor in a
+home use environment is substantially equivalent to the predicate Study Watch (K192415) and as safe
+and as effective as the predicate device for the specified intended use.
+Conclusion
+In summary, the comprehensive performance testing demonstrates that the Study Watch with Irregular
+Pulse Monitor is as safe and as effective as the predicate device for the specified intended use. This
+testing, in addition to the comprehensive comparison to the predicate Study Watch (K192415),
+demonstrates the Study Watch with Irregular Pulse Monitor is substantially equivalent to the named
+predicate device for the specified intended use.
+K213357 Page6of6

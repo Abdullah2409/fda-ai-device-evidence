@@ -1,0 +1,441 @@
+August 22, 2025
+Galileo CDS, Inc
+℅ David Giese
+Partner
+Innolitics LLC
+1101 West 34th Street #550
+Austin, Texas 78705
+Re: K252362
+Trade/Device Name: GBrain MRI
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH, LLZ
+Dated: July 24, 2025
+Received: July 29, 2025
+Dear David Giese:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.08.00
+Silver Spring, MD 20993
+www.fda.govK252362 - David Giese Page 2
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K252362 - David Giese Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Daniel M. Krainak, Ph.D.
+Assistant Director
+DHT8C: Division of Radiological
+Imaging and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALT H AND HUMAN SERVICES Form Approved: 0MB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 0713112026
+Indications for Use
+See PRA Statement below.
+Submission Number (if known)
+I K252362
+Device Name
+GBrain MRI
+I ..
+Indications for Use (Describe)
+GBrain MRI is a post processing medical device software intended for analyzing and quantitatively
+reporting signal hyperintensities in the brain on T2w FLAIR MR images and T1w post contrast
+images in the context of diagnostic radiology.
+GBrain MRI is intended to provide automatic segmentation, quantification, and reporting of derived
+image metrics. It is not intended for detection or specific diagnosis of any disease nor for the
+detection of signal hyperintensities.
+GBrain MRI should not be used in-lieu of a full evaluation of the patient's MRI scans. The physician
+retains the ultimate responsibility for making the final patient management and treatment decisions.
+Type of Use (Select one or both, as applicable)
+IZJ D
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*00 NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."510(k) Summary
+Page 1 of 11
+K252362
+1. CONTACT INFORMATION
+Company Name Galileo CDS, Inc
+Address 7000 N Mopac Expy, Suite 200, Austin, TX 78731
+Phone Number (512)222-9173
+Company Representative Abhijeet Pradhan
+Email ap@galileocds.com
+Primary Contact David Giese
+Primary Contact Phone Number +1.913.523.6988
+Primary Contact Email fda@innolitics.com
+Date Summary Prepared August 18, 2025
+2. DEVICE INFORMATION
+Trade Name: GBrain MRI
+Common Name: Brain MRI Image Processing Software
+Classification Name: Automated Radiological Image Processing Software
+Regulation Number: 21 CFR 892.2050
+Product Code(s): QIH, LLZ
+3. PREDICATE DEVICE
+Predicate Device Name GBrain MRI
+Manufacturer Galileo CDS Inc
+510(k) Number K250416
+Product Code QIH, LLZ
+Regulation Number 21 CFR 892.2050
+510(k) Summary510(k) Summary
+Page 2 of 11
+Regulation Name Medical image management and processing system
+Regulatory Class Class II
+Review Panel Radiology
+4. DEVICE DESCRIPTION
+4.1. Description
+GBrain MRI is a non-invasive MR imaging post-processing medical device software that aids in
+the volumetric quantification of hyperintensities in T2-weighted Fluid Attenuated Inversion
+Recovery (T2w FLAIR), and in post contrast T1-weighted (T1c) brain MR images. It is intended
+to aid the trained radiologist in quantitative measurements.
+The input to the software are the T2w FLAIR and the T1w post contrast brain MR images.
+The outputs are volume measurements in Secondary Capture DICOM format, a DICOM
+Encapsulated pdf file, as well as a DICOM SR. More specifically, the total volume of
+hyperintensities in the input T2w FLAIR and the T1c are shown in two new secondary capture
+image series, called GBrain T2 FLAIR & GBrain T1 CE respectively, with a segmentation
+overlay on the hyperintensities that were used to measure the total volumes. These volume
+measurements are summarized in the DICOM encapsulated pdf and DICOM SR files.
+The outputs are provided in standard DICOM format that can be displayed on most third-party
+DICOM workstations and Picture Archive and Communications Systems (PACS).
+The software is suitable for use in routine patient care as a support tool for radiologists in
+assessment of structural adult brain MRIs, by providing them with complementary quantitative
+information.
+The GBrain MRI processing architecture includes a proprietary automated internal pipeline that
+performs skull stripping, signal normalization, segmentations, volume calculations, and report
+generation.
+From a workflow perspective, GBrain MRI is packaged as a computing appliance that is capable
+of supporting DICOM file transfer for input, and output of results. The software is designed
+without the need for a user interface after installation. Any processing errors are reported either
+in the output series report, or in the system log files.
+510(k) Summary510(k) Summary
+Page 3 of 11
+GBrain MRI software is intended to be used by trained personnel only and is to be installed by
+trained technical personnel.
+Quantitative reports and derived image data sets are intended to be used as complementary
+information in the review of a case.
+The GBrain MRI software does not have any accessories or patient contacting components.
+The GBrain MRI device is intended to be used for the adult population only.
+5. SUBJECT DEVICE INDICATIONS FOR USE
+GBrain MRI is a post processing medical device software intended for analyzing and
+quantitatively reporting signal hyperintensities in the brain on T2w FLAIR MR images and T1w
+post contrast images in the context of diagnostic radiology.
+GBrain MRI is intended to provide automatic segmentation, quantification, and reporting of
+derived image metrics. It is not intended for detection or specific diagnosis of any disease nor
+for the detection of signal hyperintensities.
+GBrain MRI should not be used in-lieu of a full evaluation of the patient’s MRI scans. The
+physician retains the ultimate responsibility for making the final patient management and
+treatment decisions.
+5.1. Subject Device Contraindications for Use
+GBrain MRI is contraindicated for use in pediatric patient populations, and in patients who have
+undergone brain tumor or other resection surgery.
+5.2. Subject Device Intended Use
+GBrain MRI is a post processing medical device software intended for analyzing and
+quantitatively reporting signal hyperintensities in the brain on T2w FLAIR MR images and T1w
+post contrast images in the context of diagnostic radiology.
+GBrain MRI is intended to provide automatic segmentation, quantification, and reporting of
+derived image metrics. It is not intended for detection or specific diagnosis of any disease nor
+for the detection of signal hyperintensities.
+GBrain MRI should not be used in-lieu of a full evaluation of the patient’s MRI scans. The
+510(k) Summary510(k) Summary
+Page 4 of 11
+physician retains the ultimate responsibility for making the final patient management and
+treatment decisions.
+6. SUBSTANTIAL EQUIVALENCE COMPARISON
+6.1. Predicate Device Indications for Use
+GBrain MRI is a post processing medical device software intended for analyzing and
+quantitatively reporting signal hyperintensities in the brain on FLAIR MR images in the context
+of diagnostic radiology.
+GBrain MRI is intended to provide automatic segmentation, quantification, and reporting of
+derived image metrics. It is not intended for detection or specific diagnosis of any disease nor
+for the detection of signal hyperintensities.
+GBrain MRI should not be used in-lieu of a full evaluation of the patient’s MRI scans. The
+physician retains the ultimate responsibility for making the final patient management and
+treatment decisions.
+6.2. Subject Device Indications for Use
+GBrain MRI is a post processing medical device software intended for analyzing and
+quantitatively reporting signal hyperintensities in the brain on T2w FLAIR MR images and T1w
+post contrast images in the context of diagnostic radiology.
+GBrain MRI is intended to provide automatic segmentation, quantification, and reporting of
+derived image metrics. It is not intended for detection or specific diagnosis of any disease nor
+for the detection of signal hyperintensities.
+GBrain MRI should not be used in-lieu of a full evaluation of the patient’s MRI scans. The
+physician retains the ultimate responsibility for making the final patient management and
+treatment decisions.
+6.3. Indications for Use Equivalence Discussion
+The intended use of all of the devices is the same - analyzing and evaluating neurological
+imaging data. The indications are equivalent to the scope of regulation 21 CFR 892.2050.
+The indications for use of the Subject Device are substantially equivalent to those of the
+Predicate device.
+510(k) Summary510(k) Summary
+Page 5 of 11
+The output of the Predicate Device (GBrain MRI, K250416) consists of segmentations,
+visualizations and volumetric measurements of hyperintense signal on T2w FLAIR MRI. The
+Predicate Device has a general indication for use and is not specific to a target disease or
+condition.
+The Subject Device's indications for use are identical to the Predicate with only the addition of
+post-contrast T1w MRI images, similar to the Reference Device.
+To elaborate further, the Subject and the Predicate device share the intended use of automated
+quantification of MR signal hyperintensity in the context of diagnostic radiology.
+The shared technical tasks performed by the Subject and Predicate Device, with regard to the
+measurement of hyperintensities are exactly the same.
+6.4. Device Comparison Table
+Feature/Function GBrain MRI Predicate GBrain MRI Comments on Substantial
+(K250416) Equivalence
+510K Number N/A K250416 -
+Manufacturer Galileo CDS Inc Galileo CDS Inc -
+Classification Class II Class II Same
+Regulation 21 CFR 892.2050 21 CFR 892.2050 Same
+Number
+Regulation Medical image management Medical image management Same
+Description and processing system. and processing system.
+Classification Automated Radiological Image Automated Radiological Same
+Name Processing Software Image Processing Software
+Product code QIH, LLZ QIH, LLZ Same
+Intended Use MR imaging data post MR imaging data post Same
+processing software processing software
+Type of Imaging MRI MRI Same
+Scan
+Intended Body Brain Brain Same
+Part
+510(k) Summary510(k) Summary
+Page 6 of 11
+Feature/Function GBrain MRI Predicate GBrain MRI Comments on Substantial
+(K250416) Equivalence
+Indications for GBrain MRI is a post GBrain MRI is a post The indications for use are identical
+Use processing medical device processing medical device to the predicate device with the
+software intended for software intended for addition of post-contrast images.
+analyzing and quantitatively analyzing and quantitatively The subject device analyzes signal
+reporting signal reporting signal hyperintensities regardless of
+hyperintensities in the brain on hyperintensities in the brain location similar to the predicate.
+T2w FLAIR MR images and on FLAIR MR images in the As with the predicate, the subject
+T1w post contrast images in context of diagnostic device has a general indication and
+the context of diagnostic radiology. is not specific to a particular
+radiology. disease or condition.
+GBrain MRI is intended to
+GBrain MRI is intended to provide automatic
+provide automatic segmentation, quantification,
+segmentation, quantification, and reporting of derived
+and reporting of derived image image metrics. It is not
+metrics. It is not intended for intended for the detection or
+detection or specific diagnosis specific diagnosis of any
+of any disease nor for the disease nor for the detection
+detection of signal of signal hyperintensities.
+hyperintensities.
+GBrain MRI should not be
+GBrain MRI should not be used in-lieu of a full
+used in-lieu of a full evaluation evaluation of the patient’s
+of the patient’s MRI scans. The MRI scans. The physician
+physician retains the ultimate retains the ultimate
+responsibility for making the responsibility for making the
+final patient management and final patient management and
+treatment decisions. treatment decisions.
+Environment for Hospital, Clinic, Imaging Hospital, Clinic, Imaging Same as Predicate
+use Center, Medical Offices Center, Medical Offices
+Intended Patient Adult patients aged 21 Adult patients aged 21 Same as Predicate
+Population and above with a brain MRI and above with a brain MRI
+study. study.
+Intended User Radiologists, Imaging Radiologists, Imaging Same as Predicate
+Professionals, and other Professionals, and other
+Clinicians working with Clinicians working with
+radiological images. The radiological images. The
+application should be application should be
+used as a support used as a support
+tool in assessment of tool in assessment of
+structural MRIs. Patient structural MRIs. Patient
+management decisions should management decisions should
+not be based solely on the not be based solely on the
+results of the device. results of the device.
+510(k) Summary510(k) Summary
+Page 7 of 11
+Feature/Function GBrain MRI Predicate GBrain MRI Comments on Substantial
+(K250416) Equivalence
+Design and Automated segmentation using Automated segmentation Same as Predicate
+Incorporated deep learning followed by using deep learning followed
+Technology volume calculations, and by volume calculations, and
+report generation. report generation.
+Results displayed on PACS. Results displayed on PACS.
+Physical Software package- Operates on Software package- Operates Same as Predicate
+Characteristics off-the-shelf hardware on on off-the-shelf hardware
+(multiple vendors). (multiple vendors).
+Data Source Supports DICOM format as Supports DICOM format as Same as Predicate
+input from the MRI scanner or input from the MRI scanner.
+the PACS.
+Output Provides volumetric Provides volumetric The subject device extends the
+measurements of regions with measurements of regions with functionality of the predicate
+hyperintense signal on T2w hyperintense signal on T2w device to include the measurement
+FLAIR and post contrast T1w FLAIR images. of contrast enhancing regions on
+images. T1w images.
+Includes segmented color
+Includes segmented color overlays and volumetric
+overlays and volumetric reports
+reports
+Reporting Results displayed in text and Results displayed in text and Same as Predicate
+graphical formats graphical formats
+DICOM Yes Yes Same as Predicate
+Communication
+Safety Automated quality control Automated quality control Same as Predicate
+function: scan protocol function: scan protocol
+verification. verification.
+Results must be reviewed Results must be reviewed
+by a clinician with proper by a clinician with proper
+training. training.
+510(k) Summary510(k) Summary
+Page 8 of 11
+6.5. Summary of Technological Characteristics Comparison
+The Subject and Predicate device has very similar technological characteristics. Both devices are
+software only medical devices. The inputs for both devices are Brain MRI images in DICOM
+format. The outputs from both devices are automatically generated in DICOM format.
+Both the devices use deep learning to segment hyperintensities in FLAIR MR images, and
+subsequently calculate the volumes of these regions. The Subject Device also segments
+hyperintensities, i.e. contrast enhancing regions, on T1w post contrast MR images. In both
+devices, these segmentations are overlaid as colored regions on DICOM images for users to
+visualize the regions used in the volume calculations.
+All the devices also summarize these measurements and present them in a pdf document. In
+summary, both devices have extremely similar technological characteristics.
+7. DISCUSSION OF PERFORMANCE TESTING
+Performance testing included protocols demonstrating the similarity of automated segmentation
+compared to manual radiologist segmentations. The GBrain MRI segmentation performance was
+evaluated by comparing the software-derived segmentations to a Simultaneous Truth and
+Performance Level Estimation (STAPLE) algorithm generated consensus of three expert-labeled
+segmentations of hyperintensities for volume measurement accuracy, and segmentation overlap
+agreement. Comparisons to expert segmentations were quantified using OLS Regression, and
+Dice similarity coefficient (extent of software-derived vs. ground truth overlap). The three
+expert labeled segmentations were performed by three independent US board certified,
+experienced neuroradiologists.
+Contrast Enhancement measurements were validated on 131 patient cases. These cases were
+collected from four separate hospital systems based in Alabama, Florida, Kentucky, and
+California to ensure geographic diversity and reasonable similarity to the broader US patient
+population, as well as adequate coverage of MRI manufacturers, models, and acquisition
+protocols. This external dataset used for validation was independent from the internal training
+datasets. Acceptance criteria were set at clinically acceptable levels.
+Distribution of Validation cases across Age, Gender, and Ethnicity are shown in the tables below.
+Age T1w Post Contrast Cases
+19-45 18
+46-92 70
+510(k) Summary510(k) Summary
+Page 9 of 11
+Age T1w Post Contrast Cases
+Unknown/Missing 43
+Gender T1w Post Contrast Cases
+Female 68
+Male 52
+Unknown/Missing 11
+Ethnicity/Race T1w Post Contrast Cases
+White 99
+Black 11
+Latino 4
+Asian 5
+Unknown/Missing/Other 12
+Distribution of Validation cases across Manufacturer and Field Strength are shown in the tables
+below.
+Manufacturer T1w Post Contrast Cases
+GE 30
+Philips 41
+Siemens 59
+Field Strength T1w Post Contrast Cases
+1.5T 73
+3T 40
+510(k) Summary510(k) Summary
+Page 10 of 11
+Field Strength T1w Post Contrast Cases
+Unknown 18
+The lower bound for the 95% CI for R2 on volume measurement was 0.94 for Contrast
+Enhancement, while the lower bound of the 95% CI for DICE was 0.81. Reproducibility testing
+showed R2 value of 0.92.
+GBrain performance generally increased with increase in size and brightness of the
+hyperintensity measured. Hyperintensity brightness was measured as a Z score, measuring the
+brightness of the hyperintensity as compared to the rest of normal brain tissue. The performance
+of GBrain for FLAIR and Contrast Enhancement measurements is shown in the tables below.
+Contrast Enhancement Measurement performance related to Hyperintensity Size
+Volume (cm3) R2 Median DICE
+Small less than 4.2 cm3 0.68 0.73
+Between 4.2-64.9 cm3 0.90 0.85
+Contrast Enhancement Measurement performance related to Hyperintensity Brightness
+Z-score R2 Median DICE
+0 – 1.49 0.87 0.69
+1.5 – 1.99 1.00 0.79
+2.0 – 2.99 0.96 0.81
+3.0+ 0.94 0.87
+The results of the segmentation performance testing demonstrated that the GBrain MRI system
+segments hyperintensities with an accuracy that passed the planned acceptance criteria. It is
+concluded that GBrain MRI segmentation is sufficiently accurate to be used in clinical practice
+in accordance with its indications for use.
+7.1. Conclusion
+The comparison between the two devices demonstrates that GBrain MRI is as safe and as
+effective as its predicates. The devices have substantially equivalent intended uses, intended
+users, and principles of operation. They have the same basic design, functions, and technological
+510(k) Summary510(k) Summary
+Page 11 of 11
+characteristics. V&V testing demonstrated that the subject device performed with similar
+accuracy and reliability as the predicate device to meet its intended use specifications.
+Therefore, GBrain MRI is substantially equivalent to its predicate devices without raising any
+new concerns relating to safety or effectiveness.
+510(k) Summary

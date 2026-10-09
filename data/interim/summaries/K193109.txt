@@ -1,0 +1,584 @@
+January 24, 2020
+Philips Medical Systems MR Finland
+℅ Janne Marvola, Ph.D.
+Regulatory Engineer
+Ayritie 4
+01510 Vantaa
+FINLAND
+Re: K193109
+Trade/Device Name: MRCAT brain
+Regulation Number: 21 CFR 892.5050
+Regulation Name: Medical charged-particle radiation therapy system
+Regulatory Class: Class II
+Product Code: MUJ
+Dated: November 4, 2019
+Received: November 8, 2019
+Dear Dr. Marvola:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) forK193109 - Janne Marvola, Ph.D. Page 2
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2020
+Indications for Use See PRA Statement below.
+510(k) Number (if known)(cid:3)
+K193109
+Device Name(cid:3)
+MRCAT(cid:37)(cid:85)(cid:68)(cid:76)(cid:81)
+Indications for Use (Describe)
+MRCAT(cid:37)(cid:85)(cid:68)(cid:76)(cid:81) is a software add-on for Ingenia(cid:15)(cid:3)(cid:44)(cid:81)(cid:74)(cid:72)(cid:81)(cid:76)(cid:68)(cid:3)(cid:36)(cid:80)(cid:69)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81)(cid:15)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:44)(cid:81)(cid:74)(cid:72)(cid:81)(cid:76)(cid:68)(cid:3)(cid:40)(cid:79)(cid:76)(cid:87)(cid:76)(cid:82)(cid:81) MR systems.
+Intended Use:
+MRCAT imaging is intended to provide the operator with information of tissue properties for radiation attenuation
+estimation purposes in photon external beam radiotherapy treatment planning.
+Indications for use:
+MRCAT(cid:37)(cid:85)(cid:68)(cid:76)(cid:81)(cid:3)(cid:76)(cid:86)(cid:3)(cid:76)(cid:81)(cid:71)(cid:76)(cid:70)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:85)(cid:68)(cid:71)(cid:76)(cid:82)(cid:87)(cid:75)(cid:72)(cid:85)(cid:68)(cid:83)(cid:92)(cid:3)(cid:87)(cid:85)(cid:72)(cid:68)(cid:87)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:83)(cid:79)(cid:68)(cid:81)(cid:81)(cid:76)(cid:81)(cid:74)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:83)(cid:85)(cid:76)(cid:80)(cid:68)(cid:85)(cid:92)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:80)(cid:72)(cid:87)(cid:68)(cid:86)(cid:87)(cid:68)(cid:87)(cid:76)(cid:70)(cid:3)(cid:69)(cid:85)(cid:68)(cid:76)(cid:81)(cid:3)(cid:87)(cid:88)(cid:80)(cid:82)(cid:85)(cid:3)(cid:83)(cid:68)(cid:87)(cid:76)(cid:72)(cid:81)(cid:87)(cid:86).
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EFPhilips Medical Systems MR Finland
+6. 510(k) Summary
+510(k) Summary of Safety and Effectiveness
+This 510(k) summary of safety and effectiveness information is prepared in accordance with
+21 CFR §807.92.
+Date Prepared: January 20, 2020
+Manufacturer: Philips Medical Systems MR Finland
+Äyritie 4
+01510 Vantaa, Finland
+Establishment Registration Number: 9680194
+Primary Contact Janne Marvola
+Person: Regulatory Engineer
+Phone: +358-40-126 1214
+Fax: +358-9-3487 2406
+E-mail: regulatory.mr.therapy@philips.com
+Secondary
+Contact Person Osku Ilvonen
+Head of Q&R
+Phone: +358-40-552 6197
+Fax: +358-9-3487 2406
+E-mail: osku.ilvonen@philips.com
+Device Name: MRCAT brain
+Classification: Classification Name: Medical charged-particle radiation therapy
+system
+Classification 21 CFR §892.5050
+Regulation:
+Classification Panel: Radiology
+Device Class: Class II
+Product code: MUJ (System, Planning, Radiation Therapy
+Treatment)
+DHF357057‐01 Page 1 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+Predicate Device: Trade Name: MRCAT Pelvis
+Manufacturer: Philips Medical Systems MR Finland
+510(k) Clearance: K182888 (April 30, 2019)
+Classification
+Regulation: 21 CFR, Part 892.5050
+Classification Name: Radiation Therapy Planning System
+Classification Panel: Radiology
+Device Class: Class II
+Product Code: MUJ (System, planning, radiation therapy
+treatment)
+Reference Device: Trade Name: AcQPlan 5.0
+Manufacturer: Philips Medical Systems MR Finland
+510(k) Clearance: K013644 (September 12, 2002)
+Classification
+Regulation: 21 CFR, Part 892.5840
+Classification Name: Radiation Therapy Planning System
+Classification Panel: Radiology
+Device Class: Class II
+Product Code: MUJ (System, planning, radiation therapy
+treatment)
+Device
+description: MRCAT brain is a software application to Ingenia, Ingenia Ambition,
+and Ingenia Elition MR systems. MRCAT brain is available to the
+customer as an option to Ingenia MR-RT package, which is a set of
+accessories for Ingenia systems.
+Automated generation of MRCAT images takes place at the MR
+console of Ingenia. The embedded image post-processing runs in the
+background parallel to image acquisition. MRCAT algorithm enables
+automatic tissue characterization: Bones are segmented from mDixon
+in-phase and water images using machine learning based segmentation.
+Body outline is segmented using in-phase and water images. Tissues
+are then assigned a continuum of HU values depending on the fat and
+DHF357057‐01 Page 2 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+water intensities of the voxels. The HU assignment provides MRCAT
+images with CT-like density information.
+Indications for MRCAT Brain is a software add-on for Ingenia, Ingenia Ambition, and
+Use: Ingenia Elition MR systems.
+Intended Use:
+MRCAT imaging is intended to provide the operator with information
+of tissue properties for radiation attenuation estimation purposes in
+photon external beam radiotherapy treatment planning.
+Indications for use:
+MRCAT brain is indicated for radiotherapy treatment planning for
+primary and metastatic brain tumor patients.
+Fundamental
+Scientific MRCAT brain functionality is implemented as a software plug-in for
+Technology: the MR main software and it contains the following main features:
+1) Automatic post-processing tool delivering MRCAT images
+2) Examcard with mDixon imaging protocol
+3) DICOM export of MRCAT image.
+MRCAT Image Generation
+MRCAT images are generated with an ExamCard post-processing step,
+which uses the images from the previous mDixon scan.
+The post-processing logic takes care of launching MRCAT algorithm
+executable calculating a new 3D MRCAT image. The post-processing
+is started once the acquired mDixon MR images have been
+reconstructed. The first step of MRCAT generation is to pre-process
+the images to ensure that the MRCAT source images have consistent
+intensities. The intensity normalized images are then used as input in a
+convolutional neural network (CNN). The CNN is trained using
+matched pairs of CT and MRCAT source images. The training of the
+CNN is locked and is not adapted during use. The output of the CNN is
+post-processed to create images in CT values. The generated MRCAT
+images are checked for correctness to ensure validity of the generated
+MRCAT for radiation treatment. The sanity checks ensure that the
+imaging field of view has been positioned correctly and that the
+MRCAT body outline matches that of the MR. The HU values for the
+DHF357057‐01 Page 3 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+MRCAT brain are calibrated using registered CT images. Once the
+process is running, post-processing logic exchanges information with
+the algorithm:
+ Image source data to algorithm, and image output data back to
+the post-processing step
+ Progress notifications
+ Error and warning notifications
+The 3D MRCAT image from the post-processing step is stored into the
+MR image database.
+mDIXON scan
+A T1-weighted Fast Field Echo (FFE) 3D mDixon dual echo imaging
+protocol, with imaging parameters optimized for MRCAT image post-
+processing and for geometric accuracy, is delivered as a part of
+MRCAT brain option. The mDixon imaging sequence provides two
+image contrasts for the MRCAT algorithm: inphase and water images.
+MRCAT brain uses fixed parameters for the mDixon scan, only the
+image stack location is configurable. An mDixon imaging protocol,
+with imaging parameters optimized for MRCAT image post-processing
+and for geometric accuracy, is delivered as a part of MRCAT brain
+option. MRCAT brain uses fixed parameters for mDixon scan, only the
+image stack location is configurable.
+DICOM Export
+The MRCAT post-processing step stores the image data returned by
+the MRCAT algorithm into MR database.
+MRCAT images can be exported in DICOM format enabling the use as
+primary images in the treatment planning systems
+Hardware platform description
+The new software extensions introduced by MRCAT brain run on the
+MR console of Ingenia.
+Based on the information provided above, the MRCAT brain is
+considered substantially equivalent to the primary currently marketed
+and predicate device (K182888, April 30, 2019) in terms of
+fundamental scientific technology.
+DHF357057‐01 Page 4 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+Summary of Non-
+Clinical The MRCAT brain complies with the following international and
+Performance FDA-recognized consensus standards:
+Data:
+International and FDA-recognized consensus standards:
+ ANSI/AAMI ES60601-1: 2012, Medical electrical equipment
+- Part 1: General requirements for basic safety and essential
+performance
+ IEC 60601-1-6:2010, Medical electrical equipment - Part 1-6:
+General requirements for safety - Collateral standard:
+Usability.
+ IEC 60601-2-33:2015, Medical electrical equipment - Part 2-
+33: Particular requirements for the safety of magnetic
+resonance equipment for medical diagnosis.
+ IEC 62304:2016, Medical device software - Software life-
+cycle processes
+ IEC 62366-1:2015, Medical devices – Application of usability
+engineering to medical devices
+ ISO 14971:2007, Medical devices – Application of risk
+management to medical devices
+Non-Clinical verification and or validation tests have been performed
+with regards to the intended use, the technical claims, the requirement
+specifications and the risk management results.
+Non Clinical verification and or validation test results demonstrate that
+the MRCAT brain:
+ Complies with the aforementioned international and FDA-
+recognized consensus standards
+ Meets the acceptance criteria and is adequate for its intended
+use.
+Therefore, the MRCAT brain is substantially equivalent to the
+primary currently marketed and predicate device (K182888, April 30,
+2019) in terms of safety and effectiveness. Detailed comparison for
+selected features is presented in Table 6-1 below.
+DHF357057‐01 Page 5 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+Table 6‐1
+Comparison of the primary currently marketed and predicate
+device, MRCAT Pelvis versus the proposed MRCAT Brain
+Device MRCAT Pelvis MRCAT Brain Similarities
+and
+Differences
+Manufacturer Philips Medical Philips Medical ‐
+Systems MR Systems MR
+Finland Finland
+510(k) K182888 K193109 N/A
+Number
+Product Code MUJ MUJ Identical
+Regulation 892.5050 892.5050 Identical
+Number
+Regulation Accelerator, Accelerator, Identical
+Name Linear, Medical Linear, Medical
+Intended use MRCAT imaging is MRCAT imaging is Identical
+intended to intended to
+provide the provide the
+operator with operator with
+information of information of
+tissue properties tissue properties
+for radiation for radiation
+attenuation attenuation
+estimation estimation
+purposes purposes
+in photon external in photon external
+beam radiotherapy beam radiotherapy
+treatment treatment
+planning. planning.
+DHF357057‐01 Page 6 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+Indications MRCAT Pelvis is MRCAT Brain is No significant
+for use indicated for indicated for difference.
+radiotherapy radiotherapy
+MRCAT Pelvis
+treatment treatment
+and MRCAT
+planning of soft planning for
+Brain are
+tissue cancers in primary and
+both
+the pelvic region. metastatic brain
+indicated for
+tumor patients.
+radiotherapy
+treatment
+planning in a
+defined
+region.
+Brain tumors
+are soft tissue
+tumors.
+Primary MRCAT MRCAT No significant
+image difference
+dataset
+Secondary mDixon, MRI mDixon, MRI No significant
+image difference
+dataset MR images
+obtained in
+the same
+imaging
+session are
+inherently in
+the same
+frame of
+reference.
+DHF357057‐01 Page 7 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+Registration Secondary mDixon Secondary mDixon No significant
+between MR image, source MR image, source difference
+primary and data to MRCAT, is data to MRCAT, is
+Secondary
+secondary inherently inherently
+MR images
+image registered as part registered as part
+are obtained
+datasets of MRCAT of MRCAT
+in the same
+algorithm with algorithm with
+imaging
+MRCAT image, MRCAT image,
+session
+which simplifies which simplifies
+reducing the
+workflow. workflow.
+possibility of
+Other MR images, Other MR images, patient
+like T2w and like T2w images motion
+fiducial marker are registered between
+detection images using tools images.
+are registered available in RTP
+using tools system
+available in RTP
+system
+Primary MRCAT image MRCAT image No significant
+image intensity intensity difference.
+density information is information is
+MRCAT Pelvis
+information provided in provided in
+and MRCAT
+Hounsfield Unit Hounsfield Unit
+Brain both
+(HU) values. (HU) values.
+have
+continuous
+HU value
+approach.
+Conversion Primary image HU Primary image HU No significant
+from primary values are values are difference
+image to converted to converted to
+MRCAT has
+density densities through densities through
+specific
+values used density table density table
+density table
+in dose specific for the specific for the
+that is used in
+calculation MRCAT. MRCAT.
+a similar
+manner to CT
+specific
+density
+tables.
+MRCAT Bones are Bones are No significant
+algorithm segmented from segmented from difference
+mDixon inphase mDixon inphase
+Segmentation
+and water images and water images
+is done for
+using model based using machine
+both MRCAT
+DHF357057‐01 Page 8 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+segmentation. The learning based Pelvis and
+segmented bones segmentation. The Brain using
+are the femurs, segmented bones the mDIXON
+pelvic bones and are in skull, upper image
+lumbar vertebrae C‐spine and jaw. contrasts.
+L5 and L1.
+Body outline is HU value
+Body outline is segmented using assignment is
+segmented using inphase and water done based
+inphase and water images. on mDixon
+images. image
+Bones are assigned
+intensities.
+Bones are assigned a continuum of HU
+a continuum of HU values between The models
+values between dense cortical used are
+dense cortical bone and light equivalent in
+bone and light spongy bone relation to
+spongy bone depending on the dose and
+depending on the fat and water positioning
+fat and water intensities of the accuracy.
+intensities of the voxels.
+Both
+voxels.
+Soft tissue are algorithms
+Soft tissue are assigned a are locked;
+assigned a continuum of HU they do not
+continuum of HU values depending change after
+values between fat on the fat and installation
+and muscle tissue water intensities of based on new
+depending on the the voxels. data during
+fat and water the use.
+The HU values for
+intensities of the
+the MRCAT Brain
+voxels.
+are calibrated
+The HU values for using registered CT
+the MRCAT Pelvis images from
+are calibrated several sites.
+using registered CT
+MRCAT Brain
+images from
+algorithm is fully
+several sites.
+trained before
+product release,
+after which the
+algorithm is
+locked.
+DHF357057‐01 Page 9 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+Patient Ingenia MR‐RT Ingenia MR‐RT No significant
+positioning with MRCAT Pelvis with MRCAT Brain difference
+supports MR Only supports MR Only
+The visibility
+simulation with simulation with
+of bone
+relative patient relative patient
+structures is
+marking. marking.
+equivalent for
+Patient positioning Patient positioning both
+in the treatment in the treatment products.
+machine must be machine must be
+Internal
+checked either checked either
+markers are
+with cone beam with cone beam
+not used for
+computed computed
+brain tumors.
+tomography tomography
+(CBCT) or plain (CBCT) or plain
+radiographs by radiographs by
+registering bone registering bone
+structures or structures.
+internal fiducial
+markers.
+DHF357057‐01 Page 10 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+Dose The simulated The simulated No significant
+accuracy dose based on dose based on difference.
+MRCAT images MRCAT Brain
+The same
+shall not differ in images shall not
+dose
+95% of prostate differ in 95% of the
+evaluation
+cancer patients indicated patients
+methodology
+(gamma analysis (gamma analysis
+is used for
+criterion 3%/3mm criterion 2%/2mm
+both
+realized in 99% of realized in 98% of
+products. The
+voxels within the voxels within the
+criteria are
+PTV or exceeding PTV or exceeding
+selected
+75% of the 75% of the
+based on the
+maximum dose) maximum dose)
+needs of the
+when compared when compared
+application.
+with CT based with CT‐based
+plan. plan.
+The average The average
+simulated dose simulated dose
+based on MRCAT based on MRCAT
+images shall not Brain shall not
+deviate more than deviate more than
+10% for voxels 5% or 1 Gy, which
+exceeding 5Gy in ever is greater, in
+99% of the 99% of the
+indicated patients indicated patients
+in the volume of in the volume of
+sensitive organs sensitive organs
+when compared when compared
+with CT based with CT based
+plan. plan.
+Geometric MRCAT accuracy: MRCAT accuracy: No significant
+accuracy difference
+± 1 mm accuracy: ± 1 mm accuracy:
+200 mm diameter 200 mm diameter
+sphere sphere
+± 5 mm accuracy: ± 5 mm accuracy:
+500 mm diameter 500 mm diameter
+sphere (limited in sphere (limited in
+the bore direction the bore direction
+by +/‐ 160 mm by +/‐ 160 mm
+from the z=0 mm from the z=0 mm
+plane ) plane )
+DHF357057‐01 Page 11 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+MRCAT mDIXON 3D scan mDIXON 3D scan No significant
+source with acquired with acquired difference
+imaging voxel size of voxel size of
+Especially,
+sequence 1.40/1.40/1.40 1.10/1.10/1.40
+the sensitivity
+mm, and mm (1.5 T) and
+to B0 induced
+bandwidth/pixel 1.1/1.1/1.1 mm
+distortion in
+430Hz (1.5T) or (3T), and
+the read
+860Hz (3T). bandwidth/pixel
+direction is
+Most scanning 481Hz (1.5T) or
+about 0.2
+parameters locked 868Hz (3T).
+mm/ppm in
+Most scanning
+both MRCAT
+parameters locked
+Pelvis and
+MRCAT Brain.
+In both
+solutions the
+essential
+parameters
+are locked to
+avoid user
+errors
+potentially
+affecting the
+accuracy and
+reliability of
+the method.
+DICOM RT yes yes No significant
+export difference
+Summary of The robustness of the MRCAT brain algorithm for producing
+Clinical Data: equivalent dose plans to CT using gamma analysis with criterion of
+1%/1mm is shown by post-processing MRCAT images from patients,
+and calculating dose using the MRCAT images.
+In summary, the MRCAT brain images are spatially accurate radiation
+attenuation estimates that can aid in the EBRT planning of primary and
+metastatic brain tumors.
+Substantial
+Equivalence The MRCAT brain is substantially equivalent to the primary currently
+Conclusion: marketed and predicate device (K182888, April 30, 2019) in terms of
+design features, fundamental scientific technology, indications for use,
+and safety and effectiveness. Additionally, substantial equivalence was
+DHF357057‐01 Page 12 of 13 Template: QFT8010.09‐01Philips Medical Systems MR Finland
+demonstrated with non-clinical performance (verification and
+validation) tests, which complied with the requirements specified in the
+international and FDA-recognized consensus standards, IEC 62304,
+IEC 62366-1 and ISO 14971. The results of these tests demonstrate
+that MRCAT brain met the acceptance criteria and is adequate for this
+intended use.
+DHF357057‐01 Page 13 of 13 Template: QFT8010.09‐01

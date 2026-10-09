@@ -1,0 +1,194 @@
+DiA Imaging Analysis Ltd.
+℅ George Hattub
+Medical Device Regulatory Affairs Specialist
+Medicsense USA LLC
+291 Hillside Avenue
+Somerset, Massachusetts 02726
+May 24, 2024
+Re: K240769
+Trade/Device Name: LVivo IQS
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: May 3, 2024
+Received: May 3, 2024
+Dear George Hattub:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.10
+Silver Spring, MD 20993
+www.fda.govK240769 - George Hattub Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT 8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT 8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK240769K240769
+510(k) Summary
+510(k) Summary
+Pursuant to CFR 807.92, the following 510(k) Summary is provided:
+1.(a) Submitter George J. Hattub
+Address: Medicsense USA LLC
+291 Hillside Avenue
+Somerset, MA 02726
+ghattub@comcast.net
+1.(b) Manufacturer DiA Imaging Analysis Ltd
+Address: HaEnergia Street 77
+Beer-Sheva, Israel 8470912
+Mfg. Phone: Tel.: +972 77 7648318
+Contact Person: Mrs. Michal Yaacobi
+Date: March 19, 2024
+Device & Medical Image Management and Processing System –
+2. Classification classified as Class 2 QIH, Regulation Number 21 CFR 892.2050
+Name: LVivo IQS
+3. Predicate Devices: LVivo IQS K222970
+The LVivio IQS is an extension to the LVivio IQS (K222970), as an
+4. Description: additional Algorithm with API that will be able to provide a Quality Score in
+real time to the Right Ventricle from the 4-chamber apical view of the heart.
+In addition, the LVivo IQS will be provided as a software component to be
+integrated by another computer programmer into their legally marketed
+ultrasound imaging device. Essentially, the Algorithm and API, which is a
+module, is a medical device accessory.
+5. Indications for LVivo platform is intended for non-invasive processing of ultrasound
+Use: images to detect, measure, and calculate relevant medical parameters of
+structures and function of patients with suspected disease. In addition, it has
+the ability to provide Quality Score feedback.
+6. Comparison of With respect to technology and intended use, DiA’s LVivo IQS is
+Technological substantially equivalent to its predicate device. Based upon the outcomes
+Characteristics: from the risk analysis and Performance Testing Evaluation, DiA believes
+that the incremental extension of the LVivo IQS module to the LVivo IQS
+predicate device does not raise additional safety of efficacy concerns. The
+following comparison table depicts the changes.
+Special 510k Notification: LVivo IQS Page 1 of 4510(k) Summary
+# Features/ Characteristics Submitted Device Predicate Device
+K222970
+LVivo IQS LVivo IQS
+1 Indication for Use Same LVivo platform is
+intended for non-
+invasive processing
+of ultrasound
+images to detect,
+measure, and
+calculate relevant
+medical parameters of
+structures and
+function of patients
+with suspected
+disease. In addition, it
+provides Quality Index
+Score Feedback.
+2 Product Code Same QIH
+3 LVivo IQS Module LVivo IQS for LV from 4- LVivo IQS for LV from 4-
+Chamber View Chamber View
+LVivo IQS for RV from 4-
+Chamber View
+4 Operating System Same Ram: 8 GB
+Windows 10 or higher
+Processor: Intel core i3
+compatible or higher
+5 Automated IQS Same Yes
+6 Algorithm AI based AI Based
+7 Grading system ranges Same 0-60% poor (red),
+60-80 % medium (orange)
+80-100 % good (green)
+8 I/O support through API yes yes
+9 User group same same
+10 510(k) # K240769 K222970
+Special 510k Notification: LVivo IQS Page 2 of 4510(k) Summary
+7. Performance A summary of the Performance Evaluation, which was based upon well-
+Evaluation: established test methods, demonstrated conformity to the intended use:
+1. The performance of the LVivo IQS system was validated using already data
+acquired with different ultrasound devices and various cardiac pathologies,
+compared to quality tagging by experienced sonographer.
+Success criteria:
+Overall agreement of 75% between the LVivo IQS results and the data
+tagging by experienced sonographers
+100 patient examinations were used for the validation. Inclusion criteria:
+Age>18, patients referred to routine Echo examination. Exclusion criteria:
+Subjects who fail to meet any inclusion criteria. A total of 49,623 frames were
+analyzed.
+The overall agreement was agreement between the LVivo IQS (RV) and
+quality tagging by the experienced sonographers was 77%
+2. The performance of the LVivo IQS system was validated using data
+acquired after using the LVivo IQS in real time while scanning the RV from
+the 4CH apical view. The scans were acquired in the Point of Care
+environment by medical doctors in their internship. The obtained quality
+score was documented before saving the clip. The ACEP score (1-5) and
+the obtained quality score by LVivo IQS were documented.
+Success criteria: a. 80% of the saved Exams with image quality ACEP score
+3-5, received at least “Medium” image quality by LVivo IQS.
+b. 90% of these cases were clinically interpretable by the majority of three
+expert cardiologists specializing in echo.
+182 patients were included in the study and the saved scans were
+analyzed. Inclusion criteria: Age >18, indication for POCUS, Exclusion
+criteria: subjects who fail to meet any inclusion criteria. The results are
+summarized in Table-1:
+End point number Results
+a. In 85% of the patients with image quality 3-5
+by visual estimation it was possible to obtain
+at least “Medium” quality score by LVivo IQS
+b. 92% of the above saved clips were clinically
+interpretable
+Table-1: Results summary
+Special 510k Notification: LVivo IQS Page 3 of 4510(k) Summary
+8. Conclusion: The Intended Use and the technological characteristics of the subject device
+are the same as those in the LVivo IQS predicate device, and do not affect
+the safety and effectiveness of the device. The performance testing has
+been completed and has successfully verifed the performance of the device.
+Therefore, DiA Imaging Analysis concludes the LVivo IQS is substantially
+equivalent to the predicate device.
+Special 510k Notification: LVivo IQS Page 4 of 4

@@ -1,0 +1,326 @@
+TeraRecon, Inc. November 6, 2020
+℅ Mr. Patrick Willhite
+Director, Quality Assurance and Regulatory Affairs
+4309 Emperor Blvd., Suite 310
+DURHAM NC 27703
+Re: K200750
+Trade/Device Name: Neuro.AI Algorithm
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: October 26, 2020
+Received: October 28, 2020
+Dear Mr. Willhite:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.19
+Silver Spring, MD 20993
+www.fda.govK200750 – Mr. Patrick Willhite Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Diretor
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK200750
+510(K) SUMMARY
+[In accordance with 21CFR 807.92]
+1. SUBMITTER
+510(k) Sponsor: TereRecon, Inc.
+Address: 4309 Emperor Blvd., Suite 310
+Durham, NC 27703, USA
+Contact Person: Patrick Willhite
+Director of Quality Assurance and Regulatory Affairs
+Contact Information: Email: pwillhite@terarecon.com
+Phone: 919.670.1539
+Facsimile: 650.372.1101
+Date Summary Prepared: 10/30/2020
+2. DEVICE
+Proprietary (Trade) Name: Neuro.AI Algorithm (“Neuro.AI”)
+Common Name: Medical Imaging System
+Classification: § 892.2050, Picture Archiving and Communication
+System.
+Product Codes: LLZ – System, Image Processing, Radiological
+3. PREDICATE DEVICE
+Predicate Device iNtuition-TDA, TVA and Parametric Mapping (K131447)
+Reference Device iNtuition system (K121916)
+4. DEVICE DESCRIPTION
+The Neuro.AI Algorithm is a modification of the predicate device, iNtuition-TDA, TVA, Parametric Mapping
+which was cleared under K131447. The predicate device is an optional module/workflow for the iNtuition
+system (K121916). The Neuro.AI Algorithm is a standalone image processing software device that can be
+deployed as a Microsoft® Windows executable on off-the-shelf hardware or as a containerized application
+(e.g., Docker container) that runs on off-the-shelf hardware or on a cloud platform. The device has limited
+network connectivity or external medical support.
+1K200750
+The Neuro.AI Algorithm allows motion correction and processes, calculates and outputs brain perfusion
+analysis results for static, functional, dynamic and derived imaging datasets acquired with CT or MRI.
+Neuro.AI results are used for visualization and analysis of dynamic brain perfusion image data, showing
+properties of changes in contrast over time. This functionality includes calculation of parameters related to
+brain tissue perfusion, vascular assessment displayed in rotational Maximum Intensity Projection (MIP)
+called the tumble view, and tissue blood volume and other parametric maps with or without brain ventricles
+included in the calculation.
+Outputs include text and parametric map displays of measurements including time to peak (TTP), take off
+time (TOT), recirculation time (RT), mean transit time (MTT), blood volume (BV/CBV), blood flow (BF/CBF),
+classification maps, reformatted images and rotational MIPs for 2D and 3D visualization of brain tissues
+and blood vessels, and for correlation to the perfusion maps.
+The results of the Neuro.AI Algorithm can be delivered to the end-user through image viewers such as
+TeraRecon’s iNtuition system, TeraRecon’s Northstar AI Results Explorer (“Northstar”), or other third-party
+image viewing systems like PACS that can display the DICOM results generated by Neuro.AI. The Neuro.AI
+output does not depend on the viewing system’s capabilities as the results are self-contained and the only
+interface is through DICOM.
+When the Neuro.AI Algorithm results are used on iNtuition, all the standard features offered by iNtuition are
+employed such as image manipulation tools like drawing the region of interest, manual or automatic
+segmentation of structures, tools that support creation of a report, transmitting and storing this report in
+digital form, and tracking historical information about the studies analyzed by the software.
+The Neuro.AI algorithm can be used by physicians to aid in the diagnosis. The software is not intended to
+replace the skill and judgment of a qualified medical practitioner and should only be used by individuals that
+have been trained in the software’s function, capabilities and limitations. The device is intended to provide
+supporting analytical tools to a physician, to speed decision-making and to improve communication, but the
+physician’s judgment is paramount, and it is normal practice for physicians to validate theories and
+treatment decisions multiple ways before proceeding with a risky course of patient management.
+5. INDICATIONS FOR USE
+The Neuro.AI Algorithm is an algorithm for use by trained professionals, including but not limited to
+physicians, surgeons and medical clinicians.
+The Neuro.AI Algorithm is a standalone image processing software device that can be deployed as
+a Microsoft Windows® executable on off-the-shelf hardware or as a containerized application (e.g.,
+a Docker container) that runs on off-the-shelf hardware or on a cloud platform. Data and images are
+acquired via DICOM compliant imaging devices. DICOM results may be exported, combined with or utilized
+by other DICOM-compliant systems and results.
+The Neuro.AI Algorithm provides analysis capabilities for static, functional, dynamic and derived imaging
+datasets acquired with CT or MRI. It can be used for the analysis of dynamic brain perfusion image data,
+showing properties of changes in contrast over time. This functionality includes calculation of parameters
+related to brain tissue perfusion, vascular assessment and tissue blood volume and other parametric maps
+with or without the ventricles included in the calculation. The algorithm also includes volume reformat in
+various orientations, rotational MIP 3D batch while removing the skull. This “tumble view” allows qualitative
+review of vascular structure in direct correlation to the perfusion maps for comprehensive review.
+2K200750
+The results of the Neuro.AI Algorithm can be delivered to the end-user through image viewers such as
+TeraRecon’s Aquarius iNtuition system, TeraRecon’s Northstar AI Results Explorer, or other image viewing
+systems like PACS that can support DICOM results generated by Neuro.AI.
+The Neuro.AI Algorithm results are designed for use by trained healthcare professionals and are intended
+to assist the physician in diagnosis, who is responsible for making all final patient management decisions.
+6. SUMMARY OF TECHNOLOGICAL CHARACTERISTICS
+The Neuro.AI Algorithm is substantially equivalent to the predicate device, iNtuition-TDA, TVA, Parametric
+Mapping (K131447). It has the same intended use and the same basic technological characteristics as the
+predicate device. The main difference between the subject and predicate device is the standalone nature
+of the subject device.
+Both the subject and predicate device allow motion correction and processes, calculates and outputs brain
+perfusion analysis results for static, functional, dynamic and derived imaging datasets acquired with CT or
+MRI. The results are used for visualization and analysis of dynamic brain perfusion image data, showing
+properties of changes in contrast over time. This functionality includes calculation of parameters related to
+brain tissue perfusion, vascular assessment displayed in rotational Maximum Intensity Projection (MIP)
+called the tumble view, and tissue blood volume and other parametric maps. The subject device can also
+display maps with or without brain ventricles included like the reference device, iNtuition system (K121916).
+The reference device includes segmentation functionality where the segmentation can be displayed or
+hidden for any part of the body, including brain ventricles.
+Outputs include text and parametric map displays of measurements including time to peak (TTP), take off
+time (TOT), recirculation time (RT), mean transit time (MTT), blood volume (BV/CBV), blood flow (BF/CBF),
+classification maps, reformatted images and rotational MIPs for 2D and 3D visualization of brain tissues
+and blood vessels, and for correlation to the perfusion maps.
+Both the subject and predicate devices are interoperable or compatible with CT and MR scanners, third-
+party hospital systems such as PACS, and the iNtuition platform. The subject device is a standalone
+software device, the results of which can also be consumed by and viewed by TeraRecon’s Northstar AI
+Results Explorer via EnvoyAI as the algorithm hosting platform or by other third-party image viewing
+systems that can display the DICOM results generated by the Neuro.AI Algorithm.
+The differences in technological characteristics do not raise any new or different questions of safety or
+effectiveness. Software verification and validation testing and performance testing validate that
+the Neuro.AI Algorithm is as safe and effective as the predicate device to support a determination of
+substantial equivalence.
+See the table below for a description of the technological similarities and differences among the subject,
+predicate, and reference devices.
+3K200750
+TABLE 1: TECHNOLOGICAL CHARACTERISTICS COMPARISON
+Predicate Device Reference Device
+Subject Device
+iNtuition-TDA, TVA, iNtuition system
+Neuro.AI Algorithm
+Parametric Mapping (K121916)
+(TBD)
+(K131447)
+Same and other trained
+Areas of Use Radiology Radiology
+clinical users
+Vendor-neutral - CT, MR and
+Vendor-neutral - CT, MR,
+other volumetric imaging
+Modality Type Same Nuc, PET, Angio, US/Echo,
+modalities. Images are
+SPECT, CR/DR Review
+exposed over time.
+DICOM®
+Same and DICOM 3.x Yes, supports DICOM 3.0 Yes, supports DICOM 3.0
+formats
+Microsoft Microsoft
+Operating Same and
+Windows® executable on Windows® executable on
+System CentOS (Interoperability)
+off-the-shelf hardware off-the-shelf hardware
+Head – entire brain or from
+lower edge of the base of Head and other regions and
+Body Part Same
+nucleus to upper edge of the organs within the body
+ventricles.
+ 2D, 3D and 4D viewing,  2D, 3D and 4D viewing,  2D, 3D and 4D viewing,
+multi-phase series multi-phase series multi-phase series
+support, zoom, pan, support, zoom, pan, support, zoom, pan,
+window level, rotate, cine window level, rotate, cine window level, rotate, cine
+and display layouts and and display layouts and and display layouts and
+templates templates templates
+Key  ROI Markers: Ability to  ROI Markers: Ability to  ROI Markers: Ability to
+Functionality/ create preset shapes or create preset shapes or create preset shapes or
+Features freehand ROI for freehand ROI for freehand ROI for
+measurements or measurements or measurements or
+segmentations segmentations segmentations
+ Arterial and venous input  Arterial and venous input  Arterial and venous input
+function selection, function selection, function selection,
+automatic and manual automatic and manual automatic and manual
+ Ventricle segmentation  Ventricle segmentation
+Editing and segmentation
+tools are provided
+including freehand crop,
+cut, dynamic region grow,
+This device is a module of bone removal tools, rib
+Setting allows software to iNtuition. When used with cage removal, table
+Ventricle display maps with or iNtuition, the segmentation removal tools, and tools to
+Segmentation without brain ventricles tools can be applied to any provide an initial selection
+included part of the body, including of bone or air-filled vessels
+brain ventricles. (e.g. lung or colon) for
+removal or improvement.
+Any segmentation can be
+displayed or hidden and
+this is applicable for any
+4K200750
+Predicate Device Reference Device
+Subject Device
+iNtuition-TDA, TVA, iNtuition system
+Neuro.AI Algorithm
+Parametric Mapping (K121916)
+(TBD)
+(K131447)
+part of the body, including
+brain ventricles.
+ Time to Peak (TTP)
+ Time to Peak (TTP)
+ Take off Time (TOT or
+ Take off Time (TOT or Maximum Slope of
+Maximum Slope of Increase)
+Increase)
+ Recirculation Time (RT)
+Perfusion  Recirculation Time (RT)
+measurements  Mean Transit Time
+ Same
+and color maps  Mean Transit Time (MTT) (MTT)
+ Blood Volume (BV/CBV)  Blood Volume (BV/CBV)
+ Blood Flow (BF/CBF)  Blood Flow (BF/CBF)
+ Perfusion Maps  Perfusion Maps
+Artery and Vein Fitted and Artery and Vein Fitted and
+Graph Displays Same
+Raw curves –time/activity Raw curves –time/activity
+DICOM format plus JPEG,
+Export Format S ame DICOM format
+BMP, AVI, Word
+Methods for
+Mathematical Same SVD SVD
+Modeling
+Arterial and
+Venous Input
+Same Automatic and manual Automatic and manual
+Function
+Selection
+ CT and MR Scanners  CT and MR Scanners  CT and MR Scanners
+plus other imaging
+ Third-party hospital  Third-party hospital modalities
+systems such as a PACS systems such as PACS
+server, EMR or other server, EMR or other  Third-party hospital
+Interoperability/ systems such as PACS
+Compatibility  iNtuition Advanced  iNtuition advanced server, EMR or other
+Visualization system visualization system
+ Algorithm dockerization
+using DockerTM hosted in
+TeraRecon’s EnvoyAI platf
+orm and viewed by
+5K200750
+Predicate Device Reference Device
+Subject Device
+iNtuition-TDA, TVA, iNtuition system
+Neuro.AI Algorithm
+Parametric Mapping (K121916)
+(TBD)
+(K131447)
+Northstar AI Results
+Explorer
+ Other image viewing
+systems that can support
+DICOM results generated
+by the Neuro.AI Algorithm
+ Notification systems
+7. PERFORMANCE DATA
+Safety and performance of the Neuro.AI Algorithm have been verified and validated through software
+testing and performance evaluation. Software development and testing were performed in accordance with
+IEC 62304:2006/A1:2015, Medical Device Software – Software life cycle processes, utilizing a risk-based
+testing methodology. Risk has been evaluated in accordance with ISO 14971:2007,
+Medical Devices – Application of Risk Management to Medical Devices. During software testing, all pre-
+defined acceptance criteria for the Neuro.AI Algorithm were met and all software test cases passed. The
+same verification and validation methodology, risk assessment and acceptance criterion were used for
+predicate device.
+The results of the software and performance testing validate that the Neuro.AI Algorithm meets its qualified
+requirements, performs as intended, and is as safe and effective as the predicate device. No new or
+different questions of safety or efficacy have been raised as a result of the verification and validation
+process.
+8. CONCLUSION
+The Neuro.AI Algorithm is as safe and effective as the predicate device, iNtuition-TDA, TVA, Parametric
+Mapping module. The Neuro.AI Algorithm has the same intended use and the indications for use fall within
+the scope of that for the predicate device. Many of the technological characteristics are the same for the
+subject and predicate devices. Any differences in technological characteristics between the subject and
+predicate devices have been addressed through software verification/validation testing and performance
+testing and do not raise any new or different questions of safety or effectiveness. Additionally, the
+differences in technological characteristics have been compared to a reference device which is currently
+legally marketed in the United States.
+All risks were analyzed and no new risks, changes to existing risks, or new risk controls were identified as
+a result of the Neuro.AI Algorithm. The testing results and analysis above support a determination of
+Substantial Equivalence of the Neuro.AI Algorithm to the predicate device in terms of safety, efficacy, and
+performance.
+6

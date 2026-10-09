@@ -1,0 +1,432 @@
+TOMTEC Imaging Systems GmbH
+℅ Mr. Marc Bergenthal
+Manager Regulatory Affairs
+Freisinger Strasse 9
+Unterschleissheim, Bavaria 85716
+January 6, 2022
+GERMANY
+Re: K213544
+Trade/Device Name: TOMTEC-ARENA
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH, LLZ
+Dated: October 27, 2021
+Received: November 8, 2021
+Dear Mr. Bergenthal:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK213544 - Mr. Marc Bergenthal Page 2
+803)for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+510(K) SUMMARY
+K213544
+This 510(k) summary is provided as part of the Premarket Notification in compliance with
+21CFR, Part 807, Subpart E, Section 807.92.
+1) SUBMITTER’S NAME, ADDRESS, TELEPHONE NUMBER, CONTACT PERSON
+Primary Contact: Marc Bergenthal
+Email: regulatory@tomtec.de
+Tel: (+49) 89 32175 555
+Fax: (+49) 89 32175 750
+Sponsor: TOMTEC Imaging Systems GmbH
+Freisinger Strasse 9
+85716 Unterschleissheim
+Germany
+Date prepared: October 27, 2021
+2) NAME OF THE DEVICE, INCLUDING THE TRADE OR PROPRIETARY NAME IF
+APPLICABLE, THE COMMON OR USUAL NAME, AND THE CLASSIFICATION
+NAME, IF KNOWN
+Common Name: Picture archiving and communications system
+Proprietary Name: TOMTEC-ARENA
+Classification Name: 21 CFR 892.2050,
+System, Image Processing, Radiological
+Class 2
+Classification Product Code: QIH
+Subsequent Product Code: LLZ
+3) INDICATIONS FOR USE
+Indications for use of TOMTEC-ARENA software are quantification and reporting of
+cardiovascular, fetal, and abdominal structures and function of patients with suspected
+disease to support the physician in the diagnosis.
+4) DEVICE DESCRIPTION
+TOMTEC-ARENA is a clinical software package for reviewing, quantifying and reporting
+digital medical data. The software can be integrated into third party platforms.
+Platforms enhance the workflow by providing the database, import, export and other
+services. All analyzed data and images will be transferred to the platform for archiving,
+reporting and statistical quantification purposes.
+TOMTEC Imaging Systems GmbH Page 1 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+TTA2 consists of the following optional modules:
+ IMAGE-COM
+ REPORTING
+ AutoStrain LV / SAX / RV / LA
+ 2D CPA
+ FETAL 2D CPA
+ 4D LV-ANALYSIS
+ 4D RV-FUNCTION
+ 4D CARDIO-VIEW
+ 4D MV-ASSESSMENT
+ 4D SONO-SCAN
+ TOMTEC DATACENTER (incl. STUDY LIST, DATA MAINTENANCE, WEB
+REVIEW)
+The purpose of this traditional 510(k) pre-market notification is to introduce semi-automated
+cardiac measurements based on an artificial intelligence and machine learning (AI/ML)
+algorithm. The AI/ML algorithm is a Convolutional Neuronal Network (CNN) developed using
+a Supervised Learning approach.
+This AI/ML algorithm enables TOMTEC-ARENA to produce semi-automated and editable
+echocardiographic measurements on BMODE and DOPPLER datasets. The algorithm was
+developed using a controlled internal process that defines activities from the inspection of
+input data to the training and deployment of the algorithm:
+The training process begins with the model observing, learning, and optimizing its
+parameters based on the training pool data. The model's prediction and performance
+are then evaluated against the test pool. The test pool data is set aside at the
+beginning of the project.
+During the training process, the AI/ML algorithm learned to predict measurements by being
+presented with a large number of echocardiographic data manually generated by qualified
+healthcare professionals.
+The echocardiographic studies were randomly assigned to be either used for training
+(approx. 2,800 studies) or testing (approx. 500 studies).
+A semi-automated measurement consists of a cascade of detection steps. It starts with a
+rough geometric estimate, which is subsequently refined more and more:
+The user selects a frame on which the semi-automated measurements shall be
+performed in TOMTEC-ARENA. Image- & metadata, e.g. pixel spacing, are
+transferred to the semi-automated measurement detector. The semi-automated
+measurement detector predicts the position of start and end caliper in the pixel
+coordinate system. These co-coordinates are transferred back to the CalcEngine,
+which converts the received data back into real world coordinates (e.g. mm) and
+creates the graphical overlay. This superimposed line can be edited by the user.
+The end user can edit, accept, or reject the measurement(s).
+TOMTEC Imaging Systems GmbH Page 2 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+This feature does not introduce any new measurements, but allows the end user to perform
+semi-automated measurements. The end user can also still perform manual measurements
+and it is not mandatory to use the semi-automated measurements. The semi-automated
+measurements are licensed separately.
+5) SUBSTANTIALLY EQUIVALENT DEVICES
+Predicate Device: TOMTEC-ARENA
+K201632 (August 14, 2020)
+Reference Device: EPIQ and Affiniti Series Diagnostic Ultrasound System
+K211597 (September 08, 2021)
+TOMTEC Imaging Systems GmbH believes that the TOMTEC-ARENA (TTA2.50)
+modifications that are the subject of this 510(k) are substantially equivalent to TOMTEC-
+ARENA (TTA2.40) (K201632).
+6) TECHNOLOGICAL COMPARISON TO PREDICATE DEVICES
+The TOMTEC-ARENA software with the modified modules has the same intended use
+and technological characteristics as the legally marketed predicate devices. A
+comparison of the proposed TOMTEC-ARENA application to the currently marketed
+predicate device (TOMTEC-ARENA) and reference device (Philips EPIQ and Affiniti
+Ultrasound Systems with Auto Measure) are provided in the tables below:
+TOMTEC Imaging Systems GmbH Page 3 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+GENERAL COMPARISON
+Feature Predicate Device Reference Device Subject Device Discussion /
+TOMTEC-ARENA Philips EPIQ and Affiniti Ultrasound TOMTEC-ARENA Comment
+Systems with Auto Measure
+K-number K201632 K211597 Not available Subject of this
+submission is
+TOMTEC-ARENA.
+Regulation Number 21 CFR 892.2050; 21 CRF 892.1550 21 CFR 892.2050; Identical to predicate
+and Regulation Name System, Image processing, Ultrasonic pulsed doppler imaging system. System, Image processing, device.
+Radiological - Radiological -
+Picture Archiving and Picture Archiving and
+Communications System Communications System
+(PACS) (PACS)
+Classification Product LLZ IYN QIH Identical to predicate
+Code device (primary and
+secondary product
+code switched).
+Subsequent Product QIH ITX, IYO, OBJ, QIH LLZ Identical to predicate
+Codes device (primary and
+secondary product
+code switched).
+Class 2 2 2 Identical to predicate
+and reference device.
+Classification Panel Radiology Radiology Radiology Identical to predicate
+and reference device.
+Device Name TOMTEC-ARENA EPIQ Series Diagnostic Ultrasound System, TOMTEC-ARENA Identical to predicate
+Affiniti Series Diagnostic Ultrasound System device.
+Version TTA2.40 VM 9.0 TTA2.50 Version of subject
+(Ultrasound System Software device changed due to
+version/platform) new features.
+TOMTEC Imaging Systems GmbH Page 4 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+Intended Use TOMTEC-ARENA software is The intended use of Philips EPIQ series TOMTEC-ARENA software is Intended Use/
+a clinical software package diagnostic ultrasound systems is diagnostic a clinical software package Indications for use of
+designed for review, ultrasound imaging and fluid flow analysis of the designed for review, predicate and subject
+human body, with the following indications for
+quantification and reporting of quantification and reporting of device are identical
+use:Abdominal, Cardiac Adult, Cardiac other
+structures and function based structures and function based (unchanged).Intended
+(Fetal), Cardiac Pediatric, Cerebral Vascular,
+on multi-dimensional digital on multi-dimensional digital Use/ Indications for
+Cephalic (Adult), Cephalic (Neonatal),
+medical data acquired with medical data acquired with use of reference
+Fetal/Obstetric, Gynecological, Intra-cardiac
+different modalities.TOMTEC- Echo, Intra-luminal, Intraoperative (Vascular), different modalities.TOMTEC- device and subject
+ARENA is not intended to be Intraoperative (Cardiac), ARENA is not intended to be device are similar and
+used for reading of Musculoskeletal(Conventional), Musculoskeletal used for reading of considered equivalent
+mammography images. (Superficial), Other: Urology, Pediatric, Peripheral mammography images. (specifically if
+Vessel, Small Organ (Breast, Thyroid, Testicle), compared for the
+Transesophageal (Cardiac), Transrectal,
+clinical use case/
+Transvaginal, Lung.
+workflow of the subject
+Indications for Use Indications for use of TomTec- The clinical environments where Philips EPIQ Indications for use of
+feature).
+Arena TTA2 software are diagnostic ultrasound systems can be used TOMTEC-ARENA TTA2
+quantification and reporting of include clinics, hospitals, and clinical point-of care software are quantification and
+for diagnosis of patients.
+cardiovascular, fetal, reporting of cardiovascular,
+When integrated with Philips EchoNavigator, the
+abdominal structures and fetal, abdominal structures
+systems can assist the interventionalist and
+function of patients with and function of patients with
+surgeon with image guidance during treatment of
+suspected disease to support suspected disease to support
+cardiovascular disease in which the procedure
+the physician in the diagnosis uses both live X-ray and live echo guidance.The the physician in the diagnosis
+systems are intended to be installed, used, and
+operated only in accordance with the safety
+procedures and operating instructions given in
+the product user information. Systems are to be
+operated only by appropriately trained healthcare
+professionals for the purposes for which they
+were designed.
+However, nothing stated in the user information
+reduces your responsibility for sound clinical
+judgement and best clinical procedure.
+where used Hospitals, clinics, and Clinics, hospitals, and clinical point-of care Inside and outside of Subject of submission;
+(hospital, home, physician´s offices. for diagnosis of patients. Hospitals, Clinics, and The intended use
+ambulance, etc.) Physician´s offices. environment was
+revised and extended.
+Environmental
+conditions have been
+considered.
+TOMTEC Imaging Systems GmbH Page 5 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+Design Software as a medical device Hardware and Software Software as a medical device Identical to predicate
+and reference device.
+IMAGE-COM
+Feature Predicate Device Reference Device Subject Device Discussion /
+TOMTEC-ARENA Philips EPIQ and Affiniti Ultrasound TOMTEC-ARENA Comment
+Systems
+with Auto Measure
+Application IMAGE-COM is a basic Auto Measure is an optional software feature unchanged Identical to predicate
+description module for reviewing and on the EPIQ/Affinity Series Diagnostic device.
+measuring digital medical Ultrasound System that provides the end
+data. It supports routine user with semi automated adult Similar and considered
+workflows for loading, echocardiography 2D and Doppler equivalent to the
+analyzing and saving medical measurements through an AI-algorithm, reference device
+studies, e.g. for the purpose of training via machine-learning techniques. It (specifically if
+creating reports. IMAGE-COM is intended to be used with an Adult compared for the
+is where basic measurements Cardiology Transthoracic transducer and clinical use
+can be performed and the acquisitions that include an ECG. These case/workflow of the
+entry point for advanced measurements are routinely collected during subject feature).
+analysis modules. Study a transthoracic ECG, per The American
+related routine measurements Society of Echo cardiography (ASE)
+can be imported, displayed, recommendations
+edited and exported to
+accompanying reporting
+systems.
+SW Version 5.5.5 9.0 5.5.7 Version of module
+IMAGE-COM changed
+due to new features.
+TOMTEC Imaging Systems GmbH Page 6 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+Semi-automated Ao Asc diam Asc Ao Diam unchanged For these
+measurements Ao Ann diam measurements, a
+(BMODE) Ao STJ diam Ao STJ Diam measurement
+Ao SV diam Ao Sinus Diam
+suggestion can now be
+IVSd IVSd
+initialized on a self-
+LA diam systole
+selected image within
+LVIDd LVIDd
+a clip. The
+LVIDs LVIDs
+LVOT diam LVOT Diam measurement
+LVPWd LVPWd suggestion can be
+RVDd base (RVD1) RV Base edited. Manual
+RVDd mid (RVD2) RV Mid measurements as with
+RVLd RV Length TTA2.40.00 are still
+RVOT diam lax
+possible.Support of
+RVOT diam prox
+additional semi-
+TV Ann diam ant-post TV Annulus
+automated
+IVSd-LVIDd-LVPWd (same line)
+measurements
+compared to reference
+device. Additional
+measurements rely on
+same principle/
+technology (e.g. line
+detection, single-point)
+as those included in
+reference device.
+TOMTEC Imaging Systems GmbH Page 7 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+Semi-automated MV A Vel MV Peak A Vel unchanged For these
+measurements MV E Vel MV Peak E Vel measurements, a
+(DOPPLER) MV E/A Slope MV Inflow measurement
+(MV A Vel, MV E Vel, MV Time) (MV Dec Time, MV Peak E Vel, MV Peak A Vel)
+suggestion can now be
+MV Dec. Slope
+initialized on a self-
+(MV Dec Time, MV E Vel)
+selected image within
+LVOT VTI LVOT VTI
+a clip. The
+LVOT Vmax
+AV VTI AV VTI measurement
+AV Vmax suggestion can be
+PV VTI PV VTI edited. Manual
+PV Vmax measurements as with
+TR Vmax TR Vmax TTA2.40.00 are still
+LV E'(l) Lat E’ Vel
+possible.
+LV A'(l) Lat A’ Vel
+Lat Vel
+Support of additional
+(Lat E’ Vel, Lat A’ Vel)
+semi-automated
+LV E'(s) Med E’ Vel
+LV A'(s) Med A’ Vel measurements
+Med Vel compared to reference
+(Med E’ Vel, Med A’ Vel) device. Additional
+RV A'(l) measurements rely on
+RV E'(l) same principle/
+RV S'(l) RV S Vel
+technology (e.g. line
+detection, single-point)
+as those included in
+reference device.
+(MV Dec. Slope is
+calculated from MV E
+Vel and MV Dec
+Time.)
+TOMTEC Imaging Systems GmbH Page 8 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+Semi-Automation As cleared Semi-automated adult echocardiography 2D Semi-automated adult Subject of submission;
+Technology and Doppler measurements are generated echocardiography 2D and Proposed feature
+using an artificial intelligence (AI) detection Doppler measurements are includes optional semi-
+algorithm without user interaction. After generated using an artificial automation of existing
+measurement is generated, the user can edit intelligence (AI) detection measurements
+(manually adjust the caliper positions), algorithm without user available to the end
+accept, or reject the measurements.The interaction. After user during routine
+automation of measurements is constrained measurement is generated, ultrasound exam
+to the specific imaging mode (2D, Doppler) the user can edit (manually similar to reference
+as recommended by ASE guidelines. adjust the caliper positions), device. Semi-
+accept, or reject the automated
+measurements.The measurements
+automation of measurements quantify image data
+is constrained to the specific through an AI-based
+imaging mode (2D, Doppler) algorithm that was
+as recommended by ASE trained with a
+guidelines. machine-learning
+model.Workflow
+improvements for user
+convenience.No
+impact to the safety or
+effectiveness of the
+device.
+User Interface As cleared User selects an adult echocardiography 2D User selects an adult Similar to predicate
+Presentation or Doppler measurement to perform then the echocardiography 2D or and reference device.
+caliper positions are initialized based on the Doppler measurement to The set of available
+output of the AI detection algorithm. perform then the caliper measurements are
+The user can edit, accept, or reject the positions are initialized based unchanged to the
+measurements. on the output of the AI predicate device.
+detection algorithm.
+The user can edit, accept, or Workflow
+reject the measurements. improvements for user
+convenience.
+No impact to the safety
+or effectiveness of the
+device.
+TOMTEC Imaging Systems GmbH Page 9 of 10510(k) Summary
+TOMTEC-ARENA (TTA2.50)
+7) NON-CLINICAL PERFORMANCE DATA
+The proposed modifications were tested in accordance with TOMTEC’s internal
+processes. Design Control activities to assure the safe and effective performance of the
+modified TOMTEC-ARENA include but are not limited to the following:
+ Product Specifications
+ Design Review
+ Risk Analysis
+ Software Verification
+TOMTEC-ARENA is considered a Moderate Level of Concern. Software verification was
+performed according to the standard IEC 62304 “Medical device software ‐ Software life‐
+cycle processes”.
+A Summative Usability Evaluation was performed considering FDA’s Guidance for
+Industry and FDA Staff “Applying Human Factors and Usability Engineering to Medical
+Devices” and according to the standard IEC 62366‐1 “Medical devices – Part 1:
+Application of usability engineering to medical devices”. TOMTEC-ARENA has been
+found to be safe and effective for the intended users, uses, and use environments.
+Completion of all verification activities demonstrated that the subject device meets all
+design and performance requirements. Verification activities performed confirmed that
+the differences in the design did not adversely affect the safety and effectiveness of the
+subject device.
+8) SUMMARY OF CLINICAL TESTS:
+No clinical testing conducted in support of substantial equivalence when compared to
+the predicate devices.
+9) CONCLUSION
+Verification and validation activities required to establish the performance, functionality,
+and reliability characteristics of the modified TOMTEC-ARENA software with respect to
+the predicate device(s) were performed successfully. Testing performed demonstrated
+that the proposed TOMTEC-ARENA (TTA2.50) meets defined requirements and
+performance claims.
+Based on the conformance to standards, development under TOMTEC’s Quality
+Management System, and the successful verification and validation testing, TOMTEC
+believes that the proposed TOMTEC-ARENA (TTA2.50) is substantially equivalent to the
+legally marketed predicate device(s).
+TOMTEC Imaging Systems GmbH Page 10 of 10

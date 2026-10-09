@@ -1,0 +1,465 @@
+November 7, 2024
+Neurocareai Inc.
+Junaid Siddiq Kalia
+Chief Executive Officer
+8992 Preston Rd Ste 110-255
+Frisco, Texas 75034
+Re: K241719
+Trade/Device Name: NeuroICH
+Regulation Number: 21 CFR 892.2080
+Regulation Name: Radiological Computer Aided Triage And Notification Software
+Regulatory Class: Class II
+Product Code: QAS
+Dated: October 8, 2024
+Received: October 8, 2024
+Dear Junaid Siddiq Kalia:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.07.04
+Silver Spring, MD 20993
+www.fda.govK241719 - Junaid Saddiq Kalia Page 2
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-K241719 - Junaid Saddiq Kalia Page 3
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+for
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+K241719
+I
+Device Name
+I NeuroiCH
+Indications for Use (Describe)
+NeuroiCH is a notification-only, parallel workflow tool for use by hospital networks and trained
+clinicians to identify and communicate images of suspected ICH patients to a specialist, independent
+of standard of care workflow.
+The device uses an artificial intelligence algorithm to analyze non-contrast CT images of the head
+acquired in the acute setting for findings suggestive of intracranial hemorrhage (ICH) in parallel to
+the ongoing standard of care image interpretation and notify an appropriate clinician of these
+findings. Notifications include non-diagnostic preview images that are meant for informational
+purposes only. The device does not alter or remove the original medical image and is not intended
+to be used as a diagnostic device. Images can be previewed through a mobile application.
+Notified clinicians are responsible for viewing high quality images on a diagnostic viewer per the
+standard of care and engaging in appropriate patient evaluation in conjunction with other patient
+information before making care-related decisions. NeuroICH is limited to analysis of imaging data
+and should not be used in-lieu of full patient evaluation or relied upon to make or confirm diagnosis.
+Type of Use (Select one or both, as applicable)
+[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."NEUROCAREAIINC. NeuroICH510(k)Submission
+K241719
+510(k) Summary of NeuroICH
+by
+NEUROCAREAI INC
+Applicant Name: NEUROCAREAI INC.
+8992 PRESTON RD STE 110-255
+FRISCO, TX 75034
+Phone Number: +1 (214) 346-6083
+Whatsapp: +1 (469) 954-0346
+Contact Person: Junaid Kalia
+Chief Executive Officer
+Email: junaidkalia@neurocare.ai
+Date Prepared: June 12, 2024
+Device Name and Classification
+Name of Device: NeuroICH
+Classification Name:Radiological Computer Aided Triage and Notification Software
+Common Name: Intracranial Hemorrhage Detection and Notification Software
+Classification Panel:Radiology
+Regulation Number: 21 C.F.R. § 892.2080
+Regulatory Class: Class II
+Product Code: QAS
+Predicate Device:
+Manufacturer Device Name Application Number
+Viz.ai, Inc. Viz ICH K210209
+510(k)Summary Page1of8NEUROCAREAIINC. NeuroICH510(k)Submission
+Device Description:
+NeuroICH is a software-only parallel workflow tool designed for use by hospital networks and
+trained clinicians to identify and communicate prioritized images of specific patients to an
+appropriate specialist such as neurovascular or neurosurgical specialist independent of the
+standard of care workflow. NeuroICH mainly consists of an image analysis module hosted on
+cloud, and a mobile application for preview of notification and non-diagnostic images. The
+standalone software device automatically receives and analyzes non-contrast head CT (NCCT)
+studies of patients undergoing stroke protocol, for image features that indicate the presence of
+an intracranial hemorrhage (ICH) using deep learning artificial intelligence algorithm, and upon
+detection of a suspected ICH case, sends a notification along with non-diagnostic image on
+mobile application to alert a specialist clinician.
+Intended Use:
+The intended use of NeuroICH software is to detect and notify neurovascular specialists or
+trained clinicians regarding the presence of intracranial hemorrhage in non-contrast head CT
+scan images. Intracranial hemorrhage is identified if any one of the subtypes – extradural,
+subdural, subarachnoid, intraparenchymal and intraventricular hemorrhages is detected. The
+device uses an artificial intelligence algorithm to analyze images in parallel to the ongoing
+standard of care image interpretation and present users with notifications and preview images of
+suspected ICH patients on the mobile application, that are meant for informational purposes
+only and not intended for diagnostic use.
+Indications for Use:
+NeuroICH is a notification-only, parallel workflow tool for use by hospital networks and trained
+clinicians to identify and communicate images of suspected ICH patients to a specialist,
+independent of standard of care workflow.
+The device uses an artificial intelligence algorithm to analyze non-contrast CT images of the
+head acquired in the acute setting for findings suggestive of intracranial hemorrhage (ICH) in
+parallel to the ongoing standard of care image interpretation and notify an appropriate clinician
+of these findings. Notifications include non-diagnostic preview images that are meant for
+informational purposes only. The device does not alter or remove the original medical image and
+is not intended to be used as a diagnostic device. Images can be previewed through a mobile
+application.
+Notified clinicians are responsible for viewing high quality images on a diagnostic viewer per the
+standard of care and engaging in appropriate patient evaluation in conjunction with other patient
+information before making care-related decisions. NeuroICH is limited to analysis of imaging
+data and should not be used in-lieu of full patient evaluation or relied upon to make or confirm
+diagnosis.
+Comparison of Technological Characteristics:
+The subject device and predicate device have equivalent indications for use as both of them
+analyze non-contrast head CT scans of the patients for the features suggestive of the same
+abnormality i.e., intracranial hemorrhage and upon detection send the notification to designated
+neurovascular or neurosurgical specialist.
+The technological characteristics of subject and predicate devices are similar as both of them
+use the similar process of automatic data identification and transfer to send images from the
+local hospital network to a remote location for image storage, processing and analysis.
+510(k)Summary Page2of8NEUROCAREAIINC. NeuroICH510(k)Submission
+Both the subject and predicate device uses a deep learning artificial intelligence algorithm to
+analyze non-contrast CT scan images of the head and classify cases with suspected ICH in
+parallel to the ongoing standard of care image interpretation. Like the predicate device, the
+NeuroICH algorithm does not externalize any internal segmentation, analysis, or intermediate
+outputs used in determining if an ICH is present in the NCCT, nor does either algorithm mark,
+highlight or draw attention to the specific regions of the analyzed NCCT image.
+Both NeuroICH and Viz ICH software supports a mobile application interface that allows a user
+to receive push notifications, preview related non-diagnostic images, and view patient details
+associated with a series. The NeuroICH mobile application is subject to the same
+non-diagnostic viewing limitations as the predicate and has the same non-diagnostic warning on
+the image viewing screen as the predicate. Furthermore, the mobile application for both the
+devices can perform similar image viewing functions (window level change, image rotation,
+zoom, scroll through a cine, slice change).
+Similar to the predicate device, the NeuroICH software does not affect the normal standard of
+care workflow of the hospital and moreover does not remove cases from a reading queue of the
+hospital PACs system. In conclusion, the NeuroICH device is substantially equivalent to the
+predicate device, Viz ICH in terms of both indications for use and technological characteristics.
+A table comparing the key features of the subject and predicate device is provided below:
+Parameter Subject Device Predicate Device
+NeuroICH Viz ICH
+Indications of NeuroICH is a notification-only, Viz ICH is a notification-only,
+use parallel workflow tool for use by parallel workflow tool for use by
+hospital networks and trained hospital networks and trained
+clinicians to identify and clinicians to identify and
+communicate images of communicate images of specific
+suspected ICH patients to a patients to a specialist, independent
+specialist, independent of of standard of care workflow.
+standard of care workflow.
+Viz ICH uses an artificial
+The device uses an artificial intelligence algorithm to analyze
+intelligence algorithm to analyze images for findings suggestive of a
+non-contrast CT images of the prespecified clinical condition and
+head acquired in the acute setting to notify an appropriate medical
+for findings suggestive of specialist of these findings in
+intracranial hemorrhage (ICH) in parallel to standard of care for
+parallel to the ongoing standard of image interpretation. Identification
+care image interpretation and of suspected findings is not for
+notify an appropriate clinician of diagnostic use beyond notification.
+these findings. Notifications Specifically, the device analyzes
+include non-diagnostic preview non-contrast CT images of the brain
+images that are meant for acquired in the acute setting, and
+informational purposes only. The sends notifications to a
+device does not alter or remove neurovascular or neurosurgical
+the original medical image and is specialist that a suspected
+not intended to be used as a intracranial hemorrhage has been
+diagnostic device. Images can be identified and recommends review
+510(k)Summary Page3of8NEUROCAREAIINC. NeuroICH510(k)Submission
+previewed through a mobile of those images. Images can be
+application. previewed through a mobile
+application.
+Notified clinicians are responsible
+for viewing high quality images on Images that are previewed through
+a diagnostic viewer per the the mobile application may be
+standard of care and engaging in compressed and are for
+appropriate patient evaluation in informational purposes only and not
+conjunction with other patient intended for diagnostic use beyond
+information before making notification. Notified clinicians are
+care-related decisions. NeuroICH responsible for viewing
+is limited to analysis of imaging non-compressed images on a
+data and should not be used diagnostic viewer and engaging in
+in-lieu of full patient evaluation or appropriate patient evaluation and
+relied upon to make or confirm relevant discussion with a treating
+diagnosis. physician before making
+care-related decisions or requests.
+Viz ICH is limited to analysis of
+imaging data and should not be
+used in-lieu of full patient evaluation
+or relied upon to make or confirm
+diagnosis.
+Device 1. Image forwarding module 1. Image analysis software
+components configured on site machine at algorithm hosted on Viz.ai’s
+hospital end for transferring servers.
+DICOM studies. 2. Mobile application software
+2. Image analysis software module for review of notification
+algorithm hosted on AWS cloud and non-diagnostic images.
+managed by NEUROCAREAI.
+3. Mobile application software
+module for review of notification
+and non-diagnostic images.
+4. Admin panel as web application
+for registration and management
+of systems, sites and clinicians
+accounts.
+Anatomical Head Head
+region of
+interest
+Diagnostic Notification only Notification only
+application
+Intended user Neurovascular or Neurosurgical Neurovascular or Neurosurgical
+Specialist Specialist
+Data Acquires medical image data from Acquires medical image data from
+acquisition DICOM compliant imaging DICOM compliant imaging devices
+devices and modalities. and modalities.
+Data Non contrast CT scan of the head Non contrast CT scan of the head
+acquisition
+protocol
+510(k)Summary Page4of8NEUROCAREAIINC. NeuroICH510(k)Submission
+DICOM Yes Yes
+compatible
+View DICOM DICOM Information about the DICOM Information about the
+data patient, study, and current image patient, study and current image
+Segmentation No; the device does not mark, No; the device does not mark,
+of the region highlight, or direct users’ attention highlight, or direct users’ attention
+of interest to a specific location in the to a specific location in the original
+original image. image.
+Al used Yes Yes
+Notification Yes Yes
+Preview Presentation of a preview of the Presentation of a preview of the
+images study for initial assessment not study for initial assessment not
+meant for diagnostic purposes. meant for diagnostic purposes.
+The device operates in parallel The device operates in parallel with
+with the standard of care, which the standard of care, which remains
+remains the default option for all the default option for all cases.
+cases.
+Alteration of No No
+original image
+Removal of No No
+cases from
+worklist queue
+Abnormalities ICH ICH
+triaged
+Preview Preview images returned to the Preview images returned to the
+image Mobile application for view. Mobile application for view.
+information
+Performance Data:
+A retrospective, blinded study was conducted to evaluate the software’s performance in
+identifying non-contrast (NCCT) head CT scans containing intracranial hemorrhage (ICH).
+Primarily 376 studies were used with recognizable representation of positive and negative ICH
+cases (35.90 % ICH positive studies and 64.09 % normal studies) to calculate Sensitivity (Se),
+Specificity (Sp), Accuracy, Area Under the Curve (AUC) and Time-to-Notification (TTN)
+regarding suspected ICH case.
+Sensitivity, specificity, AUC and accuracy were calculated as primary endpoints with 95%
+clopper-pearson confidence interval, comparing the NeuroICH’s output to the ground truth as
+established by three US board certified Neurologists. Sensitivity and specificity on the primary
+dataset were observed to be 94.81% (89.68% - 97.43%) and 92.53% (88.50% - 95.21%),
+respectively. Because the lower bound of each confidence interval exceeded 80%, the study
+met the pre-specified performance goals of 80% for sensitivity and specificity and was
+comparative to the values achieved by the predicate device Viz ICH. In addition, the accuracy
+and area under the receiver operating characteristic curve (AUC) were 93.35% (90.37% -
+95.45%) and 0.9367 respectively, demonstrating the clinical utility and potential benefits of the
+classifier based on the imaging study results.
+510(k)Summary Page5of8NEUROCAREAIINC. NeuroICH510(k)Submission
+The performance metrics were calculated for individual data distributions as well to showcase
+the evaluation on important data cohorts. The stratification of device performance is
+demonstrated in tables below:
+DevicePerformancebyAge
+AgeRange(Years) Sensitivity[95%CI] Specificity[95%CI]
+22to50 94.87%(83.08%-98.43%) 89.86%(80.48%-94.93%)
+50to70 95.83%(86.02%-98.72%) 92.05%(84.46%-96.04%)
+70+ 93.75%(83.13%-97.73%) 95.24%(88.39%-98.06%)
+DevicePerformancebyGender
+Gender Sensitivity[95%CI] Specificity[95%CI]
+Male 93.07%(86.37%-96.55%) 90.91%(84.74%-94.30%)
+510(k)Summary Page6of8NEUROCAREAIINC. NeuroICH510(k)Submission
+Female 100% (90%-99.93%) 96.92%(89.48%-99.05%)
+DevicePerformancebySliceThickness
+SliceThickness Sensitivity[95%CI] Specificity[95%CI]
+2mm≤SliceThickness<3 96.15%(81.03%-99.09%) 98%(89.55%-99.52%)
+mm
+3mm≤SliceThickness≤5 94.50%(88.51%-97.40%) 91.10%(86.20%-94.35%)
+mm
+DevicePerformancebyICHSub-TYpe
+ICHSub-Type Sensitivity[95%CI]
+SubduralHemorrhage 91.89%(83.40%-96.16%)
+IntraparenchymalHemorrhage 98.25%(90.76%-99.58%)
+SubarachnoidHemorrhage 100%(93.40%-99.95%)
+IntraventricularHemorrhage 96.43%(82.24%-99.15%)
+EpiduralHemorrhage 100%(71.51%-99.77%)
+DevicePerformancebyScannerManufacturer
+ScannerManufacturer Sensitivity[95%CI] Specificity[95%CI]
+GEMedicalSystems 94.44%(81.81%-98.30%) 95.60%(91.57%-97.73%)
+Siemens 94.25%(87.24%-97.46%) 84.62%(72.41%-91.93%0
+Philips 100%(63.06%-99.68%) 100%(29.24%-99.16%)
+SiemensHealthineers N/A 75%(28.36%-94.73%)
+TOSHIBA 100%(54.07%-99.58%) 0%(1.26%-84.19%)
+510(k)Summary Page7of8NEUROCAREAIINC. NeuroICH510(k)Submission
+DevicePerformancebyCTScannerMake/Model
+Scanner ScannerModel Sensitivity[95%CI] Specificity[95%CI]
+Manufactur
+er
+GEMedical OptimaCT660 66.67%(19.41%-93.24%) 95.10%(90.24%-97.57%)
+Systems
+RevolutionCT 100%(87.66%-99.91%) 50%(9.43%-90.57%)
+RevolutionEVO 83.33%(42.13%-96.33%) 100%(88.43%-99.92%)
+DiscoveryRT N/A 100%(29.24%-99.16%)
+Discovery690 N/A 100%(54.07%-99.58%)
+LightSpeedPro16 N/A 100%(15.81%-98.74%)
+Siemens SOMATOMDrive 100%(29.24%-99.16%) 100%(73.54%-99.79%)
+SOMATOM 90%(58.72%-97.72%) 88.89%(55.50%-97.48%)
+Perspective
+SOMATOMDefinition 100%(92.13%-99.94%) 77.78%(44.39%-93.33%)
+AS
+SOMATOMDefinition 100%(82.35%-99.87%) 75%(46.19%-90.91%)
+AS+
+SOMATOMgo.Up 50%(9.43%-90.57%) 100%(39.76%-99.37%)
+Perspective 70%(39.03%-89.07%) 80%(35.88%-95.67%)
+SOMATOMDefinition 100%(15.81%-98.74%) N/A
+Edge
+SOMATOMgo.Top N/A 33%(6.76%-80.59%)
+BiographHorizon N/A
+100%(15.81%-98.74%0
+510(k)Summary Page8of8NEUROCAREAIINC. NeuroICH510(k)Submission
+Philips Brilliance16 100%(59.04%-99.64%) 100%(29.24%-99.16%)
+IncisiveCT 100%(15.81%-98.74%) N/A
+Siemens SOMATOMgo.UP N/A 50%(9.43%-90.57%)
+Healthineers
+SOMATOMgo.Top N/A 100%(29.24%-99.16%)
+TOSHIBA Aquilion 100%(29.24%-99.16%) N/A
+AquilionONE 100%(29.24%-99.16%) NA
+AquilionPRIME 100%(15.81%-98.74%) 0%(1.26%-84.19%)
+DevicePerformancebyICHVolume
+MinimalVolumeThreshold SensitivityAboveThreshold SensitivityBelow/Equal
+(mL) [95%CI] Threshold[95%CI]
+1 100%(91.96%-99.94%) 92.86%(68.05%-98.34%)
+5 100%(87.23%-99.91%) 96.77%(83.78%-99.23%)
+10 100%(83.89%-99.88%) 97.30%(86.19%-99.36%)
+DevicePerformancebyScannerReconstructionMethod
+Scanner Reconstruction Sensitivity[95%CI] Specificity[95%CI]
+Manufacturer Method
+GEMedicalSystems STANDARD 93.94%(80.32%-98.14%) 95.60%(91.57%-97.73%)
+SOFT 100%(39.76%-99.37%) N/A
+Siemens J37f,3 100%(29.24%-99.16%) 100%(73.54%-99.79%)
+J30s,2 84%(65.13%-93.45%) 88.24%(65.29%-96.42%)
+510(k)Summary Page9of8NEUROCAREAIINC. NeuroICH510(k)Submission
+H31f 100%(88.06%-99.91%) 66.67%(19.41%-93.24%)
+J37f,2 100%(76.84%-99.82%) 50.00%(%18.41%-
+81.59%)
+Hr40f,3 50%(9.43%-90.57%) 80.00%(35.88%-95.67%)
+Hf38s 100%(15.81%-98.74%) N/A
+H30s 100%(63.06%-99.68%) 100%(63.06%-99.68%)
+J37s,2 100%(47.82%-99.49%) 0%(0.84%-70.76%)
+Hc40f,2 100%(29.24%-99.16%) N/A
+J30s,1 100%(29.24%-99.16%) N/A
+Hr38s N/A 100%(15.81%-98.74%)
+H30f 100%(15.81%-98.74%) N/A
+Philips U,B 100%(63.06%-99.68%) 100%(29.24%-99.16%)
+Siemens Hr40f,3 N/A 75%(28.36%-94.73%)
+Healthineers
+TOSHIBA FC68 100%(29.24%-99.16%) 0%(1.26%-84.19%)
+FC26 100%(29.24%-99.16%) N/A
+FC23 100%(15.81%-98.74%) N/A
+As a secondary endpoint, the clinical benefit of using NeuroICH to prioritize these NCCT scans
+was quantified by comparing the time to open exam by a radiologist in the Standard of Care
+(TTO) referenced from Viz ICH versus the time that NeuroICH notification was received (TTN)
+for all the 128 eligible head CT scans included in the standalone performance study. The
+NeuroICH time-to-notification (TTN) includes the time to get the DICOM exam, analyze and
+send a notification to the mobile application component. The standard of care
+time-to-open-exam (TTO) consisted of the time from the initial scan of the patient to when the
+510(k)Summary Page10of8NEUROCAREAIINC. NeuroICH510(k)Submission
+radiologist first opened the exam for review. It was referenced from the literature and the
+predicate device Viz ICH.
+The average time to alert a specialist by NeuroICH was 0.37 ± 0.20 minutes, which is lower than
+the average time to open an exam seen in the Standard of Care 18.3±14.2 minutes and
+comparable to the time reported by the predicate device Viz ICH 0.49±0.08 minutes. This result
+generally demonstrates that specialists have the opportunity to become involved in the clinical
+workflow early with notifications from the NeuroICH software.
+DevicePerformancebyTime
+Parameter NeuroICHTimewith VizICHTimewithStandard
+StandardDeviation Deviation
+TimetoNotification(TTN) 0.37±0.20minutes 0.49±0.08minutes
+Conclusion:
+NeuroICH is as safe and effective as the legally marketed predicate device, Viz ICH (K210209).
+It shares the same indications for use and has similar technological characteristics and
+principles of operation as Viz ICH. The minor differences in technological characteristics do not
+raise any new safety concerns. Additionally, performance data demonstrate substantial
+equivalence to the predicate device and detects ICH in critical patients with comparable
+accuracy. Therefore, NeuroICH is claimed to be substantially equivalent to Viz ICH.
+510(k)Summary Page11of8

@@ -1,0 +1,407 @@
+July 12, 2024
+Hutom Inc.
+℅ Priscilla Chung
+Regulatory Affairs Consultant
+LK Consulting Group USA, Inc.
+18881 Von Karman Ave. STE 160
+IRVINE CA 92612
+Re: K233457
+Trade/Device Name: RUS
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: June 14, 2024
+Received: June 14, 2024
+Dear Priscilla Chung:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).K233457 - Priscilla Chung Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+, for
+Jessica Lamb
+Assistant Director
+DHT8B: Division of Radiologic Imaging
+Devices and Electronic Products
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 07/31/2026
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K233457
+Device Name
+RUS
+Indications for Use (Describe)
+RUS is medical imaging software that is intended to provide trained medical professionals with tools to aid them in
+reading, interpreting, reporting, and treatment planning for patients. RUS accepts DICOM compliant medical images
+acquired from iodine contrast-enhanced abdomen CT.
+This product is not intended for use with or for the primary diagnostic interpretation of Mammography images.
+The software provides several categories of tools. It includes basic imaging tools for general images, including 2D
+viewing, volume rendering and 3D volume viewing, image fusion, surface rendering, measurements, reporting, storing,
+general image management and administration tools, etc.
+It includes a basic image processing workflow and a custom UI to segment anatomical structures, which are visible in the
+image data (bones, organs, vascular structures, etc.), including interactive segmentation tools, basic image filters, etc.
+It also includes detection and labeling tools of organ segments, including path definition through vascular and interactive
+labeling.
+The software is designed to be used by trained professionals (including physicians, surgeons and technicians) and is
+intended to assist the clinician who is solely responsible for making all final patient management decisions.
+Type of Use (Select one or both, as applicable)
+Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number.”
+FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF510(k) Summary
+(K233457)
+This summary of 510(k) information is being submitted in accordance with requirements of 21
+CFR Part 807.92.
+1. Date: 06/13/2024
+2. Applicant / Submitter
+Hutom Inc.
+6F, 279, Dongmak-ro, Mapo-gu, Seoul
+Republic of Korea
+3. U.S. Designated Agent
+Priscilla Chung
+LK Consulting Group USA, Inc.
+18881 Von Karman Ave. STE 160
+Irvine, CA 92612
+Tel: 714.202.5789 Fax: 714.409.3357
+Email: juhee.c@LKconsultingGroup.com
+4. Device Information:
+• Trade/Device Name: RUS
+• Common Name: Automated Radiological Image Processing Software
+• Regulation Name: Medical image management and processing system
+• Regulation Number: 21 CFR 892.2050
+• Regulatory Class: II
+• Product Code: QIH
+5. Predicate Device:
+• Primary Predicate Device: Visible patient Suite (K212896) by Visible Patient, SAS
+• Reference Predicate Device: Synapse 3D Base Tools v6.6 (K221677) by FUJIFILM
+Corporation
+6. Device Description:
+RUS uses DICOM (Digital Imaging and Communications in Medicine) standards to analyze
+CT images. This software provides trained medical professionals with tools to aid them in
+Page 1 of 10reading, interpreting, reporting, and treatment planning. By observing the medical images
+standard protocol (DICOM standards), this software can receive transmitted images from
+medical imaging devices through the h-Server and can be interfaced with PACS (Picture
+Archiving and Communication System).
+RUS allows surgical planning by 3D modeling from patient’s CT data. Surgical planning in
+RUS does not replace actual surgery and can only be used as an auxiliary tool.
+CT is taken at the hospital, the patient’s CT data is obtained from PACS, and the CT data is
+transferred from PACS to h-Server. When CT data and patient information are registered in
+the h-Server, the data is pseudonymized and anonymized and safely moved to the h-Space. If
+you request hu3D production by registering CT data and patient information through h-
+Server, hu3D will be provided within 72 hours. Then you may download the hu3D model
+through RUS Stomach Planning and perform Surgical planning.
+RUS is a software suite and includes three software components: h-Server, h-Space, and
+RUS Stomach Planning.
+1) h-Server
+h-Server includes modules dedicated to data management and data gateway. The software is
+a simple tool either to anonymize or pseudonymize multidimensional digital images acquired
+from a variety of medical imaging modalities (DICOM images). There is no 3D data volume
+interpretation in this software.
+2) h-Space
+h-Space includes data management (except for DICOM files
+anonymization/pseudonymization module) and 3D reconstruction. This software offers a
+flexible solution to help trained medical professionals with image processing knowledge
+(usually radiologists or radiologist technicians) in (1) the evaluation of patient’s anatomy,
+and (2) in the creation of a 3D model of the patient’s anatomy. This software proposes
+flexible workflow options: visualization of patient’s anatomy from medical images; creation
+a 3D model of the patient’s anatomical structures, organ segments and volumetric data;
+creation of an anatomical atlas (a colored image where each color represents a structure); and
+exports these medical data to be analyzed or reviewed later.
+3) RUS Stomach Planning
+RUS Stomach Planning includes modules dedicated to patient & data management and
+surgical planning. This software offers a flexible visualization solution to help trained
+medical professionals (clinicians) in the evaluation of patient’s anatomy to plan therapy or
+surgery.
+7. Indication for use:
+RUS is medical imaging software that is intended to provide trained medical professionals
+with tools to aid them in reading, interpreting, reporting, and treatment planning for patients.
+RUS accepts DICOM compliant medical images acquired from iodine contrast-enhanced
+abdomen CT.
+Page 2 of 10This product is not intended for use with or for the primary diagnostic interpretation of
+Mammography images.
+The software provides several categories of tools. It includes basic imaging tools for general
+images, including 2D viewing, volume rendering and 3D volume viewing, image fusion,
+surface rendering, measurements, reporting, storing, general image management and
+administration tools, etc.
+It includes a basic image processing workflow and a custom UI to segment anatomical
+structures, which are visible in the image data (bones, organs, vascular structures, etc.),
+including interactive segmentation tools, basic image filters, etc.
+It also includes detection and labeling tools of organ segments, including path definition
+through vascular and interactive labeling.
+The software is designed to be used by trained professionals (including physicians, surgeons
+and technicians) and is intended to assist the clinician who is solely responsible for making
+all final patient management decisions.
+Page 3 of 108. Substantial Equivalence:
+The RUS is substantially equivalent to the following predicate devices:
+• Primary Predicate Device: Visible Patient Suite (K212896) by Visible Patient, SAS
+• Reference Device: Synapse 3D Base Tools v6.6 (K221677) by FUJIFILM Corporation
+8.1.Comparison Chart
+Elements of
+Subject Device Primary Predicate Additional Predicate Comparison
+Comparison
+Device Name RUS Visible patient Suite Synapse 3D Base Tools v6.6
+510# K233457 K212896 K221677
+Manufacturer Hutom Visible Patient, SAS FUJIFILM Corporation
+Classification System, Image Processing, System, Image Processing, System, Image Processing,
+Same
+Name Radiological Radiological Radiological
+Regulation
+21 CFR 892.2050 21 CFR 892.2050 21 CFR 892.2050 Same
+Number No.
+Product Code QIH LLZ LLZ Same
+Classification Class II Class II Class II Same
+RUS is medical imaging software that Visible Patient Suite is medical Synapse 3D Base Tools is medical
+is intended to provide trained medical imaging software that is intended to imaging software that is intended to
+professionals with tools to aid them in provide trained medical professionals provide trained medical professionals
+reading, interpreting, reporting, and with tools to aid them in reading, with tools to aid them in reading,
+treatment planning for patients. RUS interpreting, reporting, and treatment interpreting, reporting, and treatment
+accepts DICOM compliant medical planning for both pediatric and adult planning. Synapse 3D Base Tools
+Indications for use Same
+images acquired from iodine contrast- patients. Visible Patient Suite accepts accepts DICOM compliant medical
+enhanced abdomen CT. DICOM compliant medical images images acquired from a variety of
+acquired from a variety of imaging imaging devices including, CT, MR,
+This product is not intended for use devices, including CT, MR. CR, US, NM, PT, and XA, etc. This
+with or for the primary diagnostic This product is not intended for use product is not intended for use with
+interpretation of Mammography with or for the primary diagnostic or for the primary diagnostic
+Page 4 of 10Elements of
+Subject Device Primary Predicate Additional Predicate Comparison
+Comparison
+images. interpretation of Mammography interpretation of Mammography
+images. images. Synapse 3D Base Tools
+The software provides several The software provides several provides several levels of tools to the
+categories of tools. It includes basic categories of tools. It includes basic user: Basic imaging tools for general
+imaging tools for general images, imaging tools for general images, images, including 2D viewing,
+including 2D viewing, volume including 2D viewing, volume volume rendering and 3D volume
+rendering and 3D volume viewing, rendering and 3D volume viewing, viewing, orthogonal/ oblique/ curved
+image fusion, surface rendering, orthogonal Multi-Planar Multi-Planar Reconstructions (MPR),
+measurements, reporting, storing, Reconstructions (MPR), image fusion, Maximum (MIP), Average (RaySum)
+general image management and surface rendering, measurements, and Minimum (MinIP) Intensity
+administration tools, etc. reporting, storing, general image Projection, 4D volume viewing,
+management and administration tools, image fusion, image subtraction,
+It includes a basic image processing etc. surface rendering, sector and
+workflow and a custom UI to It includes a basic image processing rectangular shape MPR image
+segment anatomical structures, which workflow and a custom UI to segment viewing, MPR for dental images,
+are visible in the image data (bones, anatomical structures, which are creating and displaying multiple
+organs, vascular structures, etc.), visible in the image data (bones, MPR images along an object, time-
+including interactive segmentation organs, vascular/airway structures, density distribution, basic image
+tools, basic image filters, etc. etc.), including interactive processing, noise reduction, CINE,
+segmentation tools, basic measurements, annotations,
+It also includes detection and labeling image filters, etc. reporting, printing, storing,
+tools of organ segments, including It also includes detection and labeling distribution, and general image
+path definition through vascular and tools of organ segments (liver, lungs management and administration
+interactive labeling. and kidneys), including path tools, etc.
+definition through vascular/airway, -Tools for regional segmentation of
+The software is designed to be used approximation of vascular/airway anatomical structures within the
+by trained professionals (including territories from tubular structures and image data, path definition through
+physicians, surgeons and technicians) interactive labeling. vascular and other tubular structures,
+and is intended to assist the clinician The software is designed to be used and boundary detection.
+who is solely responsible for making by trained professionals (including -Image viewing tools for modality
+all final patient management physicians, surgeons and technicians) specific images, including CT PET
+decisions. and is intended to assist the clinician fusion and ADC image viewing for
+who is solely responsible for making MR studies.
+Page 5 of 10Elements of
+Subject Device Primary Predicate Additional Predicate Comparison
+Comparison
+all final patient management -Imaging tools for CT images
+decisions. including virtual endoscopic viewing
+and dual energy image viewing.
+-Imaging tools for MR images
+including delayed enhancement
+image viewing, diffusion-weighted
+MRI image viewing.
+Trained professionals (including Trained professionals (including
+Intended user Trained medical professionals Same
+physicians, surgeons and technicians) physicians, surgeons and technicians)
+Where used Hospital Hospital Hospital Same
+CT, MR, CR, US, NM, PT, and XA,
+Type of input data CT CT, MR Same
+etc
+Data information Anonymization (Some Dicom Tag) Anonymization (DICOM data, patient Anonymization (Patient name, ID,
+Similar
+processing Pseudonymization (Patient name, ID) information) study list)
+2D viewing YES YES YES Same
+Image Storing Same
+YES YES YES
+(DICOM SCP)
+Image Same
+Communication YES YES YES
+(DICOM SCU)
+Printing (DICOM Same
+YES YES YES
+SCU)
+Measurements (2D Same
+YES YES YES
+and 3D)
+Reporting YES YES YES Same
+Volume Rendering Same
+YES YES YES
+and 3D viewing
+Image fusion YES YES YES Same
+Surface fusion YES YES YES Same
+Image subtraction Same
+YES YES YES
+(3D)
+Page 6 of 10Elements of
+Subject Device Primary Predicate Additional Predicate Comparison
+Comparison
+General image Same
+data management
+and YES YES YES
+administration
+tools
+Segmentation YES YES YES Same
+Virtual
+Endoscopic YES No YES Same
+Simulator
+Product
+Software product Software product Software product Same
+Availability
+Hardware platform Windows PC Windows PC Windows PC Same
+8.2. Substantial Equivalence Discussion
+The Substantial Equivalence (SE) Comparison Table (Table 8.1) in which we compare the differences and similarities of the
+proposed device to the predicate device follows in this Section and the reference device is only similar with function (tool)
+compared with the subject device.
+The subject device is substantially equivalent to the predicate device in the following ways:
+ Indications for Use
+The subject device has the same indications for use as the predicate devices.
+ Where used
+The subject device shares the same usage environment as the predicate device.
+ Type of input data
+The input data for the subject device consists of CT images, which is consistent with the input data type of the predicate
+device.
+ Basic imaging tools
+Page 7 of 10The fundamental imaging tools, such as 2D/3D viewing, image storage, communication, printing, reporting, and rendering,
+are identical to those of the predicate device. These tools are part of the existing toolkit of the predicate device.
+ Segmentation
+The application segments and reconstructs various anatomical structures including organs (such as the liver, stomach,
+spleen, gallbladder, and pancreas), vessels, and skin. The predicate devices' segmentation areas encompass those of the
+subject device. The subject device has similar or different technical characteristics to the predicate devices in the
+following ways:
+ Technological characteristics
+The RUS has the same principles of operation as its predicate device, but there are some differences in technical
+characteristics. There is a difference between anonymization and pseudonymization in data information processing. While
+the predicate devices anonymize DICOM data and patient information (such as ID and name), the subject device
+pseudonymizes patient names and IDs while also anonymizing certain DICOM tags. The validation test has confirmed the
+effectiveness of this data information processing. This difference does not raise a new concern in safety or effectiveness.
+The subject device, RUS, is equivalent to the predicate device in terms of the same indications for use, intended user, target
+population, use environment, type of input data, and basic imaging tools. Performance tests were carried out to assess the
+functionality of RUS, the subject device. The test results of all conducted tests support that the subject device is substantially
+equivalent to the predicate device.
+Page 8 of 109. Performance Data:
+Safety and performance of RUS has been evaluated and verified in accordance with software
+specifications and applicable performance standards through software verification and
+validation testing. Additionally, the software validation activities were performed in
+accordance with IEC 62304:2006/Amd 1: 2015- Medical device software – Software life
+cycle processes, in addition to the FDA Guidance documents, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices” and “Content of
+Premarket Submission for Management of Cybersecurity in Medical Devices.”
+• Software Verification/Validation Tests
+• Performance Tests (Segmentation Accuracy, pneumoperitoneum, Length
+Measurement)
+Three machine learning models are included in RUS. (Organ: CADD U-NET, Vessel: 3D U-
+NET, Pneumoperitoneum: Linear regression). These models were verified with datasets of
+actual CT imaging studies of patients. A total of 60 imaging studies were used to evaluated the
+device. No dataset contained more than one imaging study from any particular patient. No
+imaging study used to verify performance was used for training; independence of training and
+testing data were enforced at the level of the scanning institution, namely, studies sourced from
+a specific institution were used for either training or testing but could not be used for both.
+The data used in the device validation ensured diversity in patient population and CT system
+manufacturer. The data acquired from different CT systems and acquisition condition to reflect
+the intended use environment and the recommended CT settings. The data includes patients
+with and without disease.
+Performance was verified by comparing segmentations and pneumoperitoneum generated
+by the machine learning models against segmentations generated by medical professionals and
+3D scan data form the same imaging study.
+h-Space is divided into Organ, Vessel, and Pneumoperitoneum, and the target performance is
+described. For Organ Segmentation, the target performance is set DSC 0.920 by referring and
+literature on Multi-Organ Segmentation.1 According to the literature, using various methods to
+calculate the DSC results for multiple organ segmentations yielded a maximum average value
+of 0.918. Therefore, to set a higher target, we referred to relevant papers and established
+criteria of organ segmentation at 0.920.
+For Vessel Segmentation, we set a target performance of DSC 0.890 by referring to the
+literature.2 This literature describes a framework for vessel segmentation. It reports cases of
+achieving high DSC on vessel data, making it a valuable resource for establishing benchmarks
+for vessel segmentation. Among the various structures' vessel segmentation scores, we set the
+highest value of 0.890 as our criteria.
+For Pneumoperitoneum, the target performance was set to MAE ± 1.083mm based on the
+1 Yucheng Tang, Dong Yang, Wenqi Li, Holger Roth, Bennett Landman, Daguang Xu, Vishwesh Nath, Ali Hatamizadeh (2022, March). Self-Supervised Pre-
+Training of Swin Transformers for 3D Medical Image Analysis. arXiv:2111.14791v2 from https://doi.org/10.48550/arXiv.2111.14791
+2 Giles Tetteh, Velizar Efremov, Nils D. Forkert, Matthias Schneider, Jan Kirschke, Bruno Weber, Claus Zimmer, Marie Piraud and Björn H. Menze (2020, Dec).
+DeepVesselNet: Vessel Segmentation, Centerline Prediction, and Bifurcation Detection in 3D Angiographic Volumes. from https://doi.org/10.3389/fnins.2020.592352
+Page 9 of 10validation data during the model development process.
+The performance of the machine learning models, characterized by the Dice coefficient Scores
+(DSC) and Mean Absolute Error (MEA), was as follows: Organ 0.927 DSC; Vessel 0.920
+DSC; Pneumoperitoneum +/- 0.972 mm;
+The accuracy of length measurement features has been validated on phantom data and hu3D
+data. The type of measurements verified were distances between two points (Ruler function).
+The measurements produced by RUS were verified to be accurate within a mean difference of
++/- 10%.
+10. Conclusion:
+The subject device is substantially equivalent in the areas of technical characteristics, general
+function, application, and indications for use. The test results also support the substantial
+equivalence to the predicate devices. Therefore, we conclude that the subject device
+described in this submission is substantially equivalent to the predicate device.
+Page 10 of 10

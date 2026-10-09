@@ -1,0 +1,532 @@
+Merge Healthcare Incorporated October 17, 2019
+℅ Ms. Amy Tannenbaum
+Regulatory Affairs Specialist
+900 Walnut Ridge Drive
+HARTLAND WA 53209
+Re: K192455
+Trade/Device Name: Merge PACS
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Picture archiving and communications system
+Regulatory Class: Class II
+Product Code: LLZ
+Dated: September 16, 2019
+Received: September 17, 2019
+Dear Ms. Tannenbaum:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.07
+Silver Spring, MD 20993
+www.fda.govK192455 – Ms. Amy Tannenbaum Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological HealthSection 4
+Indications for Use Statement (Form 3881)
+4-1 Merge PACS
+510(k) Premarket NotificationDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved:0MB No.0910-0120
+Food and Drug Administration
+Expiration Date:06/30/2020
+Indications for Use See PRA Statement below.
+510(k) Number (if known)
+K192455
+Device Name
+Merge PACS
+IndicationsforUse(Describe)
+Merge PACS™ is a Picture Archiving and Communication System (PACS) for multi-modality (CT, MR, PT, US, MG, BTO,
+CR, DR/DX, NM, XA, RF, secondary capture (SC), and other DICOM-compliant modalities) image processing and display,
+diagnostic reading and reporting, communication, printing, and storage of medical imaging studies and other patient data.
+Intended clinical users include radiologists, orthopedic and other surgeons, referring physicians, technologists, and other
+qualified medical professionals.
+Data can be received directly from acquisition modalities, CAD systems, and other image processing systems, or indirectly via
+importing. Data that is not DICOM-compliant, such as photos, can be converted to DICOM format by Merge PACS.
+Merge PACS provides image manipulation tools to enable users to view and compare images such as: linking, MPR, MIP, 3D
+image fusion/registration of CT, MR, and PET; as well as CVR (Color Volume Rendering), measurements (linear distances,
+angles, areas, SUV, etc.), and annotations (for example, outline and label regions of interest, label spinal vertebrae).
+The Real Time Worklist (RTWL) displays the real-time status of radiology activity and provides customizable workflow
+management capabilities. Communication of critical results is facilitated and documented through optional, configurable
+components.
+The Patient Dashboard provides a composite view of patient data, both imaging and non-imaging. Multi-tier patient identity
+matching provides a comprehensive view even when dealing with multiple disparate patient identities.
+Order and report information generated by the HIS/RIS and report creation systems are received and displayed via the
+transmission of HL7 messaging.
+Lossless (reversible) and lossy (irreversible) image compression are supported for viewing, storage and communication.
+Merge PACS displays full fidelity DICOM images for use in the diagnostic interpretation of mammography using MG or
+BTO images. Thick slab MIP presentation can be applied to BTO images.
+Lossy compressed images and digitized screen film images must not be used for primary diagnosis of mammography studies,
+and only display monitors that have regulatory clearance for mammography interpretation should be used for the interpretation
+of mammography studies.
+Type of Use (Select one or both,as applicable)
+l:8J D
+PrescriptionUse(Part21CFR801SubpartD) Over-The-Counter Use (21 CFR 801 SubpartC)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.
+FORM FDA3881(7117) Page 1of 2 PSC Publishing Services (301)443-6740EFThis section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+Office of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid 0MB number."
+FORM FDA 3881 (7/17) Page 2 of 2510(k) Summary – Merge PACS K192455
+In accordance with 21 CFR 807.92 the following summary of information is provided:
+Submitter Information
+Submitter: Merge Healthcare Incorporated
+900 Walnut Ridge Drive
+Hartland, Wisconsin 53209 USA
+510(k) Number: K192455
+Date Prepared: September 6, 2019
+Contact Person: Amy Tannenbaum
+Regulatory Affairs Specialist
+Phone: 617-528-3087
+Email: amy.tannenbaum@ibm.com
+Secondary Contact: Tracey Fox
+Global Regulatory Affairs, Manager
+Phone: 1-262-369-3156
+Email: tracey.fox@ibm.com
+Identification of the Device
+Trade Name: Merge PACS
+Common Name: Picture Archiving and Communication System (PACS)
+Classification Name: Radiological Image Processing System
+21 CFR 892.2050
+Product Code: LLZ
+Device Class: Class II
+Predicate Device(s)
+Primary Predicate: Merge PACS (K173475)
+Reference Predicate: Xelis Fusion (K111613)
+Merge PACS K192455
+510(k) Premarket Notification
+1Device Description
+Merge PACS, a software medical device, is a standards-based medical imaging diagnostic
+workstation that serves as an adjunct to assist the clinician to view, read, and report their
+findings. Merge PACS processes and displays medical images from DICOM-compliant
+modalities. The device is designed to enable efficient workflows by maintaining clinicians’
+worklists and retrieving and managing studies for reading, reporting, communication, and
+storage.
+Merge PACS software runs on off-the-shelf computer hardware and can be configured to operate
+standalone or to integrate with vendor-neutral imaging archives (VNAs) such as iConnect
+Enterprise Archive (iCEA) via DICOM protocol, for image storage, and with radiological and
+hospital information systems (RIS and HIS) and medical record systems (EMR, EHR, etc.) via
+HL7.
+Merge PACS can be accessed from within the hospital or enterprise, or from remote locations via
+web-based access. Images viewed on mobile devices should not be used for diagnostic purposes.
+The focus of this premarket notification is on the addition of the Region Analysis Area and
+Region Analysis Volume tools, which allows for additional clinical analysis of images, including
+volumetric Standard Uptake Value (SUV) calculation. There has been a minor change in the
+indications for use statement from the previous Merge PACS device, with the removal of the
+optional Reach component which is no longer offered. Additional non-significant changes since
+the previous submission will be discussed.
+Intended Use/ Indications for Use
+Merge PACS™ is a Picture Archiving and Communication System (PACS) for multi-modality
+(CT, MR, PT, US, MG, BTO, CR, DR/DX, NM, XA, RF, secondary capture (SC), and other
+DICOM-compliant modalities) image processing and display, diagnostic reading and reporting,
+communication, printing, and storage of medical imaging studies and other patient data. Intended
+clinical users include radiologists, orthopedic and other surgeons, referring physicians,
+technologists, and other qualified medical professionals.
+Data can be received directly from acquisition modalities, CAD systems, and other image
+processing systems, or indirectly via importing. Data that is not DICOM-compliant, such as
+photos, can be converted to DICOM format by Merge PACS.
+Merge PACS provides image manipulation tools to enable users to view and compare images
+such as: linking, MPR, MIP, 3D image fusion/registration of CT, MR, and PET; as well as CVR
+(Color Volume Rendering), measurements (linear distances, angles, areas, SUV, etc.), and
+annotations (for example, outline and label regions of interest, label spinal vertebrae).
+Merge PACS K192455
+510(k) Premarket Notification
+2The Real Time Worklist (RTWL) displays the real-time status of radiology activity and provides
+customizable workflow management capabilities. Communication of critical results is facilitated
+and documented through optional, configurable components.
+The Patient Dashboard provides a composite view of patient data, both imaging and non-
+imaging. Multi-tier patient identity matching provides a comprehensive view even when dealing
+with multiple disparate patient identities.
+Order and report information generated by the HIS/RIS and report creation systems are received
+and displayed via the transmission of HL7 messaging.
+Lossless (reversible) and lossy (irreversible) image compression are supported for viewing,
+storage and communication. Merge PACS displays full fidelity DICOM images for use in the
+diagnostic interpretation of mammography using MG or BTO images. Thick slab MIP
+presentation can be applied to BTO images.
+Lossy compressed images and digitized screen film images must not be used for primary
+diagnosis of mammography studies, and only display monitors that have regulatory clearance for
+mammography interpretation should be used for the interpretation of mammography studies.
+Technological Characteristics
+Merge PACS and its predicate device(s) have the same fundamental scientific technology. The
+primary predicate is the previous Merge PACS (K173475) for which the subject device is a
+modification of, with reference predicate Xelis Fusion (K111613).
+The subject device has the same basic intended use as the predicates and near identical
+indications for use as Merge PACS (K173475). The devices have essentially the same basic
+image processing, display, storage, and communication features, based on the same or similar
+technology. Availability and bundling and naming of additional features and toolsets may vary
+between the devices, but the technology behind each feature is essentially the same regardless of
+how it is catered to a specific user.
+It is our opinion that the subject Merge PACS device is substantially equivalent to the previous
+Merge PACS (K173475) as it is an earlier version of the device that contains the same
+technology and functionality. The subject device is also substantially equivalent to the reference
+predicate, Xelis Fusion (K111613), sharing essentially the same basic image processing, display,
+storage and communication features as well as the new capability of volumetric SUV
+measurements.
+Determination of Substantial Equivalence
+The modifications to Merge PACS include updates to the software and labeling from the
+previous Merge PACS K173475. A summary of the key changes in the subject Merge PACS
+Merge PACS K192455
+510(k) Premarket Notification
+3device are summarized below with comparison to its predicates. Additional non-significant
+changes and bug fixes have been made to improve workflow and security, and do not have an
+impact on clinical functionality of the device.
+Merge PACS K192455
+510(k) Premarket Notification
+4Table 1: Comparison to predicates
+Category Feature/ Subject Merge PACS Primary Predicate: Merge Reference Clinically Significant
+Information (K192455) PACS (K173475) Predicate: Xelis Change?
+Fusion (K111613)
+General Common Name Picture Archiving and Picture Archiving and Picture Archiving No changes
+of Device/ Communications System Communications System and
+Classification (PACS) (PACS) Communications
+Product code System (PACS)
+21 CFR 892.2050 21 CFR 892.2050
+21 CFR 892.2050
+LLZ- Radiological Image LLZ- Radiological Image
+Processing System Processing System LLZ- Radiological
+Image Processing
+System
+Operating Windows 10 Windows 7/8.1/10 Unknown Not a clinically significant
+System difference – support for
+latest Windows OS.
+Browser Internet Explorer 11, Internet Explorer 7, 8, 9, Unknown Not a clinically significant
+Support Edge, Chrome 10, 11 difference – support for new
+browser only
+Server OS Windows 2016 64-bit, Windows 2012 R2 Windows 32 and 64- Not a clinically significant
+Support Windows 2012 R2 bit difference – support for
+latest server OS
+Indication for Merge PACS™ is a Picture Merge PACS™ is a Picture The Xelis Fusion is a There is only a minor change
+Use Statement Archiving and Archiving and software device that in the indications for use
+Communication System Communication System receives digital statement from the
+(PACS) for multi-modality (PACS) for multi-modality images and data previous Merge PACS
+(CT, MR, PT, US, MG, (CT, MR, PT, US, MG, BTO, from various device, with the removal of
+BTO, CR, DR/DX, NM, XA, CR, DR/DX, NM, XA, RF, sources (e.g. CT the optional Reach
+Merge PACS K192455
+510(k) Premarket Notification
+5Category Feature/ Subject Merge PACS Primary Predicate: Merge Reference Clinically Significant
+Information (K192455) PACS (K173475) Predicate: Xelis Change?
+Fusion (K111613)
+RF, secondary capture secondary capture (SC), scanners, MR component which is no
+(SC), and other DICOM- and other DICOM- scanners, longer offered. Similar
+compliant modalities) compliant modalities) ultrasound systems, indications to reference
+image processing and image processing and R/F Units, computed predicate. There is no
+display, diagnostic display, diagnostic reading & direct clinically significant
+reading and reporting, and reporting, radiographic difference as Reach was not
+communication, printing, communication, printing, devices, secondary used by radiologists for
+and storage of medical and storage of medical capture devices, diagnosis.
+imaging studies and imaging studies and other scanners, imaging
+other patient data. patient data. Intended gateways or other
+Intended clinical users clinical users include image sources).
+include radiologists, radiologists, orthopedic Diagnosis or
+orthopedic and other and other surgeons, computer aided
+surgeons, referring referring physicians, diagnosis is not
+physicians, technologists, technologists, and other performed by the
+and other qualified qualified medical software but by
+medical professionals. professionals. Radiologists.
+Images (including
+Data can be received Data can be received
+mammographic)
+directly from acquisition directly from acquisition
+and data can be
+modalities, CAD systems, modalities, CAD systems,
+stored,
+and other image and other image
+communicated,
+processing systems, or processing systems, or
+processed and
+indirectly via importing. indirectly via importing.
+displayed within the
+Data that is not DICOM- Data that is not DICOM-
+system and or
+compliant, such as compliant, such as photos,
+across computer
+photos, can be converted can be converted to
+networks at
+Merge PACS K192455
+510(k) Premarket Notification
+6Category Feature/ Subject Merge PACS Primary Predicate: Merge Reference Clinically Significant
+Information (K192455) PACS (K173475) Predicate: Xelis Change?
+Fusion (K111613)
+to DICOM format by DICOM format by Merge distributed
+Merge PACS. PACS. locations. In
+addition, Xelis
+Merge PACS provides Merge PACS provides Fusion can be
+image manipulation tools image manipulation tools integrated with an
+to enable users to view to enable users to view institution’s HIS or
+and compare images and compare images such RIS for an integrated
+such as: linking, MPR, as: linking, MPR, MIP, 3D and electronic
+MIP, 3D image image fusion/registration patient record.
+fusion/registration of CT, of CT, MR, and PET; as
+Lossy compressed
+MR, and PET; as well as well as CVR (Color Volume
+mammographic
+CVR (Color Volume Rendering),
+images and digitized
+Rendering), measurements (linear
+film screen images
+measurements (linear distances, angles, areas,
+must not be
+distances, angles, areas, SUV, etc.), and
+reviewed for
+SUV, etc.), and annotations (for example,
+primary image
+annotations (for outline and label regions
+interpretation.
+example, outline and of interest, label spinal
+Mammographic
+label regions of interest, vertebrae).
+images may only be
+label spinal vertebrae).
+interpreted using
+The Real Time Worklist
+and FDA approved
+The Real Time Worklist (RTWL) displays the real-
+monitor that offers
+(RTWL) displays the real- time status of radiology
+at least 5 Mega-
+time status of radiology activity and provides
+pixel resolution and
+activity and provides customizable workflow
+meets other
+customizable workflow management capabilities.
+technical
+management capabilities. Communication of critical
+specifications
+Merge PACS K192455
+510(k) Premarket Notification
+7Category Feature/ Subject Merge PACS Primary Predicate: Merge Reference Clinically Significant
+Information (K192455) PACS (K173475) Predicate: Xelis Change?
+Fusion (K111613)
+Communication of critical results is facilitated and reviewed and
+results is facilitated and documented through accepted by FDA.
+documented through optional, configurable
+optional, configurable components.
+components.
+The Patient Dashboard
+The Patient Dashboard provides a composite view
+provides a composite of patient data, both
+view of patient data, imaging and non-imaging.
+both imaging and non- The optional Reach
+imaging. Multi-tier component provides
+patient identity matching clinicians with secure,
+provides a proactive communication
+comprehensive view and access to clinical
+even when dealing with reports and images. Multi-
+multiple disparate tier patient identity
+patient identities. matching provides a
+comprehensive view even
+Order and report when dealing with
+information generated by multiple disparate patient
+the HIS/RIS and report identities.
+creation systems are
+received and displayed Order and report
+via the transmission of information generated by
+HL7 messaging. the HIS/RIS and report
+creation systems are
+received and displayed via
+Merge PACS K192455
+510(k) Premarket Notification
+8Category Feature/ Subject Merge PACS Primary Predicate: Merge Reference Clinically Significant
+Information (K192455) PACS (K173475) Predicate: Xelis Change?
+Fusion (K111613)
+Lossless (reversible) and the transmission of HL7
+lossy (irreversible) image messaging.
+compression are
+supported for viewing, Lossless (reversible) and
+storage and lossy (irreversible) image
+communication. Merge compression are
+PACS displays full fidelity supported for viewing,
+DICOM images for use in storage and
+the diagnostic communication. Merge
+interpretation of PACS displays full fidelity
+mammography using MG DICOM images for use in
+or BTO images. Thick slab the diagnostic
+MIP presentation can be interpretation of
+applied to BTO images. mammography using MG
+or BTO images. Thick slab
+Lossy compressed images MIP presentation can be
+and digitized screen film applied to BTO images.
+images must not be used
+for primary diagnosis of Lossy compressed images
+mammography studies, and digitized screen film
+and only display monitors images must not be used
+that have regulatory for primary diagnosis of
+clearance for mammography studies,
+mammography and only display monitors
+interpretation should be that have regulatory
+used for the clearance for
+mammography
+Merge PACS K192455
+510(k) Premarket Notification
+9Category Feature/ Subject Merge PACS Primary Predicate: Merge Reference Clinically Significant
+Information (K192455) PACS (K173475) Predicate: Xelis Change?
+Fusion (K111613)
+interpretation of interpretation should be
+mammography studies. used for the
+interpretation of
+mammography studies.
+Significant change(s) introduced in subject device Merge PACS:
+Measurement SUV Calculation Probe Tool, ROI Tool Probe Tool and ROI Tool Supports 3D region Addition of Region Area and
+(PET) Regional Area Analysis 2D SUV calculations only of interest (ROI) SUV Volume Analysis tools allows
+and Regional Volume analysis for additional clinical
+Analysis analysis of PET images for
+2D and 3D SUV patient treatment, including
+calculations 3D SUV calculations. The
+reference predicate device
+shares this new feature with
+the subject Merge PACS.
+Applicable verification and
+validation testing has been
+performed to justify the
+safety and efficacy of this
+difference from the primary
+predicate.
+Merge PACS K192455
+510(k) Premarket Notification
+10Category Feature/ Subject Merge PACS Primary Predicate: Merge Reference Clinically Significant
+Information (K192455) PACS (K173475) Predicate: Xelis Change?
+Fusion (K111613)
+Non-significant changes(s) introduced in subject device Merge PACS:
+Viewer Terarecon Yes - Terarecon Yes – Terarecon opens in Unknown Not a clinically significant
+Integration embedded in Merge separate window difference. End functionality
+PACS, opens in same owned by Terarecon.
+window Smoother integration with
+Merge PACS for user
+convenience, but no clinical
+impact to the patient.
+Automatic Yes No – Automatic linking of Yes Not a clinically significant
+Registration for series with same frame of difference for Merge PACS.
+series that do reference UID and Automatic registration is
+not share a manually linking of series through the functionality of
+common frame that do not share a Blackford to deliver DICOM
+of reference common frame of objects to Merge PACS for
+reference only automatic registration of
+series that do not share a
+common frame of
+reference. No impact to
+safety or effectiveness.
+Patient Synopsis Yes No Similar functionality Not a clinically significant
+information – can Integrate with different, Watson Imaging
+within Patient patient record Patient Synopsis provides a
+Record new option for clinicians to
+view patient information.
+Merge PACS K192455
+510(k) Premarket Notification
+11Category Feature/ Subject Merge PACS Primary Predicate: Merge Reference Clinically Significant
+Information (K192455) PACS (K173475) Predicate: Xelis Change?
+Fusion (K111613)
+No clinical impact to the
+patient.
+Viewer – Mammo 2D/3D Mammo Yes No – user must perform Unknown Not a clinically significant
+Support toggle tool additional key clicks to go difference. Provides a user
+between 2D and 3D convenience only to more
+images quickly toggle between
+views. No clinical impact to
+the patient.
+DICOM user Allow flexibility Yes No Unknown Security enhancements only
+accounts in choosing the and allows for more
+desired local, customizable controls. No
+network (e.g impact to safety or
+LDAP), or Merge effectiveness.
+PACS accounts
+of various user
+services
+Other changes Security Yes No Unknown Not a clinically significant
+enhancements, difference. About Screen
+and updates to provides information only
+graphics in and security enhancements
+About Screen
+have no impact to safety or
+effectiveness.
+Merge PACS K192455
+510(k) Premarket Notification
+12Summary of Non-Clinical Tests
+The following quality assurance measures were applied to the Merge PACS product:
+• Risk Analysis
+• Requirements Review
+• Design Reviews
+• Testing on unit level
+• Integration testing
+• Performance testing
+The software documentation was provided at a Moderate level of concern following the FDA’s
+“Guidance for the Content of Premarket Submissions for Software Contained in Medical
+Devices”.
+No performance standards for PACS system or components have been issued under the authority
+of Section 514. Non-clinical testing has been performed on Merge PACS and demonstrates
+compliance with international and FDA-recognized consensus standards and FDA guidance
+documents. This Traditional 510(k) has been written in accordance with the applicable FDA
+Guidance Document for the Submission of Premarket Notifications for Medical Image
+Management Devices (July 2000), and meets the following voluntary standard(s):
+• DICOM – Digital Imaging and Communications in Medicine, for the format of medical
+images and data, NEMA PS 3.1 – 3.20 Set (2016)
+Results from internal verification and validation testing performed in accordance with Watson
+Health Imaging design control processes confirm that Merge PACS product specifications have
+been met. Supporting documentation is included in this 510(k) Premarket Notification and
+supports the claims of substantial equivalence to the predicate device. Cybersecurity is also
+addressed in this submission.
+The subject of this submission, Merge PACS, did not require animal testing, biological testing,
+sterility testing, electrical safety testing or electromagnetic compatibility testing.
+Summary of Clinical Tests
+The subject of this premarket submission, Merge PACS, did not require clinical studies to
+support substantial equivalence.
+Conclusion
+Comparison of the Intended Uses/Indications for Use, the technological characteristics, and
+performance specifications demonstrate the functional equivalence of the subject device to the
+predicate device. Verification and validation test results established that the device meets its
+Merge PACS K192455
+510(k) Premarket Notification
+13design requirements and intended uses and that no new issues relative to safety and effectiveness
+were raised. Watson Health Imaging considers the Merge PACS to be as safe and as effective as
+its predicate devices.
+Merge PACS K192455
+510(k) Premarket Notification
+14

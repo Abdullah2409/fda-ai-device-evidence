@@ -1,0 +1,237 @@
+Qure.ai Technologies
+℅ Bunty Kundnani
+Head of Regulatory Affairs
+Level 7, Commerz II,
+International Business Park
+Oberoi Garden City, Goregaon (E)
+Mumbai, Maharashtra 400063
+INDIA
+Re: K212690
+Trade/Device Name: qXR-BT
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing system
+Regulatory Class: Class II
+Product Code: QIH
+Dated: November 22, 2021
+Received: November 24, 2021
+Dear Bunty Kundnani:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK212690 - Bunty Kundnani Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK212690
+510(k) SUMMARY
+Qure.ai’s qXR-BT
+1 SUBMITTER
+Qure.ai Technologies
+Level 7, Commerz II,
+International Business Park
+Oberoi Garden City, Goregaon (E),
+Mumbai 400 063
+Phone: +91-9768123013
+Contact Person: Bunty Kundnani
+Date Prepared: November 22, 2021
+2 DEVICE
+Name of Device: qXR-BT
+Common or Usual Name: Automated Radiological Image Processing Software
+Classification Name: Medical image management and processing system
+Regulatory Class: Class II
+Regulation Number: 21 CFR 892.2050
+Product Code: QIH
+3 PREDICATE DEVICE
+Name of Device: ClearRead+Confirm Image Processing System
+Manufacturer: Riverain Technologies LLC
+510(k) Number: K123526
+4 INTENDED USE / INDICATIONS FOR USE:
+The qXR-BT device is intended to generate a secondary digital chest X-ray image that facilitates
+confirmation of the position of a breathing tube and an anatomical landmark on adult chest X-
+rays. This device is intended for use by licensed physicians who are trained in the evaluation of
+breathing tube placement on chest X-rays. The qXR-BT image provides adjunctive information and
+is not a substitute for the original PA/AP image.
+15 DEVICE DESCRIPTION
+qXR-BT is a standalone image analysis software used during the review of digital chest
+radiographic images, intended to facilitate determining the position of tip of the breathing tube
+relative to the carina. Standard of care medical imaging workflows are well established, and
+include pre-existing software components such as a PACS, DICOM viewer and imaging worklist;
+qXR-BT is designed to integrate with these components.
+X-rays are sent to qXR-BT by means of transmission functions within the user’s PACS system. Upon
+completion of processing, the qXR-BT device returns results to the user’s PACS or other user-
+specified radiology software system or database.
+The input to the qXR-BT device is a chest X-ray (AP and PA, referred to as frontal) in digital imaging
+and communications in medicine (DICOM) format.
+The qXR-BT device produces PDF and DICOM format outputs that enable users to view the
+position of a breathing tube and an anatomical landmark (carina).
+The PDF format output contains preview images that show segmented structures outlined with a
+textual report describing the structures detected. The text report is restricted to the presence or
+absence of the breathing tubes and the carina as detected by the software device.
+The DICOM format output consists of a single complete additional DICOM series for each input
+scan. This DICOM output contains labeled overlays indicating the location and extent of the
+segmentable structures, suitable for viewing in the PACS or radiology viewer.
+The qXR-BT analysis module consists of a set of pre-trained convolutional neural networks (CNNs),
+that form the core processing component shown in Figure 1. This core processing component is
+coupled with a pre-processing module to prepare input DICOMs for processing by the CNNs and a
+post-processing module to convert the output into visual and tabular format for users.
+Figure 1: Schematic showing the design of qXR-BT device
+6 COMPARISON WITH PREDICATE DEVICE
+Like the potential predicate devices, qXR-BT facilitates the confirmation of placement of a
+medically inserted tube on chest X-rays. In terms of establishing substantial equivalence, the
+subject and predicate device have the same intended use, as an image processing tool that
+generates a secondary digital radiographic image to facilitate the confirmation of the position of
+2medically inserted tube. The indications for use proposed for the subject device are similar to
+those of the predicate device, with the primary difference being that the predicate device is
+intended to facilitate the confirmation of multiple types of lines, tubes, and wires, while the
+subject device is intended to facilitate the confirmation of only one type of tube, viz. breathing
+tubes.
+Table 1: Comparison between qXR-BT and the Predicate Device
+Predicate Device Subject Device
+ClearRead+Confirm qXR-BT
+(K123526)
+Device Name ClearRead+Confirm qXR-BT
+510(k) Number K123526 K212690
+Regulation 21 CFR 892.2050 21 CFR 892.2050
+Regulation Description Medical image management Medical image management and
+and processing system processing system
+Formerly: Picture archiving
+and communications system
+Product Code LLZ QIH
+Device type Radiological Image Automated Radiological Image
+Processing System Processing Software
+Manufacturer Riverain Technologies Qure.ai Technologies
+Intended use / Indications ClearRead+Confirm is The qXR-BT device is intended to
+for Use intended to generate an generate a secondary digital chest X-
+enhanced, secondary digital ray image that facilitates
+radiographic image of the confirmation of the position of a
+chest to facilitate breathing tube and an anatomical
+confirmation of line/tubes. landmark on adult chest X-rays. This
+The enhanced AP or PA device is intended for use by licensed
+image of the chest provides physicians who are trained in the
+improved visibility of lines evaluation of breathing tube
+and tubes. The ClearRead placement on chest X-rays. The qXR-
++Confirm image provides BT image provides adjunctive
+adjunctive information and information and is not a substitute
+is not a substitute for the for the original PA/AP image.
+original PA/AP image. This
+device is intended to be used
+by trained professionals,
+such as physicians,
+radiologists, and technicians,
+on patients with lines and
+tubes and is not intended to
+be used on pediatric
+patients.
+Modality Digital chest radiograph Digital chest radiograph
+Input format DICOM DICOM
+3Predicate Device Subject Device
+ClearRead+Confirm qXR-BT
+(K123526)
+Output Format Secondary digital chest X-ray Secondary digital chest X-ray image
+image and other Multiple electronic reports
+with localization information of
+segmented structures
+Intended User Physicians, radiologists and Physicians and radiologists
+technicians
+Hardware No additional hardware; qXR-BT is standalone software
+standalone software device deployed on-premise or on the
+that integrates with PACS cloud, that integrates with PACS or
+other hardware or software imaging
+through DICOM protocols
+platforms, including digital
+radiographic processing systems
+through DICOM protocols
+Comparison of Differences between qXR-BT and the predicate device
+Types of lines and tubes Various medically inserted Medically inserted breathing tubes
+tubes, lines, tubes and wires (tracheal tubes) only
+Internal algorithms used ClearRead+Confirm uses a qXR-BT uses pre-trained
+for image processing and bone suppression convolutional neural networks to
+the mechanism by which mechanism with overall process the images, and the device
+highlights the tip of the tube and the
+the output is displayed to image enhancements to
+carina using markings on the
+the clinician improve the visibility of lines
+secondary image.
+and tubes and provides no
+boxes or markings to the
+user.
+7 TESTING
+Software
+Software verification and validation testing were conducted, and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this device
+has a Moderate level of concern.
+Performance Testing
+Qure.ai performed standalone performance testing to test the accuracy of qXR-BT’s analysis. The
+number of Chest X-ray images used for this performance testing was 162. Table 2 shows
+localization accuracy for the 2 target structures – carina and tip of breathing tube and the
+accuracy of distance measurement between these 2 structures. The ground truth was based on
+manual annotation of three radiologists from United States. For the target structures, the
+4standalone performance exceeded the preset acceptance criteria. The table below shows a
+summary of the results of performance testing.
+Table 2: Overall Results of Accuracy Testing in mm
+Target Metric Mean Median (10th - Mean (95% CI) Success Criteria
+Structure (Standard 90th percentile)
+(Number of Deviation)
+scans)
+Carina (162) Absolute 2.15 (1.25) 1.86 (0.63 - 2.15 (1.96 – Upper bound of
+Distance 4.05) 2.35) 95% CI ≤ 3mm
+Tip of Absolute 1.97 (1.09) 1.8 (0.7 - 3.64) 1.97 (1.80 – Upper bound of
+Breathing Distance 2.13) 95% CI ≤ 3mm
+Tube (162)
+Distance Absolute 1.98 (1.41) 1.64 (0.27 - 1.98 (1.76 – Upper bound of
+between tip Error 4.12) 2.20) 95% CI ≤ 6mm
+of breathing
+tube and
+carina (162)
+CI = confidence interval
+qXR-BT also passed software validation and system verification checks.
+8 CONCLUSION
+The comparison in Table 2 and the software and performance testing presented above
+demonstrate that the qXR-BT device is substantially equivalent to the predicate device.
+5

@@ -1,0 +1,252 @@
+MRIguidance B.V
+December 22, 2021
+℅ Suji Shetty
+Executive Vice President
+Maxis Medical
+7052 Hollow Lake Way
+San Jose, California 95120
+Re: K202404
+Trade/Device Name: BoneMRI
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical Image Management And Processing System
+Regulatory Class: Class II
+Product Code: QIH
+Dated: November 29, 2021
+Received: November 30, 2021
+Dear Suji Shetty:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.30
+Silver Spring, MD 20993
+www.fda.govK202404 - Suji Shetty Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureBoneMRI Traditional 510(k) Notification
+5.0 510(K) STATEMENT/SUMMARY
+This summary of 510(k) safety and effectiveness information is being submitted in accordance
+with the requirements of SMDA 1990 and 21 CRF 807.92.
+510 (k) number: K202404
+I. Applicant Information
+MRIguidance B.V.
+Gildstraat 91a
+3572 EL, Utrecht
+The Netherlands
+info@mriguidance.com
+www.mriguidance.com
++31 854000810
+Contact Person
+Marijn van Stralen
+Chief Technology Officer
+MRIguidance B.V.
+Email: marijn@mriguidance.com
+Tel.: +31 610 505 649
+Date Prepared: December 22, 2021
+Official Correspondant
+Dr. Sujith Shetty
+Executive Vice President
+MAXIS LLC
+Email: sjshetty@maxismedical.com
+II. Device Information
+Trade Name: BoneMRI
+Common Name: MRI image enhancement software
+Classification name: Picture archiving and Communication system (21CRF892.2050)
+Regulatory Class: Class II
+Product Code: QIH
+MRIGuidance B.V. CONFIDENTIAL P age | 1BoneMRI Traditional 510(k) Notification
+III. Predicate Device
+Name Manufacturer 510(k)#
+SubtleMR Subtle Medical, Inc. K191688
+This predicate has not been subject to a design-related recall. No reference devices were used in
+this submission.
+IV. Device Description
+The BoneMRI application is a standalone image processing software application that analyses
+3D gradient echo MRI scans acquired with a dedicated MRI scan protocol. From the analysis,
+3D tomographic radiodensity contrast images, called BoneMRI images, are constructed.
+The BoneMRI images can be used to visualize the bone structures in MR images with enhanced
+contrast with respect to the surrounding soft tissue. The application is designed to be used by
+imaging experts, such as radiologists or orthopaedic surgeons, typically in a physician’s office.
+The BoneMRI application is a server application running in the clinic or hospital networks. It
+returns the reconstructed BoneMRI images as DICOM images.
+V. Indications for Use
+BoneMRI is an image processing software that can be used for image enhancement in MRI
+images. It can be used to visualize the bone structures in MRI images with enhanced contrast
+with respect to the surrounding soft tissue. It is to be used in the pelvic region, which includes
+the boney anatomy of the sacrum, hip bones and femoral heads.
+Warning: BoneMRI images are not intended to replace CT images and are not to be used for
+diagnosis or monitoring of (primary or metastatic) tumors.
+VI. Comparison of Technological Characteristics with the Predicate Device:
+A comparison of the intended use, indication for use, and technological characteristics of the
+BoneMRI application to the predicate device SubtleMR are presented below. We have included
+the attributes suggested in FDA’s website guidance for this comparison.
+Name Manufacturer 510(k)#
+SubtleMR Subtle Medical, Inc. K191688
+MRIGuidance B.V. CONFIDENTIAL P age | 2BoneMRI Traditional 510(k) Notification
+A. Intended Use
+Predicate Device Subject Device
+Comment
+SubtleMR BoneMRI
+Intended Use SubtleMR is an image BoneMRI is an image Similar –
+processing software processing software
+that can be used for that can be used for Intended uses are
+image enhancement in image enhancement in the same for Image
+MRI images. It can be MR images. It can be enhancements for
+used to reduce image used to visualize the MRI. But the
+noise for head, spine, bone structures in MR intended use
+neck, and knee MRI, images with enhanced differences does
+or increase image contrast with respect not affect the
+sharpness for non- to the surrounding soft safety and
+contrast-enhanced tissue effectiveness of the
+head MRI. device when used
+as labeled and is
+similar to the
+predicate use.
+21CFR Section 892.2050 892.2050 The same
+Product Code LLZ QIH Similar
+Target Population Adults Adults The same
+B. Technological Characteristics
+Predicate Device Subject Device
+Comment
+SubtleMR BoneMRI
+Device Nature Software package Software package The same
+Operating System Linux Linux The same
+Data input MRI images in MRI images in The same
+DICOM format DICOM format
+Data output MRI images in MRI images in The same
+DICOM format DICOM format
+Processing SubtleMR software MRIguidance Different –
+Algorithms implements an image software implements
+enhancement an image The algorithm while
+algorithm using enhancement using similar
+convolutional neural algorithm using methodology, uses
+network based convolutional neural different filters and
+filtering. Original network. Original outputs to enhance
+images are enhanced images are enhanced the image. The
+by running through a by running them difference does not
+cascade of filter through a cascade of affect the safety and
+MRIGuidance B.V. CONFIDENTIAL P age | 3BoneMRI Traditional 510(k) Notification
+Predicate Device Subject Device
+Comment
+SubtleMR BoneMRI
+banks, where filter banks, where effectiveness of the
+thresholding and thresholding and device when used as
+scaling operations are scaling operations labeled and is similar
+applied. Separate are applied. Separate to the predicate use.
+neural network based neural network-
+filters are obtained based filters are
+for noise reduction obtained to assign a
+and sharpness Hounsfield Unit
+increase. The (HU) value to a
+parameters of the single volume
+filters were obtained element, based on
+through an image intensity and
+guided optimization contextual
+process. information. The
+parameters of the
+model were obtained
+through an algorithm
+development
+pipeline.
+User Interface None – enhanced None – enhanced The same
+images are viewed on images are viewed
+existing PACS on existing PACS
+workstations workstations
+Workflow The software The software The same
+operates on DICOM operates on DICOM
+files on the file files on the file
+system, enhances the system, enhances the
+images, and stores images, and stores
+the enhanced images the enhanced images
+on the file system. on the file system.
+The receipt of The receipt of
+original DICOM original DICOM
+image files and image files and
+delivery of enhanced delivery of enhanced
+images as DICOM images as DICOM
+files depends on other files depends on
+software systems. other software
+Enhanced images co- systems. Enhanced
+exist with the original images co-exist with
+images. the original images.
+MRIGuidance B.V. CONFIDENTIAL P age | 4BoneMRI Traditional 510(k) Notification
+VII. Performance Data:
+BoneMRI conducted the following performance testing:
+1. Software verification and validation testing
+2. Studies that utilized retrospective clinical data to demonstrate the software enhanced
+imaging quality in MR images via an enhancement of bone.
+BoneMRI Pelvic region – Voxel-by-Voxel analysis
+Quantitative voxel-by-voxel validation of BoneMRI was performed on imaging data from
+61 patients, consisting of the BoneMRI and CT of the same patient, acquired during the
+previously conducted clinical investigations. MRIguidance conducted the validations
+based on an in-house developed algorithm validation pipeline, the core validation
+framework. The objective was to validate the quantitative accuracy of BoneMRI for the
+pelvic region using rigorous, objective, and unbiased statistical tests. The endpoints were
+the metrics that described the accuracy of 3D bone morphology, radiodensity, and
+radiodensity contrast versus co-registered CT scans in terms of voxel-by-voxel HUs and
+standard deviations around these HU values. The results demonstrate clinically
+acceptable accuracy on all of the endpoints.
+The data provided demonstrate that BoneMRI application v1.2 can accurately
+reconstruct the 3D bone morphology with a mean absolute cortical delineation error
+below 1.0 mm on average; accurately reconstruct the tissue radiodensity with a mean
+deviation below 10 HU on average and a mean deviation below 55 HU for bone
+specifically; accurately reconstruct the tissue radiodensity contrast with a mean HU
+correlation coefficient above 0.80 on average and a mean HU correlation coefficient
+above 0.75 for bone specifically.
+CONCLUSION: BoneMRI demonstrates accurate bone morphology, radiodensity, and
+radiodensity contrast. Thus, BoneMRI is a useful tool to qualitatively and quantitatively
+assess the pelvic region.
+VIII. Conclusions:
+BoneMRI, based on the indications for use, product performance, and clinical information
+provided in this notification, the subject device has been shown to be substantially
+equivalent to the currently marketed predicate device. The two devices have similar
+technological characteristics: both algorithms use image based reconstruction, and both
+methods have optimized parameters to ensure the robustness of the algorithm. This 510(k)
+submission includes information on the BoneMRI technological characteristics, as well as
+performance data and verification and validation activities demonstrating that BoneMRI is
+as safe and effective as the predicate, and does not raise different questions of safety and
+effectiveness.
+MRIGuidance B.V. CONFIDENTIAL P age | 5

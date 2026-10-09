@@ -1,0 +1,200 @@
+Oncospace, Inc. March 12, 2021
+℅ Praveen Sinha
+CEO
+1812 Ashland Avenue, Suite 100k
+BALTIMORE MD 21205
+Re: K202284
+Trade/Device Name: Oncospace
+Regulation Number: 21 CFR 892.5050
+Regulation Name: Medical charged-particle radiation therapy system
+Regulatory Class: Class II
+Product Code: MUJ
+Dated: February 4, 2021
+Received: February 8, 2021
+Dear Praveen Sinha:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.23
+Silver Spring, MD 20993
+www.fda.govK202284 - Praveen Sinha Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDevice Name: Oncospace 510k: K202284
+510(k) Summary
+I. SUBMITTER
+Oncospace, Inc.
+1812 Ashland Ave., Suite 100K
+Baltimore, MD 21205 USA
+Phone: 608-239-6871
+Email: Praveen.sinha@oncospace.com
+Contact Person: Praveen Sinha
+Date Prepared: March 12, 2021
+II. DEVICE
+Name of Device: Oncospace
+Common or Usual Name: System, Planning, Radiation Therapy Treatment
+Classification Name: Medical charged-particle radiation therapy system (21 CFR 892.5050)
+Regulatory Class: II
+Product Code: MUJ
+III. PREDICATE DEVICE
+RT Elements, K142108
+This predicate has been subject to three class 2 device recalls, one of which is still open (Z-1205-2019).
+IV. DEVICE DESCRIPTION
+The Oncospace software supports radiation oncologists and medical dosimetrists during radiotherapy
+treatment planning for prostate, thoracic, pancreas, and head & neck cases. The software includes
+machine learning algorithms that are locked during use. During treatment planning, the Oncospace
+software works in conjunction with, and does not replace, a treatment planning system (TPS).
+The Oncospace software is intended to augment the treatment planning process by:
+• allowing the radiation oncologist to select and customize a treatment planning protocol that
+includes dose prescription (number of fractions, dose per fraction, dose normalization), a delivery
+method (beam type and geometry), and protocol-based dosimetric goals/objectives for treatment
+targets, and organs at risk (OAR);
+oncospace.com 1812 Ashland Ave., Suite 100K
+info@oncospace.com Baltimore, MD 21205 USA
+Oncospace, Baltimore, MD, USA 1/4Device Name: Oncospace 510k: K202284
+• predicting dosimetric goals/objectives for OARs based on patient-specific anatomical geometry;
+• automating the initiation of plan optimization on a TPS by supplying the dose prescription,
+delivery method, protocol-based target objectives, and predicted OAR objectives;
+• providing a user interface for plan evaluation against protocol-based and predicted goals.
+The central value proposition of the Oncospace software is as follows: In standard clinical practice, OAR
+dose goals are set according to dosimetric criteria included in treatment planning protocols. These criteria
+represent a consensus for a population of patients for whom the protocol is applicable. The actual
+achievable dose levels for an individual patient are however dependent on the patient’s individual
+anatomical geometry, such as the location of each OAR relative to the target volume(s), and size of the
+target(s) and OARs. Achievable OAR dose levels may be lower than protocol goals, in which case
+Oncospace can help ensure that opportunities for further OAR dose reduction are not missed; on the other
+hand the protocol goals may be lower than achievable, in which case Oncospace can help prevent
+inappropriately aggressive goals for one OAR from compromising both target dose coverage and
+reduction of dose to other OARs. Furthermore, the setting of achievable dosimetric objectives at the
+outset of plan optimization can help shorten the iterative process of objective adjustment typically
+followed by the dosimetrist to bring the plan to a state suitable for review by the radiation oncologist.
+Oncospace uses a database of approved treatment plans to derive individualized OAR dose goals, via
+comparison of the current patient’s anatomical geometry to that for applicable patients in the database.
+Diagnosis and treatment decisions occur prior to treatment planning and do not involve Oncospace.
+Decisions involving Oncospace are restricted to setting of dosimetric goals for use during plan
+optimization and plan evaluation. Human judgement continues to be applied in accepting these goals and
+updating them as necessary during the iterative beam optimization process. Human judgement is also still
+applied as in standard practice during plan quality assessment; the protocol-based OAR goals are used as
+the primary means of plan assessment, with the role of the predicted goals being to provide additional
+information as to whether dose to an OAR may be able to be further lowered.
+When Oncospace is used in conjunction with a TPS, the user retains full control of the TPS, including
+finalization of the treatment plan created for the patient. Oncospace also does not interface with the
+treatment machines. The risk to patient safety is lower than a TPS since it only informs the treatment plan,
+does not allow region of interest editing, does not make treatment decisions, and does not interface
+directly with the treatment machine or any record and verify system.
+Oncospace has been tested for use in prostate, thoracic, pancreas, and head & neck patient plans. In the
+current software release, static machine learning models are used for prostate plan predictions, and
+statistical/database lookup methods are used for thoracic, pancreas, and head & neck plan predictions.
+The software is designed to be used in the context of all forms of intensity-modulated photon beam
+radiotherapy. The planning objectives themselves are intended to be TPS-independent: these are instead
+dependent on the degree of organ sparing possible given the beam modality and range of delivery
+techniques for plans in the database. Oncospace includes a supporting interface with the Pinnacle TPS
+using its scripting interface to facilitate streamlined transmission of DICOM files and plan parameters.
+oncospace.com 1812 Ashland Ave., Suite 100K
+info@oncospace.com Baltimore, MD 21205 USA
+Oncospace, Baltimore, MD, USA 2/4Device Name: Oncospace 510k: K202284
+V. INDICATIONS FOR USE
+Oncospace is used to configure and review radiotherapy treatment plans for a patient with malignant or
+benign disease in the prostate, thoracic, pancreas, or head & neck regions. It allows for set up of
+radiotherapy treatment protocols, association of a potential treatment plan with the protocol(s),
+submission of a dose prescription and achievable dosimetric goals to a treatment planning system, and
+review of the treatment plan. It is intended for use by qualified, trained radiation therapy professionals
+(such as medical physicists, oncologists, and dosimetrists). This device is for prescription use by order of
+a physician.
+VI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE
+PREDICATE DEVICE
+Oncospace is a software-only medical device that performs the same functions in the predicate, RT
+Elements, device. The subject Oncospace device is similar to the predicate RT Elements device:
+• Client-server platform
+• DICOM-RT compliant
+• Does not control or connect to radiation delivery devices
+• Import treatment plans
+• Evaluate treatment options
+• Export plan information
+• No restrictions on patient population
+The following differences exist between the subject and predicate devices:
+• Oncospace includes a browser-based interface
+• Export from Oncospace is for import into treatment planning systems
+VII. PERFORMANCE DATA
+The following verification and validation testing results (performance data) are provided in support of the
+substantial equivalence determination. Since this is a software-only medical device that does not control
+other devices the performance data do not include biocompatibility, electrical safety, electromagnetic
+compatibility, mechanical, acoustic, or animal testing.
+The verifications tests met all system requirements and acceptance criteria which address clinical,
+standard user interface, and cybersecurity requirements for the Oncospace device.
+The validation testing was performed using retrospective clinical data. The Oncospace device is meant to
+reduce the number of iterations necessary to achieve a clinically viable and deliverable radiation treatment
+plan. A retrospective set of traditionally planned radiation treatment plans for prostate, thoracic, pancreas,
+and head and neck cancers were used to compare the number of iterations necessary without using
+Oncospace (the number of iterations when the plan was originally approved were used) to the number of
+iterations to get to a clinically viable and deliverable plan when using Oncospace as part of the treatment
+planning workflow. Out of all the plans tested, only one plan took more iterations (one more) using
+oncospace.com 1812 Ashland Ave., Suite 100K
+info@oncospace.com Baltimore, MD 21205 USA
+Oncospace, Baltimore, MD, USA 3/4Device Name: Oncospace 510k: K202284
+Oncospace versus using traditional radiation treatment planning clinical workflow, and the average
+number of iterations was reduced by almost two thirds using Oncospace.
+Conclusion
+Verification and validation (including performance testing) was conducted in accordance with FDA
+guidance recommendations to confirm the device design met all specifications, user needs, and was
+acceptable to qualified clinical users. Oncospace has passed all the tests and the provided testing results
+demonstrate safety and effectiveness. It is therefore concluded that Oncospace is substantially equivalent to
+the predicate device.
+VIII. CONCLUSIONS
+The subject Oncospace device is similar in intended use and functionality to the predicate RT Elements
+device. Oncospace has the same technological characteristics and features as the previously cleared
+device and does not raise new questions of safety or efficacy as demonstrated through the system design
+and testing.
+Non-clinical and clinical verification, validation, and performance testing was conducted to confirm the
+device design met user needs and specifications and was acceptable to qualified clinical and non-clinical
+users. Oncospace has passed the verification and validation tests and provided clinical performance
+testing results with a library clinical dataset in order to demonstrate safety or effectiveness. It is therefore
+concluded that the subject Oncospace device is substantially equivalent to the predicate device.
+oncospace.com 1812 Ashland Ave., Suite 100K
+info@oncospace.com Baltimore, MD 21205 USA
+Oncospace, Baltimore, MD, USA 4/4

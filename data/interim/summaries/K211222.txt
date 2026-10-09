@@ -1,0 +1,236 @@
+Qure.ai Technologies July 30, 2021
+℅ Pooja Rao
+Head, Research and Development
+Level 7, Commerz II, International Business park, Oberoi
+Garden City, Goregaon(E)
+Mumbai, Maharashtra 400063
+INDIA
+Re: K211222
+Trade/Device Name: qER-Quant
+Regulation Number: 21 CFR 892.2050
+Regulation Name: Medical image management and processing systems
+Regulatory Class: Class II
+Product Code: QIH
+Dated: June 30, 2021
+Received: July 1, 2021
+Dear Pooja Rao:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.27
+Silver Spring, MD 20993
+www.fda.govK211222 - Pooja Rao Page 2
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+Enclosure510(k) SUMMARY K211222
+Qure.ai’s qER-Quant
+1.1 Submitter
+Qure.ai Technologies
+Level 7, Commerz II,
+International Business Park
+Oberoi Garden City, Goregaon (E),
+Mumbai 400 063
+Phone: +91-9820474098
+Contact Person: Pooja Rao
+Date Prepared: April 20, 2021
+1.2 Device
+Name of Device: qER-Quant
+Common or Usual Name: Automated Radiological Image Processing Software
+Classification Name: Medical image management and processing system
+Regulatory Class: Class II
+Regulation Number: 21 CFR 892.2050
+Product Code: QIH
+1.3 Predicate Device
+Name of Device: Icobrain
+Manufacturer: Icometrix NV
+510(k) Number: K181939
+Intended Use / Indications for Use:
+The qER-Quant device is intended for automatic labeling, visualization and quantification of
+segmentable brain structures from a set of Non-Contrast head CT (NCCT) images. The software is
+1intended to automate the current manual process of identifying, labeling and quantifying the
+volume of segmentable brain structures identified on NCCT images.
+qER-Quant provides volumes from NCCT images acquired at a single time point and provides a
+table with comparative analysis for two or more images that were acquired on the same scanner
+with the same image acquisition protocol for the same individual at multiple time points.
+The qER-Quant software is indicated for use in the analysis of the following structures: Intracranial
+Hyperdensities, Lateral Ventricles and Midline Shift.
+1.4 Device Description
+qER-Quant is a standalone software device that processes non-contrast head CT scans to outline
+and quantify the structures described in the intended use. The qER-Quant software interacts with
+the user’s picture archiving and communication system (PACS) to receive scans and returns the
+results to the same destination.
+The analysis module of the qER-Quant software contains of a set of pre-trained convolutional
+neural networks (CNNs), that form the core processing component shown in Figure 1. This core
+processing component is coupled with a pre-processing module to prepare input digital imaging
+and communications in medicine (DICOMs) for processing by the CNNs and a post-processing
+module to convert the output into visual and tabular output for users.
+Figure 1: Schematic showing qER-Quant design and workflow
+CT scans are sent to qER-Quant by means of transmission functions within the user’s PACS system.
+Upon completion of processing, the qER-Quant device returns results to the user’s PACS or other
+user-specified radiology software system or database.
+2The inputs to qER-Quant are non-contrast head CT scans in DICOM format. The plain axial series
+of the input DICOM file is used for processing. The qER-Quant device produces PDF and DICOM
+format outputs that enable users to view the quantification results in visual and table form.
+PDF format output consists of a table with volumes of the quantified structure and selected
+preview images showing representative CT scan slices. If more than one CT scans from the same
+subject and the same scanner is available, qER-Quant performs a comparison between the scans,
+and returns a longitudinal comparison with a graphic illustrating the changes in absolute volume
+and size of the quantified structures over time.
+DICOM format output consists of a complete additional series with labeled overlays indicating the
+location and extent of the quantified structures.
+1.5 Comparison with Predicate Device
+Like the predicate device, qER-Quant is intended for automatic labeling, visualization and
+quantification of segmentable brain structures. The devices both take DICOM format 3D images of
+the brain as input and generate an electronic report in PDF and DICOM formats with similar
+quantitative information. The primary difference is that qER-Quant operates only on NCCT scans,
+while the predicate device operates on both MRI and NCCT scans. The table below compares qER-
+Quant with the predicate device, and lists the similarities and differences between them. The
+minor differences do not raise any new questions of safety or effectiveness.
+Table 1: Comparison between qER-Quant and the Predicate Device
+qER-Quant Device Predicate Device
+Subject Device
+Device Name qER-Quant Icobrain
+510(k) Number K211222 K181939
+Regulation 21 CFR 892.2050 21 CFR 892.2050
+Product Code QIH LLZ
+Regulation Medical image management and Picture archiving and communications
+Description processing system system
+Device type Automated Radiological Image Radiological Image Processing System
+Processing Software
+Manufacturer Qure.ai Technologies icometrix NV
+Overview of Similarities between qER-Quant and the Predicate Device
+3qER-Quant Device Predicate Device
+Subject Device
+Intended Use/ The qER-Quant device is intended for The Icobrain device is intended for
+Indications for Use automatic labeling, visualization and automatic labeling, visualization and
+quantification of segmentable brain volumetric quantification of segmentable
+structures from a set of Non-Contrast brain structures from a set of MR or NCCT
+head CT (NCCT) images. The software is images. This software is intended to
+intended to automate the current automate the current manual process of
+manual process of identifying, labeling identifying, labeling and quantifying the
+and quantifying the volume of volume of segmentable brain structures
+segmentable brain structures identified identified on MR or NCCT images.
+on NCCT images. Icobrain consists of two distinct image
+qER-Quant provides volumes from NCCT processing pipelines: icobrain cross and
+images acquired at a single time point icobrain long.
+and provides a table with comparative icobrain cross is intended to provide
+analysis for two or more images that volumes from MR or NCCT images acquired
+were acquired on the same scanner with at a single time point.
+the same image acquisition protocol for icobrain long is intended to provide changes
+the same individual at multiple time in volumes between two MR images that
+points. were acquired on the same scanner, with
+The qER-Quant software is indicated for the same image acquisition protocol and
+use in the analysis of the following with same contrast at two different
+structures: Abnormal Intracranial timepoints.
+Hyperdensities, Lateral Ventricles and The results of icobrain cross cannot be
+Midline Shift. compared with the results of icobrain long.
+Technological - Software package - Software package
+Characteristics - Operates on off-the-shelf hardware - Operates on off-the-shelf hardware
+(multiple vendors) (multiple vendors)
+- DICOM compatible - DICOM compatible
+- Segmentation by deep learning - Segmentation by classical machine
+(supervised voxel classification with learning and deep learning (supervised
+Convolutional Neural Networks) voxel classification with Convolutional
+Neural Networks)
+Output Multiple electronic reports with Multiple electronic reports with volumetric
+volumetric information of brain information of brain structures and midline
+structures and midline shift AND shift AND
+Annotated DICOM Images Annotated DICOM Images
+Reference Accuracy Accuracy
+Standard for Manually labeled images for all Manually labelled or simulated ground truth
+Performance structures for MRI images
+testing Manually labeled images (lesions and
+midline shift) and images labeled by
+previously cleared Icobrain MRI software for
+CT images (lateral ventricles and whole
+brain)
+Reproducibility Reproducibility
+4qER-Quant Device Predicate Device
+Subject Device
+Test-retest images MRI measurement changes compared on
+test-retest images; simulation study used
+for CT measurements
+Comparison of Differences between qER-Quant and the predicate device
+Input Images Non-contrast CT from a single or T1-weighted and fluid-attenuated inversion
+multiple time points recovery (FLAIR) MR images from a single or
+multiple time points and/or
+Non-contrast CT from a single time point
+Target structures Intracranial hyperdensities, lateral Intracranial hyperdensities, lateral
+analyzed on NCCT ventricles and midline shift ventricles, basal cisterns and midline shift
+scans
+1.6 Testing
+Software
+Software verification and validation testing were conducted and documentation was provided as
+recommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of
+Premarket Submissions for Software Contained in Medical Devices.” The software for this device
+has a Moderate level of concern.
+Performance Testing
+Qure.ai performed standalone consisted of a set of head CT scans with the outlines of the target
+structures manually labeled by experts. Volume or shift measurement accuracy and segmentation
+accuracy were reported for the target structures. Reproducibility testing was performed using
+20% of these CT scans, labeled similarly, with accuracy measured using similar metrics. For all
+target structures, the standalone performance exceeded the preset acceptance criteria. The table
+below shows a summary of the results of performance testing.
+Table 2: Results of performance testing
+Absolute error versus ground truth Dice Score
+(volume in ml or shift in mm)
+Structure (Number of Scans) Mean (Standard Median (10th - Mean (95%
+Deviation) 90th percentile) confidence interval)
+Intracranial Hyperdensity (183) 6.56 (7.33) ml 3.98 (0.52 - 17.35) 0.75 (0.72 - 0.78)
+ml
+Midline Shift (188) 1.37 (1.23) mm 1.15 (0.23 - 2.59) Not applicable
+mm
+5Left Lateral Ventricle (210) 2.09 (1.88) ml 1.60 (0.29 - 4.24) 0.79 (0.78 - 0.81)
+ml
+Right Lateral Ventricle (210) 2.18 (1.72) ml 1.88 (0.40 - 4.53) 0.75 (0.73 - 0.77)
+ml
+qER-Quant also passed software validation and system verification checks.
+1.7 Conclusion
+The comparison in Table 1 and the software and performance testing presented above
+demonstrate that the qER-Quant device is substantially equivalent to the predicate device.
+6

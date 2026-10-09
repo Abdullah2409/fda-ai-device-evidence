@@ -1,0 +1,323 @@
+Hologic, Inc. November 18, 2020
+℅ Ms. Deborah Thomas
+Regulatory Affairs Manager
+250 Campus Drive
+MARLBOROUGH MA 01752
+Re: K201019
+Trade/Device Name: Genius AI Detection
+Regulation Number: 21 CFR 892.2090
+Regulation Name: Radiological computer assisted detection and diagnosis software
+Regulatory Class: Class II
+Product Code: QDQ
+Dated: October 16, 2020
+Received: October 19, 2020
+Dear Ms. Thomas:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.04.20
+Silver Spring, MD 20993
+www.fda.govK201019 - Ms. Deborah Thomas Page 2
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+For
+Thalia T. Mills, Ph.D.
+Director
+Division of Radiological Health
+OHT7: Office of In Vitro Diagnostics
+and Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureHologic, Inc. 510(k) Pre-Market Notification
+Genius AI Detection
+Traditional 510(k) Summary K201019
+This 510(k) Summary is submitted in accordance with the requirements of 21 CFR Part 807.92
+Date Prepared: November 13, 2020
+Manufacturer: Hologic, Inc.
+36 Apple Ridge Road
+Danbury, CT 06810 USA
+Establishment Registration #: 1220984
+Contact Person: Deborah Thomas
+Regulatory Affairs Manager
+P: 508.210.6107
+Identification of the Device:
+Proprietary/Trade Name: Genius AI Detection
+Classification Name: Radiological Computer Assisted Detection/Diagnosis
+Software for Lesions Suspicious For Cancer
+Regulatory Number: 21 CFR 892.2090
+Product Code: QDQ
+Device Class: Class II
+Review Panel: Radiology
+Identification of the Legally Marketed Predicate Device:
+Trade Name: PowerLook Tomo Detection V2 Software
+Classification Name: Radiological Computer Assisted Detection/Diagnosis
+Software for Lesions Suspicious For Cancer
+Regulatory Number: 21 CFR 892.2090
+Product Code: QDQ
+Device Class: Class II
+Review Panel: Radiology
+Submitter/510(k) Holder: iCAD
+Clearance: K182373 (cleared December 6, 2018)
+Device Description:
+Genius AI Detection is a software device intended to identify potential abnormalities in breast
+tomosynthesis images. Genius AI Detection analyzes each standard mammographic view in a digital breast
+tomosynthesis examination using deep learning networks. For each detected lesion, Genius AI Detection
+produces CAD results that include the location of the lesion, an outline of the lesion and a confidence
+score for that lesion. Genius AI Detection also produces a case score for the entire tomosynthesis exam.
+5Hologic, Inc. 510(k) Pre-Market Notification
+Genius AI Detection
+Genius AI Detection packages all CAD findings derived from the corresponding analysis of a
+tomosynthesis exam into a DICOM Mammography CAD SR object and distributes it for display on DICOM
+compliant review workstations. The interpreting physician will have access to the CAD findings
+concurrently to the reading of the tomosynthesis exam. In addition, a combination of peripheral
+information such as number of marks and case scores may be used on the review workstation to enhance
+the interpreting physician’s workflow by offering a better organization of the patient worklist.
+Indications for Use:
+Genius AI Detection is a computer-aided detection and diagnosis (CADe/CADx) software device intended
+to be used with compatible digital breast tomosynthesis (DBT) systems to identify and mark regions of
+interest including soft tissue densities (masses, architectural distortions and asymmetries) and
+calcifications in DBT exams from compatible DBT systems and provide confidence scores that offer
+assessment for Certainty of Findings and a Case Score. The device intends to aid in the interpretation of
+digital breast tomosynthesis exams in a concurrent fashion, where the interpreting physician confirms
+or dismisses the findings during the reading of the exam.
+Standards:
+• IEC 62304: 2015 – Medical device software – Software Life Cycle Processes (#13-79)
+• ISO 14971: 2012 – Medical devices – Application of Risk Management to Medical Devices
+• DEN180005 Evaluation of automatic class III designation for OsteoDetect – Decision summary
+with special controls.
+FDA Guidance Documents:
+• Guidance for Industry and FDA Staff - Guidance for the Content of Premarket Submissions for
+Software Contained in Medical Devices (Issued on May 11, 2005)
+• Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data –
+Premarket Notification [510(k)] Submissions (Issued on July 3, 2012)
+• Guidance for Industry and FDA Staff - Clinical Performance Assessment: Considerations for
+Computer-Assisted Detection Devices Applied to Radiology Images and Radiology Device Data -
+Premarket Approval (PMA) and Premarket Notification [510(k)] Submissions (Issued on January
+22, 2020)
+• “Content of Premarket Submissions for Management of Cybersecurity in Medical Devices,”
+issued on October 2, 2014
+• “Off-the-Shelf Software Use in Medical Devices,” issued on September 9, 1999
+6Hologic, Inc. 510(k) Pre-Market Notification
+Genius AI Detection
+Summary of Substantial Equivalence:
+Features and Subject Device Predicate Device Difference and
+Characteristics comments
+Hologic, Inc. iCAD Inc.
+Genius AI Detection PowerLook®
+Tomo
+Regulation 21 CFR 892.2090 / DSaemteec tion V2 N/A
+Number/Name Radiological Computer Assisted
+Detection and Diagnosis Software
+Product Code QDQ Same N/A
+Regulation A radiological computer assisted detection Same N/A
+Description and diagnostic software is an image
+processing device intended to aid in the
+detection, localization, and
+characterization of fracture, lesions, or
+other disease specific findings on acquired
+medical images (e.g. radiography, MR, CT).
+The device detects, identifies and
+characterizes findings based on features
+or information extracted from images, and
+provides information about the presence,
+location, and characteristics of the
+findings to the user. The analysis is
+intended to inform the primary diagnostic
+and patient management decisions that
+are made by the clinical user. The device
+is not intended as a replacement for a
+complete clinician's review or their
+clinical judgment that takes into account
+other relevant information from the
+image or patient history.
+7Hologic, Inc. 510(k) Pre-Market Notification
+Genius AI Detection
+Indications for Genius AI Detection is a computer-aided PowerLook® Tomo
+Use detection and diagnosis (CADe/CADx) Detection V2 software
+software device intended to be used with is a computer-
+compatible digital breast tomosynthesis assisted detection and
+(DBT) systems to identify and mark diagnosis (CAD)
+regions of interest including soft tissue software device
+densities (masses, architectural intended to be used
+distortions and asymmetries) and concurrently by
+calcifications in DBT exams from interpreting physicians
+compatible DBT systems and provide while reading digital
+confidence scores that offer assessment breast tomosynthesis
+for Certainty of Findings and a Case Score. (DBT) exams from
+The device intends to aid in the compatible DBT
+interpretation of digital breast systems. The system
+tomosynthesis exams in a concurrent detects soft tissue
+fashion, where the interpreting physician densities (masses,
+confirms or dismisses the findings during architectural
+the reading of the exam. distortions and
+asymmetries) and
+calcifications in the 3D
+DBT slices. The
+detections and
+Certainty of Finding
+and Case Scores assist
+interpreting physicians
+in identifying soft
+tissue densities and
+Compatible Hologic Selenia Dimensions cHaolcloifgicica tSieolnesn itah at may The subject
+DBT Systems Hologic 3Dimensions bDeim ceonnsfiiromnse d(s otar ndard device and
+dreissmoliustsieodn ,b 1y- tmhme predicate device
+Supports both models in the following isnlitceersp) reting physician. are compatible
+modes: with different
+• standard resolution 1-mm slices GE Pristina systems as
+• high resolution 1-mm slices noted.
+(Clarity HD),
+• high resolution 6-mm SmartSlices
+(3DQuorum)
+Type of CAD Radiological computer assisted same N/A
+Software
+detection and diagnostic software.
+8Hologic, Inc. 510(k) Pre-Market Notification
+Genius AI Detection
+Mode of Action Image processing device utilizing Image processing Co-registration of
+machine learning to aid in the device utilizing findings to 6-mm
+detection, localization, and machine learning SmartSlices.
+characterization of soft tissue densities to aid in the
+(masses, architectural distortions and detection,
+asymmetries) and calcifications in the localization, and
+1-mm 3D DBT slices. Findings are co- characterization of soft
+registered to 6-mm SmartSlices. tissue densities
+(masses, architectural
+distortions and
+asymmetries) and
+calcifications in the 1-
+Clinical Output To inform the primary diagnostic and same N/A
+patient management decisions that are mm 3DDBT slices.
+made by the clinical user.
+Patient Symptomatic and asymptomatic same N/A
+Population
+women undergoing mammography
+End Users MQSA-Qualified Interpreting same N/A
+Physicians and Radiologists
+Image Source Digital breast tomosynthesis slices same N/A
+Modalities
+Output Device Softcopy Workstation same N/A
+Deployment Stand-alone computer same N/A
+Visualization Contours suspicious extra display
+Features Places mark within suspicious lesion by lesions by default and functions of marks
+default (Emphasize™; RightOn™) and displays confidence of
+reports confidence of finding next to each finding next to each
+identified lesion in the image. CAD display identified lesion in the
+may be toggled on/off. Option to image. CAD display may
+automatically zoom into or contour the be toggled on/off. No
+suspicious region of interest (PeerView™). other marks.
+9Hologic, Inc. 510(k) Pre-Market Notification
+Genius AI Detection
+Method Of Use Concurrent read Concurrent read. FFDM N/A
+and 2D synthetic views
+when available are to
+be reviewed before
+Supported Views CC and MLO m sa a m rk e e d 3D slices N/A
+Comparison with Predicate Device:
+The Summary of Substantial Equivalence Table above details the similarities and differences between the
+Genius AI Detection device and its predicate device, PowerLook® Tomo Detection V2. Both devices aid
+in the detection, localization, and characterization of disease specific findings on acquired medical
+images.
+Genius AI Detection is the same technology as the predicate per 21 CFR 892.2090; both devices are
+radiological computer assisted detection and diagnostic software, intended to aid in the detection,
+localization, and characterization of disease specific findings on acquired medical images. The outputs of
+both devices serve to augment the interpretation of digital breast tomosynthesis exams as a concurrent
+reading tool. The output is used to inform and assist the interpreting physician, supplementing their
+clinical expertise and judgment. In the case of any differences that may occur between the subject
+device and the predicate, rationale for safety and effectiveness is provided above along with
+special controls established for Radiological Computer Assisted Detection and Diagnosis Software that
+are in place to further mitigate any risks in these differences.
+Compatible DBT Systems
+The following image types have been tested and are compatible with Genius AI Detection:
+• Hologic standard resolution tomosynthesis slices (1 mm)
+• Hologic high resolution tomosynthesis slices (1 mm) (Clarity HD)
+• Hologic high resolution SmartSlices (6 mm) (3DQuorum)
+The CAD marks generated by Genius AI Detection for the above image types can also be projected on their
+corresponding synthesized 2D images, providing that the diagnostic review workstation supports such a feature.
+Performance Testing – Reader Study Results
+The study was successfully executed with all 17 readers; the results below represent a per-protocol
+analysis of the 390 cases (106 cancers, and 284 negative cases) included in the MRMC where both
+rounds of reading were completed.
+Based on analyses that do not control type I error and therefore cannot be generalized to specific
+comparisons outside this particular study, in this study:
+• The average observed AUC was 0.825 (95% CI: 0.783, 0.867) with CAD and 0.794 (95% CI: 0.748,
+0.840) without CAD. The difference in observed AUC was +0.031 (95% CI: 0.012, 0.051).
+10Hologic, Inc. 510(k) Pre-Market Notification
+Genius AI Detection
+• The average observed reader sensitivity for cancer cases was 75.9% with CAD and 66.8% without
+CAD. The difference in observed sensitivity was +9.0% (99% CI: 6.0%, 12.1%).
+• The average observed recall rate for non-cancer cases was 25.8% with CAD and 23.4% without CAD.
+The observed difference in negative recall rate was +2.4% (99% CI: 0.7%, 4.2%).
+• The average observed case read-time was 52.0s with CAD and 46.3s without CAD. The observed
+difference in read-time was 5.7s (95% CI: 4.9s to 6.4s).
+Standalone Testing:
+Hologic conducted an MRMC reader study to assess the safety and efficacy of Genius AI Detection on
+Hologic’s high resolution tomosynthesis images, where 3D data sets are reconstructed at 70μm. Parallel
+to the MRMC study, a standalone study was conducted to establish equivalence of Genius AI Detection
+performance on Hologic’s standard resolution tomosynthesis images, where 3D data sets are
+reconstructed at ~100μm compared to the performance on the high resolution tomosynthesis images.
+The standalone study was conducted on paired high resolution and standard resolution 3D data sets,
+where each high-resolution reconstructed 3D volume had a counterpart standard resolution 3D volume,
+both acquired from a single exposure and under the same compression.
+All the results of the standalone study confirmed that Genius AI Detection when operating under the
+Hologic’s standard tomosynthesis acquisition mode performs comparably to when operating under the
+high-resolution mode.
+1. Using an overall data set of 764 cases including 106 cancers and 658 non-cancer cases, Genius AI
+Detection demonstrated comparable detection performance on both Hologic’s standard and high-
+resolution acquisition modes as observed by fROC analysis.
+2. No significant differences were observed in the number and type of cancers detected by Genius AI
+Detection in either acquisition mode.
+3. Stratified fROC analysis using lesion type as well as breast density also showed comparable
+performance of Genius AI Detection operating in either acquisition mode
+Assessment of Benefit-Risk, Safety and Effectiveness, and Substantial Equivalence:
+As a part of the submission, we have demonstrated the probable benefits of the device through clinical
+study including reader accuracy as assessed by AUC (i.e. diagnostic performance and improved assisted-
+read detection from the sensitivity analysis. In totality, Hologic finds that the proposed device has a
+positive balance in terms of probable benefits vs probable risks and thus may be considered safe and
+effective based on the special controls established in DEN180005 such that “the device will provide
+improved assisted-read detection and diagnostic performance.”
+Conclusion:
+Based on the information submitted in this premarket notification, the Genius AI Detection device and
+its predicate device, PowerLook® Tomo Detection V2 both have a similar intended use and are devices
+which aid in the detection, localization, and characterization of disease specific findings on acquired
+medical images. The differences discussed are not significant to the technology and clinical application
+of the device. The proposed Genius AI Detection device has been found to be substantially equivalent to
+the predicate PowerLook® Tomo Detection V2 device (K182373).
+11

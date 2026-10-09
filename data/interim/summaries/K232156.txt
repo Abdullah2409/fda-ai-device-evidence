@@ -1,0 +1,552 @@
+iSchemaView, Inc.
+Jim Rosa
+SVP Regulatory and Quality
+1120 Washington Ave.
+Suite 200
+Golden, Colorado 80401
+January 19, 2024
+Re: K232156
+Trade/Device Name: Rapid ASPECTS (v3)
+Regulation Number: 21 CFR 892.2060
+Regulation Name: Radiological computer-assisted diagnostic software for lesions suspicious of cancer
+Regulatory Class: Class II
+Product Code: POK
+Dated: December 22, 2023
+Received: December 26, 2023
+Dear Jim Rosa:
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.07
+Silver Spring, MD 20993
+www.fda.govK232156 - Jim Rosa Page 2
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Jessica Lamb, Ph.D.
+Assistant Director
+Imaging Software Team
+DHT 8B: Division of Radiological Imaging
+Devices and Electronic Products
+OHT 8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureDEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120
+Food and Drug Administration
+Expiration Date: 06/30/2023
+Indications for Use See PRA Statement below.
+Submission Number (if known)
+IK232156
+Device Name
+Rapid ASPECTS (v3)
+Indications for Use (Describe)
+Rapid ASPECTS is a computer-aided diagnosis (CADx) software device used to assist the clinician
+in the assessment and characterization of brain tissue abnormalities using CT image data. The
+Software automatically registers images and segments and analyzes ASPECTS Regions of Interest
+(ROls). Rapid ASPECTS extracts image data for the ROI(s) to provide analysis and computer
+analytics based on morphological characteristics. The imaging features are then synthesized by an
+artificial intelligence algorithm into a single ASPECT (Alberta Stroke Program Early CT) Score.
+Rapid ASPECTS is indicated for evaluation of adult patients presenting for diagnostic imaging
+workup, for evaluation of extent of disease. Extent of disease refers to the number of ASPECTS
+regions affected which is reflected in the total score. This device provides information that may be
+useful in the characterization of early ischemic brain tissue injury for ischemic stroke patient
+(typically < 24 hours since last known well) during image interpretation following the standard of
+care. Rapid ASPECTS provides a comparative analysis to the ASPECTS standard of care
+radiologist assessment using the ASPECTS atlas definitions and atlas display including highlighted
+ROls and numerical scoring. Rapid ASPECTS presents the original and annotated images for
+concurrent reads.
+Limitations:
+1. The ASPECTS score should be only used for ischemic stroke patients following the standard of
+care.
+2. Rapid ASPECTS is an adjunct tool and is not intended to replace a clinicians review of the original
+imaging or their clinical judgement.
+3. Physicians should not use the CAD generated output as the primary interpretation without their
+concurrence.
+Contraindications/Exclusions/Cautions:
+* Patient Motion: excessive motion leading to artifacts that make the scan technically inadequate.
+* Hemorrhagic Transformation, Hematoma
+* Very thin or no Ventricles
+Type of Use (Select one or both, as applicable)
+HOver-The-Counter
+[ Prescription Use (Part 21 CFR 801 Subpart D) Use (21 CFR 801 Subpart C)
+CONTINUE ON A SEPARATE PAGE IF NEEDED.This section applies only to requirements of the Paperwork Reduction Act of 1995.
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+The burden time for this collection of information is estimated to average 79 hours per response, including the
+time to review instructions, search existing data sources, gather and maintain the data needed and complete
+and review the collection of information. Send comments regarding this burden estimate or any other aspect
+of this information collection, including suggestions for reducing this burden, to:
+Department of Health and Human Services
+Food and Drug Administration
+ffice of Chief Information Officer
+Paperwork Reduction Act (PRA) Staff
+PRAStaff@fda.hhs.gov
+"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+information unless it displays a currently valid OMB number."iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+510(k) Summary
+iSchemaView, Inc.’s Rapid ASPECTS (v3) (K232156)
+This document contains the 510(k) summary for the iSchemaView Rapid ASPECTS (v3). The
+content of this summary is based on the requirements of 21 CFR Section 807.92(c).
+Applicant Name and Address:
+Name: iSchemaView, Inc.
+Address: 1120 Washington Ave
+Ste. 200
+Golden, CO 80401
+Official Contact: Jim Rosa
+Phone: (303) 704-3374
+Email: rosa@ischemaview.com
+Summary Preparation Date: 9 January 2024
+Device Name and Classification:
+Trade Name: Rapid ASPECTS (v3)
+Common Name: CADx
+Classification: II
+Product Code: POK
+Regulation No: 21 C.F.R. §892.2060
+Classification Radiology Devices
+Panel:
+Predicate Devices:
+The iSchemaView Rapid is claimed to be substantially equivalent to the following legally
+marketed predicate device:
+Rapid ASPECTS (K200760)
+Device Description:
+Rapid Platform
+The Rapid platform is Software as a Medical Device (SaMD), which provides for the
+visualization and study of changes in tissue and vasculature using digital images captured by
+diagnostic imaging systems including CT (Computed Tomography), CTA (CT
+Angiography), MRI (Magnetic Resonance Imaging) and MRA (MR Angiography) as an aid
+to physician diagnosis. Rapid can be installed on a customer’s Server or it can be accessed
+online as a virtual system. It provides viewing, quantification, analysis, and reporting
+capabilities. The Rapid platform has multiple modules a clinician may elect to run and
+provide analysis for decision making.
+Page 1 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Rapid ASPECTS Module
+Rapid ASPECTS provides an automatic ASPECT Score based on the case input file for the
+physician. The score includes which ASPECT regions are identified based on regional imaging
+features derived from Non-Contrast Computed Tomography (NCCT) brain image data. The
+results are generated based on the Alberta Stroke Program Early CT Score (ASPECTS)
+guidelines and provided to the clinician for review and verification. At the discretion of the
+clinician, the scores may be adjusted based on other clinical factors the clinician may integrate
+though the Rapid Platform Interface.
+The ASPECTS software module processing pipeline performs four major tasks:
+• Orientation and spatial normalization of the input imaging data (rigid
+registration/alignment with anatomical template).
+• Delineation of pre-defined regions of interest on the normalized input data
+and computing numerical values characterizing underlying voxel values
+within those regions.
+• Identification and highlighting previous/old stroke areas along with areas of
+early ischemic change; and
+• Labeling of these delineated regions and providing a summary score
+reflecting the number of regions with early ischemic change as per
+ASPECTS guidelines.
+Subsequently, the system notifies the physician of the availability of the ASPECT Score with an
+overlayed atlas. The ASPECTS information is then available for the physician to review and edit
+prior to sending the data to a PACS or Workstation. The final summary score together with the
+regions selected and underlying voxel values are then sent to the Picture Archiving and
+Communication System (PACS) to become a part of the permanent patient medical record.
+Clinical Characteristics
+The primary users of Rapid Platform software are medical imaging professionals. The
+images generated by Rapid ASPECTS provide additional diagnostic information, which is
+derived from the temporal/diffusion/density features of the native CT images. The following
+figure provides a general layout of the ASPECTS display image as provided from Rapid
+ASPECTS.
+Page 2 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Indications for Use:
+Rapid ASPECTS is a computer-aided diagnosis (CADx) software device used to assist the
+clinician in the assessment and characterization of brain tissue abnormalities using CT image
+data. The Software automatically registers images and segments and analyzes ASPECTS
+Regions of lnterest (ROIs). Rapid ASPECTS extracts image data for the ROI(s) to provide
+analysis and computer analytics based on morphological characteristics. The imaging features
+are then synthesized by an artificial intelligence algorithm into a single ASPECT (Alberta Stroke
+Program Early CT) Score.
+Rapid ASPECTS is indicated for evaluation of adult patients presenting for diagnostic imaging
+workup, for evaluation of extent of disease. Extent of disease refers to the number of ASPECTS
+regions affected which is reflected in the total score. This device provides information that may
+be useful in the characterization of early ischemic brain tissue injury for ischemic stroke patient
+(typically < 24 hours since last known well) during image interpretation following the standard
+of care. Rapid ASPECTS provides a comparative analysis to the ASPECTS standard of care
+radiologist assessment using the ASPECTS atlas definitions and atlas display including
+highlighted ROIs and numerical scoring. Rapid ASPECTS presents the original and annotated
+images for concurrent reads.
+Page 3 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Limitations:
+1. The ASPECTS score should be only used for ischemic stroke patients following the standard of care.
+2. Rapid ASPECTS is an adjunct tool and is not intended to replace a clinicians review of the original
+imaging or their clinical judgement.
+3. Physicians should not use the CAD generated output as the primary interpretation without their
+concurrence.
+Contraindications/Exclusions/Cautions:
+• Patient Motion: excessive motion leading to artifacts that make the scan technically inadequate.
+• Hemorrhagic Transformation, Hematoma
+• Very thin or no Ventricles
+Technological Characteristics:
+Rapid ASPECTS is a machine learning implementation. Rapid ASPECTS provides an automatic
+ASPECT score based on the case input file for the physician. The score includes which
+ASPECT regions are identified based on regional imaging features derived from non-contrast
+computed tomography (NCCT) brain image data based on the random forest machine learning
+technique. The results are generated based on the Alberta Stroke Program Early CT Score
+(ASPECTS) guidelines and provided to the clinician for review and verification. At the
+discretion of the clinician, the scores may be adjusted based on the clinician’s judgment as well
+as other factors the clinician may integrate though the Rapid Platform User Interface.
+Performance Standards:
+Rapid has been developed in conformance with the following standards, as applicable:
+ISO 14971:2019 Application of Risk Management to Medical Devices
+IEC 62304:2015 Medical device software – Software lifecycle processes
+IEC 62366:2015 Application of Usability Engineering to Medical Devices
+NEMA PS 3.1 - 3.20 Digital Imaging and Communications in Medicine (DICOM)
+Rapid has been designed to meet cybersecurity requirements using design Vulnerability
+Assessments, SBOM’s, and PEN Testing.
+Performance Data:
+Rapid complies with DICOM (Digital Imaging and Communications in Medicine) - Developed
+by the American College of Radiology and the National Electrical Manufacturers Association.
+NEMA PS 3.1 - 3.20.
+iSchemaView conducted extensive performance validation testing and software verification and
+validation testing of the Rapid ASPECTS module as standalone software and as integrated
+within the Rapid System. This performance validation testing demonstrated that the Rapid
+ASPECTS module provides accurate representation of key processing parameters under a range
+of clinically relevant parameters and perturbations associated with the intended use of the
+software. Software performance, validation and verification testing demonstrated that the Rapid
+ASPECTS module met all design requirements and specifications. Design Verification and
+Validation according to 21 CFR 820.30 passed.
+Page 4 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+The Rapid ASPECTS Standalone Performance and Clinical Validation Protocol (VCP) passed.
+No deviations were found during the execution of the testing.
+Standalone Performance: The percent agreement of Rapid ASPECTS to the reference at the
+ASPECTS region level and at the scan level is 82.8%. Both are comparable (overlapping CI)
+to the pairwise agreement between any two of the three experts.
+Clinical Validation Reader Improvement: The primary reader improvement endpoint is to
+demonstrate that reader scoring of the 10 ASPECT regions is more closely aligned with the
+reference standard when read in conjunction with Rapid ASPECTS than without Rapid
+ASPECTS. We find that the fixed effect of the Rapid assist increases the percent agreement
+on average, by about 0.02. That is, agreement increases from 82% without assistance to 84%
+with assistance excluding the expert, the average agreement increases from 80.4% without
+assistance to 83.3% with assistance.
+Supplemental Confounder/Mimic Sensitivity Assessment: Additionally, supplemental data
+was evaluated to further assess confounders which may appear in case processing. The
+supplemental data included: Abscess (3), Dural AVF (4), Hydrocephalus (4), Hypertensive
+Encephalopathy (2), Isodense SDH (4), Multiple Sclerosis (3) and Traumatic Brain Injury
+(3). Five readers were used to review the confounder supplemental cases for 115 reads.
+Three of the 115 reads (2.6%) changed based on Rapid results, showing minimal effect of
+confounders/mimics on ASPECTS performance.
+Demographic & Clinical Subcategories:
+Demographics are provided for the 102 scans used in the reader improvement study and 88 used
+for the standalone performance. Case counts are included for reference:
+Overview of Case Counts
+Case Category N Include in Stand Alone Include in Reader Improvement
+Suspected Stroke 88 Yes Yes
+Stroke Mimic
+14 No Yes
+(non-ischemic stroke etiology)
+Technical Exclusion due to contrast 3 No No
+Total 105 88 102
+Age: Age ranged from 23 to 99 with a median of 66 years of age.
+Page 5 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Gender:
+Gender N Column %
+F 53 51.96%
+M 49 48.04%
+All 102
+LVO Status:
+Stroke LVO N Column %
+no 37 36.27%
+unknown 14 13.73%
+yes 51 50.00%
+All 102 100.00%
+US/OUS Status
+US/OUS N Column %
+OUS 21 20.59%
+US 81 79.41%
+All 102 100.00%
+Last Known Well
+Last Known Well (6 Hour Splits) N Column %
+<6 27 31.03%
+≥6 - <16 21 24.14%
+≥16 - 24 5 5.75%
+UNK 34 39.08%
+All 87 100.00%
+Data Distribution:
+Demographics are provided for the 102 scans used in the reader improvement study and 88 used
+for the standalone performance. The data was distributed from GE (23), Siemens (28),
+Cannon/Toshiba (22) and Philips (29). The data included 14 confounders/mimics in the primary
+data set with non-stroke etiology. Standalone Performance cases included US (75) vs OUS (13)
+for 85% US. Additionally, supplemental data was evaluated to further assess sensitivity of
+confounders which may appear in case processing. The supplemental data included: Abscess
+(3), Dural AVF (4), Hydrocephalus (4), Hypertensive Encephalopathy (2), Isodense SDH (4),
+Multiple Sclerosis (3) and Traumatic Brain Injury (3).
+Prescriptive Statement:
+Caution: Federal law restricts this device to sale by or on the order of a physician.
+Page 6 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Safety & Effectiveness:
+Rapid ASPECTS has been designed, verified, and validated in compliance with 21 CFR, Part
+820.30 requirements. The device has been designed to meet the requirements associated with
+EN ISO 14971:2019 (risk management).
+Substantial Equivalence:
+Rapid ASPECTS (K200760) under regulation 21 C.F.R. §892.2060 CADx is the predicate
+device for Rapid ASPECTS v3. The disease and clinical use are identical and substantially
+equivalent. There are slight differences between the two versions which do not provide new
+risks. The Rapid ASPECTS assists the radiologists (clinicians) in the assessment and
+characterization of morphological features of their respective focus areas using imaging data.
+The software registers, segments, and analyzes regions of interest (ROI) to provide computer
+analytics. The identified/extracted features are then synthesized by artificial intelligence
+algorithms into clinical reference scores. Rapid ASPECTS provides localization information
+showing which ASPECTS regions are affected. The features are compared in the following
+table, as well as the Risk Benefit Analysis in the next paragraph is comparative to the predicate:
+Substantial Equivalence Table
+Comparison Rapid ASPECTS (K200760) Rapid ASPECTS v3
+Feature
+Indications for Use Rapid ASPECTS is a computer- Rapid ASPECTS is a computer-aided
+aided diagnosis (CADx) software diagnosis (CADx) software device used
+device used to assist the clinician in to assist the clinician in the assessment
+the assessment and characterization and characterization of brain tissue
+of brain tissue abnormalities using abnormalities using CT image data.
+CT image data. The Software The Software automatically registers
+automatically registers images and images and segments and analyzes
+segments and analyzes ASPECTS ASPECTS Regions of lnterest (ROIs).
+Regions of lnterest (ROIs). Rapid Rapid ASPECTS extracts image data
+ASPECTS extracts image data for for the ROI(s) to provide analysis and
+the ROI(s) to provide analysis and computer analytics based on
+computer analytics based on morphological characteristics. The
+morphological characteristics. The imaging features are then synthesized
+imaging features are then by an artificial intelligence algorithm
+synthesized by an artificial into a single ASPECT (Alberta Stroke
+intelligence algorithm into a single Program Early CT) Score.
+ASPECT (Alberta Stroke Program
+Rapid ASPECTS is indicated for
+Early CT) Score.
+evaluation of adult patients presenting
+Rapid ASPECTS is indicated for for diagnostic imaging workup, for
+evaluation of patients presenting for evaluation of extent of disease. Extent
+diagnostic imaging workup with of disease refers to the number of
+known MCA or ICA occlusion, for ASPECTS regions affected which is
+evaluation of extent of disease. reflected in the total score. This device
+Page 7 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Extent of disease refers to the provides information that may be useful
+number of ASPECTS regions in the characterization of early ischemic
+affected which is reflected in the brain tissue injury for ischemic stroke
+total score. This device provides patient (typically < 24 hours since last
+information that may be useful in the known well) during image interpretation
+characterization of early ischemic following the standard of care. Rapid
+brain tissue injury during image ASPECTS provides a comparative
+interpretation (within 6 hours). analysis to the ASPECTS standard of
+Rapid ASPECTS provides a care radiologist assessment using the
+comparative analysis to the ASPECTS atlas definitions and atlas
+ASPECTS standard of care display including highlighted ROIs and
+radiologist assessment using the numerical scoring. Rapid ASPECTS
+ASPECTS atlas definitions and atlas presents the original and annotated
+display including highlighted ROIs images for concurrent reads.
+and numerical scoring.
+Limitations:
+Limitations: 1. The ASPECTS score should be only
+1. Rapid ASPECTS is not intended used for ischemic stroke patients
+for primary interpretation of CT following the standard of care.
+images; it is used to assist physician
+2. Rapid ASPECTS is an adjunct tool
+evaluation.
+and is not intended to replace a
+2. Rapid ASPECTS has been
+clinicians review of the original
+validated in patients with known
+imaging or their clinical judgement.
+MCA or ICA Occlusion prior to
+3. Physicians should not use the CAD
+ASPECT scoring.
+generated output as the primary
+3. Use of the Rapid ASPECTS
+interpretation without their
+Module in clinical settings other than
+concurrence.
+early brain ischemia (within 6 hours)
+Contraindications/Exclusions/Cautions:
+caused by known ICA or MCA
+• Patient Motion: excessive motion
+occlusions has not been tested.
+leading to artifacts that make the
+4. Rapid ASPECTS has been
+scan technically inadequate.
+validated and is intended to be used
+• Hemorrhagic Transformation,
+on GE Lightspeed VCT Scanners.
+Hematoma
+Contraindications/Exclusions/Cautio
+• Very thin or no Ventricles
+ns:
+• Patient Motion: excessive motion
+leading to artifacts that make the
+scan technically inadequate.
+• Hemorrhagic Transformation,
+Hematoma
+• Very thin or no Ventricles
+Clinical Stroke/Head Stroke/Head
+Application/Anat
+omical Region
+Standard of Care ASPECT Scoring ASPECT Scoring
+Representation
+Page 8 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Imaging CT CT
+Technical AI/Random Forest AI/Random Forest
+Implementation
+Image Overlay ASPECTS Atlas ROIs, highlighted ASPECTS Atlas ROIs, highlighted by
+by algorithms algorithms
+Primary User(s) Neuroradiologist/Clinician Neuroradiologist/Clinician
+Alteration of No No
+original image
+data base
+Alters Standard In parallel to In parallel to
+of Care
+Workflow
+Analysis ≤ 6 hours ≤ 24 hours
+Window
+Risk Benefit Analysis:
+Risk Benefit Summary
+Summary of Benefits: This device provides a systematic, automated analysis of
+NCCT scans of the head to provide a standardized, automated
+ASPECT score for Stroke workup. The clinical reader study,
+which included 1 expert neuroradiologist and 5 non-expert
+typical readers demonstrated a statistically significant
+improvement in the accuracy of the 6 readers’ scores when
+scoring was performed in conjunction with the Rapid
+ASPECTS output. In a subgroup analysis, the benefit of the
+software was most substantial among the non-neuroradiologist
+expert reader which typically evaluates CT scans in
+community hospitals and primary stroke centers. These non-
+expert readers also evaluate CT scans in comprehensive
+centers, particularly in the acute setting, when expert
+neuroradiologists are not immediately available. The software
+allows the non-expert physician to perform at the expert-like
+level. Use of the system did not appear to have any significant
+impact (either positive or negative) on the score of the expert
+neuroradiologist included in the test reader group. Overall,
+this system should provide a more consistent and timely
+benefit of standardized reads regardless of physician and
+center specialty.
+Summary of the Risks There are minimal potential risks associated with the use of
+the device.
+Incorrect scoring which may result in false positive
+results and results to incorrect patient management with
+possible adverse effects such as, unnecessary additional
+Page 9 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Risk Benefit Summary
+medical imaging and/or unnecessary additional
+diagnostic workup.
+Incorrect scoring which may result in false negative
+results may lead to complications, including incorrect
+diagnosis and delay in disease management.
+The device could be misused to analyze images from an
+unintended patient population or on images acquired
+with incompatible imaging hardware or incompatible
+image acquisition parameters, leading to inappropriate
+diagnostic information being displayed to the user.
+Device failure could lead to the absence of results, delay of
+results or incorrect results, which could likewise lead to
+inaccurate patient assessment.
+However, based on the performance data and the
+application of mitigating measures (general controls and
+special controls established for this device type), use of
+the device is unlikely to decrease diagnostic
+performance of the user and possible misuse of the
+device does not present additional risks compared with
+misuse of other types of radiological image processing
+devices.
+Summary of other Factors The study was enriched to cover the range of ASPECT scores
+and scanner manufacturers and the readers in practice may not
+experience a significant improvement in determining
+ASPECTS.
+Conclusions: Do the Yes. The probable benefits outweigh the probable risks, given
+probable benefits outweigh the combination of required general controls and the special
+the probable risks. controls established for this device. The Special Controls
+will sufficiently assist in managing risks associated with
+incorrect brain tissue characterization determining
+ASPECT scoring, application of the device results to the
+wrong patient population, analysis of incompatible images,
+and/or device failure by ensuring proper performance and
+use of the device.
+By providing a systematic, automated analysis of NCCT scans
+of the head to provide a standardized, automated ASPECT
+score for Stroke workup. The Rapid ASPECTS analytics
+calculates morphological characteristics of brain tissue using
+the historical training data and providing results which the
+attending physician may evaluate and modify based on other
+presenting conditions of the patient. In addition to the Rapid
+Page 10 of 11iSchemaView - Traditional 510(k) Rapid ASPECTS (v3)
+510(k) Summary
+Risk Benefit Summary
+ASPECTS clinical module, other clinical information is easily
+accessible within the Rapid System framework such as CTA
+and CTP to inform the clinical decision-making process.
+The clinical reader study demonstrates a statistically
+significant improvement of ASPECTS reads among a diverse
+sample of 6 typical readers representing multiple specialties,
+years of practice, and practice settings.
+Overall, this system should provide a more consistent and
+timely benefit of standardized reads regardless of physician
+and center specialty. Therefore, given the available
+information concerning the benefits, risks, and supporting
+data; the probable benefits outweigh the probable risks,
+given the combination of required general controls and
+special controls established for this device.
+Conclusion:
+The Rapid ASPECTS subject to this filing is equivalent to the predicate. It is intended to aid in
+the assessment of a specific disease state using standard of care scoring using machine
+learning/artificial intelligence algorithms. The device uses ROI based assessments. The Rapid
+ASPECTS ROIs are based on an ASPECTS defined atlas. The device is a SaMD with algorithm
+development approaches using variants of artificial intelligence implementations. The device
+analyzes highlights morphological and feature differences. The minor differences to extend the
+analysis window based on the current standard of care and to expand scanner brands does not
+add additional risk.
+The Rapid ASPECTS (v3) with minor differences is substantially equivalent to the Rapid
+ASPECTS predicate.
+Page 11 of 11

@@ -1,0 +1,459 @@
+July 24, 2023
+UltraSight Ltd.
+℅ Janice Hogan
+Partner
+Hogan Lovells US LLP
+1735 Market Street, Floor 23
+PHILADELPHIA PA 19103
+Re: K223347
+Trade/Device Name: UltraSight AI Guidance
+Regulation Number: 21 CFR 892.2100
+Regulation Name: Radiological acquisition and/or optimization guidance system
+Regulatory Class: Class II
+Product Code: QJU
+Dated: June 23, 2023
+Received: June 23, 2023
+Dear Janice Hogan:
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue Doc ID# 04017.06.03
+Silver Spring, MD 20993
+www.fda.govK223347 - Janice Hogan Page 2
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+Sincerely,
+Yanna S. Kang -S
+Yanna Kang, Ph.D.
+Assistant Director
+Mammography and Ultrasound Team
+DHT8C: Division of Radiological Imaging
+and Radiation Therapy Devices
+OHT8: Office of Radiological Health
+Office of Product Evaluation and Quality
+Center for Devices and Radiological Health
+EnclosureK223347
+0362UltraSight Ltd. SECTION 5 SUMMARY Page: 5-1 of 10
+510(k) SUMMARY
+UltraSight’s UltraSight AI Guidance K223347
+Applicant name: UltraSight Ltd.
+8 Pinhas Sapir St.
+Ness Ziona 7403631
+Israel
+Phone: +1-724-648-3514
+Email: info@ultrasight.com
+Contact Person: Davidi Vortman
+Date Prepared: July 19, 2023
+Name of Device: UltraSight AI Guidance
+Classification Name: Image Acquisition And/Or Optimization Guided By Artificial Intelligence
+Classification Code: QJU
+Device class: II
+Regulation number: 892.2100
+Panel: Radiology
+Predicate Devices: Caption Health’s Caption Guidance (DEN190040)
+Intended Use / Indications for Use
+The UltraSight AI Guidance is intended to assist medical professionals (not including expert
+sonographers) in acquiring cardiac ultrasound images. UltraSight AI Guidance is an accessory to
+compatible general-purpose diagnostic ultrasound systems. UltraSight AI Guidance is indicated for
+use in two-dimensional transthoracic echocardiography (2D- TTE) for adult patients, specifically in the
+acquisition of the following standard views: Parasternal Long-Axis (PLAX), Parasternal Short-Axis at
+the Aortic Valve (PSAX-AV), Parasternal Short-Axis at the Mitral Valve (PSAX-MV), Parasternal Short-
+Axis at the Papillary Muscle (PSAX-PM), Apical 4-Chamber (AP4), Apical 5-Chamber (AP5), Apical 2-
+Chamber (AP2), Apical 3-Chamber (AP3), Subcostal 4-Chamber (SubC4), and Subcostal Inferior
+Vena Cava (SC-IVC).
+Device Description
+UltraSight AI Guidance is a mobile application based on machine learning that uses artificial intelligence
+(AI) to provide dynamic real-time guidance on the position and orientation of the transducer to help
+non-expert users acquire diagnostic-quality tomographic views of the heart. The system provides
+guidance for ten standard cardiac views.UltraSight Ltd. SECTION 5 SUMMARY Page: 5-2 of 10
+Main features:
+• Quality Bar: The system displays an image quality bar that is continuously updated while the user
+scans the subject, while attempting to find the maximal quality. The quality bar is a score for image
+diagnosability. It represents the classification between high and low quality images, where high
+quality images are defined as grade 3 or more based on ACEP guidelines (Rachel B. Liu et al.,
+“Emergency Ultrasound Standard Reporting Guidelines”, 2018, American College of
+Emergency Physicians).
+• View Detection: The system differentiates between three states, and the display adjusts
+accordingly:
+1. No heart - heart is not visible, the user is expected to first find the acoustic window
+where some heart tissue is visible and then follow the navigation instructions.
+2. Navigate - the quality bar is below 8 bars, the heart is visible, the user should watch the
+guidance cues and move the probe accordingly.
+3. Hold position - the quality bar has reached 8 bars (or more), the tail of the probe turns
+green, and the user should record a clip. Saving a clip functionality is not part of the
+UltraSight AI system; the user saves the clip manually using the Lumify interface.
+• Probe Guidance: The probe guidance feature provides graphic on-screen instructions for the
+user to emulate how a sonographer would manipulate the transducer to acquire the target
+cardiac view. The five possible guidance cues, rotation, tilt, rock, and slides in the lateral-
+medial and up/down (with respect to the subjects’ head) directions.
+The guidance user interface is composed of a 3D probe display that shows orientation guidance
+cues (rotations, tilts and rocks) and a cross that shows slide guidance cues (slides in x and y
+directions) The user infers the maneuver they should perform from viewing the 3D probe display
+and the slides cross. No explicit text messages appear on the screen regarding guidance cues.
+Technological Characteristics
+The UltraSight AI Guidance software application is similar in its technological features to its predicate
+device, the Caption Health’s Caption Guidance (DEN190040). Both systems are intended as an
+assistive tool to aid medical professionals in the acquisition of cardiac ultrasound images. Specifically,
+both systems are indicated to aid in the acquisition of the following standard views: Parasternal Long-
+Axis (PLAX), Parasternal Short-Axis at the Aortic Valve (PSAX-AV), Parasternal Short-Axis at the
+Mitral Valve (PSAX-MV), Parasternal Short-Axis at the Papillary Muscle (PSAX-PM), Apical 4-
+Chamber (AP4), Apical 5-Chamber (AP5), Apical 2-Chamber (AP2), Apical 3-Chamber (AP3),
+Subcostal 4-Chamber (SubC4), and Subcostal Inferior Vena Cava (SC-IVC). Both systems are
+software applications that apply deep learning-based algorithm to emulate the expertise of a
+sonographer by providing real-time guidance on how to position and manipulate the transducer on a
+patient’s body. Both systems are installed on a third-party, previously cleared ultrasound device.
+There are minor technological differences between the subject and the predicate device, mainly the
+ultrasound device with which the software interfaces and few features offered by the predicate device
+and not by the subject device (auto capture and save best clip). However, as explained in more detailUltraSight Ltd. SECTION 5 SUMMARY Page: 5-3 of 10
+below, these differences do not raise new or different questions of safety or effectiveness since the
+principal technology remains very similar and, in both instances, the key question is whether the device
+enables the intended users to acquire limited (10-view) 2D transthoracic echocardiography (2D-TTE)
+in diagnostic quality. The clinical and human factors validation demonstrated that the use of the
+UltraSight AI Guidance, by users with no prior scanning experience, enabled users to acquire limited
+(10-view) 2D transthoracic echocardiography (2D-TTE) with similar performance as the predicate
+device.
+A table comparing the key features of the subject and the predicate devices is provided below:
+Caption Guidance Proposed UltraSight AI
+Parameters Conclusion
+DEN190040 Guidance
+Classification Image Acquisition And/ Or Image Acquisition And/ Or Identical
+name Optimization Guided By Optimization Guided By
+Artificial Intelligence Artificial Intelligence
+Product Code QJU QJU Identical
+Intended Use The Caption Guidance The UltraSight AI Identical
+software is intended to Guidance software is
+assist medical intended to assist medical
+professionals in the professionals in the
+acquisition of cardiac acquisition of cardiac
+ultrasound images. ultrasound images.
+Caption Guidance UltraSight AI Guidance
+software is an accessory software is an accessory
+to compatible general to compatible general
+purpose diagnostic purpose diagnostic
+ultrasound systems ultrasound systems
+Indications for Caption Guidance UltraSight AI Guidance Similar
+use software is indicated for software is indicated for
+use in two-dimensional use in two-dimensional Since the use of the
+transthoracic transthoracic UltraSight AI Guidance
+echocardiography (2D- echocardiography (2D- and its impact to expert
+TTE) for adult patients, TTE) for adult patients, sonographers has not
+specifically in the specifically in the been evaluated, this
+acquisition of the following acquisition of the following users’ population is
+standard views: standard views: excluded from the device’s
+Parasternal Long-Axis Parasternal Long-Axis intended users.
+(PLAX), Parasternal (PLAX), Parasternal
+Short-Axis at the Aortic Short-Axis at the Aortic
+Valve (PSAX-AV), Valve (PSAX-AV),
+Parasternal Short-Axis at Parasternal Short-Axis at
+the Mitral Valve (PSAX- the Mitral Valve (PSAX-
+MV), Parasternal Short- MV), Parasternal Short-
+Axis at the Papillary Axis at the Papillary
+Muscle (PSAX-PM), Muscle (PSAX-PM),
+Apical 4-Chamber (AP4), Apical 4-Chamber (AP4),
+Apical 5-Chamber (AP5), Apical 5-Chamber (AP5),UltraSight Ltd. SECTION 5 SUMMARY Page: 5-4 of 10
+Caption Guidance Proposed UltraSight AI
+Parameters Conclusion
+DEN190040 Guidance
+Apical 2-Chamber (AP2), Apical 2-Chamber (AP2),
+Apical 3-Chamber (AP3), Apical 3-Chamber (AP3),
+Subcostal 4-Chamber Subcostal 4-Chamber
+(SubC4), and Subcostal (SubC4), and Subcostal
+Inferior Vena Cava (SC- Inferior Vena Cava (SC-
+IVC). IVC).
+The UltraSight AI
+Guidance is not intended
+to be used by
+Sonographers.
+Intended user Medical professionals Medical professionals (not Substantially Equivalent:
+(including expert including expert It should be noted that
+sonographers) sonographers) the intended users’
+population of the
+UltraSight AI Guidance is
+slightly narrower than the
+predicate and does not
+include sonographers.
+However, the intended
+user population of the
+UltraSight AI Guidance is
+a subset of the broader
+user population for the
+predicate; thus, the
+intended use and
+indications are fully
+encompassed within the
+predicate indications.
+Therefore, the first
+criterion for a finding of
+substantial equivalence
+is satisfied.
+Compatible The uSmart 3200t Plus Philips Lumify With S4-1 Substantially Equivalent:
+Ultrasound ultrasound system with the probe and Samsung Tab Both the predicate device
+system and 3200t-compatible Terason S6 and S7 tablets and the proposed device
+probe 4V2A linear phased array function as a software
+probe accessory to a cleared to
+market ultrasound device.
+Both ultrasound devices
+are cleared for the
+diagnostic ultrasound
+clinical application of
+acquiring cardiac imagesUltraSight Ltd. SECTION 5 SUMMARY Page: 5-5 of 10
+Caption Guidance Proposed UltraSight AI
+Parameters Conclusion
+DEN190040 Guidance
+of adult patients. Since
+both ultrasound devices
+are cleared for the
+required clinical use, the
+use of different ultrasound
+devices does not raise
+new questions of safety
+and/or effectiveness.
+Clinical Features
+Image Prescriptive Guidance: Probe Guidance: The Substantially Equivalent:
+acquisition The prescriptive guidance probe guidance feature While the user interface is
+guidance feature in Caption provides graphic on- slightly different, the
+Guidance provides screen instructions for functionality and type of
+direction to the user to the user to emulate how guidance provided to the
+emulate how a user will be the same.
+a sonographer would
+sonographer would Specifically, both devices
+manipulate the
+manipulate the transducer provide to the user
+transducer to acquire the
+to acquire the optimal view instructions on how to
+target cardiac view.
+manipulate the probe
+(translational, tilt and
+rotation guidance cues)
+together with real-time
+feedback on the
+expected diagnostic
+quality of the resulting clip
+to direct the user to a
+probe position that will
+enable acquisition of a
+diagnostic quality clip.
+Hence, this difference
+does not raise new
+questions of safety and/or
+effectiveness.
+Real time Quality Meter: a real-time Quality Bar: a real-time Substantially Equivalent
+feedback on feedback from the Quality quality bar providing
+image quality Meter advises the user on feedback on the clip’s
+the expected diagnostic quality advises the user on
+quality of the resulting clip, the expected diagnostic
+such that the user can quality of the current
+make decisions to further image. This information
+optimize the quality, for can be used by the users
+example by following the to assess how close they
+prescriptive guidance are to capturing a
+feature below. diagnostic-quality image.UltraSight Ltd. SECTION 5 SUMMARY Page: 5-6 of 10
+Caption Guidance Proposed UltraSight AI
+Parameters Conclusion
+DEN190040 Guidance
+Automatic Auto-Capture: The None Substantially Equivalent:
+capture of clips Caption Guidance Auto- This feature is not
+with predicted Capture feature triggers provided; the UltraSight
+diagnostic an automatic capture of a software provides to the
+quality clip when the quality is user the view detection
+predicted to be diagnostic, and quality bar features
+emulating the way in which enable any user to
+which a sonographer clearly identify when a
+knows when an image is diagnostic quality image
+of sufficient quality to be has been achieved and to
+diagnostic and records it. manually save the clip.
+Retrospectively Save Best Clip: This None Substantially Equivalent:
+recording of feature continually Although this feature is not
+highest quality assesses clip quality while provided, the
+clip the user is scanning and, UltraSight software
+in the event that the user provides to the user the
+is not able to obtain a clip view detection and quality
+sufficient for Auto- bar features which enable
+Capture, the software any user to clearly identify
+allows the user to when a diagnostic quality
+retrospectively record the has been achieved and to
+highest quality clip manually save the clip.
+obtained so far, mimicking
+the choice a sonographer
+might make when
+recording an exam.
+Deep Learning Yes Yes Substantially Equivalent
+Based
+Algorithm
+Substantial Equivalence
+The UltraSight AI Guidance is as safe and effective as the Caption Health’s Caption Guidance. The
+UltraSight AI Guidance has the same intended uses and indications for use and similar technological
+characteristics, and principles of operation as its predicate device. The minor technological differences
+between the UltraSight AI Guidance and its predicate device raise no new issues of safety or
+effectiveness. Performance data demonstrate that the UltraSight AI Guidance is as safe and effective
+as Caption Health’s Caption Guidance. Thus, UltraSight AI Guidance is substantially equivalent to
+Caption Health’s Caption Guidance.UltraSight Ltd. SECTION 5 SUMMARY Page: 5-7 of 10
+Non-Clinical Performance Data
+The following testing was conducted to evaluate the device:
+1. Software moderate level of concern verification and validation testing was conducted as
+required by IEC 62304 and FDA Guidance on General Principles of Software Validation,
+January 11, 2002.
+2. UltraSight AI Guidance Algorithms’ standalone performance was validated with a number of
+standalone performance tests, see detailed description below.
+3. Human factors Validation: the system was validated with intended users in simulated use
+conditions to ensure the user needs and intended use requirements were met. All tasks,
+including a critical task, were met and no new issues of safety or effectiveness were raised.
+Non-Clinical Standalone Performance Testing of AI algorithms
+The Datasets used for algorithm development and performance testing are listed in Table 1:
+Table 1: Data used for Algorithm Development and Performance Testing
+Phase Algorithm development Performance tests for Quality Bar Performance test for View
+Detection and Guidance tests
+Number of 580 312 75
+subjects
+2.3 million frames
+Number of 5 million frames
+5,800 clips of ultrasound images
+samples of ultrasound images
+The data used for performance testing was collected at different sites, geographically separated, from
+the sites used for collection of the algorithm development data. The data used in the performance
+testing was collected from a population representative to the intended population.
+Performance Tests Overview
+The following features of the system were tested:
+• Quality bar
+• View detection (part of the quality bar functionality as explained below)
+• Probe Guidance
+Each feature of the system (Quality Bar, View Detection, Probe Guidance) was tested
+independently.UltraSight Ltd. SECTION 5 SUMMARY Page: 5-8 of 10
+Quality Bar:
+The quality bar is a score for image diagnosability. It represents the classification between high- and
+low-quality images, where high quality images are defined as grade 3 or more based on ACEP
+guidelines.
+The test was performed on 312 clips. Each clip in the dataset is associated with a target cardiac view
+and was annotated with a clip diagnosability label (diagnosable / non-diagnosable), by three
+cardiologists.
+The test assessed the classification performance between “diagnosable” and “non diagnosable” clips
+of each view. The mean AUC was 0.86 with 95% CI [0.85, 0.87] showing good classification
+performance, relative to the success criteria of AUC > 0.8. The mean PPV was 0.93 with 95% CI [0.92,
+0.94] relative to the success criteria of PPV > 0.75, showing good classification performance. Stratified
+analysis was performed, for each target cardiac view the AUC was greater than 0.8, and the PPV was
+above 0.75.
+View Detection:
+The system provides view detection classification that distinguishes between three system states:
+“Hold Position", “Navigate", and “No Heart". The test was performed on 75 subjects on a total of 2.3
+million frames of ultrasound images.
+The view detection classification performance is quantified for the classification tasks of “Hold position"
+vs. “Navigate" and “Hold position" vs. “No heart". The ground truth labels were defined on the frame
+level using annotation of expert sonographers. The mean AUC was 0.988 with 95% CI [0.985, 0.990]
+showing good classification performance, relative to the success criteria of AUC > 0.8. Stratified
+analysis was performed and showed that for each individual binary classification test the AUC was
+above 0.8.
+Probe Guidance:
+The system provides guidance cues when the heart is visible on the ultrasound image. To provide the
+correct guidance cues, the system needs to be able to identify the position and orientation of the probe
+relative to the target cardiac view. There are five possible guidance cues: rotations, tilts, rocks, and
+slides in the x (lateral-medial) and y (superior-inferior) directions.
+The testing was performed on 75 subjects on a total of 2.3 million frames of ultrasound images. The
+testing evaluated the frame level accuracy of each guidance cue prediction. For each guidance cue,
+a series of tests was defined to check if the guidance cue is functioning correctly in a particular direction
+(for example, clockwise rotations relative to 2C view, tilts up from PLAX). Each test was formulated as
+a binary classification test.
+The mean AUC was 0.821 with 95% CI [0.813, 0.827] showing good classification performance,
+relative to the success criteria of AUC > 0.8. Stratified tests show that individual classifiers have
+reasonable discrimination ability, and acceptable classifiers.UltraSight Ltd. SECTION 5 SUMMARY Page: 5-9 of 10
+Human factors Validation:
+The UltraSight AI Guide application underwent summative usability validation in accordance with the
+FDA Guidance Document, "Applying Human Factors and Usability Engineering to Medical Devices"
+(2016). All user tasks associated with the device were evaluated and critical tasks were identified for
+usability evaluation, where if performed incorrectly or not performed at all would or could cause serious
+harm. All participants successfully completed the testing sessions and performed the critical task
+identified in the study without any use errors, close calls, or other issues.
+Based on the results of the summative usability validation, it can be concluded that the UltraSight AI
+Guide application is deemed adequately safe and effective for its intended users, uses, and use
+environments.
+Clinical Performance Data
+Pilot Study
+A prospective single center, multi-reader multi-case (MRMC) study, primarily designed to obtain the
+quality of the clips obtained by medical professionals without specialized echocardiography training
+(non-expert users) when using the Ultrasound AI was conducted. Sixty-one (61) subjects were
+scanned twice, once by a non-expert user, using Philips Lumify with the UltraSight AI guidance; and,
+by a cardiac sonographer using the Philips Lumify hardware but without AI guidance. The clips
+acquired during those scans were reviewed by a panel of 5 expert cardiologists blinded to whether the
+clip was acquired by a non-expert user or a sonographer and to each other’s evaluations. The
+cardiologists assessed whether the non-expert users’ scans were of sufficient quality for the expert
+readers to make qualitative visual assessment of left ventricular (LV) size, LV function, right ventricular
+(RV) size, and the presence of nontrivial pericardial effusion. Six additional echocardiographic
+parameters were visually assessed as secondary endpoints: qualitative assessment of RV function;
+left atrium size; structural assessment of the aortic, mitral, and tricuspid valves; and qualitative
+assessment of IVC size.
+The exams performed by the non-expert users had sufficient visual quality in 100% of cases based on
+majority agreement to assess LV size and function, RV size, and pericardial effusion. For the
+secondary endpoints, the exams performed by non-expert users had sufficient visual quality based on
+majority in 90-100% of cases to assess RV function, left atrium size, AV structure, MV structure, TV
+structure, and IVC size. Furthermore, the exams performed by non-expert users had sufficient
+diagnostic quality based on majority in 80% to 100% of cases to assess PLAX, PSAX AV, PSAX MV,
+PSAX PM, AP2, AP3, AP5, Sub4C and SC-IVC. In addition, most clips (range 78.6-97.9%) taken by
+the non-expert users had a diagnostic quality score of 3 of higher based on American College of
+Emergency Physicians (ACEP) scale.
+Pivotal Study
+A prospective multi center, multi-reader multi-case (MRMC) pivotal clinical study was conducted to
+evaluate the use of UltraSight AI Guidance by medical professionals without specialized
+echocardiography training (non-expert/novice users).UltraSight Ltd. SECTION 5 SUMMARY Page: 5-10 of 10
+A total of 240 subjects were scanned twice, once by a non-expert user, using the Philips Lumify with
+the UltraSight AI guidance; and, by a cardiac sonographer using the Philips Lumify hardware but
+without AI guidance. The clips acquired during the scans were reviewed by a panel of 5 expert
+cardiologists blinded to whether the clip was acquired by a non-expert user or a sonographer and to
+each other’s evaluations. The cardiologists assessed whether the non-expert users’ scans were of
+sufficient quality for the expert readers to make qualitative visual assessment of left ventricular (LV)
+size, LV function, right ventricular (RV) size, and the presence of nontrivial pericardial effusion. Six
+additional echocardiographic parameters were visually assessed as secondary endpoints: qualitative
+assessment of RV function; left atrium size; structural assessment of the aortic, mitral, and tricuspid
+valves; and qualitative assessment of IVC size. For the 4 co-primary endpoints, the non-expert users’
+scans were judged to have adequate visual quality on the majority agreement to assess the clinical
+parameters in nearly all subjects, in 93-100% of cases. For the secondary endpoints, the percentage
+of exams performed by non-expert users that had sufficient visual quality based on majority agreement
+was 98% for MV structure, 94% for RV function and left atrium size, 89% for AV structure, 74% for TV
+structure, and 67% for IVC size. Assessment of intra-cardiologists’ variability using Cohen's kappa
+coefficient (κ) was assessed on a randomly selected 10% of the examinations on which a repeated
+assessment was performed. There was very good agreement among the cardiologists when
+assessing the primary endpoints. The results of the study showed that exams performed by non-expert
+users using the UltraSight AI Guidance Software can provide clips with sufficient diagnostic quality
+even immediately upon completion of training.
+Conclusions
+The UltraSight AI Guidance is substantially equivalent to Caption Health’s Caption Guidance. The
+UltraSight AI Guidance has the same intended use and indications for use and similar technological
+characteristics, and principles of operation as its predicate device. The minor technological differences
+between the UltraSight AI Guidance and its predicate device raise no new issues of safety or
+effectiveness. Non-clinical and clinical performance data demonstrate that the UltraSight AI Guidance
+performs as expected and in a manner that is substantially equivalent to its predicate device. Thus,
+the UltraSight AI Guidance is substantially equivalent.
