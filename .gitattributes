@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# raw downloads are stored byte-for-byte so MANIFEST.csv checksums match
+data/raw/** -text
