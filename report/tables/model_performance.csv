@@ -1,0 +1,12 @@
+model,metric,value
+Logistic (recall),AUC (ROC),0.8314253632218221
+Logistic (recall),AUC without validation variable,0.7908239418297343
+Logistic (recall),McFadden pseudo-R2,0.1942587140631773
+Logistic (recall),Brier score,0.05635228336345085
+Logistic (recall),LR test chi2 for validation (1 df),39.2458481582222
+Logistic (recall),LR test p-value,3.736620873963013e-10
+Negative binomial (adverse events),AIC,1351.0313258978235
+Negative binomial (adverse events),AIC of Poisson alternative,16298.699102862338
+Negative binomial (adverse events),McFadden pseudo-R2,0.05411945133214324
+Cox (time to recall),Concordance (Harrell's C),0.8006883772558007
+Cox (time to recall),Proportional-hazards test p (validation),0.14763421862584497

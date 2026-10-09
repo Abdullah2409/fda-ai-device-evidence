@@ -1,0 +1,238 @@
+---
+title: "Evidence at Clearance and Safety After: Clinical Validation and Recalls of FDA-Authorized AI Medical Devices"
+author: "Abdullah Arshad"
+date: today
+date-format: "MMMM D, YYYY"
+subtitle: "90-819 Python Programming II · Final Project"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    fig-width: 7
+  typst:
+    toc: false
+    fig-width: 6.5
+    papersize: us-letter
+    margin:
+      x: 1in
+      y: 0.9in
+jupyter: fda-ai-device-evidence
+execute:
+  echo: false
+  warning: false
+---
+
+```{python}
+#| label: setup
+import pandas as pd
+from IPython.display import Markdown
+
+T = "tables/"
+dev = pd.read_csv("../data/processed/devices.csv")
+model = dev[dev["in_model_sample"] == 1]
+rates = pd.read_csv(T + "outcome_rates_by_validation.csv")
+logit = pd.read_csv(T + "table2_logistic_recall.csv", index_col=0)
+nb = pd.read_csv(T + "table3_negbin_adverse_events.csv", index_col=0)
+nbfit = pd.read_csv(T + "table3b_ae_model_fit.csv").iloc[0]
+cox = pd.read_csv(T + "table4_cox_time_to_recall.csv", index_col=0)
+share = pd.read_csv(T + "validation_share_by_year.csv", index_col=0)
+years = pd.read_csv(T + "authorizations_by_year.csv", index_col=0)
+manifest = pd.read_csv("../data/raw/MANIFEST.csv")
+perf_tbl = pd.read_csv(T + "model_performance.csv")
+perf = {(m, k): v for m, k, v in perf_tbl.itertuples(index=False)}
+LOGIT, NBM, COX = "Logistic (recall)", "Negative binomial (adverse events)", "Cox (time to recall)"
+base_rate = model["recalled"].mean()
+brier_null = base_rate * (1 - base_rate)  # Brier score of always predicting the base rate
+
+def rate(v, outcome):
+    return rates.query("validated == @v and outcome == @outcome")["rate"].iloc[0]
+
+def ci(t, row, col, label=True):
+    r = t.loc[row]
+    inner = f"95% CI {r['ci_low']:.2f}–{r['ci_high']:.2f}" if label else f"{r['ci_low']:.2f}–{r['ci_high']:.2f}"
+    return f"{r[col]:.2f} ({inner})"
+
+n_all, n_model = len(dev), len(model)
+n_recalled, n_ae = int(model["recalled"].sum()), int(model["any_ae"].sum())
+or_val = logit.loc["Clinically validated", "odds_ratio"]
+pulled = manifest.loc[manifest["file"] == "data/raw/api/recalls.json", "pulled_utc"].iloc[0][:10]
+```
+
+## 1. Question
+
+Nearly all of the 1,600+ AI-enabled devices the FDA has authorized were cleared through the 510(k)
+pathway, which requires "substantial equivalence" to an existing device but no testing on patients.
+This project asks: **are AI devices cleared without reported clinical validation recalled more
+often, or reported for more adverse events, than devices backed by clinical testing?** It extends a
+2025 *JAMA Health Forum* recall study of 950 devices[^jama] to all `{python} f"{n_all:,}"` devices
+on the FDA's list, and adds adverse event reports.
+
+## 2. Data
+
+One row per device was built from seven public sources, pulled on `{python} pulled` and joined in
+SQLite on the FDA submission number or product code:
+
+| Source | Access | What it provides |
+|---|---|---|
+| FDA AI-Enabled Medical Device List[^ailist] | CSV download | Base table: decision date, company, specialty panel, product code |
+| FDA 510(k) clearance file (`pmn96cur`)[^pmn] | Bulk download | Date received (review time) |
+| openFDA device classification[^openfda] | Bulk JSON | Risk class |
+| openFDA PMA, recall and enforcement APIs | REST API | PMA dates; recalls and recall dates |
+| openFDA MAUDE adverse events | REST API | Adverse event reports per device |
+| 510(k), De Novo and PMA summaries[^summaries] | Web scraping (1,605 PDFs) | Whether the sponsor reported clinical validation |
+| SEC EDGAR company tickers[^sec] | JSON download | Public company status |
+
+## 3. Feature engineering and selection
+
+**Key variable: clinical validation.** A device counts as *clinically validated* if its summary
+reports testing on patients or patient data with a performance result, such as sensitivity or
+agreement with a reference standard. The testing section of each summary was extracted with
+`pdfplumber`[^software] and classified by Claude (Anthropic), which quoted its evidence for every
+decision.[^llm] On 100 summaries I hand-coded blind to its output, it agreed 90.4% of the time
+(Cohen's κ = 0.80),[^kappa] against κ = 0.61 for a keyword classifier.
+
+**Outcomes.** *Recalled*: any recall that began on or after authorization (earlier recalls of an
+older product line were excluded for 7 devices). *Adverse events*: the count of MAUDE reports.
+
+**Controls**, set in the analysis plan as factors that could drive both evidence and outcomes:
+
+* **Risk class** (class III vs. other; 99% are class II): higher-risk devices get stricter review
+  and closer monitoring.
+* **Specialty** (radiology, cardiovascular, neurology, other): evidence norms and reporting volume
+  differ by field.
+* **Public company**: large firms sell more units and recall and report more, as the *JAMA* study
+  found. Assigned by exact matching of normalized names to SEC registrants plus a table of parent
+  companies; fuzzy matching produced only false pairs and was rejected.
+* **Review time** (days from receipt to decision): a proxy for how complex the submission was.
+* **Years on market**: older devices have had more time to be recalled or reported.
+
+**Sample.** PMA supplements were excluded because their recall and MAUDE records are filed under
+the base PMA (one AI feature inherited over 42,000 reports for a whole defibrillator line), as were
+89 devices with no usable summary text. The model sample has **`{python} f"{n_model:,}"` devices**,
+`{python} n_recalled` of them recalled.
+
+The raw gap is large (@fig-outcomes), but the groups also differ on the controls: devices without
+validation have been on the market longer and come more often from public companies (@tbl-desc).
+
+```{python}
+#| label: fig-outcomes
+#| fig-cap: "Unadjusted post-market outcomes by reported clinical validation (95% CI)."
+from IPython.display import Image
+Image("figures/fig3_outcomes_by_validation.png")
+```
+
+```{python}
+#| label: tbl-desc
+#| tbl-cap: "Characteristics of the model sample by reported clinical validation."
+desc = pd.read_csv(T + "table1_descriptives.csv", index_col=0)
+fmt = desc.copy().astype(object)
+for r in desc.index:
+    fmt.loc[r] = [f"{v:,.0f}" if r in ("Devices", "Adverse event reports, total", "Review time, median days")
+                  else f"{v:.1f}" for v in desc.loc[r]]
+Markdown(fmt.to_markdown(disable_numparse=True, colalign=('left', 'right', 'right', 'right')))
+```
+
+## 4. Models
+
+* **Recall** (yes/no): logistic regression.[^logit]
+* **Adverse events** (counts): negative binomial regression with an offset of log(years on market),
+  so it compares reports per year. Poisson was rejected: dispersion
+  `{python} f"{nbfit['poisson_dispersion']:.0f}"` (1 expected), AIC
+  `{python} f"{nbfit['aic_poisson']:,.0f}"` vs. `{python} f"{nbfit['aic_nb']:,.0f}"`.[^ct]
+* **Robustness:** a Cox model of time to first recall,[^cox] since newer devices have had less time
+  to be recalled, and standard errors clustered by company, since one recall can cover several of a
+  firm's devices.[^cluster]
+
+## 5. Evaluation
+
+```{python}
+#| label: tbl-perf
+#| tbl-cap: "Model performance."
+rows = [
+    ("Recall: logistic", "AUC (ROC)", f"{perf[(LOGIT, 'AUC (ROC)')]:.2f} (without validation: {perf[(LOGIT, 'AUC without validation variable')]:.2f})"),
+    ("", "McFadden pseudo-R²", f"{perf[(LOGIT, 'McFadden pseudo-R2')]:.2f}"),
+    ("", "Brier score", f"{perf[(LOGIT, 'Brier score')]:.3f} (base-rate model: {brier_null:.3f})"),
+    ("", "LR test, validation (1 df)", f"χ² = {perf[(LOGIT, 'LR test chi2 for validation (1 df)')]:.1f}, p < 0.001"),
+    ("Time to recall: Cox", "Concordance (Harrell's C)", f"{perf[(COX, 'Concordance (Harrell' + chr(39) + 's C)')]:.2f}"),
+    ("", "PH assumption test", f"p = {perf[(COX, 'Proportional-hazards test p (validation)')]:.2f}"),
+    ("Adverse events: neg. binomial", "AIC", f"{perf[(NBM, 'AIC')]:,.0f} (Poisson: {perf[(NBM, 'AIC of Poisson alternative')]:,.0f})"),
+    ("", "McFadden pseudo-R²", f"{perf[(NBM, 'McFadden pseudo-R2')]:.2f}"),
+]
+Markdown(pd.DataFrame(rows, columns=["Model", "Metric", "Value"]).to_markdown(index=False, disable_numparse=True))
+```
+
+The recall model discriminates well (AUC[^auc] `{python} f"{perf[(LOGIT, 'AUC (ROC)')]:.2f}"`;
+Cox concordance[^harrell] `{python} f"{perf[(COX, 'Concordance (Harrell' + chr(39) + 's C)')]:.2f}"`),
+and adding validation raises the AUC from
+`{python} f"{perf[(LOGIT, 'AUC without validation variable')]:.2f}"`, so validation carries
+information beyond the controls. Its predicted probabilities improve only modestly on the base
+rate (Brier score), as expected when only `{python} f"{base_rate:.0%}"` of devices are recalled.
+The Cox model's proportional-hazards assumption holds. The adverse event model explains little
+(McFadden pseudo-R²[^mcfadden] `{python} f"{perf[(NBM, 'McFadden pseudo-R2')]:.2f}"`), since
+`{python} f"{nbfit['share_zero']:.0%}"` of devices have no reports.
+
+## 6. Results and interpretation
+
+```{python}
+#| label: tbl-models
+#| tbl-cap: "Adjusted associations with post-market outcomes (estimate, 95% CI). All models include risk class, specialty, public company status and review time; the logistic model also includes years on market, which the other two models handle as time at risk."
+rows = [("Clinically validated", "validated"), ("Public company", "public_company")]
+out = pd.DataFrame({
+    "Recall, odds ratio": [ci(logit, a, "odds_ratio", False) for a, _ in rows],
+    "Time to recall, hazard ratio": [ci(cox, b, "hazard_ratio", False) for _, b in rows],
+    "Adverse event rate ratio": [ci(nb, a, "incidence_rate_ratio", False) for a, _ in rows],
+}, index=[a for a, _ in rows])
+Markdown(out.to_markdown(disable_numparse=True))
+```
+
+**Recalls.** Validated devices had `{python} f"{(1 - or_val):.0%}"` lower odds of recall (odds
+ratio `{python} ci(logit, "Clinically validated", "odds_ratio")`): devices **without** reported
+validation had about `{python} f"{1 / or_val:.1f}"` times the odds. Company-clustered errors
+(95% CI `{python} f"{logit.loc['Clinically validated', 'ci_low_cluster']:.2f}–{logit.loc['Clinically validated', 'ci_high_cluster']:.2f}"`)
+and the Cox model agree, and the recall curves separate within the first year (@fig-km).[^km]
+Public companies' devices also had far higher odds of recall
+(`{python} f"{logit.loc['Public company', 'odds_ratio']:.1f}"`), close to the *JAMA* estimate of 5.9.
+
+```{python}
+#| label: fig-km
+#| fig-cap: "Cumulative share of devices recalled since authorization (Kaplan–Meier, 95% CI)."
+Image("figures/fig5_time_to_recall_km.png")
+```
+
+**Adverse events.** The adjusted rate was lower for validated devices, but the interval includes 1;
+specialty and company type account for most of the raw gap.
+
+**Limitations.** This is an association, not a causal effect: unvalidated devices are often AI
+features on CT, MRI and ultrasound platforms whose recalls may involve the hardware. Recalls are
+rare (`{python} n_recalled` events). MAUDE counts reflect reporting behavior as well as harm. The
+coding depends on what sponsors wrote and disagreed with hand-coding on about 1 in 10 devices. The
+FDA list is not comprehensive, and public status is as of the pull date.
+
+**Implication.** Even after adjustment, AI devices cleared without reported testing on patient data
+had about four times the odds of recall, and about
+`{python} f"{1 - share.loc[2025, 'share_validated']:.0%}"` of recent clearances still report none.
+This supports requiring, or at least publicly reporting, clinical testing before 510(k) clearance.
+
+## Data and code
+
+Code, raw and cleaned data, data dictionary and the hand-coded sample:
+<https://github.com/Abdullah2409/fda-ai-device-evidence>. `python run_all.py` reproduces every
+table and figure.
+
+[^jama]: *JAMA Health Forum* (2025). Recalls of FDA-cleared AI-enabled medical devices (950 devices, 60 with recalls). <https://jamanetwork.com/journals/jama-health-forum/fullarticle/2837802>. Related work: *PLOS Digital Health* (2026), <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13489462/>; *Lancet Digital Health* (2023), <https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00126-7/fulltext>.
+[^ailist]: U.S. FDA, Artificial Intelligence-Enabled Medical Devices list, <https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices>, downloaded `{python} pulled`.
+[^pmn]: U.S. FDA, Downloadable 510(k) Files, `pmn96cur.zip`, <https://www.fda.gov/medical-devices/510k-clearances/downloadable-510k-files>.
+[^openfda]: openFDA device endpoints (classification, PMA, recall, enforcement, event), <https://open.fda.gov/apis/device/>. openFDA refreshes weekly; pull dates are recorded in `data/raw/MANIFEST.csv`.
+[^summaries]: FDA 510(k), De Novo and PMA summary documents, <https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm>.
+[^sec]: U.S. SEC EDGAR, `company_tickers.json`, <https://www.sec.gov/files/company_tickers.json>.
+[^llm]: Clinical validation was coded by Claude Sonnet 5 (Anthropic), run as parallel subagents in Claude Code in October 2026. The full prompt is in `src/05b_llm_batches.py`; every decision and supporting quote is in `data/interim/validation_llm.csv`. Claude (Opus 5.5) also assisted with writing the analysis code and drafting this report, under the course's Tier 4 GenAI policy.
+[^kappa]: Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and Psychological Measurement*, 20(1), 37–46.
+[^ct]: Cameron, A. C., & Trivedi, P. K. (2013). *Regression Analysis of Count Data* (2nd ed.). Cambridge University Press.
+[^cox]: Cox, D. R. (1972). Regression models and life-tables. *Journal of the Royal Statistical Society, Series B*, 34(2), 187–220.
+[^logit]: Hosmer, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). *Applied Logistic Regression* (3rd ed.). Wiley.
+[^cluster]: Cameron, A. C., & Miller, D. L. (2015). A practitioner's guide to cluster-robust inference. *Journal of Human Resources*, 50(2), 317–372.
+[^auc]: Hanley, J. A., & McNeil, B. J. (1982). The meaning and use of the area under a receiver operating characteristic (ROC) curve. *Radiology*, 143(1), 29–36.
+[^mcfadden]: McFadden, D. (1974). Conditional logit analysis of qualitative choice behavior. In P. Zarembka (Ed.), *Frontiers in Econometrics* (pp. 105–142). Academic Press.
+[^harrell]: Harrell, F. E., Califf, R. M., Pryor, D. B., Lee, K. L., & Rosati, R. A. (1982). Evaluating the yield of medical tests. *JAMA*, 247(18), 2543–2546.
+[^km]: Kaplan, E. L., & Meier, P. (1958). Nonparametric estimation from incomplete observations. *Journal of the American Statistical Association*, 53(282), 457–481.
+[^software]: Analysis in Python with pandas, SQLite, pdfplumber (Singer-Vine, <https://github.com/jsvine/pdfplumber>), statsmodels (Seabold, S., & Perktold, J. (2010). Statsmodels: Econometric and statistical modeling with Python. *Proceedings of the 9th Python in Science Conference*, 92–96), lifelines (Davidson-Pilon, C. (2019). lifelines: survival analysis in Python. *Journal of Open Source Software*, 4(40), 1317), scikit-learn and matplotlib.
