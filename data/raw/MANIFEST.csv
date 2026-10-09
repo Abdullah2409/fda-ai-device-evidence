@@ -1,0 +1,10 @@
+file,source,pulled_utc,bytes,sha256
+data/raw/ai_device_list.csv,https://www.fda.gov/media/178541/download?attachment,2026-10-05 22:52,141468,b1efeb680371f44cae574ae5a5aa548ac8a63391e6888a007b17177d17527880
+data/raw/api/maude_events.json,"https://api.fda.gov/device/event.json (search pma_pmn_number; 510(k)/De Novo in batches of 200, PMA one at a time)",2026-10-05 22:48,32722899,84ba4d62a188ae936dcccaa24643b976157342fccffbbc576a418ee667015990
+data/raw/api/maude_pma_totals.json,"https://api.fda.gov/device/event.json (search pma_pmn_number per PMA, limit=1, meta.results.total)",2026-10-05 22:48,303,e6b0f5d864699ca9e2cf0583f51c848cb25bbdaf21f6a2b54f8e50c33f7e6c8b
+data/raw/api/pma_ai_devices.json,"https://api.fda.gov/device/pma.json?search=pma_number:(""P000041"" OR ""P010034"" OR ""P040028"" OR ""P090012"" OR ""P110014"" OR ""P130020"" OR ""P140011"" OR ""P150043"" OR ""P150046"" OR ""P160009"" OR ""P200003"" OR ""P210011"" OR ""P210015"" OR ""P220012"" OR ""P230022"" OR ""P250008"" OR ""P940029"" OR ""P950009"" OR ""P970058"" OR ""P980016"" OR ""P980025"")",2026-10-05 22:52,3238547,374b283ce0eaeb730ffa9cb5b3b2039ec9c557a4a536e440f5d06089238f49ef
+data/raw/api/recall_enforcement.json,https://api.fda.gov/device/enforcement.json (search recall_number in batches of 200),2026-10-05 22:47,7252683,3a842c6ae537b4fcdfc31a187ed11916f54d6e6f9ba1e693ab6aa69bcb45529b
+data/raw/api/recalls.json,https://api.fda.gov/device/recall.json (search k_numbers / pma_numbers in batches of 200),2026-10-05 22:47,11659655,0a8389d020cd4ba27d086ed83974a808dc58582030f3258ca9b98577533a2c17
+data/raw/classification.json.zip,https://download.open.fda.gov/device/classification/device-classification-0001-of-0001.json.zip,2026-10-05 22:52,3273748,9ce0e3ed8bb5156bf5fd618c1802dee301b83f00ac4646837f27b2b4ebfe450c
+data/raw/company_tickers.json,https://www.sec.gov/files/company_tickers.json (saved manually in a browser),2026-10-05 22:52,798727,eb943bdc3d233f54644ba916f261651460a0b94f6fbf29dbf3c1788271b17bf9
+data/raw/pmn96cur.zip,https://www.accessdata.fda.gov/premarket/ftparea/pmn96cur.zip,2026-10-05 22:52,6924291,3b96c8d15610b809a639f43a8020e48c806a2ab9ee76752373856af38345a9a6
